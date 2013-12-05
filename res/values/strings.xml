@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title"></string>
+    <string name="remedy_list">List of remedies</string>
+    <string name="repertory">Repertory</string>
+    <string name="references">References</string>
+
+</resources>
