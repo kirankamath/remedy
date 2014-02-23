@@ -50,6 +50,7 @@ public class EditorMain extends JFrame {
 	private JButton removeSymptomButton;
 	private JButton addSymptomButton;
 	private JButton addToCurrentSymptomsButton;
+	private JButton removeCurrentSymptomButton;
 
 	private JPanel createRemedyListPanel() {
 		addRemedyButton = new JButton("Add");
@@ -116,11 +117,12 @@ public class EditorMain extends JFrame {
 					// Clear all other buttons/text.
 					chosenRemedyName.setText("");
 					removeRemedyButton.setEnabled(false);
-					return;
+				} else {
+					String remedy = remedyListModel.get(selectedIndex);
+					chosenRemedyName.setText(remedy);
+					removeRemedyButton.setEnabled(true);
 				}
-				String remedy = remedyListModel.get(selectedIndex);
-				chosenRemedyName.setText(remedy);
-				removeRemedyButton.setEnabled(true);
+				updateButtonState();
 			}
 		});
 
@@ -139,7 +141,6 @@ public class EditorMain extends JFrame {
 				remedyName.setText("");
 			}
 		});
-
 
 		c.gridx = 0; c.gridy = 4;
 		c.gridwidth = 1; c.gridheight = 1;
@@ -176,13 +177,19 @@ public class EditorMain extends JFrame {
 			addSymptomButton.setEnabled(false);
 		}
 
-		boolean enabled = false;
 		int selectedSymptomIndex = symptomList.getSelectedIndex();
 		if (selectedSymptomIndex != -1 && selectedCategoryIndex != -1) {
-			enabled = true;
+			removeSymptomButton.setEnabled(true);
+			int selectedRemedyIndex = remedyList.getSelectedIndex();
+			if (selectedRemedyIndex != -1) {
+				addToCurrentSymptomsButton.setEnabled(true);
+			} else {
+				addToCurrentSymptomsButton.setEnabled(false);
+			}
+		} else {
+			removeSymptomButton.setEnabled(false);
+			addToCurrentSymptomsButton.setEnabled(false);
 		}
-		removeSymptomButton.setEnabled(enabled);
-		addToCurrentSymptomsButton.setEnabled(enabled);
 	}
 
 	private JPanel createCategoryPanel() {
@@ -424,12 +431,16 @@ public class EditorMain extends JFrame {
 
 		chosenRemedyName = new JTextField(20);
 		chosenRemedyName.setEditable(false);
+		removeCurrentSymptomButton = new JButton("Remove");
+		removeCurrentSymptomButton.setEnabled(false);
+
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
 		panel.add(chosenRemedyName, c);
 
 		currentSymptomListModel = new DefaultListModel<>();
 		currentSymptomList = new JList<>(currentSymptomListModel);
+		ListSelectionModel selectionModel = currentSymptomList.getSelectionModel();
 		JScrollPane scrollPane = new JScrollPane(currentSymptomList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridx = 0; c.gridy++;
@@ -438,6 +449,19 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.BOTH;
 		panel.add(scrollPane, c);
 
+		selectionModel.addListSelectionListener(new ListSelectionListener() {
+
+			@Override
+			public void valueChanged(ListSelectionEvent e) {
+				int selectedIndex = currentSymptomList.getSelectedIndex();
+				if (selectedIndex == -1) {
+					removeCurrentSymptomButton.setEnabled(false);
+				} else {
+					removeCurrentSymptomButton.setEnabled(true);
+				}
+			}
+		});
+
 		JPanel buttonPanel = new JPanel();
 		c.gridx = 0; c.gridy += 3;
 		c.gridwidth = 1; c.gridheight = 1;
@@ -445,9 +469,9 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.HORIZONTAL;
 		JButton saveButton = new JButton("Save");
 		buttonPanel.add(saveButton);
-		JButton removeButton = new JButton("Remove");
-		buttonPanel.add(removeButton);
-		removeButton.addActionListener(new ActionListener() {
+
+		buttonPanel.add(removeCurrentSymptomButton);
+		removeCurrentSymptomButton.addActionListener(new ActionListener() {
 
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
