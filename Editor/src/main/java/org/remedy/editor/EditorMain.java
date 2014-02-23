@@ -32,6 +32,13 @@ public class EditorMain extends JFrame {
 	private JList<String> currentCategoryList;
 	private DefaultListModel<String> currentCategoryListModel;
 
+	private JList<String> symptomList;
+	private DefaultListModel<String> symptomListModel;
+	private JTextField symptomName;
+
+	private JList<String> currentSymptomList;
+	private DefaultListModel<String> currentSymptomListModel;
+
 	private JPanel createRemedyListPanel() {
 		JPanel panel = new JPanel();
 		GridBagLayout layout = new GridBagLayout();
@@ -236,8 +243,9 @@ public class EditorMain extends JFrame {
 		c.weightx = 1.0;
 		panel.add(chosenCategory, c);
 
-		JList<String> categoryList = new JList<>();
-		JScrollPane scrollPane = new JScrollPane(categoryList);
+		currentSymptomListModel = new DefaultListModel<>();
+		currentSymptomList = new JList<>(currentSymptomListModel);
+		JScrollPane scrollPane = new JScrollPane(currentSymptomList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridx = 0; c.gridy++;
 		c.gridheight = 3; c.gridwidth = 3;
@@ -266,10 +274,10 @@ public class EditorMain extends JFrame {
 		c.gridy = 0;
 		c.insets = new Insets(3, 3, 3, 3);
 
-		JTextField categoryName = new JTextField(20);
+		symptomName = new JTextField(20);
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
-		panel.add(categoryName, c);
+		panel.add(symptomName, c);
 
 		JButton addButton = new JButton("Add");
 		c.gridx++;
@@ -277,14 +285,24 @@ public class EditorMain extends JFrame {
 		c.weightx = 0.0;
 		panel.add(addButton, c);
 
-		JList<String> categoryList = new JList<>();
-		JScrollPane scrollPane = new JScrollPane(categoryList);
+		symptomListModel = new DefaultListModel<>();
+		symptomList = new JList<>(symptomListModel);
+		JScrollPane scrollPane = new JScrollPane(symptomList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridy++; c.gridx = 0;
 		c.gridheight = 3; c.gridwidth = 3;
 		c.weighty = 1.0; c.weightx = 1.0;
 		c.fill = GridBagConstraints.BOTH;
 		panel.add(scrollPane, c);
+
+		addButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				symptomListModel.addElement(symptomName.getText());
+				symptomName.setText("");
+			}
+		});
 
 		c.gridx = 0; c.gridy += 3;
 		c.gridwidth = 1; c.gridheight = 1;
@@ -293,9 +311,31 @@ public class EditorMain extends JFrame {
 		JButton addToCurrent = new JButton("Add to this remedy");
 		panel.add(addToCurrent, c);
 
+		addToCurrent.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedIndex = symptomList.getSelectedIndex();
+				if (selectedIndex != -1) {
+					currentSymptomListModel.addElement(symptomListModel.get(selectedIndex));
+				}
+			}
+		});
+
 		c.gridx++;
 		JButton removeButton = new JButton("Remove");
 		panel.add(removeButton, c);
+
+		removeButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedIndex = symptomList.getSelectedIndex();
+				if (selectedIndex != -1) {
+					symptomListModel.remove(selectedIndex);
+				}
+			}
+		});
 
 		panel.setBorder(new TitledBorder("Symptom list"));
 		return panel;
