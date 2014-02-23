@@ -11,6 +11,16 @@ dependencies {
     testCompile 'org.testng:testng:6.8.1'
 }
 
+allprojects {
+    apply plugin: 'eclipse'
+
+    eclipse {
+        classpath {
+            downloadSources = true
+        }
+    }
+}
+
 test {
     useTestNG()
 }
