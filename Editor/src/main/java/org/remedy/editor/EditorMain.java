@@ -4,7 +4,10 @@ import java.awt.Container;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
+import javax.swing.DefaultListModel;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -17,6 +20,10 @@ import javax.swing.border.TitledBorder;
 
 @SuppressWarnings("serial")
 public class EditorMain extends JFrame {
+
+	private JTextField remedyName;
+	private JList<String> remedyList;
+	private DefaultListModel<String> remedyListModel;
 
 	public EditorMain() {
 		setSize(1024, 768);
@@ -78,16 +85,17 @@ public class EditorMain extends JFrame {
 		c.gridx = 1;
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
-		JTextField remedyName = new JTextField(20);
+		remedyName = new JTextField(20);
 		panel.add(remedyName, c);
 
-		JButton addButton = new JButton("Add");
+		JButton addRemedyButton = new JButton("Add");
 		c.gridx++;
 		c.fill = GridBagConstraints.NONE;
 		c.weightx = 0.0;
-		panel.add(addButton, c);
+		panel.add(addRemedyButton, c);
 
-		JList<String> remedyList = new JList<>();
+		remedyListModel = new DefaultListModel<>();
+		remedyList = new JList<>(remedyListModel);
 		JScrollPane scrollPane = new JScrollPane(remedyList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 
@@ -97,12 +105,29 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.BOTH;
 		panel.add(scrollPane, c);
 
+		addRemedyButton.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String remedy = remedyName.getText();
+				remedyListModel.addElement(remedy);
+				remedyName.setText("");
+			}
+		});
+
 		JButton removeButton = new JButton("Remove");
 		c.gridx = 0; c.gridy = 4;
 		c.gridwidth = 1; c.gridheight = 1;
 		c.weighty = 0.0; c.weightx = 0.0;
 		c.fill = GridBagConstraints.NONE;
 		panel.add(removeButton, c);
+
+		removeButton.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedItem = remedyList.getSelectedIndex();
+				remedyListModel.remove(selectedItem);
+			}
+		});
 
 		panel.setBorder(new TitledBorder("List of remedies"));
 		return panel;
