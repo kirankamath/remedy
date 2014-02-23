@@ -25,6 +25,13 @@ public class EditorMain extends JFrame {
 	private JList<String> remedyList;
 	private DefaultListModel<String> remedyListModel;
 
+	private JList<String> categoryList;
+	private DefaultListModel<String> categoryListModel;
+	private JTextField categoryName;
+
+	private JList<String> currentCategoryList;
+	private DefaultListModel<String> currentCategoryListModel;
+
 	private JPanel createRemedyListPanel() {
 		JPanel panel = new JPanel();
 		GridBagLayout layout = new GridBagLayout();
@@ -96,7 +103,7 @@ public class EditorMain extends JFrame {
 		c.gridy = 0;
 		c.insets = new Insets(3, 3, 3, 3);
 
-		JTextField categoryName = new JTextField(20);
+		categoryName = new JTextField(20);
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
 		panel.add(categoryName, c);
@@ -107,7 +114,8 @@ public class EditorMain extends JFrame {
 		c.weightx = 0.0;
 		panel.add(addButton, c);
 
-		JList<String> categoryList = new JList<>();
+		categoryListModel = new DefaultListModel<>();
+		categoryList = new JList<>(categoryListModel);
 		JScrollPane scrollPane = new JScrollPane(categoryList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridy++; c.gridx = 0;
@@ -116,16 +124,47 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.BOTH;
 		panel.add(scrollPane, c);
 
+		addButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String category = categoryName.getText();
+				categoryListModel.addElement(category);
+				categoryName.setText("");
+			}
+		});
+
 		c.gridx = 0; c.gridy += 3;
 		c.gridwidth = 1; c.gridheight = 1;
 		c.weighty = 0.0; c.weightx = 0.0;
 		c.fill = GridBagConstraints.NONE;
 		JButton addToCurrent = new JButton("Add to this remedy");
 		panel.add(addToCurrent, c);
+		addToCurrent.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedIndex = categoryList.getSelectedIndex();
+				if (selectedIndex != -1) {
+					String category = categoryListModel.get(selectedIndex);
+					currentCategoryListModel.addElement(category);
+				}
+			}
+		});
 
 		c.gridx = 1; c.gridy = 4;
 		JButton removeButton = new JButton("Remove");
 		panel.add(removeButton, c);
+		removeButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedIndex = categoryList.getSelectedIndex();
+				if (selectedIndex != -1) {
+					categoryListModel.remove(selectedIndex);
+				}
+			}
+		});
 
 		panel.setBorder(new TitledBorder("Categories"));
 		return panel;
@@ -148,8 +187,9 @@ public class EditorMain extends JFrame {
 		c.weightx = 1.0;
 		panel.add(chosenRemedy, c);
 
-		JList<String> categoryList = new JList<>();
-		JScrollPane scrollPane = new JScrollPane(categoryList);
+		currentCategoryListModel = new DefaultListModel<>();
+		currentCategoryList = new JList<>(currentCategoryListModel);
+		JScrollPane scrollPane = new JScrollPane(currentCategoryList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridx = 0; c.gridy++;
 		c.gridheight = 3; c.gridwidth = 3;
@@ -163,6 +203,16 @@ public class EditorMain extends JFrame {
 		c.weighty = 0.0; c.weightx = 0.0;
 		c.fill = GridBagConstraints.NONE;
 		panel.add(removeButton, c);
+		removeButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				int selectedIndex = currentCategoryList.getSelectedIndex();
+				if (selectedIndex != -1) {
+					currentCategoryListModel.remove(selectedIndex);
+				}
+			}
+		});
 
 		panel.setBorder(new TitledBorder("Current categories"));
 		return panel;
@@ -288,8 +338,7 @@ public class EditorMain extends JFrame {
 		JPanel currentSymptomPanel = createCurrentSymptomPanel();
 		mainPane.add(currentSymptomPanel, c);
 
-		c.gridx = 0;
-		c.gridy++;
+		c.gridx = 0; c.gridy++;
 		c.gridwidth = 6;
 		c.weightx = 1.0; c.weighty = 0.0;
 		c.insets.top = 20; c.insets.right = 10; c.insets.left = 10; c.insets.bottom = 20;
