@@ -1,5 +1,6 @@
 package org.remedy.editor;
 
+import java.awt.Color;
 import java.awt.Container;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
@@ -28,9 +29,6 @@ public class EditorMain extends JFrame {
 	private JList<String> categoryList;
 	private DefaultListModel<String> categoryListModel;
 	private JTextField categoryName;
-
-	private JList<String> currentCategoryList;
-	private DefaultListModel<String> currentCategoryListModel;
 
 	private JList<String> symptomList;
 	private DefaultListModel<String> symptomListModel;
@@ -145,21 +143,6 @@ public class EditorMain extends JFrame {
 		c.gridwidth = 1; c.gridheight = 1;
 		c.weighty = 0.0; c.weightx = 0.0;
 		c.fill = GridBagConstraints.NONE;
-		JButton addToCurrent = new JButton("Add to this remedy");
-		panel.add(addToCurrent, c);
-		addToCurrent.addActionListener(new ActionListener() {
-
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				int selectedIndex = categoryList.getSelectedIndex();
-				if (selectedIndex != -1) {
-					String category = categoryListModel.get(selectedIndex);
-					currentCategoryListModel.addElement(category);
-				}
-			}
-		});
-
-		c.gridx = 1; c.gridy = 4;
 		JButton removeButton = new JButton("Remove");
 		panel.add(removeButton, c);
 		removeButton.addActionListener(new ActionListener() {
@@ -177,54 +160,6 @@ public class EditorMain extends JFrame {
 		return panel;
 	}
 
-	private JPanel createCurrentCategoryPanel() {
-		JPanel panel = new JPanel();
-		GridBagLayout layout = new GridBagLayout();
-		panel.setLayout(layout);
-		GridBagConstraints c = new GridBagConstraints();
-		c.anchor = GridBagConstraints.NORTHWEST;
-		c.gridx = 0; c.gridy = 0;
-		c.insets = new Insets(3, 3, 3, 3);
-		panel.add(new JLabel("Chosen remedy"), c);
-
-		JTextField chosenRemedy = new JTextField(20);
-		chosenRemedy.setEditable(false);
-		c.gridx++;
-		c.fill = GridBagConstraints.HORIZONTAL;
-		c.weightx = 1.0;
-		panel.add(chosenRemedy, c);
-
-		currentCategoryListModel = new DefaultListModel<>();
-		currentCategoryList = new JList<>(currentCategoryListModel);
-		JScrollPane scrollPane = new JScrollPane(currentCategoryList);
-		scrollPane.setBorder(new BevelBorder(NORMAL));
-		c.gridx = 0; c.gridy++;
-		c.gridheight = 3; c.gridwidth = 3;
-		c.weighty = 1.0; c.weightx = 1.0;
-		c.fill = GridBagConstraints.BOTH;
-		panel.add(scrollPane, c);
-
-		JButton removeButton = new JButton("Remove");
-		c.gridx = 0; c.gridy += 3;
-		c.gridwidth = 1; c.gridheight = 1;
-		c.weighty = 0.0; c.weightx = 0.0;
-		c.fill = GridBagConstraints.NONE;
-		panel.add(removeButton, c);
-		removeButton.addActionListener(new ActionListener() {
-
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				int selectedIndex = currentCategoryList.getSelectedIndex();
-				if (selectedIndex != -1) {
-					currentCategoryListModel.remove(selectedIndex);
-				}
-			}
-		});
-
-		panel.setBorder(new TitledBorder("Current categories"));
-		return panel;
-	}
-
 	private JPanel createCurrentSymptomPanel() {
 		JPanel panel = new JPanel();
 		GridBagLayout layout = new GridBagLayout();
@@ -234,33 +169,39 @@ public class EditorMain extends JFrame {
 		c.anchor = GridBagConstraints.NORTHWEST;
 		c.gridx = 0; c.gridy = 0;
 		c.insets = new Insets(3, 3, 3, 3);
-		panel.add(new JLabel("Chosen category"), c);
 
-		JTextField chosenCategory = new JTextField(20);
-		chosenCategory.setEditable(false);
-		c.gridx++;
+		JTextField chosenRemedyName = new JTextField(20);
+		chosenRemedyName.setEditable(false);
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
-		panel.add(chosenCategory, c);
+		panel.add(chosenRemedyName, c);
 
 		currentSymptomListModel = new DefaultListModel<>();
 		currentSymptomList = new JList<>(currentSymptomListModel);
 		JScrollPane scrollPane = new JScrollPane(currentSymptomList);
 		scrollPane.setBorder(new BevelBorder(NORMAL));
 		c.gridx = 0; c.gridy++;
-		c.gridheight = 3; c.gridwidth = 3;
+		c.gridheight = 3; c.gridwidth = 2;
 		c.weighty = 1.0; c.weightx = 1.0;
 		c.fill = GridBagConstraints.BOTH;
 		panel.add(scrollPane, c);
 
-		JButton removeButton = new JButton("Remove");
+		JPanel buttonPanel = new JPanel();
 		c.gridx = 0; c.gridy += 3;
 		c.gridwidth = 1; c.gridheight = 1;
-		c.weighty = 0.0; c.weightx = 0.0;
-		c.fill = GridBagConstraints.NONE;
-		panel.add(removeButton, c);
+		c.weighty = 0.0; c.weightx = 1.0;
+		c.fill = GridBagConstraints.HORIZONTAL;
+		JButton saveButton = new JButton("Save");
+		buttonPanel.add(saveButton);
+		JButton removeButton = new JButton("Remove");
+		buttonPanel.add(removeButton);
 
-		panel.setBorder(new TitledBorder("Current symptoms"));
+		panel.add(buttonPanel, c);
+		TitledBorder border = new TitledBorder(
+				new BevelBorder(BevelBorder.LOWERED, Color.BLACK, Color.BLACK), "Current symptoms");
+		border.setTitleColor(Color.BLACK);
+		border.setTitleJustification(TitledBorder.CENTER);
+		panel.setBorder(border);
 		return panel;
 	}
 
@@ -308,7 +249,7 @@ public class EditorMain extends JFrame {
 		c.gridwidth = 1; c.gridheight = 1;
 		c.weighty = 0.0; c.weightx = 0.0;
 		c.fill = GridBagConstraints.NONE;
-		JButton addToCurrent = new JButton("Add to this remedy");
+		JButton addToCurrent = new JButton("Add to current symptoms");
 		panel.add(addToCurrent, c);
 
 		addToCurrent.addActionListener(new ActionListener() {
@@ -353,38 +294,27 @@ public class EditorMain extends JFrame {
 		c.anchor = GridBagConstraints.NORTHWEST;
 		c.weightx = 1.0;
 		c.weighty = 0.25;
-		c.gridwidth = 2;
+		c.gridwidth = 1;
 		c.fill = GridBagConstraints.BOTH;
 
 		JPanel remedyListPanel = createRemedyListPanel();
 		mainPane.add(remedyListPanel, c);
 
-		c.gridx += 2;
+		c.gridx++;
 		JPanel categoryPanel = createCategoryPanel();
 		mainPane.add(categoryPanel, c);
 
-		c.gridx += 2;
+		c.gridx++;
 		JPanel symptomListPanel = createSymptomListPanel();
 		mainPane.add(symptomListPanel, c);
 
 		c.gridx = 0; c.gridy++;
 		c.weightx = 1.0; c.weighty = 1.0;
 		c.gridwidth = 3;
+		c.insets.top = 20;
 		c.fill = GridBagConstraints.BOTH;
-		JPanel currentCategoryPanel = createCurrentCategoryPanel();
-		mainPane.add(currentCategoryPanel, c);
-
-		c.gridx += 3;
 		JPanel currentSymptomPanel = createCurrentSymptomPanel();
 		mainPane.add(currentSymptomPanel, c);
-
-		c.gridx = 0; c.gridy++;
-		c.gridwidth = 6;
-		c.weightx = 1.0; c.weighty = 0.0;
-		c.insets.top = 20; c.insets.right = 10; c.insets.left = 10; c.insets.bottom = 20;
-		c.fill = GridBagConstraints.HORIZONTAL;
-		JButton saveButton = new JButton("Save");
-		mainPane.add(saveButton, c);
 	}
 
 	public static void main(String[] args) {
