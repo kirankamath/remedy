@@ -139,6 +139,7 @@ public class EditorMain extends JFrame {
 				String remedy = remedyName.getText();
 				remedyListModel.addElement(remedy);
 				remedyName.setText("");
+				remedyList.setSelectedIndex(remedyListModel.getSize() - 1);
 			}
 		});
 
@@ -268,6 +269,7 @@ public class EditorMain extends JFrame {
 				String category = categoryName.getText();
 				categoryListModel.addElement(category);
 				categoryName.setText("");
+				categoryList.setSelectedIndex(categoryListModel.getSize() - 1);
 			}
 		});
 
@@ -370,6 +372,7 @@ public class EditorMain extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				symptomListModel.addElement(symptomName.getText());
 				symptomName.setText("");
+				symptomList.setSelectedIndex(symptomListModel.getSize() - 1);
 			}
 		});
 
