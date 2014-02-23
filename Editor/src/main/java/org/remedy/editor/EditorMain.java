@@ -160,51 +160,6 @@ public class EditorMain extends JFrame {
 		return panel;
 	}
 
-	private JPanel createCurrentSymptomPanel() {
-		JPanel panel = new JPanel();
-		GridBagLayout layout = new GridBagLayout();
-		panel.setLayout(layout);
-
-		GridBagConstraints c = new GridBagConstraints();
-		c.anchor = GridBagConstraints.NORTHWEST;
-		c.gridx = 0; c.gridy = 0;
-		c.insets = new Insets(3, 3, 3, 3);
-
-		JTextField chosenRemedyName = new JTextField(20);
-		chosenRemedyName.setEditable(false);
-		c.fill = GridBagConstraints.HORIZONTAL;
-		c.weightx = 1.0;
-		panel.add(chosenRemedyName, c);
-
-		currentSymptomListModel = new DefaultListModel<>();
-		currentSymptomList = new JList<>(currentSymptomListModel);
-		JScrollPane scrollPane = new JScrollPane(currentSymptomList);
-		scrollPane.setBorder(new BevelBorder(NORMAL));
-		c.gridx = 0; c.gridy++;
-		c.gridheight = 3; c.gridwidth = 2;
-		c.weighty = 1.0; c.weightx = 1.0;
-		c.fill = GridBagConstraints.BOTH;
-		panel.add(scrollPane, c);
-
-		JPanel buttonPanel = new JPanel();
-		c.gridx = 0; c.gridy += 3;
-		c.gridwidth = 1; c.gridheight = 1;
-		c.weighty = 0.0; c.weightx = 1.0;
-		c.fill = GridBagConstraints.HORIZONTAL;
-		JButton saveButton = new JButton("Save");
-		buttonPanel.add(saveButton);
-		JButton removeButton = new JButton("Remove");
-		buttonPanel.add(removeButton);
-
-		panel.add(buttonPanel, c);
-		TitledBorder border = new TitledBorder(
-				new BevelBorder(BevelBorder.LOWERED, Color.BLACK, Color.BLACK), "Current symptoms");
-		border.setTitleColor(Color.BLACK);
-		border.setTitleJustification(TitledBorder.CENTER);
-		panel.setBorder(border);
-		return panel;
-	}
-
 	private JPanel createSymptomListPanel() {
 		JPanel panel = new JPanel();
 		GridBagLayout layout = new GridBagLayout();
@@ -279,6 +234,51 @@ public class EditorMain extends JFrame {
 		});
 
 		panel.setBorder(new TitledBorder("Symptom list"));
+		return panel;
+	}
+
+	private JPanel createCurrentSymptomPanel() {
+		JPanel panel = new JPanel();
+		GridBagLayout layout = new GridBagLayout();
+		panel.setLayout(layout);
+
+		GridBagConstraints c = new GridBagConstraints();
+		c.anchor = GridBagConstraints.NORTHWEST;
+		c.gridx = 0; c.gridy = 0;
+		c.insets = new Insets(3, 3, 3, 3);
+
+		JTextField chosenRemedyName = new JTextField(20);
+		chosenRemedyName.setEditable(false);
+		c.fill = GridBagConstraints.HORIZONTAL;
+		c.weightx = 1.0;
+		panel.add(chosenRemedyName, c);
+
+		currentSymptomListModel = new DefaultListModel<>();
+		currentSymptomList = new JList<>(currentSymptomListModel);
+		JScrollPane scrollPane = new JScrollPane(currentSymptomList);
+		scrollPane.setBorder(new BevelBorder(NORMAL));
+		c.gridx = 0; c.gridy++;
+		c.gridheight = 3; c.gridwidth = 2;
+		c.weighty = 1.0; c.weightx = 1.0;
+		c.fill = GridBagConstraints.BOTH;
+		panel.add(scrollPane, c);
+
+		JPanel buttonPanel = new JPanel();
+		c.gridx = 0; c.gridy += 3;
+		c.gridwidth = 1; c.gridheight = 1;
+		c.weighty = 0.0; c.weightx = 1.0;
+		c.fill = GridBagConstraints.HORIZONTAL;
+		JButton saveButton = new JButton("Save");
+		buttonPanel.add(saveButton);
+		JButton removeButton = new JButton("Remove");
+		buttonPanel.add(removeButton);
+
+		panel.add(buttonPanel, c);
+		TitledBorder border = new TitledBorder(
+				new BevelBorder(BevelBorder.LOWERED, Color.BLACK, Color.BLACK), "Current symptoms");
+		border.setTitleColor(Color.BLACK);
+		border.setTitleJustification(TitledBorder.CENTER);
+		panel.setBorder(border);
 		return panel;
 	}
 
