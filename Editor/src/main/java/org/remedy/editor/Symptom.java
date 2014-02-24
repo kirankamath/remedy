@@ -16,4 +16,9 @@ class Symptom {
 	public String getDescription() {
 		return description;
 	}
+
+	@Override
+	public String toString() {
+		return category + "#" + description;
+	}
 }

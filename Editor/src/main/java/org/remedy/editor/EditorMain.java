@@ -13,7 +13,9 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.swing.DefaultListModel;
@@ -41,7 +43,7 @@ public class EditorMain extends JFrame {
 	private RemedyListModel remedyListModel;
 
 	private JList<String> categoryList;
-	private DefaultListModel<String> categoryListModel;
+	private CategoryListModel categoryListModel;
 	private JTextField categoryName;
 
 	private JList<String> symptomList;
@@ -62,6 +64,7 @@ public class EditorMain extends JFrame {
 	private JButton removeCurrentSymptomButton;
 
 	private Map<String, Remedy> remedyMap = new HashMap<>();
+	private Map<String, List<String>> categoryMap = new HashMap<>();
 
 	private JPanel createRemedyListPanel() {
 		addRemedyButton = new JButton("Add");
@@ -129,9 +132,10 @@ public class EditorMain extends JFrame {
 					chosenRemedyName.setText("");
 					removeRemedyButton.setEnabled(false);
 				} else {
-					String remedy = remedyListModel.get(selectedIndex);
-					chosenRemedyName.setText(remedy);
+					String remedyName = remedyListModel.get(selectedIndex);
+					chosenRemedyName.setText(remedyName);
 					removeRemedyButton.setEnabled(true);
+					updateCurrentSymptoms();
 				}
 				updateButtonState();
 			}
@@ -265,7 +269,7 @@ public class EditorMain extends JFrame {
 		c.weightx = 0.0;
 		panel.add(addCategoryButton, c);
 
-		categoryListModel = new DefaultListModel<>();
+		categoryListModel = new CategoryListModel(categoryMap);
 		categoryList = new JList<>(categoryListModel);
 		ListSelectionModel selectionModel = categoryList.getSelectionModel();
 		JScrollPane scrollPane = new JScrollPane(categoryList);
@@ -280,6 +284,15 @@ public class EditorMain extends JFrame {
 			@Override
 			public void valueChanged(ListSelectionEvent e) {
 				updateButtonState();
+				int selectedCategoryIndex = categoryList.getSelectedIndex();
+				if (selectedCategoryIndex != -1) {
+					// Clear the current list of symptoms and update with the new list.
+					symptomListModel.clear();
+					List<String> symptoms = categoryListModel.getSymptoms(selectedCategoryIndex);
+					for (String symptom: symptoms) {
+						symptomListModel.addElement(symptom);
+					}
+				}
 			}
 		});
 
@@ -288,7 +301,7 @@ public class EditorMain extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				String category = categoryName.getText();
-				categoryListModel.addElement(category);
+				categoryListModel.addCategory(category);
 				categoryName.setText("");
 				categoryList.setSelectedIndex(categoryListModel.getSize() - 1);
 			}
@@ -306,7 +319,8 @@ public class EditorMain extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				int selectedIndex = categoryList.getSelectedIndex();
 				if (selectedIndex != -1) {
-					categoryListModel.remove(selectedIndex);
+					String category = categoryListModel.get(selectedIndex);
+					categoryListModel.removeCategory(category);
 				}
 			}
 		});
@@ -419,8 +433,11 @@ public class EditorMain extends JFrame {
 					return;
 				}
 				String category = categoryListModel.get(selectedCategoryIndex);
-				String symptom = symptomListModel.get(selectedSymptomIndex);
-				currentSymptomListModel.addElement(category + ": " + symptom);
+				String symptomName = symptomListModel.get(selectedSymptomIndex);
+				Symptom symptom = new Symptom(category, symptomName);
+				Remedy remedy = remedyMap.get(chosenRemedyName.getText());
+				remedy.addSymptom(symptom);
+				updateCurrentSymptoms();
 			}
 		});
 
@@ -441,6 +458,18 @@ public class EditorMain extends JFrame {
 
 		panel.setBorder(new TitledBorder("Symptom list"));
 		return panel;
+	}
+
+	private void updateCurrentSymptoms() {
+		String remedyName = chosenRemedyName.getText();
+		currentSymptomListModel.clear();
+		if (remedyName.length() == 0) {
+			return;
+		}
+		Remedy remedy = remedyMap.get(remedyName);
+		for (Symptom s: remedy.getSymptoms()) {
+			currentSymptomListModel.addElement(s.getCategory() + " -- " + s.getDescription());
+		}
 	}
 
 	private JPanel createCurrentSymptomPanel() {
@@ -519,7 +548,7 @@ public class EditorMain extends JFrame {
 					Remedy remedy = remedyMap.get(remedyName);
 					assert remedy != null;
 					for (Symptom symptom: remedy.getSymptoms()) {
-						output.write(symptom.toString());
+						output.write(symptom.toString() + "\n");
 					}
 					output.close();
 				} catch (IOException e) {
@@ -585,6 +614,12 @@ public class EditorMain extends JFrame {
 				String[] chunks = line.split("#");
 				Symptom symptom = new Symptom(chunks[0], chunks[1]);
 				remedy.addSymptom(symptom);
+				List<String> symptoms = categoryMap.get(chunks[0]);
+				if (symptoms == null) {
+					symptoms = new ArrayList<>();
+					categoryMap.put(chunks[0], symptoms);
+				}
+				symptoms.add(chunks[1]);
 			}
 			input.close();
 
