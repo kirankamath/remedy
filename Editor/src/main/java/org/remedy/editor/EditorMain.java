@@ -13,8 +13,11 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
@@ -481,10 +484,17 @@ public class EditorMain extends JFrame {
 			return;
 		}
 		Remedy remedy = remedyMap.get(remedyName);
+		List<String> symptoms = new ArrayList<>();
 		for (Symptom s: remedy.getSymptoms()) {
-			currentSymptomListModel.addElement(s.getCategory().toUpperCase(Locale.ENGLISH) +
+			symptoms.add(s.getCategory().toUpperCase(Locale.ENGLISH) +
 					" -- " + s.getDescription());
 		}
+		Collections.sort(symptoms);
+
+		for (String s: symptoms) {
+			currentSymptomListModel.addElement(s);
+		}
+
 	}
 
 	private JPanel createCurrentSymptomPanel() {
@@ -626,6 +636,13 @@ public class EditorMain extends JFrame {
 			BufferedReader input = new BufferedReader(new FileReader(remedyFile));
 			String line;
 			while ((line = input.readLine()) != null) {
+				if (line.startsWith("#")) {
+					continue;
+				}
+				if (line.trim().length() == 0) {
+					continue;
+				}
+
 				String[] chunks = line.split("#");
 				Symptom symptom = new Symptom(chunks[0], chunks[1]);
 				remedy.addSymptom(symptom);
