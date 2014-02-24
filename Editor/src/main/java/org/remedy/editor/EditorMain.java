@@ -7,6 +7,14 @@ import java.awt.GridBagLayout;
 import java.awt.Insets;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;
@@ -27,9 +35,10 @@ import javax.swing.event.ListSelectionListener;
 @SuppressWarnings("serial")
 public class EditorMain extends JFrame {
 
-	private JTextField remedyName;
+	private static final String REMEDY_DIR = "remedyList";
+	private JTextField remedyNameText;
 	private JList<String> remedyList;
-	private DefaultListModel<String> remedyListModel;
+	private RemedyListModel remedyListModel;
 
 	private JList<String> categoryList;
 	private DefaultListModel<String> categoryListModel;
@@ -52,15 +61,17 @@ public class EditorMain extends JFrame {
 	private JButton addToCurrentSymptomsButton;
 	private JButton removeCurrentSymptomButton;
 
+	private Map<String, Remedy> remedyMap = new HashMap<>();
+
 	private JPanel createRemedyListPanel() {
 		addRemedyButton = new JButton("Add");
 		removeRemedyButton = new JButton("Remove");
-		remedyName = new JTextField(20);
+		remedyNameText = new JTextField(20);
 
-		remedyName.getDocument().addDocumentListener(new DocumentListener() {
+		remedyNameText.getDocument().addDocumentListener(new DocumentListener() {
 
 			private void documentChanged() {
-				if (remedyName.getText().length() == 0) {
+				if (remedyNameText.getText().length() == 0) {
 					addRemedyButton.setEnabled(false);
 				} else {
 					addRemedyButton.setEnabled(true);
@@ -95,14 +106,14 @@ public class EditorMain extends JFrame {
 		c.gridx = 1;
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.weightx = 1.0;
-		panel.add(remedyName, c);
+		panel.add(remedyNameText, c);
 
 		c.gridx++;
 		c.fill = GridBagConstraints.NONE;
 		c.weightx = 0.0;
 		panel.add(addRemedyButton, c);
 
-		remedyListModel = new DefaultListModel<>();
+		remedyListModel = new RemedyListModel(remedyMap);
 		remedyList = new JList<>(remedyListModel);
 		ListSelectionModel selectionModel = remedyList.getSelectionModel();
 		JScrollPane scrollPane = new JScrollPane(remedyList);
@@ -136,9 +147,15 @@ public class EditorMain extends JFrame {
 		addRemedyButton.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				String remedy = remedyName.getText();
-				remedyListModel.addElement(remedy);
-				remedyName.setText("");
+				String remedyName = remedyNameText.getText();
+				Remedy remedy = remedyMap.get(remedyName);
+				if (remedy == null) {
+					remedy = new Remedy(remedyName);
+					remedyMap.put(remedyName, remedy);
+					remedyListModel.update();
+				}
+
+				remedyNameText.setText("");
 				remedyList.setSelectedIndex(remedyListModel.getSize() - 1);
 			}
 		});
@@ -154,7 +171,11 @@ public class EditorMain extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				int selectedItem = remedyList.getSelectedIndex();
-				remedyListModel.remove(selectedItem);
+				if (selectedItem != -1) {
+					String remedyName = remedyListModel.get(selectedItem);
+					remedyMap.remove(remedyName);
+					remedyListModel.update();
+				}
 			}
 		});
 
@@ -472,8 +493,8 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.HORIZONTAL;
 		JButton saveButton = new JButton("Save");
 		buttonPanel.add(saveButton);
-
 		buttonPanel.add(removeCurrentSymptomButton);
+
 		removeCurrentSymptomButton.addActionListener(new ActionListener() {
 
 			@Override
@@ -486,6 +507,27 @@ public class EditorMain extends JFrame {
 			}
 		});
 
+		saveButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				// Save the currently selected remedy to the file.
+				String remedyName = chosenRemedyName.getText();
+				File file = new File(REMEDY_DIR + "/" + remedyName);
+				try {
+					BufferedWriter output = new BufferedWriter(new FileWriter(file));
+					Remedy remedy = remedyMap.get(remedyName);
+					assert remedy != null;
+					for (Symptom symptom: remedy.getSymptoms()) {
+						output.write(symptom.toString());
+					}
+					output.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		});
+
 		panel.add(buttonPanel, c);
 		TitledBorder border = new TitledBorder(
 				new BevelBorder(BevelBorder.LOWERED, Color.BLACK, Color.BLACK), "Current symptoms");
@@ -495,7 +537,7 @@ public class EditorMain extends JFrame {
 		return panel;
 	}
 
-	public EditorMain() {
+	public EditorMain() throws IOException {
 		setSize(1024, 768);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 		setTitle("Remedy editor");
@@ -528,9 +570,29 @@ public class EditorMain extends JFrame {
 		c.fill = GridBagConstraints.BOTH;
 		JPanel currentSymptomPanel = createCurrentSymptomPanel();
 		mainPane.add(currentSymptomPanel, c);
+
+		loadRemedyMap();
 	}
 
-	public static void main(String[] args) {
+	private void loadRemedyMap() throws IOException {
+		File dir = new File(REMEDY_DIR);
+		for (File remedyFile : dir.listFiles()) {
+			String remedyName = remedyFile.getName();
+			Remedy remedy = new Remedy(remedyName);
+			BufferedReader input = new BufferedReader(new FileReader(remedyFile));
+			String line;
+			while ((line = input.readLine()) != null) {
+				String[] chunks = line.split("#");
+				Symptom symptom = new Symptom(chunks[0], chunks[1]);
+				remedy.addSymptom(symptom);
+			}
+			input.close();
+
+			remedyMap.put(remedyName, remedy);
+		}
+	}
+
+	public static void main(String[] args) throws IOException {
 		EditorMain editorMain = new EditorMain();
 		editorMain.setVisible(true);
 	}
