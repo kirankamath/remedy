@@ -15,6 +15,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -405,9 +406,22 @@ public class EditorMain extends JFrame {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				symptomListModel.addElement(symptomName.getText());
+				String symptomDescription = symptomName.getText();
+				symptomListModel.addElement(symptomDescription);
 				symptomName.setText("");
 				symptomList.setSelectedIndex(symptomListModel.getSize() - 1);
+
+				int selectedCategoryIndex = categoryList.getSelectedIndex();
+				assert selectedCategoryIndex != -1;
+
+				String remedyName = chosenRemedyName.getText();
+				if (remedyName.length() > 0) {
+					// Add the entry to the current remedy and update.
+					Remedy remedy = remedyMap.get(remedyName);
+					remedy.addSymptom(new Symptom(
+							categoryListModel.get(selectedCategoryIndex), symptomDescription));
+					updateCurrentSymptoms();
+				}
 			}
 		});
 
@@ -468,7 +482,8 @@ public class EditorMain extends JFrame {
 		}
 		Remedy remedy = remedyMap.get(remedyName);
 		for (Symptom s: remedy.getSymptoms()) {
-			currentSymptomListModel.addElement(s.getCategory() + " -- " + s.getDescription());
+			currentSymptomListModel.addElement(s.getCategory().toUpperCase(Locale.ENGLISH) +
+					" -- " + s.getDescription());
 		}
 	}
 
