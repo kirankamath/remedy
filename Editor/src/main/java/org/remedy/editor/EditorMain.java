@@ -13,10 +13,10 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;
@@ -64,7 +64,7 @@ public class EditorMain extends JFrame {
 	private JButton removeCurrentSymptomButton;
 
 	private Map<String, Remedy> remedyMap = new HashMap<>();
-	private Map<String, List<String>> categoryMap = new HashMap<>();
+	private Map<String, Set<String>> categoryMap = new HashMap<>();
 
 	private JPanel createRemedyListPanel() {
 		addRemedyButton = new JButton("Add");
@@ -288,7 +288,7 @@ public class EditorMain extends JFrame {
 				if (selectedCategoryIndex != -1) {
 					// Clear the current list of symptoms and update with the new list.
 					symptomListModel.clear();
-					List<String> symptoms = categoryListModel.getSymptoms(selectedCategoryIndex);
+					Iterable<String> symptoms = categoryListModel.getSymptoms(selectedCategoryIndex);
 					for (String symptom: symptoms) {
 						symptomListModel.addElement(symptom);
 					}
@@ -614,9 +614,9 @@ public class EditorMain extends JFrame {
 				String[] chunks = line.split("#");
 				Symptom symptom = new Symptom(chunks[0], chunks[1]);
 				remedy.addSymptom(symptom);
-				List<String> symptoms = categoryMap.get(chunks[0]);
+				Set<String> symptoms = categoryMap.get(chunks[0]);
 				if (symptoms == null) {
-					symptoms = new ArrayList<>();
+					symptoms = new HashSet<>();
 					categoryMap.put(chunks[0], symptoms);
 				}
 				symptoms.add(chunks[1]);
