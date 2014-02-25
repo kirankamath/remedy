@@ -38,7 +38,10 @@ public class CategoryListModel extends AbstractListModel<String> {
 
 	public Iterable<String> getSymptoms(int index) {
 		String key = get(index);
-		return categoryMap.get(key);
+		Set<String> s = categoryMap.get(key);
+		List<String> sortedList = new ArrayList<>(s);
+		Collections.sort(sortedList);
+		return sortedList;
 	}
 
 	public void addCategory(String category) {
