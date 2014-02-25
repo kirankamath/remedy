@@ -673,8 +673,7 @@ public class EditorMain extends JFrame {
         for (File remedyFile : dir.listFiles()) {
             String remedyName = remedyFile.getName();
             Remedy remedy = new Remedy(remedyName);
-            BufferedReader input = new BufferedReader(
-                    new FileReader(remedyFile));
+            BufferedReader input = new BufferedReader(new FileReader(remedyFile));
             String line;
             while ((line = input.readLine()) != null) {
                 if (line.startsWith("#")) {
@@ -685,12 +684,13 @@ public class EditorMain extends JFrame {
                 }
 
                 String[] chunks = line.split("#");
-                Symptom symptom = new Symptom(chunks[0], chunks[1]);
+                String category = chunks[0].toLowerCase(Locale.ENGLISH);
+                Symptom symptom = new Symptom(category, chunks[1]);
                 remedy.addSymptom(symptom);
-                Set<String> symptoms = categoryMap.get(chunks[0]);
+                Set<String> symptoms = categoryMap.get(category);
                 if (symptoms == null) {
                     symptoms = new HashSet<>();
-                    categoryMap.put(chunks[0], symptoms);
+                    categoryMap.put(category, symptoms);
                 }
                 symptoms.add(chunks[1]);
             }
