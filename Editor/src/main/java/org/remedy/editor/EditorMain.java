@@ -66,6 +66,7 @@ public class EditorMain extends JFrame {
     private JButton addSymptomButton;
     private JButton addToCurrentSymptomsButton;
     private JButton removeCurrentSymptomButton;
+    private JTextField dosageField;
 
     private Map<String, Remedy> remedyMap = new HashMap<>();
     private Map<String, Set<String>> categoryMap = new HashMap<>();
@@ -137,9 +138,12 @@ public class EditorMain extends JFrame {
                     // Clear all other buttons/text.
                     chosenRemedyName.setText("");
                     removeRemedyButton.setEnabled(false);
+                    dosageField.setText("");
+                    currentSymptomListModel.clear();
                 } else {
-                    String remedyName = remedyListModel.get(selectedIndex);
-                    chosenRemedyName.setText(remedyName);
+                    Remedy remedy = remedyListModel.getRemedyAt(selectedIndex);
+                    chosenRemedyName.setText(remedy.getName());
+                    dosageField.setText(remedy.getDosage());
                     removeRemedyButton.setEnabled(true);
                     updateCurrentSymptoms();
                 }
@@ -568,13 +572,6 @@ public class EditorMain extends JFrame {
         });
 
         JPanel buttonPanel = new JPanel();
-        c.gridx = 0;
-        c.gridy += 3;
-        c.gridwidth = 1;
-        c.gridheight = 1;
-        c.weighty = 0.0;
-        c.weightx = 1.0;
-        c.fill = GridBagConstraints.HORIZONTAL;
         JButton saveButton = new JButton("Save");
         buttonPanel.add(saveButton);
         buttonPanel.add(removeCurrentSymptomButton);
@@ -611,6 +608,11 @@ public class EditorMain extends JFrame {
                     for (String s : symptoms) {
                         output.write(s + "\n");
                     }
+
+                    String dosage = dosageField.getText();
+                    if (dosage.length() > 0) {
+                        output.write("dosage#" + dosage);
+                    }
                     output.close();
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -618,6 +620,23 @@ public class EditorMain extends JFrame {
             }
         });
 
+        c.gridx = 0; c.gridy += 3;
+        c.gridwidth = 1; c.gridheight = 1;
+        c.weighty = 0.0; c.weightx = 0.0;
+        c.fill = GridBagConstraints.NONE;
+        JLabel dosageLabel = new JLabel("Dosage");
+        panel.add(dosageLabel, c);
+
+        dosageField = new JTextField(20);
+        c.gridx = 1;
+        c.weighty = 0.0; c.weightx = 3.0;
+        c.fill = GridBagConstraints.HORIZONTAL;
+        panel.add(dosageField, c);
+
+        c.gridx = 0; c.gridy++;
+        c.gridwidth = 1; c.gridheight = 3;
+        c.weighty = 0.0; c.weightx = 1.0;
+        c.fill = GridBagConstraints.HORIZONTAL;
         panel.add(buttonPanel, c);
         TitledBorder border = new TitledBorder(new BevelBorder(
                 BevelBorder.LOWERED, Color.BLACK, Color.BLACK),
@@ -665,7 +684,21 @@ public class EditorMain extends JFrame {
         JPanel currentSymptomPanel = createCurrentSymptomPanel();
         mainPane.add(currentSymptomPanel, c);
 
+        c.gridy++;
+        c.weightx = 1.0;
+        c.weighty = 0.0;
+        c.gridwidth = 3;
+        c.insets.top = 5;
+        c.fill = GridBagConstraints.HORIZONTAL;
+        mainPane.add(createExtraDetailsPanel(), c);
+
         loadRemedyMap();
+    }
+
+    private JPanel createExtraDetailsPanel() {
+        JPanel panel = new JPanel();
+
+        return panel;
     }
 
     private void loadRemedyMap() throws IOException {
@@ -675,8 +708,14 @@ public class EditorMain extends JFrame {
             Remedy remedy = new Remedy(remedyName);
             BufferedReader input = new BufferedReader(new FileReader(remedyFile));
             String line;
+            String dosage = "";
             while ((line = input.readLine()) != null) {
                 if (line.startsWith("#")) {
+                    continue;
+                }
+                if (line.startsWith("dosage#")) {
+                    String[] chunks = line.split("#");
+                    dosage = chunks[1];
                     continue;
                 }
                 if (line.trim().length() == 0) {
@@ -695,6 +734,10 @@ public class EditorMain extends JFrame {
                 symptoms.add(chunks[1]);
             }
             input.close();
+
+            if (dosage.length() > 0) {
+                remedy.setDosage(dosage);
+            }
 
             remedyMap.put(remedyName, remedy);
         }

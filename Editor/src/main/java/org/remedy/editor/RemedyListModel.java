@@ -35,6 +35,11 @@ public class RemedyListModel extends AbstractListModel<String> {
 		return getElementAt(index);
 	}
 
+	public Remedy getRemedyAt(int index) {
+	    String remedyName = getElementAt(index);
+	    return remedyMap.get(remedyName);
+	}
+
 	public void update() {
 		fireContentsChanged(this, 0, getSize());
 	}

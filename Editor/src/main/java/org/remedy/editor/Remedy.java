@@ -44,6 +44,7 @@ public class Remedy {
 	}
 
 	private final String name;
+	private String dosage;
 	private final Set<Symptom> symptoms;
 
 	public Remedy(String name) {
@@ -66,4 +67,12 @@ public class Remedy {
 	public String toString() {
 		return name;
 	}
+
+    public String getDosage() {
+        return dosage;
+    }
+
+    public void setDosage(String dosage) {
+        this.dosage = dosage;
+    }
 }
