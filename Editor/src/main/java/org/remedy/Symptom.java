@@ -1,6 +1,6 @@
-package org.remedy.editor;
+package org.remedy;
 
-class Symptom {
+public class Symptom {
 	@Override
 	public int hashCode() {
 		final int prime = 31;

@@ -1,4 +1,4 @@
-package org.remedy.editor;
+package org.remedy;
 
 import java.util.HashSet;
 import java.util.Set;

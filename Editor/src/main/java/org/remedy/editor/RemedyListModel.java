@@ -8,6 +8,8 @@ import java.util.Set;
 
 import javax.swing.AbstractListModel;
 
+import org.remedy.Remedy;
+
 public class RemedyListModel extends AbstractListModel<String> {
 
 	private static final long serialVersionUID = 2587502852879516447L;

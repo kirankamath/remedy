@@ -38,6 +38,9 @@ import javax.swing.event.DocumentListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+import org.remedy.Remedy;
+import org.remedy.Symptom;
+
 @SuppressWarnings("serial")
 public class EditorMain extends JFrame {
 
