@@ -2,15 +2,21 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.remedy" >
 
-    <uses-sdk android:targetSdkVersion="19" android:minSdkVersion="11" />
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
 
-    <application android:label="@string/app_title" >
-        <activity android:name="RemedyActivity" >
+    <application android:label="@string/app_title" android:icon="@drawable/ic_launcher" >
+        <activity android:name="org.remedy.RemedyActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="org.remedy.RemedyListActivity"
+            android:label="@string/title_activity_remedy_list" >
         </activity>
     </application>
 
