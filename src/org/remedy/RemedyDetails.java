@@ -1,7 +1,13 @@
 package org.remedy;
 
 
-import org.remedy.db.Remedy;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+
 import org.remedy.db.RemedyDAO;
 
 import android.app.Activity;
@@ -32,11 +38,32 @@ public class RemedyDetails extends Activity {
         String remedyName = (String)intent.getSerializableExtra(REMEDY_NAME);
 
         RemedyDAO remedyDAO = new RemedyDAO();
-        Remedy remedy = remedyDAO.getRemedyDetails(remedyName);
+
+        // XXX(kkamath): Make this async.
+        Remedy remedy = remedyDAO.getRemedyDetails(this, remedyName);
         remedyDetailsHeader.setText(remedy.getDetails());
 
+        List<String> symptomStrList = new ArrayList<String>();
+        Map<String, List<String>> categoryMap = new HashMap<String, List<String>>();
+        Iterable<Symptom> symptoms = remedy.getSymptoms();
+        for (Symptom symptom: symptoms) {
+            if (categoryMap.containsKey(symptom.getCategory())) {
+                categoryMap.get(symptom.getCategory()).add(symptom.getDescription());
+            }
+        }
+
+        Iterator<Entry<String, List<String>>> iter = categoryMap.entrySet().iterator();
+        while (iter.hasNext()) {
+            Entry<String, List<String>> entry = iter.next();
+            symptomStrList.add(entry.getKey());
+
+            for (String desc: entry.getValue()) {
+                symptomStrList.add("  " + desc);
+            }
+        }
+
         ArrayAdapter<String> remedyDetailsHeader = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, remedy.getSymptoms());
+                android.R.layout.simple_list_item_1, symptomStrList);
         remedySymptomList.setAdapter(remedyDetailsHeader);
 
         remedyDosage.setText(remedy.getDosage());
