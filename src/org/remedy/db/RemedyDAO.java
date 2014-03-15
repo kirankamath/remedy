@@ -14,7 +14,7 @@ import android.database.sqlite.SQLiteDatabase;
 public class RemedyDAO {
 
     public Remedy getRemedyDetails(Context context, String remedyName) {
-        MyDatabase database = new MyDatabase(context);
+        RemedyDatabase database = new RemedyDatabase(context);
         SQLiteDatabase db = database.getReadableDatabase();
         String[] selectionArgs = new String[1];
         selectionArgs[0] = remedyName;
@@ -22,7 +22,10 @@ public class RemedyDAO {
         String details = "";
         String dosage = "";
         {
-            Cursor cursor = db.rawQuery("select details, dosage from remedy where name = ? ",
+            Cursor cursor = db.rawQuery("select " + RemedyContract.Entry.COLUMN_DETAILS +
+                    " , " + RemedyContract.Entry.COLUMN_DOSAGE +
+                    " from " + RemedyContract.Entry.TABLE_NAME + " where " +
+                    RemedyContract.Entry.COLUMN_NAME + " = ? ",
                     selectionArgs);
 
             boolean notEmpty = cursor.moveToFirst();
@@ -45,9 +48,9 @@ public class RemedyDAO {
                     SymptomListContract.Entry.TABLE_NAME + " s, " +
                     RemedySymptomContract.Entry.TABLE_NAME + " rs " +
                     " where r.name = ? and " +
-                    " r.id = rs.remedyid and " + // Join from Remedy to RemedySymptom.
-                    " rs.symptomid = s.id and " + // Join from RemedySymptom to Symptom.
-                    " s.catid = c.id", // Join from Symptom to Category.
+                    " r.id = rs.remedy_id and " + // Join from Remedy to RemedySymptom.
+                    " rs.symptom_id = s.id and " + // Join from RemedySymptom to Symptom.
+                    " s.cat_id = c.id", // Join from Symptom to Category.
                     selectionArgs);
             boolean notEmpty = cursor.moveToFirst();
             do {
