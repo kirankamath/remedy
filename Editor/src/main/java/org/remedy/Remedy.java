@@ -44,12 +44,13 @@ public class Remedy {
 	}
 
 	private final String name;
+	private String details;
 	private String dosage;
 	private final Set<Symptom> symptoms;
 
 	public Remedy(String name) {
 		this.name = name;
-		this.symptoms = new HashSet<>();
+		this.symptoms = new HashSet<Symptom>();
 	}
 
 	public Iterable<Symptom> getSymptoms() {
@@ -64,7 +65,8 @@ public class Remedy {
 		return name;
 	}
 
-	public String toString() {
+	@Override
+    public String toString() {
 		return name;
 	}
 
@@ -74,5 +76,13 @@ public class Remedy {
 
     public void setDosage(String dosage) {
         this.dosage = dosage;
+    }
+
+    public String getDetails() {
+        return details;
+    }
+
+    public void setDetails(String details) {
+        this.details = details;
     }
 }
