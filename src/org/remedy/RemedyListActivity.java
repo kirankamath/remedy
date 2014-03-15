@@ -1,14 +1,20 @@
 package org.remedy;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 
 public class RemedyListActivity extends Activity {
+
+    private static final int SHOW_REMEDY_DETAILS_REQUEST = 10;
 
     private ListView remedyList;
     private EditText inputSearch;
@@ -44,5 +50,13 @@ public class RemedyListActivity extends Activity {
             }
         });
 
+        remedyList.setOnItemClickListener(new OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent(RemedyListActivity.this, RemedyDetails.class);
+                intent.putExtra(RemedyDetails.REMEDY_NAME, remedyListAdapter.getItem(position));
+                startActivityForResult(intent, SHOW_REMEDY_DETAILS_REQUEST);
+            }
+        });
     }
 }

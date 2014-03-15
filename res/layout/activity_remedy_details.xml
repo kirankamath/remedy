@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/remedy_details_header"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" />
+
+    <ListView
+        android:id="@+id/remedy_symptom_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    
+    <TextView
+        android:id="@+id/remedy_dosage_details"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" />
+
+</LinearLayout>
