@@ -6,7 +6,6 @@ import com.readystatesoftware.sqliteasset.SQLiteAssetHelper;
 
 public class RemedyDatabase extends SQLiteAssetHelper {
 
-    // XXX(kkamath): see if we need to zip the db.
     private static final String DATABASE_NAME = "remedy";
     private static final int DATABASE_VERSION = 1;
 
