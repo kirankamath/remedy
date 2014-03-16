@@ -28,6 +28,7 @@ public class RemedyListActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_remedy_list);
+        setTitle("List of remedies");
 
         RemedyDAO remedyDao = new RemedyDAO();
         List<String> remedyStrList = remedyDao.getRemedyNames(this);

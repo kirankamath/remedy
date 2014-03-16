@@ -30,12 +30,13 @@ public class RemedyDetails extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_remedy_details);
 
+        Intent intent = getIntent();
+        String remedyName = (String)intent.getSerializableExtra(REMEDY_NAME);
+        setTitle("Details for " + remedyName);
+
         remedyDetailsHeader = (TextView) findViewById(R.id.remedy_details_header);
         remedySymptomList = (ListView) findViewById(R.id.remedy_symptom_list);
         remedyDosage = (TextView) findViewById(R.id.remedy_dosage_details);
-
-        Intent intent = getIntent();
-        String remedyName = (String)intent.getSerializableExtra(REMEDY_NAME);
 
         RemedyDAO remedyDAO = new RemedyDAO();
 

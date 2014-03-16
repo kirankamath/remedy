@@ -8,7 +8,8 @@
 
     <application
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_title" >
+        android:label="@string/app_title"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
         <activity android:name="org.remedy.RemedyActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
