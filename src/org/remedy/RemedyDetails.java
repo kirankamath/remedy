@@ -48,8 +48,10 @@ public class RemedyDetails extends Activity {
         Iterable<Symptom> symptoms = remedy.getSymptoms();
         for (Symptom symptom: symptoms) {
             if (categoryMap.containsKey(symptom.getCategory())) {
-                categoryMap.get(symptom.getCategory()).add(symptom.getDescription());
+            } else {
+                categoryMap.put(symptom.getCategory(), new ArrayList<String>());
             }
+            categoryMap.get(symptom.getCategory()).add(symptom.getDescription());
         }
 
         Iterator<Entry<String, List<String>>> iter = categoryMap.entrySet().iterator();
@@ -58,7 +60,7 @@ public class RemedyDetails extends Activity {
             symptomStrList.add(entry.getKey());
 
             for (String desc: entry.getValue()) {
-                symptomStrList.add("  " + desc);
+                symptomStrList.add("   " + desc);
             }
         }
 
