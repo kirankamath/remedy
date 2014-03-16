@@ -1,5 +1,8 @@
 package org.remedy.db;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.remedy.Remedy;
 import org.remedy.Symptom;
 import org.remedy.db.contract.CategoryContract;
@@ -64,5 +67,23 @@ public class RemedyDAO {
 
         db.close();
         return remedy;
+    }
+
+    public List<String> getRemedyNames(Context context) {
+        List<String> remedyNames = new ArrayList<String>();
+        RemedyDatabase database = new RemedyDatabase(context);
+        SQLiteDatabase db = database.getReadableDatabase();
+        {
+            Cursor cursor = db.rawQuery(" select name from " + RemedyContract.Entry.TABLE_NAME, null);
+            boolean notEmpty = cursor.moveToFirst();
+            do {
+                String name = cursor.getString(0);
+                remedyNames.add(name);
+                notEmpty = cursor.moveToNext();
+            } while (notEmpty);
+            cursor.close();
+        }
+        db.close();
+        return remedyNames;
     }
 }

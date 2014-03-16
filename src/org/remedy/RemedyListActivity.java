@@ -1,5 +1,9 @@
 package org.remedy;
 
+import java.util.List;
+
+import org.remedy.db.RemedyDAO;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -25,8 +29,8 @@ public class RemedyListActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_remedy_list);
 
-        String[] remedyStrList = new String[] {"abies canadensis",
-                "abies nigra", "abrotanum", "absinthium"};
+        RemedyDAO remedyDao = new RemedyDAO();
+        List<String> remedyStrList = remedyDao.getRemedyNames(this);
         remedyList = (ListView) findViewById(R.id.remedy_list);
         inputSearch = (EditText) findViewById(R.id.remedy_list_inputSearch);
 

@@ -12,5 +12,6 @@ public class RemedyDatabase extends SQLiteAssetHelper {
 
     public RemedyDatabase(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        setForcedUpgradeVersion(DATABASE_VERSION);
     }
 }

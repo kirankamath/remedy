@@ -65,5 +65,6 @@ conn.commit()
 
 # Zip up the DB.
 full_db_name = os.path.join(database_dir, db_name)
+os.system("rm %s.zip" % full_db_name)
 os.system("zip %s.zip %s.db" % (full_db_name, full_db_name))
 os.system("rm %s.db" % full_db_name)
