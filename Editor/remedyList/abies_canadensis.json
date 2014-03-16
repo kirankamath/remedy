@@ -1,18 +1,18 @@
 {
     "symptoms": {
-        "head": [
+        "Head": [
             "Feels light-headed", 
             "Tipsy", 
             "Irritable"
         ], 
-        "fever": [
+        "Fever": [
             "Cold shiverings as if blood were ice water", 
             "Chills run down back", 
             "Cold water feeling between shoulders", 
             "Skin clammy and sticky", 
             "Night-sweat"
         ], 
-        "stomach": [
+        "Stomach": [
             "Canine hunger", 
             "Faint feeling in upper abdomen just over the stomach", 
             "Great appetite. Craving for meat, pickles, radishes, turnips, artichokes, coarse food", 
@@ -21,14 +21,14 @@
             "Pain in right shoulder blade", 
             "Constipation with burning in rectum"
         ], 
-        "genetalia": [
+        "Genetalia": [
             "Watery discharge from urethra"
         ], 
-        "chest": [
+        "Chest": [
             "Difficulty breathing", 
             "Right lung and liver feel small and hard"
         ], 
-        "female": [
+        "Female": [
             "Uterine displacements", 
             "Sore feeling at the top of the uterus, relieved by pressure.", 
             "Wants to lie down all the time", 

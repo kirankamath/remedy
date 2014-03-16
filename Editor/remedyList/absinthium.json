@@ -1,10 +1,10 @@
 {
     "symptoms": {
-        "extermeties": [
+        "Extermeties": [
             "Pain in limbs", 
             "Paralytic symptoms"
         ], 
-        "head": [
+        "Head": [
             "Dull occipital headache", 
             "Face blue", 
             "General confusion", 
@@ -13,12 +13,12 @@
             "Vertigo with tendency to fall backward", 
             "Wants head low"
         ], 
-        "stomach": [
+        "Stomach": [
             "Bloated around waist and abdomen", 
             "Nausea; retching; eructation", 
             "Wind colic"
         ], 
-        "mind": [
+        "Mind": [
             "Brutal", 
             "Forgets what has recently happened", 
             "Frightful visions", 
@@ -27,22 +27,22 @@
             "Wants nothing to do with anybody", 
             "hallucinations"
         ], 
-        "urine": [
+        "Urine": [
             "Constant desire; Very strong odor; deep yellow color"
         ], 
-        "chest": [
+        "Chest": [
             "Irregular, tumultous action of heart can be heard in back", 
             "Sensation of weight on chest"
         ], 
-        "mouth": [
+        "Mouth": [
             "Bites toungue; trembles; feels as if swollen and too large; protruding", 
             "Jaws fixed"
         ], 
-        "throat": [
+        "Throat": [
             "Scalded sensation", 
             "Scalded sensation; as of a lump"
         ], 
-        "sexual": [
+        "Sexual": [
             "Darting pain in right ovary", 
             "Spermatorrhoea, with relaxed, enfeebled parts", 
             "premature menopause"
