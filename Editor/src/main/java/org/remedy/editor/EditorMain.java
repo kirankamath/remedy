@@ -29,6 +29,7 @@ import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
+import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.ListSelectionModel;
 import javax.swing.border.BevelBorder;
@@ -72,6 +73,7 @@ public class EditorMain extends JFrame {
     private JButton addToCurrentSymptomsButton;
     private JButton removeCurrentSymptomButton;
     private JTextField dosageField;
+    private JTextArea detailsField;
 
     private Map<String, Remedy> remedyMap = new HashMap<>();
     private Map<String, Set<String>> globalCategoryMap = new HashMap<>();
@@ -144,11 +146,13 @@ public class EditorMain extends JFrame {
                     chosenRemedyName.setText("");
                     removeRemedyButton.setEnabled(false);
                     dosageField.setText("");
+                    detailsField.setText("");
                     currentSymptomListModel.clear();
                 } else {
                     Remedy remedy = remedyListModel.getRemedyAt(selectedIndex);
                     chosenRemedyName.setText(remedy.getName());
                     dosageField.setText(remedy.getDosage());
+                    detailsField.setText(remedy.getDetails());
                     removeRemedyButton.setEnabled(true);
                     updateCurrentSymptoms();
                 }
@@ -604,6 +608,8 @@ public class EditorMain extends JFrame {
                     BufferedWriter output = new BufferedWriter(new FileWriter(file));
                     Remedy remedy = remedyMap.get(remedyName);
                     assert remedy != null;
+                    remedy.setDosage(dosageField.getText());
+                    remedy.setDetails(detailsField.getText());
                     GsonBuilder builder = new GsonBuilder();
                     builder.setPrettyPrinting();
                     Gson gson = builder.create();
@@ -627,6 +633,17 @@ public class EditorMain extends JFrame {
         c.weighty = 0.0; c.weightx = 3.0;
         c.fill = GridBagConstraints.HORIZONTAL;
         panel.add(dosageField, c);
+
+        JLabel detailsLabel = new JLabel("Details");
+        c.gridx = 0; c.gridy++;
+        panel.add(detailsLabel, c);
+
+        detailsField = new JTextArea(3, 20);
+        c.gridx++;
+        c.weighty = 1.0; c.weightx = 3.0;
+        c.fill = GridBagConstraints.BOTH;
+        detailsField.setText("");
+        panel.add(detailsField, c);
 
         c.gridx = 0; c.gridy++;
         c.gridwidth = 1; c.gridheight = 3;
