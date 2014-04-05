@@ -1,7 +1,9 @@
 package org.remedy;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.Map;
 
 public class Remedy {
 	@Override
@@ -43,22 +45,31 @@ public class Remedy {
 		return true;
 	}
 
-	private final String name;
+	private String name;
 	private String details;
 	private String dosage;
-	private final Set<Symptom> symptoms;
+	private final Map<String, Set<String>> symptoms;
+
+	public Remedy() {
+	    symptoms = new HashMap<String, Set<String>>();
+	}
 
 	public Remedy(String name) {
 		this.name = name;
-		this.symptoms = new HashSet<Symptom>();
+		symptoms = new HashMap<String, Set<String>>();
 	}
 
-	public Iterable<Symptom> getSymptoms() {
+	public Map<String, Set<String>> getSymptoms() {
 		return symptoms;
 	}
 
-	public void addSymptom(Symptom symptom) {
-		symptoms.add(symptom);
+	public void addSymptom(String category, String symptom) {
+	    Set<String> currentSymptoms = symptoms.get(category);
+		if (currentSymptoms == null) {
+		    currentSymptoms = new HashSet<String>();
+		    symptoms.put(category, currentSymptoms);
+		}
+		currentSymptoms.add(symptom);
 	}
 
 	public String getName() {

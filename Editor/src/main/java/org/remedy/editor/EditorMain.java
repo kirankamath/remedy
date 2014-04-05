@@ -39,7 +39,9 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 import org.remedy.Remedy;
-import org.remedy.Symptom;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 @SuppressWarnings("serial")
 public class EditorMain extends JFrame {
@@ -72,7 +74,7 @@ public class EditorMain extends JFrame {
     private JTextField dosageField;
 
     private Map<String, Remedy> remedyMap = new HashMap<>();
-    private Map<String, Set<String>> categoryMap = new HashMap<>();
+    private Map<String, Set<String>> globalCategoryMap = new HashMap<>();
 
     private JPanel createRemedyListPanel() {
         addRemedyButton = new JButton("Add");
@@ -288,7 +290,7 @@ public class EditorMain extends JFrame {
         c.weightx = 0.0;
         panel.add(addCategoryButton, c);
 
-        categoryListModel = new CategoryListModel(categoryMap);
+        categoryListModel = new CategoryListModel(globalCategoryMap);
         categoryList = new JList<>(categoryListModel);
         ListSelectionModel selectionModel = categoryList.getSelectionModel();
         JScrollPane scrollPane = new JScrollPane(categoryList);
@@ -447,8 +449,7 @@ public class EditorMain extends JFrame {
                 if (remedyName.length() > 0) {
                     // Add the entry to the current remedy and update.
                     Remedy remedy = remedyMap.get(remedyName);
-                    remedy.addSymptom(new Symptom(categoryListModel
-                            .get(selectedCategoryIndex), symptomDescription));
+                    remedy.addSymptom(categoryListModel.get(selectedCategoryIndex), symptomDescription);
                     updateCurrentSymptoms();
                 }
             }
@@ -480,9 +481,8 @@ public class EditorMain extends JFrame {
                 }
                 String category = categoryListModel.get(selectedCategoryIndex);
                 String symptomName = symptomListModel.get(selectedSymptomIndex);
-                Symptom symptom = new Symptom(category, symptomName);
                 Remedy remedy = remedyMap.get(chosenRemedyName.getText());
-                remedy.addSymptom(symptom);
+                remedy.addSymptom(category, symptomName);
                 updateCurrentSymptoms();
             }
         });
@@ -514,9 +514,10 @@ public class EditorMain extends JFrame {
         }
         Remedy remedy = remedyMap.get(remedyName);
         List<String> symptoms = new ArrayList<>();
-        for (Symptom s : remedy.getSymptoms()) {
-            symptoms.add(s.getCategory().toUpperCase(Locale.ENGLISH) + " -- "
-                    + s.getDescription());
+        Map<String, Set<String>> categoryMap = remedy.getSymptoms();
+        for (String category : categoryMap.keySet()) {
+            for (String symptom : categoryMap.get(category))
+                symptoms.add(category.toUpperCase(Locale.ENGLISH) + " -- " + symptom);
         }
         Collections.sort(symptoms);
 
@@ -597,25 +598,16 @@ public class EditorMain extends JFrame {
             public void actionPerformed(ActionEvent arg0) {
                 // Save the currently selected remedy to the file.
                 String remedyName = chosenRemedyName.getText();
-                File file = new File(REMEDY_DIR + "/" + remedyName);
+                String remedyFileName = remedyName.replace(" ", "_");
+                File file = new File(REMEDY_DIR + "/" + remedyFileName + ".json");
                 try {
                     BufferedWriter output = new BufferedWriter(new FileWriter(file));
                     Remedy remedy = remedyMap.get(remedyName);
                     assert remedy != null;
-                    List<String> symptoms = new ArrayList<>();
-                    for (Symptom symptom : remedy.getSymptoms()) {
-                        symptoms.add(symptom.toString());
-                    }
-                    Collections.sort(symptoms);
-
-                    for (String s : symptoms) {
-                        output.write(s + "\n");
-                    }
-
-                    String dosage = dosageField.getText();
-                    if (dosage.length() > 0) {
-                        output.write("dosage#" + dosage);
-                    }
+                    GsonBuilder builder = new GsonBuilder();
+                    builder.setPrettyPrinting();
+                    Gson gson = builder.create();
+                    gson.toJson(remedy, output);
                     output.close();
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -706,43 +698,23 @@ public class EditorMain extends JFrame {
 
     private void loadRemedyMap() throws IOException {
         File dir = new File(REMEDY_DIR);
+        Gson gson = new Gson();
         for (File remedyFile : dir.listFiles()) {
-            String remedyName = remedyFile.getName();
-            Remedy remedy = new Remedy(remedyName);
             BufferedReader input = new BufferedReader(new FileReader(remedyFile));
-            String line;
-            String dosage = "";
-            while ((line = input.readLine()) != null) {
-                if (line.startsWith("#")) {
-                    continue;
-                }
-                if (line.startsWith("dosage#")) {
-                    String[] chunks = line.split("#");
-                    dosage = chunks[1];
-                    continue;
-                }
-                if (line.trim().length() == 0) {
-                    continue;
-                }
-
-                String[] chunks = line.split("#");
-                String category = chunks[0].toLowerCase(Locale.ENGLISH);
-                Symptom symptom = new Symptom(category, chunks[1]);
-                remedy.addSymptom(symptom);
-                Set<String> symptoms = categoryMap.get(category);
-                if (symptoms == null) {
-                    symptoms = new HashSet<>();
-                    categoryMap.put(category, symptoms);
-                }
-                symptoms.add(chunks[1]);
-            }
+            Remedy remedy = gson.fromJson(input, Remedy.class);
             input.close();
+            remedyMap.put(remedy.getName(), remedy);
 
-            if (dosage.length() > 0) {
-                remedy.setDosage(dosage);
+            // Update the category map.
+            Map<String, Set<String>> categoryMap = remedy.getSymptoms();
+            for (String category : categoryMap.keySet()) {
+                Set<String> symptoms = globalCategoryMap.get(category);
+                if (symptoms == null) {
+                    symptoms = new HashSet<String>();
+                    globalCategoryMap.put(category, symptoms);
+                }
+                symptoms.addAll(categoryMap.get(category));
             }
-
-            remedyMap.put(remedyName, remedy);
         }
     }
 

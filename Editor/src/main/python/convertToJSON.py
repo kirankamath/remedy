@@ -43,4 +43,4 @@ for k,v in category_map.iteritems():
     remedy["symptoms"][k] = v
     
 with open(out_file_name, "w") as out_file:
-    out_file.write(json.dumps(remedy, indent=4))
+    out_file.write(json.dumps(remedy, indent=2))

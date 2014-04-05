@@ -8,6 +8,7 @@ dependencies {
     // The production code uses the SLF4J logging API at compile time
     compile 'org.slf4j:slf4j-api:1.7.5'
     compile 'org.xerial:sqlite-jdbc:3.7.2'
+    compile 'com.google.code.gson:gson:2.2.4'
 
     testCompile 'org.testng:testng:6.8.1'
 }
