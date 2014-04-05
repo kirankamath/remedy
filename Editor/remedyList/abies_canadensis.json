@@ -1,41 +1,41 @@
 {
-    "symptoms": {
-        "Head": [
-            "Feels light-headed", 
-            "Tipsy", 
-            "Irritable"
-        ], 
-        "Fever": [
-            "Cold shiverings as if blood were ice water", 
-            "Chills run down back", 
-            "Cold water feeling between shoulders", 
-            "Skin clammy and sticky", 
-            "Night-sweat"
-        ], 
-        "Stomach": [
-            "Canine hunger", 
-            "Faint feeling in upper abdomen just over the stomach", 
-            "Great appetite. Craving for meat, pickles, radishes, turnips, artichokes, coarse food", 
-            "Burning and stretching of stomach with palpitation", 
-            "Gas build up", 
-            "Pain in right shoulder blade", 
-            "Constipation with burning in rectum"
-        ], 
-        "Genetalia": [
-            "Watery discharge from urethra"
-        ], 
-        "Chest": [
-            "Difficulty breathing", 
-            "Right lung and liver feel small and hard"
-        ], 
-        "Female": [
-            "Uterine displacements", 
-            "Sore feeling at the top of the uterus, relieved by pressure.", 
-            "Wants to lie down all the time", 
-            "Womb feels soft and feeble"
-        ]
-    }, 
-    "name": "abies canadensis", 
-    "dosage": "First to third potency", 
-    "details": ""
+  "name": "abies canadensis",
+  "details": "",
+  "dosage": "First to third potency",
+  "symptoms": {
+    "Head": [
+      "Feels light-headed",
+      "Tipsy",
+      "Irritable"
+    ],
+    "Fever": [
+      "Cold shiverings as if blood were ice water",
+      "Chills run down back",
+      "Cold water feeling between shoulders",
+      "Skin clammy and sticky",
+      "Night-sweat"
+    ],
+    "Stomach": [
+      "Canine hunger",
+      "Faint feeling in upper abdomen just over the stomach",
+      "Great appetite. Craving for meat, pickles, radishes, turnips, artichokes, coarse food",
+      "Burning and stretching of stomach with palpitation",
+      "Gas build up",
+      "Pain in right shoulder blade",
+      "Constipation with burning in rectum"
+    ],
+    "Genetalia": [
+      "Watery discharge from urethra"
+    ],
+    "Chest": [
+      "Difficulty breathing",
+      "Right lung and liver feel small and hard"
+    ],
+    "Female": [
+      "Uterine displacements",
+      "Sore feeling at the top of the uterus, relieved by pressure.",
+      "Wants to lie down all the time",
+      "Womb feels soft and feeble"
+    ]
+  }
 }
