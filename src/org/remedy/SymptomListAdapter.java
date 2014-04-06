@@ -7,7 +7,6 @@ import java.util.Map;
 import java.util.Set;
 
 import android.content.Context;
-import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -127,7 +126,6 @@ public class SymptomListAdapter extends BaseExpandableListAdapter {
             convertView = inflater.inflate(R.layout.remedy_details_category_group_item, null);
         }
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
-        item.setTypeface(null, Typeface.BOLD);
         String category = (String)getGroup(groupPosition);
         item.setText(category);
         return convertView;
