@@ -26,6 +26,10 @@
             android:name="org.remedy.OneRemedyActivity"
             android:label="@string/title_activity_remedy_details" >
         </activity>
+        <activity
+            android:name="org.remedy.RepertoryActivity"
+            android:label="@string/title_activity_repertory" >
+        </activity>
     </application>
 
 </manifest>

@@ -28,5 +28,15 @@ public class RemedyActivity extends Activity {
                 startActivity(intent);
             }
         });
+
+        Button repertoryButton = (Button) findViewById(R.id.repertory_button);
+        repertoryButton.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(RemedyActivity.this, RepertoryActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }
