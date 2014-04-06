@@ -20,17 +20,53 @@ public class SymptomListAdapter extends BaseExpandableListAdapter {
     private final Map<String, List<String>> categoryMap;
     private final Context context;
 
+    private static final String[] categoryOrder = new String[] {
+        "Head",
+        "Mind",
+        "Face",
+        "Nose",
+        "Mouth",
+        "Throat",
+        "Respiratory",
+        "Chest",
+        "Back",
+        "Stomach",
+        "Abdomen",
+        "Urine",
+        "Genetalia",
+        "Skin",
+        "Modalities",
+        "Sexual",
+        "Sleep",
+        "Female",
+        "Extremeties",
+        "Fever",
+    };
+
     public SymptomListAdapter(Context context, Map<String, Set<String>> inputMap) {
         this.context = context;
 
         this.categoryMap = new HashMap<String, List<String>>();
 
         // Convert the value from Set to a List.
-        for (String category: inputMap.keySet()) {
+        Set<String> categorySet = inputMap.keySet();
+        for (String category: categorySet) {
             List<String> symptomList = new ArrayList<String>(inputMap.get(category));
             this.categoryMap.put(category, symptomList);
         }
-        categoryList = new ArrayList<String>(inputMap.keySet());
+        categoryList = new ArrayList<String>();
+
+        // Walk thru the ordered list. If found, add it.
+        for (String category: categoryOrder) {
+            if (categorySet.contains(category)) {
+                // Remove it from the set so that we can add the rest at the end.
+                categorySet.remove(category);
+                categoryList.add(category);
+            }
+        }
+
+        // Add any remaining entries.
+        categoryList.addAll(categorySet);
     }
 
     @Override
