@@ -7,17 +7,26 @@ import java.util.Map;
 import java.util.Set;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
-public class SymptomListAdapter extends BaseExpandableListAdapter {
+/**
+ * A list adapter to show remedy details in an expandable view.
+ */
+public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
 
     private final List<String> categoryList;
     private final Map<String, List<String>> categoryMap;
     private final Context context;
+
+    private static final String DETAILS = "Details";
+    private static final String DOSAGE = "Dosage";
+
+    private final int BLUISH_COLOR;
 
     private static final String[] categoryOrder = new String[] {
         "Head",
@@ -42,16 +51,24 @@ public class SymptomListAdapter extends BaseExpandableListAdapter {
         "Fever",
     };
 
-    public SymptomListAdapter(Context context, Map<String, Set<String>> inputMap) {
+    /**
+     * A custom adapter for showing symptoms of a remedy.
+     *
+     * @param context Context to use for generating views.
+     * @param remedy Remedy which should be displayed.
+     */
+    public RemedyDetailsListAdapter(Context context, Remedy remedy) {
         this.context = context;
 
-        this.categoryMap = new HashMap<String, List<String>>();
+        categoryMap = new HashMap<String, List<String>>();
+
+        Map<String, Set<String>> inputMap = remedy.getSymptoms();
 
         // Convert the value from Set to a List.
         Set<String> categorySet = inputMap.keySet();
         for (String category: categorySet) {
             List<String> symptomList = new ArrayList<String>(inputMap.get(category));
-            this.categoryMap.put(category, symptomList);
+            categoryMap.put(category, symptomList);
         }
         categoryList = new ArrayList<String>();
 
@@ -66,6 +83,20 @@ public class SymptomListAdapter extends BaseExpandableListAdapter {
 
         // Add any remaining entries.
         categoryList.addAll(categorySet);
+
+        // Add Details as the first entry after sort.
+        categoryList.add(0, DETAILS);
+        List<String> detailsList = new ArrayList<String>();
+        detailsList.add(remedy.getDetails());
+        categoryMap.put(DETAILS, detailsList);
+
+        // Add Dosage as the last entry.
+        categoryList.add(DOSAGE);
+        List<String> dosageList = new ArrayList<String>();
+        dosageList.add(remedy.getDosage());
+        categoryMap.put(DOSAGE, dosageList);
+
+        BLUISH_COLOR = context.getResources().getColor(R.color.blueish);
     }
 
     @Override
@@ -128,6 +159,12 @@ public class SymptomListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
         String category = (String)getGroup(groupPosition);
         item.setText(category);
+        if (category.equals(DETAILS) || category.equals(DOSAGE)) {
+            // Give a different color for special categories.
+            convertView.setBackgroundColor(Color.GRAY);
+        } else {
+            convertView.setBackgroundColor(BLUISH_COLOR);
+        }
         return convertView;
     }
 

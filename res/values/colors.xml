@@ -2,7 +2,6 @@
 <resources>
 
     <color name="red">#f00</color>
-
-    <drawable name="semi_black">#80000000</drawable>
+    <color name="blueish">#CEE3F6</color>
 
 </resources>

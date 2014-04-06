@@ -1,34 +1,7 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical" >
-    
-    <TextView
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Details" />
-    
-    <TextView
-        android:id="@+id/remedy_details_header"
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent" />
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <ExpandableListView
         android:id="@+id/remedy_symptom_list"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
-    
-    <TextView
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Dosage" />
-    
-    <TextView
-        android:id="@+id/remedy_dosage_details"
-        android:layout_height="wrap_content"
-        android:layout_width="fill_parent" />
-
-</LinearLayout>
+</merge>

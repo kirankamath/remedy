@@ -58,8 +58,8 @@ public class RemedyListActivity extends Activity {
         remedyList.setOnItemClickListener(new OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent(RemedyListActivity.this, RemedyDetails.class);
-                intent.putExtra(RemedyDetails.REMEDY_NAME, remedyListAdapter.getItem(position));
+                Intent intent = new Intent(RemedyListActivity.this, OneRemedyActivity.class);
+                intent.putExtra(OneRemedyActivity.REMEDY_NAME, remedyListAdapter.getItem(position));
                 startActivityForResult(intent, SHOW_REMEDY_DETAILS_REQUEST);
             }
         });

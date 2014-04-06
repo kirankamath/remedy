@@ -23,7 +23,7 @@
             android:windowSoftInputMode="stateHidden" >
         </activity>
         <activity
-            android:name="org.remedy.RemedyDetails"
+            android:name="org.remedy.OneRemedyActivity"
             android:label="@string/title_activity_remedy_details" >
         </activity>
     </application>

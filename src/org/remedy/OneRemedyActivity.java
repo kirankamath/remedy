@@ -6,15 +6,14 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ExpandableListView;
-import android.widget.TextView;
 
-public class RemedyDetails extends Activity {
+/**
+ * Activity for showing details of one remedy.
+ */
+public class OneRemedyActivity extends Activity {
 
+    // Shared key used by the caller of this activity.
     public static final String REMEDY_NAME = "RemedyName";
-
-    private ExpandableListView remedySymptomList;
-    private TextView remedyDetailsHeader;
-    private TextView remedyDosage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,21 +22,17 @@ public class RemedyDetails extends Activity {
 
         Intent intent = getIntent();
         String remedyName = (String)intent.getSerializableExtra(REMEDY_NAME);
+
+        // Set a nicer title up.
         setTitle("Details for " + remedyName);
 
-        remedyDetailsHeader = (TextView) findViewById(R.id.remedy_details_header);
-        remedySymptomList = (ExpandableListView) findViewById(R.id.remedy_symptom_list);
-        remedyDosage = (TextView) findViewById(R.id.remedy_dosage_details);
-
+        ExpandableListView remedySymptomList = (ExpandableListView) findViewById(R.id.remedy_symptom_list);
         RemedyDAO remedyDAO = new RemedyDAO();
 
         // XXX(kkamath): Make this async.
         Remedy remedy = remedyDAO.getRemedyDetails(this, remedyName);
-        remedyDetailsHeader.setText(remedy.getDetails());
 
-        SymptomListAdapter adapter = new SymptomListAdapter(this, remedy.getSymptoms());
+        RemedyDetailsListAdapter adapter = new RemedyDetailsListAdapter(this, remedy);
         remedySymptomList.setAdapter(adapter);
-
-        remedyDosage.setText(remedy.getDosage());
     }
 }
