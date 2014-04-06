@@ -26,13 +26,16 @@ public class OneRemedyActivity extends Activity {
         // Set a nicer title up.
         setTitle("Details for " + remedyName);
 
-        ExpandableListView remedySymptomList = (ExpandableListView) findViewById(R.id.remedy_symptom_list);
+        ExpandableListView listView = (ExpandableListView) findViewById(R.id.remedy_symptom_list);
         RemedyDAO remedyDAO = new RemedyDAO();
 
         // XXX(kkamath): Make this async.
         Remedy remedy = remedyDAO.getRemedyDetails(this, remedyName);
-
         RemedyDetailsListAdapter adapter = new RemedyDetailsListAdapter(this, remedy);
-        remedySymptomList.setAdapter(adapter);
+        listView.setAdapter(adapter);
+
+        if (adapter.getGroupCount() > 0) {
+            listView.expandGroup(0);
+        }
     }
 }
