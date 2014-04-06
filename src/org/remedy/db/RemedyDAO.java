@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.remedy.Remedy;
-import org.remedy.Symptom;
 import org.remedy.db.contract.CategoryContract;
 import org.remedy.db.contract.RemedyContract;
 import org.remedy.db.contract.RemedySymptomContract;
@@ -59,7 +58,7 @@ public class RemedyDAO {
             do {
                 String category = cursor.getString(0);
                 String symptom = cursor.getString(1);
-                remedy.addSymptom(new Symptom(category, symptom));
+                remedy.addSymptom(category, symptom);
                 notEmpty = cursor.moveToNext();
             } while (notEmpty);
             cursor.close();

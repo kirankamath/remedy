@@ -3,10 +3,12 @@ package org.remedy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 
 import org.remedy.db.RemedyDAO;
 
@@ -45,19 +47,20 @@ public class RemedyDetails extends Activity {
         remedyDetailsHeader.setText(remedy.getDetails());
 
         List<String> symptomStrList = new ArrayList<String>();
-        Map<String, List<String>> categoryMap = new HashMap<String, List<String>>();
-        Iterable<Symptom> symptoms = remedy.getSymptoms();
-        for (Symptom symptom: symptoms) {
-            if (categoryMap.containsKey(symptom.getCategory())) {
-            } else {
-                categoryMap.put(symptom.getCategory(), new ArrayList<String>());
+        Map<String, Set<String>> categoryMap = new HashMap<String, Set<String>>();
+        Map<String, Set<String>> symptoms = remedy.getSymptoms();
+        for (String category: symptoms.keySet()) {
+            Set<String> existingSymptoms = categoryMap.get(category);
+            if (existingSymptoms == null) {
+                existingSymptoms = new HashSet<String>();
+                categoryMap.put(category, existingSymptoms);
             }
-            categoryMap.get(symptom.getCategory()).add(symptom.getDescription());
+            existingSymptoms.addAll(symptoms.get(category));
         }
 
-        Iterator<Entry<String, List<String>>> iter = categoryMap.entrySet().iterator();
+        Iterator<Entry<String, Set<String>>> iter = categoryMap.entrySet().iterator();
         while (iter.hasNext()) {
-            Entry<String, List<String>> entry = iter.next();
+            Entry<String, Set<String>> entry = iter.next();
             symptomStrList.add(entry.getKey());
 
             for (String desc: entry.getValue()) {
