@@ -19,13 +19,11 @@ public class RepertoryActivity extends FragmentActivity {
         mTabHost = (FragmentTabHost)findViewById(android.R.id.tabhost);
         mTabHost.setup(this, getSupportFragmentManager(), R.id.realtabcontent);
 
-        mTabHost.addTab(mTabHost.newTabSpec("simple").setIndicator("Simple"),
+        mTabHost.addTab(mTabHost.newTabSpec("symptoms").setIndicator("Symptoms"),
                 FragmentListArraySupport.ArrayListFragment.class, null);
-        mTabHost.addTab(mTabHost.newTabSpec("contacts").setIndicator("Contacts"),
+        mTabHost.addTab(mTabHost.newTabSpec("selected").setIndicator("Selected symptoms"),
                 FragmentListArraySupport.ArrayListFragment.class, null);
-        mTabHost.addTab(mTabHost.newTabSpec("custom").setIndicator("Custom"),
-                FragmentListArraySupport.ArrayListFragment.class, null);
-        mTabHost.addTab(mTabHost.newTabSpec("throttle").setIndicator("Throttle"),
+        mTabHost.addTab(mTabHost.newTabSpec("remedy").setIndicator("Recommendation"),
                 FragmentListArraySupport.ArrayListFragment.class, null);
     }
 }
