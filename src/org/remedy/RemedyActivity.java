@@ -1,5 +1,7 @@
 package org.remedy;
 
+import org.remedy.repertory.RepertoryActivity;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;

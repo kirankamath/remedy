@@ -1,9 +1,11 @@
-package org.remedy;
+package org.remedy.repertory;
 
 import java.util.HashMap;
 import java.util.List;
 
+import org.remedy.ExpandableSymptomListAdapter;
 import org.remedy.ExpandableSymptomListAdapter.ChildrenGetter;
+import org.remedy.R;
 import org.remedy.db.RemedyDAO;
 
 import android.app.Activity;
@@ -15,11 +17,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ExpandableListView;
+import android.widget.ExpandableListView.OnChildClickListener;
 
 public class AllSymptomsFragment extends Fragment {
 
     private FragmentActivity _activity;
     private Context _context;
+    private SymptomAddRemoveInterface _symptomAddRemove;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -43,9 +47,28 @@ public class AllSymptomsFragment extends Fragment {
             }
         };
 
-        ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(_activity,
-                null, null, categoryMap, getter);
+        final ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(_activity,
+                null, null, categoryMap, getter, true);
         listView.setAdapter(adapter);
+        listView.setOnChildClickListener(new OnChildClickListener() {
+            @Override
+            public boolean onChildClick(ExpandableListView parent, View v, int groupPosition,
+                    int childPosition, long id) {
+                String category = (String)adapter.getGroup(groupPosition);
+                String symptom = (String)adapter.getChild(groupPosition, childPosition);
+
+                if (adapter.isItemSelected(groupPosition, childPosition)) {
+
+                    // Already selected. Unselect it.
+                    _symptomAddRemove.symptomRemoved(category, symptom);
+                } else {
+                    _symptomAddRemove.symptomAdded(category, symptom);
+                }
+
+                adapter.toggleSelection(groupPosition, childPosition);
+                return true;
+            }
+        });
 
         return rootView;
     }
@@ -55,6 +78,6 @@ public class AllSymptomsFragment extends Fragment {
         super.onAttach(activity);
         _activity = (FragmentActivity) activity;
         _context = activity;
+        _symptomAddRemove = (SymptomAddRemoveInterface) activity;
     }
-
 }

@@ -9,6 +9,7 @@ import java.util.Set;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -24,10 +25,13 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     private final Set<String> preList;
     private final Set<String> postList;
     private final Map<String, List<String>> categoryMap;
+    private final SparseArray<Set<Integer>> selectedItemMap;
     private final Context context;
     private final ChildrenGetter childrenGetter;
+    private final boolean allowChildSelection;
 
     private final int BLUISH_COLOR;
+    private final int LIGHTRED_COLOR;
 
     private static final String[] categoryOrder = new String[] {
         "Head",
@@ -74,12 +78,14 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
      */
     public ExpandableSymptomListAdapter(Context context, Set<String> preList,
             Set<String> postList, HashMap<String, List<String>> categoryMap,
-            ChildrenGetter childrenGetter) {
+            ChildrenGetter childrenGetter, boolean allowChildSelection) {
         this.context = context;
         this.categoryMap = categoryMap;
         this.preList = preList;
         this.postList = postList;
         this.childrenGetter = childrenGetter;
+        this.allowChildSelection = allowChildSelection;
+        this.selectedItemMap = new SparseArray<Set<Integer>>();
 
         // Need to copy since modifications will reflect into original map.
         Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
@@ -116,6 +122,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         }
 
         BLUISH_COLOR = context.getResources().getColor(R.color.blueish);
+        LIGHTRED_COLOR = context.getResources().getColor(R.color.lightred);
     }
 
     @Override
@@ -184,6 +191,13 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_symptom_item_text);
         String symptom = (String)getChild(groupPosition, childPosition);
         item.setText(symptom);
+
+        if (isItemSelected(groupPosition, childPosition)) {
+            convertView.setBackgroundColor(LIGHTRED_COLOR);
+        } else {
+            convertView.setBackgroundColor(Color.WHITE);
+        }
+
         return convertView;
     }
 
@@ -215,7 +229,35 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
 
     @Override
     public boolean isChildSelectable(int groupPosition, int childPosition) {
-        return false;
+        return allowChildSelection;
     }
 
+    public void toggleSelection(int groupPosition, int childPosition) {
+        assert allowChildSelection;
+
+        Set<Integer> items = selectedItemMap.get(groupPosition);
+        if (items == null) {
+            items = new HashSet<Integer>();
+            selectedItemMap.append(groupPosition, items);
+            items.add(childPosition);
+        } else {
+            if (items.contains(childPosition)) {
+                items.remove(childPosition);
+            } else {
+                items.add(childPosition);
+            }
+        }
+        notifyDataSetChanged();
+    }
+
+    public boolean isItemSelected(int groupPosition, int childPosition) {
+        if (!allowChildSelection) {
+            return false;
+        }
+        Set<Integer> items = selectedItemMap.get(groupPosition);
+        if (items == null) {
+            return false;
+        }
+        return items.contains(childPosition);
+    }
 }

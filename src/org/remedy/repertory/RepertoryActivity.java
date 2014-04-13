@@ -1,4 +1,7 @@
-package org.remedy;
+package org.remedy.repertory;
+
+import org.remedy.ArrayListFragment;
+import org.remedy.R;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
@@ -9,7 +12,7 @@ import android.widget.TextView;
  * This demonstrates how you can implement switching between the tabs of a
  * TabHost through fragments, using FragmentTabHost.
  */
-public class RepertoryActivity extends FragmentActivity {
+public class RepertoryActivity extends FragmentActivity implements SymptomAddRemoveInterface {
     private FragmentTabHost mTabHost;
 
     @Override
@@ -32,6 +35,13 @@ public class RepertoryActivity extends FragmentActivity {
                     .getChildAt(i).findViewById(android.R.id.title);
             view.setAllCaps(false);
         }
+    }
 
+    @Override
+    public void symptomAdded(String category, String symptom) {
+    }
+
+    @Override
+    public void symptomRemoved(String category, String symptom) {
     }
 }
