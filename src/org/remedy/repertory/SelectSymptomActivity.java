@@ -8,7 +8,6 @@ import org.remedy.ExpandableSymptomListAdapter.ChildrenGetter;
 import org.remedy.R;
 import org.remedy.db.RemedyDAO;
 
-import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
@@ -23,21 +22,16 @@ import android.widget.Toast;
  */
 public class SelectSymptomActivity extends ActionBarActivity {
 
+    private ExpandableSymptomListAdapter adapter;
+    private ExpandableListView listView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.symptom_list_layout);
-        setTitle("Select symptoms");
+        setTitle("Symptoms");
 
-        // Make sure we're running on Honeycomb or higher to use ActionBar APIs
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-
-            // Show the Up button in the action bar.
-            getActionBar().setDisplayHomeAsUpEnabled(true);
-        }
-
-        ExpandableListView listView = (ExpandableListView)findViewById(
-                R.id.expandable_symptom_list);
+        listView = (ExpandableListView)findViewById(R.id.expandable_symptom_list);
 
         RemedyDAO dao = new RemedyDAO();
         List<String> categoryList = dao.getAllCategories(this);
@@ -54,35 +48,18 @@ public class SelectSymptomActivity extends ActionBarActivity {
             }
         };
 
-        final ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
+        adapter = new ExpandableSymptomListAdapter(this,
                 null, null, categoryMap, getter, true);
         listView.setAdapter(adapter);
         listView.setOnChildClickListener(new OnChildClickListener() {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v, int groupPosition,
                     int childPosition, long id) {
-                String category = (String)adapter.getGroup(groupPosition);
-                String symptom = (String)adapter.getChild(groupPosition, childPosition);
-
-                if (adapter.isItemSelected(groupPosition, childPosition)) {
-
-                    // Already selected. Unselect it.
-                    symptomRemoved(category, symptom);
-                } else {
-                    symptomAdded(category, symptom);
-                }
-
                 adapter.toggleSelection(groupPosition, childPosition);
                 return true;
             }
         });
 
-    }
-
-    public void symptomAdded(String category, String symptom) {
-    }
-
-    public void symptomRemoved(String category, String symptom) {
     }
 
     @Override
@@ -100,9 +77,20 @@ public class SelectSymptomActivity extends ActionBarActivity {
                 Toast.makeText(this, "Going next", Toast.LENGTH_SHORT).show();
                 return true;
             }
+            case R.id.select_symptom_minimize: {
+                collapseAllCategories();
+                return true;
+            }
             default: {
                 return super.onOptionsItemSelected(item);
             }
+        }
+    }
+
+    private void collapseAllCategories() {
+        int categoryCount = adapter.getGroupCount();
+        for (int i = 0; i < categoryCount; i++) {
+            listView.collapseGroup(i);
         }
     }
 }

@@ -211,9 +211,18 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         }
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
         String category = (String)getGroup(groupPosition);
+
+        if (allowChildSelection) {
+            Set<Integer> items = selectedItemMap.get(groupPosition);
+            if (items != null && items.size() > 0) {
+                category += " (" + items.size() +")";
+            }
+        }
+
         item.setText(category);
         if ((preList != null && preList.contains(category)) ||
                 (postList != null && postList.contains(category))) {
+
             // Give a different color for special categories.
             convertView.setBackgroundColor(Color.GRAY);
         } else {

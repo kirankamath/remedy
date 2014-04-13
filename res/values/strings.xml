@@ -16,5 +16,6 @@
     <string name="title_section3">Section 3</string>
     <string name="title_activity_all_symptoms">AllSymptomsActivity</string>
     <string name="next_string">Next</string>
+    <string name="minimize_string">Minimize</string>
 
 </resources>
