@@ -1,6 +1,6 @@
 package org.remedy;
 
-import org.remedy.repertory.RepertoryActivity;
+import org.remedy.repertory.SelectSymptomActivity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -36,7 +36,7 @@ public class RemedyActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(RemedyActivity.this, RepertoryActivity.class);
+                Intent intent = new Intent(RemedyActivity.this, SelectSymptomActivity.class);
                 startActivity(intent);
             }
         });

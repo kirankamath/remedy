@@ -9,31 +9,27 @@ import org.remedy.R;
 import org.remedy.db.RemedyDAO;
 
 import android.app.Activity;
-import android.content.Context;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 
-public class AllSymptomsFragment extends Fragment {
-
-    private FragmentActivity _activity;
-    private Context _context;
-    private SymptomAddRemoveInterface _symptomAddRemove;
+/**
+ * Activity to select a bunch of symptoms.
+ */
+public class SelectSymptomActivity extends Activity {
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.symptom_list_layout, container, false);
-        ExpandableListView listView = (ExpandableListView)rootView.findViewById(
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.symptom_list_layout);
+        setTitle("Select symptoms");
+
+        ExpandableListView listView = (ExpandableListView)findViewById(
                 R.id.expandable_symptom_list);
 
         RemedyDAO dao = new RemedyDAO();
-        List<String> categoryList = dao.getAllCategories(_context);
+        List<String> categoryList = dao.getAllCategories(this);
         HashMap<String, List<String>> categoryMap = new HashMap<String, List<String>>();
 
         for (String category : categoryList) {
@@ -43,11 +39,11 @@ public class AllSymptomsFragment extends Fragment {
         ChildrenGetter getter = new ChildrenGetter() {
             @Override
             public List<String> getChildren(String parent) {
-                return RemedyDAO.getAllSymptomsForCategory(_context, parent);
+                return RemedyDAO.getAllSymptomsForCategory(SelectSymptomActivity.this, parent);
             }
         };
 
-        final ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(_activity,
+        final ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
                 null, null, categoryMap, getter, true);
         listView.setAdapter(adapter);
         listView.setOnChildClickListener(new OnChildClickListener() {
@@ -60,9 +56,9 @@ public class AllSymptomsFragment extends Fragment {
                 if (adapter.isItemSelected(groupPosition, childPosition)) {
 
                     // Already selected. Unselect it.
-                    _symptomAddRemove.symptomRemoved(category, symptom);
+                    symptomRemoved(category, symptom);
                 } else {
-                    _symptomAddRemove.symptomAdded(category, symptom);
+                    symptomAdded(category, symptom);
                 }
 
                 adapter.toggleSelection(groupPosition, childPosition);
@@ -70,14 +66,11 @@ public class AllSymptomsFragment extends Fragment {
             }
         });
 
-        return rootView;
     }
 
-    @Override
-    public void onAttach(Activity activity) {
-        super.onAttach(activity);
-        _activity = (FragmentActivity) activity;
-        _context = activity;
-        _symptomAddRemove = (SymptomAddRemoveInterface) activity;
+    public void symptomAdded(String category, String symptom) {
+    }
+
+    public void symptomRemoved(String category, String symptom) {
     }
 }

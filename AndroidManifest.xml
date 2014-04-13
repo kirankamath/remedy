@@ -30,7 +30,7 @@
             android:label="@string/title_activity_remedy_details" >
         </activity>
         <activity
-            android:name="org.remedy.repertory.RepertoryActivity"
+            android:name="org.remedy.repertory.SelectSymptomActivity"
             android:label="@string/title_activity_repertory" >
         </activity>
         <activity
