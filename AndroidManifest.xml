@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    android:versionName="1.0"
+    package="org.remedy"
     android:versionCode="1"
-    package="org.remedy" >
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -32,6 +32,10 @@
         <activity
             android:name="org.remedy.RepertoryActivity"
             android:label="@string/title_activity_repertory" >
+        </activity>
+        <activity
+            android:name="org.remedy.AllSymptomsActivity"
+            android:label="@string/title_activity_all_symptoms" >
         </activity>
     </application>
 
