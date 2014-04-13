@@ -9,12 +9,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import org.remedy.OneRemedyActivity;
 import org.remedy.R;
 import org.remedy.db.RemedyDAO;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -67,9 +71,18 @@ public class FilteredRemedyActivity extends Activity {
         });
 
         ListView list = (ListView) findViewById(R.id.filtered_remedy_list);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+        final ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, finalRemedies);
         list.setAdapter(adapter);
+
+        list.setOnItemClickListener(new OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent(FilteredRemedyActivity.this, OneRemedyActivity.class);
+                intent.putExtra(OneRemedyActivity.REMEDY_NAME, adapter.getItem(position));
+                startActivity(intent);
+            }
+        });
     }
 
     private void awardPoints(Map<String, Integer> scoreMap, String remedy, int points) {
