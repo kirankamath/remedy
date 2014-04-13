@@ -2,6 +2,7 @@ package org.remedy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -20,11 +21,10 @@ import android.widget.TextView;
 public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
 
     private final List<String> categoryList;
+    private final Set<String> preList;
+    private final Set<String> postList;
     private final Map<String, List<String>> categoryMap;
     private final Context context;
-
-    private static final String DETAILS = "Details";
-    private static final String DOSAGE = "Dosage";
 
     private final int BLUISH_COLOR;
 
@@ -57,19 +57,21 @@ public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
      * @param context Context to use for generating views.
      * @param remedy Remedy which should be displayed.
      */
-    public RemedyDetailsListAdapter(Context context, Remedy remedy) {
+    public RemedyDetailsListAdapter(Context context, Set<String> preList,
+            Set<String> postList, HashMap<String, List<String>> categoryMap) {
         this.context = context;
+        this.categoryMap = categoryMap;
+        this.preList = preList;
+        this.postList = postList;
 
-        categoryMap = new HashMap<String, List<String>>();
+        // Need to copy since modifications will reflect into original map.
+        Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
 
-        Map<String, Set<String>> inputMap = remedy.getSymptoms();
+        // Remove pre and post from the categorySet since we will add it explicitly.
+        categorySet.removeAll(preList);
+        categorySet.removeAll(postList);
 
-        // Convert the value from Set to a List.
-        Set<String> categorySet = inputMap.keySet();
-        for (String category: categorySet) {
-            List<String> symptomList = new ArrayList<String>(inputMap.get(category));
-            categoryMap.put(category, symptomList);
-        }
+        // Maintain an ordered array for display.
         categoryList = new ArrayList<String>();
 
         // Walk thru the ordered list. If found, add it.
@@ -84,17 +86,13 @@ public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
         // Add any remaining entries.
         categoryList.addAll(categorySet);
 
-        // Add Details as the first entry after sort.
-        categoryList.add(0, DETAILS);
-        List<String> detailsList = new ArrayList<String>();
-        detailsList.add(remedy.getDetails());
-        categoryMap.put(DETAILS, detailsList);
+        // Add the pre entries to the beginning of the list.
+        for (String pre : preList) {
+            categoryList.add(0, pre);
+        }
 
-        // Add Dosage as the last entry.
-        categoryList.add(DOSAGE);
-        List<String> dosageList = new ArrayList<String>();
-        dosageList.add(remedy.getDosage());
-        categoryMap.put(DOSAGE, dosageList);
+        // Add all the post entries to the end.
+        categoryList.addAll(postList);
 
         BLUISH_COLOR = context.getResources().getColor(R.color.blueish);
     }
@@ -159,7 +157,7 @@ public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
         String category = (String)getGroup(groupPosition);
         item.setText(category);
-        if (category.equals(DETAILS) || category.equals(DOSAGE)) {
+        if (preList.contains(category) || postList.contains(category)) {
             // Give a different color for special categories.
             convertView.setBackgroundColor(Color.GRAY);
         } else {
