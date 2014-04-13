@@ -60,7 +60,7 @@ public class OneRemedyActivity extends Activity {
         dosageList.add(remedy.getDosage());
         categoryMap.put(DOSAGE, dosageList);
 
-        RemedyDetailsListAdapter adapter = new RemedyDetailsListAdapter(this,
+        ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
                 new HashSet<String>(Arrays.asList(DETAILS)),
                 new HashSet<String>(Arrays.asList(DOSAGE)),
                 categoryMap);

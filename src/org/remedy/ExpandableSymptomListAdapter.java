@@ -18,7 +18,7 @@ import android.widget.TextView;
 /**
  * A list adapter to show remedy details in an expandable view.
  */
-public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
+public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
 
     private final List<String> categoryList;
     private final Set<String> preList;
@@ -57,7 +57,7 @@ public class RemedyDetailsListAdapter extends BaseExpandableListAdapter {
      * @param context Context to use for generating views.
      * @param remedy Remedy which should be displayed.
      */
-    public RemedyDetailsListAdapter(Context context, Set<String> preList,
+    public ExpandableSymptomListAdapter(Context context, Set<String> preList,
             Set<String> postList, HashMap<String, List<String>> categoryMap) {
         this.context = context;
         this.categoryMap = categoryMap;
