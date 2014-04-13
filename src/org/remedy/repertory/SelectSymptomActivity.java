@@ -3,6 +3,8 @@ package org.remedy.repertory;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import org.remedy.ExpandableSymptomListAdapter;
 import org.remedy.ExpandableSymptomListAdapter.ChildrenGetter;
@@ -17,6 +19,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
+import android.widget.Toast;
 
 /**
  * Activity to select a bunch of symptoms.
@@ -25,16 +28,23 @@ public class SelectSymptomActivity extends ActionBarActivity {
 
     private ExpandableSymptomListAdapter adapter;
     private ExpandableListView listView;
+    private static final String SELECTED_SYMPTOMS = "Selected_Symptoms";
 
+    @SuppressWarnings("unchecked")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.symptom_list_layout);
         setTitle("Symptoms");
 
+        Map<String, Set<String>> selectedItemMap = null;
+        if (savedInstanceState != null) {
+            selectedItemMap = (Map<String, Set<String>>) savedInstanceState.getSerializable(SELECTED_SYMPTOMS);
+        }
+
         listView = (ExpandableListView)findViewById(R.id.expandable_symptom_list);
         List<String> categoryList = RemedyDAO.getAllCategories(this);
-        HashMap<String, List<String>> categoryMap = new HashMap<String, List<String>>();
+        Map<String, List<String>> categoryMap = new HashMap<String, List<String>>();
 
         for (String category : categoryList) {
             categoryMap.put(category, null);
@@ -47,7 +57,8 @@ public class SelectSymptomActivity extends ActionBarActivity {
             }
         };
 
-        adapter = new ExpandableSymptomListAdapter(this, null, null, categoryMap, getter, true, null);
+        adapter = new ExpandableSymptomListAdapter(this, null, null,
+                categoryMap, getter, true, selectedItemMap);
         listView.setAdapter(adapter);
         listView.setOnChildClickListener(new OnChildClickListener() {
             @Override
@@ -59,6 +70,13 @@ public class SelectSymptomActivity extends ActionBarActivity {
                 return true;
             }
         });
+    }
+
+
+    @Override
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putSerializable(SELECTED_SYMPTOMS, (Serializable)adapter.getSelectedSymptoms());
     }
 
     @Override
@@ -73,9 +91,21 @@ public class SelectSymptomActivity extends ActionBarActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.select_symptom_next: {
+                Map<String, Set<String>> selectedItems = adapter.getSelectedSymptoms();
+                boolean found = false;
+                for (String category : selectedItems.keySet()) {
+                    if (selectedItems.get(category).size() > 0) {
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (!found) {
+                    Toast.makeText(this, "Select at least one symptom to repertory", Toast.LENGTH_SHORT).show();
+                    return true;
+                }
                 Intent intent = new Intent(this, FilteredRemedyActivity.class);
-                intent.putExtra(FilteredRemedyActivity.SELECTED_SYMPTOMS,
-                        (Serializable) adapter.getSelectedSymptoms());
+                intent.putExtra(FilteredRemedyActivity.SELECTED_SYMPTOMS, (Serializable) selectedItems);
                 startActivity(intent);
                 return true;
             }

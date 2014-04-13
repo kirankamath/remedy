@@ -76,7 +76,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
      * @param remedy Remedy which should be displayed.
      */
     public ExpandableSymptomListAdapter(Context context, Set<String> preList,
-            Set<String> postList, HashMap<String, List<String>> categoryMap,
+            Set<String> postList, Map<String, List<String>> categoryMap,
             ChildrenGetter childrenGetter, boolean allowChildSelection,
             Map<String, Set<String>> selectedItemMap) {
         this.context = context;
@@ -94,7 +94,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
                     Set<String> selectedItems = new HashSet<String>(selectedItemMap.get(selectedCategory));
 
                     // Only retain symptoms that are in this remedy.
-                    selectedItems.retainAll(categoryMap.get(selectedCategory));
+                    selectedItems.retainAll(getSymptomsForCategory(selectedCategory));
                     this.selectedItemMap.put(selectedCategory, selectedItems);
                 }
             }
@@ -143,9 +143,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         return categoryList.size();
     }
 
-    @Override
-    public int getChildrenCount(int groupPosition) {
-        String category = categoryList.get(groupPosition);
+    private List<String> getSymptomsForCategory(String category) {
         List<String> children = categoryMap.get(category);
         if (children == null) {
             if (childrenGetter != null) {
@@ -154,10 +152,17 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
                 children = childrenGetter.getChildren(category);
                 categoryMap.put(category, children);
             } else {
-                return 0;
+                return null;
             }
         }
-        return children.size();
+        return children;
+    }
+
+    @Override
+    public int getChildrenCount(int groupPosition) {
+        String category = categoryList.get(groupPosition);
+        List<String> children = getSymptomsForCategory(category);
+        return children == null ? 0 : children.size();
     }
 
     @Override
@@ -168,17 +173,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     @Override
     public Object getChild(int groupPosition, int childPosition) {
         String category = categoryList.get(groupPosition);
-        List<String> children = categoryMap.get(category);
-        if (children == null) {
-            if (childrenGetter != null) {
-
-                // If not set, get it at runtime.
-                children = childrenGetter.getChildren(category);
-                categoryMap.put(category, children);
-            } else {
-                return 0;
-            }
-        }
+        List<String> children = getSymptomsForCategory(category);
         return children.get(childPosition);
     }
 
