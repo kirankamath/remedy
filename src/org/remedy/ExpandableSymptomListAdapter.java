@@ -9,7 +9,6 @@ import java.util.Set;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +24,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     private final Set<String> preList;
     private final Set<String> postList;
     private final Map<String, List<String>> categoryMap;
-    private final SparseArray<Set<Integer>> selectedItemMap;
+    private final Map<String, Set<String>> selectedItemMap;
     private final Context context;
     private final ChildrenGetter childrenGetter;
     private final boolean allowChildSelection;
@@ -85,7 +84,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         this.postList = postList;
         this.childrenGetter = childrenGetter;
         this.allowChildSelection = allowChildSelection;
-        this.selectedItemMap = new SparseArray<Set<Integer>>();
+        this.selectedItemMap = new HashMap<String, Set<String>>();
 
         // Need to copy since modifications will reflect into original map.
         Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
@@ -191,8 +190,9 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_symptom_item_text);
         String symptom = (String)getChild(groupPosition, childPosition);
         item.setText(symptom);
+        String category = (String) getGroup(groupPosition);
 
-        if (isItemSelected(groupPosition, childPosition)) {
+        if (isItemSelected(category, symptom)) {
             convertView.setBackgroundColor(LIGHTRED_COLOR);
         } else {
             convertView.setBackgroundColor(Color.WHITE);
@@ -213,7 +213,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         String category = (String)getGroup(groupPosition);
 
         if (allowChildSelection) {
-            Set<Integer> items = selectedItemMap.get(groupPosition);
+            Set<String> items = selectedItemMap.get(category);
             if (items != null && items.size() > 0) {
                 category += " (" + items.size() +")";
             }
@@ -241,32 +241,36 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         return allowChildSelection;
     }
 
-    public void toggleSelection(int groupPosition, int childPosition) {
+    public void toggleSelection(String category, String symptom) {
         assert allowChildSelection;
 
-        Set<Integer> items = selectedItemMap.get(groupPosition);
+        Set<String> items = selectedItemMap.get(category);
         if (items == null) {
-            items = new HashSet<Integer>();
-            selectedItemMap.append(groupPosition, items);
-            items.add(childPosition);
+            items = new HashSet<String>();
+            selectedItemMap.put(category, items);
+            items.add(symptom);
         } else {
-            if (items.contains(childPosition)) {
-                items.remove(childPosition);
+            if (items.contains(symptom)) {
+                items.remove(symptom);
             } else {
-                items.add(childPosition);
+                items.add(symptom);
             }
         }
         notifyDataSetChanged();
     }
 
-    public boolean isItemSelected(int groupPosition, int childPosition) {
+    private boolean isItemSelected(String category, String symptom) {
         if (!allowChildSelection) {
             return false;
         }
-        Set<Integer> items = selectedItemMap.get(groupPosition);
+        Set<String> items = selectedItemMap.get(category);
         if (items == null) {
             return false;
         }
-        return items.contains(childPosition);
+        return items.contains(symptom);
+    }
+
+    public Map<String, Set<String>> getSelectedSymptoms() {
+        return selectedItemMap;
     }
 }

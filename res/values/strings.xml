@@ -17,5 +17,6 @@
     <string name="title_activity_all_symptoms">AllSymptomsActivity</string>
     <string name="next_string">Next</string>
     <string name="minimize_string">Minimize</string>
+    <string name="title_activity_filtered_remedy">FilteredRemedyActivity</string>
 
 </resources>

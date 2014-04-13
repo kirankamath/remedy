@@ -30,8 +30,7 @@ public class RemedyListActivity extends Activity {
         setContentView(R.layout.activity_remedy_list);
         setTitle("List of remedies");
 
-        RemedyDAO remedyDao = new RemedyDAO();
-        List<String> remedyStrList = remedyDao.getRemedyNames(this);
+        List<String> remedyStrList = RemedyDAO.getRemedyNames(this);
         remedyList = (ListView) findViewById(R.id.remedy_list);
         inputSearch = (EditText) findViewById(R.id.remedy_list_inputSearch);
 

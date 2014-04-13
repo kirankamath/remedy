@@ -38,10 +38,9 @@ public class OneRemedyActivity extends Activity {
         setTitle("Details for " + remedyName);
 
         ExpandableListView listView = (ExpandableListView) findViewById(R.id.expandable_symptom_list);
-        RemedyDAO remedyDAO = new RemedyDAO();
 
         // XXX(kkamath): Make this async.
-        Remedy remedy = remedyDAO.getRemedyDetails(this, remedyName);
+        Remedy remedy = RemedyDAO.getRemedyDetails(this, remedyName);
 
         Map<String, Set<String>> inputMap = remedy.getSymptoms();
         HashMap<String, List<String>> categoryMap = new HashMap<String, List<String>>();

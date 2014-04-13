@@ -15,7 +15,18 @@ import android.database.sqlite.SQLiteDatabase;
 
 public class RemedyDAO {
 
-    public Remedy getRemedyDetails(Context context, String remedyName) {
+    private final SQLiteDatabase dbInstance;
+
+    public RemedyDAO(Context context) {
+        RemedyDatabase database = new RemedyDatabase(context);
+        dbInstance = database.getReadableDatabase();
+    }
+
+    public void close() {
+        dbInstance.close();
+    }
+
+    public static Remedy getRemedyDetails(Context context, String remedyName) {
         RemedyDatabase database = new RemedyDatabase(context);
         SQLiteDatabase db = database.getReadableDatabase();
         String[] selectionArgs = new String[1];
@@ -68,7 +79,7 @@ public class RemedyDAO {
         return remedy;
     }
 
-    public List<String> getRemedyNames(Context context) {
+    public static List<String> getRemedyNames(Context context) {
         List<String> remedyNames = new ArrayList<String>();
         RemedyDatabase database = new RemedyDatabase(context);
         SQLiteDatabase db = database.getReadableDatabase();
@@ -86,10 +97,11 @@ public class RemedyDAO {
         return remedyNames;
     }
 
-    public List<String> getAllCategories(Context context) {
-        List<String> categoryNames = new ArrayList<String>();
+    public static List<String> getAllCategories(Context context) {
         RemedyDatabase database = new RemedyDatabase(context);
         SQLiteDatabase db = database.getReadableDatabase();
+
+        List<String> categoryNames = new ArrayList<String>();
         {
             Cursor cursor = db.rawQuery(" select " + CategoryContract.Entry.COLUMN_CATEGORY +
                     " from " + CategoryContract.Entry.TABLE_NAME, null);
@@ -127,5 +139,33 @@ public class RemedyDAO {
         }
         db.close();
         return symptoms;
+    }
+
+    public List<String> getRemediesForSymptom(String inCategory, String inSymptom) {
+        List<String> result = new ArrayList<String>();
+
+        String[] selectionArgs = new String[2];
+        selectionArgs[0] = inCategory;
+        selectionArgs[1] = inSymptom;
+        {
+            Cursor cursor = dbInstance.rawQuery(" select r.name " +
+                    " from " + RemedyContract.Entry.TABLE_NAME + " r, " +
+                    CategoryContract.Entry.TABLE_NAME + " c, " +
+                    SymptomListContract.Entry.TABLE_NAME + " s, " +
+                    RemedySymptomContract.Entry.TABLE_NAME + " rs " +
+                    " where c.category = ? and s.symptom = ? and " +
+                    " r.id = rs.remedy_id and " + // Join from Remedy to RemedySymptom.
+                    " rs.symptom_id = s.id and " + // Join from RemedySymptom to Symptom.
+                    " s.cat_id = c.id", // Join from Symptom to Category.
+                    selectionArgs);
+            boolean notEmpty = cursor.moveToFirst();
+            do {
+                String remedyName = cursor.getString(0);
+                result.add(remedyName);
+                notEmpty = cursor.moveToNext();
+            } while (notEmpty);
+            cursor.close();
+        }
+        return result;
     }
 }

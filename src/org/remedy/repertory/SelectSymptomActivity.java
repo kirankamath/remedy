@@ -1,5 +1,6 @@
 package org.remedy.repertory;
 
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.List;
 
@@ -8,6 +9,7 @@ import org.remedy.ExpandableSymptomListAdapter.ChildrenGetter;
 import org.remedy.R;
 import org.remedy.db.RemedyDAO;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
@@ -15,7 +17,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
-import android.widget.Toast;
 
 /**
  * Activity to select a bunch of symptoms.
@@ -32,9 +33,7 @@ public class SelectSymptomActivity extends ActionBarActivity {
         setTitle("Symptoms");
 
         listView = (ExpandableListView)findViewById(R.id.expandable_symptom_list);
-
-        RemedyDAO dao = new RemedyDAO();
-        List<String> categoryList = dao.getAllCategories(this);
+        List<String> categoryList = RemedyDAO.getAllCategories(this);
         HashMap<String, List<String>> categoryMap = new HashMap<String, List<String>>();
 
         for (String category : categoryList) {
@@ -55,11 +54,12 @@ public class SelectSymptomActivity extends ActionBarActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v, int groupPosition,
                     int childPosition, long id) {
-                adapter.toggleSelection(groupPosition, childPosition);
+                String category = (String) adapter.getGroup(groupPosition);
+                String symptom = (String) adapter.getChild(groupPosition, childPosition);
+                adapter.toggleSelection(category, symptom);
                 return true;
             }
         });
-
     }
 
     @Override
@@ -74,7 +74,10 @@ public class SelectSymptomActivity extends ActionBarActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.select_symptom_next: {
-                Toast.makeText(this, "Going next", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(this, FilteredRemedyActivity.class);
+                intent.putExtra(FilteredRemedyActivity.SELECTED_SYMPTOMS,
+                        (Serializable) adapter.getSelectedSymptoms());
+                startActivity(intent);
                 return true;
             }
             case R.id.select_symptom_minimize: {
