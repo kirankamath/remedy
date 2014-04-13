@@ -34,7 +34,7 @@
             android:label="@string/title_activity_repertory" >
         </activity>
         <activity
-            android:name="org.remedy.AllSymptomsActivity"
+            android:name="org.remedy.AllSymptomsFragment"
             android:label="@string/title_activity_all_symptoms" >
         </activity>
     </application>

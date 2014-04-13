@@ -67,9 +67,6 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         // Need to copy since modifications will reflect into original map.
         Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
 
-        // Remove pre and post from the categorySet since we will add it explicitly.
-        categorySet.removeAll(preList);
-        categorySet.removeAll(postList);
 
         // Maintain an ordered array for display.
         categoryList = new ArrayList<String>();
@@ -86,13 +83,21 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         // Add any remaining entries.
         categoryList.addAll(categorySet);
 
-        // Add the pre entries to the beginning of the list.
-        for (String pre : preList) {
-            categoryList.add(0, pre);
-        }
+        // Remove pre and post from the categorySet since we will add it explicitly.
+        if (preList != null) {
+            categorySet.removeAll(preList);
 
-        // Add all the post entries to the end.
-        categoryList.addAll(postList);
+            // Add the pre entries to the beginning of the list.
+            for (String pre : preList) {
+                categoryList.add(0, pre);
+            }
+        }
+        if (postList != null) {
+            categorySet.removeAll(postList);
+
+            // Add all the post entries to the end.
+            categoryList.addAll(postList);
+        }
 
         BLUISH_COLOR = context.getResources().getColor(R.color.blueish);
     }
@@ -157,7 +162,8 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
         String category = (String)getGroup(groupPosition);
         item.setText(category);
-        if (preList.contains(category) || postList.contains(category)) {
+        if ((preList != null && preList.contains(category)) ||
+                (postList != null && postList.contains(category))) {
             // Give a different color for special categories.
             convertView.setBackgroundColor(Color.GRAY);
         } else {

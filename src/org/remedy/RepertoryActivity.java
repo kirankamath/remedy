@@ -21,7 +21,7 @@ public class RepertoryActivity extends FragmentActivity {
         mTabHost.setup(this, getSupportFragmentManager(), R.id.realtabcontent);
 
         mTabHost.addTab(mTabHost.newTabSpec("symptoms").setIndicator("Symptoms"),
-                ArrayListFragment.class, null);
+                AllSymptomsFragment.class, null);
         mTabHost.addTab(mTabHost.newTabSpec("selected").setIndicator("Selected symptoms"),
                 ArrayListFragment.class, null);
         mTabHost.addTab(mTabHost.newTabSpec("remedy").setIndicator("Remedy list"),
