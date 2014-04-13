@@ -22,6 +22,7 @@ public class OneRemedyActivity extends Activity {
 
     // Shared key used by the caller of this activity.
     public static final String REMEDY_NAME = "RemedyName";
+    public static final String SELECTED_SYMPTOMS = "Selected_Symptoms";
 
     private static final String DETAILS = "Details";
     private static final String DOSAGE = "Dosage";
@@ -33,6 +34,10 @@ public class OneRemedyActivity extends Activity {
 
         Intent intent = getIntent();
         String remedyName = (String)intent.getSerializableExtra(REMEDY_NAME);
+
+        @SuppressWarnings("unchecked")
+        Map<String, Set<String>> selectedItemMap = (Map<String, Set<String>>)
+            intent.getSerializableExtra(SELECTED_SYMPTOMS);
 
         // Set a nicer title up.
         setTitle("Details for " + remedyName);
@@ -62,7 +67,7 @@ public class OneRemedyActivity extends Activity {
         ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
                 new HashSet<String>(Arrays.asList(DETAILS)),
                 new HashSet<String>(Arrays.asList(DOSAGE)),
-                categoryMap, null, false);
+                categoryMap, null, false, selectedItemMap);
         listView.setAdapter(adapter);
 
         if (adapter.getGroupCount() > 0) {

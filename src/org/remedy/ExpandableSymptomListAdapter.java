@@ -77,7 +77,8 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
      */
     public ExpandableSymptomListAdapter(Context context, Set<String> preList,
             Set<String> postList, HashMap<String, List<String>> categoryMap,
-            ChildrenGetter childrenGetter, boolean allowChildSelection) {
+            ChildrenGetter childrenGetter, boolean allowChildSelection,
+            Map<String, Set<String>> selectedItemMap) {
         this.context = context;
         this.categoryMap = categoryMap;
         this.preList = preList;
@@ -85,6 +86,19 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         this.childrenGetter = childrenGetter;
         this.allowChildSelection = allowChildSelection;
         this.selectedItemMap = new HashMap<String, Set<String>>();
+        if (selectedItemMap != null) {
+
+            // Retain only elements that matter for this remedy.
+            for (String selectedCategory : selectedItemMap.keySet()) {
+                if (categoryMap.containsKey(selectedCategory)) {
+                    Set<String> selectedItems = new HashSet<String>(selectedItemMap.get(selectedCategory));
+
+                    // Only retain symptoms that are in this remedy.
+                    selectedItems.retainAll(categoryMap.get(selectedCategory));
+                    this.selectedItemMap.put(selectedCategory, selectedItems);
+                }
+            }
+        }
 
         // Need to copy since modifications will reflect into original map.
         Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
@@ -212,11 +226,9 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         TextView item = (TextView) convertView.findViewById(R.id.remedy_details_group_item_text);
         String category = (String)getGroup(groupPosition);
 
-        if (allowChildSelection) {
-            Set<String> items = selectedItemMap.get(category);
-            if (items != null && items.size() > 0) {
-                category += " (" + items.size() +")";
-            }
+        Set<String> items = selectedItemMap.get(category);
+        if (items != null && items.size() > 0) {
+            category += " (" + items.size() +")";
         }
 
         item.setText(category);
@@ -260,9 +272,6 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     }
 
     private boolean isItemSelected(String category, String symptom) {
-        if (!allowChildSelection) {
-            return false;
-        }
         Set<String> items = selectedItemMap.get(category);
         if (items == null) {
             return false;

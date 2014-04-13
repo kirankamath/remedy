@@ -1,5 +1,6 @@
 package org.remedy.repertory;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -34,7 +35,7 @@ public class FilteredRemedyActivity extends Activity {
 
         Intent intent = getIntent();
         @SuppressWarnings("unchecked")
-        Map<String, Set<String>> categoryMap = (Map<String, Set<String>>)
+        final Map<String, Set<String>> categoryMap = (Map<String, Set<String>>)
                 intent.getSerializableExtra(SELECTED_SYMPTOMS);
         final Map<String, Integer> scoreMap = new HashMap<String, Integer>();
         RemedyDAO dao = new RemedyDAO(this);
@@ -80,6 +81,7 @@ public class FilteredRemedyActivity extends Activity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(FilteredRemedyActivity.this, OneRemedyActivity.class);
                 intent.putExtra(OneRemedyActivity.REMEDY_NAME, adapter.getItem(position));
+                intent.putExtra(OneRemedyActivity.SELECTED_SYMPTOMS, (Serializable)categoryMap);
                 startActivity(intent);
             }
         });

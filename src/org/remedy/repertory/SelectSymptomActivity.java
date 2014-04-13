@@ -47,8 +47,7 @@ public class SelectSymptomActivity extends ActionBarActivity {
             }
         };
 
-        adapter = new ExpandableSymptomListAdapter(this,
-                null, null, categoryMap, getter, true);
+        adapter = new ExpandableSymptomListAdapter(this, null, null, categoryMap, getter, true, null);
         listView.setAdapter(adapter);
         listView.setOnChildClickListener(new OnChildClickListener() {
             @Override
