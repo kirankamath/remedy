@@ -85,4 +85,47 @@ public class RemedyDAO {
         db.close();
         return remedyNames;
     }
+
+    public List<String> getAllCategories(Context context) {
+        List<String> categoryNames = new ArrayList<String>();
+        RemedyDatabase database = new RemedyDatabase(context);
+        SQLiteDatabase db = database.getReadableDatabase();
+        {
+            Cursor cursor = db.rawQuery(" select " + CategoryContract.Entry.COLUMN_CATEGORY +
+                    " from " + CategoryContract.Entry.TABLE_NAME, null);
+            boolean notEmpty = cursor.moveToFirst();
+            do {
+                String name = cursor.getString(0);
+                categoryNames.add(name);
+                notEmpty = cursor.moveToNext();
+            } while (notEmpty);
+            cursor.close();
+        }
+        db.close();
+        return categoryNames;
+    }
+
+    public static List<String> getAllSymptomsForCategory(Context context, String category) {
+        List<String> symptoms = new ArrayList<String>();
+        RemedyDatabase database = new RemedyDatabase(context);
+        SQLiteDatabase db = database.getReadableDatabase();
+
+        String[] selectionArgs = new String[1];
+        selectionArgs[0] = category;
+        {
+            String sql = " select symptom from " + SymptomListContract.Entry.TABLE_NAME + " s, " +
+                    CategoryContract.Entry.TABLE_NAME + " c " +
+                    " where s.cat_id = c.id and c.category = ?";
+            Cursor cursor = db.rawQuery(sql, selectionArgs);
+            boolean notEmpty = cursor.moveToFirst();
+            do {
+                String name = cursor.getString(0);
+                symptoms.add(name);
+                notEmpty = cursor.moveToNext();
+            } while (notEmpty);
+            cursor.close();
+        }
+        db.close();
+        return symptoms;
+    }
 }

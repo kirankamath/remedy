@@ -25,6 +25,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     private final Set<String> postList;
     private final Map<String, List<String>> categoryMap;
     private final Context context;
+    private final ChildrenGetter childrenGetter;
 
     private final int BLUISH_COLOR;
 
@@ -52,21 +53,36 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     };
 
     /**
+     * Interface for querying children for a given category name.
+     */
+    public interface ChildrenGetter {
+
+        /**
+         * Get the list of children for this parent.
+         *
+         * @param parent Name of the parent.
+         * @return List of children.
+         */
+        public List<String> getChildren(String parent);
+    }
+
+    /**
      * A custom adapter for showing symptoms of a remedy.
      *
      * @param context Context to use for generating views.
      * @param remedy Remedy which should be displayed.
      */
     public ExpandableSymptomListAdapter(Context context, Set<String> preList,
-            Set<String> postList, HashMap<String, List<String>> categoryMap) {
+            Set<String> postList, HashMap<String, List<String>> categoryMap,
+            ChildrenGetter childrenGetter) {
         this.context = context;
         this.categoryMap = categoryMap;
         this.preList = preList;
         this.postList = postList;
+        this.childrenGetter = childrenGetter;
 
         // Need to copy since modifications will reflect into original map.
         Set<String> categorySet = new HashSet<String>(categoryMap.keySet());
-
 
         // Maintain an ordered array for display.
         categoryList = new ArrayList<String>();
@@ -111,6 +127,16 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     public int getChildrenCount(int groupPosition) {
         String category = categoryList.get(groupPosition);
         List<String> children = categoryMap.get(category);
+        if (children == null) {
+            if (childrenGetter != null) {
+
+                // If not set, get it at runtime.
+                children = childrenGetter.getChildren(category);
+                categoryMap.put(category, children);
+            } else {
+                return 0;
+            }
+        }
         return children.size();
     }
 
@@ -123,6 +149,16 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     public Object getChild(int groupPosition, int childPosition) {
         String category = categoryList.get(groupPosition);
         List<String> children = categoryMap.get(category);
+        if (children == null) {
+            if (childrenGetter != null) {
+
+                // If not set, get it at runtime.
+                children = childrenGetter.getChildren(category);
+                categoryMap.put(category, children);
+            } else {
+                return 0;
+            }
+        }
         return children.get(childPosition);
     }
 

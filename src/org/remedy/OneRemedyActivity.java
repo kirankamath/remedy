@@ -63,7 +63,7 @@ public class OneRemedyActivity extends Activity {
         ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
                 new HashSet<String>(Arrays.asList(DETAILS)),
                 new HashSet<String>(Arrays.asList(DOSAGE)),
-                categoryMap);
+                categoryMap, null);
         listView.setAdapter(adapter);
 
         if (adapter.getGroupCount() > 0) {

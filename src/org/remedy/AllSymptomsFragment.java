@@ -1,8 +1,10 @@
 package org.remedy;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+
+import org.remedy.ExpandableSymptomListAdapter.ChildrenGetter;
+import org.remedy.db.RemedyDAO;
 
 import android.app.Activity;
 import android.content.Context;
@@ -23,16 +25,26 @@ public class AllSymptomsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.symptom_list_layout, container, false);
-
         ExpandableListView listView = (ExpandableListView)rootView.findViewById(
                 R.id.expandable_symptom_list);
 
+        RemedyDAO dao = new RemedyDAO();
+        List<String> categoryList = dao.getAllCategories(_context);
         HashMap<String, List<String>> categoryMap = new HashMap<String, List<String>>();
 
-        categoryMap.put("Test", Arrays.asList("One", "Two"));
+        for (String category : categoryList) {
+            categoryMap.put(category, null);
+        }
+
+        ChildrenGetter getter = new ChildrenGetter() {
+            @Override
+            public List<String> getChildren(String parent) {
+                return RemedyDAO.getAllSymptomsForCategory(_context, parent);
+            }
+        };
 
         ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(_activity,
-                null, null, categoryMap);
+                null, null, categoryMap, getter);
         listView.setAdapter(adapter);
 
         return rootView;
@@ -42,7 +54,7 @@ public class AllSymptomsFragment extends Fragment {
     public void onAttach(Activity activity) {
         super.onAttach(activity);
         _activity = (FragmentActivity) activity;
-        _context = _activity;
+        _context = activity;
     }
 
 }
