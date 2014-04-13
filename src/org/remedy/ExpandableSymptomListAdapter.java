@@ -106,7 +106,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
 
         // Remove pre and post from the categorySet since we will add it explicitly.
         if (preList != null) {
-            categorySet.removeAll(preList);
+            categoryList.removeAll(preList);
 
             // Add the pre entries to the beginning of the list.
             for (String pre : preList) {
@@ -114,7 +114,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
             }
         }
         if (postList != null) {
-            categorySet.removeAll(postList);
+            categoryList.removeAll(postList);
 
             // Add all the post entries to the end.
             categoryList.addAll(postList);
