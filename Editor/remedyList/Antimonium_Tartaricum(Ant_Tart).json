@@ -1,0 +1,97 @@
+{
+  "name": "Antimonium Tartaricum(Ant Tart)",
+  "details": "Therapeutic application has been confined largely to the treatment of respiratory diseases, rattling of mucus with little expectoration has been a guiding symptom.\nThere is much drowsiness, debiliity and sweat characteristic of the drug, which group should always be more or less present, when the drug is prescribed.\nGastric affections of drunkards and gouty subjects. Cholera morbus. Sensation of coldness in blood-vessels. Bilharziasis.\nAnitmonium tart is homoepathic to dysuria, stranguary, hematuria, albuminuria, catarrh of bladder and urethra, burning in rectum, bloody mucus stools, etc.\nAntimon tart acts indirectly on the parasites by stimulating the oxidizing action of the protective substance. By-effects following ijection for Bilharziasis. \nChills and contractures and muscular pains. Warts on glans penis.",
+  "dosage": "Second to sixth trituration. The lower potencies sometimes aggravate.",
+  "symptoms": {
+    "Head": [
+      "Headache as freom a band compressing.",
+      "Face pale and sunken.",
+      "Vertigo alternates with drowsiness.",
+      "Child will not be touched without whining.",
+      "Bnad like feeling over forehead."
+    ],
+    "Tongue": [
+      "Coated, pasty, think white, with red edges.",
+      "Red and dry, especially in the center.",
+      "Brown."
+    ],
+    "Mind": [
+      "Great despondency.",
+      "Fear of being alone.",
+      "Muttering, delirium, and stupor."
+    ],
+    "Face": [
+      "Cold, blue, pale; corevered with cold sweat.",
+      "Incessant quivering of chin and lower jaw."
+    ],
+    "Stomach": [
+      "Difficult diglutition of liquids.",
+      "Thirst for cold water, little and often, and desire for apples, fruits, and acids generally.",
+      "Nausea, retching, and vomiting, especially after food, with deathly faintness and prostration.",
+      "Vomiting in any position, except lying on right side.",
+      "Nausea produces fear; with pressure in praecordial region, followed by headache with yawning and lachrymation and vomiting."
+    ],
+    "Abdomen": [
+      "Pressure in abdomen, especially on stooping forward.",
+      "Spasmodic colic, much flatus.",
+      "Cholera morbus.",
+      "Diarrhea in eruptive diseases."
+    ],
+    "Urine": [
+      "Stricture.",
+      "Burning in urethra during and after urinating.",
+      "Last drops bloody with pain in bladder.",
+      "Catarrh of bladder and urethra.",
+      "Orchitis."
+    ],
+    "Respiratory": [
+      "Pulse rapid, weak, trembling.",
+      "Velvety feeling in chest.",
+      "Great rattling of mucus, but very little is expectorated.",
+      "Emphysema of the aged.",
+      "Cough excited by eating, with pain in chest and larynx.",
+      "Bronchial tubes overloaded with mucus.",
+      "Dyspnea relieved by eructation.",
+      "Hoarseness.",
+      "Burning sensation in chest, which ascends to throat.",
+      "Coughing and gaping consecutively.",
+      "Edema and impending paralysis of lungs.",
+      "Dizziness, with cough.",
+      "Much palpitation, with uncomfortable hot feeling.",
+      "Cough and dyspnea better lying on right side.",
+      "Rapid, short, difficult breathing; seems as if he would suffocate; must sit up."
+    ],
+    "Back": [
+      "Sensation of heavy weight at the coccyx, dragging downward all the time.",
+      "Slighest effort to move may cause retching and cold, clammy sweat.",
+      "Twitching of muscles; limbs tremulous.",
+      "Violent pain in sacro-lumbra region."
+    ],
+    "Skin": [
+      "Warts.",
+      "Smallpox.",
+      "Pustular eruption, leaving a bluish-red mark."
+    ],
+    "Fever": [
+      "Copious perspiration.",
+      "Coldness, trembling and chilliness.",
+      "Intermittent fever with lethargic condition.",
+      "Cold, clammy sweat, with great faintness.",
+      "Intense heat."
+    ],
+    "Sleep": [
+      "Great drowsiness.",
+      "Irresistible inclination to sleep with nearly all complaints.",
+      "On falling asleep, electric like shocks."
+    ],
+    "Modalities": [
+      "Worse: from lying down at night.",
+      "Better: eructation and expectoration.",
+      "Worse: in evenings.",
+      "Better: from sitting erect.",
+      "Worse: in damp cold weather.",
+      "Worse: from all sour things and milk.",
+      "Worse: from warmth."
+    ]
+  }
+}
