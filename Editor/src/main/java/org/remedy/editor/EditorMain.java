@@ -720,21 +720,24 @@ public class EditorMain extends JFrame {
     private void loadRemedyMap() throws IOException {
         File dir = new File(REMEDY_DIR);
         Gson gson = new Gson();
-        for (File remedyFile : dir.listFiles()) {
-            BufferedReader input = new BufferedReader(new FileReader(remedyFile));
-            Remedy remedy = gson.fromJson(input, Remedy.class);
-            input.close();
-            remedyMap.put(remedy.getName(), remedy);
+        File[] fileList = dir.listFiles();
+        if (fileList != null) {
+            for (File remedyFile : fileList) {
+                BufferedReader input = new BufferedReader(new FileReader(remedyFile));
+                Remedy remedy = gson.fromJson(input, Remedy.class);
+                input.close();
+                remedyMap.put(remedy.getName(), remedy);
 
-            // Update the category map.
-            Map<String, Set<String>> categoryMap = remedy.getSymptoms();
-            for (String category : categoryMap.keySet()) {
-                Set<String> symptoms = globalCategoryMap.get(category);
-                if (symptoms == null) {
-                    symptoms = new HashSet<String>();
-                    globalCategoryMap.put(category, symptoms);
+                // Update the category map.
+                Map<String, Set<String>> categoryMap = remedy.getSymptoms();
+                for (String category : categoryMap.keySet()) {
+                    Set<String> symptoms = globalCategoryMap.get(category);
+                    if (symptoms == null) {
+                        symptoms = new HashSet<String>();
+                        globalCategoryMap.put(category, symptoms);
+                    }
+                    symptoms.addAll(categoryMap.get(category));
                 }
-                symptoms.addAll(categoryMap.get(category));
             }
         }
     }
