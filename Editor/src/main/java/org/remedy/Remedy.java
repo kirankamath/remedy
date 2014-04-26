@@ -72,6 +72,19 @@ public class Remedy {
 	}
 
 	/**
+	 * Remove a symptom from a category.
+	 * @param category Category to remove from.
+	 * @param symptom Symptom to remove.
+	 */
+	public void removeSymptom(String category, String symptom) {
+	    Set<String> currentSymptoms = symptoms.get(category);
+	    if (currentSymptoms == null) {
+	        return;
+	    }
+	    currentSymptoms.remove(symptom);
+	}
+
+	/**
 	 * Get name of the remedy.
 	 *
 	 * @return Name of the remedy.

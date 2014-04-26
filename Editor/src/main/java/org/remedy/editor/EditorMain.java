@@ -521,7 +521,7 @@ public class EditorMain extends JFrame {
         Map<String, Set<String>> categoryMap = remedy.getSymptoms();
         for (String category : categoryMap.keySet()) {
             for (String symptom : categoryMap.get(category))
-                symptoms.add(category.toUpperCase(Locale.ENGLISH) + " -- " + symptom);
+                symptoms.add(category + "#" + symptom);
         }
         Collections.sort(symptoms);
 
@@ -592,7 +592,11 @@ public class EditorMain extends JFrame {
                 if (selectedIndex == -1) {
                     return;
                 }
-                currentSymptomListModel.remove(selectedIndex);
+                String removedValue = currentSymptomListModel.remove(selectedIndex);
+                String remedyName = chosenRemedyName.getText();
+                Remedy remedy = remedyMap.get(remedyName);
+                String chunks[] = removedValue.split("#");
+                remedy.removeSymptom(chunks[0], chunks[1]);
             }
         });
 
