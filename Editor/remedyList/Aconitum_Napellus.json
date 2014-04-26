@@ -1,0 +1,191 @@
+{
+  "name": "Aconitum Napellus",
+  "details": "A state of fear, anxiety; anguish of mind and body. Physical and mental restlessness, fright, is the most characteristic manifestation of Aconite. \nAcute, sudden and violent invesion, with fever, call for it.\nDoes not want to be touched. Sudden and great sinking of strength. Complaints and tension caused by exposure to dry, cold weather, draught of cold air, checked perspiration, also complaints from very hot weather, especially gastro-intestinal disturbances, etc.\nFirst remedy in inflammations, inflammatory fevers. Serous membranes and muscular tissues affected markedly. Burning in internal parts; tingling, cold-ness and numbness. Influenza. Tension of arteries; emotional and physical mental tension explain many symptoms.\nWhen prescribing Aconite, remember Aconite causes only functional disturbance, no evidence that it can produce tissue change; its action is brief and shows no periodicity. \nIts sphere is in the beginning of an acute disease and not to be continued after pathological change comes.\nIn Hyperaemia, congestion not after exudation has set in. \n\nAcids, wine and coffee, lemonade, and acid fruits modify its action. Most valuable antipyretic when with mental anguish and restlessness.",
+  "dosage": "Sixth potency for sensory affections; First to third for congestive conditions. Must be repeated frequently in acute diseases. Acon. is a rapid worker. In Neuralgias tincture of the root often preferrable, one drop doses (poisonous), or again the 30th potency according to susceptibility of patient. Sulphur may be considered a chronic aconite. Often completes a cure begun with Aconite.",
+  "symptoms": {
+    "Mind": [
+      "Imagination acute, clairvoyance.",
+      "Music is unbearable; makes her sad.",
+      "Restlessness, tossing about.",
+      "Forebodings and fears.",
+      "Feels as if what had just been done was a dream.",
+      "Thinks his thoughs come from the stomach, that part of his body are abnormally thick.",
+      "Pains are intolerable; they drive him crazy.",
+      "Fears the future, a crowd, crossing the street.",
+      "Tendency to start.",
+      "Great fear, anxiety, and worry accompany every ailment, however trivial.",
+      "Fears death but believes that he will soon die; predicts the day.",
+      "Delirium is characterized by unhappiness, worry, fear, raving, rarely unconsciousness."
+    ],
+    "Head": [
+      "Burning headache, as if brain were moved by boiling water.",
+      "Vertigo; worse on rising and shaking head.",
+      "Fullness; heavy, pulsating, hot, bursting, burning, undulating sensation.",
+      "Nocturnal furious delirium.",
+      "Intracranial pressure.",
+      "Sensation on vertex as if hair were pulled or stood on end."
+    ],
+    "Eyes": [
+      "Profuse watering after exposure to dry, cold winds, reflection from snow, after extraction of cinders and other foreign bodies.",
+      "Red, inflamed.",
+      "Lids swollen, hard and red.",
+      "Feel dry and host, as if sand in them.",
+      "Aversion to light."
+    ],
+    "Ears": [
+      "Sensation of drop of water in left ear.",
+      "Earache.",
+      "External ear hot, red, painful, swollen.",
+      "Very sensitive to noises; music is unbearable."
+    ],
+    "Nose": [
+      "Mucus membranes dry, nose stopped up; dry or with but scanty watery coryza.",
+      "Hemorrhage of bright red blood.",
+      "Coryza; much sneezing; throbbing in nostrils.",
+      "Pain at root of nose.",
+      "Smell acutely sensitive."
+    ],
+    "Face": [
+      "One cheek red, the other pale.",
+      "Red, hot, flushed, swollen.",
+      "On rising, the red face becomes deathly pale, or he becomes dizzy.",
+      "Pain in jaws.",
+      "Tingling in cheeks and numbness.",
+      "Neuralgia, especially of left side, with restlessness, tingling, and numbness."
+    ],
+    "Mouth": [
+      "Constantly moves lower jaw as if chewing.",
+      "Gums hot and inflamed.",
+      "Numb, dry, and tingling.",
+      "Tongue coated white.",
+      "Teeth sensitive to cold.",
+      "Tongue swollen; tip tingles."
+    ],
+    "Throat": [
+      "Red, dry, constricted, numb, prickling, burning, stinging.",
+      "Tonsils swollen and dry."
+    ],
+    "Stomach": [
+      "Vomiting, with fear, heat, profuse sweat and increased urination.",
+      "Pressure in stomach with dyspnoea.",
+      "Vomiting, billious, mucuous and bloody, greenish.",
+      "Intense thirst.",
+      "Thirst for cold water.",
+      "Drinks, vomits and declares he will die.",
+      "Bitter taste of everything except water.",
+      "Hematemeis, Burning from stomach to esophagus."
+    ],
+    "Abdomen": [
+      "Sensitive to touch.",
+      "Hot, tense, tympanitic.",
+      "Colic, no position relieves.",
+      "Burning in umbilical region.",
+      "Abdominal symptoms better after warn soup."
+    ],
+    "Rectum": [
+      "White with red urine.",
+      "Frequent, small stool with tenesmus; green, like chopped herbs.",
+      "Choleraic discharge with collapse, anxiety, and restlessness.",
+      "Watery diarrhea in children; They cry and complain much, are sleepless and restless.",
+      "Bleeding hemorrhoids.",
+      "Pain with nightly itching and stitching in anus."
+    ],
+    "Urine": [
+      "Renal region sensitive.",
+      "Scanty, red, hot, painful.",
+      "Burning in urethra.",
+      "Anxiety always on beginning to urinate.",
+      "Profuse urination, with profuse perspiration and diarrhea.",
+      "Retention, with screaming and restlessness, and handling of genitals.",
+      "Urine suppressed, bloody.",
+      "Tenesmus and burning at neck of bladder."
+    ],
+    "Male": [
+      "Bruised pain in testicles, swollen, hard.",
+      "Frequent erections and emissions.",
+      "Painful erections.",
+      "Crawling and stinging in glans."
+    ],
+    "Female": [
+      "After pains, with fear and restlessness.",
+      "Suppressed from fright, cold, in plethoric subjects.",
+      "Frenzy on appearance of menses.",
+      "Ovaries congested and painful.",
+      "Menses too profuse, with nosebleed, too protracted, late.",
+      "Vagina dry, hot, sensitive.",
+      "Sharp shooting pains in womb."
+    ],
+    "Respiratory": [
+      "Stitches through chest.",
+      "Hoarse, dry, croupy cough; loud, labored breathing.",
+      "Tingling in chest after cough.",
+      "Cough, dry, short, hacking; worse at night and after midnight.",
+      "Shortness of breath.",
+      "Very sensitive to inspired air.",
+      "Larynx sensitive.",
+      "Constant pressure in left chest; oppressed breathing on least motion.",
+      "Child grasps at throat every time he coughs.",
+      "Hot feeling in lungs.",
+      "Blood comes up with hawking."
+    ],
+    "Heart": [
+      "Affections of the heart with pain in left shoulder.",
+      "Tachycardia.",
+      "Temporal and carotid arteries felt with sitting.",
+      "Palpitation, with anxiety, fainting, and tingling in fingers.",
+      "Stitching pain in chest.",
+      "Pulse full, hard; tense and bounding; sometimes intermits."
+    ],
+    "Back": [
+      "Crawling and tingling, as if bruised.",
+      "Bruised pain between scapulae.",
+      "Numb, stiff, painful.",
+      "Stiffness in nape of neck."
+    ],
+    "Extremeties": [
+      "Bright red hypothenar eminences on both hands.",
+      "Pain down left arm.",
+      "Rheumatic inflammation of joints; worst at night; red shining swelling, very sensitive.",
+      "Numbness and tingling; shooting pains; icy coldness and insensibility of hands and feet.",
+      "Sensation as if drops of water trickled down the thigh.",
+      "Weak and lax ligaments of all joints.",
+      "Arms feel lame, bruised, heavy, numb.",
+      "Knees unsteady; disposition of foot to turn.",
+      "Hip-joint and thigh feel lame, especially after lying down.",
+      "Hot hands and cold feet."
+    ],
+    "Sleep": [
+      "Long dreams, with anxiety in chest.",
+      "Sleeplessness, with restless and tossing about.",
+      "Nightly ravings.",
+      "Starts up in sleep.",
+      "Insomnia of the aged.",
+      "Anxious dreams.",
+      "Nightmare."
+    ],
+    "Skin": [
+      "Chilliness and formication down back.",
+      "Formication and numbness.",
+      "Red, hot, swollen, dry, burning.",
+      "Purpura miliaris.",
+      "Gooseflesh.",
+      "Rash like measles.",
+      "Pruritus relieved by stimulants."
+    ],
+    "Fever": [
+      "Cold sweat and icy coldness of face.",
+      "Coldness and heat alternate.",
+      "Dry heat, red face.",
+      "Cold waves pass through him.",
+      "Sweat drenching, on parts lain on; relieving all symptoms.",
+      "Thirst and restlessness always present.",
+      "Chilly if uncovered or touched.",
+      "Evening chilliness soon after going to bed."
+    ],
+    "Modalities": [
+      "Worse: in warm room, in evening and night.",
+      "Worse: Lying on affected side, from music, from tobacco smoke, dry, cold winds.",
+      "Better: in open air."
+    ]
+  }
+}
