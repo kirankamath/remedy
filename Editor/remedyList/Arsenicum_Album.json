@@ -1,0 +1,37 @@
+{
+  "name": "Arsenicum Album",
+  "details": "A profoundly acting remedy on every organ and tissue. Its general symptoms often lead to its successful application. \nAmong these all-prevailing debility, exhaustion and restlessness with nightly aggravation are most important.\nGreat exaustion after slightest exertion. This, with the peculiar irritability of fibre, gives the characteristic irritable weakness.\nBurning pains. Unquenchable thirst. Burning relieved by heat. Seaside complaints. \nInjurious effects of fruits, especially more watery ones. Gives quite and ease to the last moments of life when given in high potency.\nFear fright and worry. Green discharges. Infantile Kala-azar.\n\nThis remedy should be thought of in ailments from alcoholism, ptomaine poisoning, stings, dissecting wounds, chewing tobacco; \nill effects from decayed food or animal matter; odor of discharches is putrid; in complaints that return annually.\nAnemia and chlorosis. Degenerative changes. Gradual loss of weight from impaired nutrition.\nReduces refractive index of blood serum. Maintains the system under the stress of malignancy regardless of location.\nMalarial cachexia. Septic infections and low vitality.\n",
+  "dosage": "Third to thirtieth potency. The very highest potencies often yield brilliant results.",
+  "symptoms": {
+    "Head": [
+      "Head is in constant motion.",
+      "Delirium tremens; cursing and raving; vicious.",
+      "Periodical burning pains, with restlessness; with cold skin.",
+      "Hemicrania, with icy feeling of scalp and great weakness.",
+      "Scalp very sensitive; cannot brush hair.",
+      "Scalp itches intolerably; circular patches of bare spots; rough, dirty, sensitive, and covered with dry scales; nightly burning and itching; dandruff.",
+      "Sensitive head in open air.",
+      "Headaches relieved by cold, other symptoms worse."
+    ],
+    "Mind": [
+      "Hallucinations of smell and sight.",
+      "Great anguish and restlessness.",
+      "Great fear, with cold sweat.",
+      "Thinks it is useless to take medicine.",
+      "Fears, of death, of being left alone.",
+      "Despair drives him from place to place.",
+      "General sensibility increased, sensitive to disorder and confusion.",
+      "Suicidal.",
+      "Miserly, malicious, selfish, lacks courage."
+    ],
+    "Eyes": [
+      "Ciliary neuralgia, with fine burning pain.",
+      "Corneal ulceration.",
+      "External inflammation, with extreme pain; burning, hot, and excoriating lachrymation.",
+      "Intense photophobia; better external warmth.",
+      "Edema around eyes.",
+      "Burning in eyes, with acrid lachrymation.",
+      "Lids red, ulcerated, scabby, granulated."
+    ]
+  }
+}
