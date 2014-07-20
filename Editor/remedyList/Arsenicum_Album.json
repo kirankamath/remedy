@@ -32,6 +32,178 @@
       "Edema around eyes.",
       "Burning in eyes, with acrid lachrymation.",
       "Lids red, ulcerated, scabby, granulated."
+    ],
+    "Ears": [
+      "Skin within, raw and burning.",
+      "Roaring in ears, during a paroxysm of pain.",
+      "Thin, excoriating, offensive discharge."
+    ],
+    "Nose": [
+      "Acne of nose.",
+      "Burning and bleeding.",
+      "Sneezing without relief.",
+      "Thin, watery, excoriating discharge.",
+      "Lupus.",
+      "Hay-fever and coryza; worse in open air; better indoors.",
+      "Nose feels stopped up."
+    ],
+    "Face": [
+      "Expression of agony.",
+      "Swollen, pale, yellow, cachectic, sunken, cold, and covered with sweat.",
+      "Angry, circumscribed flush of cheeks.",
+      "Lips black, livid.",
+      "Tear-ing, needle-like pains; burning."
+    ],
+    "Mouth": [
+      "Metallic taste.",
+      "Bloody saliva.",
+      "Neuralgia of teeth; feel long and very sore; worse after midnight; better with warmth.",
+      "Gulping up of burning water.",
+      "Unhealthy, easily-bleeding gums.",
+      "Epithelioma of lips.",
+      "Tongue dry, clean and red; stitching and burning pain in tongue, ulcerated with blue color.",
+      "Ulceration of mouth with dryness and burning heat."
+    ],
+    "Throat": [
+      "Diphtheritic membrane looks dry and wrinkled.",
+      "Swollen, edematous, constricted, burning, unable to swallow."
+    ],
+    "Stomach": [
+      "Stomach extremely irritable; seems raw; as if torn.",
+      "Everything swallowed seems to lodge in the esophagus, which seems as if closed and nothing would pass.",
+      "Great thirst; drinks much, but little at a time.",
+      "Nausea, retching, vomiting, after eating or drinking.",
+      "Anxiety in pit of stomach.",
+      "Ill effects of vegetable diet, melons and watery fruits generally.",
+      "Cannot bear the sight or smell of food.",
+      "Long-lasting eructations.",
+      "Vomiting of blood, bile, green mucus, or brown-black mixed with blood.",
+      "Heartburn; gulping up of acid and bitter substances which seem to excoriate the throat.",
+      "Burning pain.",
+      "Craves milk.",
+      "Gastralgia from slightest food or dring.",
+      "Dyspepsia from vinegar, acids, ice-cream, ice-water, tobacco.",
+      "Terrible fear and dyspnea, with gastralgia; also faintness, icy coldness, great exhaustion.",
+      "Craves acids and coffee.",
+      "Malignant symptoms."
+    ],
+    "Abdomen": [
+      "Abdomen swollen and painful.",
+      "Ascites and anasarca.",
+      "Gnawing, burning pains like coals of fire; relieved by heat.",
+      "Liver and spleen enlarged and painful.",
+      "Pain as from wound in abdomen on coughing."
+    ],
+    "Rectum": [
+      "Burning pain and pressure in rectum and anus.",
+      "Tenesmus.",
+      "Painful, spasmodic protrusion of rectum."
+    ],
+    "Stool": [
+      "Skin excoriated about anus.",
+      "Small, offensive, dark, with much prostration.",
+      "Body cold as ice.",
+      "Dysentry, dark, bloody, very offensive.",
+      "Hemorrhoids burn like fire; relieved by heat.",
+      "Worse at night, and after eating an drinking; from chilling stomach, alcoholic abuse, spoiled meat.",
+      "Cholera with intense agony, prostration and burning thirst."
+    ],
+    "Urine": [
+      "Albuminous.",
+      "Bladder as if paralyzed.",
+      "After urinating, feeling of weakness in abdomen.",
+      "Epithelial cells; cylindrical clots of fibrin and globules of pus and blood.",
+      "Bright\u0027s disease.",
+      "Scanty, burning, involuntary.",
+      "Diabetes."
+    ],
+    "Female": [
+      "Menorrhagia.",
+      "Burning in ovarian region.",
+      "Pain as if from red-hot wires; worse least exertion; causes great fatigue; better in warm room.",
+      "Stitching pain in pelvis extending down the thigh.",
+      "Leucorrhea, acrid, burning, offensive, thin.",
+      "Menses too profuse and too soon."
+    ],
+    "Respiratory": [
+      "Suffocative catarrh.",
+      "Burning in chest.",
+      "Unable to lie down; fears suffocation.",
+      "Cought worse after midnight; worse lying on back.",
+      "Asthma worse midnight.",
+      "Hemoptysis with pain between shoulders; burning heat all over.",
+      "Wheezing respiration.",
+      "Darting pain through upper third of right lung.",
+      "Air passages constricted.",
+      "Expectoration scanty, frothy.",
+      "Cough dry, as from sulphur fumes; after drinking."
+    ],
+    "Heart": [
+      "Cyanosis.",
+      "Pulse more rapid in morning.",
+      "Fatty degeneration.",
+      "Angina pectoris, with pain in neck and occiput.",
+      "Palpitation, pain, dyspnea, faintness.",
+      "Irritable heart in smokers and tobacco chewers.",
+      "Dilatation"
+    ],
+    "Back": [
+      "Drawing in of shoulders.",
+      "Pain and burning in back.",
+      "Weakness in small of back."
+    ],
+    "Extremeties": [
+      "Diabetic gangrene.",
+      "Swelling of feet.",
+      "Paralysis of lower limbs with atrophy.",
+      "Burning pains.",
+      "Trembling, twitching, spasms, weakness, heaviness, uneasiness.",
+      "Ulcers on heel.",
+      "Peripheral Neuritis.",
+      "Cramps in calves.",
+      "Sciatica."
+    ],
+    "Skin": [
+      "Scirrhus.",
+      "Anthrax.",
+      "Malignant pustules.",
+      "Itching, burning, swellings; edema, eruption, papular, dry, rough, scaly; worse with cold and scratching.",
+      "Gangrenous inflammations.",
+      "Psoriasis",
+      "Icy coldness of body",
+      "Urticaria, with burning and restlessness.",
+      "Poisoned wounds.",
+      "Ulcers with offensive discharge.",
+      "Epithelioma of the skin."
+    ],
+    "Sleep": [
+      "Suffocative fits during sleep.",
+      "Disturbed, anxious, restless.",
+      "Drowsy, sleeping sickness.",
+      "Sleeps with hards over head.",
+      "Must have hear raised by pillows.",
+      "Dreams are full of care and feat."
+    ],
+    "Fever": [
+      "Periodicity marked with adynamia.",
+      "Septic fevers.",
+      "High temperature.",
+      "Typhoid.",
+      "Sordes.",
+      "Intermittent.",
+      "Great heat at about 3 a.m.",
+      "Cold sweats.",
+      "Complete exhaustion.",
+      "Great restlessness.",
+      "Hay-fever.",
+      "Paroxysms incomplete, with marked exhaustion.",
+      "Delirium, worse after midnight."
+    ],
+    "Modalities": [
+      "Worse: wet weather, after midnight; from cold, cold drinks, or food.",
+      "Better: from heat; head elevated; warm drinks.",
+      "Worse: seashore.",
+      "Worse: right side."
     ]
   }
 }
