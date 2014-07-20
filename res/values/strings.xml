@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_title">Remedy</string>
-    <string name="remedy_list">List of remedies</string>
+    <string name="remedy_list">Materia Medica</string>
     <string name="repertory">Repertory</string>
     <string name="references">References</string>
     <string name="title_activity_remedy_list">RemedyListActivity</string>
