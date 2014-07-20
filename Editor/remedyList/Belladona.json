@@ -1,0 +1,227 @@
+{
+  "name": "Belladona",
+  "details": "Belladona acts upon every part of the nervous system, producing active congestion, furious excitement, perverted special senses, twitching, convulsion and pain.\nIt has a marked action on vascular system, skin and glands. Belladona always is associated with hot, red skin, flushed face, glaring eyes, throbbing carotids, excited mental state, hyperaesthesia of all senses, delirium, restless sleep, convulsive movements,\ndryness of mouth and throat with aversion to wate, neuralgic pains that come and go suddenly.\nHeat, redness, throbbing and burning. Great children\u0027s remedy. Epileptic spasms followed by nausea and vomiting. Scarlet fever. Exophthalmic goitre. Corresponds to the symptoms of air-sickness in aviators. Give as preventive.\nNo thirst, anxiety or feat. Belladona stands for violence of attack and suddenness of onset. Belladona for extreme thyroid toxaemia.",
+  "dosage": "First to thirtieth potency and higher. Must be repeated frequently in acute diseases.",
+  "symptoms": {
+    "Heart": [
+      "Throbbing all through body.",
+      "Palpitation from least exertion.",
+      "Dichrotism.",
+      "Rapid but weakened pulse.",
+      "Heart seemed too large.",
+      "Violent palpitation, reverberating in head, with labored breathing."
+    ],
+    "Skin": [
+      "Alternate redness and paleness of the skin.",
+      "Indurations after inflamations.",
+      "Suppurative wounds.",
+      "Eruption like scarlatina, suddenly spreading.",
+      "Acne rosacea.",
+      "Glands swollen, tender, red.",
+      "Dry and hot; swollen, sensitive; burns scarlet, smooth.",
+      "Erysipelas.",
+      "Boils.",
+      "Erythema; pustules on face."
+    ],
+    "Head": [
+      "Headache worse on right side and when lying down; ill effects, colds etc; from having hair cut.",
+      "Boring of head into pillow; drawn backward and rolls from side to side.",
+      "Much throbbing and heat.",
+      "Sudden outcries.",
+      "Constant moaning.",
+      "Vertigo, with falling to left side or backwards.",
+      "Pain worse with light, noise, jar, lying down and in afternoon; better by pressure and semi erect posture.",
+      "Hair splits; is dry and comes out.",
+      "Palpitation reverberating in head and labored breathing.",
+      "Pain; fullness, especially in forehead, also occiput and temples.",
+      "Sensitive to least contact.",
+      "Headache from suppressed catarrhal flow."
+    ],
+    "Stool": [
+      "Prolapsus ani.",
+      "Piles more sensitive with backache.",
+      "Shuddering during stool.",
+      "Stinging pain in rectum; spasmodic stricture.",
+      "Thin, green, dysenteric; in lumps like chalk."
+    ],
+    "Ears": [
+      "Hematoma auris.",
+      "Humming noises.",
+      "Parotid gland swollen.",
+      "Pain causes delirium.",
+      "Membrana timpani bulges and injected.",
+      "Child cries out in sleep; throbbing and beating pain deep in ear, synchronous with heartbeat.",
+      "Hearing very acute.",
+      "Otitis media.",
+      "Sensitive to loud tones.",
+      "Autophony - hearing one\u0027s voice in ear.",
+      "Tearing pain in middle and external ear.",
+      "Acute and sub-acute conditions of Eustachian tube."
+    ],
+    "Abdomen": [
+      "Exterme sensitiveness to touch, bed-clothes, etc.",
+      "Distended, hot.",
+      "Cutting pain across; Stitches in left side of abdomen, when coughing, sneezing or touching it.",
+      "Tender, swollen.",
+      "Transverse colon protrudes like a pad.",
+      "Pain as if clutched by hand; Worse on jar, pressure."
+    ],
+    "Mind": [
+      "He is acutely alive and crazed by a flood of subjective visual impressions and fantastic illusions.",
+      "While the ratina is insensible to actual objects, a host of visual hallucinations throng about him and come to him from within.",
+      "Delirium; frightful images; furious; rages, bites, strikes; desire to escape.",
+      "Hallucinations, sees monsters, hideous faces.",
+      "Patient lives in a world of his own, engrossed by spectres and visions and oblivious to surrounding realities.",
+      "Acuteness of all sense.",
+      "Changeableness.",
+      "Perversity, with tears.",
+      "Disinclined to talk.",
+      "Loss of consciousness."
+    ],
+    "Back": [
+      "Stiff neck.",
+      "Lumbargo, with pain in hips and thighs.",
+      "Pressure on dorsal region most painful.",
+      "Swelling of glands of neck.",
+      "Pain in nape, as if it would break."
+    ],
+    "Fever": [
+      "No thirst with fever.",
+      "Burning, pungent, steaming, heat.",
+      "Perspiration dry only on head.",
+      "Superficial blood-vessels distended.",
+      "A high feverish state with comparative absense of toxaemia.",
+      "Feet icy cold."
+    ],
+    "Extremeties": [
+      "Shooting pains along limbs.",
+      "Shifting rheumatic pains.",
+      "Tottering gait.",
+      "Spasms.",
+      "Joints swollen, red, shining, with red streaks radiating.",
+      "Cold extremeties.",
+      "Jerking limbs.",
+      "Phlegmasia alba dolens.",
+      "Involuntary limping."
+    ],
+    "Respiratory": [
+      "Stitches in chest when coughing.",
+      "Larynx very painful; feels as if a foreign body were in it, with cough.",
+      "Cough with pain in left hip.",
+      "Cheyne-stokes respiration.",
+      "Barking cough, whooping cough, with pain in stomach before attack, with expectoration of blood.",
+      "Hoarse; loss of voice.",
+      "Larynx feels sore.",
+      "Moaning at every breath.",
+      "Painful hoarseness.",
+      "Tickling, short, dry cough; worse at night.",
+      "Drying in nose, fauces, larynx and trachea.",
+      "High, piping voice.",
+      "Respiration oppressed, quick, unequal."
+    ],
+    "Modalities": [
+      "Better: semi-erect.",
+      "Worse: touch, jar, noise, draught, after noon, lying down."
+    ],
+    "Urine": [
+      "Frequent and profuse.",
+      "Urine scanty, with tenesmus; dark and turbid, loaded with phosphates.",
+      "Vasical region sensitive.",
+      "Incontinence, continuous dropping.",
+      "Hematuria where pathological condition can be found.",
+      "Acute urinary infections.",
+      "Retention.",
+      "Prostatic hypertrophy.",
+      "Sensation in bladder as of a worm."
+    ],
+    "Sleep": [
+      "Screams out in sleep.",
+      "Restless, crying out, gritting of teeth.",
+      "Kept awake by pulsation of blood-vessels.",
+      "Sleeplessness with drowsiness.",
+      "Sleeps with hands under head.",
+      "Starting when closing the eyes or during sleep."
+    ],
+    "Nose": [
+      "Coryza; mucus mixed with blood.",
+      "Bleeding of nose, with red face.",
+      "Imaginary odors.",
+      "Tingling in tip of nose.",
+      "Red and swollen."
+    ],
+    "Throat": [
+      "Red, worse on right side.",
+      "Muscles of deglutition very sensitive.",
+      "Scraping sensation.",
+      "Dry, as if glazed; angry-looking congestion.",
+      "Spasms in throat.",
+      "Hypertrophy of mucus membrane.",
+      "Continual inclination to swallow.",
+      "Tonsils enlarged; throat feels constricted; difficult deglutition; Worse with liquids.",
+      "Esophagus dry; feels contracted.",
+      "Sensation of lump."
+    ],
+    "Mouth": [
+      "Strawberry tongue.",
+      "Stammering.",
+      "Throbbing pain in teeth.",
+      "Grinding of teeth.",
+      "Tongue red on edges.",
+      "Dry.",
+      "Tongue swollen and painful.",
+      "Gumboil."
+    ],
+    "Face": [
+      "Facial neuralgia with twitching muscles and flushed face.",
+      "Swelling of upper lip.",
+      "Red, bluish-red, hot, swollen, shining; convulsive motion of muscles of face."
+    ],
+    "Female": [
+      "Dryness and heat of vagina.",
+      "Menses increased; bright red, too early, too profuse.",
+      "Pain in sacrum.",
+      "Tumors of breast, pain worse when lying down.",
+      "Hemorrhage hot.",
+      "Mastitis pain, throbbing, redness, streaks radiate from nipple.",
+      "Diminished lochia.",
+      "Breasts feel heavy; are hard and red.",
+      "Badly smelling hemorrhages, hot gushes of blood.",
+      "Menses and lochia very offensive and hot.",
+      "Dragging around loins.",
+      "Labor pains come and go suddenly.",
+      "Sensitive forcing downwards, as if all the viscera would protrude at genitals.",
+      "Cutting pain from hip to hip."
+    ],
+    "Male": [
+      "Flow of prostatic fluid.",
+      "Desire diminished.",
+      "Testicles hard, drawn up, inflamed.",
+      "Nocturnal sweat of genitals"
+    ],
+    "Stomach": [
+      "Great thirst for cold water.",
+      "Spasmodic hiccough.",
+      "Spasms of stomach.",
+      "Empty retching.",
+      "Dread of drinking.",
+      "Constriction; pain runs to spine.",
+      "Abhorrence of liquids.",
+      "Spasmodic pain in epigastrium.",
+      "Averse to meat and milk.",
+      "Nausea and vomiting.",
+      "Loss of appetite.",
+      "Uncontrollable vomiting."
+    ],
+    "Eyes": [
+      "Diplopia, squinting, spasms of lids.",
+      "Pupils dilated.",
+      "Occular illusions; fiery appearance.",
+      "Throbbing deep in eyes on lying down.",
+      "Sensation as if eyes were half closed.",
+      "Exophthalmus.",
+      "Eyes feel swollen and protruding, staring, brilliant; conjuctiva red; dry, burn; photophobia; shootin in eyes.",
+      "Fundus congested.",
+      "Eyelids swollen."
+    ]
+  }
+}
