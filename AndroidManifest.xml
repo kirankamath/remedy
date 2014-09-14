@@ -6,7 +6,10 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
+        android:targetSdkVersion="22" />
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -40,6 +43,27 @@
         <activity
             android:name="org.remedy.repertory.FilteredRemedyActivity"
             android:label="@string/title_activity_filtered_remedy" >
+        </activity>
+        <activity
+            android:name="org.remedy.ListenerActivity"
+            android:label="@string/app_title" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="http" android:host="*"
+                    android:pathPattern=".*\\.remedydata" />
+                <data android:scheme="content" android:host="*"
+                    android:pathPattern=".*\\.remedydata" />
+                <data android:scheme="file" android:host="*"
+                    android:pathPattern=".*\\.remedydata" />
+                <data android:scheme="http" android:host="*"
+                    android:pathPattern=".*\\.remedyzip" />
+                <data android:scheme="content" android:host="*"
+                    android:pathPattern=".*\\.remedyzip" />
+                <data android:scheme="file" android:host="*"
+                    android:pathPattern=".*\\.remedyzip" />
+            </intent-filter>
         </activity>
     </application>
 
