@@ -7,7 +7,6 @@
     <string name="references">References</string>
     <string name="title_activity_remedy_list">RemedyListActivity</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
     <string name="enter_remedy_by_name">Enter remedy name</string>
     <string name="title_activity_remedy_details">RemedyDetails</string>
     <string name="title_activity_repertory">RepertoryActivity</string>
