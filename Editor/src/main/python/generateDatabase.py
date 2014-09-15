@@ -14,15 +14,16 @@ catalog_dir = os.path.join(src_root, "Editor", "remedyList")
 
 def create_tables(c):
     # Create remedy table.
-    c.execute("create table remedy (id integer PRIMARY KEY, name text, details text, dosage text)")
+    c.execute("create table remedy (name text PRIMARY KEY, details text, dosage text)")
     c.execute("create index remedy_name_index on remedy (name)")
     
     # Create category table.
-    c.execute("create table category (id integer PRIMARY KEY, category text)")
+    c.execute("create table category (category text PRIMARY KEY)")
     
     # Create symptom_list table.
-    c.execute("create table symptom_list (id integer PRIMARY KEY, cat_id integer, symptom text, " +
-              " foreign key(cat_id) references category(id))")
+    c.execute("create table symptom_list (cat_id integer, symptom text, " +
+              " foreign key(cat_id) references category(rowid), " + 
+              " primary key(cat_id, symptom))")
     
     # Create remedy_symptom table.
     c.execute(" create table remedy_symptom (remedy_id integer, symptom_id integer, " +
@@ -44,11 +45,16 @@ for f in os.listdir(catalog_dir):
         remedy_id = c.lastrowid
         symptoms = remedy["symptoms"]
         for category, desc_list in symptoms.iteritems():
-            c.execute("insert into category (category) values (?)", (category,))
-            category_id = c.lastrowid
+            c.execute("select rowid from category where category = ?", (category,))
+            row = c.fetchone()
+            if row != None:
+                category_id = row[0]
+            else:
+                c.execute("insert into category (category) values (?)", (category,))
+                category_id = c.lastrowid
             for desc in desc_list:
                 # See if the desc already exists.
-                c.execute("select id from symptom_list where symptom = ? and cat_id = ?", (desc, category_id))
+                c.execute("select rowid from symptom_list where symptom = ? and cat_id = ?", (desc, category_id))
                 row = c.fetchone()
                 if row != None:
                     symptom_id = row[0]
