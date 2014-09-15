@@ -52,7 +52,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="http" android:host="*"
+                <data android:scheme="http" android:host="*" 
                     android:pathPattern=".*\\.remedydata" />
             </intent-filter>
             
@@ -78,17 +78,24 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="http" android:host="*"
-                    android:pathPattern=".*\\.remedydata" />
-                <data android:scheme="content" android:host="*"
-                    android:pathPattern=".*\\.remedydata" />
+                    android:pathPattern=".*\\.remedyzip" />
+            </intent-filter>
+            
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                
                 <data android:scheme="file" android:host="*"
-                    android:pathPattern=".*\\.remedydata" />
-                <data android:scheme="http" android:host="*"
-                    android:pathPattern=".*\\.remedyzip" />
+                    android:pathPattern=".*\\.remedyzip" android:mimeType="*/*" />
+            </intent-filter>
+            
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="content" android:host="*"
-                    android:pathPattern=".*\\.remedyzip" />
-                <data android:scheme="file" android:host="*"
-                    android:pathPattern=".*\\.remedyzip" />
+                    android:pathPattern=".*\\.remedyzip" android:mimeType="*/*" />
             </intent-filter>
         </activity>
     </application>
