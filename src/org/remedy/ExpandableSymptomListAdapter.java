@@ -33,11 +33,14 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
     private final int LIGHTRED_COLOR;
 
     private static final String[] categoryOrder = new String[] {
+        "Sleep",
         "Head",
         "Mind",
         "Face",
+        "Eyes",
         "Nose",
         "Mouth",
+        "Tongue",
         "Throat",
         "Respiratory",
         "Chest",
@@ -47,13 +50,15 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         "Abdomen",
         "Urine",
         "Genetalia",
+        "Rectum",
+        "Stool",
         "Skin",
-        "Modalities",
-        "Sexual",
-        "Sleep",
-        "Female",
         "Extremeties",
         "Fever",
+        "Female",
+        "Male",
+        "Modalities",
+        "Sexual",
     };
 
     /**
@@ -194,10 +199,10 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         if (convertView == null) {
             LayoutInflater inflater = (LayoutInflater)context.getSystemService(
                     Context.LAYOUT_INFLATER_SERVICE);
-            convertView = inflater.inflate(R.layout.remedy_details_symptom_item, null);
+            convertView = inflater.inflate(R.layout.small_list_item, null);
         }
 
-        TextView item = (TextView) convertView.findViewById(R.id.remedy_details_symptom_item_text);
+        TextView item = (TextView) convertView.findViewById(R.id.small_list_item_text);
         String symptom = (String)getChild(groupPosition, childPosition);
         item.setText(symptom);
         String category = (String) getGroup(groupPosition);
