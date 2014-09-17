@@ -38,6 +38,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         "Mind",
         "Face",
         "Eyes",
+        "Ears",
         "Nose",
         "Mouth",
         "Tongue",
