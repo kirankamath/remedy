@@ -41,6 +41,7 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         "Throat",
         "Respiratory",
         "Chest",
+        "Heart",
         "Back",
         "Stomach",
         "Abdomen",

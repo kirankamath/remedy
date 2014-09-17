@@ -10,7 +10,13 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.List;
 
+import org.remedy.Remedy;
+import org.remedy.db.RemedyDAO;
+
+import android.content.Context;
 import android.os.AsyncTask;
+
+import com.google.gson.Gson;
 
 public class DataFetcher extends AsyncTask<Void, Void, Void> {
 
@@ -20,10 +26,12 @@ public class DataFetcher extends AsyncTask<Void, Void, Void> {
 
     private final DataFetchListener listener;
     private final String url;
+    private final Context context;
 
-    public DataFetcher(DataFetchListener listener, String url) {
+    public DataFetcher(Context context, DataFetchListener listener, String url) {
         this.listener = listener;
         this.url = url;
+        this.context = context;
     }
 
     @Override
@@ -34,7 +42,7 @@ public class DataFetcher extends AsyncTask<Void, Void, Void> {
     @Override
     protected Void doInBackground(Void... params) {
 
-        BufferedReader in = null;
+        BufferedReader reader = null;
         System.setProperty("java.net.useSystemProxies", "true");
         List<Proxy> proxies = ProxySelector.getDefault().select(URI.create("http://www.google.com"));
         Proxy _proxy = null;
@@ -43,18 +51,24 @@ public class DataFetcher extends AsyncTask<Void, Void, Void> {
         }
 
         try {
+            Gson gson = new Gson();
             URL tickerUrl = new URL(url);
             URLConnection connection = tickerUrl.openConnection(_proxy);
-            in = new BufferedReader(
-                    new InputStreamReader(connection.getInputStream()));
+            reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+            Remedy remedy = gson.fromJson(reader, Remedy.class);
 
-            String inputLine;
+            // If the remedy is not already in the DB, save it.
+            RemedyDAO.saveRemedy(context, remedy);
 
-            while ((inputLine = in.readLine()) != null) {
-                System.out.println("Line is " + inputLine);
-            }
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            if (reader != null) {
+                try {
+                    reader.close();
+                } catch (IOException e) {
+                }
+            }
         }
 
         return null;

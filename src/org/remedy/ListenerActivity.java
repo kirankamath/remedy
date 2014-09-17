@@ -6,18 +6,21 @@ import android.app.Activity;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class ListenerActivity extends Activity implements DataFetcher.DataFetchListener {
 
+    private TextView outputView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listener);
 
+        outputView = (TextView) findViewById(R.id.data_grabber_output);
+        outputView.setText("Loading data ...");
         Uri fileUri = getIntent().getData();
-        Toast.makeText(this, "File " + fileUri + " being processed. Uri ", Toast.LENGTH_LONG).show();
-        new DataFetcher(this, fileUri.toString()).execute();
+        new DataFetcher(this, this, fileUri.toString()).execute();
     }
 
     @Override
@@ -30,5 +33,6 @@ public class ListenerActivity extends Activity implements DataFetcher.DataFetchL
     @Override
     public void fetchComplete(String url) {
         Toast.makeText(this, "File " + url + " downloaded successfully", Toast.LENGTH_LONG).show();
+        outputView.setText("Data loaded successfully.");
     }
 }

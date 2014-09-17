@@ -6,23 +6,26 @@
 
     <Button
         android:id="@+id/remedy_list_button"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
+        android:padding="20dp"
+        android:background="@drawable/oval_background"
         android:text="@string/remedy_list" />
 
     <Button
         android:id="@+id/repertory_button"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
+        android:padding="20dp"
+        android:background="@drawable/oval_background"
         android:text="@string/repertory" />
 
     <Button
         android:id="@+id/references_button"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
+        android:padding="20dp"
+        android:background="@drawable/oval_background"
         android:text="@string/references" />
 
 </LinearLayout>
