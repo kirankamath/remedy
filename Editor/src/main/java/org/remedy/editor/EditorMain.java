@@ -22,6 +22,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
+import javax.swing.BorderFactory;
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -72,7 +73,7 @@ public class EditorMain extends JFrame {
     private JButton addSymptomButton;
     private JButton addToCurrentSymptomsButton;
     private JButton removeCurrentSymptomButton;
-    private JTextField dosageField;
+    private JTextArea dosageField;
     private JTextArea detailsField;
 
     private Map<String, Remedy> remedyMap = new HashMap<>();
@@ -533,14 +534,16 @@ public class EditorMain extends JFrame {
 
     private JPanel createCurrentSymptomPanel() {
         JPanel panel = new JPanel();
-        GridBagLayout layout = new GridBagLayout();
-        panel.setLayout(layout);
+        panel.setLayout(new GridBagLayout());
 
         GridBagConstraints c = new GridBagConstraints();
         c.anchor = GridBagConstraints.NORTHWEST;
         c.gridx = 0;
         c.gridy = 0;
         c.insets = new Insets(3, 3, 3, 3);
+
+        JPanel symptomPanel = new JPanel();
+        symptomPanel.setLayout(new GridBagLayout());
 
         chosenRemedyName = new JTextField(20);
         chosenRemedyName.setEditable(false);
@@ -549,7 +552,8 @@ public class EditorMain extends JFrame {
 
         c.fill = GridBagConstraints.HORIZONTAL;
         c.weightx = 1.0;
-        panel.add(chosenRemedyName, c);
+        c.weighty = 0.0;
+        symptomPanel.add(chosenRemedyName, c);
 
         currentSymptomListModel = new DefaultListModel<>();
         currentSymptomList = new JList<>(currentSymptomListModel);
@@ -559,12 +563,18 @@ public class EditorMain extends JFrame {
         scrollPane.setBorder(new BevelBorder(NORMAL));
         c.gridx = 0;
         c.gridy++;
-        c.gridheight = 3;
         c.gridwidth = 2;
         c.weighty = 1.0;
         c.weightx = 1.0;
         c.fill = GridBagConstraints.BOTH;
-        panel.add(scrollPane, c);
+        symptomPanel.add(scrollPane, c);
+
+        c.gridx = 0;
+        c.gridy = 0;
+        c.fill = GridBagConstraints.BOTH;
+        c.weightx = 1.0;
+        c.weighty = 1.0;
+        panel.add(symptomPanel, c);
 
         selectionModel.addListSelectionListener(new ListSelectionListener() {
 
@@ -578,6 +588,37 @@ public class EditorMain extends JFrame {
                 }
             }
         });
+
+        c.gridx = 0; c.gridy += 3;
+        c.gridwidth = 1; c.gridheight = 1;
+        c.weighty = 1.0; c.weightx = 1.0;
+        c.fill = GridBagConstraints.HORIZONTAL;
+
+        dosageField = new JTextArea(1, 20);
+        {
+            dosageField.setBorder(BorderFactory.createTitledBorder("Dosage"));
+            dosageField.setLineWrap(true);
+            c.gridx = 0;
+            c.weighty = 1.0; c.weightx = 1.0;
+            c.fill = GridBagConstraints.BOTH;
+            panel.add(new JScrollPane(dosageField), c);
+        }
+
+        detailsField = new JTextArea(3, 20);
+        {
+            detailsField.setLineWrap(true);
+            detailsField.setBorder(BorderFactory.createTitledBorder("Details"));
+            c.gridy++;
+            c.fill = GridBagConstraints.BOTH;
+            c.weighty = 3.0; c.weightx = 1.0;
+            detailsField.setText("");
+            panel.add(new JScrollPane(detailsField), c);
+        }
+
+        c.gridx = 0; c.gridy++;
+        c.gridwidth = 1; c.gridheight = 1;
+        c.weighty = 0.0; c.weightx = 0.0;
+        c.fill = GridBagConstraints.HORIZONTAL;
 
         JPanel buttonPanel = new JPanel();
         JButton saveButton = new JButton("Save");
@@ -624,35 +665,6 @@ public class EditorMain extends JFrame {
                 }
             }
         });
-
-        c.gridx = 0; c.gridy += 3;
-        c.gridwidth = 1; c.gridheight = 1;
-        c.weighty = 0.0; c.weightx = 0.0;
-        c.fill = GridBagConstraints.NONE;
-        JLabel dosageLabel = new JLabel("Dosage");
-        panel.add(dosageLabel, c);
-
-        dosageField = new JTextField(20);
-        c.gridx = 1;
-        c.weighty = 0.0; c.weightx = 3.0;
-        c.fill = GridBagConstraints.HORIZONTAL;
-        panel.add(dosageField, c);
-
-        JLabel detailsLabel = new JLabel("Details");
-        c.gridx = 0; c.gridy++;
-        panel.add(detailsLabel, c);
-
-        detailsField = new JTextArea(3, 20);
-        c.gridx++;
-        c.weighty = 1.0; c.weightx = 3.0;
-        c.fill = GridBagConstraints.BOTH;
-        detailsField.setText("");
-        panel.add(detailsField, c);
-
-        c.gridx = 0; c.gridy++;
-        c.gridwidth = 1; c.gridheight = 3;
-        c.weighty = 0.0; c.weightx = 1.0;
-        c.fill = GridBagConstraints.HORIZONTAL;
         panel.add(buttonPanel, c);
         TitledBorder border = new TitledBorder(new BevelBorder(
                 BevelBorder.LOWERED, Color.BLACK, Color.BLACK),
