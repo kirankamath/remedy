@@ -1,0 +1,49 @@
+{
+  "name": "Chininum Sulphuricum(Chinin Sulph)",
+  "details": "A dose of Chinin sulph in high potency sometimes arouses suppressed malaria, and brings back the paroxysm. Aside from its undoubted influence over malaria, is it indicated homeopathically whenever there is marked periodicity and spinal sensitiveness. Actute articular rheumatism. Polyarticular gout. Pruritus and congested conditions of the rectum. Symptoms of chronic interstitial nephritis. Retro-bulbar neuritis with sudden loss of sight. Thready vessels. Hiccough.",
+  "dosage": "First to third triturations; also thirtieth potency and higher.",
+  "symptoms": {
+    "Urine": [
+      "Excessive flow.",
+      "Albuminuria.",
+      "Turbid, slimy, clay-colored, greasy sediment.",
+      "Bloody.",
+      "Small amount of urea and phosphoric acid with excess of uric acid and abundance of chlorides, accompanied by sub-normal temperature."
+    ],
+    "Head": [
+      "Amaurosis.",
+      "Failling in street.",
+      "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation.",
+      "Worse left side.",
+      "Inability to remain standing."
+    ],
+    "Spine": [
+      "Pain extends to head and neck.",
+      "Great sensitiveness of the dorsal vertebrae; pain on pressure.",
+      "Last cervical sensitive."
+    ],
+    "Skin": [
+      "Itching; erythema, urticaria, icterus, vesication, pustules, purpura.",
+      "Shriveled skin.",
+      "Great sensitiveness."
+    ],
+    "Face": [
+      "Pains return with great regularity; relieved by pressure.",
+      "Neuralgia commences under eye; extends into and around it."
+    ],
+    "Ears": [
+      "Violent ringing, buzzoing and roaring in ears, with deafness."
+    ],
+    "Blood": [
+      "An immediate and rapid decrease in red blood cells and reduction in hemoglobin with increase in elimination of chlorides.",
+      "Tendency to polynucleated leucocytosis."
+    ],
+    "Fever": [
+      "Painful swelling of various veins during a chill.",
+      "Shivering even in a warm room.",
+      "Subnormal temperature.",
+      "Anguish.",
+      "Chill daily at 3 pm."
+    ]
+  }
+}
