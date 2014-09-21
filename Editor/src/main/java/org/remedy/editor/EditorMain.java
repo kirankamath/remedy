@@ -18,7 +18,6 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -598,6 +597,7 @@ public class EditorMain extends JFrame {
         {
             dosageField.setBorder(BorderFactory.createTitledBorder("Dosage"));
             dosageField.setLineWrap(true);
+            dosageField.setWrapStyleWord(true);
             c.gridx = 0;
             c.weighty = 1.0; c.weightx = 1.0;
             c.fill = GridBagConstraints.BOTH;
@@ -607,6 +607,7 @@ public class EditorMain extends JFrame {
         detailsField = new JTextArea(3, 20);
         {
             detailsField.setLineWrap(true);
+            detailsField.setWrapStyleWord(true);
             detailsField.setBorder(BorderFactory.createTitledBorder("Details"));
             c.gridy++;
             c.fill = GridBagConstraints.BOTH;
