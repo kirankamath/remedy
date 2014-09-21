@@ -649,7 +649,7 @@ public class EditorMain extends JFrame {
                 // Save the currently selected remedy to the file.
                 String remedyName = chosenRemedyName.getText();
                 String remedyFileName = remedyName.replace(" ", "_");
-                File file = new File(REMEDY_DIR + "/" + remedyFileName + ".json");
+                File file = new File(REMEDY_DIR + "/" + remedyFileName + ".remedydata");
                 try {
                     BufferedWriter output = new BufferedWriter(new FileWriter(file));
                     Remedy remedy = remedyMap.get(remedyName);
