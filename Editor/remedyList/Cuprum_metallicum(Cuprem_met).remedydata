@@ -1,0 +1,102 @@
+{
+  "name": "Cuprum metallicum(Cuprem met)",
+  "details": "Spasmodic affections, cramps, convulsions, beginning in fingers and toes, violent, contractive and intermittent pain or some of the more marked expressions of the action of cuprum; and its curative range therefore includes tonic and clonic spasms, convulsions and epileptic attacks. Chorea brought on by fright. Nausea greater than in any other remedy. In epilepsy, aura begins at knees, ascends to hypogastrium; then unconsciousness, foaming and falling. Symptoms disposed to appear periodically and in groups. Complaints begin in left side. Tapeworm (colloidal Cuprum 3x). \nWhere eruptions strike in, as in scarlet fever, complaints such as excessive vomiting, stupor, convulsions may result, which come within the sphere of this remedy. The pains are increased by movement and touch.",
+  "dosage": "Sixth to thirtieth potency.",
+  "symptoms": {
+    "Heart": [
+      "Slow pulse; or hard, full and quick.",
+      "Palpitation, precordial anxiety and pain.",
+      "Angina pectoris.",
+      "Fatty degeneration."
+    ],
+    "Stomach": [
+      "Strong metallic taste.",
+      "Nausea.",
+      "When drinking, the fluid descends with gurgling sound.",
+      "Hiccup preceding the spasms.",
+      "Vomiting, relieved by drinking cold water; with colic, diarrhea, spasms.",
+      "Craves cool drink."
+    ],
+    "Modalities": [
+      "Worse: Before menses; from vomiting, contact.",
+      "Better: During perspiration, drinking cold water."
+    ],
+    "Head": [
+      "Bruised pain in brain and eyes on turning them.",
+      "Sensation as if water were poured over head.",
+      "Fixed ideas, malicious and morose.",
+      "Fearful.",
+      "Uses words not intended.",
+      "Purple, red swelling of head, with convulsions.",
+      "Meningitis.",
+      "Empty feeling.",
+      "Giddiness accompaines many ailments, head falls forward on chest. "
+    ],
+    "Eyes": [
+      "Aching over eyes.",
+      "Quick rolling of eyeballs with closed eyes.",
+      "Crossed.",
+      "Fixed, stary, sunken, glistening, turned upward."
+    ],
+    "Stool": [
+      "Black, painful, bloody with tenesmus and weakness.",
+      "Cholera; with cramps in abdomen and calves."
+    ],
+    "Respiratory": [
+      "Cough has a gurgling sound, better by drinking cold water.",
+      "Dyspnea with epigastric uneasiness.",
+      "Whooping cough, better, swallow water, with vomiting and spasms and purple face.",
+      "Spasm and constriction of chest; spasmodic asthma, alternating with spasmodic vomiting.",
+      "Spasm of the glottis.",
+      "Suffocative attacks, worse 3am.",
+      "Spasmodic dyspnea before menstruation.",
+      "Angina with asthmatic symptoms and cramps."
+    ],
+    "Abdomen": [
+      "Intussuception.",
+      "Neuralgia of abdominal viscera.",
+      "Colic, violent and intermittent.",
+      "Tense, hot and tender to touch; contracted."
+    ],
+    "Sleep": [
+      "During sleep, constant rumbling in abdomen.",
+      "Profound with shocks in body."
+    ],
+    "Nose": [
+      "Sensation of violent congestion of blood to nose."
+    ],
+    "Mouth": [
+      "Paralysis of tongue.",
+      "Constant protrusion and retraction of tongue, like a snake.",
+      "Strong metallic, slimy taste, with flow of saliva.",
+      "Stammering speech."
+    ],
+    "Female": [
+      "Cramps, extending into chest, before, during, or after suppression of menses.",
+      "Chlorosis.",
+      "After-pains.",
+      "Menses too late, protracted.",
+      "Also from suppressed foot sweats.",
+      "Ebullition of blood; palpitation."
+    ],
+    "Skin": [
+      "Bluish, marbled.",
+      "Chronic psoriasis and lepra.",
+      "Ulcers, itching spots and pimples at the folds of joints."
+    ],
+    "Extremeties": [
+      "Cramps in calves and soles.",
+      "Great weariness of limbs.",
+      "Epilepsy; aura begins in knees.",
+      "Coldness of hands.",
+      "Clenched thumbs.",
+      "Clonic spasms, beginning in fingers and toes.",
+      "Cramps in palms.",
+      "Jerking, twitching of muscles."
+    ],
+    "Face": [
+      "Distorted, pale bluish, with blue lips.",
+      "Contraction of jaws, with foam at mouth."
+    ]
+  }
+}
