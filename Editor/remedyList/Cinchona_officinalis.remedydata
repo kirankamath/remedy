@@ -1,0 +1,157 @@
+{
+  "name": "Cinchona officinalis",
+  "details": "Debility from exhausting discharges from loss of vital fluids together with the nervous erethism calls for this remedy. Periodicity is most marked. Sensitive to draughts, seldom indicated in earlier stages of acute disease. Chronic gout. Chronic suppurative pyelitis. Post operative gas pains, no relief from passing it.",
+  "dosage": "Tincture to thirtieth potency.",
+  "symptoms": {
+    "Heart": [
+      "Suffocative attacks, syncope; anemia and dropsy.",
+      "Irregular with weak rapid beats followed by strong, hard beats."
+    ],
+    "Stomach": [
+      "Tender, cold.",
+      "Hungry longing for food, which lies undigested.",
+      "Flatulence; belching of bitter fluid or regurgitation of food gives no relief; worse eating fruit.",
+      "Bloatedness better by movement.",
+      "Ill effects of tea.",
+      "Vomiting of undigested food.",
+      "Milk disagrees.",
+      "Darting pain crosswise in hypogastric region.",
+      "Hungry without appetite.",
+      "Slow digestion.",
+      "Weight after eating.",
+      "Hiccup.",
+      "Flat taste."
+    ],
+    "Modalities": [
+      "Worse: Draught of air, every other day; loss of vital fluids; at night; after eating; bending over.",
+      "Worse: Slightest touch.",
+      "Better: bending double; hard pressure; open air; warmth."
+    ],
+    "Head": [
+      "Face flushed after hemorrhages or sexual excesses or loss of vital fluids.",
+      "Scalp sensitive; worse combing hair.",
+      "Relieved from fresher and warm room.",
+      "Intense throbbing of head and carotids.",
+      "Spasmodic headache in vertex with subsequent pain as if bruised in sides of head.",
+      "Aches worse in open air from temple to temple.",
+      "Worse by contact, current of air, stepping.",
+      "As if skull would burst.",
+      "As if brain were balancing to and fro and striking against skull, receiving great pain.",
+      "Dizzy when walking."
+    ],
+    "Eyes": [
+      "Amaurosis; scalding lacrimation.",
+      "Blue color around eyes.",
+      "Pressue in eyes.",
+      "Distortion of eyeballs.",
+      "Intermittent ciliary neuralgia.",
+      "Black specks, bright dazzling illusions; night blindness in anemic retina.",
+      "Yellowish sclerotica.",
+      "Photophobia.",
+      "Hollow eyes.",
+      "Spots before eyes."
+    ],
+    "Stool": [
+      "Undigested, frothy, yellow; painless; worse at night, after meals, during hot weather, from fruit, milk, beer.",
+      "Difficult even when soft.",
+      "Very weakening, with much flatulence."
+    ],
+    "Male": [
+      "Orchitis.",
+      "Excited lascivious fancy.",
+      "Frequent emissions followed by great weakness."
+    ],
+    "Respiratory": [
+      "Hemorrhage from lungs.",
+      "Influenza, with debility.",
+      "Dyspnea, sharp pain in left lung.",
+      "Asthma; worse damp weather.",
+      "Cannot breathe with head low.",
+      "Suffocative catarrh; rattling in chest; violent, hacking cough after every meal.",
+      "Labored, slow respiration; constant choking."
+    ],
+    "Fever": [
+      "Debilitating night sweats.",
+      "Hay fever, watery coryza, pain in temples.",
+      "Intermittent, paroxysms anticipate; return every week.",
+      "Chill generally in forenoon, commencing in breast; thirst before chill, and little and often.",
+      "Free perspiration caused by every little exertion, espeically on single parts."
+    ],
+    "Abdomen": [
+      "Pain in right hypochondrium.",
+      "Much flatulent colic; better bending double.",
+      "Gallstone colic.",
+      "Liver and spleen swollen and enlarged.",
+      "Gastro-duodenal catarrh.",
+      "Internal coldness of stomach and abdomen.",
+      "Tympanitic abdomen.",
+      "Jaundice."
+    ],
+    "Sleep": [
+      "Wakens early.",
+      "Snoring, especially with children.",
+      "Protracted sleeplessness.",
+      "Unrefreshing or constant stupor.",
+      "Drowsiness.",
+      "Anxious, frightful dreams with confused consciousness on waking, so that the dream cannot be rid of and fear of dream remains."
+    ],
+    "Mind": [
+      "Disposition to hurt other people\u0027s feelings.",
+      "Apthetic, indifferent, disobedient, tachyturn, despondent.",
+      "Ideas crowd in mind; prevents sleep.",
+      "Sudden crying and tossing about."
+    ],
+    "Nose": [
+      "Coryza, sneezing, watery discharge.",
+      "Cold sweat about nose.",
+      "Easily bleeding from nose, especially on rising.",
+      "Checked catarrah.",
+      "Violent dry sneezing."
+    ],
+    "Mouth": [
+      "Tooth ache; better pressing teeth firmly together and by warmth.",
+      "Tongue coated thick, dirty; tip burns, succeeded by ptyalism.",
+      "Food tastes too salty.",
+      "Bitter taste."
+    ],
+    "Back": [
+      "Sharp pains across kidneys, worse movement and at night.",
+      "Knifelike pains around the back."
+    ],
+    "Female": [
+      "Bloody leucorrhea.",
+      "Painful heaviness in pelvis.",
+      "Dark clots and abdominal distention.",
+      "Menses too early.",
+      "Profuse menses with pain.",
+      "Desire too strong.",
+      "Seems to take the place of the usual menstrual discharge."
+    ],
+    "Skin": [
+      "Coldness, much sweat.",
+      "One hand ice cold, the other warm.",
+      "Anasarca.",
+      "Dermatitis; erysipelas.",
+      "Indurated glands; scrofulous ulcers and caries.",
+      "Extreme sensitiveness to touch, but hard pressure relieves."
+    ],
+    "Extremeties": [
+      "Weariness of joints; worse, mornings and when sitting.",
+      "Averse to exercise; sensitve to touch.",
+      "Sensation as of a string around limb.",
+      "Great debility, trembling, with numb sensation.",
+      "Joints swollen; very sensitive, with dread or open air.",
+      "Pains in limbs and joints, as if sprained; worse, slight touch; hard pressure relieves pain."
+    ],
+    "Face": [
+      "Sallow complexion.",
+      "Face bloated; red."
+    ],
+    "Ears": [
+      "Lobules red and swollen.",
+      "Extenal ear sensitive to touch.",
+      "Ringing in ears.",
+      "Hearing sensitive to noise."
+    ]
+  }
+}
