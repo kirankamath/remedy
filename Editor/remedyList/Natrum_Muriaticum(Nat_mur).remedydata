@@ -1,0 +1,174 @@
+{
+  "name": "Natrum Muriaticum(Nat mur)",
+  "details": "The prolonged taking of excessive salt causes profound nutritive changes to take place in the system, and there arise not only the symptoms of salt retention as evidenced by dropsies and edemas, but also an alteration in the blood causing a conditon of anemia and leukocytosis. There seems also to be a retention in the tissues of effete materials giving rise to symptoms loosely described as gouty or rheumatic gout. The provings are full of such symptoms. A great remedy for certain forms of intermittent fever, anemia, cholorosis, many disturbances of alimentary tract and skin. Great debility; most weakness felt in the morning in bed. Coldness. Emaciation most notable in neck. Great liability to take cold. Dry mucus membranes. Constricitive sensation throughout the body. Great weakness and weariness. Over senstive to all sorts of influences. Hyperthyroidism. Goiter. Addison\u0027s disease. Diabetes.",
+  "dosage": "Twelfth to thirtieth and higher. The very highest potencies often yield brilliant results. And in infrequent dosage.",
+  "symptoms": {
+    "Urine": [
+      "Has to wait a long time for it to pass if others are present.",
+      "Increased, involuntary when walking, coughing etc.",
+      "Pain just after urinating."
+    ],
+    "Heart": [
+      "Fluttering, palpitating; intermittent pulse.",
+      "Tachycardia.",
+      "Heart\u0027s pulsations shake body.",
+      "Sensation of coldness of heart.",
+      "Heart and chest feel constricted.",
+      "Intermits on lying down."
+    ],
+    "Stomach": [
+      "Throbbing in pit.",
+      "Hungry, yet loose flesh.",
+      "Sticking sensation in cardiac orifice.",
+      "Unquenchable thirst.",
+      "Craving for salt.",
+      "Aversion to bread, to anything slimy, like oysters; fats.",
+      "Heartburn with palpitation.",
+      "Sweats while eating."
+    ],
+    "Modalities": [
+      "Worse: Noise, music, warm room, lying down.",
+      "Worse: About 10 am, at sea shore, mental exertion, consolation, heat, talking.",
+      "Better: Open air, cold bathing, going without regular meals, lying on right side; pressure against back, tight clothing."
+    ],
+    "Head": [
+      "Anemic headache of school girls; nervous, discouraged, broken down.",
+      "Throbs.",
+      "Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomting; periodical; from eye strain; menstrual, before attack, numbness and tingling in lips, tongue and nose, relieved by sleep.",
+      "Feels too large; cold.",
+      "Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, after menstruation from sunrise to sunset.",
+      "Frontal sinus inflammation.",
+      "Blinding headache."
+    ],
+    "Eyes": [
+      "Feel bruised, with headache in school children.",
+      "Tears stream down face on coughing.",
+      "Escape of muco-pus when pressing upon sac.",
+      "Burning in eyes.",
+      "Asthenopia due to insufficiency of internal recti muscles.",
+      "Cataract incipient.",
+      "Letters run together.",
+      "Give out on reading or writing.",
+      "Muscles weak and stiff.",
+      "Eyelids heavy.",
+      "Stricture of lacrimal duct with suppuration.",
+      "Eyes appear wet with tears.",
+      "Lacrimation, burning and acrid.",
+      "Pain in eyes when looking down.",
+      "Lids swollen.",
+      "Fiery, zigzag appearance around all objects.",
+      "Sees sparks."
+    ],
+    "Male": [
+      "Emission, even after coitus.",
+      "Impotence with retarded emission."
+    ],
+    "Respiratory": [
+      "Cough with bursting pain in head.",
+      "Shortness of breath, especially on going upstairs.",
+      "Whooping cough with flow of tears with cough.",
+      "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine.",
+      "Stitches all over chest."
+    ],
+    "Fever": [
+      "Hydremia in chronic malarial states with weakness, constipation, loss of appetite etc.",
+      "Fever blisters.",
+      "Sweats on every exertion.",
+      "Chill between 9 and 11 am.",
+      "Coldness of the body, and continued chilliness  very marked.",
+      "Heat; violent thirst, increases with fever."
+    ],
+    "Abdomen": [
+      "Cutting pain in abdomen.",
+      "Distended.",
+      "Pain in abdominal ring on coughing."
+    ],
+    "Sleep": [
+      "Sleepless from grief.",
+      "Sleepy in forenoon.",
+      "Dreams of robbers.",
+      "Nervous jerking during sleep."
+    ],
+    "Mind": [
+      "Consolation aggravates.",
+      "Depressed, particularly in chronic diseases.",
+      "Tears with laughter.",
+      "Awkward, hasty.",
+      "Psychic causes of disease; oll effects of grief, fright, anger etc.",
+      "Irritable; gets into a passion about triffles.",
+      "Wants to be alone to cry."
+    ],
+    "Nose": [
+      "Violent sneezing coryza.",
+      "Loss of smell and taste.",
+      "Infallable for stopping a cold commencing with sneezing.",
+      "Dryness.",
+      "Violent, fluent coryza, lasting from 1-3 days, then changing into stoppage of nose, making breathing difficult.",
+      "Discharge thin and watery, like raw white of egg.",
+      "Internal soreness of nose."
+    ],
+    "Mouth": [
+      "Vesicles and burning on tongue, as if there was a hair on it.",
+      "Immoderate thirst.",
+      "Numbness, tingling of tongue, lips and nose.",
+      "Large vesicle on lower lip, which is swollen and burns.",
+      "Scorbutic gums.",
+      "Eruptions aroung mouth and vesicles like pearls on lips.",
+      "Deep crack in the middle of lower lip.",
+      "Loss of taste.",
+      "Frothy coating on tongue with bubbles on side.",
+      "Sense of dryness.",
+      "Lips and corners of mouth dry, ulcerated and cracked.",
+      "Tongue mapped."
+    ],
+    "Rectum": [
+      "Anus contracted, torn, bleeding.",
+      "Constipation; stool dry, crumbling.",
+      "Burning pains and stiching after stool.",
+      "Painless and copious diarrhea, preceded by pinching pain in abdomen."
+    ],
+    "Female": [
+      "Bearing down pains; worse in morning.",
+      "Vagina dry.",
+      "Hot during menses.",
+      "Menses irregular; usually profuse.",
+      "Prolapsus uteri, with cutting in urethra.",
+      "Ineffectual liver pains.",
+      "Suppressed menses.",
+      "Leukorrhea acrid, watery."
+    ],
+    "Skin": [
+      "Hives, itching after exertion.",
+      "Greasy skin.",
+      "Greasy, oily, especially on hairy parts.",
+      "Fever blisters.",
+      "Eczema; raw, red and inflammed; worse eating salt, at sea shore",
+      "Alopecia.",
+      "Dry eruptions especially on margin of hairy scalp and bends of joints.",
+      "Crusty eruptions in bends of limbs, margin of scalp, behind ears.",
+      "Warts on palms of hands.",
+      "Urticaria; itch and burn."
+    ],
+    "Face": [
+      "Fever blisters.",
+      "Earthy complexion.",
+      "Oily, shiny as if greased."
+    ],
+    "Ears": [
+      "Noises; roaring and ringing."
+    ],
+    "Extremities": [
+      "Palms hot and perspiring.",
+      "Coldness of legs with congestion to head, chest and stomach.",
+      "Ankles weak and turn easily.",
+      "Numbness and tingling in fingers and lower extremities.",
+      "Hangnails.",
+      "Dryness and cracking of finger nails.",
+      "Painful contraction of hamstrings.",
+      "Every movement acclerates the circulation.",
+      "Cracking in joints on motion.",
+      "Pain in back, with desire for some firm support.",
+      "Arms and legs, but especially knees feel weak."
+    ]
+  }
+}

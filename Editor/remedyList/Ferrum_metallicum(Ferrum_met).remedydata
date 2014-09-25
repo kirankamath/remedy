@@ -1,0 +1,105 @@
+{
+  "name": "Ferrum metallicum(Ferrum met)",
+  "details": "Best adapted to young weakly persons, anemic and chlorotic with pseudo-plethora, who flush easily; cold extremities; over-sensitiveness; worse after any active effort. Weakness from mere speaking or walking through looking strong. Pallor of skin, mucus membranes, face, alternating with flushes. Orgasms of blood to face, chest, head, lungs etc. Irregular distribution of bood. Pseudo-plethora. Muscles flabby and relaxed.",
+  "dosage": "States of debility where the blood is poor in hematin require material doses; plethoric, hemorrhagic conditions call for small doses, from the second to sixth potency.",
+  "symptoms": {
+    "Urine": [
+      "Involuntary; worse day time.",
+      "Tickling in urethra extending to bladder."
+    ],
+    "Heart": [
+      "Pulse full, but soft and yielding; also small and weak.",
+      "Sense of oppression.",
+      "Heart suddenly bleeds into the blood vessels, and as suddenly draws a reflux leaving pallor of surface.",
+      "Anemic murmur.",
+      "Palpitation; worse, movement."
+    ],
+    "Stomach": [
+      "Soreness of abdominal walls.",
+      "Voracious appetite, or absolute loss of appetite.",
+      "Heat and burning in stomach.",
+      "Intolerance of eggs.",
+      "Flatulent dyspepsia.",
+      "Spits up food by the mouthful.",
+      "Vomiting immediately after eating.",
+      "Distention and pressure in the stomach after eating.",
+      "Attempts to eat brings on diarrhea.",
+      "Eructations of food after eating, without nausea.",
+      "Nausea and vomiting after eating.",
+      "Vomiting after midnight.",
+      "Loathing of sour things."
+    ],
+    "Modalities": [
+      "Better: After rising.",
+      "Worse: Midnight aggravation.",
+      "Worse: After cold washing and over heating.",
+      "Better: Walking slowly about.",
+      "Worse: While sweating; while sitting still."
+    ],
+    "Head": [
+      "Ringing in ears before menses.",
+      "Pain in back of head with roaring in neck.",
+      "Vertigo on seeing flowing water.",
+      "Must take down the hair.",
+      "Hammering, pulsating, congestive headache; pain extends to teeth with cold extremties.",
+      "Stinging headache.",
+      "Scalp painful."
+    ],
+    "Eyes": [
+      "Watery, dull red; photophobia; letters run together."
+    ],
+    "Stool": [
+      "Ineffectual urging; stool hard, followed by backache or cramping, pain in rectum; prolapses recti; itching of anus, especially young children.",
+      "Undigested at night, while eating or drinking, painless."
+    ],
+    "Respiratory": [
+      "With a cough pain in occiput.",
+      "Chest oppressed; breathing difficult.",
+      "Cough dry, spasmodic.",
+      "Hemoptysis.",
+      "Surging of blood to chest.",
+      "Hoarseness."
+    ],
+    "Fever": [
+      "Chill at 4am.",
+      "Profuse, debilitating sweat.",
+      "Heat in palms and soles.",
+      "General coldness of extremities; head and face hot."
+    ],
+    "Mind": [
+      "Excited from slightest opposition.",
+      "Slight noises unbearable.",
+      "Sanguine temperament.",
+      "Irritability."
+    ],
+    "Nose": [
+      "Mucus membrane relaxed, boggy, anemic, pale."
+    ],
+    "Mouth": [
+      "Earthy, pasty taste, like rotten eggs.",
+      "Pain in teeth; relieved by icy cold water."
+    ],
+    "Female": [
+      "Sensitive vagina.",
+      "Women who are weak, delicate, chlorotic, yet have a feary red face.",
+      "Prolapse of vagina.",
+      "Discharge of long pieces from uterus.",
+      "Menses remit a day or two and then return.",
+      "Menses too early, too profuse, last too long; pale, watery.",
+      "Tendency to abortion."
+    ],
+    "Skin": [
+      "Pale; flushes readily; pits on pressure."
+    ],
+    "Face": [
+      "Feary-red and flushed from least pain, emotion or exertion.",
+      "Red parts become white, bloodless and puffy."
+    ],
+    "Extremities": [
+      "Rheumatism of the shoulder.",
+      "Pain in hip joint, tibia, soles and heel.",
+      "Dropsy after loss of vital fluids.",
+      "Lumbago; better, slow walking."
+    ]
+  }
+}
