@@ -1,0 +1,95 @@
+{
+  "name": "Ipecacuanha(Ipecac)",
+  "details": "The chief action is on the ramifications of the pneumogastric nerve, producing spasmodic irritation in chest and stomach. Morphia habit. The principle of ipecac is its persistent nausea and vomting, which form the chief guiding symptoms. Indicated after indigestable foods, rasins, cakes etc. Especially indicated in fat children and adults who are feeble and catch cold in relaxing atmosphere, warm and moist weather. Spasmodic affections, hemorrhages bright-red and profuse.",
+  "dosage": "Third to two hundredth potency.",
+  "symptoms": {
+    "Stomach": [
+      "Tongue usually clean.",
+      "Vomits food, bile, blood, mucus.",
+      "Constant nausea and vomiting with pale, twitching of face.",
+      "Mouth, moist; much saliva.",
+      "Stomach feels relaxed, as if hanging down.",
+      "Hiccup."
+    ],
+    "Modalities": [
+      "Worse: Periodically.",
+      "Worse: From veal.",
+      "Worse: Lying down.",
+      "Worse: Moist, warm wind."
+    ],
+    "Head": [
+      "Pain extends to teeth and root of tongue.",
+      "Bones of skull feel crushed or bruised."
+    ],
+    "Eyes": [
+      "Pain through eyeballs.",
+      "Nausea from looking on moving objects.",
+      "Eyes tire from near vision.",
+      "Profuse lacrimation.",
+      "Cornea dim.",
+      "State of vision constantly changing.",
+      "Spasm of accomodation from irritable weakness of the ciliary muscle.",
+      "Inflamed, red."
+    ],
+    "Stool": [
+      "Dysenteric, slimy.",
+      "Pitch-like, green as grass, like fothy mollases with griping at navel."
+    ],
+    "Respiratory": [
+      "Bleeding from lungs with nausea; feeling of constriction, rattling cough.",
+      "Complete aphonia.",
+      "Chest seems full of phlegm but does not yield to coughing.",
+      "Whooping cough with nose bleed and bleeding from mouth.",
+      "Hemoptysis with slightest exertion.",
+      "Suffocative cough; child becomes stiff and blue in the face.",
+      "Hoarseness especially at end of a cold.",
+      "Yearly attacks of difficult shortness of breathing.",
+      "Asthma.",
+      "Bubbling rales.",
+      "Cough incessant and violent with every breath.",
+      "Dyspnea; constant constiction in chest.",
+      "Croup.",
+      "Continued sneezing; coryza; wheezing cough."
+    ],
+    "Fever": [
+      "Slightest chill with much heat, nausea, vomiting and dyspnea.",
+      "Intermittent fever, irregular cases after quinine.",
+      "Relapses from improper diet."
+    ],
+    "Abdomen": [
+      "Amebic dysentry with tenesmus; while straining pain so great that it nauseates; little thirst.",
+      "Cutting, clutching; worse around the navel.",
+      "Body rigid; stretched out stiff."
+    ],
+    "Sleep": [
+      "With eyes half open.",
+      "Shocks in all limbs while going to sleep."
+    ],
+    "Mind": [
+      "Full of desires, for what they know not.",
+      "Iritable; holds everything in contempt."
+    ],
+    "Nose": [
+      "Coryza with stoppage nose and nausea.",
+      "Epistaxis."
+    ],
+    "Female": [
+      "Uterine hemorrhage, profuse, bright, gushing with nausea.",
+      "Vomiting during pregnancy.",
+      "Pain from navel to uterus.",
+      "Menses too early and too profuse."
+    ],
+    "Skin": [
+      "Blue around eyes.",
+      "Pale, lax.",
+      "Miliary rash."
+    ],
+    "Face": [
+      "Blue rings around eyes.",
+      "Periodic orbital neuralgia, with lacrimation, photophobia and smarting eyelids."
+    ],
+    "Extremities": [
+      "Body stretched stiff, followed by spasmodic jerking of arms towards each other."
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Chamomilla",
+  "details": "The chief guiding symptoms belong to the mental and emotion group, which lead to this remedy in many forms of disease. Especially of frequent employment in diseases of children, where peevishness, restlesness and colic give the needful indications. A disposition that is mild, calm and gentle; sluggish and constipated bowel contraindicate chamomilla.\nChamomilla is sensitive, irritable, thirsty, hot and numb. Over sensitiveness from abuse of coffee and narcotics. Pains unindurable, associated with numbness. Night-sweats. ",
+  "dosage": "Third to thirtieth attenuation.",
+  "symptoms": {
+    "Stomach": [
+      "Aversion to warm drinks.",
+      "Bitter, bilious vomiting.",
+      "Pressive gastralgia, as from a stone.",
+      "Nausea after coffee.",
+      "Tongue yellow; taste bitter.",
+      "Acid rising; regurgitation of food.",
+      "Erectations, foul. ",
+      "Sweats after eating or drinking.",
+      "Bilious vomiting."
+    ],
+    "Modalities": [
+      "Wose: Heat.",
+      "Worse: Anger.",
+      "Worse: Wind.",
+      "Worse: Night.",
+      "Better: Warm, wet weather.",
+      "Better: From being carried.",
+      "Worse: Open air."
+    ],
+    "Head": [
+      "Throbbing headache in one half of the brain.",
+      "Hot, clammy sweat on forehead and scalp.",
+      "Inclined to bend head backward."
+    ],
+    "Throat": [
+      "Constriction and pain as if from a plug.",
+      "Parotid and submaxillary glands swollen."
+    ],
+    "Eyes": [
+      "Yellow, sclerotic.",
+      "Spasmodic closing of lids."
+    ],
+    "Stool": [
+      "Soreness of anus.",
+      "Chopped white and yellow mucus like chopped eggs and spinach.",
+      "Hot, green, watery, fitted, slimy with colic.",
+      "Hemorrhoids with painful fissures.",
+      "Diarrhea during dentition."
+    ],
+    "Respiratory": [
+      "Rattling of mucus in child\u0027s chest.",
+      "Hoarseness, hawking, rawness of larynx.",
+      "Irritable, dry, tickling cough; suffocative tightness of chest with bitter expectoration in daytime."
+    ],
+    "Abdomen": [
+      "Hepatic colic.",
+      "Flatulent colic, after anger, with red cheeks and hot perspiration.",
+      "Griping in region of naval and small of back.",
+      "Acute duodenitis.",
+      "Distended."
+    ],
+    "Sleep": [
+      "Drowsiness with moaning, weeping and wailing during sleep; anxious, frightened dreams with half open eyes."
+    ],
+    "Mind": [
+      "Child wants many things which he refuses again.",
+      "Impatient, intolerant of being spoken to or interrupted; extremely sensitive to every pain; always complaining.",
+      "Child can only be quited when carried about and petted constantly.",
+      "Spiteful, snappish.",
+      "Complaints from anger and vexation.",
+      "Whining restlesness.",
+      "Piteous moaning because he cannot have what he wants."
+    ],
+    "Nose": [
+      "Sensitive to all smells.",
+      "Coryza with inability to sleep."
+    ],
+    "Mouth": [
+      "Nightly salivation.",
+      "Toothache if anything warm is taken, from coffee, during pregnancy."
+    ],
+    "Back": [
+      "Lumbago.",
+      "Stiffness of neck muscles.",
+      "Unsupportable pain in loins and hips."
+    ],
+    "Female": [
+      "Nipples inflammed; tender to touch.",
+      "Profuse discharge of clotted, dark blood with labor like pains.",
+      "Patient intolerant of pain.",
+      "Infant\u0027s breasts tender.",
+      "Labor pains spasmodic; press upward.",
+      "Yellow, acrid leukorrhea.",
+      "Uterine hemorrhages."
+    ],
+    "Face": [
+      "Jerking of tongue and facial muscles.",
+      "One cheek red and hot; the other pale and cold.",
+      "Distress of teething  children.",
+      "Teeth ache, worse after warm drink; worse, coffee at night.",
+      "Stitches in jaw, extending to inner ear and teeth."
+    ],
+    "Ears": [
+      "Stitching pain.",
+      "Ears feel stopped.",
+      "Earache, with soreness; swelling and heat driving patient frantic.",
+      "Ringing in ears."
+    ],
+    "Extremities": [
+      "Violent rheumatic pains drive him/her out of bed at night; compell to walk about.",
+      "Ankles give way in the afternoon.",
+      "Burning of soles at night.",
+      "Nightly paralytic loss of power in the feet, unable to step on them."
+    ]
+  }
+}
