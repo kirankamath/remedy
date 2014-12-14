@@ -16,15 +16,15 @@ def create_tables(c):
     # Create remedy table.
     c.execute("create table remedy (name text PRIMARY KEY, details text, dosage text)")
     c.execute("create index remedy_name_index on remedy (name)")
-    
+
     # Create category table.
     c.execute("create table category (category text PRIMARY KEY)")
-    
+
     # Create symptom_list table.
     c.execute("create table symptom_list (cat_id integer, symptom text, " +
-              " foreign key(cat_id) references category(rowid), " + 
+              " foreign key(cat_id) references category(rowid), " +
               " primary key(cat_id, symptom))")
-    
+
     # Create remedy_symptom table.
     c.execute(" create table remedy_symptom (remedy_id integer, symptom_id integer, " +
               " primary key(remedy_id, symptom_id) " +
@@ -37,10 +37,11 @@ c = conn.cursor()
 create_tables(c)
 
 for f in os.listdir(catalog_dir):
+    print "Processing %s" % f
     json_file = os.path.join(catalog_dir, f)
     with open(json_file) as fd:
         remedy = json.load(fd)
-        c.execute("insert into remedy (name, details, dosage) values (?, ?, ?)", 
+        c.execute("insert into remedy (name, details, dosage) values (?, ?, ?)",
                   (remedy["name"], remedy["details"], remedy["dosage"]))
         remedy_id = c.lastrowid
         symptoms = remedy["symptoms"]
@@ -59,12 +60,12 @@ for f in os.listdir(catalog_dir):
                 if row != None:
                     symptom_id = row[0]
                 else:
-                    c.execute("insert into symptom_list (cat_id, symptom) values (?, ?)", 
+                    c.execute("insert into symptom_list (cat_id, symptom) values (?, ?)",
                               (category_id, desc))
                     symptom_id = c.lastrowid
-                
+
                 # Add an entry for the symptom to this remedy.
-                c.execute("insert into remedy_symptom (remedy_id, symptom_id) values (?, ?)", 
+                c.execute("insert into remedy_symptom (remedy_id, symptom_id) values (?, ?)",
                           (remedy_id, symptom_id))
 
 conn.commit()
