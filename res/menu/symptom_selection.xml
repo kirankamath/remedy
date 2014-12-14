@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.remedy.SymptomSelectionActivity" >
+
+    <item
+        android:id="@+id/symptom_selection_ok"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/ok_string"/>
+
+</menu>

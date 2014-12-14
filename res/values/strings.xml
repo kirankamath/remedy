@@ -17,5 +17,10 @@
     <string name="next_string">Next</string>
     <string name="minimize_string">Minimize</string>
     <string name="title_activity_filtered_remedy">FilteredRemedyActivity</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_symptom_selection">SymptomSelectionActivity</string>
+    <string name="start_typing_symptom">Start typing symptom</string>
+    <string name="ok_string">OK</string>
 
 </resources>

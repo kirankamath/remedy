@@ -17,7 +17,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_title"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
-        <activity android:name="org.remedy.RemedyActivity" >
+        <activity android:name=".MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,28 +25,28 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="org.remedy.RemedyListActivity"
+            android:name=".RemedyListActivity"
             android:label="@string/title_activity_remedy_list"
             android:windowSoftInputMode="stateHidden" >
         </activity>
         <activity
-            android:name="org.remedy.OneRemedyActivity"
+            android:name=".OneRemedyActivity"
             android:label="@string/title_activity_remedy_details" >
         </activity>
         <activity
-            android:name="org.remedy.repertory.SelectSymptomActivity"
+            android:name=".repertory.SelectSymptomActivity"
             android:label="@string/title_activity_repertory" >
         </activity>
         <activity
-            android:name="org.remedy.repertory.AllSymptomsFragment"
+            android:name=".repertory.AllSymptomsFragment"
             android:label="@string/title_activity_all_symptoms" >
         </activity>
         <activity
-            android:name="org.remedy.repertory.FilteredRemedyActivity"
+            android:name=".repertory.FilteredRemedyActivity"
             android:label="@string/title_activity_filtered_remedy" >
         </activity>
         <activity
-            android:name="org.remedy.ListenerActivity"
+            android:name=".ListenerActivity"
             android:label="@string/app_title" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
@@ -118,6 +118,14 @@
                     android:pathPattern=".*\\.remedyzip"
                     android:scheme="content" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".repertory.CategoryListActivity"
+            android:label="@string/title_activity_category_list" >
+        </activity>
+        <activity
+            android:name="org.remedy.repertory.SymptomSelectionActivity"
+            android:label="@string/title_activity_symptom_selection" >
         </activity>
     </application>
 

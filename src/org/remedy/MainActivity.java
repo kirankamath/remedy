@@ -1,6 +1,6 @@
 package org.remedy;
 
-import org.remedy.repertory.SelectSymptomActivity;
+import org.remedy.repertory.CategoryListActivity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class RemedyActivity extends Activity {
-    public RemedyActivity() {
+public class MainActivity extends Activity {
+    public MainActivity() {
     }
 
     /** Called with the activity is first created. */
@@ -26,7 +26,7 @@ public class RemedyActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(RemedyActivity.this, RemedyListActivity.class);
+                Intent intent = new Intent(MainActivity.this, RemedyListActivity.class);
                 startActivity(intent);
             }
         });
@@ -36,7 +36,7 @@ public class RemedyActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(RemedyActivity.this, SelectSymptomActivity.class);
+                Intent intent = new Intent(MainActivity.this, CategoryListActivity.class);
                 startActivity(intent);
             }
         });

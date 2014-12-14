@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.remedy.CategoryListActivity" >
+
+    <item
+        android:id="@+id/category_list_next"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/next_string"/>
+
+</menu>

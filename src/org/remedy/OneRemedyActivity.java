@@ -69,9 +69,5 @@ public class OneRemedyActivity extends Activity {
                 new HashSet<String>(Arrays.asList(DOSAGE)),
                 categoryMap, null, false, selectedItemMap);
         listView.setAdapter(adapter);
-
-        if (adapter.getGroupCount() > 0) {
-            listView.expandGroup(0);
-        }
     }
 }

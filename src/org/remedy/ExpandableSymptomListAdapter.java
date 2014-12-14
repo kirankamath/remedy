@@ -200,10 +200,10 @@ public class ExpandableSymptomListAdapter extends BaseExpandableListAdapter {
         if (convertView == null) {
             LayoutInflater inflater = (LayoutInflater)context.getSystemService(
                     Context.LAYOUT_INFLATER_SERVICE);
-            convertView = inflater.inflate(R.layout.small_list_item, null);
+            convertView = inflater.inflate(android.R.layout.simple_list_item_1, null);
         }
 
-        TextView item = (TextView) convertView.findViewById(R.id.small_list_item_text);
+        TextView item = (TextView) convertView.findViewById(android.R.id.text1);
         String symptom = (String)getChild(groupPosition, childPosition);
         item.setText(symptom);
         String category = (String) getGroup(groupPosition);
