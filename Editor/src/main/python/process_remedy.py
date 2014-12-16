@@ -49,12 +49,12 @@ def process_one_remedy(file_name):
         body = []
         for line in lines:
             if begin:
-                if "</tr>" in line:
+                if "</tr>" in line or "</td>" in line or "</span>" in line:
                     # We have reached the end.
                     break
-                if "</body>" in line or "</td>" in line or "</span>" in line:
+                if "</body>" in line:
                     continue
-                body.append(line)
+                body.append(line.replace("<br>", ""))
             elif "Materia Medica (Boericke)" in line:
                 begin = True
                 continue
