@@ -9,38 +9,42 @@ import sys
 
 paren_remover = re.compile('\(.+?\)')
 
-keywords = set(["General.",
-                "Natural History.",
+keywords = set(["General",
+                "Natural History",
                 "Sleep",
-                "Head.",
-                "Mind.",
-                "Face.",
-                "Eyes.",
-                "Ears.",
-                "Nose.",
-                "Mouth.",
-                "Tongue.",
-                "Throat.",
-                "Respiratory.",
-                "Chest.",
-                "Heart.",
-                "Back.",
-                "Stomach.",
-                "Abdomen.",
-                "Urine.",
-                "Genetalia.",
-                "Rectum.",
-                "Stool.",
-                "Skin.",
-                "Extremities.",
-                "Fever.",
-                "Female.",
-                "Male.",
-                "Modalities.",
-                "Sexual.",
-                "Dose.",
-                "Relationship.",
-                "Aggravation."])
+                "Head",
+                "Mind",
+                "Face",
+                "Eyes",
+                "Ears",
+                "Nose",
+                "Mouth",
+                "Tongue",
+                "Throat",
+                "Respiratory",
+                "Chest",
+                "Heart",
+                "Back",
+                "Stomach",
+                "Abdomen",
+                "Urine",
+                "Genetalia",
+                "Rectum",
+                "Stool",
+                "Skin",
+                "Extremities",
+                "Fever",
+                "Female",
+                "Male",
+                "Modalities",
+                "Sexual",
+                "Dose",
+                "Relationship",
+                "Aggravation"])
+
+# Some remedy can have the categories with dots at the end too.
+for k in list(keywords):
+    keywords.add(k+".")
 
 def process_one_remedy(file_name):
     with open(file_name, "r") as input_handle:
@@ -93,27 +97,34 @@ def process_one_remedy(file_name):
             if current_list != None:
                 current_list.add(element)
 
-    special_handling = set(["Relationship.", "General.", "Dose."])
+    special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose"])
     symptom_list = {}
     rename_pairs = {"Aggravation" : "Modalities", "Dose" : "dosage", "General" : "details"}
     for k, v in category_map.iteritems():
         value = "".join(v)
-        value = value.replace("\n", "")
+        value = value.replace("\n", "").replace('"', "")
         if k in special_handling:
             symptoms = value
         else:
             # Remove any content within paren.
             value = paren_remover.sub('', value)
+
+            # Before splitting, escape any known patterns.
+            value = value.replace("etc.", "__etc__")
             values = value.split(".")
             symptoms = set()
             for x in values:
                 x = x.strip()
                 if not x:
                     continue
+                x = x.replace("__etc__", "etc.")
                 symptoms.add(x)
             symptoms = list(symptoms)
 
-        symptom_name = k[:-1]
+        if k.endswith("."):
+            symptom_name = k[:-1]
+        else:
+            symptom_name = k
         if symptom_name in rename_pairs.keys():
             symptom_name =  rename_pairs[symptom_name]
 
