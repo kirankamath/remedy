@@ -43,6 +43,7 @@ keywords = set(["General",
                 "Aggravation",
                 "Amelioration",
                 "Urinary Organs",
+                "Urinary organs",
                 "Spine",
                 "Teeth",
                 "Urine Section"])
@@ -137,18 +138,10 @@ def process_one_remedy(file_name):
     remedy = {"name": name}
 
     # Merge Urine Section with Urine.
-    urine_section = symptom_list.get("Urine Section")
-    if urine_section:
-        urine = symptom_list.get("Urine", set())
-        symptom_list["Urine"] = list(urine.union(set(urine_section)))
-        del symptom_list["Urine Section"]
+    merge_sections(symptom_list, "Urine Section", "Urine")
+    merge_sections(symptom_list, "Urinary Organs", "Urine")
+    merge_sections(symptom_list, "Urinary organs", "Urine")
 
-    # Merge Urinary organs with Urine too.
-    urinary_organs = symptom_list.get("Urinary Organs")
-    if urinary_organs:
-        urine = set(symptom_list.get("Urine", set()))
-        symptom_list["Urine"] = list(urine.union(set(urinary_organs)))
-        del symptom_list["Urinary Organs"]
 
     # Some items move from symptoms to remedy main section.
     main_items = ["dosage", "details", "Relationship", "Natural History"]
@@ -181,6 +174,13 @@ def process_one_remedy(file_name):
     # Replace any spaces in the filename with underscores.
     with open(name.replace(" ", "_") + ".json", "w") as file_handle:
         file_handle.write(json.dumps(remedy, indent=2))
+
+def merge_sections(symptom_list, from_id, to_id):
+    from_section = symptom_list.get(from_id)
+    if from_section:
+        to_section = set(symptom_list.get(to_id, set()))
+        symptom_list[to_id] = list(to_section.union(set(from_section)))
+        del symptom_list[from_id]
 
 def format_modalities(modalities):
     readable_modalities = []

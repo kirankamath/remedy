@@ -2,12 +2,34 @@
   "name": "Tabacum", 
   "Relationship": "Antidote: Vinegar; sour apples. CAMPHOR in the physiologicla antagonist. ARS. (chewing tobacco); IGN.; (smoking); SEP. (neuralgia and dyspepsia); LYCOP. (Impotency); NUX (bad taste due to tobacco); CALAD. AND PLAN TAG. (Cause aversion to tobacco); PHOSPH. (Tobacco heart, sexual weakness).Compare: HYDROBROMIC ACID; CAMPH.; VERAT.; ARS. Compare: NICOTINUM (Alternate tonic and clonic spasms, followed by general relaxation and trembling; nausea, cold sweat, and speedy collapse; head drawn back, contraction of eyelids and masseter muscles; muscles of neck and back rigid; hissing respiration from spasm of laryngeal and bronchial muscles).", 
   "symptoms": {
-    "Rectum": [
-      "Constipation; rectum paralyzed, prolapsed", 
-      "Renal colic; violent pain along ureter, left side", 
-      "Rectal tenesmus", 
-      "Urinary organs", 
-      "Diarrhoea, sudden, watery, with nausea and vomiting, prostration, and cold sweat; discharges look like sour milk, thick, curdled, watery"
+    "Respiratory": [
+      "Precordial oppression, with palpitation and pain between shoulders", 
+      "Cough dry, teasing, must take a swallow of cold water  Dyspnoea, with tingling down left arm when lying on left side", 
+      "Difficult, violent constriction of chest", 
+      "Cough followed by hiccough"
+    ], 
+    "Mind": [
+      "Discontented", 
+      "Forgetful", 
+      "Sensation of excessive wretchedness", 
+      "VERY DESPONDENT"
+    ], 
+    "Head": [
+      "Sudden pain, as if struck by a hammer", 
+      "Tight feeling as from a band", 
+      "Vertigo ON OPENING EYES; sick headache, with deathly nausea; periodical", 
+      "Nervous deafness", 
+      "Secretion from eyes, nose and mouth increased"
+    ], 
+    "Face": [
+      "Freckles", 
+      "Pale, blue, pinched, sunken, collapsed, covered with cold sweat"
+    ], 
+    "Extremities": [
+      "Feebleness of arms", 
+      "Paralysis following apoplexy", 
+      "Legs and hands icy cold; limbs tremble", 
+      "Gait shuffling, unsteady"
     ], 
     "Heart": [
       "Pulse intermits, feeble, imperceptible", 
@@ -34,23 +56,13 @@
       "Gastralgia; pain from cardiac end extending to left arm", 
       "DURING PREGNANCY WITH MUCH SPITTING"
     ], 
-    "Head": [
-      "Sudden pain, as if struck by a hammer", 
-      "Tight feeling as from a band", 
-      "Vertigo ON OPENING EYES; sick headache, with deathly nausea; periodical", 
-      "Nervous deafness", 
-      "Secretion from eyes, nose and mouth increased"
-    ], 
     "Modalities": [
       "Worse: opening eyes; evening; extremes of heat and cold", 
       "Better: uncovering", 
       "Better: open fresh air"
     ], 
-    "Mind": [
-      "Discontented", 
-      "Forgetful", 
-      "Sensation of excessive wretchedness", 
-      "VERY DESPONDENT"
+    "Urine": [
+      "Renal colic; violent pain along ureter, left side"
     ], 
     "Abdomen": [
       "WANTS ABDOMEN UNCOVERED", 
@@ -59,16 +71,6 @@
       "It lessens the nausea and vomiting", 
       "Painful distensions"
     ], 
-    "Face": [
-      "Freckles", 
-      "Pale, blue, pinched, sunken, collapsed, covered with cold sweat"
-    ], 
-    "Respiratory": [
-      "Precordial oppression, with palpitation and pain between shoulders", 
-      "Cough dry, teasing, must take a swallow of cold water  Dyspnoea, with tingling down left arm when lying on left side", 
-      "Difficult, violent constriction of chest", 
-      "Cough followed by hiccough"
-    ], 
     "Sleep": [
       "Insomnia with dilated heart, with cold, clammy skin and anxiety"
     ], 
@@ -76,11 +78,10 @@
       "Hoarseness of public speakers", 
       "Nasopharyngitis and tracheitis, HEMMING, morning cough, sometimes with vomiting"
     ], 
-    "Extremities": [
-      "Feebleness of arms", 
-      "Paralysis following apoplexy", 
-      "Legs and hands icy cold; limbs tremble", 
-      "Gait shuffling, unsteady"
+    "Rectum": [
+      "Constipation; rectum paralyzed, prolapsed", 
+      "Rectal tenesmus", 
+      "Diarrhoea, sudden, watery, with nausea and vomiting, prostration, and cold sweat; discharges look like sour milk, thick, curdled, watery"
     ]
   }, 
   "details": "The symptomatology of Tabacum is exceedingly well marked. The nausea, giddiness, death-like pallor, vomiting, icy coldness, and sweat, with the intermittent pulse, are all most characteristic. Has marked antiseptic qualities, antidotal to cholera germs. Complete prostration of the entire muscular system. Collapse. Gastralgia, enteralgia, SEASICKNESS, cholera infantum; cold, but WANTS ABDOMEN UNCOVERED. Vigorous peristaltic activity. Diarrhoea. Produces high tension and arteriosclerosis of the coronary arteries. Should prove the most homeopathic drug for angina pectoris, with coronaritis and high tension (Cartier). Constriction of throat, chest, bladder, rectum. Pallor, breathlessness, hard cord like pulse.", 
