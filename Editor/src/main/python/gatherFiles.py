@@ -21,12 +21,6 @@ links = list(links)
 links.sort()
 print "Number of links %s" % len(links)
 
-chosen_link = None
-for link in links:
-    if link.endswith("kalibic.php"):
-        chosen_link = link
-
-
 keywords = set(["General.", "Natural History.", "Stomach.",
                 "Sleep",
         "Head.",
@@ -58,6 +52,16 @@ keywords = set(["General.", "Natural History.", "Stomach.",
         "Dose.",
         "Relationship.",
         "Aggravation."])
+
+def download_one_file(link):
+    import urllib2
+    response = urllib2.urlopen(link)
+    html = response.read()
+    file_name = os.path.basename(link)
+    assert file_name.endswith(".php")
+    file_name = file_name[:-4] + ".orig"
+    with open(file_name, "w") as file_handle:
+        file_handle.write(html)
 
 def process_one_remedy(link):
     print "Processing link %s" % link
@@ -107,7 +111,7 @@ def process_one_remedy(link):
             if current_list != None:
                 current_list.append(element)
 
-    special_handling = set(["Relationship."])
+    special_handling = set(["Relationship.", "General."])
     symptom_list = {}
     for k, v in category_map.iteritems():
         value = "".join(v)
@@ -126,8 +130,16 @@ def process_one_remedy(link):
                 symptoms.append(x)
 
         symptom_name = k[:-1]
+        if symptom_name == "Aggravation":
+            symptom_name = "Modalities"
         symptom_list[symptom_name] = symptoms
     print json.dumps(symptom_list, indent=2)
 
+chosen_link = None
+for link in links:
+    print "Downloading %s" % link
+    download_one_file(link)
+    if link.endswith("kalibic.php"):
+        chosen_link = link
 
-process_one_remedy(chosen_link)
+#process_one_remedy(chosen_link)
