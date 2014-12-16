@@ -10,7 +10,7 @@ file_name = "%s" % __file__
 db_name = "remedy"
 src_root = os.path.abspath(os.path.join(os.path.dirname(file_name), "../" * 4))
 database_dir = os.path.join(src_root, "assets", "databases")
-catalog_dir = os.path.join(src_root, "Editor", "remedyList")
+catalog_dir = os.path.join(src_root, "downloads")
 
 def create_tables(c):
     # Create remedy table.
@@ -37,12 +37,16 @@ c = conn.cursor()
 create_tables(c)
 
 for f in os.listdir(catalog_dir):
+    if not f.endswith(".json"):
+        continue
     print "Processing %s" % f
     json_file = os.path.join(catalog_dir, f)
     with open(json_file) as fd:
         remedy = json.load(fd)
+        dosage = remedy.get("dosage", "")
+        details = remedy.get("details", "")
         c.execute("insert into remedy (name, details, dosage) values (?, ?, ?)",
-                  (remedy["name"], remedy["details"], remedy["dosage"]))
+                  (remedy["name"], details, dosage))
         remedy_id = c.lastrowid
         symptoms = remedy["symptoms"]
         for category, desc_list in symptoms.iteritems():
@@ -65,8 +69,12 @@ for f in os.listdir(catalog_dir):
                     symptom_id = c.lastrowid
 
                 # Add an entry for the symptom to this remedy.
-                c.execute("insert into remedy_symptom (remedy_id, symptom_id) values (?, ?)",
-                          (remedy_id, symptom_id))
+                try:
+                    c.execute("insert into remedy_symptom (remedy_id, symptom_id) values (?, ?)",
+                              (remedy_id, symptom_id))
+                except Exception, e:
+                    print "Error when inserting remedy_symptom for %s, symptom %s in category %s" % (remedy["name"], desc, category)
+                    raise e
 
 conn.commit()
 
