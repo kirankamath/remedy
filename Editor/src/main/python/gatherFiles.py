@@ -1,12 +1,9 @@
 #!/usr/bin/env python
 
 import os
-import re
 from xml.dom import minidom
 from subprocess import check_call
 import json
-
-paren_remover = re.compile('\(.+?\)')
 
 links = set()
 

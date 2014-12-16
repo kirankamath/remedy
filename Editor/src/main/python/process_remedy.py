@@ -7,37 +7,40 @@ from subprocess import check_call
 import json
 import sys
 
-keywords = set(["General.", "Natural History.", "Stomach.",
+paren_remover = re.compile('\(.+?\)')
+
+keywords = set(["General.",
+                "Natural History.",
                 "Sleep",
-        "Head.",
-        "Mind.",
-        "Face.",
-        "Eyes.",
-        "Ears.",
-        "Nose.",
-        "Mouth.",
-        "Tongue.",
-        "Throat.",
-        "Respiratory.",
-        "Chest.",
-        "Heart.",
-        "Back.",
-        "Stomach.",
-        "Abdomen.",
-        "Urine.",
-        "Genetalia.",
-        "Rectum.",
-        "Stool.",
-        "Skin.",
-        "Extremities.",
-        "Fever.",
-        "Female.",
-        "Male.",
-        "Modalities.",
-        "Sexual.",
-        "Dose.",
-        "Relationship.",
-        "Aggravation."])
+                "Head.",
+                "Mind.",
+                "Face.",
+                "Eyes.",
+                "Ears.",
+                "Nose.",
+                "Mouth.",
+                "Tongue.",
+                "Throat.",
+                "Respiratory.",
+                "Chest.",
+                "Heart.",
+                "Back.",
+                "Stomach.",
+                "Abdomen.",
+                "Urine.",
+                "Genetalia.",
+                "Rectum.",
+                "Stool.",
+                "Skin.",
+                "Extremities.",
+                "Fever.",
+                "Female.",
+                "Male.",
+                "Modalities.",
+                "Sexual.",
+                "Dose.",
+                "Relationship.",
+                "Aggravation."])
 
 def process_one_remedy(file_name):
     with open(file_name, "r") as input_handle:
@@ -67,6 +70,9 @@ def process_one_remedy(file_name):
     os.remove(file_name+".xhtml")
 
     font_list = xmldoc.getElementsByTagName("font")
+
+    # Name is always in the first font node.
+    name =  font_list[0].childNodes[0].nodeValue
     data = []
     for font in font_list:
         if font.childNodes:
@@ -87,13 +93,14 @@ def process_one_remedy(file_name):
             if current_list != None:
                 current_list.append(element)
 
-    special_handling = set(["Relationship.", "General."])
+    special_handling = set(["Relationship.", "General.", "Dose."])
     symptom_list = {}
+    rename_pairs = {"Aggravation" : "Modalities", "Dose" : "dosage", "General" : "details"}
     for k, v in category_map.iteritems():
         value = "".join(v)
         value = value.replace("\n", "")
         if k in special_handling:
-            symptoms = [value]
+            symptoms = value
         else:
             # Remove any content within paren.
             value = paren_remover.sub('', value)
@@ -106,12 +113,33 @@ def process_one_remedy(file_name):
                 symptoms.append(x)
 
         symptom_name = k[:-1]
-        if symptom_name == "Aggravation":
-            symptom_name = "Modalities"
+        if symptom_name in rename_pairs.keys():
+            symptom_name =  rename_pairs[symptom_name]
+
         symptom_list[symptom_name] = symptoms
-    print json.dumps(symptom_list, indent=2)
+    remedy = {"name": name}
+
+    main_items = ["dosage", "details", "Relationship", "Natural History"]
+    for item in main_items:
+        item_value = symptom_list.get(item)
+        if item_value:
+            remedy[item] = item_value
+            del symptom_list[item]
+
+    relation = symptom_list.get("Relationship")
+    if relation:
+        remedy["relationship"] = relation
+        del symptom_list["Relationship"]
+
+    # Rest of the items go to symptoms of the remedy.
+    remedy["symptoms"] = symptom_list
+
+    # Replace any spaces in the filename with underscores.
+    with open(name.replace(" ", "_") + ".json", "w") as file_handle:
+        file_handle.write(json.dumps(remedy, indent=2))
 
 def main():
     file_name = sys.argv[1]
+    process_one_remedy(file_name)
 if __name__ == "__main__":
     main()
