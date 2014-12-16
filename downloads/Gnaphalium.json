@@ -4,8 +4,8 @@
   "symptoms": {
     "Abdomen": [
       "Borborygmus", 
-      "Colic; pain in various parts of the abdomen", 
       "Irritated prostate", 
+      "Colic; pain in various parts of the abdomen", 
       "First stage of cholera infantum; vomiting and purging"
     ], 
     "Back": [
@@ -13,20 +13,20 @@
       "Lumbago with numbness in lower part of back and weight in pelvis"
     ], 
     "Female": [
-      "Weight and fullness in pelvis", 
-      "DYSMENORRHOEA, with scanty and painful menses"
+      "DYSMENORRHOEA, with scanty and painful menses", 
+      "Weight and fullness in pelvis"
     ], 
     "Extremities": [
-      "Cramps in calves of legs and feet when in bed", 
-      "Rheumatic pain in ankle joints and legs", 
-      "INTENSE PAIN ALONG THE SCIATIC NERVE; NUMBNESS ALTERNATES WITH PAIN", 
-      "Frequent pains in calves and feet", 
-      "Gouty pains in big toes", 
-      "Better, drawing limbs up, flexing thigh on abdomen", 
       "Gouty concretions", 
+      "INTENSE PAIN ALONG THE SCIATIC NERVE; NUMBNESS ALTERNATES WITH PAIN", 
+      "Better, drawing limbs up, flexing thigh on abdomen", 
+      "Cramps in calves of legs and feet when in bed", 
+      "Frequent pains in calves and feet", 
+      "Rheumatic pain in ankle joints and legs", 
+      "Chronic muscular rheumatism of back and neck", 
+      "Gouty pains in big toes", 
       "Anterior crural neuralgia", 
-      "Pain in joints as if they lacked oil", 
-      "Chronic muscular rheumatism of back and neck"
+      "Pain in joints as if they lacked oil"
     ], 
     "Face": [
       "Intermittent pains of superior maxillary of both sides"

@@ -1,6 +1,6 @@
 {
   "name": "Nitri spiritus dulcis", 
-  "Relationship": "Increases the action of Digitalis.Compare: PHOS-AC.; LYCOP.", 
+  "Relationship": "Compare: PHOS-AC.; LYCOP.Increases the action of Digitalis.", 
   "symptoms": {
     "Respiratory": [
       "Very rapid breathing by going only a short walk", 
@@ -11,8 +11,8 @@
       "Worse: during winter and spring"
     ], 
     "Face": [
-      "Prosopalgia, with photophobia", 
       "Burning in cheeks, AND VOMITING, FOLLOWED BY LASSITUDE", 
+      "Prosopalgia, with photophobia", 
       "Boring in facial bones; in angles of lower jaw", 
       "Very sensitive to cold"
     ]

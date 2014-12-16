@@ -3,27 +3,27 @@
   "Relationship": "Compare: Arsenic; Tubercul.; Baryt. carb.; Iod.", 
   "symptoms": {
     "Head": [
-      "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts", 
-      "Corneal exudation"
+      "Corneal exudation", 
+      "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts"
     ], 
     "Respiratory": [
-      "Sensitive to cold air", 
-      "Difficult respiration", 
-      "Chronic irritation of air passages", 
-      "Copious, yellow-green mucus", 
       "Coughs with coldness, weakness, emaciation, sensitiveness and peevishness, worse from cold air", 
-      "Pain in chest walls"
+      "Pain in chest walls", 
+      "Copious, yellow-green mucus", 
+      "Difficult respiration", 
+      "Sensitive to cold air", 
+      "Chronic irritation of air passages"
     ], 
     "Stomach": [
-      "Sensation of coldness, especially when empty", 
       "Sinking sensation at pit", 
+      "Vomiting and eructations", 
+      "Sensation of coldness, especially when empty", 
       "Great thirst", 
-      "Flatulence and distention after eating", 
-      "Vomiting and eructations"
+      "Flatulence and distention after eating"
     ], 
     "Mind": [
-      "Absent-minded, irritable, irresolute, lacks self-confidence", 
-      "FEARFUL"
+      "FEARFUL", 
+      "Absent-minded, irritable, irresolute, lacks self-confidence"
     ], 
     "Female": [
       "Uterus heavy, prolapsed", 
@@ -31,8 +31,8 @@
       "Flow between periods"
     ], 
     "Skin": [
-      "Itching, burning, cold and blue, very sensitive", 
       "Pimples, comedones, wens", 
+      "Itching, burning, cold and blue, very sensitive", 
       "Psoric eruptions"
     ]
   }, 

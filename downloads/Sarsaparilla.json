@@ -1,18 +1,18 @@
 {
   "name": "Sarsaparilla", 
-  "Relationship": "Complementary: MERC.; SEP.Compare: BERB.; LYCOP.; NAT-M.; PETROL.; SASSAFRAS; SAURURUS - Lizard's tail - (Irritation of kidneys, bladder, prostate and urinary passages. Painful and difficult micturition; cystitis with strangury). CUCURBITA CITRULLUS - Watermelon. Infusion of the seed acts promptly in painful urination with constriction and backache, relieves pain and stimulates flow.Antidote: BELL.", 
+  "Relationship": "Compare: BERB.; LYCOP.; NAT-M.; PETROL.; SASSAFRAS; SAURURUS - Lizard's tail - (Irritation of kidneys, bladder, prostate and urinary passages. Painful and difficult micturition; cystitis with strangury). CUCURBITA CITRULLUS - Watermelon. Infusion of the seed acts promptly in painful urination with constriction and backache, relieves pain and stimulates flow.Antidote: BELL.Complementary: MERC.; SEP.", 
   "symptoms": {
     "Head": [
-      "PAINS CAUSE DEPRESSION", 
-      "Shooting pain from above right temporal region", 
-      "Pains FROM OCCIPUT TO EYES", 
-      "Words reverberate in ear to the root of nose", 
-      "Periosteal pains due to venereal disease", 
       "Influenza", 
+      "PAINS CAUSE DEPRESSION", 
+      "Crusta lactea beginning in face", 
+      "Shooting pain from above right temporal region", 
       "Scalp sensitive", 
       "ERUPTIONS ON FACE AND UPPER LIP", 
+      "Words reverberate in ear to the root of nose", 
+      "Pains FROM OCCIPUT TO EYES", 
       "Moist eruption on scalp", 
-      "Crusta lactea beginning in face"
+      "Periosteal pains due to venereal disease"
     ], 
     "Modalities": [
       "Worse: dampness at night", 
@@ -25,58 +25,58 @@
       "Despondent, sensitive, easily offended, ill humored and taciturn"
     ], 
     "Abdomen": [
-      "Rumbling and fermentation", 
-      "COLIC AND BACKACHE AT THE SAME TIME", 
-      "Much flatus; cholera infantum", 
-      "Urinary Organs", 
-      "Urine scanty, slimy, flaky, sandy, BLOODY", 
-      "Gravel", 
-      "Renal colic", 
-      "SEVERE PAIN AT CONCLUSION OF URINATION", 
-      "URINE DRIBBLES WHILE SITTING", 
       "Bladder distended and tender", 
-      "CHILD SCREAMS BEFORE AND WHILE PASSING URINE", 
       "Sand on diaper", 
-      "Renal colic and dysuria in infants", 
+      "Rumbling and fermentation", 
+      "URINE DRIBBLES WHILE SITTING", 
+      "COLIC AND BACKACHE AT THE SAME TIME", 
       "PAIN FROM RIGHT KIDNEY DOWNWARD", 
+      "Much flatus; cholera infantum", 
+      "Urine scanty, slimy, flaky, sandy, BLOODY", 
+      "Renal colic and dysuria in infants", 
       "Tenesmus of bladder; urine passes in thin, feeble stream", 
-      "Pain at meatus"
+      "Renal colic", 
+      "Pain at meatus", 
+      "CHILD SCREAMS BEFORE AND WHILE PASSING URINE", 
+      "SEVERE PAIN AT CONCLUSION OF URINATION", 
+      "Gravel", 
+      "Urinary Organs"
     ], 
     "Mouth": [
-      "Tongue white; APHTHAE; SALIVATION; metallic taste; no thirst", 
-      "Fetid breath"
+      "Fetid breath", 
+      "Tongue white; APHTHAE; SALIVATION; metallic taste; no thirst"
     ], 
     "Female": [
       "Nipples small, withered, RETRACTED", 
-      "BEFORE MENSTRUATION, ITCHING AND HUMID ERUPTION OF FOREHEAD", 
       "Menses late and scanty", 
-      "Moist eruption in right groin before menses"
+      "Moist eruption in right groin before menses", 
+      "BEFORE MENSTRUATION, ITCHING AND HUMID ERUPTION OF FOREHEAD"
     ], 
     "Skin": [
-      "EMACIATED, SHRIVELED, LIES IN FOLDS , dry, flabby", 
-      "Herpetic eruptions; ulcers", 
       "Rash from exposure to open air; dry, itching; COMES ON IN SPRING; becomes crusty", 
+      "Summer cutaneous affections", 
+      "Herpetic eruptions; ulcers", 
+      "EMACIATED, SHRIVELED, LIES IN FOLDS , dry, flabby", 
       "Rhagades; skin cracked on hands and feet", 
-      "Skin hard, indurated", 
-      "Summer cutaneous affections"
+      "Skin hard, indurated"
     ], 
     "Extremities": [
       "Paralytic, tearing pains", 
-      "Trembling of hands and feet", 
       "Burning on sides of fingers and toes", 
       "Onychia, ulceration around ends of fingers, cutting sensation under nails", 
       "Rheumatism, bone pains; worse at night", 
-      "Deep rhagades on fingers and toes; burn under nails", 
-      "Tetter on hands; ulceration around ends of fingers", 
       "Cutting sensation under nails", 
+      "Tetter on hands; ulceration around ends of fingers", 
+      "Trembling of hands and feet", 
+      "Deep rhagades on fingers and toes; burn under nails", 
       "Rheumatic pains after gonorrhea"
     ], 
     "Male": [
-      "Bloody, seminal emissions", 
-      "Intolerable stench on genitals", 
+      "Syphilis; squamous eruption and bone pains", 
       "Herpetic eruption on genitals", 
+      "Intolerable stench on genitals", 
       "Itching on scrotum and perineum", 
-      "Syphilis; squamous eruption and bone pains"
+      "Bloody, seminal emissions"
     ]
   }, 
   "details": "Renal colic; marasmus and periosteal pains due to venereal disease. Eruptions following hot weather and vaccinations; boils, and eczema. Urinary symptoms well marked.", 

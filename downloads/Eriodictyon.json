@@ -3,19 +3,19 @@
   "Relationship": "Compare: GRIND.; ARAL.; EUCALYPT.; IPEC.", 
   "symptoms": {
     "Head": [
-      "Dizzy, feels intoxicated", 
-      "Pressure outwards; worse, occiput", 
       "Pain in ears", 
-      "Coryza", 
+      "Coryza with dizziness and sneezing", 
       "Burning in throat", 
+      "Coryza", 
+      "Dizzy, feels intoxicated", 
       "Foul mouth in morning", 
-      "Coryza with dizziness and sneezing"
+      "Pressure outwards; worse, occiput"
     ], 
     "Respiratory": [
-      "Wheezing; asthma, with coryza and MUCOUS SECRETIONS", 
-      "Dull pain in right lung", 
       "Burning in fauces", 
-      "Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief"
+      "Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief", 
+      "Wheezing; asthma, with coryza and MUCOUS SECRETIONS", 
+      "Dull pain in right lung"
     ], 
     "Male": [
       "Sore, dragging in testicle, could not bear any pressure; better gentle support"

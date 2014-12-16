@@ -4,8 +4,8 @@
   ], 
   "symptoms": {
     "Head": [
-      "Occipital headache and PAIN THROUGH THE GLOBE OF THE EYES and orbits", 
       "Pain across the brain from left to right", 
+      "Occipital headache and PAIN THROUGH THE GLOBE OF THE EYES and orbits", 
       "Pain along right malar bone running to temple"
     ], 
     "Mind": [
@@ -13,18 +13,18 @@
     ], 
     "Chest": [
       "Convulsive pains at the heart; feels as if transfixed", 
-      "Pain in chest through heart, with pain running toward spleen", 
       "Pain in left pectoral muscle and cartilage of left lower ribs", 
-      "Sensation of a great weight on heart, and pricking pain", 
       "Hypertrophy of heart", 
-      "Difficult, sighing respiration, as from some compression of chest"
+      "Pain in chest through heart, with pain running toward spleen", 
+      "Difficult, sighing respiration, as from some compression of chest", 
+      "Sensation of a great weight on heart, and pricking pain"
     ], 
     "Skin": [
       "Itching of skin"
     ], 
     "Extremities": [
-      "Pain in neck, back, shoulders, down arms, hands and fingers", 
-      "Pain in knees and joints of lower extremities"
+      "Pain in knees and joints of lower extremities", 
+      "Pain in neck, back, shoulders, down arms, hands and fingers"
     ], 
     "dosage": ""
   }, 

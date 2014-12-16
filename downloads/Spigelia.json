@@ -3,42 +3,42 @@
   "Relationship": "Compare: SPIGELIA MARYLANDICA (maniacal excitement, paroxysmal laughing and crying, loud, disconnected talking, vertigo, dilated pupils, congestions); ACON.; CACT.; CIMICIF.; ARNICA (Spigelia is a chronic Arnica); CANNAB. (Supraorbital pain); NAJA; SPONG. (HEART); SABAD.; TEUCR.; CINA (worm symptoms).", 
   "symptoms": {
     "Heart": [
-      "Violent palpitation", 
-      "Precordial pain and great aggravation from movement", 
-      "Frequent attacks of palpitation, especially with foul odor from mouth", 
       "Pulse weak and irregular", 
-      "Pericarditis, with sticking pains, palpitation, dyspnoea", 
-      "Neuralgia extending to arm or both arms", 
+      "Frequent attacks of palpitation, especially with foul odor from mouth", 
       "Angina pectoris", 
       "Craving for hot water which relieves", 
+      "Precordial pain and great aggravation from movement", 
+      "DYSPNOEA; MUST LIE ON RIGHT SIDE WITH HEAD HIGH", 
+      "Neuralgia extending to arm or both arms", 
+      "Pericarditis, with sticking pains, palpitation, dyspnoea", 
       "Rheumatic carditis, trembling pulse; whole left side sore", 
-      "DYSPNOEA; MUST LIE ON RIGHT SIDE WITH HEAD HIGH"
+      "Violent palpitation"
     ], 
     "Eyes": [
-      "Feel too large; PRESSIVE PAIN ON TURNING THEM", 
+      "Ciliary neuralgia, a true neuritis", 
       "Pupils dilated; photophobia; rheumatic ophthalmia", 
       "SEVERE PAIN IN AND AROUND EYES, EXTENDING DEEP INTO SOCKET", 
-      "Ciliary neuralgia, a true neuritis"
+      "Feel too large; PRESSIVE PAIN ON TURNING THEM"
     ], 
     "Fever": [
       "Chilliness on the slightest motion"
     ], 
     "Modalities": [
+      "Better: lying on right side with head high; inspiring", 
       "Worse: from touch", 
       "Worse: motion", 
       "Worse: noise", 
       "Worse: turning", 
       "Worse: washing", 
-      "Worse: concussion", 
-      "Better: lying on right side with head high; inspiring"
+      "Worse: concussion"
     ], 
     "Mind": [
-      "Afraid of sharp, pointed things, pins, needles, etc"
+      "Afraid of sharp, pointed things, pins, needles, etc."
     ], 
     "Head": [
       "PAIN FROM BENEATH FRONTAL EMINENCE AND TEMPLES, EXTENDING TO EYES", 
-      "Semi-lateral, involving left eye; pain violent, throbbing; worse, making a false step", 
       "Pain as if a band around head", 
+      "Semi-lateral, involving left eye; pain violent, throbbing; worse, making a false step", 
       "Vertigo, hearing exalted"
     ], 
     "Face": [
@@ -47,17 +47,17 @@
     "Mouth": [
       "Tongue fissured, painful", 
       "Tearing toothache; worse, after eating and cold", 
-      "FOUL ODOR FROM MOUTH", 
-      "Offensive taste"
+      "Offensive taste", 
+      "FOUL ODOR FROM MOUTH"
     ], 
     "Nose": [
-      "Forepart of nose always dry; DISCHARGE THROUGH POSTERIOR NARES", 
-      "CHRONIC CATARRH, with post-nasal dropping of bland mucus"
+      "CHRONIC CATARRH, with post-nasal dropping of bland mucus", 
+      "Forepart of nose always dry; DISCHARGE THROUGH POSTERIOR NARES"
     ], 
     "Rectum": [
-      "Itching and crawling", 
       "Frequent ineffectual urging to stool", 
-      "Ascarides"
+      "Ascarides", 
+      "Itching and crawling"
     ]
   }, 
   "details": "Spigelia is an important remedy in pericarditis and other diseases of the heart, because the provings were conducted with the greatest regard for objective symptoms and the subjective symptoms are by innumerable confirmations proved to be correct (C. Hering).Has marked elective affinity for the eye, heart, and nervous system. Neuralgia of the fifth nerve is very prominent in its effects. Is especially adapted to anaemic, debilitated, rheumatic, and scrofulous subjects. Stabbing pains. Heart affections and neuralgia. VERY SENSITIVE TO TOUCH. PARTS FEEL CHILLY; SEND SHUDDER THROUGH FRAME. A remedy for stitches due to the presence of worms. CHILD REFERS TO THE NAVEL AS THE MOST PAINFUL PART. (GRANAT.; NUX MOSCH.)", 

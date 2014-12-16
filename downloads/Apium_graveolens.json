@@ -5,32 +5,33 @@
   "details": "Contains a soporific active principle. Obstinate retention of urine, throbbing headaches and heartburn, have been produced by celery. Swelling of throat, face, and hands. Rheumatic pain in muscles of neck also in sacrum. Growing pains. Hungry for apples. Dysmenorrhoea, with sharp, short pains, better flexing legs.", 
   "symptoms": {
     "Head": [
-      "Depressed; energetic; feeling of fidgets; cannot sleep from thinking", 
-      "Headache; better eating", 
-      "Eyeballs feel sunken", 
       "Itching in eyes", 
-      "Itching and smarting in inner canthus of left eye"
+      "Depressed; energetic; feeling of fidgets; cannot sleep from thinking", 
+      "Itching and smarting in inner canthus of left eye", 
+      "Headache; better eating", 
+      "Eyeballs feel sunken"
     ], 
     "Respiratory": [
-      "Tickling, dry cough", 
       "INTENSE CONSTRICTION OVER STERNUM, with drawing feeling through to back on lying down", 
+      "Tickling, dry cough", 
       "Throat swollen, dyspnoea"
     ], 
     "Abdomen": [
       "Sore; sharp sticking pain as if stool was coming on; diarrhoea, sharp pain in left iliac region going over to right", 
       "Nausea increases with pains"
     ], 
+    "Sleep": [
+      "Unrefreshed; sleepless", 
+      "Not fatigued from loss of sleep", 
+      "Wakes from 1 to three AM Eating does not help sleep"
+    ], 
     "Female": [
       "Sharp sticking pains in both ovarian regions, left, better bending over, by lying on left side, WITH LEGS FLEXED; nipples tender"
     ], 
     "Skin": [
-      "Itching blotches; burning, creeping sensation", 
       "Profuse discharge from granulating ulcers", 
       "Urticaria with shuddering", 
-      "Sleep", 
-      "Unrefreshed; sleepless", 
-      "Wakes from 1 to three AM Eating does not help sleep", 
-      "Not fatigued from loss of sleep"
+      "Itching blotches; burning, creeping sensation"
     ]
   }, 
   "name": "Apium graveolens", 

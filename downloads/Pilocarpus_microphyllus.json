@@ -3,36 +3,36 @@
   "Relationship": "Compare: AMYL. NIT.; ATROP.; PHYSOS.; LYCOP; RUTA. PILOCARPIN MUR., (Meniere's disease, rapidly progressive phthisis, with free hemorrhages, profuse sweating, 2x trit.) Atropine is the antagonist to Pilocarpin, in dose of one one-hundredth grain for one-sixth of Pilocarpin.", 
   "symptoms": {
     "Heart": [
-      "Pulse irregular, dicrotic", 
+      "Nervous cardiac affections", 
       "Oppression of chest", 
       "Cyanosis; collapse", 
-      "Nervous cardiac affections"
+      "Pulse irregular, dicrotic"
     ], 
     "Eyes": [
-      "EYE STRAIN from whatever cause", 
-      "Irritability of the ciliary muscle", 
-      "Eyes easily tire from slightest use", 
-      "Heat and burning in eyes on use", 
-      "Headache; smarting and pain in globe on use", 
-      "Everything at a distance appears hazy; vision becomes indistinct every few moments", 
-      "Retinal images retained long after using eyes", 
-      "Irritation from electric or other artificial light", 
-      "PUPILS CONTRACTED; do not react to light", 
-      "Staring eyes", 
-      "NEAR-SIGHTED", 
-      "Vertigo and nausea after using eyes", 
-      "WHITE SPOTS BEFORE EYES", 
-      "SMARTING pain in eyes", 
       "Lids twitch", 
+      "NEAR-SIGHTED", 
+      "Everything at a distance appears hazy; vision becomes indistinct every few moments", 
+      "WHITE SPOTS BEFORE EYES", 
+      "Heat and burning in eyes on use", 
+      "Vertigo and nausea after using eyes", 
+      "Irritation from electric or other artificial light", 
+      "Eyes easily tire from slightest use", 
       "Atrophic choroiditis", 
-      "Spasm of the accommodation while reading"
+      "SMARTING pain in eyes", 
+      "Staring eyes", 
+      "Retinal images retained long after using eyes", 
+      "Irritability of the ciliary muscle", 
+      "Headache; smarting and pain in globe on use", 
+      "Spasm of the accommodation while reading", 
+      "PUPILS CONTRACTED; do not react to light", 
+      "EYE STRAIN from whatever cause"
     ], 
     "Respiratory": [
-      "Bronchial mucous membrane inflamed", 
-      "Much inclination to cough and difficult breathing", 
-      "Oedema of lungs", 
       "Foamy sputa", 
+      "Oedema of lungs", 
       "Profuse, thin, serous expectoration", 
+      "Much inclination to cough and difficult breathing", 
+      "Bronchial mucous membrane inflamed", 
       "Slow, sighing respiration"
     ], 
     "Stomach": [
@@ -44,16 +44,16 @@
       "Scanty; pain over pubes with much urging"
     ], 
     "Mouth": [
-      "Saliva viscid, like white of egg", 
+      "Free salivation, WITH PROFUSE SWEATING", 
       "Dryness", 
-      "Free salivation, WITH PROFUSE SWEATING"
+      "Saliva viscid, like white of egg"
     ], 
     "Skin": [
-      "EXCESSIVE PERSPIRATION FROM ALL PARTS OF THE BODY", 
-      "Persistent dryness of skin", 
-      "Dry eczema", 
       "Semi-lateral sweats", 
-      "Chilliness with sweat"
+      "EXCESSIVE PERSPIRATION FROM ALL PARTS OF THE BODY", 
+      "Chilliness with sweat", 
+      "Persistent dryness of skin", 
+      "Dry eczema"
     ], 
     "Ears": [
       "Serous exudation into the tympanitic cavities", 

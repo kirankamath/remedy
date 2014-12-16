@@ -3,55 +3,55 @@
   "Relationship": "Asarum Canadensa - Wild Ginger. (Colds, followed by amenorrhoea and gastroenteritis. Suppressed colds.) Compare: Ipecac., especially in diarrhoea; Silica; Nux; China.", 
   "symptoms": {
     "Eyes": [
-      "Feel stiff; burn; feel cold", 
+      "Asthenopia", 
       "Better, in cold air or water; worse, sunlight and wind", 
-      "Darting pains in eyes after operations", 
-      "Asthenopia"
+      "Feel stiff; burn; feel cold", 
+      "Darting pains in eyes after operations"
     ], 
     "Fever": [
       "Chilliness, single parts get icy cold", 
       "Easily excited perspiration"
     ], 
     "Stomach": [
-      "Loss of appetite, flatulence, eructation, and vomiting", 
-      "DESIRE FOR ALCOHOLIC DRINKS", 
-      "Smoking tobacco tastes bitter", 
-      "Nausea; worse after eating", 
       "Clean tongue", 
+      "Smoking tobacco tastes bitter", 
+      "Accumulation of cold, watery saliva", 
+      "Nausea; worse after eating", 
       "Great faintness", 
-      "Accumulation of cold, watery saliva"
+      "Loss of appetite, flatulence, eructation, and vomiting", 
+      "DESIRE FOR ALCOHOLIC DRINKS"
     ], 
     "Female": [
-      "Menses too early, long lasting, black", 
       "Violent pain in small of back", 
-      "Tenacious, yellow leucorrhoea"
+      "Tenacious, yellow leucorrhoea", 
+      "Menses too early, long lasting, black"
     ], 
     "Modalities": [
       "Worse: in cold dry weather; penetrating sounds", 
       "Better: from washing; in damp and wet weather"
     ], 
     "Mind": [
-      "Thoughts vanish, with drawing pressure in forehead", 
-      "SENSIBILITY INCREASED, EVEN FROM MERE IMAGINATION"
+      "SENSIBILITY INCREASED, EVEN FROM MERE IMAGINATION", 
+      "Thoughts vanish, with drawing pressure in forehead"
     ], 
     "Back": [
       "Paralytic pain in muscles of nape of neck", 
       "Weakness, with staggering"
     ], 
     "Respiratory": [
-      "Nervous, hacking cough", 
-      "Short respiration"
+      "Short respiration", 
+      "Nervous, hacking cough"
     ], 
     "Head": [
-      "Compressive pain", 
+      "Coryza, with sneezing", 
       "Tension of scalp; hair painful", 
-      "Coryza, with sneezing"
+      "Compressive pain"
     ], 
     "Rectum": [
+      "Prolapse", 
       "STRINGS of odorless, yellow mucus pass from bowels", 
-      "Diarrhoea of tough mucus", 
       "UNDIGESTED STOOLS", 
-      "Prolapse"
+      "Diarrhoea of tough mucus"
     ], 
     "Ears": [
       "Sensation as if plugged up", 

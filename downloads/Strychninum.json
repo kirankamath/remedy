@@ -7,19 +7,19 @@
       "Very obstinate constipation"
     ], 
     "Eyes": [
-      "Hot, painful, protruding, staring", 
+      "Spasmodic contraction of ocular muscles; twitching and trembling of lids", 
       "Pupils dilated", 
       "Sparks before eyes", 
-      "Spasmodic contraction of ocular muscles; twitching and trembling of lids"
+      "Hot, painful, protruding, staring"
     ], 
     "Fever": [
-      "Cold chills down spine", 
       "Perspiration in a stream down head and chest", 
-      "Lower extremities cold"
+      "Lower extremities cold", 
+      "Cold chills down spine"
     ], 
     "Stomach": [
-      "Constant retching", 
       "Violent vomiting", 
+      "Constant retching", 
       "Nausea of pregnancy"
     ], 
     "Female": [
@@ -27,54 +27,54 @@
       "Any touch on body excites a voluptuous sensation"
     ], 
     "Modalities": [
-      "Worse: morning; touch; noise; motion; after meals", 
-      "Better: lying on back"
+      "Better: lying on back", 
+      "Worse: morning; touch; noise; motion; after meals"
     ], 
     "Back": [
-      "RIGIDITY OF CERVICAL MUSCLES", 
-      "Sharp pain in nape and down spine", 
+      "ICY SENSATION DOWN SPINE", 
       "BACK STIFF; violent jerks in spinal column", 
-      "ICY SENSATION DOWN SPINE"
+      "RIGIDITY OF CERVICAL MUSCLES", 
+      "Sharp pain in nape and down spine"
     ], 
     "Face": [
-      "Pale, anxious, livid", 
-      "Jaws stiffened; lower jaw spasmodically closed"
+      "Jaws stiffened; lower jaw spasmodically closed", 
+      "Pale, anxious, livid"
     ], 
     "Respiratory": [
-      "SPASM OF MUSCLES about larynx", 
-      "Excessive dyspnoea", 
       "Sharp, contractive pains in muscles of chest", 
-      "Persistent cough, recurring after influenza"
+      "Persistent cough, recurring after influenza", 
+      "Excessive dyspnoea", 
+      "SPASM OF MUSCLES about larynx"
     ], 
     "Head": [
-      "Restless", 
-      "OVER-IRRITABILITY", 
-      "Full and bursting headache, with heat in eyes", 
       "Vertigo, with roaring in ears", 
+      "OVER-IRRITABILITY", 
+      "Restless", 
+      "Full and bursting headache, with heat in eyes", 
+      "Itching of scalp and nape", 
       "Jerking of head forwards", 
-      "Scalp sore", 
-      "Itching of scalp and nape"
+      "Scalp sore"
     ], 
     "Skin": [
       "Itching of whole body, especially nose", 
       "Icy sensation down the spine"
     ], 
     "Throat": [
+      "Violent itching in roof of mouth", 
       "Dry, contracted; feeling of a lump", 
       "Deglutition impossible", 
-      "Burning along and spasms of oesophagus", 
-      "Violent itching in roof of mouth"
+      "Burning along and spasms of oesophagus"
     ], 
     "Abdomen": [
       "Sharp pain in abdominal muscles, griping pain in bowels"
     ], 
     "Extremities": [
-      "Limbs stiff", 
-      "Rheumatism with stiff joints", 
-      "VIOLENT JERKING, TWITCHING, AND TREMBLING", 
-      "Tetanic convulsions and opisthotonos; spasms provoked by slightest touch and attempt to move", 
       "Shocks in the muscles", 
-      "CRAMP-LIKE PAINS"
+      "Rheumatism with stiff joints", 
+      "CRAMP-LIKE PAINS", 
+      "Tetanic convulsions and opisthotonos; spasms provoked by slightest touch and attempt to move", 
+      "VIOLENT JERKING, TWITCHING, AND TREMBLING", 
+      "Limbs stiff"
     ], 
     "Ears": [
       "Hearing very acute; burning, itching, and roaring in ears"

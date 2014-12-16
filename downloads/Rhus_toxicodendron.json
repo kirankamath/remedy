@@ -1,95 +1,95 @@
 {
   "name": "Rhus toxicodendron", 
-  "Relationship": "Complementary: BRY.; CALC. FLUOR. PHYTOL. (Rheumatism). In urticaria follow with BOVISTA.Inimical: APIS.Antidotes: Bathing with milk and Grindelia lotion very effective. AMPELOPSIS TRIFOLIA - Three-leaf Woodbine - (Toxic dermatitis due to vegetable poisons - 30 and 200. Very similar to Rhus poisoning. Desensitizing against Ivy poisoning by the use of ascending doses of the tincture by mouth or by hypodermic injections is recommended by old school authorities, but is not as effective as the homeopathic remedies especially RHUS 30 and 200 and ANACARD., etc. ANACARD.; CROTON.; GRINDELIA; MEZER.; CYP RIP.; PLUMBAGO (eczema of vulva); GRAPH.Compare: RHUS RADICANS (almost identical action); characteristics are, burning in tongue, tip feels sore, pains are often semilateral and in various parts, often remote and successive. Many symptoms are better after a storm has thoroughly set in, especially after an electric storm. Has pronounced YEARLY aggravation. (LACHES.) RHUS RADICANS has headache in OCCIPUT even pain in nape of neck and from there pains draw over the head FORWARDS). RHUS DIVERSILOBA - California Poison-oak (antidote to Rhus; violent skin symptoms, with frightful itching; much swelling of face, hands and genitals; skin very sensitive; eczema and erysipelas, great nervous weakness, tired from least effort; goes to sleep from sheer exhaustion); XEROPHYLLUM (dysmenorrhoea and skin symptoms). Compare, also: ARN.; BAPT.; LACH.; ARS.; HYOS.; OP. (stupefactions more profound). MIMOSA - Sensitive Plant - (rheumatism, knee stiff, lancinating pains in back and limbs. Swelling of ankles. Legs tremble).", 
+  "Relationship": "Compare: RHUS RADICANS (almost identical action); characteristics are, burning in tongue, tip feels sore, pains are often semilateral and in various parts, often remote and successive. Many symptoms are better after a storm has thoroughly set in, especially after an electric storm. Has pronounced YEARLY aggravation. (LACHES.) RHUS RADICANS has headache in OCCIPUT even pain in nape of neck and from there pains draw over the head FORWARDS). RHUS DIVERSILOBA - California Poison-oak (antidote to Rhus; violent skin symptoms, with frightful itching; much swelling of face, hands and genitals; skin very sensitive; eczema and erysipelas, great nervous weakness, tired from least effort; goes to sleep from sheer exhaustion); XEROPHYLLUM (dysmenorrhoea and skin symptoms). Compare, also: ARN.; BAPT.; LACH.; ARS.; HYOS.; OP. (stupefactions more profound). MIMOSA - Sensitive Plant - (rheumatism, knee stiff, lancinating pains in back and limbs. Swelling of ankles. Legs tremble).Complementary: BRY.; CALC. FLUOR. PHYTOL. (Rheumatism). In urticaria follow with BOVISTA.Inimical: APIS.Antidotes: Bathing with milk and Grindelia lotion very effective. AMPELOPSIS TRIFOLIA - Three-leaf Woodbine - (Toxic dermatitis due to vegetable poisons - 30 and 200. Very similar to Rhus poisoning. Desensitizing against Ivy poisoning by the use of ascending doses of the tincture by mouth or by hypodermic injections is recommended by old school authorities, but is not as effective as the homeopathic remedies especially RHUS 30 and 200 and ANACARD., etc. ANACARD.; CROTON.; GRINDELIA; MEZER.; CYP RIP.; PLUMBAGO (eczema of vulva); GRAPH.", 
   "symptoms": {
     "Head": [
+      "Humid eruptions on scalp; itching greatly", 
       "Feels as if a board were strapped on the forehead", 
-      "Vertigo when rising", 
-      "HEAVY head", 
-      "Brain feels loose and as if struck against skull on walking or rising", 
       "Scalp sensitive; worse on side lain on", 
-      "Headache in occiput ; painful to touch", 
       "Pain in forehead and proceeds thence backward", 
-      "Humid eruptions on scalp; itching greatly"
+      "HEAVY head", 
+      "Headache in occiput ; painful to touch", 
+      "Brain feels loose and as if struck against skull on walking or rising", 
+      "Vertigo when rising"
     ], 
     "Fever": [
-      "Adynamic; restless, trembling", 
-      "Typhoid; tongue dry and brown; sordes; bowels loose; great restlessness", 
       "Intermittent; chill, with dry cough and restlessness", 
-      "During heat, urticaria", 
       "Hydroa", 
+      "Adynamic; restless, trembling", 
+      "During heat, urticaria", 
+      "Typhoid; tongue dry and brown; sordes; bowels loose; great restlessness", 
       "Chilly, as if cold water were poured over him, followed by heat and inclination to stretch the limbs"
     ], 
     "Stomach": [
+      "Great thirst, with dry mouth and throat", 
       "Want of appetite for any kind of food, with unquenchable thirst", 
+      "Pressure as from a stone", 
+      "DROWSY AFTER EATING", 
       "BITTER TASTE", 
       "Nausea, vertigo, and bloated abdomen after eating", 
-      "DESIRE FOR MILK", 
-      "Great thirst, with dry mouth and throat", 
-      "Pressure as from a stone", 
-      "DROWSY AFTER EATING"
+      "DESIRE FOR MILK"
     ], 
     "Abdomen": [
-      "Violent pains, relieved by lying on abdomen", 
-      "Swelling of inguinal glands", 
-      "Pain in region of ascending colon", 
       "Colic, compelling to walk bent", 
+      "Pain in region of ascending colon", 
       "Excessive distention after eating", 
-      "Rumbling of flatus on first rising, but disappears with continued motion"
+      "Violent pains, relieved by lying on abdomen", 
+      "Rumbling of flatus on first rising, but disappears with continued motion", 
+      "Swelling of inguinal glands"
     ], 
     "Mouth": [
-      "Teeth feel loose and long; gums sore", 
-      "Tongue red and cracked; COATED, EXCEPT RED TRIANGULAR SPACE AT THE TIP; dry and red at edges", 
       "Corners of mouth ulcerated; fever-blisters around mouth and chin", 
-      "PAIN IN MAXILLARY JOINT"
+      "Tongue red and cracked; COATED, EXCEPT RED TRIANGULAR SPACE AT THE TIP; dry and red at edges", 
+      "PAIN IN MAXILLARY JOINT", 
+      "Teeth feel loose and long; gums sore"
     ], 
     "Rectum": [
-      "Diarrhoea of blood, slime, and reddish mucus", 
+      "Dysentery", 
       "Dysentery, with tearing pains down thighs", 
-      "Stools of cadaverous odor", 
+      "Dysuria, with loss of blood", 
+      "Dark, turbid, high-colored, scanty urine, with white sediment", 
+      "Diarrhoea of blood, slime, and reddish mucus", 
       "Frothy, painless stools", 
       "Will often abort a beginning suppurative process near the rectum", 
-      "Dysentery", 
-      "Urinary Organs", 
-      "Dark, turbid, high-colored, scanty urine, with white sediment", 
-      "Dysuria, with loss of blood"
+      "Stools of cadaverous odor", 
+      "Urinary Organs"
     ], 
     "Respiratory": [
       "Tickling behind upper sternum", 
+      "Bronchial coughs in old people, worse on awaking and with expectoration of small plugs of mucus", 
       "DRY, TEASING COUGH from midnight until morning, DURING A CHILL, OR WHEN PUTTING HANDS OUT OF BED", 
-      "Hemoptysis from over exertion; blood bright red", 
-      "Influenza, with aching in all bones", 
-      "Hoarseness from overstraining voice", 
       "Oppression of the chest, cannot get breath with sticking pains", 
-      "Bronchial coughs in old people, worse on awaking and with expectoration of small plugs of mucus"
+      "Influenza, with aching in all bones", 
+      "Hemoptysis from over exertion; blood bright red", 
+      "Hoarseness from overstraining voice"
     ], 
     "Eyes": [
-      "Swollen, red, edematous; ORBITAL CELLULITIS", 
       "PUSTULAR INFLAMMATIONS", 
-      "Photophobia; profuse flow of yellow pus", 
       "Oedema of lids, suppurative iritis", 
       "Lids inflamed, agglutinated, swollen", 
-      "Old injured eyes", 
       "Circumscribed corneal injection", 
-      "Intensive ulceration of the cornea", 
-      "Iritis, after exposure to cold and dampness, and of rheumatic origin", 
       "Eye painful on turning it or pressing, can hardly move it, as in acute retrobulbar neuritis", 
+      "Intensive ulceration of the cornea", 
+      "Swollen, red, edematous; ORBITAL CELLULITIS", 
+      "Iritis, after exposure to cold and dampness, and of rheumatic origin", 
+      "Old injured eyes", 
+      "Photophobia; profuse flow of yellow pus", 
       "Profuse gush of hot, scalding tears upon opening lids"
     ], 
     "Face": [
-      "JAWS CRACK WHEN CHEWING", 
-      "Easy dislocation of jaw", 
-      "SWOLLEN FACE, erysipelas", 
       "Cheek bones sensitive to touch", 
+      "SWOLLEN FACE, erysipelas", 
+      "JAWS CRACK WHEN CHEWING", 
       "Parotitis", 
-      "Facial neuralgia, with chilliness; worse, evening", 
-      "CRUSTA LACTEA"
+      "CRUSTA LACTEA", 
+      "Easy dislocation of jaw", 
+      "Facial neuralgia, with chilliness; worse, evening"
     ], 
     "Nose": [
-      "Sneezing; coryza from getting wet", 
+      "Nosebleed on stooping", 
       "Tip of nose red, sore, ulcerated", 
-      "Swelling of nose", 
-      "Nosebleed on stooping"
+      "Sneezing; coryza from getting wet", 
+      "Swelling of nose"
     ], 
     "Male": [
       "Swelling of glands and prepuce - dark-red erysipelatous; scrotum thick, swollen, ODEMATOUS", 
@@ -101,9 +101,9 @@
       "Discharge of bloody pus"
     ], 
     "Heart": [
-      "Hypertrophy from over exertion", 
       "Pulse quick, weak, irregular, intermittent, with numbness of left arm", 
-      "TREMBLING AND PALPITATION WHEN SITTING STILL"
+      "TREMBLING AND PALPITATION WHEN SITTING STILL", 
+      "Hypertrophy from over exertion"
     ], 
     "Modalities": [
       "Worse: during sleep", 
@@ -124,56 +124,57 @@
       "Listless, sad", 
       "Thoughts of suicide", 
       "EXTREME RESTLESSNESS, WITH CONTINUED CHANGE OF POSITION", 
-      "Delirium, with fear of being poisoned", 
+      "GREAT APPREHENSION AT NIGHT, CANNOT REMAIN IN BED", 
       "SENSORIUM BECOMES CLOUDY", 
-      "GREAT APPREHENSION AT NIGHT, CANNOT REMAIN IN BED"
+      "Delirium, with fear of being poisoned"
     ], 
     "Back": [
-      "Pain between shoulders on swallowing", 
       "PAIN AND STIFFNESS IN SMALL OF BACK; BETTER, MOTION, OR LYING ON SOMETHING HARD; worse, while sitting", 
-      "Stiffness of the nape of the neck"
+      "Stiffness of the nape of the neck", 
+      "Pain between shoulders on swallowing"
+    ], 
+    "Sleep": [
+      "DREAMS OF GREAT EXERTION", 
+      "Sleepless before midnight", 
+      "Heavy sleep, as from stupor"
     ], 
     "Female": [
       "Swelling, with intense itching of vulva", 
-      "Pelvic articulations stiff when beginning to move", 
+      ", WITH SHOOTING UPWARDS IN VAGINA", 
       "Menses early, profuse, and prolonged, acrid", 
       "LOCHIA THIN, PROTRACTED, OFFENSIVE DIMINISHED", 
-      ", WITH SHOOTING UPWARDS IN VAGINA"
+      "Pelvic articulations stiff when beginning to move"
     ], 
     "Skin": [
-      "Red, swollen; ITCHING INTENSE", 
-      "Vesicles, herpes; URTICARIA; pemphigus; erysipelas; vesicular suppurative forms", 
-      "Glands swollen", 
-      "CELLULITIS", 
       "Burning eczematous eruptions with tendency to scale formation", 
-      "Sleep", 
-      "DREAMS OF GREAT EXERTION", 
-      "Heavy sleep, as from stupor", 
-      "Sleepless before midnight"
+      "CELLULITIS", 
+      "Glands swollen", 
+      "Vesicles, herpes; URTICARIA; pemphigus; erysipelas; vesicular suppurative forms", 
+      "Red, swollen; ITCHING INTENSE"
     ], 
     "Throat": [
-      "Sore, with SWOLLEN GLANDS", 
       "Sticking pain on swallowing", 
+      "Sore, with SWOLLEN GLANDS", 
       "Parotitis, left side"
     ], 
     "Extremities": [
-      "Hot, painful swelling of joints", 
-      "PAINS TEARING IN TENDONS, LIGAMENTS, AND FASCIA", 
-      "Rheumatic pains spread over a large surface at nape of neck, loins, and extremities; better motion", 
-      "Soreness of condyles of bones", 
-      "LIMBS STIFF, PARALYZED", 
-      "THE COLD FRESH AIR IS NOT TOLERATED; IT MAKES THE SKIN PAINFUL", 
       "Pain along ulnar nerve", 
       "Tearing down thighs", 
+      "Rheumatic pains spread over a large surface at nape of neck, loins, and extremities; better motion", 
+      "LIMBS STIFF, PARALYZED", 
+      "Loss of power in forearm and fingers; crawling sensation in the tips of fingers", 
+      "Soreness of condyles of bones", 
       "SCIATICA; worse, cold, damp weather, at night", 
       "Numbness and formication, after overwork and exposure", 
+      "Hot, painful swelling of joints", 
+      "Tingling in feet", 
+      "PAINS TEARING IN TENDONS, LIGAMENTS, AND FASCIA", 
+      "THE COLD FRESH AIR IS NOT TOLERATED; IT MAKES THE SKIN PAINFUL", 
       "Paralysis; trembling after exertion", 
-      "Tenderness about knee-joint", 
-      "Loss of power in forearm and fingers; crawling sensation in the tips of fingers", 
-      "Tingling in feet"
+      "Tenderness about knee-joint"
     ]
   }, 
-  "details": "The effects on the skin, rheumatic pains, mucous membrane affections, and a typhoid type of fever, make this remedy frequently indicated. Rhus affects fibrous tissue markedly - joints, tendons, sheaths - aponeurosis, etc., producing pains and stiffness. Post-operative complications. TEARING ASUNDER PAINS. Motion always \"limbers up\" the Rhus patient, and hence he feels better for a time from a change of position. Ailments from strains, over-lifting, getting wet while perspiring. Septic conditions. Cellulitis and infections, carbuncles in early stages. (ECHINAC.) Rheumatism in the cold season. SEPTICAEMIA.", 
+  "details": "The effects on the skin, rheumatic pains, mucous membrane affections, and a typhoid type of fever, make this remedy frequently indicated. Rhus affects fibrous tissue markedly - joints, tendons, sheaths - aponeurosis, etc., producing pains and stiffness. Post-operative complications. TEARING ASUNDER PAINS. Motion always limbers up the Rhus patient, and hence he feels better for a time from a change of position. Ailments from strains, over-lifting, getting wet while perspiring. Septic conditions. Cellulitis and infections, carbuncles in early stages. (ECHINAC.) Rheumatism in the cold season. SEPTICAEMIA.", 
   "Natural History": [
     "Poison-ivy"
   ], 

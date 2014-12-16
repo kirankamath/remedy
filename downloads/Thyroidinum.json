@@ -3,13 +3,13 @@
   "Relationship": "Compare: SPONGIA; CALC.; FUCUS; LYCOPUS; IODOTHYRINE, (the active principle isolated form thyroid gland, a substance rich in Iodine and nitrogen, affects metabolism, reducing weight, may produce glycosuria. Use cautiously in obesity, for a fatty heart may not be able to maintain the accelerated rhythm. Milk contains the internal secretion of the thyroid.) THYMUS GLAND EXTRACT (arthritis deformans; metabolic osteoarthritis, 5-grain tablets 3 times daily). High potencies very efficient in exophthalmic goitre.", 
   "symptoms": {
     "Heart": [
+      "Heart's action weak, with numbness of fingers", 
       "Weak, frequent pulse, with inability to lie down", 
-      "TACHYCARDIA", 
-      "Anxiety about chest, AS IF CONSTRICTED", 
       "Palpitation from least exertion", 
+      "Anxiety about chest, AS IF CONSTRICTED", 
       "Severe heart pain", 
-      "Ready excitability of heart", 
-      "Heart's action weak, with numbness of fingers"
+      "TACHYCARDIA", 
+      "Ready excitability of heart"
     ], 
     "Eyes": [
       "Progressive diminution of sight with central scotoma"
@@ -18,54 +18,54 @@
       "Dry, painful cough with scanty, difficult expectoration and burning in pharynx"
     ], 
     "Stomach": [
-      "Desire for sweets and thirst for cold water", 
       "Nausea worse riding in car", 
+      "ENURESIS in weakly children who are nervous and irritable", 
+      "Desire for sweets and thirst for cold water", 
+      "Increased flow; polyuria; some albumen and sugar", 
       "Flatulence, much flatus in abdomen", 
       "Urinary Organs", 
-      "Increased flow; polyuria; some albumen and sugar", 
-      "ENURESIS in weakly children who are nervous and irritable", 
       "Urine smells of violets, burning along urethra, increase of uric acid"
     ], 
     "Mind": [
-      "Stupor, alternating with restless melancholy", 
-      "Irritable, worse least opposition; goes into a rage over trifles"
+      "Irritable, worse least opposition; goes into a rage over trifles", 
+      "Stupor, alternating with restless melancholy"
     ], 
     "Head": [
-      "Feeling of lightness in brain", 
-      "PERSISTENT FRONTAL headache", 
-      "Eyeballs prominent", 
-      "Face flushed; lips burn", 
-      "Tongue thickly coated", 
       "Fullness and heat", 
-      "Face flushed", 
-      "Bad taste in mouth"
+      "Tongue thickly coated", 
+      "Feeling of lightness in brain", 
+      "Face flushed; lips burn", 
+      "PERSISTENT FRONTAL headache", 
+      "Bad taste in mouth", 
+      "Eyeballs prominent", 
+      "Face flushed"
     ], 
     "Skin": [
-      "PSORIASIS associated with adiposity", 
       "Skin DRY, impoverished", 
-      "Cold hands and feet", 
-      "ECZEMA", 
       "Uterine fibroids", 
-      "BROWNEY SWELLING", 
-      "Swelling of glands of stony hardness", 
-      "Sluggish cases", 
       "Jaundice with pruritus", 
+      "Itching without eruption, worse night", 
       "Ichthyosis, lupus", 
-      "Itching without eruption, worse night"
+      "Cold hands and feet", 
+      "BROWNEY SWELLING", 
+      "PSORIASIS associated with adiposity", 
+      "ECZEMA", 
+      "Swelling of glands of stony hardness", 
+      "Sluggish cases"
     ], 
     "Throat": [
       "Dry, congested, raw, burning; worse left side"
     ], 
     "Extremities": [
-      "Rheumatoid arthritis with tendency to obesity, coldness and cramps of extremities", 
+      "Oedema of legs", 
+      "Trembling of limbs and entire body", 
+      "Aching pains", 
       "Peeling of skin of lower limbs", 
       "Cold extremities", 
-      "Aching pains", 
-      "Oedema of legs", 
-      "Trembling of limbs and entire body"
+      "Rheumatoid arthritis with tendency to obesity, coldness and cramps of extremities"
     ]
   }, 
-  "details": "Thyroid produces anaemia, emaciation, muscular weakness, sweating, headache, nervous tremor of face and limbs, tingling sensations, paralysis. Heart rate increased, exophthalmus and dilatation of pupils. IN MYXEDEMA AND CRETINISM its effects are striking. Rheumatoid arthritis. Infantile wasting. Rickets. Delayed union of fractures. In half grain doses twice a day over a considerable period said to be EFFECTIVE IN UNDESCENDED TESTICLE in boys. Thyroid exercises a general regulating influence over the mechanism of the organs of nutrition, growth and development. Thyroid weakness causes decided craving for large amount of sweets.Of use in psoriasis; and TACHYCARDIA. Arrested development in children. Improves the memory. GOITRE. Excessive obesity. Acts better with pale patients, rather than those of high color. Amblyopia. MAMMARY TUMOR. UTERINE FIBROID. Great weakness and hunger, yet loses flesh. NOCTURNAL ENURESIS. AGALACTIA. Begin treatment early in pregnancy. Dose 1/2 gr. 2 to 3 times daily. VOMITING OF PREGNANCY (give early in morning before patient gets up). FIBROID TUMORS OF THE BREAST, 2x trit. Dilates arterioles. (ADRENALIN CONTRACTS THEM.) Sensation of faintness after acute diseases, i.e. weakness. Easy fatigue, weak pulse, tendency to fainting, palpitation, cold hands and feet, low blood pressure, chilliness and sensitive to cold. (Thyroid 1x 3 times daily.) Has a powerful diuretic action in myxedema and various types of oedema.", 
+  "details": "Of use in psoriasis; and TACHYCARDIA. Arrested development in children. Improves the memory. GOITRE. Excessive obesity. Acts better with pale patients, rather than those of high color. Amblyopia. MAMMARY TUMOR. UTERINE FIBROID. Great weakness and hunger, yet loses flesh. NOCTURNAL ENURESIS. AGALACTIA. Begin treatment early in pregnancy. Dose 1/2 gr. 2 to 3 times daily. VOMITING OF PREGNANCY (give early in morning before patient gets up). FIBROID TUMORS OF THE BREAST, 2x trit. Dilates arterioles. (ADRENALIN CONTRACTS THEM.) Sensation of faintness after acute diseases, i.e. weakness. Easy fatigue, weak pulse, tendency to fainting, palpitation, cold hands and feet, low blood pressure, chilliness and sensitive to cold. (Thyroid 1x 3 times daily.) Has a powerful diuretic action in myxedema and various types of oedema.Thyroid produces anaemia, emaciation, muscular weakness, sweating, headache, nervous tremor of face and limbs, tingling sensations, paralysis. Heart rate increased, exophthalmus and dilatation of pupils. IN MYXEDEMA AND CRETINISM its effects are striking. Rheumatoid arthritis. Infantile wasting. Rickets. Delayed union of fractures. In half grain doses twice a day over a considerable period said to be EFFECTIVE IN UNDESCENDED TESTICLE in boys. Thyroid exercises a general regulating influence over the mechanism of the organs of nutrition, growth and development. Thyroid weakness causes decided craving for large amount of sweets.", 
   "Natural History": [
     "Dried Thyroid Gland of the Sheep"
   ], 

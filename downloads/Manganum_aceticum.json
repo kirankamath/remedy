@@ -1,34 +1,34 @@
 {
   "name": "Manganum aceticum", 
-  "Relationship": "Compare: COLLOIDAL MANGANESE (Boils and other staphylococcal infections); MANGAN, MUR. (painful ankles, bone-pains); MANGAN OXYDAT. (pain in tibia, dysmenorrhoea, colic and diarrhoea. Easily fatigued and heated; sleepy. Stolid, mask-like facies; low monotonous voice \"Economical Speech.\" Muscular twitching, cramps in calves; stiff leg muscles; occasional uncontrollable laughter. Peculiar slapping gait. Similar symptoms to paralysis agitans, progressive lenticular degenerations and pseudo sclerosis. Workers in Managa. binoxide are frequently affected with bulbar paralysis. Use 3X homeopathically.) MANGAN. SULPH. (liver affections, excess of bile; a powerful intestinal stimulant); ARGENT.; RHUS.; SULPH.Antidotes: COFF.; MERC.", 
+  "Relationship": "Compare: COLLOIDAL MANGANESE (Boils and other staphylococcal infections); MANGAN, MUR. (painful ankles, bone-pains); MANGAN OXYDAT. (pain in tibia, dysmenorrhoea, colic and diarrhoea. Easily fatigued and heated; sleepy. Stolid, mask-like facies; low monotonous voice Economical Speech. Muscular twitching, cramps in calves; stiff leg muscles; occasional uncontrollable laughter. Peculiar slapping gait. Similar symptoms to paralysis agitans, progressive lenticular degenerations and pseudo sclerosis. Workers in Managa. binoxide are frequently affected with bulbar paralysis. Use 3X homeopathically.) MANGAN. SULPH. (liver affections, excess of bile; a powerful intestinal stimulant); ARGENT.; RHUS.; SULPH.Antidotes: COFF.; MERC.", 
   "symptoms": {
     "Head": [
+      "Field of vision contracted", 
       "Anxiety and fear; BETTER LYING DOWN", 
       "Feels large and heavy, with rush of blood; pain from above downward", 
-      "Field of vision contracted", 
       "Stolid mask-like face"
     ], 
     "Respiratory": [
-      "CHRONIC HOARSENESS", 
-      "Larynx dry, rough, constricted", 
-      "Tuberculosis of larynx", 
-      "Cough; worse evening, and BETTER LYING DOWN and worse in damp weather", 
-      "Mucus difficult to loosen", 
       "Stitches in larynx extending to ear", 
+      "EVERY COLD ROUSES UP A BRONCHITIS", 
       "Heat in chest", 
       "Hemoptysis", 
-      "EVERY COLD ROUSES UP A BRONCHITIS"
+      "Tuberculosis of larynx", 
+      "Mucus difficult to loosen", 
+      "Larynx dry, rough, constricted", 
+      "Cough; worse evening, and BETTER LYING DOWN and worse in damp weather", 
+      "CHRONIC HOARSENESS"
     ], 
     "Modalities": [
+      "Better: lying down", 
       "Worse: cold wet weather", 
-      "Worse: change of weather", 
-      "Better: lying down"
+      "Worse: change of weather"
     ], 
     "Mouth": [
       "Nodes on palate", 
       "Toothache; WORSE, anything cold", 
-      "Hemming all the time", 
-      "Low, monotonous voice"
+      "Low, monotonous voice", 
+      "Hemming all the time"
     ], 
     "Nose": [
       "Dry, obstructed", 
@@ -39,52 +39,52 @@
       "FLUSHES OF HEAT AT CLIMACTERIC"
     ], 
     "Skin": [
-      "Suppuration of skin around joints", 
       "Red, elevated spots", 
       "ITCHING; better, scratching", 
-      "Deep cracks in bends of elbows, etc", 
-      "Psoriasis and pityriasis", 
       "Burning around ulcers", 
-      "CHRONIC ECZEMA associated with amenorrhoea, worse at menstrual period or at menopause"
+      "Suppuration of skin around joints", 
+      "CHRONIC ECZEMA associated with amenorrhoea, worse at menstrual period or at menopause", 
+      "Deep cracks in bends of elbows, etc. Psoriasis and pityriasis"
+    ], 
+    "Sleep": [
+      "Sleepy very early in evening", 
+      "Languor and sleepiness", 
+      "Vivid dreams"
     ], 
     "Extremities": [
-      "Muscular twitching", 
-      "Cramps in calves", 
-      "Stiffness in muscles of legs", 
-      "Inflammation of bones and joints with insupportable nightly digging pains", 
-      "EVERY PART OF BODY FEELS SORE WHEN TOUCHED", 
       "Cannot walk backwards without falling", 
-      "TENDING TO FALL FORWARD", 
-      "WALKS STOOPING FORWARD", 
       "Legs feel numb", 
-      "Wilson's disease", 
       "Paralysis agitans", 
-      "Peculiar slapping gait, walks on metacarpophalangeal joint; walks backwards", 
       "Ankles painful", 
-      "Bones very sensitive", 
+      "Cramps in calves", 
+      "WALKS STOOPING FORWARD", 
+      "Periosteal inflammation", 
+      "Stiffness in muscles of legs", 
+      "Intolerable pain in skin of lower limbs", 
       "Shiny red swelling of joints", 
       "KNEES PAIN and itch", 
+      "Muscular twitching", 
+      "Wilson's disease", 
+      "TENDING TO FALL FORWARD", 
       "Rheumatism of feet", 
-      "Intolerable pain in skin of lower limbs", 
+      "Inflammation of bones and joints with insupportable nightly digging pains", 
       "Burning spots about joints", 
-      "Periosteal inflammation", 
       "Suppuration of skin around joints", 
-      "Sleep", 
-      "Languor and sleepiness", 
-      "Vivid dreams", 
-      "Sleepy very early in evening"
+      "Peculiar slapping gait, walks on metacarpophalangeal joint; walks backwards", 
+      "EVERY PART OF BODY FEELS SORE WHEN TOUCHED", 
+      "Bones very sensitive"
     ], 
     "Ears": [
+      "Whistling tinnitus", 
+      "Flatulence; chronic enlargement of liver", 
       "Feel stopped; cracking on blowing nose", 
+      "Alimentary Canal", 
       "PAIN FROM OTHER PARTS EXTENDS TO EARS", 
       "Deafness IN DAMP WEATHER", 
-      "Whistling tinnitus", 
-      "Alimentary Canal", 
-      "Tongue sore and irritable with ulcers or warts", 
-      "Flatulence; chronic enlargement of liver"
+      "Tongue sore and irritable with ulcers or warts"
     ]
   }, 
-  "details": "Manganum causes anaemia with destruction of the red corpuscles. Jaundice, nephritis with albuminuria. Fatty degeneration of liver. Paralysis agitans. CELLULITIS, subacute stage, promotes suppuration and hastens regeneration.Symptoms of chronic poisoning, according to Professor Von Jaksch, were involuntary laughter and involuntary weeping and walking backwards. Strongly exaggerated reflexes and physical disturbances, evidenced by men making fun of each other's gait. Paraplegia progressive; wasting, feeble and staggering gait.Inflammation of bones or joints, with nightly digging pains. Asthmatic persons who cannot lie on a feather pillow. Syphilitic and chlorotic patients with general anaemia and paralytic symptoms often are benefited by this drug. Gout. Chronic arthritis. For speakers and singers. Great accumulation of mucus. Growing pains and weak ankles. General soreness and aching; every part of the body feels sore when touched; early tuberculosis.", 
+  "details": "Symptoms of chronic poisoning, according to Professor Von Jaksch, were involuntary laughter and involuntary weeping and walking backwards. Strongly exaggerated reflexes and physical disturbances, evidenced by men making fun of each other's gait. Paraplegia progressive; wasting, feeble and staggering gait.Manganum causes anaemia with destruction of the red corpuscles. Jaundice, nephritis with albuminuria. Fatty degeneration of liver. Paralysis agitans. CELLULITIS, subacute stage, promotes suppuration and hastens regeneration.Inflammation of bones or joints, with nightly digging pains. Asthmatic persons who cannot lie on a feather pillow. Syphilitic and chlorotic patients with general anaemia and paralytic symptoms often are benefited by this drug. Gout. Chronic arthritis. For speakers and singers. Great accumulation of mucus. Growing pains and weak ankles. General soreness and aching; every part of the body feels sore when touched; early tuberculosis.", 
   "Natural History": [
     "Manganese Acetate"
   ], 

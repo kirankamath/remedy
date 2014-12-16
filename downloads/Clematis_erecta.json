@@ -3,57 +3,57 @@
   "Relationship": "Compare: CLEMATIS VITALBA (varicose and other ulcers); SIL.; STAPH.; PETROL.; OLEAND.; SARSAP.; CANTH.; PHOS-AC.; PULSAT.Antidotes: BRYON.; CAMPH.", 
   "symptoms": {
     "Eyes": [
-      "Heat in eyes and SENSITIVE TO AIR; must close them", 
+      "Pustular conjunctivitis, with tinea capitis; eyes inflamed and protruding", 
       "Chronic blepharitis, with sore and swollen meibomian glands", 
+      "Heat in eyes and SENSITIVE TO AIR; must close them", 
       "Iritis, great SENSITIVENESS TO COLD", 
-      "Flickering before eyes", 
-      "Pustular conjunctivitis, with tinea capitis; eyes inflamed and protruding"
+      "Flickering before eyes"
     ], 
     "Stomach": [
       "After eating, weakness in all limbs and pulsation in arteries"
     ], 
     "Modalities": [
-      "Better: in open air", 
       "Worse: at night", 
-      "Worse: and warmth of bed"
+      "Worse: and warmth of bed", 
+      "Better: in open air"
     ], 
     "Head": [
-      "Boring pain in temples", 
       "CONFUSED FEELING; BETTER IN OPEN AIR", 
+      "Boring pain in temples", 
       "Eruption on occiput at base of hair, moist, pustular sensitive, itching"
     ], 
     "Face": [
       "White blisters on face and nose, as if burned by sun", 
-      "Swelling of submaxillary glands, with hard tubercles; throbbing, aggravated on being touched", 
       "Pain in right side of face to eye, ear and temple; better, holding cold water in mouth", 
-      "Teeth", 
       "ACHE; WORSE, AT NIGHT AND FROM TOBACCO", 
-      "Teeth feel too long"
+      "Teeth feel too long", 
+      "Teeth", 
+      "Swelling of submaxillary glands, with hard tubercles; throbbing, aggravated on being touched"
     ], 
     "Skin": [
-      "Red, burning, vesicular, scaly, scabby", 
-      "Itches terribly; worse, washing in cold water; worse face and hands and SCALP AROUND OCCIPUT", 
       "GLANDS hot, painful, SWOLLEN; worse inguinal glands", 
+      "Red, burning, vesicular, scaly, scabby", 
       "Glandular induration and tumors of breast", 
+      "Itches terribly; worse, washing in cold water; worse face and hands and SCALP AROUND OCCIPUT", 
       "Varicose ulcers"
     ], 
     "Male": [
-      "Ilio-scrotal neuralgia", 
       "TESTICLES INDURATED WITH BRUISED FEELING", 
-      "Swelling of scrotum", 
-      "Right half only", 
-      "Troubles from suppressed gonorrhea", 
-      "Violent erections with stitches in urethra", 
       "Testicles hang heavy or retracted, with pain along spermatic cord; worse, right side", 
-      "Urinary Organs", 
-      "Tingling in urethra lasting some time after urinating", 
+      "Ilio-scrotal neuralgia", 
+      "Troubles from suppressed gonorrhea", 
       "Frequent, scanty urination; burning at orifice", 
+      "Inability to pass all the urine; dribbling after urinating", 
+      "Violent erections with stitches in urethra", 
+      "Right half only", 
+      "Commencing stricture", 
+      "Tingling in urethra lasting some time after urinating", 
+      "Swelling of scrotum", 
       "INTERRUPTED FLOW", 
       "Urethra feels constricted", 
       "Urine emitted drop by drop", 
-      "Inability to pass all the urine; dribbling after urinating", 
       "Pain worse at night, pain along the spermatic cord", 
-      "Commencing stricture"
+      "Urinary Organs"
     ]
   }, 
   "details": "Scrofulous, rheumatic, gonorrheal, and syphilitic patients. Acts especially on skin, GLANDS and genitourinary organs, especially testicles. A remedy of much importance in disturbances of sleep, and neuralgic PAINS in various parts. Many of these pains are relieved by perspiration. Muscles relaxed or twitching. Great emaciation. GREAT SLEEPINESS. Distant pulsation in whole body.", 

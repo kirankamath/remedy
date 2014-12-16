@@ -3,42 +3,43 @@
   "Relationship": "Compare: EPHEDRA - Teamster's Tea - (in exophthalmic goitre; eyes feel pushed out with TUMULTUOUS action of heart); FUCUS; SPARTEINE; CRATAEGUS. ADRENALIN 6x.", 
   "symptoms": {
     "Heart": [
-      "Rapid heart action of smokers", 
       "Precordial pain; constriction, tenderness, pulse, weak, irregular, intermittent, tremulous, rapid", 
-      "Cyanosis", 
-      "Heart's action tumultuous and forcible", 
-      "Palpitation from nervous irritation, with oppression around heart", 
+      "Cardiac asthma", 
       "Rheumatoid, flying pains, associated with heart disease", 
-      "Cardiac asthma"
+      "Rapid heart action of smokers", 
+      "Heart's action tumultuous and forcible", 
+      "Cyanosis", 
+      "Palpitation from nervous irritation, with oppression around heart"
     ], 
     "Eyes": [
-      "Protrusion, pressing, outward, with tumultuous action of heart", 
-      "Supraorbital pain, with aching in testicles"
+      "Supraorbital pain, with aching in testicles", 
+      "Protrusion, pressing, outward, with tumultuous action of heart"
     ], 
     "Respiratory": [
-      "Wheezing", 
       "Cough, with HEMOPTYSIS, bleeding small but frequent", 
-      "Urine Section", 
-      "Profuse flow of liquid, watery urine, especially when the heart is most irritable; also scanty urine", 
       "Bladder feels distended when empty", 
-      "Diabetes", 
-      "PAIN IN TESTICLES"
+      "PAIN IN TESTICLES", 
+      "Profuse flow of liquid, watery urine, especially when the heart is most irritable; also scanty urine", 
+      "Wheezing", 
+      "Urine Section", 
+      "Diabetes"
     ], 
     "Head": [
-      "Frontal headache; worse, frontal eminences; often succeeded by labored heart", 
-      "Nosebleed"
+      "Nosebleed", 
+      "Frontal headache; worse, frontal eminences; often succeeded by labored heart"
     ], 
     "Mouth": [
       "Toothache in lower molars"
     ], 
+    "Sleep": [
+      "Wakefulness and morbid vigilance with inordinately active, but weak circulation"
+    ], 
     "Rectum": [
       "Bleeding from rectum", 
-      "Hemorrhoids", 
-      "Sleep", 
-      "Wakefulness and morbid vigilance with inordinately active, but weak circulation"
+      "Hemorrhoids"
     ]
   }, 
-  "details": "Lowers the blood pressure, reduces the rate of the heart and increases the length of systole to a great degree. Passive hemorrhages. (ADRENALIN 6x.)A heart remedy, and of use in exophthalmic goitre and hemorrhoidal bleeding. Indicated in diseases with tumultuous action of the heart and more or less pain. HEMOPTYSIS DUE TO VALVULAR HEART DISEASE. Beneficial in toxic goitre used in the pre-operative stage. Dose, 5 drops of tincture (Beebe).", 
+  "details": "A heart remedy, and of use in exophthalmic goitre and hemorrhoidal bleeding. Indicated in diseases with tumultuous action of the heart and more or less pain. HEMOPTYSIS DUE TO VALVULAR HEART DISEASE. Beneficial in toxic goitre used in the pre-operative stage. Dose, 5 drops of tincture (Beebe).Lowers the blood pressure, reduces the rate of the heart and increases the length of systole to a great degree. Passive hemorrhages. (ADRENALIN 6x.)", 
   "Natural History": [
     "Bugle-weed"
   ], 

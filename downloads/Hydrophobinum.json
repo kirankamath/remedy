@@ -3,16 +3,16 @@
   "Relationship": "Compare: XANTHIUM SPINOSUM - Cockle - (said to be specific for hydrophobia and is recommended for chronic cystitis in women). CANTH.; BELL.; STRAM.; LACH.; NAT-MUR.", 
   "symptoms": {
     "Head": [
-      "Lyssophobia; fear of becoming made", 
-      "Emotion and bad news aggravate; also, thinking of fluids", 
       "HYPERSENSITIVENESS OF ALL SENSES", 
+      "Boring pain in forehead", 
+      "Lyssophobia; fear of becoming made", 
       "Chronic headache", 
-      "Boring pain in forehead"
+      "Emotion and bad news aggravate; also, thinking of fluids"
     ], 
     "Respiratory": [
+      "Spasmodic contraction of respiratory muscles", 
       "Voice altered in tone", 
-      "Breathing held for a time", 
-      "Spasmodic contraction of respiratory muscles"
+      "Breathing held for a time"
     ], 
     "Modalities": [
       "Worse: sight or sound of running water or pouring water", 
@@ -20,24 +20,24 @@
     ], 
     "Stool": [
       "Desire for stool on hearing or seeing running water", 
-      "Profuse, watery stools, with pain in bowels; worse, evening", 
-      "Constant desire to urinate on seeing running water"
+      "Constant desire to urinate on seeing running water", 
+      "Profuse, watery stools, with pain in bowels; worse, evening"
     ], 
     "Mouth": [
       "Constant spitting; saliva tough, viscid", 
-      "Sore throat; constant desire to swallow, which is difficult,; gagging when swallowing water", 
-      "Froths at mouth"
+      "Froths at mouth", 
+      "Sore throat; constant desire to swallow, which is difficult,; gagging when swallowing water"
     ], 
     "Female": [
+      "Uterine displacements", 
       "Uterine sensitiveness; conscious of womb  Feels prolapsed", 
-      "Vagina sensitive, rendering coition painful", 
-      "Uterine displacements"
+      "Vagina sensitive, rendering coition painful"
     ], 
     "Male": [
       "Lascivious; priapism, with frequent emissions", 
       "No emission during coition", 
-      "Atrophy of testicles", 
-      "Complaints from abnormal sexual desire"
+      "Complaints from abnormal sexual desire", 
+      "Atrophy of testicles"
     ]
   }, 
   "details": "Affects principally the nervous system; aching in bones. Complaints from abnormal sexual desire. Convulsions brought on by dazzling light or sight of running water.", 

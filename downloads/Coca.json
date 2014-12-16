@@ -1,39 +1,36 @@
 {
   "name": "Coca", 
-  "Relationship": "Compare: ARS.; PAULIN.; CYP; CHAMOM.Antidote: GELS.", 
+  "Relationship": "Antidote: GELS.Compare: ARS.; PAULIN.; CYP; CHAMOM.", 
   "symptoms": {
     "Heart": [
       "PALPITATION, with weak heart and dyspnoea"
     ], 
     "Head": [
-      "Fainting fit from climbing mountains", 
-      "Shocks coming from occiput with vertigo", 
-      "NOISES IN EAR", 
-      "Headache with vertigo, preceded by flashes of light", 
-      "Like a band across forehead", 
-      "Diplopia", 
-      "Tongue furred", 
       "HEADACHES OF HIGH ALTITUDES", 
+      "Headache with vertigo, preceded by flashes of light", 
+      "Fainting fit from climbing mountains", 
+      "Diplopia", 
+      "Like a band across forehead", 
+      "Shocks coming from occiput with vertigo", 
+      "Tongue furred", 
+      "NOISES IN EAR", 
       "Tinnitus"
     ], 
     "Respiratory": [
-      "Hawking of small, transparent pieces of mucus", 
       "Weak vocal cords", 
-      "HOARSENESS; worse after talking", 
-      "WANT OF BREATH, SHORT BREATH, especially in aged athletes, and alcoholic users", 
-      "Hemoptysis", 
+      "Hawking of small, transparent pieces of mucus", 
       "ASTHMA, spasmodic variety", 
-      "Sleep", 
-      "Can find no rest anywhere, but sleepy", 
-      "Nervousness and nightly restlessness during teething"
+      "HOARSENESS; worse after talking", 
+      "Hemoptysis", 
+      "WANT OF BREATH, SHORT BREATH, especially in aged athletes, and alcoholic users"
     ], 
     "Stomach": [
-      "Peppery sensation in mouth", 
-      "Longing for alcoholic liquors and tobacco", 
       "Great satiety for a long time", 
-      "Incarcerated flatus; rises with noise and violence, as if it would split the oesophagus", 
+      "No appetite but for sweets", 
       "Tympanitic distention of abdomen", 
-      "No appetite but for sweets"
+      "Peppery sensation in mouth", 
+      "Incarcerated flatus; rises with noise and violence, as if it would split the oesophagus", 
+      "Longing for alcoholic liquors and tobacco"
     ], 
     "Modalities": [
       "Better: from wine; riding", 
@@ -42,8 +39,12 @@
       "Worse: high altitudes"
     ], 
     "Mind": [
-      "Melancholy; bashful, ill at ease in society, irritable, delights in solitude and obscurity", 
-      "Sense of right and wrong abolished"
+      "Sense of right and wrong abolished", 
+      "Melancholy; bashful, ill at ease in society, irritable, delights in solitude and obscurity"
+    ], 
+    "Sleep": [
+      "Can find no rest anywhere, but sleepy", 
+      "Nervousness and nightly restlessness during teething"
     ], 
     "Male": [
       "Diabetes, with impotency"

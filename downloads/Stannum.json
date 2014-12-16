@@ -3,33 +3,31 @@
   "Relationship": "Complementary: PULS.Compare: STANN. IOD. 3X. (Valuable in chronic chest diseases characterized by plastic tissue changes. Persistent inclination to cough, excited by tickling dry spot in the throat, apparently at root of tongue. Dryness of throat. Trachial and bronchial irritation of smokers. Pulmonary symptoms; cough, loud, hollow, ending with expectoration. (Phellandrium.) State of purulent infiltration. ADVANCED phthisis sometimes when Stann. jod. has not taken effect, an additional dose of Iodine in milk caused the drug to have its usual beneficial effect. (Stonham.) Compare: CAUST.; CALC.; SIL.; TUBERC.; BACIL.; HELON. MYRTUS CHEKAN (chronic bronchitis, cough of phthisis, emphysema, with gastric catarrhal complications and thick, yellow difficult sputum. Old persons with weakened power of expectoration.)", 
   "symptoms": {
     "Head": [
-      "Aching in temples and forehead", 
-      "Obstinate acute coryza and influenza with cough", 
-      "Pain worse motion; GRADUALLY INCREASING AND DECREASING as if constricted by a band; forehead feels pressed inwards", 
-      "Jarring of walking resounds painfully in head", 
       "Drawing pains in malar bones and orbits", 
-      "Ulceration of ring hole in lobe of ear"
+      "Jarring of walking resounds painfully in head", 
+      "Aching in temples and forehead", 
+      "Pain worse motion; GRADUALLY INCREASING AND DECREASING as if constricted by a band; forehead feels pressed inwards", 
+      "Ulceration of ring hole in lobe of ear", 
+      "Obstinate acute coryza and influenza with cough"
     ], 
     "Respiratory": [
       "Hoarse; mucus expelled by forcible cough", 
-      "Violent, dry cough in evening until midnight", 
-      "Cough excited by LAUGHING, singing, talking; worse lying on right side", 
-      "During day, with COPIOUS GREEN, SWEETISH, expectoration", 
       "Chest feels sore", 
-      "CHEST FEELS WEAK; can hardly talk", 
+      "During day, with COPIOUS GREEN, SWEETISH, expectoration", 
+      "Violent, dry cough in evening until midnight", 
       "Influenzal cough from noon to midnight with scanty expectoration", 
+      "CHEST FEELS WEAK; can hardly talk", 
       "Respiration short, oppressive; stitches in left side when breathing and lying on same side", 
-      "PHTHISIS MUCOSA", 
+      "Cough excited by LAUGHING, singing, talking; worse lying on right side", 
       "HECTIC FEVER", 
-      "Sleep", 
-      "Sleeps with one leg drawn up, the other stretched out"
+      "PHTHISIS MUCOSA"
     ], 
     "Stomach": [
-      "Hunger", 
-      "SMELL OF COOKING CAUSES VOMITING", 
+      "Sensation of EMPTINESS IN STOMACH", 
       "Bitter taste", 
+      "SMELL OF COOKING CAUSES VOMITING", 
       "Pain better pressure, but sore to touch", 
-      "Sensation of EMPTINESS IN STOMACH"
+      "Hunger"
     ], 
     "Modalities": [
       "Worse: using voice", 
@@ -39,39 +37,42 @@
       "Better: hard pressure"
     ], 
     "Mind": [
+      "Dread of seeing people", 
       "Sad, anxious", 
-      "DISCOURAGED", 
-      "Dread of seeing people"
+      "DISCOURAGED"
     ], 
     "Abdomen": [
       "Cramp-like colic around navel, with a feeling of emptiness", 
       "COLIC RELIEVED BY HARD PRESSURE"
     ], 
     "Fever": [
+      "Perspiration, principally on forehead and nape of neck; debilitating; smelling musty, or offensive", 
       "Heat in evening; EXHAUSTING NIGHT-SWEATS, especially towards morning", 
-      "Hectic", 
-      "Perspiration, principally on forehead and nape of neck; debilitating; smelling musty, or offensive"
+      "Hectic"
+    ], 
+    "Sleep": [
+      "Sleeps with one leg drawn up, the other stretched out"
     ], 
     "Female": [
-      "BEARING-DOWN SENSATION", 
+      "Leucorrhoea, with great debility", 
       "Prolapsus, with WEAK, SINKING FEELING IN STOMACH", 
       "MENSES EARLY AND PROFUSE", 
       "Pain in vagina, upward and back to spine", 
-      "Leucorrhoea, with great debility"
+      "BEARING-DOWN SENSATION"
     ], 
     "Throat": [
       "Much adhesive mucus, difficult to detach; efforts to detach cause nausea", 
       "Throat dry and stings"
     ], 
     "Extremities": [
-      "Paralytic weakness; drops things", 
-      "Ankles swollen", 
-      "Limbs suddenly GIVE OUT WHEN ATTEMPTING TO SIT DOWN", 
       "Dizziness and weakness WHEN DESCENDING", 
-      "Spasmodic twitching of muscles of forearm and hand", 
-      "Fingers jerk when holding pen", 
+      "Limbs suddenly GIVE OUT WHEN ATTEMPTING TO SIT DOWN", 
       "Neuritis", 
-      "Typewriters' paralysis"
+      "Typewriters' paralysis", 
+      "Ankles swollen", 
+      "Fingers jerk when holding pen", 
+      "Spasmodic twitching of muscles of forearm and hand", 
+      "Paralytic weakness; drops things"
     ]
   }, 
   "details": "Chief action is centered upon the nervous system and respiratory organs. Debility is very marked when Stannum is the remedy, especially the debility of chronic bronchial and pulmonary conditions, characterized by profuse mucopurulent discharges upon tuberculosis basis. TALKING CAUSES A VERY WEAK FEELING IN THE THROAT AND CHEST. PAINS THAT COME AND GO GRADUALLY, call unmistakably for Stannum. Paralytic weakness; spasms; paralysis.", 

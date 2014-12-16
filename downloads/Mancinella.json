@@ -4,40 +4,39 @@
   "symptoms": {
     "Head": [
       "Vertigo; head feels light, empty", 
-      "Scalp itches", 
-      "Hair falls out after acute sickness"
+      "Hair falls out after acute sickness", 
+      "Scalp itches"
     ], 
     "Stomach": [
-      "Continual choking sensation rising from stomach", 
+      "Burning pains and black vomit", 
       "Vomiting of ingesta, followed by griping and copious stools", 
-      "Burning pains and black vomit"
+      "Continual choking sensation rising from stomach"
     ], 
     "Mind": [
       "Silent mood, sadness", 
+      "FEAR OF BECOMING INSANE", 
       "Wandering thoughts", 
-      "SUDDEN VANISHING OF THOUGHT", 
       "Bashful", 
-      "FEAR OF BECOMING INSANE"
+      "SUDDEN VANISHING OF THOUGHT"
     ], 
     "Mouth": [
-      "Feels peppery", 
+      "Dysphagia from constriction of throat and oesophagus", 
       "Copious, offensive saliva", 
-      "Taste of blood", 
+      "Feels peppery", 
       "Burning of fauces", 
-      "Dysphagia from constriction of throat and oesophagus"
+      "Taste of blood"
     ], 
     "Nose": [
-      "Illusions of smell; of gunpowder, dung, etc", 
-      "Pressure at root of nose"
+      "Illusions of smell; of gunpowder, dung, etc. Pressure at root of nose"
     ], 
     "Skin": [
-      "Intense erythema", 
-      "VESICLES", 
-      "Fungoid growths", 
       "Erysipelas", 
-      "LARGE BLISTERS, AS FROM SCALDS", 
+      "Fungoid growths", 
       "Heavy, brown crusts and scabs", 
-      "PEMPHIGUS"
+      "PEMPHIGUS", 
+      "LARGE BLISTERS, AS FROM SCALDS", 
+      "Intense erythema", 
+      "VESICLES"
     ], 
     "Extremities": [
       "Icy coldness of hands and feet", 

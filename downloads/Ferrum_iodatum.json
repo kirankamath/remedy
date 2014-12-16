@@ -5,18 +5,18 @@
   "details": "Scrofulous affections, glandular enlargements, and tumors call for this remedy. Crops of boils. Acute nephritis following eruptive diseases. Uterine displacements. Body emaciated. Anemia. Exophthalmic goitre following suppression of menses. Debility following drain upon vital forces. Impetigo of the cheek.", 
   "symptoms": {
     "Respiratory": [
-      "Coryza; discharge of mucus from nose, trachea, and larynx", 
-      "Pressure beneath sternum", 
-      "Scrofulous swelling of nose", 
-      "Chest feels oppressed", 
-      "Hemoptysis", 
-      "Urinary Organs", 
-      "Urine dark", 
-      "Sweet smelling", 
-      "CRAWLING SENSATION IN URETHRA AND RECTUM", 
       "Sensation as if urine were stopped at fossa navicularis", 
+      "Coryza; discharge of mucus from nose, trachea, and larynx", 
+      "Incontinence in anemic children", 
+      "Sweet smelling", 
+      "Chest feels oppressed", 
+      "Scrofulous swelling of nose", 
       "Difficulty in retaining urine", 
-      "Incontinence in anemic children"
+      "Urinary Organs", 
+      "Pressure beneath sternum", 
+      "Urine dark", 
+      "Hemoptysis", 
+      "CRAWLING SENSATION IN URETHRA AND RECTUM"
     ], 
     "Stomach": [
       "Food seems to push up into throat, as if it had not been swallowed"
@@ -25,16 +25,16 @@
       "Fullness, even after a little food; stuffed feeling, as if she could not lean forward"
     ], 
     "Female": [
-      "On sitting, FEELING AS IF SOMETHING PRESSED UPWARD IN VAGINA", 
+      "Itching and soreness of vulva and vagina", 
       "Much bearing down", 
-      "Retroversion and prolapse of uterus", 
       "Leucorrhoea like boiled starch", 
+      "Retroversion and prolapse of uterus", 
       "Menses suppressed or scanty", 
-      "Itching and soreness of vulva and vagina"
+      "On sitting, FEELING AS IF SOMETHING PRESSED UPWARD IN VAGINA"
     ], 
     "Throat": [
-      "Sore, as if of a splinter, shooting in different directions", 
-      "Hoarse"
+      "Hoarse", 
+      "Sore, as if of a splinter, shooting in different directions"
     ]
   }, 
   "name": "Ferrum iodatum", 

@@ -5,34 +5,34 @@
   "details": "Sensation of burning and pressure everywhere.", 
   "symptoms": {
     "Head": [
-      "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones", 
       "Eyes inflamed and burning", 
-      "Red burning face", 
-      "Bursting aching in eyeballs", 
       "Nose itches; sneezing; nosebleed", 
-      "Lips dry and cracked"
+      "Lips dry and cracked", 
+      "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones", 
+      "Bursting aching in eyeballs", 
+      "Red burning face"
     ], 
     "Stomach": [
-      "Gastric discomfort", 
-      "Full feeling", 
       "Great thirst", 
+      "Colic and cramps", 
       "Flatulence", 
       "Tympanites", 
-      "Colic and cramps"
+      "Full feeling", 
+      "Gastric discomfort"
     ], 
     "Mind": [
       "Sad, apprehensive", 
       "Unable to concentrate; starts at any noise"
     ], 
     "Chest": [
-      "Dyspnoea, cough with pain in chest in spots, feels as if spitting blood", 
+      "Priapism", 
+      "Burning in bladder and urethra", 
       "Palpitation, cardiac pain, slow intermittent pulse", 
       "Great flow of milk", 
-      "Urinary Organs", 
-      "Burning in bladder and urethra", 
       "Difficult micturition", 
-      "Bladder feels full, swollen; frequent inclination without success", 
-      "Priapism"
+      "Dyspnoea, cough with pain in chest in spots, feels as if spitting blood", 
+      "Urinary Organs", 
+      "Bladder feels full, swollen; frequent inclination without success"
     ], 
     "Throat": [
       "Sore, feels raw, burns", 

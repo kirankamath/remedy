@@ -7,17 +7,17 @@
       "Eyelids heavy"
     ], 
     "Stomach": [
-      "Painful digging from abdomen to throat, causing pain in region of heart with oppression", 
-      "Colic, tympanitis", 
       "Borborygmi and diarrhoea", 
-      "Swollen, painful"
+      "Swollen, painful", 
+      "Painful digging from abdomen to throat, causing pain in region of heart with oppression", 
+      "Colic, tympanitis"
     ], 
     "Chest": [
+      "Great soreness in region of heart", 
       "Constriction, extending to epigastrium", 
       "Sensation of a bar across chest", 
-      "Convulsive pain in heart region with oppression", 
-      "Great soreness in region of heart", 
-      "Palpitation"
+      "Palpitation", 
+      "Convulsive pain in heart region with oppression"
     ], 
     "Female": [
       "Pain in hypogastrium, attended with slimy, whitish leucorrhoea", 

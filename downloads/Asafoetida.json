@@ -3,43 +3,43 @@
   "Relationship": "Antidotes: China; Mercur.Compare: Moschus; China; Mercur; Aurum", 
   "symptoms": {
     "Eyes": [
+      "Superficial corneal ulcer with digging pains; worse at night", 
       "Orbital neuralgia; better, pressure and rest", 
-      "Iritis and intraocular inflammations, with boring, throbbing pains at night", 
-      "Stitches under left frontal eminences", 
-      "Boring pains in and around eyes", 
       "Syphilitic iritis", 
-      "Superficial corneal ulcer with digging pains; worse at night"
+      "Stitches under left frontal eminences", 
+      "Iritis and intraocular inflammations, with boring, throbbing pains at night", 
+      "Boring pains in and around eyes"
     ], 
     "Stomach": [
-      "Great difficulty in bringing up wind", 
-      "FLATULENCE AND REGURGITATION OF LIQUID", 
+      "Violent gastralgia; cutting and burning in stomach and region of diaphragm", 
+      "Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation", 
       "Hysterical flatulence", 
-      "Great distention", 
       "Sensation of emptiness and weakness, with distention and beating in stomach and abdomen", 
+      "Great difficulty in bringing up wind", 
       "Forcible eructation of gas", 
       "PULSATION IN PIT OF STOMACH", 
-      "Violent gastralgia; cutting and burning in stomach and region of diaphragm", 
-      "Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation"
+      "Great distention", 
+      "FLATULENCE AND REGURGITATION OF LIQUID"
     ], 
     "Modalities": [
+      "Better: open air; from motion", 
+      "Better: pressure", 
       "Worse: at night; from tough; left side", 
       "Worse: during rest", 
-      "Worse: warm applications", 
-      "Better: open air; from motion", 
-      "Better: pressure"
+      "Worse: warm applications"
     ], 
     "Head": [
-      "Irritable; complains of her troubles; sensitive", 
       "Boring above eyebrows", 
+      "Irritable; complains of her troubles; sensitive", 
       "PRESSIVE PAIN FROM WITHIN OUTWARD"
     ], 
     "Chest": [
-      "SPASMODIC TIGHTNESS, as if lungs could not be fully expanded", 
       "Palpitation more like a tremor", 
-      "Bones", 
+      "Ulcers affecting bones; thin, ichorous pus", 
       "Darting pain and caries in bones", 
+      "Bones", 
       "Periosteum painful, swollen, enlarged", 
-      "Ulcers affecting bones; thin, ichorous pus"
+      "SPASMODIC TIGHTNESS, as if lungs could not be fully expanded"
     ], 
     "Nose": [
       "Syphilitic ozaena, with very offensive purulent discharge", 
@@ -50,19 +50,19 @@
       "DEFICIENT MILK, with over-sensitiveness"
     ], 
     "Skin": [
-      "Itching, better scratching; ulcers painful on edges", 
-      "Suppressed skin symptoms produce nervous disorders"
+      "Suppressed skin symptoms produce nervous disorders", 
+      "Itching, better scratching; ulcers painful on edges"
     ], 
     "Throat": [
-      "GLOBUS HYSTERICUS", 
       "Ball rises in throat", 
-      "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat"
+      "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat", 
+      "GLOBUS HYSTERICUS"
     ], 
     "Rectum": [
-      "Distended, griping, with hunger", 
-      "Obstinate constipation", 
       "Pain in perineum, as if something dull pressed out", 
-      "DIARRHEA, EXTREMELY OFFENSIVE, WITH METEORISM, and regurgitation of food"
+      "Obstinate constipation", 
+      "DIARRHEA, EXTREMELY OFFENSIVE, WITH METEORISM, and regurgitation of food", 
+      "Distended, griping, with hunger"
     ], 
     "Ears": [
       "Offensive otorrhoea, with boring pains in mastoid bone", 

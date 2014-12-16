@@ -5,17 +5,17 @@
   "details": "Acts on the digestive tract; constipation. Aversion to smell of tobacco. INCLINATION TO VOMIT very marked.", 
   "symptoms": {
     "Rectum": [
-      "Constipation; stools hard, covered with mucus", 
+      "Gnawing pain high up in rectum", 
       "Bright blood with stool", 
-      "Diarrhoea alternating with hard, lumpy stool, with backache and lassitude, preceded by griping", 
-      "Gnawing pain high up in rectum"
+      "Constipation; stools hard, covered with mucus", 
+      "Diarrhoea alternating with hard, lumpy stool, with backache and lassitude, preceded by griping"
     ], 
     "Stomach": [
-      "Hunger after meals", 
       "Desire for hot drinks", 
+      "Pressing colic", 
       "NAUSEA AND VOMITING", 
-      "Pain in stomach as from a shock", 
-      "Pressing colic"
+      "Hunger after meals", 
+      "Pain in stomach as from a shock"
     ]
   }, 
   "name": "Cascarilla", 

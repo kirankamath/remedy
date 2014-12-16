@@ -1,22 +1,22 @@
 {
   "name": "Allium sativum", 
-  "Relationship": "ALLIUM SAT., according to Dr. Teste, belongs to the Bryonia group, including Lyc. Nux-v. Coloc., Digital, and Ignatia which affect deeply all flesh eating animals and hardly at all vegetarians. Hence their special applicability to meat eaters rather than to exclusive vegetarians.Compare: Capsicum; Arsenic; Senega; Kali-n.Complementary: Arsenic.Antidote: Lycopod.", 
+  "Relationship": "Antidote: Lycopod.Complementary: Arsenic.Compare: Capsicum; Arsenic; Senega; Kali-n.ALLIUM SAT., according to Dr. Teste, belongs to the Bryonia group, including Lyc. Nux-v. Coloc., Digital, and Ignatia which affect deeply all flesh eating animals and hardly at all vegetarians. Hence their special applicability to meat eaters rather than to exclusive vegetarians.", 
   "symptoms": {
     "Head": [
       "Heavy; pulsation in temples; catarrhal deafness"
     ], 
     "Respiratory": [
-      "Constant rattling of mucus in bronchi", 
-      "Cough in the morning after leaving bedroom, with mucous expectoration, which is tenacious and difficult to raise", 
-      "Sensitive to cold air", 
       "Dilated bronchi, with fetid expectoration", 
-      "Darting pain in chest"
+      "Darting pain in chest", 
+      "Sensitive to cold air", 
+      "Cough in the morning after leaving bedroom, with mucous expectoration, which is tenacious and difficult to raise", 
+      "Constant rattling of mucus in bronchi"
     ], 
     "Stomach": [
-      "Voracious appetite", 
       "Burning eructations", 
-      "Lest change in diet causes trouble", 
       "Constipation, with constant dull pains in bowels", 
+      "Voracious appetite", 
+      "Lest change in diet causes trouble", 
       "TONGUE PALE RED PAPILLAE"
     ], 
     "Mouth": [
@@ -24,11 +24,11 @@
       "Sensation of a hair on tongue or throat"
     ], 
     "Female": [
-      "Pain in swelling of breasts", 
-      "Eruption in vagina and on breasts and vulva during menses"
+      "Eruption in vagina and on breasts and vulva during menses", 
+      "Pain in swelling of breasts"
     ]
   }, 
-  "details": "Acts directly on intestinal mucous membrane increasing peristalsis. Colitis, with pathological flora. Has vaso-dilatory properties. Arterial hypotension begins usually in 30 to 45 minutes after twenty to forty drops of the tincture.Adapted to fleshy subjects with dyspepsia and catarrhal affections. High livers. Patients who eat a great deal more, ESPECIALLY MEAT, than they drink. PAIN IN HIP, PAIN IN PSOAS AND ILIAC MUSCLES. PULMONARY TUBERCULOSIS.Cough and expectoration diminishes, temperature becomes normal, weight is gained, and sleep becomes regular. HEMOPTYSIS.", 
+  "details": "Adapted to fleshy subjects with dyspepsia and catarrhal affections. High livers. Patients who eat a great deal more, ESPECIALLY MEAT, than they drink. PAIN IN HIP, PAIN IN PSOAS AND ILIAC MUSCLES. PULMONARY TUBERCULOSIS.Cough and expectoration diminishes, temperature becomes normal, weight is gained, and sleep becomes regular. HEMOPTYSIS.Acts directly on intestinal mucous membrane increasing peristalsis. Colitis, with pathological flora. Has vaso-dilatory properties. Arterial hypotension begins usually in 30 to 45 minutes after twenty to forty drops of the tincture.", 
   "Natural History": [
     "Garlic"
   ], 

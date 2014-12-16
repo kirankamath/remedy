@@ -4,67 +4,41 @@
   ], 
   "details": "The characteristic symptoms relate mainly to the brain and nervous system, connected with gastrointestinal disturbance. Anguish, crying, and expression of uneasiness and discontent, lead to this remedy most frequently in disease in children, during dentition, summer complaint, when, with the diarrhoea, there is MARKED INABILITY TO DIGEST MILK, and poor circulation. Symptoms set in with VIOLENCE.", 
   "symptoms": {
-    "Heart": [
-      "Violent palpitation, with vertigo, headache and restlessness", 
-      "Pulse rapid, hard and small"
+    "Stool": [
+      "Choleraic affections in old age", 
+      "Cholera infantum; child cold, clammy, stupid, with staring eyes and dilated pupils", 
+      "UNDIGESTED, THIN, GREENISH, preceded by colic, with tenesmus, and followed by exhaustion and drowsiness", 
+      "Obstinate constipation; feels as if all bowel action is lost", 
+      "Cutting pain in bladder, with frequent urging", 
+      "Pain in kidneys", 
+      "Urinary Organs"
     ], 
-    "Eyes": [
-      "Photophobia; SWELLING OF MEIBOMIAN GLANDS", 
-      "Rolling of eyes on falling asleep", 
-      "EYES DRAWN DOWNWARD; pupils dilated"
+    "Head": [
+      "OCCIPITAL PAIN extending down spine; better lying down and by pressure", 
+      "Head symptoms relieved by expelling flatus  and by stool", 
+      "VERTIGO WITH DROWSINESS, WITH PALPITATION; HEAD HOT AFTER VERTIGO CEASES", 
+      "HAIR FEELS PULLED", 
+      "Feels bound up, or in a vise"
     ], 
     "Fever": [
-      "GREAT HEAT; NO THIRST", 
-      "Profuse, cold sweat", 
       "MUST BE COVERED DURING SWEAT", 
-      "Sleep", 
-      "Disturbed by VIOLENT STARTLING; cold perspiration", 
-      "Dozing after vomiting or stool CHILD IS SO EXHAUSTED, IT FALLS ASLEEP AT ONCE"
+      "GREAT HEAT; NO THIRST", 
+      "Profuse, cold sweat"
     ], 
     "Stomach": [
-      "INTOLERANCE OF MILK; vomiting as soon as swallowed or in large curds", 
-      "Hungry after vomiting", 
       "REGURGITATION OF ABOUT AN HALF HOUR AFTER EATING", 
-      "Violent vomiting of a white frothy matter", 
-      "Nausea at sight of food", 
-      "Painful contraction of stomach", 
+      "Hungry after vomiting", 
       "Vomiting, WITH SWEAT AND GREAT WEAKNESS, accompanied by anguish and distress, followed by sleepiness", 
       "Stomach feels turned upside down, with burning feeling up to the chest", 
-      "Tearing pains in the stomach extending to oesophagus"
+      "INTOLERANCE OF MILK; vomiting as soon as swallowed or in large curds", 
+      "Violent vomiting of a white frothy matter", 
+      "Nausea at sight of food", 
+      "Tearing pains in the stomach extending to oesophagus", 
+      "Painful contraction of stomach"
     ], 
-    "Modalities": [
-      "Worse: 3 to four AM and evenings; warmth", 
-      "Worse: summer"
-    ], 
-    "Mind": [
-      "Restless, ANXIOUS, CRYING", 
-      "Sees rats, cats, dogs, etc", 
-      "Unconscious, delirious", 
-      "INABILITY TO THINK, TO FIX THE ATTENTION", 
-      "Brain fag", 
-      "Idiocy may alternate with furor and irritability"
-    ], 
-    "Stool": [
-      "UNDIGESTED, THIN, GREENISH, preceded by colic, with tenesmus, and followed by exhaustion and drowsiness", 
-      "Cholera infantum; child cold, clammy, stupid, with staring eyes and dilated pupils", 
-      "Obstinate constipation; feels as if all bowel action is lost", 
-      "Choleraic affections in old age", 
-      "Urinary Organs", 
-      "Cutting pain in bladder, with frequent urging", 
-      "Pain in kidneys"
-    ], 
-    "Back": [
-      "Want of power to stand up or hold head up", 
-      "Back feels as if in a vise", 
-      "Aching in small of back"
-    ], 
-    "Face": [
-      "PUFFED, red-spotted, collapsed", 
-      "Expression anxious, full of pain; LINEA NASALIS marked"
-    ], 
-    "Respiratory": [
-      "Difficult, oppressed, anxious respiration; crampy constriction", 
-      "Sufferings render patient speechless"
+    "Abdomen": [
+      "Colic, followed by exhaustion and drowsiness", 
+      "Cold, internal and external, with aching pain in bowels"
     ], 
     "Mouth": [
       "Dry", 
@@ -72,49 +46,75 @@
       "Tongue seems too long", 
       "Burning and pustules in throat, with difficult swallowing"
     ], 
+    "Respiratory": [
+      "Difficult, oppressed, anxious respiration; crampy constriction", 
+      "Sufferings render patient speechless"
+    ], 
+    "Eyes": [
+      "Photophobia; SWELLING OF MEIBOMIAN GLANDS", 
+      "EYES DRAWN DOWNWARD; pupils dilated", 
+      "Rolling of eyes on falling asleep"
+    ], 
+    "Face": [
+      "Expression anxious, full of pain; LINEA NASALIS marked", 
+      "PUFFED, red-spotted, collapsed"
+    ], 
     "Nose": [
-      "Stopped up with much thick mucus", 
       "HERPETIC ERUPTION on tip of nose", 
+      "Stopped up with much thick mucus", 
       "Frequent ineffectual desire to sneeze"
-    ], 
-    "Head": [
-      "Feels bound up, or in a vise", 
-      "OCCIPITAL PAIN extending down spine; better lying down and by pressure", 
-      "Head symptoms relieved by expelling flatus  and by stool", 
-      "HAIR FEELS PULLED", 
-      "VERTIGO WITH DROWSINESS, WITH PALPITATION; HEAD HOT AFTER VERTIGO CEASES"
-    ], 
-    "Skin": [
-      "Excoriation of thighs in walking", 
-      "Easy perspiration", 
-      "SURFACE OF BODY COVERED WITH CLAMMY SWEAT", 
-      "LYMPHATIC GLANDS SWOLLEN", 
-      "Itching ERUPTION AROUND JOINTS", 
-      "Skin of hands dry and shrunken", 
-      "Ecchymosis", 
-      "Anasarca"
-    ], 
-    "Abdomen": [
-      "Cold, internal and external, with aching pain in bowels", 
-      "Colic, followed by exhaustion and drowsiness"
-    ], 
-    "Extremities": [
-      "Weakness of lower extremities", 
-      "Fingers and thumbs clenched", 
-      "Numbness of hands and feet", 
-      "Violent spasms", 
-      "Squinting of eyes downward"
-    ], 
-    "Female": [
-      "Lancinating pains in sexual organs", 
-      "Pimples; itching when warm", 
-      "Menses watery", 
-      "Swelling of mammary glands, with lancinating pains"
     ], 
     "Ears": [
       "FEEL OBSTRUCTED", 
-      "Sense of something hot from ears", 
-      "Hissing sound"
+      "Hissing sound", 
+      "Sense of something hot from ears"
+    ], 
+    "Heart": [
+      "Violent palpitation, with vertigo, headache and restlessness", 
+      "Pulse rapid, hard and small"
+    ], 
+    "Modalities": [
+      "Worse: 3 to four AM and evenings; warmth", 
+      "Worse: summer"
+    ], 
+    "Mind": [
+      "Idiocy may alternate with furor and irritability", 
+      "Sees rats, cats, dogs, etc. Unconscious, delirious", 
+      "Brain fag", 
+      "Restless, ANXIOUS, CRYING", 
+      "INABILITY TO THINK, TO FIX THE ATTENTION"
+    ], 
+    "Back": [
+      "Want of power to stand up or hold head up", 
+      "Back feels as if in a vise", 
+      "Aching in small of back"
+    ], 
+    "Sleep": [
+      "Dozing after vomiting or stool CHILD IS SO EXHAUSTED, IT FALLS ASLEEP AT ONCE", 
+      "Disturbed by VIOLENT STARTLING; cold perspiration"
+    ], 
+    "Female": [
+      "Menses watery", 
+      "Lancinating pains in sexual organs", 
+      "Swelling of mammary glands, with lancinating pains", 
+      "Pimples; itching when warm"
+    ], 
+    "Skin": [
+      "Ecchymosis", 
+      "Easy perspiration", 
+      "Excoriation of thighs in walking", 
+      "SURFACE OF BODY COVERED WITH CLAMMY SWEAT", 
+      "LYMPHATIC GLANDS SWOLLEN", 
+      "Skin of hands dry and shrunken", 
+      "Itching ERUPTION AROUND JOINTS", 
+      "Anasarca"
+    ], 
+    "Extremities": [
+      "Violent spasms", 
+      "Fingers and thumbs clenched", 
+      "Weakness of lower extremities", 
+      "Squinting of eyes downward", 
+      "Numbness of hands and feet"
     ]
   }, 
   "name": "Aethusa cynapium", 

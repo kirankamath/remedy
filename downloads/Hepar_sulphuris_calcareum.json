@@ -1,156 +1,155 @@
 {
   "name": "Hepar sulphuris calcareum", 
-  "Relationship": "Antidotes: BELLAD.; CHAM.; SIL.Compare: ACON.; SPONGIA; STAPHIS.; SILICA; SULPH.; CALC. SULPH.; MYRISTICA. HEPAR antidotes bad effects from MERCURY, IODINE, POTASH, COD-LIVER OIL. Removes the weakening effects of ether.", 
+  "Relationship": "Compare: ACON.; SPONGIA; STAPHIS.; SILICA; SULPH.; CALC. SULPH.; MYRISTICA. HEPAR antidotes bad effects from MERCURY, IODINE, POTASH, COD-LIVER OIL. Removes the weakening effects of ether.Antidotes: BELLAD.; CHAM.; SIL.", 
   "symptoms": {
     "Stool": [
+      "Bladder difficulties of old men", 
       "Clay-colored and soft", 
-      "SOUR, white, undigested, FETID", 
-      "Loss of power to expel even a soft stool", 
-      "Urine Section", 
-      "Voided slowly, without force - drops vertically, bladder weak", 
-      "Seems as if some always remained", 
       "Greasy pellicle on urine", 
-      "Bladder difficulties of old men"
+      "SOUR, white, undigested, FETID", 
+      "Seems as if some always remained", 
+      "Voided slowly, without force - drops vertically, bladder weak", 
+      "Urine Section", 
+      "Loss of power to expel even a soft stool"
     ], 
     "Head": [
       "Vertigo and headache, when shaking the head or riding", 
-      "Boring pain in the right temple and in root of nose every morning", 
-      "Scalp sensitive and sore", 
       "Humid scald-head itching and burning", 
-      "Cold sweat on head"
+      "Cold sweat on head", 
+      "Boring pain in the right temple and in root of nose every morning", 
+      "Scalp sensitive and sore"
     ], 
     "Fever": [
+      "PROFUSE SWEAT; sour, sticky, offensive", 
       "Chilly in open air or from SLIGHTEST DRAFT", 
-      "Dry heat at night", 
-      "PROFUSE SWEAT; sour, sticky, offensive"
+      "Dry heat at night"
     ], 
     "Stomach": [
       "Longing for acids, wine, and strong-tasting food", 
-      "Aversion to fat food", 
-      "Frequent eructations, without taste or smell", 
-      "Distention of stomach, compelling one to loosen the clothing", 
+      "Heaviness and pressure in stomach after a slight meal", 
       "Burning in stomach", 
-      "Heaviness and pressure in stomach after a slight meal"
+      "Frequent eructations, without taste or smell", 
+      "Aversion to fat food", 
+      "Distention of stomach, compelling one to loosen the clothing"
     ], 
     "Abdomen": [
       "Stitching in region of liver when walking, coughing, breathing, or touching it", 
       "Hepatitis, hepatic abscess; abdomen distended, tense; chronic abdominal affections"
     ], 
     "Mouth": [
-      "Ptyalism", 
-      "Gums and mouth painful to touch and bleed readily"
+      "Gums and mouth painful to touch and bleed readily", 
+      "Ptyalism"
     ], 
     "Respiratory": [
-      "Loses voice and coughs when exposed to dry, cold wind", 
-      "Hoarseness, with loss of voice", 
-      "Cough troublesome when walking", 
       "Dry, hoarse cough", 
+      "Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards", 
+      "Palpitation of heart", 
+      "Hoarseness, with loss of voice", 
       "Cough excited WHENEVER ANY PART OF THE BODY GETS COLD OR UNCOVERED, or from eating anything cold", 
+      "Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp", 
+      "Loses voice and coughs when exposed to dry, cold wind", 
       "Croup with loose, rattling cough; worse in morning", 
       "CHOKING COUGH", 
-      "Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards", 
-      "Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp", 
-      "Palpitation of heart"
+      "Cough troublesome when walking"
     ], 
     "Eyes": [
-      "ULCERS ON CORNEA", 
-      "Iritis, with pus in anterior chamber; purulent conjunctivitis, with marked chemosis, profuse discharge, great sensitiveness to touch and air", 
-      "Eyes and lids red and inflamed", 
-      "Pain in the eyes, as if pulled back into the head", 
-      "Boring pain in upper bones of the orbits", 
       "Eyeballs sore to touch", 
-      "Objects appear red and too large", 
-      "Vision obscured by reading; field reduced one-half", 
+      "Eyes and lids red and inflamed", 
+      "ULCERS ON CORNEA", 
       "Bright circles before eyes", 
-      "HYPOPION"
+      "Iritis, with pus in anterior chamber; purulent conjunctivitis, with marked chemosis, profuse discharge, great sensitiveness to touch and air", 
+      "Vision obscured by reading; field reduced one-half", 
+      "Objects appear red and too large", 
+      "HYPOPION", 
+      "Pain in the eyes, as if pulled back into the head", 
+      "Boring pain in upper bones of the orbits"
     ], 
     "Face": [
-      "Yellowish complexion", 
-      "Middle of lower lip cracked", 
-      "Vesicular erysipelas, with pricking in parts", 
-      "Neuralgia of right side, extending in streak into temple, ear, alae, and lip", 
       "Pains in bones of face, especially when being touched", 
+      "Shooting in jaw on opening mouth", 
       "Ulcers in corners of mouth", 
-      "Shooting in jaw on opening mouth"
+      "Yellowish complexion", 
+      "Vesicular erysipelas, with pricking in parts", 
+      "Middle of lower lip cracked", 
+      "Neuralgia of right side, extending in streak into temple, ear, alae, and lip"
     ], 
     "Nose": [
-      "Sore, ulcerated", 
-      "Soreness of nostrils, with catarrhal troubles", 
-      "Sneezes every time he goes into a cold, dry wind, with running from nose, later, thick, offensive discharge", 
-      "Stopped up every time he goes out into cold air", 
       "SMELL LIKE OLD CHEESE", 
-      "HAY-FEVER"
+      "Sore, ulcerated", 
+      "HAY-FEVER", 
+      "Stopped up every time he goes out into cold air", 
+      "Sneezes every time he goes into a cold, dry wind, with running from nose, later, thick, offensive discharge", 
+      "Soreness of nostrils, with catarrhal troubles"
     ], 
     "Male": [
-      "Herpes, sensitive, bleed easily", 
-      "Ulcers externally on prepuce similar to chancre", 
       "Excitement and emission without amorous fancies", 
       "Itching of glans, frenum, and scrotum", 
-      "Suppurating inguinal glands", 
+      "Obstinate gonorrhea does not get well", 
       "Fig warts of offensive odor", 
       "Humid soreness on genitals and between scrotum and thigh", 
-      "Obstinate gonorrhea \"does not get well", 
-      "\""
+      "Suppurating inguinal glands", 
+      "Ulcers externally on prepuce similar to chancre", 
+      "Herpes, sensitive, bleed easily"
     ], 
     "Ears": [
-      "Scurfs on and behind the ears", 
       "Discharge of fetid pus from the ears", 
       "Whizzing and throbbing in ears, with hardness of hearing", 
       "Deafness after scarlet fever", 
+      "Scurfs on and behind the ears", 
       "Pustules in auditory canal and auricle", 
       "Mastoiditis"
     ], 
     "Modalities": [
-      "Worse: from dry cold winds; cool air; slightest draft; from Mercury", 
-      "Worse: touch; lying on painful side", 
       "Better: in damp weather", 
       "Better: from wrapping head up", 
       "Better: from warmth", 
-      "Better: after eating"
+      "Better: after eating", 
+      "Worse: from dry cold winds; cool air; slightest draft; from Mercury", 
+      "Worse: touch; lying on painful side"
     ], 
     "Mind": [
-      "Anguish in the evening and night, with thoughts of suicide", 
       "THE SLIGHTEST CAUSE IRRITATES HIM", 
-      "Dejected and sad", 
+      "Anguish in the evening and night, with thoughts of suicide", 
       "Ferocious", 
+      "Dejected and sad", 
       "Hasty speech"
     ], 
     "Female": [
       "Discharge of blood from uterus", 
+      "Extremely offensive leucorrhoea", 
       "Itching of pudenda and nipples, worse during menses", 
       "Menses late and scanty", 
-      "ABSCESSES OF LABIAE WITH GREAT SENSITIVENESS", 
-      "Extremely offensive leucorrhoea", 
       "Smells like old cheese", 
+      "ABSCESSES OF LABIAE WITH GREAT SENSITIVENESS", 
       "Profuse perspiration at the climacteric"
     ], 
     "Skin": [
       "Abscesses; suppurating glands are very sensitive", 
+      "Ulcers, with bloody suppuration, smelling like old cheese", 
+      "Easily bleed", 
+      "Sticking or pricking in afflicted parts", 
+      "Herpes circinatus", 
+      "Suppurate with prickly pain", 
+      "Chapped skin, with DEEP CRACKS ON HANDS AND FEET", 
       "PAPULES prone to suppurate and extend", 
       "Acne in youth", 
-      "Suppurate with prickly pain", 
-      "Easily bleed", 
-      "Angioneurotic oedema", 
       "UNHEALTHY SKIN; EVERY LITTLE INJURY SUPPURATES", 
-      "Chapped skin, with DEEP CRACKS ON HANDS AND FEET", 
-      "Ulcers, with bloody suppuration, smelling like old cheese", 
       "ULCERS VERY SENSITIVE TO CONTACT, burning, stinging, easily bleeding", 
-      "Sweats day and night without relief", 
-      "\"COLD-SORES\" VERY SENSITIVE", 
-      "Cannot bear to be uncovered; WANTS TO BE WRAPPED UP WARMLY", 
-      "Sticking or pricking in afflicted parts", 
-      "Putrid ulcers, SURROUNDED BY LITTLE PIMPLES", 
-      "Great sensitiveness to slightest touch", 
-      "CHRONIC AND RECURRING URTICARIA", 
+      "COLD-SORES VERY SENSITIVE", 
       "Small-pox", 
-      "Herpes circinatus", 
-      "Constant offensive exhalation from the body"
+      "Constant offensive exhalation from the body", 
+      "Putrid ulcers, SURROUNDED BY LITTLE PIMPLES", 
+      "Sweats day and night without relief", 
+      "Angioneurotic oedema", 
+      "CHRONIC AND RECURRING URTICARIA", 
+      "Cannot bear to be uncovered; WANTS TO BE WRAPPED UP WARMLY", 
+      "Great sensitiveness to slightest touch"
     ], 
     "Throat": [
-      "When swallowing, sensation as if a plug and OF A SPLINTER IN THROAT", 
+      "Hawking up of mucus", 
       "Quinsy, WITH IMPENDING SUPPURATION", 
-      "Stitches in throat extending to the ear when swallowing", 
-      "Hawking up of mucus"
+      "When swallowing, sensation as if a plug and OF A SPLINTER IN THROAT", 
+      "Stitches in throat extending to the ear when swallowing"
     ], 
     "Extremities": [
       "Finger-joints swollen; tendency to easy dislocation", 

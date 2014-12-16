@@ -5,17 +5,17 @@
   "details": "Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.", 
   "symptoms": {
     "Head": [
-      "Congested", 
-      "Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears"
+      "Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears", 
+      "Congested"
     ], 
     "Fever": [
-      "Chill all over; worse in bed at night", 
+      "General sore and bruised feeling; nausea and retching", 
       "Sensitive to cold trade-winds on Pacific Coast", 
-      "General sore and bruised feeling; nausea and retching"
+      "Chill all over; worse in bed at night"
     ], 
     "Skin": [
-      "Wrinkled like a washer woman's", 
-      "Scalp feels tight, as if drawn together by India-rubber"
+      "Scalp feels tight, as if drawn together by India-rubber", 
+      "Wrinkled like a washer woman's"
     ]
   }, 
   "name": "Canchalagua", 

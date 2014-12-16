@@ -3,23 +3,23 @@
   "Relationship": "Compare especially: HYOSCY. and BELL. It has less fever than BELL., but more than HYOS. It causes more functional excitement of the brain, but never approaches the true inflammatory condition of BELL.Antidotes: BELL.; TABAC.; NUX.", 
   "symptoms": {
     "Eyes": [
-      "Seem prominent, STARING WIDE OPEN; pupils dilated", 
-      "Loss of vision; complains that it is dark, AND CALLS FOR LIGHT", 
-      "SMALL OBJECTS LOOK LARGE", 
       "Parts of the body seem enormously swollen", 
-      "Strabismus", 
-      "All objects look black"
+      "Loss of vision; complains that it is dark, AND CALLS FOR LIGHT", 
+      "All objects look black", 
+      "Seem prominent, STARING WIDE OPEN; pupils dilated", 
+      "SMALL OBJECTS LOOK LARGE", 
+      "Strabismus"
     ], 
     "Fever": [
-      "Profuse sweat, which does not relieve", 
-      "Violent fever"
+      "Violent fever", 
+      "Profuse sweat, which does not relieve"
     ], 
     "Stomach": [
-      "Food tastes like straw", 
-      "Violent thirst", 
+      "SUPPRESSION, bladder empty", 
       "Vomiting of mucus and GREEN bile", 
       "Urine Section", 
-      "SUPPRESSION, bladder empty"
+      "Food tastes like straw", 
+      "Violent thirst"
     ], 
     "Modalities": [
       "Worse: in dark room", 
@@ -32,61 +32,62 @@
       "Better: warmth"
     ], 
     "Mind": [
-      "DEVOUT, EARNEST, BESEECHING AND CEASELESS TALKING", 
-      "Loquacious, garrulous, laughing, singing, swearing, praying, rhyming", 
-      "Sees ghosts, hears voices, talks with spirits", 
       "Rapid changes from joy to sadness", 
-      "Violent and lewd", 
       "Delusions about his identity; thinks himself tall, double, a part missing", 
-      "Religious mania", 
       "Cannot bear solitude or darkness; MUST HAVE LIGHT AND COMPANY", 
-      "Sight of water or anything glittering brings on spasms", 
-      "Delirium, with desire to escape"
+      "Loquacious, garrulous, laughing, singing, swearing, praying, rhyming", 
+      "Delirium, with desire to escape", 
+      "Sees ghosts, hears voices, talks with spirits", 
+      "Violent and lewd", 
+      "Religious mania", 
+      "DEVOUT, EARNEST, BESEECHING AND CEASELESS TALKING", 
+      "Sight of water or anything glittering brings on spasms"
     ], 
     "Head": [
+      "Auditory hallucinations", 
+      "Boring pain, preceded by obscure vision", 
       "RAISES HEAD FREQUENTLY FROM THE PILLOW", 
       "Pain in forehead and over eyebrows, beginning at nine AM; worse until noon", 
-      "Boring pain, preceded by obscure vision", 
-      "Rush of blood to head; staggers, with tendency to fall forward and to the left", 
-      "Auditory hallucinations"
+      "Rush of blood to head; staggers, with tendency to fall forward and to the left"
     ], 
     "Face": [
-      "Hot, red; circumscribed redness of cheeks", 
-      "Blood rushes to face; distorted", 
+      "Pale face", 
       "EXPRESSION OF TERROR", 
-      "Pale face"
+      "Blood rushes to face; distorted", 
+      "Hot, red; circumscribed redness of cheeks"
     ], 
     "Mouth": [
-      "Dry; dribbling of viscid saliva", 
-      "Aversion to water", 
-      "STAMMERING", 
-      "Risus sardonicus", 
       "Cannot swallow on account of spasm", 
-      "Chewing motion"
+      "STAMMERING", 
+      "Chewing motion", 
+      "Dry; dribbling of viscid saliva", 
+      "Risus sardonicus", 
+      "Aversion to water"
     ], 
     "Female": [
-      "METRORRHAGIA, with LOQUACITY, SINGING, praying", 
       "Puerperal mania, with characteristic mental symptoms and profuse sweatings", 
       "Convulsions after labor", 
-      "Sleep", 
-      "Awakens terrified; screams with fright", 
-      "Deep snoring sleep", 
-      "Sleepy, but cannot sleep"
+      "METRORRHAGIA, with LOQUACITY, SINGING, praying"
     ], 
     "Skin": [
       "Shining red flash", 
-      "EFFECTS OF SUPPRESSED ERUPTION IN SCARLATINA, with delirium, etc"
+      "EFFECTS OF SUPPRESSED ERUPTION IN SCARLATINA, with delirium, etc."
+    ], 
+    "Sleep": [
+      "Deep snoring sleep", 
+      "Awakens terrified; screams with fright", 
+      "Sleepy, but cannot sleep"
     ], 
     "Extremities": [
-      "GRACEFUL, RHYTHMIC MOTIONS", 
-      "Convulsions of upper extremities and of isolated groups of muscles", 
       "CHOREA; spasms partial, constantly changing", 
+      "GRACEFUL, RHYTHMIC MOTIONS", 
+      "Trembling, twitching of tendons, staggering gait", 
       "VIOLENT PAIN IN LEFT HIP", 
-      "Trembling, twitching of tendons, staggering gait"
+      "Convulsions of upper extremities and of isolated groups of muscles"
     ], 
     "Male": [
-      "SEXUAL ERETHISM, with indecent speech and action", 
-      "Hands constantly kept on genitals"
+      "Hands constantly kept on genitals", 
+      "SEXUAL ERETHISM, with indecent speech and action"
     ]
   }, 
   "details": "The entire force of this drug seems to be expended on the brain, though the skin and throat show some disturbance. Suppressed secretions and excretions. Sensation as if limbs were separated from body. Delirium tremens. Absence of pain and muscular mobility especially of muscles of expression and of locomotion. Gyratory and graceful motions. Parkinsonism.", 

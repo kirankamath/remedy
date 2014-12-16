@@ -5,27 +5,27 @@
   "details": "Colicky cramp and spasm of bowels. Painful neuromuscular conditions, preventing sleep. Rheumatic disease associated with Bright's disease. (D. MacFarlan.)", 
   "symptoms": {
     "Head": [
-      "Throbbing headache in eyes and temples", 
+      "Throat very dry, pain on swallowing", 
       "Head hot", 
-      "Throat very dry, pain on swallowing"
+      "Throbbing headache in eyes and temples"
     ], 
     "Stomach": [
+      "Belching and passing gas", 
+      "Passes less urine", 
       "Feels sick, like vomiting", 
       "Griping in pit of stomach", 
-      "No appetite", 
-      "Belching and passing gas", 
       "Urinary Organs", 
-      "Passes less urine", 
-      "Changing color"
+      "Changing color", 
+      "No appetite"
     ], 
     "Modalities": [], 
     "Female": [
-      "Menses suppressed", 
-      "Diminished sexual desire with weakness"
+      "Diminished sexual desire with weakness", 
+      "Menses suppressed"
     ], 
     "Extremities": [
-      "Left knee stiff and painful", 
-      "Feet swollen"
+      "Feet swollen", 
+      "Left knee stiff and painful"
     ]
   }, 
   "name": "Argemone mexicana", 

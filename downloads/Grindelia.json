@@ -4,24 +4,24 @@
   "symptoms": {
     "Head": [
       "Feels full, as from quinine", 
-      "PAIN IN EYEBALLS, running back to brain; worse, moving eyes", 
+      "Purulent ophthalmia and iritis", 
       "Pupils dilated", 
-      "Purulent ophthalmia and iritis"
+      "PAIN IN EYEBALLS, running back to brain; worse, moving eyes"
     ], 
     "Respiratory": [
-      "An efficacious remedy for wheezing and oppression in bronchitis patients", 
-      "The sibilant rales are disseminated with foamy mucus, very difficult to detach", 
       "Acts on the pulmonary circulation", 
-      "Asthma, with profuse tenacious expectoration, which relieves", 
-      "STOPS BREATHING WHEN FALLING ASLEEP; WAKES WITH A START, and gasps for breath", 
-      "Must sit up to breathe", 
-      "CANNOT BREATHE WHEN LYING DOWN", 
-      "Pertussis, with profuse mucous secretion", 
-      "Bronchorrhea, with tough, whitish, mucous expectoration", 
-      "Sibilant rales", 
+      "The sibilant rales are disseminated with foamy mucus, very difficult to detach", 
       "Weak heart and respiration", 
+      "STOPS BREATHING WHEN FALLING ASLEEP; WAKES WITH A START, and gasps for breath", 
+      "Bronchorrhea, with tough, whitish, mucous expectoration", 
+      "Cheyne-Stokes respiration", 
+      "CANNOT BREATHE WHEN LYING DOWN", 
+      "An efficacious remedy for wheezing and oppression in bronchitis patients", 
       "Cannot breathe lying down", 
-      "Cheyne-Stokes respiration"
+      "Asthma, with profuse tenacious expectoration, which relieves", 
+      "Sibilant rales", 
+      "Pertussis, with profuse mucous secretion", 
+      "Must sit up to breathe"
     ], 
     "Abdomen": [
       "Cutting pain in region of spleen, extending to hips", 
@@ -29,14 +29,14 @@
     ], 
     "Skin": [
       "Rash, like roseola, with severe burning and itching", 
-      "Vesicular and papular eruptions", 
-      "Herpes zoster", 
+      "Ulcers, with swollen, purplish skin", 
       "Itching and burning", 
-      "POISON OAK", 
-      "Ulcers, with swollen, purplish skin"
+      "Herpes zoster", 
+      "Vesicular and papular eruptions", 
+      "POISON OAK"
     ]
   }, 
-  "details": "Both Grindelia robusta and Grindelia squarrosa have been used for the symptoms here recorded. There is practically no difference in their action, although the G. Squarrosa is credited with more SPLENIC symptoms, dull pains and fullness in left hypochondrium; chronic malaria; gastric pains associated with splenic congestion. Induces paralysis, beginning in extremities. Its action is shown on the heart first quickening, then retarding it.Acts on the cardiopulmonary distribution of the pneumo gastric in dry catarrh (tart Emetic in mucopurulent). Produces a paresis of the pneumogastric, interfering with respiration. SMOTHERING AFTER FALLING ASLEEP. Asthmatic conditions, chronic bronchitis. Bronchorrhea with tough mucus, difficult to detach. Raises the blood pressure. Nausea and retching of gastric ulcer. Sugar in urine An effective antidote to Rhus-poisoning, locally and internally; also for burns, blisters, vaginal catarrh and herpes zoster. Hyperchlorhydria when attended with asthmatic and other neurotic symptoms. Hyperaemia of gastric mucous membrane with difficult respiration.", 
+  "details": "Acts on the cardiopulmonary distribution of the pneumo gastric in dry catarrh (tart Emetic in mucopurulent). Produces a paresis of the pneumogastric, interfering with respiration. SMOTHERING AFTER FALLING ASLEEP. Asthmatic conditions, chronic bronchitis. Bronchorrhea with tough mucus, difficult to detach. Raises the blood pressure. Nausea and retching of gastric ulcer. Sugar in urine An effective antidote to Rhus-poisoning, locally and internally; also for burns, blisters, vaginal catarrh and herpes zoster. Hyperchlorhydria when attended with asthmatic and other neurotic symptoms. Hyperaemia of gastric mucous membrane with difficult respiration.Both Grindelia robusta and Grindelia squarrosa have been used for the symptoms here recorded. There is practically no difference in their action, although the G. Squarrosa is credited with more SPLENIC symptoms, dull pains and fullness in left hypochondrium; chronic malaria; gastric pains associated with splenic congestion. Induces paralysis, beginning in extremities. Its action is shown on the heart first quickening, then retarding it.", 
   "Natural History": [
     "Rosin-wood"
   ], 

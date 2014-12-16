@@ -7,20 +7,20 @@
     ], 
     "Respiratory": [
       "Short and irritating cough; worse, at night", 
-      "Copious, purulent expectoration", 
-      "Night cough of phthisis"
+      "Night cough of phthisis", 
+      "Copious, purulent expectoration"
     ], 
     "Stomach": [
+      "Great thirst, with desire for bitter substances", 
       "Spasmodic pain at pit of stomach", 
-      "Eructations", 
-      "Great thirst, with desire for bitter substances"
+      "Eructations"
     ], 
     "Head": [
-      "Pain from occiput to back of neck", 
-      "Skin of face and scalp sore after neuralgia"
+      "Skin of face and scalp sore after neuralgia", 
+      "Pain from occiput to back of neck"
     ]
   }, 
-  "details": "Trembling of whole body. Involuntary twitching of muscles of arms and lower limbs. ITCHING, with feeling of warmth, numbness and prickling. Diabetes.Dry, teasing, incessant cough; twitching of muscles, especially those of eyelids", 
+  "details": "Dry, teasing, incessant cough; twitching of muscles, especially those of eyelidsTrembling of whole body. Involuntary twitching of muscles of arms and lower limbs. ITCHING, with feeling of warmth, numbness and prickling. Diabetes.", 
   "Natural History": [
     "An Alkaloid from Opium"
   ], 

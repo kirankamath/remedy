@@ -3,50 +3,50 @@
   "Relationship": "Compare: CAUST.; PHOS.; SAPONIN; AMMON.; CALC.; NEPETA CATARIA - Catnip (to break up a cold; infantile colic; hysteria).", 
   "symptoms": {
     "Eyes": [
-      "Hyperphoria, better by bending head backwards", 
       "Acts on the rectus superior", 
-      "Blepharitis; lids dry and crusty", 
-      "Dryness, with sensation AS IF TOO LARGE FOR ORBITS", 
-      "Staring", 
-      "Lachrymation", 
-      "Flickering; must wipe eyes frequently", 
       "Objects look shaded", 
-      "Muscular asthenopia", 
+      "Lachrymation", 
+      "Dryness, with sensation AS IF TOO LARGE FOR ORBITS", 
+      "Flickering; must wipe eyes frequently", 
       "Double vision; better only by bending head backward", 
       "Opacities of the vitreous humor", 
-      "Promotes absorption of fragments of lens, after operation"
+      "Muscular asthenopia", 
+      "Blepharitis; lids dry and crusty", 
+      "Hyperphoria, better by bending head backwards", 
+      "Promotes absorption of fragments of lens, after operation", 
+      "Staring"
     ], 
     "Respiratory": [
-      "Hoarseness", 
-      "Hurts to talk", 
-      "Bursting pain in back on coughing", 
-      "Catarrh of larynx", 
-      "Loss of voice", 
-      "Hacking cough", 
-      "Thorax feels too narrow", 
-      "COUGH OFTEN ENDS IN A SNEEZE", 
-      "RATTLING IN CHEST", 
-      "Chest oppressed on ascending", 
-      "Bronchial catarrh, WITH SORE CHEST WALLS; much mucus; sensation of oppression and weight of chest", 
-      "DIFFICULT RAISING OF TOUGH, PROFUSE MUCUS, in the aged", 
+      "EXUDATIONS IN PLEURA", 
+      "BACK, bursting distending pain in kidney region", 
       "Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema", 
       "Old asthmatics with congestive attacks", 
-      "EXUDATIONS IN PLEURA", 
-      "Hydrothorax", 
-      "Pressure on chest as though lungs were forced back to spine", 
+      "Hacking cough", 
+      "Bronchial catarrh, WITH SORE CHEST WALLS; much mucus; sensation of oppression and weight of chest", 
+      "Thorax feels too narrow", 
       "Voice unsteady, vocal cords partially paralyzed", 
+      "DIFFICULT RAISING OF TOUGH, PROFUSE MUCUS, in the aged", 
+      "COUGH OFTEN ENDS IN A SNEEZE", 
+      "Pressure on chest as though lungs were forced back to spine", 
+      "Hoarseness", 
+      "Chest oppressed on ascending", 
+      "Loss of voice", 
       "Urinary Organs", 
       "Greatly diminished; loaded with shreds and mucus; scalding before and after urinating", 
-      "BACK, bursting distending pain in kidney region"
+      "Hurts to talk", 
+      "Hydrothorax", 
+      "RATTLING IN CHEST", 
+      "Bursting pain in back on coughing", 
+      "Catarrh of larynx"
     ], 
     "Modalities": [
+      "Better: from sweat; BENDING HEAD BACKWARDS", 
       "Worse: walking in open air", 
-      "Worse: during rest", 
-      "Better: from sweat; BENDING HEAD BACKWARDS"
+      "Worse: during rest"
     ], 
     "Mind": [
-      "Suddenly remembers unimportant regions which he saw long ago", 
-      "Inclined to quarrel"
+      "Inclined to quarrel", 
+      "Suddenly remembers unimportant regions which he saw long ago"
     ], 
     "Head": [
       "Dullness, with pressure and weakness of eyes", 
@@ -54,14 +54,14 @@
       "BURSTING pain in forehead"
     ], 
     "Face": [
-      "Paralysis of left side of face", 
       "Heat in face", 
-      "Burning vesicles in corners of mouth and lips"
+      "Burning vesicles in corners of mouth and lips", 
+      "Paralysis of left side of face"
     ], 
     "Nose": [
       "Dry", 
-      "Coryza; much watery mucus and sneezing", 
-      "Nostrils feel peppery"
+      "Nostrils feel peppery", 
+      "Coryza; much watery mucus and sneezing"
     ], 
     "Throat": [
       "Catarrhal inflammation of throat and fauces, with scraping hoarseness", 

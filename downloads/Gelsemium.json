@@ -1,98 +1,98 @@
 {
   "name": "Gelsemium", 
-  "Relationship": "Compare: IGNATIA (gastric affections of cigar makers); BAPTISA; IPECAC.; ACON.; BELL.; CIMICIF.; MANGES. PHOS. (Gels contains some Magnes. phos.) CULEX - (vertigo on blowing the nose with fullness of the ears.)ANTIDOTES: China; Coffea; Dig. Alcoholic stimulants relieve all complaints where Gels. Is useful.", 
+  "Relationship": "ANTIDOTES: China; Coffea; Dig. Alcoholic stimulants relieve all complaints where Gels. Is useful.Compare: IGNATIA (gastric affections of cigar makers); BAPTISA; IPECAC.; ACON.; BELL.; CIMICIF.; MANGES. PHOS. (Gels contains some Magnes. phos.) CULEX - (vertigo on blowing the nose with fullness of the ears.)", 
   "symptoms": {
     "Stool": [
-      "Diarrhoea FROM EMOTIONAL EXCITEMENT, fright, bad news", 
-      "Stool painless or involuntary", 
+      "Partial paralysis of bladder; flow intermittent", 
       "CREAM-COLORED , TEA-GREEN", 
-      "Partial paralysis of rectum and sphincter", 
-      "Urine Section", 
+      "Stool painless or involuntary", 
+      "Diarrhoea FROM EMOTIONAL EXCITEMENT, fright, bad news", 
       "PROFUSE, CLEAR, WATERY, with chilliness and tremulousness", 
       "Dysuria", 
-      "Partial paralysis of bladder; flow intermittent", 
+      "Partial paralysis of rectum and sphincter", 
+      "Urine Section", 
       "RETENTION"
     ], 
     "Head": [
-      "VERTIGO, spreading from occiput", 
-      "Heaviness of head; BAND-FEELING around and OCCIPITAL headache", 
-      "DULL, heavy ache, with heaviness of eyelids; bruised sensation; better, compression and lying with head high", 
-      "PAIN IN TEMPLE, EXTENDING INTO EAR and wing of nose, chin", 
-      "Headache, with muscular soreness of neck and shoulders", 
-      "Headache preceded by blindness; better, profuse urination", 
-      "Scalp sore to touch", 
       "Delirious on falling asleep", 
-      "Wants to have head raised on pillow"
+      "Wants to have head raised on pillow", 
+      "PAIN IN TEMPLE, EXTENDING INTO EAR and wing of nose, chin", 
+      "DULL, heavy ache, with heaviness of eyelids; bruised sensation; better, compression and lying with head high", 
+      "Heaviness of head; BAND-FEELING around and OCCIPITAL headache", 
+      "Headache, with muscular soreness of neck and shoulders", 
+      "VERTIGO, spreading from occiput", 
+      "Scalp sore to touch", 
+      "Headache preceded by blindness; better, profuse urination"
     ], 
     "Fever": [
-      "WANTS TO BE HELD, BECAUSE HE SHAKES SO", 
-      "Pulse slow, full, soft, compressible", 
-      "Chilliness up and down back", 
       "Heat and sweat stages, long and exhausting", 
-      "Dumb-ague, with much muscular soreness, great prostration, and violent headache", 
+      "Chill, without thirst, along spine; wave-like, extending upward from sacrum to occiput", 
+      "Chilliness up and down back", 
       "NERVOUS CHILLS", 
+      "Dumb-ague, with much muscular soreness, great prostration, and violent headache", 
+      "WANTS TO BE HELD, BECAUSE HE SHAKES SO", 
       "Bilious remittent fever, with stupor, dizziness, faintness; thirstless, prostrated", 
-      "Chill, without thirst, along spine; wave-like, extending upward from sacrum to occiput"
+      "Pulse slow, full, soft, compressible"
     ], 
     "Stomach": [
-      "As a rule, the Gelsemium patient has no thirst", 
+      "Sensation of emptiness and weakness at the pit of the stomach, or of an oppression, like a heavy load", 
       "Hiccough; worse in the evening", 
-      "Sensation of emptiness and weakness at the pit of the stomach, or of an oppression, like a heavy load"
+      "As a rule, the Gelsemium patient has no thirst"
     ], 
     "Mouth": [
-      "Putrid taste and breath", 
-      "Tongue numb, thick, coated, yellowish, TREMBLE, paralyzed"
+      "Tongue numb, thick, coated, yellowish, TREMBLE, paralyzed", 
+      "Putrid taste and breath"
     ], 
     "Respiratory": [
-      "Slowness of breathing, with great prostration", 
-      "Oppression about chest", 
-      "Dry cough, with sore chest and fluent coryza", 
       "SPASM OF THE GLOTTIS", 
-      "Aphonia; acute bronchitis, respiration quickened, spasmodic affections of lungs and diaphragm"
+      "Aphonia; acute bronchitis, respiration quickened, spasmodic affections of lungs and diaphragm", 
+      "Oppression about chest", 
+      "Slowness of breathing, with great prostration", 
+      "Dry cough, with sore chest and fluent coryza"
     ], 
     "Eyes": [
-      "Ptosis; EYELIDS heavy; patient can hardly open them", 
-      "Double vision", 
+      "Albuminuric retinitis", 
       "Disturbed muscular apparatus", 
       "Corrects blurring and discomfort in eyes even after accurately adjusted glasses", 
-      "Vision blurred, smoky", 
+      "One pupil dilated, the other contracted", 
+      "SEROUS INFLAMMATIONS", 
+      "Ptosis; EYELIDS heavy; patient can hardly open them", 
+      "Bruised pain back of the orbits", 
       "DIM-SIGHTED; pupils dilated and insensible to light", 
       "ORBITAL NEURALGIA, WITH CONTRACTION AND TWITCHING OF MUSCLES", 
-      "Bruised pain back of the orbits", 
-      "One pupil dilated, the other contracted", 
-      "Deep inflammations, with haziness of vitreous", 
-      "SEROUS INFLAMMATIONS", 
-      "Albuminuric retinitis", 
       "Detached retina, glaucoma and descemetitis", 
-      "HYSTERICAL AMBLYOPIA"
+      "Deep inflammations, with haziness of vitreous", 
+      "HYSTERICAL AMBLYOPIA", 
+      "Double vision", 
+      "Vision blurred, smoky"
     ], 
     "Face": [
-      "HOT, HEAVY, FLUSHED, BESOTTED-LOOKING", 
-      "Neuralgia of face", 
-      "Dusky hue of face, with vertigo and dim vision", 
       "Facial muscles contracted, especially around the mouth", 
       "Chin quivers", 
+      "Neuralgia of face", 
+      "HOT, HEAVY, FLUSHED, BESOTTED-LOOKING", 
+      "Dusky hue of face, with vertigo and dim vision", 
       "Lower jaw dropped"
     ], 
     "Nose": [
+      "Watery, excoriating discharge", 
+      "Swelling of turbinates", 
       "Sneezing; fullness at root of nose", 
       "Dryness of nasal fossae", 
-      "Swelling of turbinates", 
-      "Watery, excoriating discharge", 
       "Acute coryza, with dull headache and fever"
     ], 
     "Male": [
-      "Spermatorrhoea, WITHOUT ERECTIONS", 
-      "Genitals cold and relaxed", 
       "Scrotum continually sweating", 
-      "Gonorrhea, first stage; discharge scanty; tendency to corrode; little pain, but much heat; smarting at meatus"
+      "Spermatorrhoea, WITHOUT ERECTIONS", 
+      "Gonorrhea, first stage; discharge scanty; tendency to corrode; little pain, but much heat; smarting at meatus", 
+      "Genitals cold and relaxed"
     ], 
     "Heart": [
-      "A FEELING AS IF IT WERE NECESSARY TO KEEP IN MOTION, OR ELSE HEART'S ACTION WOULD CEASE", 
       "Slow pulse", 
+      "A FEELING AS IF IT WERE NECESSARY TO KEEP IN MOTION, OR ELSE HEART'S ACTION WOULD CEASE", 
       "Palpitation; pulse soft, weak, full and flowing", 
-      "Pulse slow when quiet, but greatly accelerated on motion", 
-      "WEAK, SLOW PULSE OF OLD AGE"
+      "WEAK, SLOW PULSE OF OLD AGE", 
+      "Pulse slow when quiet, but greatly accelerated on motion"
     ], 
     "Modalities": [
       "Worse: damp weather", 
@@ -110,71 +110,71 @@
       "Better: stimulants"
     ], 
     "Mind": [
-      "Desire to be quiet, to be left alone", 
       "DULLNESS, LANGUOR, LISTLESS", 
-      "\"Discerningly lethargic", 
-      "\" APATHY REGARDING HIS ILLNESS", 
       "Absolute lack of fear", 
-      "Delirious on falling to sleep", 
-      "Emotional excitement, fear, etc", 
-      ", lead to bodily ailments", 
+      "Emotional excitement, fear, etc., lead to bodily ailments", 
+      "Discerningly lethargic", 
       "Bad effects from fright, fear, exciting news", 
       "Stage fright", 
-      "Child starts and grasps the nurse, and screams as if afraid of falling"
+      "Desire to be quiet, to be left alone", 
+      "APATHY REGARDING HIS ILLNESS", 
+      "Child starts and grasps the nurse, and screams as if afraid of falling", 
+      "Delirious on falling to sleep"
     ], 
     "Back": [
+      "Pain in muscles of back, hips, and lower extremities, mostly deep-seated", 
+      "Dull aching in lumbar and sacral region, passing upward", 
+      "Languor; muscles feel bruised", 
       "Dull, heavy pain", 
       "Complete relaxation of the whole muscular system", 
-      "Languor; muscles feel bruised", 
-      "Every little exertion causes fatigue", 
       "Pain in neck, especially upper sternocleidomastoid muscles", 
-      "Dull aching in lumbar and sacral region, passing upward", 
-      "Pain in muscles of back, hips, and lower extremities, mostly deep-seated"
+      "Every little exertion causes fatigue"
+    ], 
+    "Sleep": [
+      "Yawning", 
+      "Delirious on falling asleep", 
+      "Cannot get fully to sleep", 
+      "Insomnia from exhaustion; from uncontrollable thinking; tobacco", 
+      "Sleepless from nervous irritation"
     ], 
     "Female": [
-      "Rigid os", 
-      "Vaginismus", 
-      "False labor-pains; pains pass up back", 
-      "DYSMENORRHOEA, with scanty flow; menses retarded", 
       "Pain extends to back and hips", 
       "Aphonia and sore throat during menses", 
-      "Sensation as if uterus were squeezed"
+      "DYSMENORRHOEA, with scanty flow; menses retarded", 
+      "Vaginismus", 
+      "Sensation as if uterus were squeezed", 
+      "Rigid os", 
+      "False labor-pains; pains pass up back"
     ], 
     "Skin": [
+      "Scarlet fever with stupor and flushed face", 
       "Hot, dry, itching, measle-like eruption", 
-      "Erysipelas", 
-      "MEASLES, CATARRHAL SYMPTOMS; AIDS IN BRINGING OUT ERUPTION", 
       "Retrocedent, with livid spots", 
-      "Scarlet fever with stupor and flushed face"
+      "MEASLES, CATARRHAL SYMPTOMS; AIDS IN BRINGING OUT ERUPTION", 
+      "Erysipelas"
     ], 
     "Throat": [
       "Difficult swallowing, especially of warm food", 
-      "Itching and tickling in soft palate and nasopharynx", 
-      "Pain in sternocleidomastoid, back of parotid", 
-      "Tonsils swollen", 
-      "Throat feels rough, burning", 
-      "POST-DIPHTHERITIC PARALYSIS", 
       "Tonsillitis; shooting pain into ears", 
-      "FEELING OF A LUMP IN THROAT that cannot be swallowed", 
+      "Throat feels rough, burning", 
+      "Difficult swallowing", 
+      "PAIN FROM THROAT TO EAR", 
       "Aphonia", 
       "Swallowing causes pain in ear", 
-      "Difficult swallowing", 
-      "PAIN FROM THROAT TO EAR"
+      "FEELING OF A LUMP IN THROAT that cannot be swallowed", 
+      "Itching and tickling in soft palate and nasopharynx", 
+      "POST-DIPHTHERITIC PARALYSIS", 
+      "Pain in sternocleidomastoid, back of parotid", 
+      "Tonsils swollen"
     ], 
     "Extremities": [
       "Loss of power of muscular control", 
-      "Cramp in muscles of forearm", 
-      "Professional neuroses", 
       "Writer's cramp", 
-      "Excessive TREMBLING and weakness of all limbs", 
-      "Hysteric convulsions", 
       "Fatigue after slight exercise", 
-      "Sleep", 
-      "Cannot get fully to sleep", 
-      "Delirious on falling asleep", 
-      "Insomnia from exhaustion; from uncontrollable thinking; tobacco", 
-      "Yawning", 
-      "Sleepless from nervous irritation"
+      "Professional neuroses", 
+      "Excessive TREMBLING and weakness of all limbs", 
+      "Cramp in muscles of forearm", 
+      "Hysteric convulsions"
     ]
   }, 
   "details": "Centers its action upon the nervous system, causing various degree of MOTOR PARALYSIS. General prostration. DIZZINESS, DROWSINESS, DULLNESS, AND TREMBLING. Slow pulse, tired feeling, mental apathy. PARALYSIS of various groups of muscles about the eyes, throat, chest, larynx, sphincter, extremities, etc. Post-diphtheritic paralysis. MUSCULAR WEAKNESS. Complete relaxation and prostration. Lack of muscular coordination. General depression from heat of sun. Sensitive to a falling barometer; cold and dampness brings on many complaints. Children fear falling, grab nurse or crib. Sluggish circulation. Nervous affections of cigar makers. INFLUENZA. Measles. Pellagra.", 

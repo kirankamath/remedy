@@ -3,20 +3,20 @@
   "Relationship": "Compare: DATURA ARBOREA - BOUGMANCIA CANDIDA (cannot concentrate thoughts; brain floats in thousands of problems and grand ideas. Floating sensation as if ideas were floating outside of brain. Headache, heartburn. Burning sensation around cardiac end of stomach, extending to oesophagus with sense of constriction. Heat and fullness over liver region.) CERTRARIA - Iceland Moss (chronic diarrhoea, phthisis, bloody expectoration. Is used as a decoction and boiled with milk as an expectorant and nutrient in bronchorrhea, catarrh, etc.) Also compare: ERYNG.; DROS.; STILLING.; RUMEX; SAMBUCUS.", 
   "symptoms": {
     "Head": [
-      "Dull headache, with dull heavy pressure in forehead and ROOT OF NOSE", 
       "CATARRHAL HEADACHE BEFORE DISCHARGE APPEARS", 
       "Burning in eyes and soreness of balls", 
+      "Burning in eyelids", 
       "Sensation as if scalp were too small", 
-      "Burning in eyelids"
+      "Dull headache, with dull heavy pressure in forehead and ROOT OF NOSE"
     ], 
     "Respiratory": [
+      "; WORSE TOWARDS EVENING AND WHEN TIRED", 
+      "Tracheitis, facilitates expectoration", 
+      "Cough after measles", 
+      "Pain through chest from sternum to spinal column", 
+      "Loose cough in morning", 
       "Throat raw; dropping of mucus posteriorly", 
       "DRY, HACKING COUGH DURING NIGHT; WORSE, INSPIRATION", 
-      "Tracheitis, facilitates expectoration", 
-      "Loose cough in morning", 
-      "Pain through chest from sternum to spinal column", 
-      "Cough after measles", 
-      "; WORSE TOWARDS EVENING AND WHEN TIRED", 
       "PULSATION FROM RIGHT SIDE OF STERNUM DOWN TO ABDOMEN"
     ], 
     "Modalities": [
@@ -27,29 +27,29 @@
       "Confusion of ideas; PATIENT MUST TALK"
     ], 
     "Abdomen": [
-      "Diarrhoea; stools profuse, frothy; worse, morning", 
-      "Urine increased, with soreness and aching in bladder"
+      "Urine increased, with soreness and aching in bladder", 
+      "Diarrhoea; stools profuse, frothy; worse, morning"
     ], 
     "Nose": [
-      "FEELING OF FULLNESS AT THE ROOT F THE NOSE", 
-      "Atrophic rhinitis", 
-      "DRYNESS OF NASAL MEMBRANE", 
       "CONSTANT NEED TO BLOW THE NOSE, BUT NO DISCHARGE", 
       "Dry scabs, especially in evening and night", 
-      "HAY-FEVER; incessant sneezing"
+      "HAY-FEVER; incessant sneezing", 
+      "Atrophic rhinitis", 
+      "FEELING OF FULLNESS AT THE ROOT F THE NOSE", 
+      "DRYNESS OF NASAL MEMBRANE"
     ], 
     "Female": [
       "Scanty flow of milk"
     ], 
     "Extremities": [
-      "Rheumatic pain in right shoulder joint, deltoid, and biceps", 
       "Swelling, heat, redness of joints", 
-      "SPOT OF INFLAMMATION AND REDNESS OVER AFFECTED JOINT", 
+      "HOUSEMAID'S KNEE", 
       "Pain severe and drawing", 
       "Chorea-like spasms; legs feel floating in air", 
-      "HOUSEMAID'S KNEE", 
       "Shooting pains in knees", 
       "Joints and neighboring muscles red, swollen, painful", 
+      "SPOT OF INFLAMMATION AND REDNESS OVER AFFECTED JOINT", 
+      "Rheumatic pain in right shoulder joint, deltoid, and biceps", 
       "Rheumatic pains precede catarrhal symptoms"
     ]
   }, 

@@ -1,64 +1,84 @@
 {
-  "Natural History": [
-    "Eye brightGeneralManifests itself in inflaming the conjunctival membrane especially, producing profuse lachrymation", 
-    "Patient is better in open air", 
-    "Catarrhal affections of mucous membranes especially of eyes and nose", 
-    "Profuse ACRID lachrymation and bland coryza; worse, evening", 
-    "Hawking up of offensive mucus", 
-    "HeadBursting headache with dazzling of eyes", 
-    "CATARRHAL HEADACHE, with profuse discharge from eyes and nose", 
-    "NosePROFUSE, FLUENT CORYZA, with violent cough and abundant expectoration", 
-    "EyesCATARRHAL conjunctivitis; discharge of acrid matter", 
-    "THE EYES WATER ALL THE TIME", 
-    "Acrid lachrymation; bland coryza", 
-    "Discharge thick and excoriating", 
-    "Burning and swelling of the lids", 
-    "Frequent inclination to blink", 
-    "Free discharge of acrid matter", 
-    "Sticky mucus on cornea; must wink to remove it", 
-    "Pressure in eyes", 
-    "Little blister on cornea", 
-    "Opacities", 
-    "Rheumatic iritis", 
-    "Ptosis", 
-    "FaceRedness and heat of cheeks", 
-    "Stiffness of upper lip", 
-    "StomachVomiting from hawking mucus", 
-    "Nausea and bitterness after smoking", 
-    "RectumDysentery", 
-    "Prolapse ani", 
-    "Pressure down in anus when sitting", 
-    "CONSTIPATION", 
-    "FemaleMenses PAINFUL; FLOW LASTS ONLY AN HOUR OR DAY; late, scanty, short", 
-    "AMENORRHOEA, WITH OPHTHALMIA", 
-    "MaleSpasmodic retraction of genitals, with pressure above pubic bone", 
-    "Condyloma and sycotic excrescences", 
-    "PROSTATITIS", 
-    "Nocturnal irritability of bladder; dribbling urine", 
-    "RespiratoryFrequent yawning when walking in open air", 
-    "Profuse, fluent coryza in morning, with much cough and expectoration", 
-    "Influenza", 
-    "Gags when clearing the throat in morning", 
-    "Whooping-cough only in day-time, with profuse lachrymation", 
-    "SkinFirst stage of measles; eye symptoms marked", 
-    "Consequence of external injuries"
-  ], 
+  "name": "Euphrasia", 
+  "Relationship": "Antidotes: Camph.; Puls. Compare: Hydrophyllum-Burr-flower - (catarrhal inflammation of eyes; hot lachrymation with itching, swollen lids, dull headache; also for effects of Poison-Oak); Cepa; Ars.; Gels.; Kali-hyd.; Sabadilla.", 
   "symptoms": {
-    "Slee": [
-      "Yawning when walking in open air", 
+    "Eyes": [
+      "Ptosis", 
+      "Discharge thick and excoriating", 
+      "Pressure in eyes", 
+      "Burning and swelling of the lids", 
+      "Rheumatic iritis", 
+      "THE EYES WATER ALL THE TIME", 
+      "Frequent inclination to blink", 
+      "Free discharge of acrid matter", 
+      "CATARRHAL conjunctivitis; discharge of acrid matter", 
+      "Little blister on cornea", 
+      "Acrid lachrymation; bland coryza", 
+      "Opacities", 
+      "Sticky mucus on cornea; must wink to remove it"
+    ], 
+    "Respiratory": [
+      "Frequent yawning when walking in open air", 
+      "Profuse, fluent coryza in morning, with much cough and expectoration", 
+      "Influenza", 
+      "Whooping-cough only in day-time, with profuse lachrymation", 
+      "Gags when clearing the throat in morning"
+    ], 
+    "Stomach": [
+      "Nausea and bitterness after smoking", 
+      "Vomiting from hawking mucus"
+    ], 
+    "Modalities": [
+      "Worse: in evening", 
+      "Worse: indoors", 
+      "Worse: warmth; south winds", 
+      "Worse: from light", 
+      "Better: from coffee", 
+      "Better: in dark"
+    ], 
+    "Head": [
+      "CATARRHAL HEADACHE, with profuse discharge from eyes and nose", 
+      "Bursting headache with dazzling of eyes"
+    ], 
+    "Face": [
+      "Redness and heat of cheeks", 
+      "Stiffness of upper lip"
+    ], 
+    "Fever": [
+      "Chilly and cold", 
+      "Sear mostly on chest, at night during sleep"
+    ], 
+    "Sleep": [
       "Sleepy during day", 
-      "FeverChilly and cold", 
-      "Sear mostly on chest, at night during sleep", 
-      "ModalitiesWORSE, in evening, indoors, warmth; south winds, from light", 
-      "AmeliorationBETTER, from coffee, in dark", 
-      "RelationshipAntidotes: Camph", 
-      "; Puls", 
-      "Compare: Hydrophyllum-Burr-flower - ; Cepa; Ars", 
-      "; Gels", 
-      "; Kali-hyd", 
-      "; Sabadilla", 
-      "DoseThird to sixth potency"
+      "Yawning when walking in open air"
+    ], 
+    "Female": [
+      "Menses PAINFUL; FLOW LASTS ONLY AN HOUR OR DAY; late, scanty, short", 
+      "AMENORRHOEA, WITH OPHTHALMIA"
+    ], 
+    "Skin": [
+      "Consequence of external injuries", 
+      "First stage of measles; eye symptoms marked"
+    ], 
+    "Rectum": [
+      "CONSTIPATION", 
+      "Dysentery", 
+      "Prolapse ani", 
+      "Pressure down in anus when sitting"
+    ], 
+    "Male": [
+      "Condyloma and sycotic excrescences", 
+      "Nocturnal irritability of bladder; dribbling urine", 
+      "Spasmodic retraction of genitals, with pressure above pubic bone", 
+      "PROSTATITIS"
+    ], 
+    "Nose": [
+      "PROFUSE, FLUENT CORYZA, with violent cough and abundant expectoration"
     ]
   }, 
-  "name": "Euphrasia"
+  "details": "Manifests itself in inflaming the conjunctival membrane especially, producing profuse lachrymation. Patient is better in open air. Catarrhal affections of mucous membranes especially of eyes and nose. Profuse ACRID lachrymation and bland coryza; worse, evening. Hawking up of offensive mucus.", 
+  "Natural History": [
+    "Eye bright"
+  ], 
+  "dosage": "Third to sixth potency."
 }

@@ -11,23 +11,23 @@
     ], 
     "Stool": [
       "Diarrhea, profuse, greenish mucus", 
-      "Urine Section", 
-      "Albuminous, scanty, suppressed", 
       "Hematuria, diuresis", 
-      "Necleo-albumin and bile, high phosphoric acid, with toatl solids"
+      "Urine Section", 
+      "Necleo-albumin and bile, high phosphoric acid, with toatl solids", 
+      "Albuminous, scanty, suppressed"
     ], 
     "Mouth": [
       "Profuse secretion of acid saliva", 
+      "Fetor", 
       "Whole mucous surface red, tumid, with gray based ulcers", 
       "Tongue swollen", 
-      "Stomatitis- aphthous and  gangrenous", 
-      "Fetor", 
-      "Mercurial stomatitis"
+      "Mercurial stomatitis", 
+      "Stomatitis- aphthous and  gangrenous"
     ], 
     "Skin": [
+      "Discolored, chocolate tint", 
       "Jaundice", 
-      "Itching miliary or papular eruptions", 
-      "Discolored, chocolate tint"
+      "Itching miliary or papular eruptions"
     ]
   }, 
   "name": "Kali chloricum", 

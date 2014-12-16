@@ -3,82 +3,83 @@
   "Relationship": "Compare: KINO - from PTEROCARPUS (Hemoptysis and hemorrhage from intestines). EUCALYPTUS ROSTRATA (offensive dark discharge from right ear). CROTALUS; ALUMEN; CARBO; ARS.; LACH.", 
   "symptoms": {
     "Eyes": [
+      "Large red fiery spots before eyes", 
       "Aversion to light; letters run together when reading", 
-      "Veil before eyes", 
-      "Burning in lids", 
       "Bloated around the eyes in the morning", 
-      "Large red fiery spots before eyes"
+      "Veil before eyes", 
+      "Burning in lids"
     ], 
     "Fever": [
-      "Cold perspiration all over", 
-      "Typhoid when ulcers have eaten into tissues, and black blood is discharged"
+      "Typhoid when ulcers have eaten into tissues, and black blood is discharged", 
+      "Cold perspiration all over"
     ], 
     "Stomach": [
-      "FEELS COLD", 
       "Sensation as if food turned like a cork-screw on swallowing; desire for sweetened buttermilk", 
+      "FEELS COLD", 
       "Acidity after every mouthful"
     ], 
     "Modalities": [], 
     "Mind": [
-      "Depressed; imagines he hears someone talking; dreads to be left alone", 
-      "FEAR OF RAIN", 
       "Can speak, but cannot understand speech", 
-      "Fears apoplexy"
+      "Fears apoplexy", 
+      "Depressed; imagines he hears someone talking; dreads to be left alone", 
+      "FEAR OF RAIN"
     ], 
     "Head": [
       "Violent headache, extending from forehead TO OCCIPUT; first one eye, then the other", 
-      "Pain in ears", 
       "Vertigo with tendency to fall forward", 
-      "Weight and pain in forehead", 
-      "Fullness in head"
+      "Fullness in head", 
+      "Pain in ears", 
+      "Weight and pain in forehead"
     ], 
     "Chest": [
-      "COLDNESS IN CHEST AFTER DRINKING", 
       "Hemorrhage from lungs black as ink and watery; stitches in APEX OF RIGHT LUNG", 
       "Fainting caused by stooping", 
+      "Sensation of a sponge in oesophagus", 
       "Oppression in going upstairs", 
       "Peeling off of skin from palms and fingers", 
       "COUGH, with terrible pain through lungs", 
       "Worse right and expectoration of black blood", 
-      "Sensation of a sponge in oesophagus"
+      "COLDNESS IN CHEST AFTER DRINKING"
     ], 
-    "Nose": [
-      "CHRONIC NASAL CATARRH, WITH FETID ODOR AND GREENISH CRUSTS", 
-      "Ozaena; yellowish-green discharge", 
-      "Mucous membrane wrinkled; nostrils plugged up with dry mucus", 
-      "Pains from nose to ears on swallowing", 
-      "NOSTRILS STOPPED UP", 
-      "Nasal bleeding", 
-      "Pain at root of nose", 
-      "Eruption about nose"
-    ], 
-    "Female": [
-      "Dysmenorrhoea, with black blood", 
-      "Discharge of black blood between menses", 
-      "Itching of vulva and vagina", 
-      "Sleep", 
+    "Sleep": [
       "Dreams about dead persons"
     ], 
+    "Nose": [
+      "Pain at root of nose", 
+      "Ozaena; yellowish-green discharge", 
+      "Mucous membrane wrinkled; nostrils plugged up with dry mucus", 
+      "CHRONIC NASAL CATARRH, WITH FETID ODOR AND GREENISH CRUSTS", 
+      "Pains from nose to ears on swallowing", 
+      "Eruption about nose", 
+      "NOSTRILS STOPPED UP", 
+      "Nasal bleeding"
+    ], 
+    "Female": [
+      "Discharge of black blood between menses", 
+      "Itching of vulva and vagina", 
+      "Dysmenorrhoea, with black blood"
+    ], 
     "Skin": [
-      "Glands and skin of axillae affected; itching with tetter", 
       "Tips of fingers peel off", 
-      "Itching eruption in axillae"
+      "Itching eruption in axillae", 
+      "Glands and skin of axillae affected; itching with tetter"
     ], 
     "Throat": [
-      "Thick, very offensive, dry, greenish-yellow crusts upon the posterior pharyngeal wall and extremely foul breath", 
-      "Spasmodic contraction of ESOPHAGUS; passage of fluids arrested"
+      "Spasmodic contraction of ESOPHAGUS; passage of fluids arrested", 
+      "Thick, very offensive, dry, greenish-yellow crusts upon the posterior pharyngeal wall and extremely foul breath"
     ], 
     "Extremities": [
-      "Icy cold feet", 
+      "Knee-joints feel sprained", 
       "Vesicular eruptions on feet", 
       "Arms and hands swollen bluish", 
-      "Knee-joints feel sprained", 
+      "Icy cold feet", 
       "Pricking under the nails"
     ], 
     "Ears": [
-      "Cerumen BLACK and hard, with difficult hearing, or serous GREENISH discharge, offensive; buzzing, and illusion of hearing", 
+      "Intolerable itching in ear", 
       "Sudden attack of nightly deafness, with roaring and crackling in ears, cracking in ears on swallowing", 
-      "Intolerable itching in ear"
+      "Cerumen BLACK and hard, with difficult hearing, or serous GREENISH discharge, offensive; buzzing, and illusion of hearing"
     ]
   }, 
   "details": "Similar to snake-poisons generally. Has very marked BLACK DISCHARGES. COLD THINGS DISAGREE. Desire for sweetened buttermilk. Nausea and vomiting. Prostrating diarrhoea of consumption. Acidity of stomach, with faint feeling. Sudden pain in stomach. Spasm of oesophagus; pharynx constricted; food and liquids suddenly arrested, and then fall heavily into stomach. Spasms followed by paresis. COLD FEELING IN STOMACH. Fruits and ice-water lie very cold. RIGHT-SIDED PARALYSIS. Must have oscillatory motion. Rheumatic constitutions. Ear, nose and throat symptoms important.Preferable in otorrhoea and affections of right lung", 

@@ -8,26 +8,26 @@
       "Constriction and pain in region of heart, suffocating feeling, PALPITATION, oppression and throbbing and pain in back extending to arms"
     ], 
     "Head": [
-      "Violent rush of blood to head with vertigo", 
-      "Pain in head BETTER BY LYING ON PAINFUL SIDE", 
       "Weekly headache", 
-      "Benumbing headache mostly around ears"
+      "Pain in head BETTER BY LYING ON PAINFUL SIDE", 
+      "Benumbing headache mostly around ears", 
+      "Violent rush of blood to head with vertigo"
     ], 
     "Stomach": [
-      "Region of stomach distended", 
-      "Enlarged liver and spleen in children", 
       "Pancreatic disease; relieves burning pain in cancer of pancreas", 
       "Belching with saliva and beating of heart", 
-      "Urinary Organs", 
+      "Albuminuria, passes urine every hour", 
       "KIDNEY REGION SENSITIVE TO PRESSURE", 
-      "Albuminuria, passes urine every hour"
+      "Enlarged liver and spleen in children", 
+      "Urinary Organs", 
+      "Region of stomach distended"
     ], 
     "Modalities": [], 
     "Mind": [
-      "Anger, anxiety", 
       "Desire for company", 
-      "Confusion, delusions, illusions", 
-      "Great depression"
+      "Great depression", 
+      "Anger, anxiety", 
+      "Confusion, delusions, illusions"
     ], 
     "Back": [
       "Pain and stiffness near nape of neck", 
@@ -38,8 +38,8 @@
       "Cancer of uterus; burning pain in uterus and vagina"
     ], 
     "Extremities": [
-      "Removes inflammatory products in veins of lower extremities", 
-      "Weariness and lameness of lower limbs"
+      "Weariness and lameness of lower limbs", 
+      "Removes inflammatory products in veins of lower extremities"
     ]
   }, 
   "name": "Calcarea arsenica", 

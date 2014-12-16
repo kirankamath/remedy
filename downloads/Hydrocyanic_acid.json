@@ -3,47 +3,48 @@
   "Relationship": "Antidotes: AMMON.; CAMPH.; OPIUM.Compare: CICUTA; OENANTHE; CAMPH.; LAUROC.", 
   "symptoms": {
     "Heart": [
+      "Torturing pain in chest", 
       "Violent palpitation", 
       "Pulse, WEAK, IRREGULAR", 
-      "Cold extremities", 
-      "Torturing pain in chest", 
       "Angina pectoris", 
-      "Sleep", 
-      "Yawning, with shivering", 
-      "Irresistible drowsiness", 
-      "Vivid, incoherent dreams"
+      "Cold extremities"
     ], 
     "Head": [
-      "Violent stupefying headache", 
-      "Brain feels on fire", 
       "Pupils motionless or dilated", 
-      "Supraorbital neuralgia, with flushing on same side of face"
+      "Violent stupefying headache", 
+      "Supraorbital neuralgia, with flushing on same side of face", 
+      "Brain feels on fire"
     ], 
     "Respiratory": [
-      "Noisy and agitated breathing", 
+      "Paralysis of lungs", 
       "Dry, spasmodic, suffocative cough", 
+      "Noisy and agitated breathing", 
       "Asthma, with contraction of throat", 
       "Whooping-cough", 
-      "Paralysis of lungs", 
       "Marked cyanosis; venously congested lung"
     ], 
     "Stomach": [
       "Tongue cold", 
       "DRINK RUMBLES THROUGH THROAT AND STOMACH", 
-      "GASTRALGIA; worse when stomach is empty", 
       "GREAT SINKING AT PIT OF STOMACH", 
-      "Pulsative pain in precordial region"
+      "Pulsative pain in precordial region", 
+      "GASTRALGIA; worse when stomach is empty"
     ], 
     "Mind": [
-      "Unconscious", 
       "Wild delirium", 
       "Fear of imaginary troubles", 
-      "FEARS everything - horses, wagons, houses falling, etc"
+      "FEARS everything - horses, wagons, houses falling, etc.", 
+      "Unconscious"
     ], 
     "Face": [
-      "Jaws clenched in rigid spasm", 
+      "Pale, bluish lips", 
       "Froths at mouth", 
-      "Pale, bluish lips"
+      "Jaws clenched in rigid spasm"
+    ], 
+    "Sleep": [
+      "Vivid, incoherent dreams", 
+      "Yawning, with shivering", 
+      "Irresistible drowsiness"
     ]
   }, 
   "details": "One of the most toxic agents known. Convulsions and paralysis express the action of this remedy. Spasmodic constriction in larynx, feeling of suffocation, pain and tightness in chest, palpitation; pulse weak, irregular. SINGING SENSATION AT THE EPIGASTRIUM. Hysterical and epileptic convulsions. Cyanosis. Collapse, due to some pulmonary condition not a cardiac collapse. Catalepsy. Cholera. Stage of collapse. (ARS.; VERAT.) Coldness. Tetanus narcolepsy.", 

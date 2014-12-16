@@ -4,62 +4,63 @@
   ], 
   "symptoms": {
     "Heart": [
-      "Sensation as if drops were falling from the heart", 
       "Painful strokes and tension with palpitation", 
       "Pericarditis", 
-      "Sleep", 
-      "Frightful dreams", 
-      "More tired in morning", 
-      "Sleepy during day"
+      "Sensation as if drops were falling from the heart"
     ], 
     "Eyes": [
-      "OPACITY OF CORNEA", 
-      "Cataract from nervous disturbances, abuse of alcohol and tobacco; patient feels deeply approaching blindness", 
-      "Misty sight", 
-      "Pressure from back of eyes, forward", 
-      "Gonorrheal ophthalmia", 
-      "Eyeballs ache", 
+      "Sexual overexcitement", 
       "Scrofulous eye troubles", 
-      "Urine Section", 
-      "Retained, with obstinate constipation", 
-      "Painful urging", 
-      "Micturition in split stream", 
-      "Stitches in urethra", 
-      "Inflamed sensation, with soreness to touch", 
-      "BURNING WHILE URINATING, EXTENDING TO BLADDER", 
-      "Urine scalding, with spasmodic closure of sphincter", 
+      "Pressure from back of eyes, forward", 
       "Gonorrhea, acute stage; urethra very sensitive", 
       "Walks with legs apart", 
+      "BURNING WHILE URINATING, EXTENDING TO BLADDER", 
+      "Misty sight", 
+      "Urine Section", 
+      "Painful urging", 
       "Dragging in testicles", 
-      "Zigzag pain along urethra", 
-      "Sexual overexcitement", 
       "Urethral caruncle , phimosis", 
+      "Zigzag pain along urethra", 
+      "Urine scalding, with spasmodic closure of sphincter", 
+      "Eyeballs ache", 
+      "Inflamed sensation, with soreness to touch", 
+      "Gonorrheal ophthalmia", 
+      "Cataract from nervous disturbances, abuse of alcohol and tobacco; patient feels deeply approaching blindness", 
+      "Micturition in split stream", 
+      "Stitches in urethra", 
+      "Retained, with obstinate constipation", 
+      "OPACITY OF CORNEA", 
       "Stoppage of urethra by mucus and pus"
     ], 
     "Respiratory": [
-      "Oppression of breathing and palpitation; MUST STAND UP", 
       "Weight on chest; rattling wheezing breathing", 
-      "Cough, with green viscid, also bloody, expectoration"
+      "Cough, with green viscid, also bloody, expectoration", 
+      "Oppression of breathing and palpitation; MUST STAND UP"
     ], 
     "Modalities": [], 
     "Head": [
+      "Pressure on root of nose", 
       "Lectophobia", 
-      "Vertigo; sensation of dropping water on head", 
-      "Pressure on root of nose"
+      "Vertigo; sensation of dropping water on head"
+    ], 
+    "Sleep": [
+      "Sleepy during day", 
+      "Frightful dreams", 
+      "More tired in morning"
     ], 
     "Female": [
       "Amenorrhoea when physical powers have been overtaxed, also with constipation"
     ], 
     "Extremities": [
       "Contraction of fingers after a sprain", 
-      "Dislocation of patella on going upstairs", 
-      "Feet feel heavy on going upstairs", 
       "Paralytic tearing pains", 
+      "Feet feel heavy on going upstairs", 
+      "Dislocation of patella on going upstairs", 
       "Affections of the ball of the foot and under part of toes"
     ], 
     "dosage": ""
   }, 
   "name": "Cannibis sativa", 
-  "Relationship": "Antidotes: Camph.; Lemon juice.Compare: Hedysarum - Brazilian Burdock - (Gonorrhea and inflammation of penis); Canth.; Apis; Copaiva; Thuj.; Kal. nit.", 
+  "Relationship": "Compare: Hedysarum - Brazilian Burdock - (Gonorrhea and inflammation of penis); Canth.; Apis; Copaiva; Thuj.; Kal. nit.Antidotes: Camph.; Lemon juice.", 
   "details": "Seems to affect especially the urinary, sexual, and respiratory organs. It has characteristic sensations as of dropping water. Great fatigue, as from over-exertion; weary after meals. Choking in swallowing; things go down the wrong way. STUTTERING. Confusion of thought and speech. Wavering speech, hasty, incoherent."
 }

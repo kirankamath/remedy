@@ -1,18 +1,18 @@
 {
   "name": "Magnesia phosphorica", 
-  "Relationship": "Compare: KALI-PHOS.; COLOCY.; SILICA; ZINC.; DIOS.Antidotes: BELL.; GELS.; LACH.", 
+  "Relationship": "Antidotes: BELL.; GELS.; LACH.Compare: KALI-PHOS.; COLOCY.; SILICA; ZINC.; DIOS.", 
   "symptoms": {
     "Heart": [
-      "ANGINA PECTORIS", 
+      "Constricting pains around heart", 
       "Nervous spasmodic palpitation", 
-      "Constricting pains around heart"
+      "ANGINA PECTORIS"
     ], 
     "Eyes": [
-      "Supraorbital pains; worse, right side; relieved by warmth applied externally", 
       "Increased lachrymation", 
-      "Twitching of lids", 
+      "Eyes hot, tired, vision blurred, colored lights before eyes", 
       "Nystagmus, strabismus, ptosis", 
-      "Eyes hot, tired, vision blurred, colored lights before eyes"
+      "Supraorbital pains; worse, right side; relieved by warmth applied externally", 
+      "Twitching of lids"
     ], 
     "Fever": [
       "CHILLINESS after dinner, in evening", 
@@ -23,22 +23,22 @@
       "Thirst for very cold drinks"
     ], 
     "Female": [
-      "MENSTRUAL COLIC", 
-      "MEMBRANOUS DYSMENORRHOEA", 
-      "Menses too early, dark, stringy", 
-      "Swelling of external parts", 
       "Ovarian neuralgia", 
-      "Vaginismus"
+      "Vaginismus", 
+      "MEMBRANOUS DYSMENORRHOEA", 
+      "MENSTRUAL COLIC", 
+      "Swelling of external parts", 
+      "Menses too early, dark, stringy"
     ], 
     "Modalities": [
-      "Worse: right side", 
-      "Worse: COLD", 
-      "Worse: touch", 
-      "Worse: night", 
       "Better: warmth", 
       "Better: bending double", 
       "Better: pressure", 
-      "Better: friction"
+      "Better: friction", 
+      "Worse: right side", 
+      "Worse: COLD", 
+      "Worse: touch", 
+      "Worse: night"
     ], 
     "Mind": [
       "Laments all the time about the pain", 
@@ -46,45 +46,45 @@
       "Sleepless on account of indigestion"
     ], 
     "Abdomen": [
+      "Constipation in rheumatic subjects due to flatulence and indigestion", 
       "ENTERALGIA, relieved by pressure", 
-      "FLATULENT COLIC, FORCING PATIENT TO BEND DOUBLE; RELIEVED BY RUBBING, WARMTH, PRESSURE; ACCOMPANIED WITH BELCHING OF GAS, WHICH GIVES NO RELIEF", 
       "BLOATED, FULL SENSATION IN ABDOMEN; MUST LOOSEN CLOTHING, WALK ABOUT, AND CONSTANTLY PASS FLATUS", 
-      "Constipation in rheumatic subjects due to flatulence and indigestion"
+      "FLATULENT COLIC, FORCING PATIENT TO BEND DOUBLE; RELIEVED BY RUBBING, WARMTH, PRESSURE; ACCOMPANIED WITH BELCHING OF GAS, WHICH GIVES NO RELIEF"
     ], 
     "Respiratory": [
       "Asthmatic oppression of chest", 
       "Dry, tickling cough", 
-      "SPASMODIC COUGH, with difficulty in lying down", 
-      "WHOOPING-COUGH", 
       "Voice harsh, larynx sore and raw", 
-      "Intercostal neuralgia"
+      "Intercostal neuralgia", 
+      "SPASMODIC COUGH, with difficulty in lying down", 
+      "WHOOPING-COUGH"
     ], 
     "Mouth": [
-      "TOOTHACHE; BETTER BY HEAT AND HOT LIQUIDS", 
-      "Ulceration of teeth, with swelling of glands of face, throat and neck, AND SWELLING of tongue", 
+      "Spasms without febrile symptoms", 
       "COMPLAINTS OF TEETHING CHILDREN", 
-      "Spasms without febrile symptoms"
+      "Ulceration of teeth, with swelling of glands of face, throat and neck, AND SWELLING of tongue", 
+      "TOOTHACHE; BETTER BY HEAT AND HOT LIQUIDS"
     ], 
     "Head": [
       "Vertigo on moving, falls forward on closing eyes, better walking in open air", 
-      "Aches after mental labor, with chilliness; always better warmth", 
-      "Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head"
+      "Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head", 
+      "Aches after mental labor, with chilliness; always better warmth"
     ], 
     "Throat": [
       "Soreness and stiffness, especially right side; parts seem puffy, WITH CHILLINESS, and aching all over"
     ], 
     "Extremities": [
-      "Involuntary shaking of hands", 
-      "Paralysis agitans", 
-      "Cramps in calves", 
-      "Sciatica; feet very tender", 
-      "Darting pains", 
-      "Twitchings", 
       "CHORES", 
+      "Sciatica; feet very tender", 
+      "Involuntary shaking of hands", 
+      "Cramps in calves", 
+      "Twitchings", 
       "Writers' and players' cramp", 
-      "Tetanic spasms", 
+      "General muscular weakness", 
+      "Darting pains", 
+      "Paralysis agitans", 
       "Weakness in arms and hands, finger-tips stiff and numb", 
-      "General muscular weakness"
+      "Tetanic spasms"
     ], 
     "Ears": [
       "SEVERE NEURALGIC PAIN; worse behind right ear; worse, by going into cold air, and WASHING FACE AND NECK WITH COLD WATER"

@@ -1,18 +1,18 @@
 {
   "name": "Oleander", 
-  "Relationship": "Compare: CON.; NAT-M.; RHUS; CAUST.; LATHYR. Oleander contains Oleandrin and also Nerein which latter is said to be closely related if not identical with Digitalin. The pulse becomes slower, more regular, more powerful. DIURESIS; palpitation, oedema and dyspnoea of valvular disease, disappear.Antidotes: CAMPH.; SULPH.", 
+  "Relationship": "Antidotes: CAMPH.; SULPH.Compare: CON.; NAT-M.; RHUS; CAUST.; LATHYR. Oleander contains Oleandrin and also Nerein which latter is said to be closely related if not identical with Digitalin. The pulse becomes slower, more regular, more powerful. DIURESIS; palpitation, oedema and dyspnoea of valvular disease, disappear.", 
   "symptoms": {
     "Eyes": [
       "Can see objects only when looking at them sideways", 
-      "Eyes water on reading", 
+      "SENSATION AS IF EYES WERE DRAWN BACK INTO THE HEAD", 
       "Double vision", 
-      "SENSATION AS IF EYES WERE DRAWN BACK INTO THE HEAD"
+      "Eyes water on reading"
     ], 
     "Stomach": [
       "CANINE HUNGER, WITH HURRIED EATING, without appetite", 
-      "Thirst", 
-      "Empty belching", 
       "Vomiting of food; greenish water", 
+      "Empty belching", 
+      "Thirst", 
       "Throbbing in pit"
     ], 
     "Modalities": [
@@ -21,56 +21,56 @@
       "Worse: friction of clothes"
     ], 
     "Mind": [
-      "Memory weak; slow perception", 
-      "Melancholy, with obstinate constipation"
+      "Melancholy, with obstinate constipation", 
+      "Memory weak; slow perception"
     ], 
     "Abdomen": [
-      "Borborygmus, with profuse, fetid flatus", 
       "Gnawing around navel", 
-      "Ineffectual urging", 
+      "Burning pain in anus", 
       "UNDIGESTED FECES", 
+      "Ineffectual urging", 
       "STOOL PASSES WHEN EMITTING FLATUS", 
-      "Burning pain in anus"
+      "Borborygmus, with profuse, fetid flatus"
     ], 
     "Face": [
       "Pale, sunken, with blue rings around eyes"
     ], 
     "Chest": [
-      "Oppression as from a weight; asthmatic when lying down", 
-      "PALPITATION, with weakness and empty feeling in chest", 
+      "Obtuse stitches in chest", 
       "Dyspnoea", 
-      "Obtuse stitches in chest"
+      "PALPITATION, with weakness and empty feeling in chest", 
+      "Oppression as from a weight; asthmatic when lying down"
     ], 
     "Head": [
-      "Vertigo and diplopia, when looking down", 
-      "Vertigo, when looking fixedly at an object, and on rising in bed", 
-      "Pain in brain, as if head would burst", 
-      "Numb feeling", 
-      "Dull, unable to think", 
-      "Indolence", 
-      "ERUPTION ON SCALP", 
-      "Humid, fetid spots BEHIND EARS", 
       "and occiput, with red, rough, herpetic spots in front", 
+      "Numb feeling", 
+      "ERUPTION ON SCALP", 
+      "Dull, unable to think", 
+      "Vertigo and diplopia, when looking down", 
+      "Pain in brain, as if head would burst", 
+      "Vertigo, when looking fixedly at an object, and on rising in bed", 
+      "Indolence", 
+      "Humid, fetid spots BEHIND EARS", 
       "CORROSIVE ITCHING ON FOREHEAD AND EDGE OF HAIR; worse, heat"
     ], 
     "Skin": [
-      "Itching, scurfy pimples; herpes; sensitive and numb", 
-      "Nocturnal burning", 
       "VERY SENSITIVE SKIN; slightest friction causes soreness and chapping", 
       "VIOLENT ITCHING ERUPTION, BLEEDING, OOZING; want of perspiration", 
-      "Pruritus, especially of scalp, which is sensitive"
+      "Pruritus, especially of scalp, which is sensitive", 
+      "Nocturnal burning", 
+      "Itching, scurfy pimples; herpes; sensitive and numb"
     ], 
     "Extremities": [
       "WEAKNESS OF LOWER LIMBS", 
-      "Paralysis of legs and feet", 
-      "Want of animal heat in limbs", 
-      "Cold feet", 
       "Painless paralysis", 
-      "Constant cold feet", 
-      "Swelling, burning stiffness of fingers", 
       "Veins on hands swollen", 
-      "Oedema", 
-      "Stiffness of joints"
+      "Stiffness of joints", 
+      "Cold feet", 
+      "Swelling, burning stiffness of fingers", 
+      "Paralysis of legs and feet", 
+      "Constant cold feet", 
+      "Want of animal heat in limbs", 
+      "Oedema"
     ]
   }, 
   "details": "Has a marked action on the skin, heart and nervous system, producing and curing paralytic conditions with cramp-like contractions of upper extremities. Hemiplegia. Difficult articulation.", 

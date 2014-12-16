@@ -2,141 +2,142 @@
   "name": "Thuja occidentalis", 
   "Relationship": "Compare: (Hydrogenoid constitution; CALCAR.; SILICA; NAT-SULPH.; ARANEA; APIS; PULSAT.) CUPRESSUS AUSTRALIS (sharp, prickling pain; general feeling of warmth; rheumatism and gonorrhea). CUPRESSUS LAWSONIANA (acts like Thuja; TERRIBLE PAINS IN THE STOMACH). SPHINGURUS (falling out of hair from beard; pain in jaw-joint and zygoma); SIL.; MALAND. (vaccination); MEDORRH. (Suppressed gonorrhea); MERC.; CANNAB.; TEREBINTH.; JUNIPERUS; SABIN.; SIL.; CANTH.; CANNAB.; NIT-AC.; PULS.; ANT. TART.; ARBORIN is a non-alcoholic preparation of THUJA.Antidotes: MERC.; CAMPH.; SABIN. (Warts).Complementary: SABINA; ARS.; NAT-SULPH.; SILICA.", 
   "symptoms": {
+    "Female": [
+      "POLYPI; fleshy excrescences", 
+      "Ovaritis; worse left side, at every menstrual period", 
+      "Vagina VERY SENSITIVE", 
+      "Warty excrescences on vulva and perineum", 
+      "Profuse perspiration before menses", 
+      "Profuse leucorrhoea; thick, greenish", 
+      "Menses scanty, retarded", 
+      "Severe pain in left ovary and left inguinal region"
+    ], 
     "Eyes": [
-      "Ciliary neuralgia; iritis", 
-      "Eyelids agglutinated at night; dry, scaly", 
       "Styes and tarsal tumors", 
-      "Acute and subacute inflammation of sclera", 
-      "Sclera raised in patches, and looks bluish-red", 
       "Large, flat phlyctenules; INDOLENT", 
       "Recurring episcleritis", 
-      "Chronic scleritis"
+      "Eyelids agglutinated at night; dry, scaly", 
+      "Sclera raised in patches, and looks bluish-red", 
+      "Acute and subacute inflammation of sclera", 
+      "Chronic scleritis", 
+      "Ciliary neuralgia; iritis"
     ], 
     "Fever": [
-      "Chill, beginning in thighs", 
+      "Orgasm of blood in the evening, with throbbing in the blood vessels", 
       "Sweat ONLY ON UNCOVERED PARTS, or all over except head, when sleeping; profuse, sour, smelling like honey", 
-      "Orgasm of blood in the evening, with throbbing in the blood vessels"
+      "Chill, beginning in thighs"
     ], 
     "Stomach": [
       "Complete loss of appetite", 
-      "Dislike for fresh meat and potatoes", 
-      "Rancid eructations after fat food", 
-      "Cutting pain in epigastrium", 
       "Cannot eat onions", 
+      "Cutting pain in epigastrium", 
+      "Tea-drinking dyspepsia", 
       "Flatulence; pain after food; sinking sensation in epigastrium before food; thirst", 
-      "Tea-drinking dyspepsia"
-    ], 
-    "Female": [
-      "Vagina VERY SENSITIVE", 
-      "Warty excrescences on vulva and perineum", 
-      "Profuse leucorrhoea; thick, greenish", 
-      "Severe pain in left ovary and left inguinal region", 
-      "Menses scanty, retarded", 
-      "POLYPI; fleshy excrescences", 
-      "Ovaritis; worse left side, at every menstrual period", 
-      "Profuse perspiration before menses"
+      "Dislike for fresh meat and potatoes", 
+      "Rancid eructations after fat food"
     ], 
     "Modalities": [
+      "Better: left side; while drawing up a limb", 
       "Worse: at night", 
       "Worse: from heat of bed; at three AM and three PM", 
       "Worse: from cold", 
       "Worse: damp air; after breakfast; fat", 
-      "Worse: coffee; vaccination", 
-      "Better: left side; while drawing up a limb"
+      "Worse: coffee; vaccination"
     ], 
     "Mind": [
-      "FIXED IDEAS, as if a strange person were at his side; as if soul and body were separated; as if something alive in abdomen", 
-      "Emotional sensitiveness; music causes weeping and trembling"
+      "Emotional sensitiveness; music causes weeping and trembling", 
+      "FIXED IDEAS, as if a strange person were at his side; as if soul and body were separated; as if something alive in abdomen"
     ], 
     "Abdomen": [
-      "Distended; indurations in abdomen", 
-      "Chronic diarrhoea, worse after breakfast", 
-      "Discharges forcibly expelled; gurgling sound", 
-      "Brown spots", 
-      "FLATULENCE AND DISTENTION; PROTRUDING HERE AND THERE", 
-      "Rumbling and colic", 
       "Constipation, with violent rectal pain, causing stool to recede", 
-      "Piles swollen; pain worse sitting, with stitching, burning pains at the anus", 
-      "Anus fissured; painful to touch, with warts", 
-      "MOVEMENTS AS OF SOMETHING LIVING", 
-      ", without pain", 
-      "Urinary Organs", 
-      "Urethra swollen, inflamed", 
       "Urinary stream split and small", 
-      "Sensation of trickling after urinating", 
-      "Severe cutting AFTER", 
+      "Rumbling and colic", 
+      ", without pain", 
+      "Distended; indurations in abdomen", 
+      "FLATULENCE AND DISTENTION; PROTRUDING HERE AND THERE", 
+      "Paralysis sphincter vesicae", 
+      "MOVEMENTS AS OF SOMETHING LIVING", 
+      "Anus fissured; painful to touch, with warts", 
       "Frequent micturition accompanying pains", 
+      "Chronic diarrhoea, worse after breakfast", 
+      "Brown spots", 
+      "Urethra swollen, inflamed", 
+      "Discharges forcibly expelled; gurgling sound", 
       "Desire sudden and urgent, but cannot be controlled", 
-      "Paralysis sphincter vesicae"
+      "Severe cutting AFTER", 
+      "Piles swollen; pain worse sitting, with stitching, burning pains at the anus", 
+      "Urinary Organs", 
+      "Sensation of trickling after urinating"
     ], 
     "Respiratory": [
-      "Dry, hacking cough in afternoon, with pain in pit of stomach", 
       "Stitches in chest; worse, cold drinks", 
       "ASTHMA IN CHILDREN", 
-      "Papilloma of larynx", 
-      "Chronic laryngitis"
+      "Dry, hacking cough in afternoon, with pain in pit of stomach", 
+      "Chronic laryngitis", 
+      "Papilloma of larynx"
     ], 
     "Mouth": [
-      "Tip of tongue very painful", 
-      "WHITE BLISTERS ON SIDE CLOSE TO ROOT, PAINFULLY SORE", 
       "Teeth decay next to gums; very sensitive; gums retract", 
-      "Drinks fall audibly into stomach", 
+      "Tip of tongue very painful", 
       "Ranula; varicose veins on tongue and mouth", 
+      "WHITE BLISTERS ON SIDE CLOSE TO ROOT, PAINFULLY SORE", 
+      "Drinks fall audibly into stomach", 
       "Pyorrhoea alveolaris"
     ], 
     "Nose": [
-      "Chronic catarrh; thick, green mucus; blood and pus", 
-      "On blowing nose, pain in teeth", 
       "Ulceration within the nostrils", 
+      "Chronic catarrh; thick, green mucus; blood and pus", 
+      "Painful pressure at root", 
       "Dryness of nasal cavities", 
-      "Painful pressure at root"
+      "On blowing nose, pain in teeth"
     ], 
     "Head": [
-      "Pain as if pierced by a nail", 
+      "Greasy skin of face", 
       "Neuralgia from tea", 
-      "Left-sided headache", 
       "White, scaly dandruff; hair dry and falling out", 
-      "Greasy skin of face"
+      "Left-sided headache", 
+      "Pain as if pierced by a nail"
     ], 
     "Skin": [
+      "Glandular enlargement", 
       "Polypi, tubercles, WARTS epithelioma, Neva, carbuncles; ulcers, especially in ano-genital region", 
       "Freckles and blotches", 
-      "Perspiration sweetish, and strong", 
-      "Dry skin, with brown spots", 
-      "Zona; herpetic eruptions", 
-      "Tearing pains in glands", 
-      "Glandular enlargement", 
-      "Nails crippled; brittle and soft", 
-      "ERUPTIONS ONLY ON COVERED PARTS; worse after scratching", 
-      "Very sensitive to touch", 
       "Coldness of one side", 
+      "Dry skin, with brown spots", 
+      "Tearing pains in glands", 
+      "Very sensitive to touch", 
       "Sarcoma; polypi", 
-      "BROWN SPOTS ON HANDS AND ARMS", 
-      "Sleep", 
+      "ERUPTIONS ONLY ON COVERED PARTS; worse after scratching", 
+      "Perspiration sweetish, and strong", 
+      "Nails crippled; brittle and soft", 
+      "Zona; herpetic eruptions", 
+      "BROWN SPOTS ON HANDS AND ARMS"
+    ], 
+    "Sleep": [
       "Persistent insomnia"
     ], 
     "Extremities": [
-      "When walking, limbs feel as if made of wood or glass, and would break easily", 
       "Tips of fingers swollen, red, feel dead", 
-      "Muscular twitchings, weakness and trembling", 
       "Cracking in joints", 
-      "Pain in heels and tendo-achilles", 
       "Nails brittle", 
-      "Ingrowing toe nail"
+      "Muscular twitchings, weakness and trembling", 
+      "When walking, limbs feel as if made of wood or glass, and would break easily", 
+      "Ingrowing toe nail", 
+      "Pain in heels and tendo-achilles"
     ], 
     "Male": [
       "Inflammation of prepuce and glans; pain in penis", 
       "Balanitis", 
-      "GONORRHEAL RHEUMATISM", 
-      "GONORRHEA", 
-      "Chronic induration of testicles", 
       "Pain and burning felt near neck of bladder, with frequent and urgent desire to urinate", 
-      "Prostatic enlargement"
+      "Chronic induration of testicles", 
+      "GONORRHEA", 
+      "Prostatic enlargement", 
+      "GONORRHEAL RHEUMATISM"
     ], 
     "Ears": [
       "Chronic otitis; discharge purulent", 
-      "Creaking when swallowing", 
-      "Polypi"
+      "Polypi", 
+      "Creaking when swallowing"
     ]
   }, 
   "details": "Acts on skin, blood, gastrointestinal tract, kidneys, and brain. Its relation to the production of pathological vegetations condylomata, warty excrescences, spongy tumors is very important. Moist mucous tubercles. Bleeding fungus growths. Naevus. Excess of venosity.The main action of Thuja is on the skin and genitourinary organs, producing conditions that correspond with Hahnemann's sycotic dyscrasia, whose chief manifestation is the formation of wart-like excrescences upon mucous and cutaneous surfaces - fig-warts and condylomata. Has a specific antibacterial action, as in gonorrhea and vaccination. Sycotic pains, i.e., tearing in muscles and joints, worse at rest, better in dry weather, worse damp humid atmosphere; lameness. HYDROGENOID CONSTITUTIONS, whose blood is morbidly hydroscopic, so that damp air and water are inimical. Complaints from moonlight. RAPID EXHAUSTION AND EMACIATION. Left-sided and chilly medicine. Variola, aborts the pustule and prevents the suppurating fever. VACCINOSIS, viz., inveterable skin troubles, neuralgia, etc.", 

@@ -7,18 +7,13 @@
     "Eyes": [
       "Distressing photophobia", 
       "Spots before eyes", 
-      "Stitches in eyebrow", 
-      "Sore eyeballs"
+      "Sore eyeballs", 
+      "Stitches in eyebrow"
     ], 
     "Respiratory": [
+      "Asthma in scrofulous patients", 
       "Violent dyspnoea, oppression of chest with trembling", 
-      "Pain about bifurcation of trachea", 
-      "Asthma in scrofulous patients"
-    ], 
-    "Head": [
-      "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head", 
-      "Eczema behind ear", 
-      "Crusta lactea"
+      "Pain about bifurcation of trachea"
     ], 
     "Modalities": [], 
     "Abdomen": [
@@ -27,15 +22,21 @@
       "Pain in sigmoid flexure and RECTUM", 
       "PAINFUL bleeding, protruding PILES"
     ], 
-    "Skin": [
-      "Prickling, itching, worse back of hand", 
-      "Sleep", 
+    "Sleep": [
       "GREAT DROWSINESS; in morning and before and after meals with weariness"
     ], 
+    "Head": [
+      "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head", 
+      "Crusta lactea", 
+      "Eczema behind ear"
+    ], 
+    "Skin": [
+      "Prickling, itching, worse back of hand"
+    ], 
     "Ears": [
+      "Eczema around ear", 
       "Inflammation about auricle", 
-      "Deep ulcerated auricle", 
-      "Eczema around ear"
+      "Deep ulcerated auricle"
     ]
   }, 
   "name": "Scrophularia nodosa", 

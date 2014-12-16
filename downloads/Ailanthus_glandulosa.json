@@ -3,38 +3,39 @@
   "Relationship": "Antidotes: RHUS; NUX-V.Compare: AM-C.; BAPT.; ARN.; MUR-AC.; LACH.; RHUS-T.", 
   "symptoms": {
     "Head": [
-      "General stupor, with sighing", 
-      "Confused mind, mental depression", 
-      "HEADACHE, FRONTAL, with drowsiness", 
-      "Passive congestion headaches", 
-      "SUFFUSED, DILATED EYES; photophobia", 
       "Face dusky", 
-      "Thin, COPIOUS, ICHOROUS, bloody nasal discharge"
+      "HEADACHE, FRONTAL, with drowsiness", 
+      "Confused mind, mental depression", 
+      "Thin, COPIOUS, ICHOROUS, bloody nasal discharge", 
+      "Passive congestion headaches", 
+      "General stupor, with sighing", 
+      "SUFFUSED, DILATED EYES; photophobia"
     ], 
     "Respiratory": [
       "Hurried breathing, irregular", 
       "Dry, hacking cough", 
-      "Lungs sore and tired", 
-      "Sleep", 
+      "Lungs sore and tired"
+    ], 
+    "Throat": [
+      "Hoarse, croupy voice", 
+      "Dry, rough, scraping, choking feeling", 
+      "MUCH SWELLING, INTERNAL AND EXTERNAL", 
+      "TEETH COVERED WITH SORDES", 
+      "Inflamed, edematous, dusky red", 
+      "TONGUE DRY AND BROWN", 
+      "NECK TENDER AND SWOLLEN", 
+      "PAIN IN SWALLOWING extends to the ears"
+    ], 
+    "Sleep": [
       "Drowsy, restless", 
       "Heavy, disturbed, unrefreshing"
     ], 
     "Skin": [
-      "Miliary, livid rash, returns annually", 
       "Large blisters filled with dark serum", 
+      "Raynaud's disease", 
       "IRREGULAR, PATCHY, LIVID ERUPTION, disappearing on pressure", 
-      "Cold", 
-      "Raynaud's disease"
-    ], 
-    "Throat": [
-      "Inflamed, edematous, dusky red", 
-      "MUCH SWELLING, INTERNAL AND EXTERNAL", 
-      "Dry, rough, scraping, choking feeling", 
-      "NECK TENDER AND SWOLLEN", 
-      "Hoarse, croupy voice", 
-      "TONGUE DRY AND BROWN", 
-      "TEETH COVERED WITH SORDES", 
-      "PAIN IN SWALLOWING extends to the ears"
+      "Miliary, livid rash, returns annually", 
+      "Cold"
     ]
   }, 
   "details": "This remedy shows by its peculiar skin symptoms its pronounced power of disorganizing the blood, causing conditions we meet with in low fevers, low types of eruptive diseases, diphtheria, FOLLICULAR TONSILLITIS, Streptococcus infection. Hemorrhagic diathesis, etc. THE SKIN APPEARS LIVID OR PURPLISH; face dark as mahogany, hot; sordes; throat swollen, purple, livid; semi-conscious, delirious; weak pulse, general torpor and prostration. Symptoms remarkably alike to malignant scarlatina. Diarrhoea, dysentery and GREAT WEAKNESS are very marked ADYNAMIA characterizes all its conditions. Lividity, stupor and malignancy. Mucous membranes hemorrhagic and ulcerative (LACH. ARS.)", 

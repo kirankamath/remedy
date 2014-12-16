@@ -1,23 +1,24 @@
 {
   "name": "Lupulus humulus", 
-  "Relationship": "Antidotes: COFFEA, VINEGAR.Compare: NUX; URTICA; CANNAB.", 
+  "Relationship": "Compare: NUX; URTICA; CANNAB.Antidotes: COFFEA, VINEGAR.", 
   "symptoms": {
     "Head": [
-      "Morbid vigilance", 
-      "Highly excited", 
       "Dull, heavy headache with dizziness", 
+      "Highly excited", 
       "Drawing and twitching in every muscle", 
-      "Sleep", 
+      "Morbid vigilance"
+    ], 
+    "Sleep": [
       "DROWSY during the day", 
       "Sopor"
     ], 
     "Skin": [
-      "Scarlatina-like eruption on face", 
-      "Feels like insects crawling under skin; feels chapped, skin peels"
+      "Feels like insects crawling under skin; feels chapped, skin peels", 
+      "Scarlatina-like eruption on face"
     ], 
     "Male": [
-      "Painful erections", 
       "Emissions, DEPENDING ON SEXUAL WEAKNESS AND AFTER ONANISM", 
+      "Painful erections", 
       "Spermatorrhoea"
     ]
   }, 

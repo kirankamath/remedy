@@ -5,9 +5,8 @@
   "details": "Is more irritating than others of this botanical family, as seen in the skin symptoms. BORING, GNAWING PAIN very marked. PEMPHIGUS. Periodical complaints. Fainting with pain in stomach.", 
   "symptoms": {
     "Head": [
-      "Gnawing in one spot left of vertex", 
-      "Frightful dreams about corpses, serpents, battles, etc", 
-      "Fluent coryza, with sneezing and burning micturition"
+      "Frightful dreams about corpses, serpents, battles, etc. Fluent coryza, with sneezing and burning micturition", 
+      "Gnawing in one spot left of vertex"
     ], 
     "Abdomen": [
       "Sensation of a plug behind umbilicus", 
@@ -15,20 +14,20 @@
       "Pressure as of a plug behind right false ribs; worse, deep inspiration"
     ], 
     "Chest": [
-      "Integument sensitive", 
       "Bruised pain and weakness in the chest every evening", 
-      "SORE BURNING BEHIND XIPHOID CARTILAGE"
+      "SORE BURNING BEHIND XIPHOID CARTILAGE", 
+      "Integument sensitive"
     ], 
     "Mouth": [
-      "Teeth and gums sensitive", 
       "TONGUE MAPPED", 
       "Denuded patches", 
-      "Mouth sore and raw", 
-      "BURNING AND RAWNESS OF TONGUE"
+      "Teeth and gums sensitive", 
+      "BURNING AND RAWNESS OF TONGUE", 
+      "Mouth sore and raw"
     ], 
     "Skin": [
-      "VESICULAR ERUPTION, WITH TENDENCY TO FORM LARGE BLISTERS", 
-      "ACRID EXUDATION, WHICH MAKES SURROUNDING PARTS SORE"
+      "ACRID EXUDATION, WHICH MAKES SURROUNDING PARTS SORE", 
+      "VESICULAR ERUPTION, WITH TENDENCY TO FORM LARGE BLISTERS"
     ], 
     "Extremities": [
       "BORING PAIN", 

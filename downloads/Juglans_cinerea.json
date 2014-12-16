@@ -3,11 +3,11 @@
   "Relationship": "Compare: JUGLANDIN (duodenal catarrh; bilious diarrhoea); CHELIDON.; BRYON.; IRIS.", 
   "symptoms": {
     "Head": [
-      "Dull, full head", 
+      "Pustules on lids and around eyes", 
       "Eruption on scalp", 
-      "SHARP, OCCIPITAL HEADACHE", 
       "Head feels enlarged", 
-      "Pustules on lids and around eyes"
+      "SHARP, OCCIPITAL HEADACHE", 
+      "Dull, full head"
     ], 
     "Stomach": [
       "Atonic dyspepsia with much eructations and flatulent distention", 
@@ -21,8 +21,8 @@
       "Worse: walking"
     ], 
     "Stool": [
-      "Yellowish-green, with tenesmus and burning at anus", 
-      "Camp diarrhoea"
+      "Camp diarrhoea", 
+      "Yellowish-green, with tenesmus and burning at anus"
     ], 
     "Back": [
       "Muscles of neck rigid, lame", 
@@ -30,22 +30,22 @@
       "Pain in lumbar vertebrae"
     ], 
     "Mouth": [
-      "Acrid feeling in mouth and throat", 
+      "Dryness of root of tongue and fauces", 
       "Soreness in region of tonsils externally", 
-      "Dryness of root of tongue and fauces"
+      "Acrid feeling in mouth and throat"
     ], 
     "Nose": [
-      "Tingling in nose; sneezing", 
       "Coryza, preceded by PAIN UNDER STERNUM, with threatening suffocation", 
-      "Later, copious, bland, thick mucous discharge"
+      "Later, copious, bland, thick mucous discharge", 
+      "Tingling in nose; sneezing"
     ], 
     "Skin": [
-      "Red, like flush of scarlatina", 
-      "Jaundice, with pain about liver and right scapula", 
-      "ITCHING and prickling when heated", 
-      "PUSTULES", 
+      "Erythema and erysipelatous redness", 
       "Eczema, especially on lower extremities, sacrum and hands", 
-      "Erythema and erysipelatous redness"
+      "Red, like flush of scarlatina", 
+      "PUSTULES", 
+      "Jaundice, with pain about liver and right scapula", 
+      "ITCHING and prickling when heated"
     ]
   }, 
   "details": "A faulty elimination that produces jaundice and various skin eruptions, is pictured by this drug. The sharp, OCCIPITAL HEADACHE, usually associated with liver disturbance, is very characteristic. Pain in chest, axilla and scapula, with suffocative sensation. Feeling as if all internal organs were too large, especially those of left side. Cholelithiasis.", 

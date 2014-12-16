@@ -4,51 +4,50 @@
   ], 
   "symptoms": {
     "Head": [
-      "Feels very large; violent pain as if parietal bones were forced apart; worse stooping", 
       "Eyes hot and painful", 
-      "Deep-seated frontal headache with sever pain back of eyeballs", 
-      "Pain aggravated by breathing cold air through nose"
+      "Pain aggravated by breathing cold air through nose", 
+      "Feels very large; violent pain as if parietal bones were forced apart; worse stooping", 
+      "Deep-seated frontal headache with sever pain back of eyeballs"
     ], 
     "Respiratory": [
       "Hawking of profuse mucus", 
+      "Inspired air feels cold", 
+      "Cough with great sensitiveness of air-passages; FEEL COLD ON DEEP INSPIRATION", 
       "Throat very sensitive, ESPECIALLY TO AIR", 
       "Profuse, nasal catarrh", 
-      "Inspired air feels cold", 
-      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES", 
+      "Feels suffocated and greatly exhausted after whooping-cough", 
       "Dry, SPASMODIC, suffocative cough; very rapid cough, short, barking", 
-      "Cough with great sensitiveness of air-passages; FEEL COLD ON DEEP INSPIRATION", 
       "Continuous hysterical cough", 
-      "Feels suffocated and greatly exhausted after whooping-cough"
+      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES"
     ], 
     "Modalities": [], 
     "Mouth": [
-      "Food tastes like sawdust", 
       "Bread tastes like straw", 
+      "Food tastes like sawdust", 
       "Beer tastes sweet", 
       "Pain in articulation of left lower jaw", 
       "Craves salt"
     ], 
     "Nose": [
-      "Odors of smoke, onions, etc", 
-      "Painful ulcer in nostrils", 
       "POST-NASAL CATARRH", 
-      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES; air feels cold", 
+      "Odors of smoke, onions, etc. Painful ulcer in nostrils", 
+      "Epistaxis", 
       "Dry coryza; nose stopped up and ulcerated", 
-      "Epistaxis"
+      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES; air feels cold"
     ], 
     "Skin": [
-      "Red, flat ulcers", 
       "Coral-colored, then dark red spots, changing to copper-colored spots", 
-      "Psoriasis of palms and soles"
+      "Psoriasis of palms and soles", 
+      "Red, flat ulcers"
     ], 
     "Male": [
       "Ulcers on glans and inner prepuce, with yellow ichor", 
-      "Emissions and weakened sexual power", 
-      "Profuse perspiration of genitals"
+      "Profuse perspiration of genitals", 
+      "Emissions and weakened sexual power"
     ], 
     "dosage": ""
   }, 
   "name": "Corallium", 
-  "Relationship": "Complementary: SULPH.Compare: BELLAD; DROSERA.; MEPHIT.; CAUST.", 
+  "Relationship": "Compare: BELLAD; DROSERA.; MEPHIT.; CAUST.Complementary: SULPH.", 
   "details": "The provings of coral develop much coryza and epistaxis, and even ulceration within the nostrils. It is to be thought of for whooping and spasmodic coughs, especially when the attack comes on with a VERY RAPID cough, and the attacks follow so closely as to almost run into each other. Often preceded by sensation of smothering, followed by exhaustion. Congestion of face after dinner. Patient becomes purple in face. VIOLENCE OF PAROXYSM, even with EXPECTORATION of blood. Feeling as if cold air were streaming through skull and air-passages. One is too cold when uncovered and too hot when covered; relieved by artificial heat."
 }

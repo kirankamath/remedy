@@ -3,25 +3,24 @@
     "Eyes": [], 
     "Fever": [], 
     "Stomach": [], 
-    "Male": [], 
+    "Mouth": [], 
+    "dosage": "", 
     "Modalities": [], 
     "Stool": [], 
     "Urine": [], 
     "Back": [], 
     "Face": [], 
-    "Respiratory": [
-      "Sleep"
-    ], 
-    "Mouth": [], 
+    "Respiratory": [], 
+    "Sleep": [], 
     "Nose": [], 
     "Head": [], 
     "Skin": [], 
     "Abdomen": [], 
     "Extremities": [], 
+    "Male": [], 
     "Mind": [], 
-    "dosage": "", 
     "Ears": []
   }, 
   "name": "Pulsatilla Pratensis (Wind Flower) ", 
-  "Relationship": "Compare:Complementary:"
+  "Relationship": "Complementary:Compare:"
 }

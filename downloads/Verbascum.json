@@ -3,15 +3,15 @@
   "Relationship": "Compare: RHUS AROM.; CAUST.; PLATIN.; SPHINGURUS (pain in zygoma).", 
   "symptoms": {
     "Respiratory": [
-      "HOARSE; voice deep, harsh; sounds like a trumpet; \"basso profundo", 
-      "\" Cough; worse at night", 
-      "Asthma", 
-      "Soreness in pharynx, cough during sleep", 
-      "Urinary Organs", 
-      "Constant dribbling", 
-      "ENURESIS", 
       "Burning urination", 
-      "Increase with pressure in bladder"
+      "Asthma", 
+      "HOARSE; voice deep, harsh; sounds like a trumpet; basso profundo", 
+      "Soreness in pharynx, cough during sleep", 
+      "Increase with pressure in bladder", 
+      "Cough; worse at night", 
+      "ENURESIS", 
+      "Constant dribbling", 
+      "Urinary Organs"
     ], 
     "Modalities": [
       "Worse: change of temperature", 
@@ -24,25 +24,25 @@
     ], 
     "Face": [
       "Neuralgia affecting zygoma, temporomaxillary joint, and ear , particularly of left side, with lachrymation, coryza, and sensation AS IF PARTS WERE CRUSHED WITH TONGS", 
-      "Talking, sneezing, and change of temperature aggravate the pains; also, pressing teeth together", 
-      "Pains seem to come in flashes, excited by least movement, occurring periodically at same hour in morning and afternoon each day"
+      "Pains seem to come in flashes, excited by least movement, occurring periodically at same hour in morning and afternoon each day", 
+      "Talking, sneezing, and change of temperature aggravate the pains; also, pressing teeth together"
     ], 
     "Rectum": [
-      "Many movements a day, with twisting about navel", 
+      "Inflamed and painful piles", 
       "Hemorrhoids, with obstructed, hardened stool", 
-      "Inflamed and painful piles"
+      "Many movements a day, with twisting about navel"
     ], 
     "Extremities": [
       "Cramp-like pain in soles, right foot, and knee", 
       "Lower extremities feel heavy", 
-      "Thumb feels numb", 
+      "Stiffness and SORENESS OF JOINTS OF LOWER EXTREMITIES", 
       "Neuralgic pain in left ankle", 
-      "Stiffness and SORENESS OF JOINTS OF LOWER EXTREMITIES"
+      "Thumb feels numb"
     ], 
     "Ears": [
       "Otalgia, with a sense of obstruction", 
-      "Deafness", 
-      "Dry, scaly condition of meatus"
+      "Dry, scaly condition of meatus", 
+      "Deafness"
     ]
   }, 
   "details": "Has a pronounced action on the inferior maxillary branch of the fifth pair of the cranial nerves; on the ear; and respiratory tract and bladder. CATARRHS, and colds, WITH PERIODICAL PROSOPALGIA. Quiets nervous, and bronchial, and urinary irritation, and cough.", 

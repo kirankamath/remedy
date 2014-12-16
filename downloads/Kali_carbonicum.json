@@ -5,10 +5,9 @@
     "Stool": [
       "Hematuria; diuresis", 
       "Nucleo-albumin and bile, high Phosphoric acid, with low total solids", 
+      "Involuntary urination when coughing, sneezing, etc.Diarrhoea; profuse, greenish mucus", 
       "Obliged to rise several times at night to urinate", 
-      "Involuntary urination when coughing, sneezing, etc", 
       "Pressure on bladder long before urine comes", 
-      "Diarrhoea; profuse, greenish mucus", 
       "Albuminuria, scanty, suppressed", 
       "Urine Section"
     ], 
@@ -140,6 +139,10 @@
       "Stiffness and paralytic feeling in back", 
       "Great exhaustion"
     ], 
+    "Sleep": [
+      "Wakes about two o'clock and cannot sleep again", 
+      "Drowsy after eating"
+    ], 
     "Female": [
       "Pain through left labium, extending through abdomen to chest", 
       "Difficult, first menses", 
@@ -150,12 +153,9 @@
     ], 
     "Skin": [
       "Burning as from a mustard plaster", 
-      "Wakes about two o'clock and cannot sleep again", 
-      "Sleep", 
-      "Itching miliary or papular eruptions", 
-      "Discolored; chocolate tint", 
       "Jaundice", 
-      "Drowsy after eating"
+      "Discolored; chocolate tint", 
+      "Itching miliary or papular eruptions"
     ], 
     "Throat": [
       "Swallowing difficult; food goes down oesophagus slowly", 
@@ -180,7 +180,7 @@
       "Uneasiness, heaviness, and tearing in limbs and jerking"
     ]
   }, 
-  "details": "The weakness characteristic of all Potassium Salts is seen especially in this, with soft pulse, coldness, general depression, and very characteristic stitches, which may be felt in any part of the body, or in connection with any affection. All Kali pains are SHARP AND CUTTING; nearly all better by motion. Never use any Salts of Potash where there is fever (T. F. Allen). Sensitive to every atmospheric change, and INTOLERANCE OF COLD WEATHER. One of the best remedies following labor. Miscarriage, for consequent debilitated states. Early morning aggravation is very characteristic. Fleshy aged people, with dropsical and paretic tendencies. SWEAT, BACKACHE, AND WEAKNESS. Throbbing pains. Tendency to dropsy. Tubercular diathesis. Pains from within out, and of stinging character. \"Giving-out\" sensation. Fatty degeneration. Stinging pains in muscles and internal parts. Twitching of muscles. Pain in small spot on left side. Hypothyroidism. Coxitis.", 
+  "details": "The weakness characteristic of all Potassium Salts is seen especially in this, with soft pulse, coldness, general depression, and very characteristic stitches, which may be felt in any part of the body, or in connection with any affection. All Kali pains are SHARP AND CUTTING; nearly all better by motion. Never use any Salts of Potash where there is fever (T. F. Allen). Sensitive to every atmospheric change, and INTOLERANCE OF COLD WEATHER. One of the best remedies following labor. Miscarriage, for consequent debilitated states. Early morning aggravation is very characteristic. Fleshy aged people, with dropsical and paretic tendencies. SWEAT, BACKACHE, AND WEAKNESS. Throbbing pains. Tendency to dropsy. Tubercular diathesis. Pains from within out, and of stinging character. Giving-out sensation. Fatty degeneration. Stinging pains in muscles and internal parts. Twitching of muscles. Pain in small spot on left side. Hypothyroidism. Coxitis.", 
   "Natural History": [
     "Carbonate of Potassium"
   ], 

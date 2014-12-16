@@ -3,34 +3,34 @@
   "Relationship": "Compare: ANACARDIUM (the ulceration produced by it is like RADIUM. It may appear elsewhere than on place of contact and appear late). Compare: X-RAY; RHUS; SEPIA; URANIUM; ARS.; PULSAT.; CAUSTIC.Antidotes: RHUS VEN.; TELLUR.", 
   "symptoms": {
     "Head": [
-      "Vertigo, with pain in back of head, left when in bed", 
-      "Occipital and vertex pain, accompanying severe lumbar aching", 
-      "Severe pain over right eye, spreading back to occiput and to vertex, better in open air", 
-      "Head feels heavy", 
-      "Frontal headache", 
       "Both eyes ache", 
       "Itching and dryness of nasal cavities, better in open air", 
       "Aching pain of right lower jaw", 
-      "Violent trifacial neuralgia"
+      "Violent trifacial neuralgia", 
+      "Frontal headache", 
+      "Head feels heavy", 
+      "Vertigo, with pain in back of head, left when in bed", 
+      "Severe pain over right eye, spreading back to occiput and to vertex, better in open air", 
+      "Occipital and vertex pain, accompanying severe lumbar aching"
     ], 
     "Respiratory": [
-      "Persistent cough with tickling in suprasternal fossa", 
+      "Throat dry, sore, chest constricted", 
       "Dry, spasmodic cough", 
-      "Throat dry, sore, chest constricted"
+      "Persistent cough with tickling in suprasternal fossa"
     ], 
     "Stomach": [
-      "Empty feeling in stomach", 
       "Warm sensation in stomach", 
-      "Aversion to sweets, ice-cream", 
-      "Nausea and sinking sensation, belching of gas"
+      "Empty feeling in stomach", 
+      "Nausea and sinking sensation, belching of gas", 
+      "Aversion to sweets, ice-cream"
     ], 
     "Modalities": [
+      "Worse: getting up", 
       "Better: open air", 
       "Better: continued motion", 
       "Better: hot bath", 
       "Better: lying down", 
-      "Better: pressure", 
-      "Worse: getting up"
+      "Better: pressure"
     ], 
     "Mind": [
       "Apprehensive, depressed; fear of being alone in the dark; great desire to be with people", 
@@ -38,29 +38,30 @@
     ], 
     "Back": [
       "Aching in back of neck", 
-      "Pain and lameness in cervical vertebrae, worse dropping head forward, better standing, or sitting erect", 
       "LUMBAR AND SACRAL backache, pain appears to be in BONE, continued motion relieves", 
-      "Backache between shoulders and lumbar-sacral region, better after walking"
+      "Backache between shoulders and lumbar-sacral region, better after walking", 
+      "Pain and lameness in cervical vertebrae, worse dropping head forward, better standing, or sitting erect"
     ], 
     "Abdomen": [
-      "Pain, violent cramps, rumbling, full of gas; pain over McBurney's point, and at location of sigmoid flexure", 
-      "Much flatulence", 
-      "Alternating constipation and loose movements", 
-      "Pruritus ani and piles", 
-      "Urinary Organs", 
-      "Increased elimination of solids, particularly of chlorides", 
-      "Renal irritation, albuminuria, granular and hyaline casts", 
       "Nephritis with rheumatic symptoms", 
-      "Enuresis"
+      "Pruritus ani and piles", 
+      "Enuresis", 
+      "Alternating constipation and loose movements", 
+      "Much flatulence", 
+      "Urinary Organs", 
+      "Pain, violent cramps, rumbling, full of gas; pain over McBurney's point, and at location of sigmoid flexure", 
+      "Increased elimination of solids, particularly of chlorides", 
+      "Renal irritation, albuminuria, granular and hyaline casts"
     ], 
     "Fever": [
-      "Cold sensation internally, with chattering of teeth until noon", 
-      "Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence"
+      "Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence", 
+      "Cold sensation internally, with chattering of teeth until noon"
     ], 
-    "Mouth": [
-      "Dryness of mouth", 
-      "Metallic taste", 
-      "Prickling sensation on end of tongue"
+    "Sleep": [
+      "Dreams vivid, busy", 
+      "Dreams of fire", 
+      "Restless", 
+      "Sleepiness with lethargy"
     ], 
     "Female": [
       "Pruritus vulvae", 
@@ -69,26 +70,26 @@
       "Right breast sore, relieved by hard rubbing"
     ], 
     "Skin": [
-      "Small pimples", 
-      "Erythema and dermatitis, with itching, burning, swelling and redness", 
-      "Necrosis and ulceration", 
-      "ITCHING ALL OVER BODY, burning of skin, as if afire", 
       "Epithelioma", 
-      "Sleep", 
-      "Restless", 
-      "Sleepiness with lethargy", 
-      "Dreams vivid, busy", 
-      "Dreams of fire"
+      "Small pimples", 
+      "ITCHING ALL OVER BODY, burning of skin, as if afire", 
+      "Erythema and dermatitis, with itching, burning, swelling and redness", 
+      "Necrosis and ulceration"
+    ], 
+    "Mouth": [
+      "Dryness of mouth", 
+      "Prickling sensation on end of tongue", 
+      "Metallic taste"
     ], 
     "Extremities": [
-      "Severe pain in all the limbs, JOINTS, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers", 
-      "Legs, arms and neck feel hard and brittle, as though they would break on moving", 
-      "Arms feel heavy", 
-      "Cracking in shoulder", 
+      "ARTHRITIS, aching pains, WORSE at night", 
       "PAIN IN TOES, calves, hip-joint, popliteal spaces", 
       "Muscles of legs and hips sore", 
-      "ARTHRITIS, aching pains, WORSE at night", 
+      "Arms feel heavy", 
       "Dermatitis of the fingers", 
+      "Legs, arms and neck feel hard and brittle, as though they would break on moving", 
+      "Severe pain in all the limbs, JOINTS, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers", 
+      "Cracking in shoulder", 
       "Trophic changes in the finger nails"
     ]
   }, 

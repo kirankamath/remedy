@@ -1,54 +1,55 @@
 {
+  "name": "Ichthyolum", 
+  "Relationship": "Compare: HEPAR.; CALC.; SILICA; SULPH.; ARS.; PETROL.", 
   "symptoms": {
     "Eyes": [
       "Burn, red; worse, any change of temperature"
     ], 
     "Respiratory": [
-      "Coryza; DRY, TEASING COUGH", 
       "Bronchiectasis and phthisis", 
+      "Coryza; DRY, TEASING COUGH", 
       "Bronchitis, especially of the aged"
     ], 
     "Stomach": [
+      "INCREASED APPETITE", 
       "Disagreeable taste, burning sensation, very thirsty", 
-      "NAUSEA", 
-      "INCREASED APPETITE"
+      "NAUSEA"
     ], 
     "Head": [
-      "Dull, aching; better cold, pressure", 
-      "Dull frontal and supraorbital headache; worse moving eyes, cold air; better, warmth"
+      "Dull frontal and supraorbital headache; worse moving eyes, cold air; better, warmth", 
+      "Dull, aching; better cold, pressure"
     ], 
     "Mind": [
-      "Irritable and depressed", 
-      "Forgetful, lack of concentration"
+      "Forgetful, lack of concentration", 
+      "Irritable and depressed"
     ], 
     "Abdomen": [
+      "Uric acid deposits", 
       "Disposition to soft, shapeless stools", 
       "Griping in umbilical and left hypogastric region", 
-      "Early morning diarrhoea", 
-      "Urine Section", 
       "Increased in quantity and frequency", 
       "Burning pain in meatus", 
-      "Uric acid deposits"
+      "Early morning diarrhoea", 
+      "Urine Section"
     ], 
     "Face": [
       "Skin feels dry and itches", 
       "Acne on chin"
     ], 
-    "Natural History": [], 
     "Nose": [
-      "Bland coryza; stuffed feeling; feels sore inside", 
-      "Irresistible desire to sneeze"
+      "Irresistible desire to sneeze", 
+      "Bland coryza; stuffed feeling; feels sore inside"
     ], 
     "Female": [
       "Fullness in lower abdomen", 
       "Nausea at time of menses"
     ], 
     "Skin": [
+      "CROPS OF BOILS", 
       "Heat and irritation; ITCHING", 
       "Scaly and itching eczema", 
-      "CROPS OF BOILS", 
-      "Pruritis of pregnancy", 
-      "Psoriasis, Acne, rosacea, erysipelas"
+      "Psoriasis, Acne, rosacea, erysipelas", 
+      "Pruritis of pregnancy"
     ], 
     "Throat": [
       "Irritated; pain to ears; sore, dry, with hawking and expectoration"
@@ -58,7 +59,9 @@
     ]
   }, 
   "details": "Its action on skin, mucous membranes, and kidneys is prompt and useful. It is strongly antiparasitic; redness, pain and inflammation; decreases tension. Excellent in winter coughs of old people. Polyarthritis. Chronic rheumatism. URIC ACID DIATHESIS. Hay-fever. CHRONIC HIVES. TUBERCULOSIS, AIDS NUTRITION. Alcoholism when nothing will stay on stomach.", 
-  "name": "Ichthyolum", 
-  "Relationship": "Compare: HEPAR.; CALC.; SILICA; SULPH.; ARS.; PETROL.", 
+  "Natural History": [
+    ")(A Combination of Sulphonated Hydrocarbons; a FossilProduct of Complex Structure found in Tyrol; supposed", 
+    "to be Fish Deposits, contains 10% Sulphur"
+  ], 
   "dosage": "Lower potencies.Externally, it is used as an ointment, with Lanoline 20 to 50 per cent.; for chronic eczema and psoriasis, also acne rosacea and gouty joints. Chilblains, scabies. Rectal suppositories for senile prostate."
 }

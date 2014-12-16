@@ -1,6 +1,6 @@
 {
   "name": "Badiaga", 
-  "Relationship": "Compare: Merc. similar but opposite modalities. Spongia; Kali-hyd.; Phytol.; Conium.Complementary: Sulph.; Merc.; Iod.", 
+  "Relationship": "Complementary: Sulph.; Merc.; Iod.Compare: Merc. similar but opposite modalities. Spongia; Kali-hyd.; Phytol.; Conium.", 
   "symptoms": {
     "Heart": [
       "Indescribable bad feeling about the heart with soreness and pain, flying stitches all over"
@@ -10,10 +10,10 @@
       "Intermittent sore pain in eyeball, coming on at three PM"
     ], 
     "Respiratory": [
+      "Hay-fever, with asthmatic breathing", 
+      "Whooping-cough, with thick yellow expectoration; flies out", 
       "Cough; worse in afternoon, better in warm room", 
       "The MUCUS FLIES OUT OF MOUTH AND NOSTRILS", 
-      "Whooping-cough, with thick yellow expectoration; flies out", 
-      "Hay-fever, with asthmatic breathing", 
       "Pleuritic stitches in chest, neck, and back"
     ], 
     "Stomach": [
@@ -29,24 +29,24 @@
       "Better: by heat"
     ], 
     "Back": [
-      "Stitches in nape, scapulae", 
-      "Pain in small of back, hips and lower limbs", 
       "Very stiff neck", 
-      "MUSCLES AND SKIN SORE, as if beaten"
+      "Stitches in nape, scapulae", 
+      "MUSCLES AND SKIN SORE, as if beaten", 
+      "Pain in small of back, hips and lower limbs"
     ], 
     "Head": [
-      "Sensation of enlargement and fullness", 
-      "Pain in forehead and temple, EXTENDING TO EYEBALLS, worse in afternoon", 
-      "Blueness under eyes", 
-      "DANDRUFF; scale sore, dry, tetter-like", 
+      "Slight sounds are greatly accentuated", 
       "Dull, dizzy feeling in head", 
       "CORYZA, sneezing, watery discharge, with asthmatic breathing and suffocative cough", 
+      "Pain in forehead and temple, EXTENDING TO EYEBALLS, worse in afternoon", 
+      "Blueness under eyes", 
       "Influenza", 
-      "Slight sounds are greatly accentuated"
+      "DANDRUFF; scale sore, dry, tetter-like", 
+      "Sensation of enlargement and fullness"
     ], 
     "Skin": [
-      "Sore to touch", 
       "FRECKLES", 
+      "Sore to touch", 
       "RHAGADES"
     ]
   }, 

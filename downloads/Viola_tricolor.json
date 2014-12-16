@@ -4,28 +4,28 @@
   "symptoms": {
     "Head": [
       "Heavy, pressing-outward pain", 
-      "Eczema of scalp, with swollen glands", 
-      "Face hot and sweating after eating"
+      "Face hot and sweating after eating", 
+      "Eczema of scalp, with swollen glands"
     ], 
     "Skin": [
       "IMPETIGO", 
+      "WORSE, winter; eleven AM Compare: LYCOP", 
+      "Thick scabs, which crack and exude a tenacious yellow pus", 
       "Intolerable itching", 
       "Eruptions, particularly over face and head, with burning, itching; worse at night", 
-      "Thick scabs, which crack and exude a tenacious yellow pus", 
-      "Eczema impetigenoides of the face", 
       "Sycosis", 
       "Modalities", 
-      "WORSE, winter; eleven AM Compare: LYCOP"
+      "Eczema impetigenoides of the face"
     ], 
     "Throat": [
-      "Much phlegm, causing hawking; worse in the air", 
       "Swallowing difficult", 
+      "Much phlegm, causing hawking; worse in the air", 
       "Urinary Organs", 
       "Copious; disagreeable, cat-like odor"
     ], 
     "Male": [
-      "Swelling of prepuce, burning in glans", 
       "Itching", 
+      "Swelling of prepuce, burning in glans", 
       "Involuntary, seminal emissions at stool"
     ]
   }, 

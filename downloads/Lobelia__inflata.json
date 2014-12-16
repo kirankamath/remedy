@@ -3,50 +3,50 @@
   "Relationship": "Antidote: IPEC.LOBELIA SYPHILITICA OR CERULEA (gives a perfect picture of sneezing influenza, involving the posterior nares, palate, and fauces. Very depressed. Pain in forehead over eyes; pain and gas in bowels, followed by copious watery stools with tenesmus and soreness of anus. Pain in knees. Prickling in soles. GREAT OPPRESSION IN LOWER PART OF CHEST, as if air could not reach there. PAIN IN CHEST UNDER SHORT RIBS OF LEFT SIDE. Dry, hacking cough. Breathing difficult. Dull, aching pain over root of nose. Eustachian catarrh. Pain in posterior part of spleen.) LOBELIA ERINUS (MALIGNANT GROWTHS, extremely rapid development; colloid cancer of the omentum; cork-screw-like pains in abdomen; great dryness of skin, nasal and buccal mucous membranes; distaste for brandy; dry, eczematous patches covering points of first fingers. Malignant disease of the face. Epithelioma).", 
   "symptoms": {
     "Head": [
-      "Vertigo, and fear of death", 
       "Gastric headache, with nausea, vomiting, and great prostration; worse, afternoon until midnight; tobacco", 
-      "Dull, heavy pain"
+      "Dull, heavy pain", 
+      "Vertigo, and fear of death"
     ], 
     "Respiratory": [
-      "DYSPNOEA FROM CONSTRICTION OF CHEST; worse, any exertion", 
-      "Sensation of pressure or weight in chest; BETTER BY RAPID WALKING", 
-      "Feels as if heart would stop", 
       "Asthma; attacks, with weakness, felt in pit of stomach and preceded by PRICKLING all over", 
+      "DYSPNOEA FROM CONSTRICTION OF CHEST; worse, any exertion", 
+      "Feels as if heart would stop", 
       "Cramp, ringing cough, short breath, catching at throat", 
-      "Senile emphysema"
+      "Senile emphysema", 
+      "Sensation of pressure or weight in chest; BETTER BY RAPID WALKING"
     ], 
     "Stomach": [
-      "Acidity, flatulence, shortness of breath after eating", 
-      "Heartburn with profuse flow of saliva", 
-      "EXTREME NAUSEA AND VOMITING", 
-      "Morning sickness", 
-      "FAINTNESS AND WEAKNESS OF EPIGASTRIUM", 
       "PROFUSE SALIVATION, WITH GOOD APPETITE", 
-      "Profuse sweat and prostration", 
-      "Cannot bear smell or taste of tobacco", 
+      "Morning sickness", 
+      "EXTREME NAUSEA AND VOMITING", 
+      "Heartburn with profuse flow of saliva", 
       "Acrid, burning taste; acidity, with contractive feeling in pit of stomach", 
+      "FAINTNESS AND WEAKNESS OF EPIGASTRIUM", 
       "Flatulence, shortness of breath after eating", 
-      "Heartburn"
+      "Acidity, flatulence, shortness of breath after eating", 
+      "Cannot bear smell or taste of tobacco", 
+      "Heartburn", 
+      "Profuse sweat and prostration"
     ], 
     "Modalities": [
+      "Better: by rapid walking;", 
+      "Better: toward evening", 
+      "Better: and from warmth", 
       "Worse: tobacco", 
       "Worse: afternoon", 
       "Worse: slightest motion", 
       "Worse: cold", 
-      "Worse: especially cold washing", 
-      "Better: by rapid walking;", 
-      "Better: toward evening", 
-      "Better: and from warmth"
+      "Worse: especially cold washing"
     ], 
     "Back": [
-      "Pain in sacrum; cannot bear slightest touch", 
       "Sits leaning forward", 
-      "Urinary Organs", 
-      "Deep red color and copious red sediment"
+      "Pain in sacrum; cannot bear slightest touch", 
+      "Deep red color and copious red sediment", 
+      "Urinary Organs"
     ], 
     "Face": [
-      "Bathed in cold sweat", 
-      "Sudden pallor"
+      "Sudden pallor", 
+      "Bathed in cold sweat"
     ], 
     "Mouth": [
       "Profuse flow of saliva; acrid burning taste; MERCURIAL TASTE; tenacious mucus, tongue coated white"
@@ -59,7 +59,7 @@
       "Shooting pain from throat"
     ]
   }, 
-  "details": "Is a vasomotor stimulant; increases the activity of all vegetative processes; spends its force mainly upon the pneumogastric nerve, producing a depressed relaxed condition with oppression of the chest and epigastrium, impeded respiration, nausea and vomiting.Languor, relaxation of muscles, NAUSEA, VOMITING AND DYSPEPSIA are the general indications that point to the use of this remedy, in asthma and gastric affections. Best adapted to light-complexioned fleshy people. Bad effects of drunkenness. SUPPRESSED DISCHARGES. (SULPH.) Diphtheria. CATARRHAL JAUNDICE. (CHIONANTH.)", 
+  "details": "Languor, relaxation of muscles, NAUSEA, VOMITING AND DYSPEPSIA are the general indications that point to the use of this remedy, in asthma and gastric affections. Best adapted to light-complexioned fleshy people. Bad effects of drunkenness. SUPPRESSED DISCHARGES. (SULPH.) Diphtheria. CATARRHAL JAUNDICE. (CHIONANTH.)Is a vasomotor stimulant; increases the activity of all vegetative processes; spends its force mainly upon the pneumogastric nerve, producing a depressed relaxed condition with oppression of the chest and epigastrium, impeded respiration, nausea and vomiting.", 
   "Natural History": [
     "Indian Tobacco"
   ], 

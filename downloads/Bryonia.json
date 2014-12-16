@@ -1,138 +1,139 @@
 {
   "name": "Bryonia", 
-  "Relationship": "Complementary: Upas when Bryonia fails. Rhus; Alumina. Illecebrum. A Mexican drug. - (Fever with catarrhal symptoms, gastric and typhoid fever symptoms.)Antidotes: Acon.; Cham.; Nux.Compare: Asclep. tub.; Kali-mur.; Ptelea.", 
+  "Relationship": "Complementary: Upas when Bryonia fails. Rhus; Alumina. Illecebrum. A Mexican drug. - (Fever with catarrhal symptoms, gastric and typhoid fever symptoms.)Compare: Asclep. tub.; Kali-mur.; Ptelea.Antidotes: Acon.; Cham.; Nux.", 
   "symptoms": {
     "Eyes": [
-      "Pressing, crushing, aching pain", 
       "Glaucoma", 
-      "Sore to touch and when moving them"
+      "Sore to touch and when moving them", 
+      "Pressing, crushing, aching pain"
     ], 
     "Fever": [
-      "Pulse full, hard, tense, and quick", 
-      "Chill with external coldness, dry cough, stitches", 
-      "Internal heat", 
       "Sour sweat after slight exertion", 
-      "Easy, profuse perspiration", 
-      "Rheumatic and typhoid marked by gastrohepatic complications"
+      "Internal heat", 
+      "Chill with external coldness, dry cough, stitches", 
+      "Pulse full, hard, tense, and quick", 
+      "Rheumatic and typhoid marked by gastrohepatic complications", 
+      "Easy, profuse perspiration"
     ], 
     "Stomach": [
       "NAUSEA AND FAINTNESS WHEN RISING UP", 
-      "Abnormal hunger, loss of taste", 
-      "Thirst for large drafts", 
-      "Vomiting of bile and water immediately after eating", 
-      "Worse, warm drinks, which are vomited", 
-      "STOMACH SENSITIVE TO TOUCH", 
       "PRESSURE IN STOMACH AFTER EATING, AS OF A STONE", 
-      "Soreness in stomach when coughing", 
       "Dyspeptic ailments during summer heat", 
-      "Sensitiveness of epigastrium to touch"
-    ], 
-    "Female": [
-      "Menses too early, too profuse; worse from motion with tearing pains in legs; SUPPRESSED, WITH VICARIOUS DISCHARGE OR SPLITTING HEADACHE", 
-      "Stitching pains in ovaries on taking a deep inspiration; very sensitive to touch", 
-      "Pain in right ovary as if torn, extending to thigh", 
-      "Milk fever", 
-      "Pain in breasts at menstrual period", 
-      "BREASTS HOT AND PAINFUL, HARD", 
-      "Abscess of mammae", 
-      "Frequent bleeding of nose at appearance of menses", 
-      "Menstrual irregularities, with gastric symptoms", 
-      "Ovaritis", 
-      "INTERMENSTRUAL PAIN, WITH GREAT ABDOMINAL AND PELVIC SORENESS"
+      "Soreness in stomach when coughing", 
+      "Worse, warm drinks, which are vomited", 
+      "Vomiting of bile and water immediately after eating", 
+      "STOMACH SENSITIVE TO TOUCH", 
+      "Sensitiveness of epigastrium to touch", 
+      "Abnormal hunger, loss of taste", 
+      "Thirst for large drafts"
     ], 
     "Modalities": [
+      "Better: lying on PAINFUL SIDE", 
+      "Better: PRESSURE", 
+      "Better: REST", 
+      "Better: COLD THINGS", 
       "Worse: warmth", 
       "Worse: any motion", 
       "Worse: morning", 
       "Worse: eating", 
       "Worse: hot weather", 
       "Worse: exertion", 
-      "Worse: touch", 
-      "Better: lying on PAINFUL SIDE", 
-      "Better: PRESSURE", 
-      "Better: REST", 
-      "Better: COLD THINGS"
+      "Worse: touch"
     ], 
     "Mind": [
       "Exceedingly IRRITABLE; everything puts him out of humor", 
       "Delirium; wants to go home; TALKS OF BUSINESS"
     ], 
     "Abdomen": [
-      "Liver region swollen, sore, tensive", 
-      "Burning pain, STITCHES; WORSE, PRESSURE, COUGHING, BREATHING", 
-      "Tenderness of abdominal walls", 
       "Constipation; stools hard, dry, as if burnt; seem too large", 
+      "Red, brown, like beer; scanty, hot", 
+      "Burning pain, STITCHES; WORSE, PRESSURE, COUGHING, BREATHING", 
       "Stools brown, thick, bloody; WORSE IN MORNING, FROM MOVING, in hot weather, after being heated, from cold drinks, every spell of hot weather", 
-      "Urine Section", 
-      "Red, brown, like beer; scanty, hot"
+      "Liver region swollen, sore, tensive", 
+      "Tenderness of abdominal walls", 
+      "Urine Section"
     ], 
     "Respiratory": [
-      "Soreness in larynx and trachea", 
-      "Hoarseness; worse in open air", 
-      "Dry, hacking cough from irritation in upper trachea", 
+      "COMING INTO WARM ROOM EXCITES COUGH", 
+      "STITCHES AND STIFFNESS IN SMALL OF BACK", 
       "Cough, dry, at night; MUST SIT UP; WORSE AFTER EATING OR DRINKING, with vomiting, WITH STITCHES IN CHEST, and expectoration of rust-colored sputa", 
-      "Frequent desire to take a long breath; MUST expand lungs", 
+      "Hoarseness; worse in open air", 
       "Difficult, quick respiration; worse every movement; caused by stitches in chest", 
-      "Cough, with feeling as if chest would fly to pieces; presses his head on sternum; must support chest", 
-      "Croupous and pleuropneumonia", 
+      "Soreness in larynx and trachea", 
+      "From hard water and sudden changes of weather", 
+      "Stitches in cardiac region", 
       "Expectoration brick shade, tough, and falls like lumps of jelly", 
       "Tough mucus in trachea, loosened only with much hawking", 
-      "COMING INTO WARM ROOM EXCITES COUGH", 
+      "Painful stiffness in nape of neck", 
+      "Angina pectoris", 
+      "Croupous and pleuropneumonia", 
+      "Cough, with feeling as if chest would fly to pieces; presses his head on sternum; must support chest", 
+      "Frequent desire to take a long breath; MUST expand lungs", 
       "Heaving beneath the sternum extending towards the right shoulder", 
       "Cough worse by going into warm room", 
-      "Stitches in cardiac region", 
-      "Angina pectoris", 
-      "Painful stiffness in nape of neck", 
-      "STITCHES AND STIFFNESS IN SMALL OF BACK", 
-      "From hard water and sudden changes of weather"
+      "Dry, hacking cough from irritation in upper trachea"
     ], 
     "Mouth": [
-      "LIPS PARCHED, DRY, CRACKED", 
       "DRYNESS OF MOUTH, TONGUE, AND THROAT, WITH EXCESSIVE THIRST", 
-      "Tongue coated yellowish, dark brown; heavily white in gastric derangement", 
-      "Bitter taste", 
+      "LIPS PARCHED, DRY, CRACKED", 
       "Burning in lower lip in old smokers", 
-      "Lip swollen, dry, black and cracked"
+      "Lip swollen, dry, black and cracked", 
+      "Tongue coated yellowish, dark brown; heavily white in gastric derangement", 
+      "Bitter taste"
     ], 
     "Nose": [
-      "FREQUENT BLEEDING OF NOSE WHEN MENSES SHOULD APPEAR", 
-      "Also in the morning, relieving the headache", 
       "Coryza with shooting and aching in the forehead", 
+      "Also in the morning, relieving the headache", 
+      "FREQUENT BLEEDING OF NOSE WHEN MENSES SHOULD APPEAR", 
       "Swelling of tip of nose, feels as if it would ulcerate when touched"
     ], 
     "Head": [
-      "Vertigo, nausea, faintness on rising, confusion", 
-      "BURSTING, SPLITTING HEADACHE, as if everything would be pressed out; as if hit by a hammer from within; wore from motion, stooping, opening eyes", 
       "Headache becomes seated in occiput", 
       "Drawing in bones towards zygoma", 
+      "Vertigo, nausea, faintness on rising, confusion", 
+      "Frontal headache, frontal sinuses involved", 
       "Headache; worse on motion, even of eyeballs", 
-      "Frontal headache, frontal sinuses involved"
+      "BURSTING, SPLITTING HEADACHE, as if everything would be pressed out; as if hit by a hammer from within; wore from motion, stooping, opening eyes"
     ], 
     "Skin": [
-      "Yellow, pale, swollen, dropsical; hot and painful", 
-      "Seborrhoea", 
       "HAIR VERY GREASY", 
-      "Sleep", 
+      "Yellow, pale, swollen, dropsical; hot and painful", 
+      "Seborrhoea"
+    ], 
+    "Throat": [
+      "Tough mucus in larynx and trachea, loosened only after much hawking; worse coming into warm room", 
+      "Dryness, sticking on swallowing, scraped and constricted"
+    ], 
+    "Sleep": [
       "Drowsy; starting when falling asleep", 
       "Delirium; busy with business matters and what he had read"
     ], 
-    "Throat": [
-      "Dryness, sticking on swallowing, scraped and constricted", 
-      "Tough mucus in larynx and trachea, loosened only after much hawking; worse coming into warm room"
-    ], 
     "Extremities": [
-      "Knees stiff and painful", 
+      "Every spot is painful on pressure", 
+      "Constant motion of left arm and leg", 
       "Hot swelling of feet", 
       "JOINTS RED, SWOLLEN, HOT, with stitches and tearing; worse on least movement", 
-      "Every spot is painful on pressure", 
-      "Constant motion of left arm and leg"
+      "Knees stiff and painful"
+    ], 
+    "Female": [
+      "BREASTS HOT AND PAINFUL, HARD", 
+      "INTERMENSTRUAL PAIN, WITH GREAT ABDOMINAL AND PELVIC SORENESS", 
+      "Frequent bleeding of nose at appearance of menses", 
+      "Pain in breasts at menstrual period", 
+      "Abscess of mammae", 
+      "Menses too early, too profuse; worse from motion with tearing pains in legs; SUPPRESSED, WITH VICARIOUS DISCHARGE OR SPLITTING HEADACHE", 
+      "Pain in right ovary as if torn, extending to thigh", 
+      "Menstrual irregularities, with gastric symptoms", 
+      "Ovaritis", 
+      "Stitching pains in ovaries on taking a deep inspiration; very sensitive to touch", 
+      "Milk fever"
     ], 
     "Ears": [
       "Aural vertigo", 
       "Roaring, buzzing"
     ]
   }, 
-  "details": "Acts on all serous membranes and the viscera they contain. Aching in every muscle. The general character OF THE PAIN HERE PRODUCED IS A STITCHING, TEARING; WORSE BY MOTION, BETTER REST. These characteristic stitching pains, greatly aggravated by any motion, are found everywhere, but especially in the chest; worse pressure. MUCOUS MEMBRANES ARE ALL DRY. The Bryonia patient is irritable; has vertigo from raising the head, pressive headache; dry, parched lips, mouth; excessive thirst, bitter taste, sensitive epigastrium, and feeling of a stone in the stomach; stools large, dry, hard; dry cough; rheumatic pains and swellings; dropsical effusions into synovial and serous membranes.Bryonia affects especially the constitution of a robust, firm fiber and dark complexion, with tendency to leanness and irritability. It prefers the right side, the evening, and open air, warm weather after cold days, to manifest its action most markedly.Children dislike to be carried or raised. PHYSICAL WEAKNESS, all-pervading apathy. Complaints apt to develop slowly.", 
+  "details": "Bryonia affects especially the constitution of a robust, firm fiber and dark complexion, with tendency to leanness and irritability. It prefers the right side, the evening, and open air, warm weather after cold days, to manifest its action most markedly.Children dislike to be carried or raised. PHYSICAL WEAKNESS, all-pervading apathy. Complaints apt to develop slowly.Acts on all serous membranes and the viscera they contain. Aching in every muscle. The general character OF THE PAIN HERE PRODUCED IS A STITCHING, TEARING; WORSE BY MOTION, BETTER REST. These characteristic stitching pains, greatly aggravated by any motion, are found everywhere, but especially in the chest; worse pressure. MUCOUS MEMBRANES ARE ALL DRY. The Bryonia patient is irritable; has vertigo from raising the head, pressive headache; dry, parched lips, mouth; excessive thirst, bitter taste, sensitive epigastrium, and feeling of a stone in the stomach; stools large, dry, hard; dry cough; rheumatic pains and swellings; dropsical effusions into synovial and serous membranes.", 
   "Natural History": [
     "Wild Hops"
   ], 

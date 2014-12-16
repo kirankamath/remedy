@@ -1,28 +1,28 @@
 {
   "name": "Allium cepa", 
-  "Relationship": "Compare: GELS.; EUPH.; Kali-HY.; ACONITE; IPECAC.Complementary: PHOSPHOR.; THUJA; PULS.Antidotes: ARN.; CHAM.; VERAT.", 
+  "Relationship": "Antidotes: ARN.; CHAM.; VERAT.Complementary: PHOSPHOR.; THUJA; PULS.Compare: GELS.; EUPH.; Kali-HY.; ACONITE; IPECAC.", 
   "symptoms": {
     "Eyes": [
-      "Red", 
-      "Much BURNING and smarting lachrymation", 
-      "SENSITIVE TO LIGHT", 
+      "Burning in eyelids", 
       "Eyes suffused and watery; profuse; BLAND lachrymation, better in open air", 
-      "Burning in eyelids"
+      "SENSITIVE TO LIGHT", 
+      "Red", 
+      "Much BURNING and smarting lachrymation"
     ], 
     "Respiratory": [
-      "HOARSENESS", 
-      "HACKING COUGH ON INSPIRING COLD AIR", 
-      "TICKLING IN LARYNX", 
       "SENSATION AS IF LARYNX IS SPLIT AND TORN", 
+      "HACKING COUGH ON INSPIRING COLD AIR", 
+      "HOARSENESS", 
       "OPPRESSED BREATHING from pressure in middle of chest", 
       "Constricted feeling in region of epiglottis", 
+      "TICKLING IN LARYNX", 
       "Pain extending to ear"
     ], 
     "Stomach": [
+      "Belching", 
       "Canine hunger", 
       "Pain in pyloric region", 
       "Thirst", 
-      "Belching", 
       "Nausea"
     ], 
     "Modalities": [
@@ -32,39 +32,40 @@
       "Better: and in cold room"
     ], 
     "Abdomen": [
+      "Colic sitting, moving about", 
+      "Urine red with much pressure and burning in urethra", 
+      "Sensation of weakness in bladder and urethra", 
       "Rumbling, offensive flatus", 
       "Pains in left hypogastrium", 
-      "Colic sitting, moving about", 
-      "Urinary Organs", 
-      "Sensation of weakness in bladder and urethra", 
       "Increased secretion of urine with coryza", 
-      "Urine red with much pressure and burning in urethra"
+      "Urinary Organs"
+    ], 
+    "Sleep": [
+      "Gaping in deep sleep", 
+      "Wakes at two AM", 
+      "Yawning with headache and drowsiness", 
+      "Dreams"
     ], 
     "Nose": [
-      "Sneezing, especially when entering a warm room", 
-      "COPIOUS, WATERY AND EXTREMELY ACRID DISCHARGE", 
-      "Feeling of a lump at root of nose", 
-      "Hay-fever", 
       "Fluent coryza with headache, cough, and hoarseness", 
-      "Polypus"
+      "Polypus", 
+      "COPIOUS, WATERY AND EXTREMELY ACRID DISCHARGE", 
+      "Hay-fever", 
+      "Feeling of a lump at root of nose", 
+      "Sneezing, especially when entering a warm room"
     ], 
     "Head": [
-      "Catarrhal headache, mostly in forehead; WORSE IN WARM ROOM towards evening", 
+      "Headache ceases during menses; returns when flow disappears", 
       "Thread-like pains in face", 
-      "Headache ceases during menses; returns when flow disappears"
+      "Catarrhal headache, mostly in forehead; WORSE IN WARM ROOM towards evening"
     ], 
     "Extremities": [
-      "Lame joints", 
-      "Ulcers on heel", 
-      "Painful affections of fingers about nails", 
-      "Neuralgia of stump", 
       "Bad effects from getting feet wet", 
       "Limbs, especially arms, feel sore and tired", 
-      "Sleep", 
-      "Yawning with headache and drowsiness", 
-      "Gaping in deep sleep", 
-      "Dreams", 
-      "Wakes at two AM"
+      "Lame joints", 
+      "Neuralgia of stump", 
+      "Ulcers on heel", 
+      "Painful affections of fingers about nails"
     ], 
     "Ears": [
       "Earache, shooting in eustachian tube"

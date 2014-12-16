@@ -1,26 +1,26 @@
 {
   "name": "Amyl nitrosum", 
-  "Relationship": "Compare: Glonoine, Lachesis.Antidotes: Cactus, Strychn.; Ergot.", 
+  "Relationship": "Antidotes: Cactus, Strychn.; Ergot.Compare: Glonoine, Lachesis.", 
   "symptoms": {
     "Head": [
-      "ANXIETY, as if something might happen; MUST HAVE FRESH AIR", 
-      "SURGING OF BLOOD TO HEAD AND FACE; sensation as if blood would start through skins, with heat and redness", 
       "FLUSHINGS, FOLLOWED BY SWEAT AT CLIMACTERIC", 
-      "Ears hyperemic", 
-      "Throbbing"
+      "ANXIETY, as if something might happen; MUST HAVE FRESH AIR", 
+      "Throbbing", 
+      "SURGING OF BLOOD TO HEAD AND FACE; sensation as if blood would start through skins, with heat and redness", 
+      "Ears hyperemic"
     ], 
     "Fever": [
-      "Much flushing of heat; sometimes followed by cold and clammy skin and profuse sweat", 
       "Throbbing throughout whole body", 
+      "Much flushing of heat; sometimes followed by cold and clammy skin and profuse sweat", 
       "ABNORMAL SWEAT AFTER INFLUENZA"
     ], 
     "Chest": [
-      "Dyspnoea and asthmatic feelings", 
       "Great oppression and fullness of chest; spasmodic, suffocative cough", 
       "Precordial anxiety", 
-      "TUMULTUOUS ACTION OF THE HEART", 
+      "Dyspnoea and asthmatic feelings", 
       "Pain and constriction around heart", 
-      "Fluttering at slightest excitement"
+      "Fluttering at slightest excitement", 
+      "TUMULTUOUS ACTION OF THE HEART"
     ], 
     "Female": [
       "After-pains; hemorrhage associated with facial flushing", 
@@ -38,5 +38,5 @@
   "Natural History": [
     "Amyl Nitrite"
   ], 
-  "dosage": "Third potency.For PALLIATIONS. In all conditions where the blood-vessels are SPASMODICALLY CONTRACTED, as in angina pectoris, epileptic seizure, megrim, accompanied by cold, pallor, etc., also in paroxysms of asthmas, chloroform asphyxia, inhalation of the AMYL. NIT. will give immediate relief. For this non-homeopathic application, two to five minims (put up in pearls) dropped on a handkerchief and inhaled may be required."
+  "dosage": "For PALLIATIONS. In all conditions where the blood-vessels are SPASMODICALLY CONTRACTED, as in angina pectoris, epileptic seizure, megrim, accompanied by cold, pallor, etc., also in paroxysms of asthmas, chloroform asphyxia, inhalation of the AMYL. NIT. will give immediate relief. For this non-homeopathic application, two to five minims (put up in pearls) dropped on a handkerchief and inhaled may be required.Third potency."
 }

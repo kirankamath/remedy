@@ -3,13 +3,13 @@
   "Relationship": "Compare: STAPHIS.; MERC.; SYPHIL.; AUR.; CORYDALIS (syphilitic nodes).", 
   "symptoms": {
     "Respiratory": [
+      "Urine colorless", 
       "Dry, spasmodic cough", 
-      "Larynx constricted, with stinging in fauces", 
       "Trachea feels sore when pressed", 
       "HOARSENESS and chronic laryngeal affections of public speakers", 
-      "Urinary Organs", 
-      "Urine colorless", 
-      "DEPOSITS WHITE SEDIMENT; urine milky and thick"
+      "Larynx constricted, with stinging in fauces", 
+      "DEPOSITS WHITE SEDIMENT; urine milky and thick", 
+      "Urinary Organs"
     ], 
     "Modalities": [
       "Worse: in afternoon", 
@@ -22,11 +22,11 @@
       "GLOOMY FOREBODINGS; depressed"
     ], 
     "Skin": [
-      "Ulcers; chronic eruptions on hands and fingers", 
-      "ENLARGED CERVICAL GLANDS", 
-      "Burning, itching of legs; worse, exposure to air", 
-      "Exostosis", 
       "Scrofuloderma; syphilis, secondary eruption and later stitches", 
+      "Burning, itching of legs; worse, exposure to air", 
+      "Ulcers; chronic eruptions on hands and fingers", 
+      "Exostosis", 
+      "ENLARGED CERVICAL GLANDS", 
       "Valuable for intercurrent use"
     ], 
     "Extremities": [

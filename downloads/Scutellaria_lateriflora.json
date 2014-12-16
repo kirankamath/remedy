@@ -3,40 +3,41 @@
   "Relationship": "Compare; CYPRIP.; LYCOPUS.", 
   "symptoms": {
     "Head": [
-      "DULL, FRONTAL HEADACHE", 
-      "Eyes feel pressed outwards", 
-      "Flushed face", 
-      "Restless sleep and frightful dreams", 
       "MUST MOVE ABOUT", 
-      "Night terrors", 
-      "Migraine; worse, over right eye; ACHING IN EYEBALLS", 
+      "Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture", 
+      "DULL, FRONTAL HEADACHE", 
+      "Restless sleep and frightful dreams", 
       "Explosive headaches of school teachers with frequent urination; headaches in front and base of brain", 
-      "Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture"
+      "Migraine; worse, over right eye; ACHING IN EYEBALLS", 
+      "Flushed face", 
+      "Eyes feel pressed outwards", 
+      "Night terrors"
     ], 
     "Stomach": [
       "Nausea; sour eructations; hiccough; pain and distress"
     ], 
     "Mind": [
+      "Confusion", 
       "FEAR OF SOME CALAMITY", 
-      "Inability to fix attention", 
-      "Confusion"
+      "Inability to fix attention"
     ], 
     "Abdomen": [
       "Gas, fullness and distention, colicky pain and uneasiness", 
       "Light colored diarrhoea"
     ], 
+    "Sleep": [
+      "Night-terrors; sleeplessness; sudden wakefulness; frightful dreams"
+    ], 
     "Extremities": [
-      "Twitchings of muscles; must be moving", 
-      "Chorea", 
-      "Tremors", 
+      "Weakness and aching", 
       "Sharp stinging pains in upper extremities", 
+      "Tremors", 
       "Nightly restlessness", 
-      "Weakness and aching"
+      "Chorea", 
+      "Twitchings of muscles; must be moving"
     ], 
     "Male": [
-      "Seminal emissions and impotency, with fear of never being better", 
-      "Sleep", 
-      "Night-terrors; sleeplessness; sudden wakefulness; frightful dreams"
+      "Seminal emissions and impotency, with fear of never being better"
     ]
   }, 
   "details": "This is a nervous sedative, where NERVOUS FEAR predominates. CARDIAC IRRITABILITY. CHOREA. Nervous irritation and spasms of children, during dentition. TWITCHING OF MUSCLES. Nervous weakness after influenza.", 

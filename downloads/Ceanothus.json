@@ -1,24 +1,24 @@
 {
   "name": "Ceanothus", 
-  "Relationship": "Compare: Tinospora cordifolia (a Hindu medicine for chronic cases of fever with enlarged spleen). Polymnia uvedalia - Bears foot - (acute splenitis with tenderness over left hypochondriac region; spleen enlarged, ague cake. Vascular atony, tissues sodden, flabby and non-elastic. Enlarged glands; influences all ductless glands). Ceanothus thrysiflorus - California Lilac - (Pharyngitis, tonsillitis, nasal catarrh, diphtheria. Tincture internally and as a gargle.)Compare: Berberis; Myrica; Cedron; Agaricus (spleen).", 
+  "Relationship": "Compare: Berberis; Myrica; Cedron; Agaricus (spleen).Compare: Tinospora cordifolia (a Hindu medicine for chronic cases of fever with enlarged spleen). Polymnia uvedalia - Bears foot - (acute splenitis with tenderness over left hypochondriac region; spleen enlarged, ague cake. Vascular atony, tissues sodden, flabby and non-elastic. Enlarged glands; influences all ductless glands). Ceanothus thrysiflorus - California Lilac - (Pharyngitis, tonsillitis, nasal catarrh, diphtheria. Tincture internally and as a gargle.)", 
   "symptoms": {
     "Modalities": [
       "Worse: motion; lying on left side"
     ], 
     "Abdomen": [
       "Enormous enlargement of the spleen", 
-      "Splenitis; PAIN ALL UP THE LEFT SIDE", 
-      "Deep-seated pain in left hypochondrium, hypertrophy of spleen", 
-      "Leucaemia", 
       "Violent dyspnoea", 
       "Menses profuse, and yellow weakening leucorrhoea", 
+      "Leucaemia", 
+      "Splenitis; PAIN ALL UP THE LEFT SIDE", 
+      "Deep-seated pain in left hypochondrium, hypertrophy of spleen", 
       "Unable to lie on left side", 
       "Pain in liver and back"
     ], 
     "Rectum": [
+      "Constant urging to urinate", 
       "Diarrhoea; bearing down in abdomen and rectum", 
       "Urine Section", 
-      "Constant urging to urinate", 
       "Green; frothy; contains bile, sugar"
     ]
   }, 

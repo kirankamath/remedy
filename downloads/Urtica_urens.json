@@ -6,9 +6,9 @@
       "Vertigo, headache with spleen pains"
     ], 
     "Fever": [
-      "General heat in bed with soreness over abdomen", 
+      "Tropical fever", 
       "Fever of gout", 
-      "Tropical fever"
+      "General heat in bed with soreness over abdomen"
     ], 
     "Modalities": [
       "Worse: from snow-air; water", 
@@ -19,26 +19,26 @@
       "Diarrhoea chronic disease of large intestine characterized by large secretion of mucus"
     ], 
     "Female": [
-      "DIMINISHED SECRETION OF MILK", 
       "Uterine hemorrhage", 
-      "Acid and excoriating leucorrhoea", 
       "PRURITUS VULVAE, WITH STINGING, ITCHING, and oedema", 
-      "Arrests flow of milk after weaning", 
-      "Excessive swelling of breasts"
+      "DIMINISHED SECRETION OF MILK", 
+      "Acid and excoriating leucorrhoea", 
+      "Excessive swelling of breasts", 
+      "Arrests flow of milk after weaning"
     ], 
     "Skin": [
-      "ITCHING BLOTCHES", 
       "URTICARIA, burning heat, with formication; violent itching", 
-      "Consequences of suppressed nettle-rash", 
-      "Rheumatism alternates with nettle-rash", 
-      "Burn confined to skin", 
       "Urticaria nodosa", 
+      "Rheumatism alternates with nettle-rash", 
+      "CHICKEN-POX", 
+      "Itching and stinging of scrotum", 
+      "ITCHING BLOTCHES", 
+      "Burn confined to skin", 
+      "Herpes labialis with sensation of heat and itching", 
+      "Angioneurotic oedema", 
       "Erythema, with burning and stinging", 
       "BURNS AND SCALDS", 
-      "CHICKEN-POX", 
-      "Angioneurotic oedema", 
-      "Herpes labialis with sensation of heat and itching", 
-      "Itching and stinging of scrotum"
+      "Consequences of suppressed nettle-rash"
     ], 
     "Extremities": [
       "Pain in acute gout deltoid; pain in ankles, wrists"

@@ -4,8 +4,8 @@
   ], 
   "symptoms": {
     "Head": [
-      "WEIGHT ON VERTEX; ACHING AND BURNING IN TEMPLES AND ABOVE EYES", 
       "Crushing feeling in vertex", 
+      "WEIGHT ON VERTEX; ACHING AND BURNING IN TEMPLES AND ABOVE EYES", 
       "Vertigo, dizzy when lying down"
     ], 
     "Female": [
@@ -13,10 +13,10 @@
       "Pain in nipples"
     ], 
     "Eyes": [
-      "Ciliary neuralgia; worse any attempt to use eyes: burning in eyes", 
-      "Lachrymation", 
       "Cannot bear light", 
-      "Headache; involving nerves going to eye"
+      "Headache; involving nerves going to eye", 
+      "Ciliary neuralgia; worse any attempt to use eyes: burning in eyes", 
+      "Lachrymation"
     ]
   }, 
   "name": "Phellandrium", 

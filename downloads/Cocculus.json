@@ -1,37 +1,36 @@
 {
   "name": "Cocculus", 
-  "Relationship": "Antidotes: COFFEE, NUX.Compare: PICROTOXIN - alkaloid of Cocculus - (epilepsy, attacks in the morning on leaving horizontal position, hernia, locomotor ataxia, night-sweats); SYMPHORICARPUS (morning sickness); PETROL.; PULS.; IGNAT.", 
+  "Relationship": "Compare: PICROTOXIN - alkaloid of Cocculus - (epilepsy, attacks in the morning on leaving horizontal position, hernia, locomotor ataxia, night-sweats); SYMPHORICARPUS (morning sickness); PETROL.; PULS.; IGNAT.Antidotes: COFFEE, NUX.", 
   "symptoms": {
     "Head": [
-      "Vertigo, nausea, ESPECIALLY WHEN RIDING or sitting up", 
       "Sense of emptiness in head", 
-      "Headache IN OCCIPUT and nape; worse, lying on back of head", 
       "Sick headache from carriage-riding, cannot lie on back part of head", 
-      "Pupils contracted", 
-      "Opening and shutting sensation, especially in occiput", 
       "Trembling of head", 
+      "Opening and shutting sensation, especially in occiput", 
+      "Headache IN OCCIPUT and nape; worse, lying on back of head", 
+      "Pupils contracted", 
+      "Vertigo, nausea, ESPECIALLY WHEN RIDING or sitting up", 
       "Pain in eyes as if torn out of head"
     ], 
     "Respiratory": [
       "Sensation of emptiness and cramp in chest", 
-      "Dyspnoea as from constriction of trachea, as if irritated by smoke", 
-      "Choking constriction in upper part of oesophagus, oppressing breathing and inducing cough"
+      "Choking constriction in upper part of oesophagus, oppressing breathing and inducing cough", 
+      "Dyspnoea as from constriction of trachea, as if irritated by smoke"
     ], 
     "Stomach": [
-      "Nausea from riding in cars, boat, etc", 
-      ", or looking at boat in motion; worse on becoming cold or taking cold", 
-      "Nausea, with faintness and vomiting", 
-      "AVERSION TO FOOD, drink, tobacco", 
-      "METALLIC TASTE", 
-      "Paralysis of muscles preventing deglutition", 
       "Dryness of oesophagus", 
-      "Seasickness", 
-      "Cramp in stomach during and after meal", 
-      "Hiccough and spasmodic yawning", 
       "Loss of appetite", 
       "Desire for cold drinks, especially beer", 
+      "Smell of food disgusts", 
+      "AVERSION TO FOOD, drink, tobacco", 
       "Sensation in stomach as if one had been a long time without food until hunger was gone", 
-      "Smell of food disgusts"
+      "METALLIC TASTE", 
+      "Seasickness", 
+      "Nausea, with faintness and vomiting", 
+      "Paralysis of muscles preventing deglutition", 
+      "Cramp in stomach during and after meal", 
+      "Nausea from riding in cars, boat, etc., or looking at boat in motion; worse on becoming cold or taking cold", 
+      "Hiccough and spasmodic yawning"
     ], 
     "Modalities": [
       "Worse: eating", 
@@ -45,23 +44,23 @@
       "Worse: jar; afternoon"
     ], 
     "Mind": [
-      "Capricious", 
-      "Heavy and stupid", 
-      "TIME PASSES TOO QUICKLY; absorbed in reveries", 
-      "Inclination to sing irresistible", 
-      "Slow of comprehension", 
-      "Mind benumbed", 
-      "PROFOUND SADNESS", 
+      "Very anxious about the health of others", 
       "Cannot bear contradiction", 
+      "Heavy and stupid", 
       "Speaks hastily", 
-      "Very anxious about the health of others"
+      "TIME PASSES TOO QUICKLY; absorbed in reveries", 
+      "Capricious", 
+      "Inclination to sing irresistible", 
+      "PROFOUND SADNESS", 
+      "Mind benumbed", 
+      "Slow of comprehension"
     ], 
     "Back": [
-      "Cracking of cervical vertebrae when moving head", 
       "PARALYTIC PAIN IN SMALL OF BACK", 
-      "Pain IN SHOULDER AND ARMS AS IF BRUISED", 
+      "Stiffness on moving shoulders", 
       "Pressure in scapula and nape", 
-      "Stiffness on moving shoulders"
+      "Pain IN SHOULDER AND ARMS AS IF BRUISED", 
+      "Cracking of cervical vertebrae when moving head"
     ], 
     "Face": [
       "Paralysis of facial nerve", 
@@ -69,17 +68,23 @@
       "Prosopalgia in afternoon, with wide radiations of pain"
     ], 
     "Fever": [
+      "CHILLINESS, WITH PERSPIRATION, AND HEAT OF SKIN", 
       "Chill, with flatulent colic, nausea, vertigo, coldness of lower extremities, and heat of head", 
-      "Sweat general", 
       "Nervous form of low fever", 
-      "CHILLINESS, WITH PERSPIRATION, AND HEAT OF SKIN"
+      "Sweat general"
+    ], 
+    "Sleep": [
+      "Coma vigil", 
+      "Spasmodic yawning", 
+      "Constant drowsiness", 
+      "After loss of sleep, night-watching, nursing"
     ], 
     "Female": [
       "Dysmenorrhoea, with profuse dark menses", 
+      "So weak during menstruation, scarcely able to stand", 
       "Too early menses, clotted, with spasmodic colic", 
-      "Painful pressing in uterine region, followed by hemorrhoids", 
       "Purulent, gushing leucorrhoea between menses; VERY WEAKENING, can scarcely speak", 
-      "So weak during menstruation, scarcely able to stand"
+      "Painful pressing in uterine region, followed by hemorrhoids"
     ], 
     "Abdomen": [
       "Distended, with wind, and feeling as IF FULL OF SHARP STONES WHEN MOVING; better, lying on one side or the other", 
@@ -87,22 +92,17 @@
       "ABDOMINAL MUSCLES WEAK; it seems as if a hernia would take place"
     ], 
     "Extremities": [
-      "Lameness; worse by bending", 
       "TREMBLING and pain in limbs", 
-      "Arms go to sleep", 
       "One-sided paralysis; worse after sleep", 
-      "Hands are alternately hot and cold; numbness and cold sweat now of one, now of the other hand", 
-      "Numb and unsteady", 
-      "KNEES CRACK ON MOTION", 
-      "Lower limbs very weak", 
-      "Inflammatory swelling of knee", 
-      "Intensely painful, paralytic drawing", 
       "Limbs straightened out, painful when flexed", 
-      "Sleep", 
-      "Spasmodic yawning", 
-      "Coma vigil", 
-      "Constant drowsiness", 
-      "After loss of sleep, night-watching, nursing"
+      "Lameness; worse by bending", 
+      "KNEES CRACK ON MOTION", 
+      "Hands are alternately hot and cold; numbness and cold sweat now of one, now of the other hand", 
+      "Arms go to sleep", 
+      "Inflammatory swelling of knee", 
+      "Numb and unsteady", 
+      "Lower limbs very weak", 
+      "Intensely painful, paralytic drawing"
     ]
   }, 
   "details": "Within the sphere of action of Cocculus are many spasmodic, and paretic affections, notably those affecting one-half of the body. Affects the cerebrum, will not cure convulsive seizures proceeding from the spinal cord. (A. E. Hinsdale.) PAINFUL CONTRACTURE of limbs and trunk; tetanus. Many of the evil EFFECTS OF NIGHT-WATCHING are relieved by it. It shows a special attraction FOR LIGHT-HAIRED FEMALES, especially during pregnancy, causing much nausea and backache. Unmarried and childless women, sensitive and romantic girls, etc. All its symptoms are worse riding in a carriage or on shipboard; hence its use in seasickness. Sensation of HOLLOWNESS, or emptiness, as if parts had gone to sleep. Feels too weak to talk loud.", 

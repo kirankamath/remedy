@@ -4,38 +4,38 @@
   ], 
   "symptoms": {
     "Head": [
-      "Hemicrania; sudden glimmering before eyes; feels confused and empty", 
-      "Pain over eyebrows"
+      "Pain over eyebrows", 
+      "Hemicrania; sudden glimmering before eyes; feels confused and empty"
     ], 
     "Respiratory": [
       "Hoarseness", 
-      "SMARTING BELOW LARYNX; breathing difficult", 
       "ASTHMA, without anxiety, WORSE toward morning", 
+      "SMARTING BELOW LARYNX; breathing difficult", 
       "Scratching sensation in throat; stitches in chest", 
       "Cough dry, hacking; copious morning sputa"
     ], 
     "Stomach": [
-      "Taste of food remains long, especially of bread and toast", 
-      "Feels heavy, like from a stone", 
-      "COMPLAINTS FROM EATING MELONS AND DRINKING IMPURE WATER", 
       "ACIDITY", 
       "Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness", 
+      "Feels heavy, like from a stone", 
+      "COMPLAINTS FROM EATING MELONS AND DRINKING IMPURE WATER", 
+      "Taste of food remains long, especially of bread and toast", 
       "Pain from pit to under sternum, worse eating"
     ], 
     "Abdomen": [
-      "Colic, diarrhoea, extremely loose bowels", 
-      "Diarrhoea from drinking bad water, with much flatulence, cutting pain, relaxation of sphincter", 
-      "Hot, sore, painful anus during pregnancy", 
-      "Chronic intestinal catarrh", 
-      "Anus red and inflamed", 
-      "Hemorrhoids hot, painful, sore", 
-      "Urinary Organs", 
-      "Frequent desire to urinate", 
-      "Stinging, burning in orifice", 
-      "Yellow discharge from urethra", 
+      "After urinating, continues to ooze in drops", 
       "Urine thick, turbid, of strong odor, suppressed", 
+      "Hemorrhoids hot, painful, sore", 
+      "Colic, diarrhoea, extremely loose bowels", 
       "Complete suppression after typhoid", 
-      "After urinating, continues to ooze in drops"
+      "Yellow discharge from urethra", 
+      "Frequent desire to urinate", 
+      "Hot, sore, painful anus during pregnancy", 
+      "Anus red and inflamed", 
+      "Stinging, burning in orifice", 
+      "Chronic intestinal catarrh", 
+      "Diarrhoea from drinking bad water, with much flatulence, cutting pain, relaxation of sphincter", 
+      "Urinary Organs"
     ], 
     "Nose": [
       "Feels obstructed and dry", 

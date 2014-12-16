@@ -5,27 +5,27 @@
   "details": "A remarkable remedy for many forms of chronic nasal and bronchial catarrh. Acne. Amaurosis.", 
   "symptoms": {
     "Respiratory": [
-      "Tickling in larynx", 
-      "INCREASED MUCUS with fullness in bronchi", 
+      "Dry hard cough", 
       "Respiration difficult, pressure in bronchi, with constriction", 
       "Tough mucus in bronchi and larynx", 
-      "Dry hard cough", 
-      "Congestion of upper lobe of left lung", 
+      "Pneumonia, when hepatization occurred and resolution failed to take place", 
       "Winter coughs, patient is sore all over", 
-      "Pneumonia, when hepatization occurred and resolution failed to take place"
+      "INCREASED MUCUS with fullness in bronchi", 
+      "Tickling in larynx", 
+      "Congestion of upper lobe of left lung"
     ], 
     "Nose": [
       "NOSEBLEED ON WASHING", 
-      "Increased secretion in nose and throat", 
-      "Loss of smell"
+      "Loss of smell", 
+      "Increased secretion in nose and throat"
     ], 
     "Skin": [
-      "Acne", 
-      "Itching on hands and feet"
+      "Itching on hands and feet", 
+      "Acne"
     ], 
     "Throat": [
-      "Rough and scrappy feeling", 
-      "Metallic styptic taste"
+      "Metallic styptic taste", 
+      "Rough and scrappy feeling"
     ]
   }, 
   "name": "Antimonium sulphuratum auratum", 

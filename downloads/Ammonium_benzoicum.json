@@ -1,6 +1,6 @@
 {
   "name": "Ammonium benzoicum", 
-  "Relationship": "Compare: Terebinth.; Benz-ac.; Ammonia salts, Caust.In albuminuria compare: Kalmia; Helon; Merc. cor.; Berb.; Canth.", 
+  "Relationship": "In albuminuria compare: Kalmia; Helon; Merc. cor.; Berb.; Canth.Compare: Terebinth.; Benz-ac.; Ammonia salts, Caust.", 
   "symptoms": {
     "Head": [
       "Heavy, stupid"
@@ -11,9 +11,9 @@
     ], 
     "Face": [
       "Bloated, swollen eyelids", 
-      "Swelling under tongue like ranula", 
-      "Urine Section", 
       "Smoky, scanty", 
+      "Urine Section", 
+      "Swelling under tongue like ranula", 
       "Albuminous and thick deposits"
     ]
   }, 

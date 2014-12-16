@@ -1,33 +1,33 @@
 {
   "name": "Phytolacca", 
-  "Relationship": "Compare: Tincture of PHYTOLACCA BERRY (sore throats and in the treatment of obesity); BRY.; RHUS; KALI-HYD.; MERC.; SANG.; ARUM TRIPH.Inimical: MERCUR.Antidotes: Milk and salt; BELLAD.; MEZER.", 
+  "Relationship": "Inimical: MERCUR.Compare: Tincture of PHYTOLACCA BERRY (sore throats and in the treatment of obesity); BRY.; RHUS; KALI-HYD.; MERC.; SANG.; ARUM TRIPH.Antidotes: Milk and salt; BELLAD.; MEZER.", 
   "symptoms": {
     "Heart": [
       "Feeling as if heart leaped into throat", 
       "Shock of pain in cardiac region alternating with pain in right arm"
     ], 
     "Eyes": [
-      "SMARTING", 
+      "ABUNDANT LACHRYMATION, HOT", 
       "Feeling of sand under lids", 
-      "Tarsal edges feel hot", 
+      "SMARTING", 
       "Fistula lachrymalis", 
-      "ABUNDANT LACHRYMATION, HOT"
+      "Tarsal edges feel hot"
     ], 
     "Fever": [
       "High fever, alternating with chilliness and great prostration"
     ], 
     "Female": [
-      "Mastitis; MAMMAE HARD AND VERY SENSITIVE", 
-      "Tumors of the breasts with enlarged axillary glands", 
-      "Cancer of breast", 
       "Breast is hard, painful and of purple hue", 
       "Mammary abscess", 
+      "Tumors of the breasts with enlarged axillary glands", 
       "When child nurses, PAIN GOES FROM NIPPLE ALL OVER BODY", 
-      "Cracks and small ulcers about nipples", 
-      "Irritable breasts, before and during menses", 
+      "Cancer of breast", 
       "Galactorrhoea", 
+      "Cracks and small ulcers about nipples", 
       "Menses too copious and frequent", 
-      "Ovarian neuralgia of right side"
+      "Ovarian neuralgia of right side", 
+      "Irritable breasts, before and during menses", 
+      "Mastitis; MAMMAE HARD AND VERY SENSITIVE"
     ], 
     "Modalities": [
       "Worse: sensitive to electric changes", 
@@ -36,89 +36,89 @@
       "Better: rest"
     ], 
     "Mind": [
-      "Loss of personal delicacy, disregard of surrounding objects", 
-      "Indifferent to life"
+      "Indifferent to life", 
+      "Loss of personal delicacy, disregard of surrounding objects"
     ], 
     "Back": [
       "Aching pains in lumbar region; pains streaking up and down spine into sacrum", 
-      "Weakness and dull pain in region of kidneys", 
-      "Back stiff, especially in morning on rising and during damp weather"
+      "Back stiff, especially in morning on rising and during damp weather", 
+      "Weakness and dull pain in region of kidneys"
     ], 
     "Abdomen": [
-      "Sore spot in right hypochondrium", 
-      "Rheumatism of abdominal muscles", 
-      "Colic at navel", 
-      "Burning griping pains", 
       "Bruised feeling through epigastrium and abdomen", 
-      "Constipation of the aged and those with weak heart", 
       "Bleeding from rectum", 
-      "Urine Section", 
+      "Sore spot in right hypochondrium", 
       "Scanty, suppressed, WITH PAIN IN KIDNEY REGION", 
-      "Nephritis"
+      "Constipation of the aged and those with weak heart", 
+      "Burning griping pains", 
+      "Rheumatism of abdominal muscles", 
+      "Nephritis", 
+      "Urine Section", 
+      "Colic at navel"
     ], 
     "Respiratory": [
+      "Rheumatism of lower intercostals", 
       "Aphonia", 
       "Difficult breathing; dry hacking, tickling cough; worse at night", 
-      "Aching pains in chest, through mid-sternum; with cough", 
-      "Rheumatism of lower intercostals"
+      "Aching pains in chest, through mid-sternum; with cough"
     ], 
     "Mouth": [
-      "Teething children with irresistible desire to BITE THE TEETH TOGETHER", 
       "Teeth clenched; low lip drawn down; lips everted; jaws firmly set; chin drawn down on sternum", 
-      "Tongue RED TIP, feels rough and scalded; bleeding from mouth; blisters on side", 
+      "Teething children with irresistible desire to BITE THE TEETH TOGETHER", 
       "Mapped, indented, fissured, with yellow patch down center", 
-      "Much stringy saliva"
+      "Much stringy saliva", 
+      "Tongue RED TIP, feels rough and scalded; bleeding from mouth; blisters on side"
     ], 
     "Nose": [
       "Coryza; flow of mucus from ONE NOSTRIL AND FROM POSTERIOR NARES"
     ], 
     "Head": [
-      "Vertigo on rising", 
+      "Scaly eruption on scalp", 
+      "Pressure in temples and over eyes", 
       "Brain feels sore", 
       "Pain from frontal region backward", 
-      "Pressure in temples and over eyes", 
-      "Rheumatism of scalp; pains come on every time it rains", 
-      "Scaly eruption on scalp"
+      "Vertigo on rising", 
+      "Rheumatism of scalp; pains come on every time it rains"
     ], 
     "Skin": [
-      "Itches, becomes dry, shrunken, pale", 
-      "Papular and pustular lesions", 
-      "Most useful in early stages of cutaneous diseases", 
-      "DISPOSITION TO BOILS, and when sloughing occurs", 
+      "Scarlatina-like rash", 
       "Squamous eruptions", 
+      "Papular and pustular lesions", 
       "Syphilitic eruptions", 
+      "Most useful in early stages of cutaneous diseases", 
+      "Warts and moles", 
+      "Itches, becomes dry, shrunken, pale", 
       "Swelling and induration of glands", 
       "VENEREAL BUBOES", 
-      "Scarlatina-like rash", 
-      "Warts and moles"
+      "DISPOSITION TO BOILS, and when sloughing occurs"
     ], 
     "Throat": [
-      "DARK RED OR BLUISH RED", 
+      "Tension and pressure in parotid gland", 
       "Much pain at root of tongue; soft palate and tonsils swollen", 
-      "Sensation of a lump in throat", 
-      "THROAT FEELS ROUGH, NARROW, HOT", 
+      "QUINSY; TONSILS AND FAUCES SWOLLEN, with burning pain; cannot swallow even water", 
+      "CANNOT SWALLOW ANYTHING HOT", 
+      "FOLLICULAR PHARYNGITIS", 
+      "Ulcerated sore throat and diphtheria; THROAT FEELS VERY HOT; PAIN AT ROOT OF TONGUE EXTENDING TO EAR", 
       "TONSILS SWOLLEN, especially right; dark-red appearance", 
       "SHOOTING PAIN INTO EARS ON SWALLOWING", 
-      "Pseudo-membranous exudation, grayish-white; thick, tenacious yellowish mucus, difficult to dislodge", 
-      "CANNOT SWALLOW ANYTHING HOT", 
-      "Tension and pressure in parotid gland", 
-      "Ulcerated sore throat and diphtheria; THROAT FEELS VERY HOT; PAIN AT ROOT OF TONGUE EXTENDING TO EAR", 
-      "Uvula large, dropsical", 
-      "QUINSY; TONSILS AND FAUCES SWOLLEN, with burning pain; cannot swallow even water", 
       "MUMPS", 
-      "FOLLICULAR PHARYNGITIS"
+      "DARK RED OR BLUISH RED", 
+      "THROAT FEELS ROUGH, NARROW, HOT", 
+      "Pseudo-membranous exudation, grayish-white; thick, tenacious yellowish mucus, difficult to dislodge", 
+      "Sensation of a lump in throat", 
+      "Uvula large, dropsical"
     ], 
     "Extremities": [
-      "Shooting pain in right shoulder, with stiffness and inability to raise arm", 
       "Rheumatic pains; worse in morning", 
-      "PAINS FLY LIKE ELECTRIC SHOCKS, shooting, lancinating, shifting rapidly", 
-      "Pain in under side of thighs", 
-      "Syphilitic sciatica", 
-      "ACHING OF HEELS; relieved by elevating feet", 
       "Pains like shocks", 
-      "Pain in legs, patient dreads to get up", 
+      "Syphilitic sciatica", 
       "Feet puffed; pain in ankles and feet", 
-      "Neuralgia in toes"
+      "Pain in under side of thighs", 
+      "Pain in legs, patient dreads to get up", 
+      "PAINS FLY LIKE ELECTRIC SHOCKS, shooting, lancinating, shifting rapidly", 
+      "ACHING OF HEELS; relieved by elevating feet", 
+      "Neuralgia in toes", 
+      "Shooting pain in right shoulder, with stiffness and inability to raise arm"
     ], 
     "Male": [
       "Painful induration of testicles", 

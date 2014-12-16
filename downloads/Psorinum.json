@@ -3,37 +3,34 @@
   "Relationship": "Complementary: SULPHUR.Compare: PEDICULUS - Head-louse - (psoric manifestations in children. Eruption on dorsum of hands, feet, neck. Prurigo; pellagra. Unusual aptitude for study and work). PEDICULUS (Cooties) transmit typhus and trench fever.) In lack of reaction compare CALCAREA and NATRUM ARS. GAERTNER. (Pessimistic, lack of confidence, subjective troublesome eye symptoms, fear of heights. Urticaria. Use 30th and 200th. (Wheeler.)", 
   "symptoms": {
     "Eyes": [
+      "Secretion acrid", 
       "Agglutinated", 
-      "Blepharitis", 
       "CHRONIC OPHTHALMIA, THAT CONSTANTLY RECURS", 
-      "Edges of lids red", 
-      "Secretion acrid"
+      "Blepharitis", 
+      "Edges of lids red"
     ], 
     "Fever": [
-      "Profuse, offensive perspiration; night-sweats", 
-      "Sleep", 
-      "Sleepless from intolerable itching", 
-      "Easily started"
+      "Profuse, offensive perspiration; night-sweats"
     ], 
     "Stomach": [
-      "Eructations like bad eggs", 
       "VERY HUNGRY ALWAYS; MUST HAVE SOMETHING TO EAT IN THE MIDDLE OF THE NIGHT", 
-      "Nausea; vomiting of pregnancy", 
-      "Pain in abdomen after eating"
+      "Eructations like bad eggs", 
+      "Pain in abdomen after eating", 
+      "Nausea; vomiting of pregnancy"
     ], 
     "Modalities": [
-      "Worse: coffee; Psorinum patient does not improve while using coffee", 
       "Worse: changes of weather", 
       "Worse: in hot sunshine", 
       "Worse: from cold", 
       "Better: heat", 
       "Better: warm clothing", 
-      "Better: even in summer"
+      "Better: even in summer", 
+      "Worse: coffee; Psorinum patient does not improve while using coffee"
     ], 
     "Mind": [
       "Hopeless; despairs of recovery", 
-      "MELANCHOLY, deep and persistent; religious", 
-      "Suicidal tendency"
+      "Suicidal tendency", 
+      "MELANCHOLY, deep and persistent; religious"
     ], 
     "Stool": [
       "Mucous, BLOODY, EXCESSIVELY FETID, DARK FLUID", 
@@ -42,72 +39,76 @@
     ], 
     "Head": [
       "Awakens at night with pain as from blow on head", 
+      "Humid eruption on scalp; hair matted", 
       "Chronic headaches; hungry during attacks; with vertigo", 
       "Hammering pain; brain feels too large; worse, change of weather", 
-      "Dull, pressive pain in occiput", 
-      "Humid eruption on scalp; hair matted", 
-      "Hair dry"
+      "Hair dry", 
+      "Dull, pressive pain in occiput"
     ], 
     "Face": [
+      "Sickly", 
       "Swelling of upper lip", 
-      "Pale, delicate", 
       "HUMID ERUPTION ON FACE", 
-      "Sickly"
+      "Pale, delicate"
     ], 
     "Throat": [
-      "Tonsils greatly swollen; painful swallowing, with pain in ears", 
-      "Profuse, offensive saliva; tough mucus in throat", 
       "Recurring quinsy", 
+      "Hawking up of cheesy, pea-like balls of disgusting smell and taste", 
       "ERADICATES TENDENCY TO QUINSY", 
-      "Hawking up of cheesy, pea-like balls of disgusting smell and taste"
+      "Tonsils greatly swollen; painful swallowing, with pain in ears", 
+      "Profuse, offensive saliva; tough mucus in throat"
     ], 
     "Respiratory": [
       "Asthma, with dyspnoea; worse, sitting up; better, lying down and keeping arms spread wide apart", 
-      "Dry, hard cough, with great weakness in chest", 
-      "FEELING OF ULCERATION UNDER STERNUM", 
-      "Pain in chest; better, lying down", 
       "Cough returns every winter, from suppressed eruption", 
-      "HAY-FEVER returning irregularly every year"
+      "Pain in chest; better, lying down", 
+      "HAY-FEVER returning irregularly every year", 
+      "FEELING OF ULCERATION UNDER STERNUM", 
+      "Dry, hard cough, with great weakness in chest"
+    ], 
+    "Sleep": [
+      "Sleepless from intolerable itching", 
+      "Easily started"
+    ], 
+    "Nose": [
+      "Dry, coryza, with stoppage of nose", 
+      "Acne rosacea", 
+      "Chronic catarrh; dropping from posterior nares"
+    ], 
+    "Female": [
+      "Pimples oozing an acrid fluid that burns and excoriates the glands", 
+      "Mammae swollen and painful", 
+      "LEUCORRHOEA fetid, lumpy, with much backache and DEBILITY"
+    ], 
+    "Skin": [
+      "Dry, lusterless, rough hair", 
+      "INTOLERABLE ITCHING", 
+      "Sebaceous glands secrete excessively; oily skin", 
+      "Indolent ulcers, slow to heal Eczema behind ears", 
+      "Herpetic eruptions, especially on scalp and bends of joints with itching; worse, from warmth of bed", 
+      "Pustules near finger-nails", 
+      "Enlarged glands", 
+      "Urticaria after every exertion", 
+      "Crusty eruptions all over", 
+      "Dirty, dingy look"
     ], 
     "Mouth": [
       "Obstinate rhagades at corners", 
       "Tongue, gums ulcerated; tough mucus of foul taste adheres to soft palate"
     ], 
-    "Nose": [
-      "Dry, coryza, with stoppage of nose", 
-      "Chronic catarrh; dropping from posterior nares", 
-      "Acne rosacea"
-    ], 
-    "Female": [
-      "LEUCORRHOEA fetid, lumpy, with much backache and DEBILITY", 
-      "Mammae swollen and painful", 
-      "Pimples oozing an acrid fluid that burns and excoriates the glands"
-    ], 
-    "Skin": [
-      "Dirty, dingy look", 
-      "Dry, lusterless, rough hair", 
-      "INTOLERABLE ITCHING", 
-      "Herpetic eruptions, especially on scalp and bends of joints with itching; worse, from warmth of bed", 
-      "Enlarged glands", 
-      "Sebaceous glands secrete excessively; oily skin", 
-      "Indolent ulcers, slow to heal Eczema behind ears", 
-      "Crusty eruptions all over", 
-      "Urticaria after every exertion", 
-      "Pustules near finger-nails"
-    ], 
     "Extremities": [
-      "Weakness of joints, as if they would not hold together", 
+      "Fetid foot-sweats", 
       "ERUPTION AROUND FINGER-NAILS", 
-      "Fetid foot-sweats"
+      "Weakness of joints, as if they would not hold together"
     ], 
     "Ears": [
       "Raw, red, OOZING SCABS AROUND EARS", 
-      "Sore pain behind ears", 
+      "MOST FETID PUS FROM EARS, brownish, offensive", 
       "Herpes from temples over ears to cheeks", 
-      "OFFENSIVE DISCHARGE FROM ECZEMA AROUND EARS", 
       "INTOLERABLE ITCHING", 
       "Chronic otorrhoea", 
-      "MOST FETID PUS FROM EARS, brownish, offensive"
+      "Sore pain behind ears", 
+      "OFFENSIVE DISCHARGE FROM ECZEMA AROUND EARS"
     ]
   }, 
   "details": "The therapeutic field of this remedy is found in so-called psoric manifestations. Psorinum is a cold medicine; wants the head kept warm, WANTS WARM CLOTHING even in summer. EXTREME SENSITIVENESS TO COLD. DEBILITY, independent of any organic disease, especially the weakness remaining after acute disease. LACK OF REACTION, i.e. phagocytes defective; when well-chosen remedies fail to act. Scrofulous patients. Secretions HAVE A FILTHY SMELL. Profuse sweating. Cardiac weakness. Skin symptoms very prominent. Often gives immunity from cold-catching. Easy perspiration when walking. Syphilis, inherited and tertiary. OFFENSIVE DISCHARGES.", 

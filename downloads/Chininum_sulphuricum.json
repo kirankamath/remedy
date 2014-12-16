@@ -1,33 +1,33 @@
 {
   "name": "Chininum sulphuricum", 
-  "Relationship": "Compare: Chin. salicyl. (Deafness, tinnitus, and Meniere's disease.) Ars.; Eupat.; Methyl blue. Camphor mono-bromide (is said to intensify the action of Quinine and render it more permanent.) Baja, an East Indian drug, (said to be almost infallible in intermittent fever, quartan type; pulsating headache injected eyes, flushed face. Liver and spleen enlarged. Oedema. Also Pambotano, Mexican remedy for intermittent and tropical fevers.Antidotes: Parthenium; Nat. mur.; Lach.; Arn.; Puls.", 
+  "Relationship": "Antidotes: Parthenium; Nat. mur.; Lach.; Arn.; Puls.Compare: Chin. salicyl. (Deafness, tinnitus, and Meniere's disease.) Ars.; Eupat.; Methyl blue. Camphor mono-bromide (is said to intensify the action of Quinine and render it more permanent.) Baja, an East Indian drug, (said to be almost infallible in intermittent fever, quartan type; pulsating headache injected eyes, flushed face. Liver and spleen enlarged. Oedema. Also Pambotano, Mexican remedy for intermittent and tropical fevers.", 
   "symptoms": {
     "Head": [
-      "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation", 
-      "Worse left side", 
-      "Falling in street", 
       "Inability to remain standing", 
-      "Amaurosis"
+      "Falling in street", 
+      "Worse left side", 
+      "Amaurosis", 
+      "Pain in forehead and temples, increasing gradually at noon, of malarial origin, with vertigo and pulsation"
     ], 
     "Fever": [
-      "Chill daily at three PM Painful swelling of various veins during a chill", 
-      "Shivering even in a warm room", 
+      "Subnormal temperature", 
       "Anguish", 
-      "Subnormal temperature"
+      "Shivering even in a warm room", 
+      "Chill daily at three PM Painful swelling of various veins during a chill"
     ], 
     "Face": [
       "Neuralgia commences under eye; extends into and around it", 
-      "Pains return with great regularity; RELIEVED BY PRESSURE", 
-      "Spine", 
-      "GREAT SENSITIVENESS OF THE DORSAL VERTEBRAE; pain on pressure", 
-      "Last cervical sensitive", 
+      "Albuminuria", 
       "Pain extends to head and neck", 
-      "Urine Section", 
-      "Bloody", 
-      "Turbid, slimy, clay-colored, greasy sediment", 
-      "Small amount of urea and phosphoric acid with excess or uric acid and abundance of chlorides, accompanied by subnormal temperature", 
+      "Spine", 
       "Excessive flow", 
-      "Albuminuria"
+      "GREAT SENSITIVENESS OF THE DORSAL VERTEBRAE; pain on pressure", 
+      "Bloody", 
+      "Last cervical sensitive", 
+      "Small amount of urea and phosphoric acid with excess or uric acid and abundance of chlorides, accompanied by subnormal temperature", 
+      "Turbid, slimy, clay-colored, greasy sediment", 
+      "Pains return with great regularity; RELIEVED BY PRESSURE", 
+      "Urine Section"
     ], 
     "Skin": [
       "Itching; erythema, urticaria, icterus, vesication, pustules, purpura", 
@@ -38,7 +38,7 @@
       "Violent ringing, buzzing, and ROARING IN EARS, WITH DEAFNESS"
     ]
   }, 
-  "details": "A dose of Chinin, sulph. in high potency sometimes arouses suppressed malaria, and brings back the paroxysm. Aside from its undoubted influence over malaria, it is indicated homeopathically whenever there is marked periodicity and spinal sensitiveness. ACUTE ARTICULAR RHEUMATISM. Polyarticular gout. Pruritis and congested conditions of the rectum. Symptoms of CHRONIC INTERSTITIAL NEPHRITIS. Retrobulbar neuritis with sudden loss of sight. Thready vessels. Hiccough.Blood.An immediate and rapid decrease in red blood cells and reduction in haemoglobin with increase in elimination of chlorides. Tendency to poly nucleated leucocytosis.", 
+  "details": "Blood.An immediate and rapid decrease in red blood cells and reduction in haemoglobin with increase in elimination of chlorides. Tendency to poly nucleated leucocytosis.A dose of Chinin, sulph. in high potency sometimes arouses suppressed malaria, and brings back the paroxysm. Aside from its undoubted influence over malaria, it is indicated homeopathically whenever there is marked periodicity and spinal sensitiveness. ACUTE ARTICULAR RHEUMATISM. Polyarticular gout. Pruritis and congested conditions of the rectum. Symptoms of CHRONIC INTERSTITIAL NEPHRITIS. Retrobulbar neuritis with sudden loss of sight. Thready vessels. Hiccough.", 
   "Natural History": [
     "Sulphite of Quinine"
   ], 

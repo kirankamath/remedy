@@ -4,31 +4,29 @@
   ], 
   "symptoms": {
     "Head": [
-      "Sad; aching, worse from motion", 
-      "Brain seems swished hither and thither", 
-      "Coryza, with burning or biting in nostrils", 
-      "Noise in ears, as of cannon", 
-      "Yellow face", 
       "Orbital right neuralgia, with profuse lachrymation", 
-      "TOOTHACHE, RELIEVED BY GENERAL WARM SWEAT  Toothache extends to ear, temple, and cheek-bone"
+      "Yellow face", 
+      "Noise in ears, as of cannon", 
+      "Brain seems swished hither and thither", 
+      "TOOTHACHE, RELIEVED BY GENERAL WARM SWEAT  Toothache extends to ear, temple, and cheek-bone", 
+      "Sad; aching, worse from motion", 
+      "Coryza, with burning or biting in nostrils"
     ], 
     "Fever": [
-      "Shuddering all over; burning in palms; hot sweat in bed", 
-      "RelationshipCompare: Nat-sulph", 
-      "; Nux"
+      "Shuddering all over; burning in palms; hot sweat in bed"
     ], 
     "Stomach": [
-      "No appetite for meat and bread", 
-      "Vesicles at end of tongue", 
-      "Much mucus", 
-      "Colic with much rumbling and ineffectual urging to stool", 
-      "Stools", 
       "Hard and knotty", 
-      "Diarrhoea in morning, with painful urging and burning in anus, and pressure in rectum and bladder", 
-      "Urinary Organs", 
       "Voluptuous feeling in glans", 
+      "No appetite for meat and bread", 
+      "Much mucus", 
+      "Urination frequent, copious, frothy", 
       "Burning in urethra", 
-      "Urination frequent, copious, frothy"
+      "Stools", 
+      "Diarrhoea in morning, with painful urging and burning in anus, and pressure in rectum and bladder", 
+      "Vesicles at end of tongue", 
+      "Colic with much rumbling and ineffectual urging to stool", 
+      "Urinary Organs"
     ], 
     "Back": [
       "Severe pains in region of LOWER INNER ANGLE OF LEFT SHOULDER-BLADE, running into chest"
@@ -36,5 +34,6 @@
     "dosage": ""
   }, 
   "name": "Chenopodi glauci aphis", 
+  "Relationship": "Compare: Nat-sulph.; Nux.", 
   "details": "Partakes largely of the properties of the plant upon which the insect lives."
 }

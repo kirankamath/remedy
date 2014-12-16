@@ -1,29 +1,29 @@
 {
   "name": "Cina", 
-  "Relationship": "Compare: SANTONIN - (often preferable in worm affections; same symptoms as Cina; corresponding to the \"pain in shocks\" produced by Cina. Visual illusions, YELLOW sight; violent light not recognized, colors not distinguishable. Urine deep saffron color. Spasms and twitchings, chronic gastric and intestinal troubles sometimes removed by a single dose (physiological) of Santonin. (Dahlke.) HELMINTHOCHORTOS - Worm-moss (acts very powerfully on intestinal worms, especially the lumbricoid.) TEUCRIUM; IGNAT.; CHAM.; SPIG.Antidote; CAMPH.; CAPS.", 
+  "Relationship": "Antidote; CAMPH.; CAPS.Compare: SANTONIN - (often preferable in worm affections; same symptoms as Cina; corresponding to the pain in shocks produced by Cina. Visual illusions, YELLOW sight; violent light not recognized, colors not distinguishable. Urine deep saffron color. Spasms and twitchings, chronic gastric and intestinal troubles sometimes removed by a single dose (physiological) of Santonin. (Dahlke.) HELMINTHOCHORTOS - Worm-moss (acts very powerfully on intestinal worms, especially the lumbricoid.) TEUCRIUM; IGNAT.; CHAM.; SPIG.", 
   "symptoms": {
     "Eyes": [
-      "Dilated pupils; yellow vision", 
-      "Weak sight from masturbation", 
-      "Strabismus from abdominal irritation", 
       "Eyestrain, especially when presbyopia sets in", 
-      "PULSATION OF SUPERCILIARY MUSCLE"
+      "Weak sight from masturbation", 
+      "PULSATION OF SUPERCILIARY MUSCLE", 
+      "Dilated pupils; yellow vision", 
+      "Strabismus from abdominal irritation"
     ], 
     "Fever": [
+      "Cold sweat on forehead, nose, and hands", 
+      "Much hunger; colicky pains; chilliness, with thirst", 
       "Light chill", 
       "Much fever, associated with clean tongue", 
-      "Much hunger; colicky pains; chilliness, with thirst", 
-      "Cold sweat on forehead, nose, and hands", 
       "In Cina fever, face is cold and hands warm"
     ], 
     "Stomach": [
-      "Gets hungry soon after a meal", 
-      "HUNGRY, digging, gnawing sensation", 
-      "Epigastric pain; worse, first waking in morning and before meals", 
       "Vomiting and diarrhoea immediately after eating and drinking", 
+      "Gets hungry soon after a meal", 
       "Vomiting with a clean tongue", 
       "Desires many and different things", 
-      "Craving for sweets"
+      "Craving for sweets", 
+      "Epigastric pain; worse, first waking in morning and before meals", 
+      "HUNGRY, digging, gnawing sensation"
     ], 
     "Female": [
       "Uterine hemorrhage before puberty"
@@ -37,65 +37,66 @@
     ], 
     "Mind": [
       "Ill-humor", 
-      "Child VERY CROSS; does not want to be touched, or crossed, or carried", 
       "Desires many things, but rejects everything offered", 
-      "Abnormal consciousness, as if having committed some evil deed"
+      "Abnormal consciousness, as if having committed some evil deed", 
+      "Child VERY CROSS; does not want to be touched, or crossed, or carried"
     ], 
     "Stool": [
-      "White mucus, like small pieces of popped corn, preceded by pinching colic", 
       "ITCHING OF ANUS  Worms", 
+      "Involuntary at night", 
+      "White mucus, like small pieces of popped corn, preceded by pinching colic", 
       "Urine Section", 
-      "Turbid, white; turns milky on standing", 
-      "Involuntary at night"
+      "Turbid, white; turns milky on standing"
     ], 
     "Abdomen": [
-      "TWISTING PAIN ABOUT NAVEL", 
-      "Bloated and hard abdomen"
+      "Bloated and hard abdomen", 
+      "TWISTING PAIN ABOUT NAVEL"
     ], 
     "Face": [
-      "Intense, circumscribed redness of cheeks", 
-      "PALE, hot, WITH DARK RINGS AROUND EYES", 
-      "Cold perspiration", 
       "WHITE AND BLUISH ABOUT THE MOUTH", 
       "Grits teeth during sleep", 
+      "PALE, hot, WITH DARK RINGS AROUND EYES", 
+      "Intense, circumscribed redness of cheeks", 
+      "Cold perspiration", 
       "CHOREIC MOVEMENTS OF FACE and hands"
     ], 
     "Respiratory": [
-      "Gagging cough in the morning", 
-      "Whooping-cough", 
-      "Violent recurring paroxysms, as of down in throat", 
-      "Cough ends in a spasm", 
-      "Cough so violent as to bring tears and sternal pains; feels as if something had been torn off", 
+      "Child is afraid to speak of move for fear of bringing on paroxysm of coughing", 
+      "After coughing, moaning, anxious, gasps for air and turns pale", 
       "Periodic; returning spring and fall", 
       "Swallows after coughing", 
+      "Gagging cough in the morning", 
+      "Cough so violent as to bring tears and sternal pains; feels as if something had been torn off", 
+      "Cough ends in a spasm", 
       "GURGLING FROM THROAT TO STOMACH AFTER COUGHING", 
-      "Child is afraid to speak of move for fear of bringing on paroxysm of coughing", 
-      "After coughing, moaning, anxious, gasps for air and turns pale"
+      "Violent recurring paroxysms, as of down in throat", 
+      "Whooping-cough"
+    ], 
+    "Sleep": [
+      "Night terrors of children; cries out, screams, wakes frightened", 
+      "Screams and talks in sleep", 
+      "Child gets on hands and knees in sleep; on abdomen", 
+      "TROUBLES WHILE YAWNING", 
+      "Grits teeth"
     ], 
     "Nose": [
-      "Itching of nose all the time", 
       "WANTS TO RUB IT and pick at it", 
+      "Itching of nose all the time", 
       "BORES AT NOSE till it bleeds"
     ], 
     "Head": [
       "Headache, alternating with pain in abdomen", 
-      "Relieved by stooping", 
-      "Pain in head when using eyes"
+      "Pain in head when using eyes", 
+      "Relieved by stooping"
     ], 
     "Extremities": [
-      "TWITCHING and jerking distortion of limbs, trembling", 
       "Paralyzed shocks; patient will jump suddenly, as though in pain", 
-      "Child throws arms from side to side", 
-      "Nocturnal convulsions", 
-      "SUDDEN INWARD JERKING OF FINGERS OF RIGHT HAND", 
       "CHILD STRETCHES OUT FEET SPASMODICALLY", 
+      "Nocturnal convulsions", 
       "Left foot in constant spasmodic motion", 
-      "Sleep", 
-      "Child gets on hands and knees in sleep; on abdomen", 
-      "Night terrors of children; cries out, screams, wakes frightened", 
-      "TROUBLES WHILE YAWNING", 
-      "Screams and talks in sleep", 
-      "Grits teeth"
+      "SUDDEN INWARD JERKING OF FINGERS OF RIGHT HAND", 
+      "Child throws arms from side to side", 
+      "TWITCHING and jerking distortion of limbs, trembling"
     ], 
     "Ears": [
       "Digging and scratching in ears"

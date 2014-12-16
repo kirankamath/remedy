@@ -3,27 +3,27 @@
   "Relationship": "Acts similarly to CUPRUM MET. but is more violent in action.", 
   "symptoms": {
     "Head": [
-      "Violent throbbing and lancinating pains in forehead", 
+      "Constant protrusion and retraction of tongue", 
+      "Loses consciousness; HEAD REELS WHEN IN HIGH-CEILING ROOM", 
       "Left-sided brow ague", 
       "Brain seems void", 
-      "Inclined to gape and cry", 
-      "Loses consciousness; HEAD REELS WHEN IN HIGH-CEILING ROOM", 
-      "Constant protrusion and retraction of tongue", 
-      "Neuralgia with heaviness of head, burning, stinging and stitching in temples and forehead"
+      "Violent throbbing and lancinating pains in forehead", 
+      "Neuralgia with heaviness of head, burning, stinging and stitching in temples and forehead", 
+      "Inclined to gape and cry"
     ], 
     "Respiratory": [
-      "Attacks of angina pectoris coming on when excited", 
-      "Violent spasmodic cough", 
       "Short, difficult respiration", 
+      "Dyspnoea", 
       "Spasmodic constriction of chest", 
-      "Dyspnoea"
+      "Attacks of angina pectoris coming on when excited", 
+      "Violent spasmodic cough"
     ], 
     "Stomach": [
-      "Violent spasmodic pains in stomach and abdomen", 
-      "Vomiting", 
+      "Cholera", 
       "Slimy brown diarrhoea", 
       "Violent tenesmus", 
-      "Cholera"
+      "Violent spasmodic pains in stomach and abdomen", 
+      "Vomiting"
     ], 
     "Modalities": [
       "Worse: mental emotions", 
@@ -35,9 +35,9 @@
       "Better: and warmth"
     ], 
     "Face": [
-      "Collapsed, hippocratic", 
       "Facial neuralgia in cheek-bone, upper jaw, and behind right ear", 
-      "Better by chewing, pressure, and external warmth"
+      "Better by chewing, pressure, and external warmth", 
+      "Collapsed, hippocratic"
     ], 
     "Skin": [
       "Leprous-like eruption, without itching, over whole body, in spots of various sizes"

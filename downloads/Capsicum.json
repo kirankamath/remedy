@@ -1,100 +1,100 @@
 {
   "name": "Capsicum", 
-  "Relationship": "Antidote: Cina; Calad.Compare: Pulsat.; Lycop.; Bell.; Centaurea (surging of blood; homesickness; intermittent fever).", 
+  "Relationship": "Compare: Pulsat.; Lycop.; Bell.; Centaurea (surging of blood; homesickness; intermittent fever).Antidote: Cina; Calad.", 
   "symptoms": {
     "Head": [
       "Bursting headache; worse, coughing", 
       "Hot face", 
-      "Red cheeks", 
-      "Face red, though cold"
+      "Face red, though cold", 
+      "Red cheeks"
     ], 
     "Fever": [
-      "Coldness, with ill-humor", 
+      "Thirst before chill", 
       "SHIVERING AFTER DRINKING", 
-      "Chill begins in back; better, heat", 
+      "Coldness, with ill-humor", 
       "Must have something hot to back", 
-      "Thirst before chill"
+      "Chill begins in back; better, heat"
     ], 
     "Stomach": [
-      "Burning in tip of tongue", 
-      "Atonic dyspepsia", 
       "Much flatulence, especially in debilitated subjects", 
-      "Intense craving for stimulants", 
+      "Atonic dyspepsia", 
       "Vomiting, sinking at pit of stomach", 
-      "MUCH THIRST; BUT DRINKING CAUSES SHUDDERING"
+      "Intense craving for stimulants", 
+      "MUCH THIRST; BUT DRINKING CAUSES SHUDDERING", 
+      "Burning in tip of tongue"
     ], 
     "Modalities": [
-      "Better: while eating", 
-      "Better: from heat", 
       "Worse: open air", 
       "Worse: uncovering", 
-      "Worse: drafts"
+      "Worse: drafts", 
+      "Better: while eating", 
+      "Better: from heat"
     ], 
     "Mind": [
-      "Excessive peevishness", 
-      "HOMESICKNESS, with sleeplessness and disposition to suicide", 
       "Wants to be let alone", 
+      "DELIRIUM TREMENS", 
       "Peppery disposition", 
-      "DELIRIUM TREMENS"
+      "Excessive peevishness", 
+      "HOMESICKNESS, with sleeplessness and disposition to suicide"
     ], 
     "Stool": [
-      "BLOODY MUCUS, WITH BURNING AND TENESMUS; drawing pain in back after stool", 
       "THIRSTY AFTER STOOL, WITH SHIVERING", 
-      "BLEEDING PILES, with soreness of anus", 
       "Stinging pain during stool", 
-      "Urine Section", 
+      "BLEEDING PILES, with soreness of anus", 
+      "Ectropion of meatus", 
       "Strangury, frequent, almost ineffectual urging", 
+      "BLOODY MUCUS, WITH BURNING AND TENESMUS; drawing pain in back after stool", 
       "BURNING IN ORIFICE", 
       "Comes first in drops, then in spurts; neck of bladder spasmodically contracted", 
-      "Ectropion of meatus"
+      "Urine Section"
     ], 
     "Respiratory": [
       "CONSTRICTION of chest; arrests breathing", 
-      "Hoarseness", 
-      "Pain at apex of heart or in rib region, worse touch", 
       "Dry, hacking cough, expelling an offensive breath from lungs", 
       "Dyspnoea", 
-      "Feels as if chest and head would fly to pieces", 
-      "Explosive cough", 
       "Threatening gangrene of lung", 
-      "PAIN IN DISTANT PARTS ON COUGHING - bladder, legs, ears, etc"
+      "Hoarseness", 
+      "Explosive cough", 
+      "Pain at apex of heart or in rib region, worse touch", 
+      "Feels as if chest and head would fly to pieces", 
+      "PAIN IN DISTANT PARTS ON COUGHING - bladder, legs, ears, etc."
     ], 
     "Mouth": [
-      "Herpes labialis", 
       "STOMATITIS", 
-      "Disagreeable smell from mouth", 
-      "FETID ODOR FROM MOUTH"
+      "Herpes labialis", 
+      "FETID ODOR FROM MOUTH", 
+      "Disagreeable smell from mouth"
     ], 
     "Female": [
-      "Climacteric disturbances with burning of tip of tongue", 
       "Lathyrus", 
+      "Climacteric disturbances with burning of tip of tongue", 
       ") Uterine hemorrhage near the menopause, with nausea", 
       "Sticking sensation in left ovarian region"
     ], 
     "Throat": [
-      "HOT FEELING IN FAUCES", 
-      "Subacute inflammation of Eustachian tube with great pain", 
-      "PAIN AND DRYNESS IN THROAT extending to the ears", 
-      "SORE THROAT OF SMOKERS AND DRINKERS", 
       "Smarting in; constriction", 
+      "PAIN AND DRYNESS IN THROAT extending to the ears", 
+      "Inflamed uvula and palate; swollen and relaxed", 
+      "Subacute inflammation of Eustachian tube with great pain", 
+      "SORE THROAT OF SMOKERS AND DRINKERS", 
       "Burning constriction worse between acts of deglutition", 
-      "Inflamed uvula and palate; swollen and relaxed"
+      "HOT FEELING IN FAUCES"
     ], 
     "Extremities": [
       "Pain from hips to feet", 
-      "Sciatica, worse bending backward; WORSE, COUGHING", 
-      "Tensive pain in the knee"
+      "Tensive pain in the knee", 
+      "Sciatica, worse bending backward; WORSE, COUGHING"
     ], 
     "Male": [
       "COLDNESS OF SCROTUM, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling", 
       "Gonorrhea, with chordee, excessive burning, pain in prostate"
     ], 
     "Ears": [
-      "Burning and stinging in ears", 
       "SWELLING AND PAIN BEHIND EARS", 
       "INFLAMMATION OF MASTOID", 
       "TENDERNESS OVER THE PETROUS BONE; extremely sore and tender to touch", 
-      "Otorrhoea and mastoid disease before suppuration"
+      "Otorrhoea and mastoid disease before suppuration", 
+      "Burning and stinging in ears"
     ]
   }, 
   "details": "Seems to suit especially persons of lax fiber, weak; diminished vital heat. A relaxed plethoric sluggish, cold remedy. Not much reactive force. Such persons are fat, indolent, opposed to physical exertion, averse to go outside of their routine, get homesick easily. GENERAL UNCLEANLINESS OF BODY. Abstainers from accustomed alcoholics. It affects the mucous membranes, producing a sensation of CONSTRICTION. Inflammation of petrous bone. Burning pains and general chilliness. Older people who have exhausted their vitality, especially by mental work, and poor living; blear-eyed appearance; who do not react. Fear of slightest draft. Marked tendency to suppuration in every inflammatory process. Prostration and feeble digestion of alcoholics. Myalgia, aching and jerking of muscles.", 

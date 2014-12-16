@@ -2,6 +2,11 @@
   "name": "Teucrium marum", 
   "Relationship": "Compare: TEUCRIUM SCORODONIA - Wood-sage (in tuberculosis with mucopurulent expectoration; dropsy; orchitis and TUBERCULOUS EPIDIDYMITIS; ESPECIALLY in young, thin individuals with tuberculosis of lungs, glands; bones and uro-genitals, 3X). CINA; IGNAT.; SANG.; SIL.", 
   "symptoms": {
+    "Extremities": [
+      "PAIN IN TOE-NAILS, as if they had grown into flesh", 
+      "Tearing pains in arms and legs", 
+      "Affection of finger-tips and joints of toes"
+    ], 
     "Eyes": [
       "Smarting in canthi; lids red and puffy; tarsal tumor"
     ], 
@@ -9,40 +14,36 @@
       "Dry cough, tickling in trachea; MOULDY TASTE IN THROAT when hawking up mucus, expectoration profuse"
     ], 
     "Stomach": [
-      "Vomiting of large quantities of dark-green masses", 
-      "Constant hiccough, attended with pain in back", 
       "Unnatural appetite", 
-      "Hiccough on eating, after nursing"
+      "Vomiting of large quantities of dark-green masses", 
+      "Hiccough on eating, after nursing", 
+      "Constant hiccough, attended with pain in back"
     ], 
     "Head": [
       "Excited, tremulous feeling", 
-      "Frontal pain; worse, stooping", 
-      "Strengthens brain after delirium tremens"
+      "Strengthens brain after delirium tremens", 
+      "Frontal pain; worse, stooping"
+    ], 
+    "Sleep": [
+      "Restless, with twitching, choking, and starting up frightened"
     ], 
     "Nose": [
-      "Catarrhal condition of both anterior and posterior nostrils", 
-      "MUCOUS POLYPUS", 
       "Chronic catarrh; DISCHARGE OF LARGE, IRREGULAR CLINKERS", 
-      "Foul breath", 
+      "Coryza, with stoppage of nostrils", 
+      "Catarrhal condition of both anterior and posterior nostrils", 
       "CRAWLING IN NOSTRILS, with lachrymation and sneezing", 
-      "Coryza, with stoppage of nostrils"
+      "MUCOUS POLYPUS", 
+      "Foul breath"
     ], 
     "Skin": [
-      "Itching causes tossing about all night", 
+      "Suppurating grooves in the nails", 
       "Very dry skin", 
-      "Suppurating grooves in the nails"
-    ], 
-    "Extremities": [
-      "Affection of finger-tips and joints of toes", 
-      "Tearing pains in arms and legs", 
-      "PAIN IN TOE-NAILS, as if they had grown into flesh"
+      "Itching causes tossing about all night"
     ], 
     "Rectum": [
-      "ITCHING OF ANUS, AND CONSTANT IRRITATION IN THE EVENING IN BED", 
       "ASCARIDES, WITH NIGHTLY RESTLESSNESS", 
       "Crawling in the rectum after stool", 
-      "Sleep", 
-      "Restless, with twitching, choking, and starting up frightened"
+      "ITCHING OF ANUS, AND CONSTANT IRRITATION IN THE EVENING IN BED"
     ], 
     "Ears": [
       "Hissing and ringing otalgia"

@@ -6,49 +6,49 @@
       "Muscular asthenopia; darting pains through eyes from head, worse before a storm"
     ], 
     "Modalities": [
-      "Worse: before a storm", 
       "Better: after the storm breaks", 
       "Better: warmth", 
-      "Better: and eating"
+      "Better: and eating", 
+      "Worse: before a storm"
     ], 
     "Mind": [
-      "Dread of a storm; particularly afraid of thunder", 
-      "Forgetful"
+      "Forgetful", 
+      "Dread of a storm; particularly afraid of thunder"
     ], 
     "Head": [
+      "Heat in eyes when using them", 
+      "Headache; worse, wine, wind, cold and wet weather", 
       "Aching in temples", 
       "Tearing pain in bones", 
-      "Headache; worse, wine, wind, cold and wet weather", 
       "Pain in eyes before a storm", 
-      "CILIARY NEURALGIA, involving eyeball, orbit, and head", 
-      "Heat in eyes when using them"
+      "CILIARY NEURALGIA, involving eyeball, orbit, and head"
     ], 
     "Face": [
-      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
-      "Toothache in damp weather and before a storm", 
       "Swollen gums", 
-      "Stumps of teeth are loosened"
+      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
+      "Stumps of teeth are loosened", 
+      "Toothache in damp weather and before a storm"
     ], 
     "Chest": [
+      "Crampy pain under short ribs", 
       "Violent pleuritic pains running downward in left anterior chest", 
       "Breathless and speechless from violent pleuritic pains running down the anterior chest", 
-      "Stitches in spleen from fast walking", 
-      "Crampy pain under short ribs"
+      "Stitches in spleen from fast walking"
     ], 
     "Extremities": [
-      "Joints swollen", 
-      "Gouty inflammation of great toe-joint", 
+      "CANNOT SLEEP UNLESS LEGS ARE CROSSED", 
+      "Pains in bones in spots, and reappear by change of weather", 
       "RHEUMATIC TEARING IN ALL LIMBS, especially right side; worse, at rest and in stormy weather", 
       "Stiffness of neck", 
       "Pain in shoulders, arms, wrists; worse when at rest", 
-      "Pains in bones in spots, and reappear by change of weather", 
-      "CANNOT SLEEP UNLESS LEGS ARE CROSSED"
+      "Gouty inflammation of great toe-joint", 
+      "Joints swollen"
     ], 
     "Male": [
-      "Testicles, worse left, swollen, painful, drawn up", 
       "Orchitis; glands feel crushed", 
-      "Induration and swelling of testes after gonorrhea", 
-      "HYDROCELE"
+      "HYDROCELE", 
+      "Testicles, worse left, swollen, painful, drawn up", 
+      "Induration and swelling of testes after gonorrhea"
     ], 
     "Ears": [
       "Difficult hearing, with whizzing and ringing in ears", 

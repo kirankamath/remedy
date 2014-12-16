@@ -1,153 +1,153 @@
 {
   "name": "Iodium", 
-  "Relationship": "Yatren. Iod. pathogenesis is similar to that of CARBOL. ACID. Antidotes: HEPAR; SULPH.; GRATIOLA.Complementary: LYCOPOD.; BADIAGA.Compare: BROM.; HEPAR; MERCUR.; PHOSPH.; ABROT; NAT-MUR.; SANIC.; TUBER.", 
+  "Relationship": "Complementary: LYCOPOD.; BADIAGA.Compare: BROM.; HEPAR; MERCUR.; PHOSPH.; ABROT; NAT-MUR.; SANIC.; TUBER.Yatren. Iod. pathogenesis is similar to that of CARBOL. ACID. Antidotes: HEPAR; SULPH.; GRATIOLA.", 
   "symptoms": {
     "Heart": [
-      "Heart feels squeezed", 
-      "Myocarditis, painful compression around heart", 
       "Feels as if squeezed by an iron hand  followed by great weakness and faintness", 
+      "Heart feels squeezed", 
+      "Tachycardia", 
       "Palpitation from least exertion", 
-      "Tachycardia"
+      "Myocarditis, painful compression around heart"
     ], 
     "Eyes": [
+      "ACUTE DACRYOCYSTITIS", 
+      "Pupil dilated", 
       "Violent lachrymation", 
       "Pain in eyes", 
-      "Pupil dilated", 
-      "Constant motion of eyeballs", 
-      "ACUTE DACRYOCYSTITIS"
+      "Constant motion of eyeballs"
     ], 
     "Fever": [
-      "Flushes of heat all over body", 
       "Marked fever, restlessness, red cheeks, apathetic", 
-      "Profuse sweat"
+      "Profuse sweat", 
+      "Flushes of heat all over body"
     ], 
     "Stomach": [
-      "Throbbing at pit of stomach", 
-      "RAVENOUS HUNGER and much thirst", 
       "Empty eructations, as if every particle of food were turned into gas", 
+      "Loses flesh, yet hungry and eating well", 
       "Anxious and worried if he does not eat", 
-      "Loses flesh, yet hungry and eating well"
+      "RAVENOUS HUNGER and much thirst", 
+      "Throbbing at pit of stomach"
     ], 
     "Female": [
-      "Great weakness during menses", 
-      "Menstruation irregular", 
       "Uterine hemorrhage", 
-      "OVARITIS", 
-      "WEDGE-LIKE PAIN FROM OVARY TO UTERUS", 
+      "WEDGE-LIKE PAIN IN THE RIGHT OVARIAN REGION", 
+      "Menstruation irregular", 
       "DWINDLING OF MAMMARY GLANDS", 
-      "Nodosities in skin of mammae", 
       "Acrid leucorrhoea, thick, slimy, corroding the linen", 
-      "WEDGE-LIKE PAIN IN THE RIGHT OVARIAN REGION"
+      "WEDGE-LIKE PAIN FROM OVARY TO UTERUS", 
+      "Great weakness during menses", 
+      "Nodosities in skin of mammae", 
+      "OVARITIS"
     ], 
     "Modalities": [
+      "Better: walking about", 
+      "Better: in open air", 
       "Worse: when quiet", 
       "Worse: in warm room", 
-      "Worse: right side", 
-      "Better: walking about", 
-      "Better: in open air"
+      "Worse: right side"
     ], 
     "Mind": [
-      "Anxiety WHEN QUIET", 
       "PRESENT anxiety and depression, no reference to the future", 
+      "Melancholy", 
       "Sudden impulse to run and do violence", 
       "Forgetful", 
-      "Must be busy", 
       "Fear of people, shuns every one", 
-      "Melancholy", 
-      "Suicidal tendency"
+      "Suicidal tendency", 
+      "Must be busy", 
+      "Anxiety WHEN QUIET"
     ], 
     "Stool": [
       "Hemorrhage at every stool", 
-      "Diarrhoea, whitish, frothy, fatty", 
+      ", thick, acrid with cuticle on surface", 
       "Constipation, with ineffectual urging; better by drinking cold milk", 
+      "Diarrhoea, whitish, frothy, fatty", 
       "Constipation alternating with diarrhoea", 
-      "Urine Section", 
       "Frequent and copious, DARK YELLOW-GREEN", 
-      ", thick, acrid with cuticle on surface"
+      "Urine Section"
     ], 
     "Abdomen": [
+      "Pancreatic disease", 
+      "Cutting pain in abdomen", 
       "Liver and spleen sore and enlarged", 
       "Jaundice", 
-      "Mesenteric glands enlarged", 
-      "Pancreatic disease", 
-      "Cutting pain in abdomen"
+      "Mesenteric glands enlarged"
     ], 
     "Respiratory": [
-      "Hoarse", 
-      "RAW and tickling feeling provoking a dry cough", 
-      "PAIN IN LARYNX", 
-      "Laryngitis, with painful roughness; worse during cough", 
-      "Child grasps throat when coughing", 
-      "Right-sided pneumonia with high temperature", 
-      "Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness", 
-      "Violent heart action", 
-      "Pneumonia", 
       "Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air", 
-      "Croup in scrofulous children with dark hair and eyes", 
-      "Inspiration difficult", 
-      "Dry, morning cough, from tickling in larynx", 
-      "CROUPY COUGH, with difficult respiration; wheezy", 
       "COLD EXTENDS DOWNWARDS from head to throat and bronchi", 
-      "Great weakness about chest", 
-      "Palpitation from least exertion", 
-      "Pleuritis effusion", 
       "Tickling all over chest", 
+      "PAIN IN LARYNX", 
+      "Child grasps throat when coughing", 
+      "Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness", 
+      "Right-sided pneumonia with high temperature", 
+      "Dry, morning cough, from tickling in larynx", 
+      "Laryngitis, with painful roughness; worse during cough", 
+      "Palpitation from least exertion", 
       "Iod", 
-      "cough is worse indoors, in warm, wet weather, and when lying on back"
+      "Violent heart action", 
+      "Pleuritis effusion", 
+      "RAW and tickling feeling provoking a dry cough", 
+      "Hoarse", 
+      "Great weakness about chest", 
+      "Inspiration difficult", 
+      "cough is worse indoors, in warm, wet weather, and when lying on back", 
+      "CROUPY COUGH, with difficult respiration; wheezy", 
+      "Pneumonia", 
+      "Croup in scrofulous children with dark hair and eyes"
     ], 
     "Mouth": [
-      "Gums loose and bleed easily", 
+      "Tongue thickly coated", 
       "Foul ulcers and salivation", 
       "Profuse, fetid ptyalism", 
-      "Tongue thickly coated", 
-      "Offensive odor from mouth"
+      "Offensive odor from mouth", 
+      "Gums loose and bleed easily"
     ], 
     "Nose": [
       "Sneezing", 
-      "Sudden violent influenza", 
       "Dry coryza becomes fluent in open air, also a FLUENT HOT CORYZA with general heat of skin", 
       "Pain at root of nose and frontal sinus", 
-      "Nose stopped up", 
-      "Tendency to ulceration", 
       "Loss of smell", 
-      "ACUTE NASAL ENGORGEMENT associated with high blood pressure"
+      "ACUTE NASAL ENGORGEMENT associated with high blood pressure", 
+      "Tendency to ulceration", 
+      "Sudden violent influenza", 
+      "Nose stopped up"
     ], 
     "Head": [
       "Throbbing; RUSH OF BLOOD, and feeling of a tight band", 
       "Vertigo; worse from stooping, worse in warm room Chronic, congestive headache of old people"
     ], 
     "Skin": [
+      "Nodosities", 
       "Hot, dry, yellow and withered", 
       "Glands enlarged", 
-      "Nodosities", 
       "Anasarca of cardiac disease"
     ], 
     "Throat": [
-      "Larynx feels constricted", 
       "EUSTACHIAN DEAFNESS", 
-      "Thyroid enlarged", 
       "Goitre, with sensation of constriction", 
+      "Uvula swollen", 
+      "Thyroid enlarged", 
       "Swollen submaxillary glands", 
-      "Uvula swollen"
+      "Larynx feels constricted"
     ], 
     "Extremities": [
-      "Joints inflamed and painful", 
-      "Pain in bones at night", 
       "White swelling", 
-      "Gonorrheal rheumatism", 
-      "Rheumatism of nape and upper extremities", 
-      "Cold hands and feet", 
-      "Acrid sweat of feet", 
       "Pulsation in large arterial trunks", 
-      "Rheumatic pains, nightly pains in joints; constrictive sensations"
+      "Cold hands and feet", 
+      "Pain in bones at night", 
+      "Rheumatic pains, nightly pains in joints; constrictive sensations", 
+      "Joints inflamed and painful", 
+      "Rheumatism of nape and upper extremities", 
+      "Gonorrheal rheumatism", 
+      "Acrid sweat of feet"
     ], 
     "Male": [
-      "Testicles swollen and indurated", 
+      "Loss of sexual power, with atrophied testes", 
       "Hydrocele", 
-      "Loss of sexual power, with atrophied testes"
+      "Testicles swollen and indurated"
     ]
   }, 
-  "details": "Rapid metabolism: LOSS OF FLESH with great appetite. Hungry with much thirst. Better after eating. GREAT DEBILITY, THE SLIGHTEST EFFORT INDUCES PERSPIRATION. Iod. individual is exceedingly thin, dark complexioned, with enlarged lymphatic glands, has voracious appetite but gets thin. Tubercular type.All glandular structures, respiratory organs, circulatory system are especially affected; they atrophy. Iodine arouses the defensive apparatus of the system by assembling the mononuclear leucocytoses whose phagocytic action is marked, at a given point. Lead poisoning. Tremor. Iodine craves cold air.ACUTE EXACERBATION OF CHRONIC INFLAMMATION. Arthritis deformans. ACTS PROMINENTLY ON CONNECTIVE TISSUE. THE PLAGUE. GOITRE. Abnormal vasoconstriction, capillary congestion followed by oedema, ecchymosis, hemorrhages, and nutritive disturbances are the pathological conditions at the basis of its symptomatology. Sluggish vital reaction, hence chronicity in many of its aspects. Acute catarrh of all mucous membranes, rapid emaciation, notwithstanding good appetite, and glandular atrophy call for this remedy, in numerous wasting diseases and in scrofulous patients. Acute affections of the respiratory organs. PNEUMONIA, rapid extension. Iodine is warm, and wants cool surroundings. Weakness and loss of breath going upstairs. ADENOID VEGETATIONS. Tincture internally and locally to swollen glands and rattlesnake bites.", 
+  "details": "ACUTE EXACERBATION OF CHRONIC INFLAMMATION. Arthritis deformans. ACTS PROMINENTLY ON CONNECTIVE TISSUE. THE PLAGUE. GOITRE. Abnormal vasoconstriction, capillary congestion followed by oedema, ecchymosis, hemorrhages, and nutritive disturbances are the pathological conditions at the basis of its symptomatology. Sluggish vital reaction, hence chronicity in many of its aspects. Acute catarrh of all mucous membranes, rapid emaciation, notwithstanding good appetite, and glandular atrophy call for this remedy, in numerous wasting diseases and in scrofulous patients. Acute affections of the respiratory organs. PNEUMONIA, rapid extension. Iodine is warm, and wants cool surroundings. Weakness and loss of breath going upstairs. ADENOID VEGETATIONS. Tincture internally and locally to swollen glands and rattlesnake bites.Rapid metabolism: LOSS OF FLESH with great appetite. Hungry with much thirst. Better after eating. GREAT DEBILITY, THE SLIGHTEST EFFORT INDUCES PERSPIRATION. Iod. individual is exceedingly thin, dark complexioned, with enlarged lymphatic glands, has voracious appetite but gets thin. Tubercular type.All glandular structures, respiratory organs, circulatory system are especially affected; they atrophy. Iodine arouses the defensive apparatus of the system by assembling the mononuclear leucocytoses whose phagocytic action is marked, at a given point. Lead poisoning. Tremor. Iodine craves cold air.", 
   "Natural History": [
     "Iodine"
   ], 

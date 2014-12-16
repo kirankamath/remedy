@@ -5,16 +5,16 @@
   "details": "Should be remembered in the treatment of flatulent conditions. So-called three-months' colic, especially if it recurs at regular hours; much rumbling in abdomen. One symptom is worthy of special remembrance - PAIN IN REGION OF THIRD RIB, about an inch or two from the sternum, generally on right side, but occasionally on left. Frequent cough with this pain. Purulent tracheal and gastric catarrh of old drunkards. Old asthmatics. Vomiting, epileptiform convulsions with biting of tongue.", 
   "symptoms": {
     "Respiratory": [
+      "Cough, with pus-like phlegm", 
       "Dyspnoea", 
       "Pain near third intercostal cartilage", 
-      "Cough, with pus-like phlegm", 
-      "Palpitation, with aphthae", 
-      "Hemoptysis"
+      "Hemoptysis", 
+      "Palpitation, with aphthae"
     ], 
     "Nose": [
-      "Sharp stitches beneath lip", 
+      "Burning and numbness of inner lower lip", 
       "Acute catarrh", 
-      "Burning and numbness of inner lower lip"
+      "Sharp stitches beneath lip"
     ]
   }, 
   "name": "Illicium", 

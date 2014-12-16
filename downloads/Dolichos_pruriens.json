@@ -8,16 +8,16 @@
       "Worse: right side"
     ], 
     "Abdomen": [
-      "Colic from getting feet wet", 
       "CONSTIPATION, WITH INTENSE ITCHING; BLOATED ABDOMEN", 
-      "White stools", 
+      "Colic from getting feet wet", 
+      "HEMORRHOIDS, with burning sensation", 
       "Swelling of liver", 
-      "HEMORRHOIDS, with burning sensation"
+      "White stools"
     ], 
     "Skin": [
-      "INTENSE ITCHING, with no swelling or rash; worse across shoulders, also about elbows and knees and hairy parts", 
       "Jaundice", 
       "Yellow in spots; itching excessively at night", 
+      "INTENSE ITCHING, with no swelling or rash; worse across shoulders, also about elbows and knees and hairy parts", 
       "Herpes zoster"
     ], 
     "Throat": [
@@ -27,7 +27,7 @@
   }, 
   "details": "A right-sided medicine, with pronounced liver and skin symptoms. A general INTENSE ITCHING without eruption. Exalted nervous sensibility. Senile pruritus. Hemorrhoidal diathesis.", 
   "Natural History": [
-    "Dolichos MucunaCowhage"
+    "CowhageDolichos Mucuna"
   ], 
   "dosage": "Sixth potency. Tincture, drop doses, in hemorrhoids."
 }

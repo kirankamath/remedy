@@ -3,13 +3,13 @@
   "Relationship": "Compare: ACON.; HEP.; BROM.; LACH.; MERC. PROT.; IOD. (Goitre.)", 
   "symptoms": {
     "Heart": [
-      "Rapid and violent palpitation, with dyspnoea; cannot lie down; also feels best resting in horizontal position", 
       "AWAKENED SUDDENLY AFTER MIDNIGHT WITH PAIN AND SUFFOCATION; is flushed, hot, and frightened to death", 
+      "Hypertrophy of heart, especially right, with asthmatic symptoms", 
+      "Rapid and violent palpitation, with dyspnoea; cannot lie down; also feels best resting in horizontal position", 
+      "Ebullition of blood, veins distended", 
       "Valvular insufficiency", 
       "Angina pectoris; faintness, and anxious sweat", 
-      "Ebullition of blood, veins distended", 
-      "SURGING OF HEART INTO CHEST, AS IF IT WOULD FORCE OUT UPWARD", 
-      "Hypertrophy of heart, especially right, with asthmatic symptoms"
+      "SURGING OF HEART INTO CHEST, AS IF IT WOULD FORCE OUT UPWARD"
     ], 
     "Eyes": [
       "Watering; gummy or mucus discharge"
@@ -19,8 +19,8 @@
     ], 
     "Stomach": [
       "Excessive thirst, GREAT HUNGER", 
-      "Cannot bear tight clothing around trunk", 
-      "Hiccough"
+      "Hiccough", 
+      "Cannot bear tight clothing around trunk"
     ], 
     "Modalities": [
       "Worse: ascending", 
@@ -30,59 +30,60 @@
       "Better: lying with head low"
     ], 
     "Mind": [
-      "Anxiety and fear", 
-      "Every excitement increases the cough"
+      "Every excitement increases the cough", 
+      "Anxiety and fear"
     ], 
     "Head": [
       "Rush of blood; bursting headache; worse, forehead"
     ], 
     "Respiratory": [
-      "Great dryness of all air-passages", 
-      "HOARSENESS; LARYNX DRY, BURNS, CONSTRICTED", 
-      "Cough, DRY, BARKING, CROUPY; larynx sensitive to touch", 
-      "CROUP; WORSE, DURING INSPIRATION AND BEFORE MIDNIGHT", 
-      "Respiration short, panting, DIFFICULT; FEELING OF A PLUG IN LARYNX", 
-      "COUGH ABATES AFTER EATING OR DRINKING, especially warm drinks", 
-      "The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia", 
+      "Oppression and heat of chest, with sudden weakness", 
       "Irrepressible cough from a spot deep in chest, as if raw and sore", 
-      "Chest weak; can scarcely talk", 
-      "Laryngeal phthisis", 
-      "Goitre, with suffocative spells", 
       "Bronchial catarrh, with wheezing, asthmatic cough, worse cold air, with profuse expectoration and suffocation; worse, lying with head low and in hot room", 
-      "Oppression and heat of chest, with sudden weakness"
+      "Respiration short, panting, DIFFICULT; FEELING OF A PLUG IN LARYNX", 
+      "Goitre, with suffocative spells", 
+      "The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia", 
+      "Chest weak; can scarcely talk", 
+      "Great dryness of all air-passages", 
+      "COUGH ABATES AFTER EATING OR DRINKING, especially warm drinks", 
+      "Laryngeal phthisis", 
+      "HOARSENESS; LARYNX DRY, BURNS, CONSTRICTED", 
+      "CROUP; WORSE, DURING INSPIRATION AND BEFORE MIDNIGHT", 
+      "Cough, DRY, BARKING, CROUPY; larynx sensitive to touch"
     ], 
     "Mouth": [
       "Tongue dry and brown; full of vesicles"
     ], 
     "Nose": [
-      "Fluent coryza, alternating with stoppage", 
-      "Dryness; chronic, dry, nasal catarrh"
+      "Dryness; chronic, dry, nasal catarrh", 
+      "Fluent coryza, alternating with stoppage"
     ], 
     "Female": [
       "Before menses, pain in sacrum, hunger, PALPITATION", 
-      "DURING MENSES, wakes with suffocative spells", 
-      "Amenorrhoea, with asthma"
+      "Amenorrhoea, with asthma", 
+      "DURING MENSES, wakes with suffocative spells"
     ], 
     "Skin": [
       "SWELLING AND INDURATION OF GLANDS; also exophthalmic; cervical glands swollen with tensive pain on turning head, painful on pressure; goitre", 
-      "Itching; measles", 
-      "Sleep", 
-      "AWAKES IN A FRIGHT, AND FEELS AS IF SUFFOCATING", 
-      "Generally worse after sleep, or sleeps into an aggravation"
+      "Itching; measles"
     ], 
     "Throat": [
       "Thyroid gland swollen", 
       "Stitches and dryness", 
-      "Burning and stinging", 
       "Sore throat; worse after eating sweet things", 
+      "Clears throat constantly", 
       "Tickling causes cough", 
-      "Clears throat constantly"
+      "Burning and stinging"
+    ], 
+    "Sleep": [
+      "AWAKES IN A FRIGHT, AND FEELS AS IF SUFFOCATING", 
+      "Generally worse after sleep, or sleeps into an aggravation"
     ], 
     "Male": [
-      "SWELLING OF SPERMATIC CORD AND TESTICLES, WITH PAIN AND TENDERNESS", 
-      "ORCHITIS", 
+      "Heat in parts", 
       "Epididymitis", 
-      "Heat in parts"
+      "SWELLING OF SPERMATIC CORD AND TESTICLES, WITH PAIN AND TENDERNESS", 
+      "ORCHITIS"
     ]
   }, 
   "details": "A remedy especially marked in the symptoms of the respiratory organs, cough, croup, etc. Heart affections and often indicated for the tubercular diathesis. Children with fair complexion, lax fiber; swollen glands. EXHAUSTION AND HEAVINESS OF THE BODY AFTER SLIGHT EXERTION, WITH ORGASM OF BLOOD TO CHEST, FACE. ANXIETY AND DIFFICULT BREATHING.", 

@@ -3,40 +3,41 @@
   "Relationship": "TRIONAL; insomnia associated with physical excitement; (vertigo, loss of equilibrium, ataxia, nausea, vomiting, diarrhoea, stertorous breathing, cyanosis, tinnitus, hallucination).", 
   "symptoms": {
     "Head": [
-      "Dropsy, stupid; pain on attempting to raise head", 
+      "Pink color", 
+      "Scanty", 
       "Double vision; heavy look about eyes; tinnitus, aphasia; TONGUE AS IF PARALYZED", 
-      "EYES BLOODSHOT AND RESTLESS", 
+      "Dropsy, stupid; pain on attempting to raise head", 
       "Vertigo, unable to rise", 
+      "Haematoporphyrinuria", 
+      "EYES BLOODSHOT AND RESTLESS", 
+      "Albuminuria, with casts", 
       "Double vision; ptosis; tinnitus; dysphagia, difficult speech", 
       "Urinary Organs", 
-      "Albuminuria, with casts", 
-      "Scanty", 
-      "Pink color", 
-      "Constant desire to urinate; scanty, brownish red", 
-      "Haematoporphyrinuria"
+      "Constant desire to urinate; scanty, brownish red"
     ], 
     "Respiratory": [
-      "Congestion of lungs; stertorous breathing", 
-      "Sighing dyspnoea"
+      "Sighing dyspnoea", 
+      "Congestion of lungs; stertorous breathing"
     ], 
     "Mind": [
-      "Mental confusion, incoherence, illusions; apathetic", 
+      "Extreme irritability", 
       "ALTERNATION OF HAPPY, HOPEFUL STATES WITH DEPRESSION AND WEAKNESS", 
-      "Extreme irritability"
+      "Mental confusion, incoherence, illusions; apathetic"
     ], 
-    "Skin": [
-      "Itching, bluish purpura", 
-      "Erythema"
-    ], 
-    "Extremities": [
-      "Ataxic movements, STAGGERING GAIT; cold, weak, trembling; legs seem too heavy", 
-      "Extreme restlessness; muscular twitchings", 
-      "Knee-jerks disappear", 
-      "Stiffness and paralysis of both legs", 
-      "Anaesthesia of legs", 
-      "Sleep", 
+    "Sleep": [
       "Fidgety, wakeful, drowsy", 
       "Insomnia"
+    ], 
+    "Skin": [
+      "Erythema", 
+      "Itching, bluish purpura"
+    ], 
+    "Extremities": [
+      "Knee-jerks disappear", 
+      "Stiffness and paralysis of both legs", 
+      "Extreme restlessness; muscular twitchings", 
+      "Ataxic movements, STAGGERING GAIT; cold, weak, trembling; legs seem too heavy", 
+      "Anaesthesia of legs"
     ]
   }, 
   "details": "Vertigo of cerebral origin, cerebellar disease, ataxic symptoms and chorea, present a field for the homeopathic employment of this drug. PROFOUND WEAKNESS, gone, faint feeling, and despondency. Loss of control of sphincter. Muscular incoordination.", 

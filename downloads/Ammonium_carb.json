@@ -8,122 +8,123 @@
       "HEART WEAK, wakes with difficult breathing and palpitation"
     ], 
     "Eyes": [
-      "Burning of eyes with aversion to light", 
-      "Eye-strain", 
       "Asthenopia", 
-      "Sore canthi"
+      "Burning of eyes with aversion to light", 
+      "Sore canthi", 
+      "Eye-strain"
     ], 
     "Respiratory": [
-      "Hoarseness", 
-      "Cough every morning about three o'clock, with dyspnoea, palpitation, burning in chest; worse ascending", 
-      "Chest feels tired", 
-      "Emphysema", 
-      "MUCH OPPRESSION IN BREATHING; worse after any effort, and entering WARM ROOM, or ascending even a few steps", 
-      "Asthenic PNEUMONIA", 
-      "Slow labored, stertorous breathing; bubbling sound", 
       "Winter catarrh, with slimy sputum and specks of blood", 
-      "Pulmonary oedema"
+      "Cough every morning about three o'clock, with dyspnoea, palpitation, burning in chest; worse ascending", 
+      "Emphysema", 
+      "Hoarseness", 
+      "Chest feels tired", 
+      "MUCH OPPRESSION IN BREATHING; worse after any effort, and entering WARM ROOM, or ascending even a few steps", 
+      "Slow labored, stertorous breathing; bubbling sound", 
+      "Pulmonary oedema", 
+      "Asthenic PNEUMONIA"
     ], 
     "Stomach": [
-      "Pain at pit of stomach, with heartburn, nausea, water brash, and chilliness", 
       "Great appetite, but easily satisfied", 
-      "Flatulent dyspepsia"
+      "Flatulent dyspepsia", 
+      "Pain at pit of stomach, with heartburn, nausea, water brash, and chilliness"
     ], 
     "Female": [
-      "Itching, swelling and burning of pudendum", 
-      "Leucorrhoea burning, acrid, watery", 
       "Aversion to the other sex", 
-      "Menses too FREQUENT, PROFUSE, early, copious, clotted, black; colicky pains, and hard, difficult stool, with FATIGUE, especially of thighs; yawning and chilliness"
+      "Menses too FREQUENT, PROFUSE, early, copious, clotted, black; colicky pains, and hard, difficult stool, with FATIGUE, especially of thighs; yawning and chilliness", 
+      "Itching, swelling and burning of pudendum", 
+      "Leucorrhoea burning, acrid, watery"
     ], 
     "Modalities": [
+      "Better: lying on painful side and on stomach; in dry weather", 
       "Worse: evenings", 
       "Worse: from cold", 
       "Worse: wet weather", 
       "Worse: wet applications", 
       "Worse: washing", 
       "Worse: and during 3 to four AM", 
-      "Worse: during menses", 
-      "Better: lying on painful side and on stomach; in dry weather"
+      "Worse: during menses"
     ], 
     "Mind": [
-      "Forgetful, ill-humored, gloomy during STORMY WEATHER", 
-      "UNCLEANLINESS", 
+      "Sad, weepy, unreasonable", 
       "Talking and hearing others talk affects greatly", 
-      "Sad, weepy, unreasonable"
+      "Forgetful, ill-humored, gloomy during STORMY WEATHER", 
+      "UNCLEANLINESS"
     ], 
     "Abdomen": [
-      "Noise and pain in abdomen", 
-      "Flatulent hernia", 
-      "Stools difficult, hard, and knotty", 
-      "BLEEDING PILES; WORSE DURING MENSES", 
+      "Urine white, sandy, bloody, copious, turbid and fetid", 
+      "Frequent desire; involuntary at night", 
       "Itching at anus", 
       "Protruding piles, worse after stool, better lying down", 
-      "Urine Section", 
-      "Frequent desire; involuntary at night", 
+      "Stools difficult, hard, and knotty", 
+      "BLEEDING PILES; WORSE DURING MENSES", 
+      "Flatulent hernia", 
       "Tenesmus of bladder", 
-      "Urine white, sandy, bloody, copious, turbid and fetid"
+      "Urine Section", 
+      "Noise and pain in abdomen"
     ], 
     "Mouth": [
-      "Great dryness of mouth and throat", 
-      "Toothache", 
-      "PRESSING TEETH TOGETHER SENDS SHOCKS THROUGH HEAD, EYES, AND EARS", 
       "Vesicles on tongue", 
+      "Great dryness of mouth and throat", 
+      "PRESSING TEETH TOGETHER SENDS SHOCKS THROUGH HEAD, EYES, AND EARS", 
       "Taste sour; metallic", 
+      "Toothache", 
       "Cracking of jaws on chewing"
     ], 
     "Nose": [
-      "Discharge of sharp, burning water", 
-      "STOPPAGE AT NIGHT, WITH LONG-CONTINUED CORYZA", 
-      "CANNOT BREATHE THROUGH NOSE", 
       "SNUFFLES of children", 
+      "STOPPAGE AT NIGHT, WITH LONG-CONTINUED CORYZA", 
+      "Tip of nose congested", 
+      "Discharge of sharp, burning water", 
       "EPISTAXIS AFTER WASHING AND AFTER EATING", 
-      "Ozaena, blows bloody mucus from nose", 
-      "Tip of nose congested"
+      "CANNOT BREATHE THROUGH NOSE", 
+      "Ozaena, blows bloody mucus from nose"
     ], 
     "Head": [
       "Pulsating forehead; better, pressure and in warm room", 
       "Shocks through head"
     ], 
     "Skin": [
-      "Violent itching and burning blisters", 
-      "Scarlet rash", 
-      "Miliary rash", 
-      "Malignant scarlatina", 
       "Faintly developed eruptions from defective vitality", 
       "Erysipelas in the aged, with brain symptoms", 
-      "Eczema in the bends of extremities, between legs, about anus and genitals"
+      "Scarlet rash", 
+      "Eczema in the bends of extremities, between legs, about anus and genitals", 
+      "Miliary rash", 
+      "Malignant scarlatina", 
+      "Violent itching and burning blisters"
     ], 
     "Throat": [
+      "Tendency to gangrenous ulceration of tonsils", 
       "Enlarged tonsils and glands of neck", 
       "Burning pain all down throat", 
-      "Tendency to gangrenous ulceration of tonsils", 
       "Diphtheria WHEN NOSE IS STOPPED UP"
     ], 
+    "Sleep": [
+      "Starts from sleep strangling", 
+      "SLEEPINESS during the day"
+    ], 
     "Extremities": [
-      "Tearing in joints relieved by heat of bed; inclination to stretch limbs", 
       "Hands cold and blue; distended veins", 
       "Fingers swell when arm is hanging down", 
       "Panaritium, deep-seated periosteal pain", 
-      "Cramps in calves and soles", 
-      "Big toe painful and swollen", 
+      "Tearing in ankle and bones of feet, better when warm in bed", 
+      "Tearing in joints relieved by heat of bed; inclination to stretch limbs", 
       "Felons in the beginning", 
       "Heel painful on standing", 
-      "Tearing in ankle and bones of feet, better when warm in bed", 
-      "Sleep", 
-      "SLEEPINESS during the day", 
-      "Starts from sleep strangling"
+      "Cramps in calves and soles", 
+      "Big toe painful and swollen"
     ], 
     "Male": [
-      "Itching and pain of scrotum and spermatic cords", 
       "Erection without desire", 
-      "Seminal emissions"
+      "Seminal emissions", 
+      "Itching and pain of scrotum and spermatic cords"
     ], 
     "Ears": [
-      "Hardness of hearing", 
-      "Shocks through ears, eyes, and nose, when gnashing teeth"
+      "Shocks through ears, eyes, and nose, when gnashing teeth", 
+      "Hardness of hearing"
     ]
   }, 
   "name": "Ammonium carb", 
-  "Relationship": "Inimical to LACHESIS. Similar in action.Antidotes: Arnica; Camphor.Compare: Rhus; Muriatic acid; Tartar emet.Of use in poisoning by charcoal fumes.", 
+  "Relationship": "Compare: Rhus; Muriatic acid; Tartar emet.Of use in poisoning by charcoal fumes.Inimical to LACHESIS. Similar in action.Antidotes: Arnica; Camphor.", 
   "dosage": "Lower potencies deteriorate with age. Sixth potency best for general use."
 }

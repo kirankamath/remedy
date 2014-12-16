@@ -1,93 +1,93 @@
 {
   "name": "Zincum metallicum", 
-  "Relationship": "Compare: AGARIC.; IGN.; PLUMB.; ARGENT.; PULS.; HELLEB.; TUBERC. Inimical: NUX; CHAM. Compare in amelioration by secretions; LACH.; STAN.; MOSCH.Compare: ZINCUM ACETICUM (effects of night-watching and erysipelas; brain feels sore; RADEMACHER'S SOLUTION, five-drop doses three times a day in water, FOR THOSE WHO ARE COMPELLED TO WORK, ON AN INSUFFICIENT AMOUNT OF SLEEP); ZINC, BROMATUM (dentition, chorea, hydrocephalus; ZINC. OXYDATUM. (Nausea and sour taste. Sudden vomiting in children. Vomiting of bile and diarrhoea. Flatulent abdomen. Watery stools with tenemus. Debility after grip. Fiery red face, GREAT DROWSINESS with dreamlike unrefreshing sleep. Similar to effect of night watching. Mental and physical exertion (Rademacher). ZINC. SULPH., not repeated frequently (high potency) will clear up opacities of the cornea (McFarland). Corneitis; granular lids; tongue paralyzed; cramps in arms and legs; trembling and convulsions. Hypochondriasis due to masturbation; nervous headaches); ZINC. CYANATUM (as a remedy for meningitis and cerebrospinal meningitis, paralysis agitans, chores, and hysteria, it has received some attention); ZINC. ARS. (chorea, anaemia, PROFOUND EXHAUSTION on slight exertion. Depression and marked involvement of lower extremities); ZINC. CARB. (post-gonorrheal throat affections, tonsils swollen, bluish superficial spots); ZINC. PHOS. (herpes zoster 1x); ZINC. MURIAT. (disposition to pick the bedclothes; sense of smell and taste perverted; bluish-green tint of skin; cold and sweaty); ZINC. PHOS. (neuralgia of head and face; lightning-like pains in locomotor ataxia, brain-fag, nervousness, and vertigo; sexual excitement and sleeplessness); AMMON. VALERIAN (violent neuralgia, with great nervous agitation); ZINC. PICRICUM (facial paralysis; brain-fag, headache in Bright's disease; seminal emissions; loss of memory and energy). Oxide of zinc is used locally as an astringent and stimulant application to unhealthy ulcers, fissures, intertrigo, burns, etc.", 
+  "Relationship": "Compare: ZINCUM ACETICUM (effects of night-watching and erysipelas; brain feels sore; RADEMACHER'S SOLUTION, five-drop doses three times a day in water, FOR THOSE WHO ARE COMPELLED TO WORK, ON AN INSUFFICIENT AMOUNT OF SLEEP); ZINC, BROMATUM (dentition, chorea, hydrocephalus; ZINC. OXYDATUM. (Nausea and sour taste. Sudden vomiting in children. Vomiting of bile and diarrhoea. Flatulent abdomen. Watery stools with tenemus. Debility after grip. Fiery red face, GREAT DROWSINESS with dreamlike unrefreshing sleep. Similar to effect of night watching. Mental and physical exertion (Rademacher). ZINC. SULPH., not repeated frequently (high potency) will clear up opacities of the cornea (McFarland). Corneitis; granular lids; tongue paralyzed; cramps in arms and legs; trembling and convulsions. Hypochondriasis due to masturbation; nervous headaches); ZINC. CYANATUM (as a remedy for meningitis and cerebrospinal meningitis, paralysis agitans, chores, and hysteria, it has received some attention); ZINC. ARS. (chorea, anaemia, PROFOUND EXHAUSTION on slight exertion. Depression and marked involvement of lower extremities); ZINC. CARB. (post-gonorrheal throat affections, tonsils swollen, bluish superficial spots); ZINC. PHOS. (herpes zoster 1x); ZINC. MURIAT. (disposition to pick the bedclothes; sense of smell and taste perverted; bluish-green tint of skin; cold and sweaty); ZINC. PHOS. (neuralgia of head and face; lightning-like pains in locomotor ataxia, brain-fag, nervousness, and vertigo; sexual excitement and sleeplessness); AMMON. VALERIAN (violent neuralgia, with great nervous agitation); ZINC. PICRICUM (facial paralysis; brain-fag, headache in Bright's disease; seminal emissions; loss of memory and energy). Oxide of zinc is used locally as an astringent and stimulant application to unhealthy ulcers, fissures, intertrigo, burns, etc.Compare: AGARIC.; IGN.; PLUMB.; ARGENT.; PULS.; HELLEB.; TUBERC. Inimical: NUX; CHAM. Compare in amelioration by secretions; LACH.; STAN.; MOSCH.", 
   "symptoms": {
     "Head": [
-      "Feels as if he would fall to left side", 
-      "Headache from the smallest quantity of wine", 
-      "Hydrocephalus", 
-      "Rolls head from side to side", 
-      "Bores head into pillow", 
-      "OCCIPITAL pain, with weight on vertex", 
-      "Automatic motion of head and hands", 
-      "Brain-fag; headaches of overtaxed school children", 
-      "FOREHEAD COOL; BASE OF BRAIN HOT", 
       "Roaring in head", 
-      "Starting in fright"
+      "Feels as if he would fall to left side", 
+      "FOREHEAD COOL; BASE OF BRAIN HOT", 
+      "Hydrocephalus", 
+      "OCCIPITAL pain, with weight on vertex", 
+      "Bores head into pillow", 
+      "Brain-fag; headaches of overtaxed school children", 
+      "Starting in fright", 
+      "Automatic motion of head and hands", 
+      "Rolls head from side to side", 
+      "Headache from the smallest quantity of wine"
     ], 
     "Fever": [
+      "Profuse sweat on feet", 
       "Frequent, febrile shivers down back", 
-      "Cold extremities", 
       "Night-sweat", 
-      "Profuse sweat on feet"
+      "Cold extremities"
     ], 
     "Stomach": [
-      "Hiccough, nausea, vomiting of bitter mucus", 
       "Burning in stomach, heartburn from sweet things", 
+      "Atonic dyspepsia, feeling as if stomach were collapsed", 
       "CANNOT STAND SMALLEST QUANTITY OF WINE", 
-      "RAVENOUS HUNGER about eleven AM  Great greediness when eating; cannot eat fast enough", 
-      "Atonic dyspepsia, feeling as if stomach were collapsed"
+      "Hiccough, nausea, vomiting of bitter mucus", 
+      "RAVENOUS HUNGER about eleven AM  Great greediness when eating; cannot eat fast enough"
     ], 
     "Abdomen": [
-      "Pain after a light meal, with tympanitis", 
-      "Pain in spot beneath naevi", 
-      "Gurgling and griping; distended", 
-      "Flatulent colic, with retraction of abdomen", 
-      "Enlarged, indurated sore liver", 
-      "Reflex symptoms from floating kidney", 
-      "GRIPING AFTER EATING", 
-      "Urine Section", 
-      "Can only void urine when sitting bent backwards", 
       "Hysterical retention", 
-      "Involuntary urination when walking, coughing or sneezing"
+      "Can only void urine when sitting bent backwards", 
+      "Involuntary urination when walking, coughing or sneezing", 
+      "Flatulent colic, with retraction of abdomen", 
+      "Reflex symptoms from floating kidney", 
+      "Gurgling and griping; distended", 
+      "GRIPING AFTER EATING", 
+      "Enlarged, indurated sore liver", 
+      "Pain in spot beneath naevi", 
+      "Pain after a light meal, with tympanitis", 
+      "Urine Section"
     ], 
     "Mouth": [
-      "Teeth loose", 
-      "Gums bleed", 
       "Gnashing of teeth", 
+      "Difficult dentition; child weak; cold and restless feet", 
       "Bloody taste", 
       "Blisters on tongue", 
-      "Difficult dentition; child weak; cold and restless feet"
+      "Gums bleed", 
+      "Teeth loose"
     ], 
     "Rectum": [
-      "Hard, small, constipated stool", 
+      "Sudden cessation of diarrhoea, followed by cerebral symptoms", 
       "CHOLERA INFANTUM, with tenesmus; green mucous discharges", 
-      "Sudden cessation of diarrhoea, followed by cerebral symptoms"
+      "Hard, small, constipated stool"
     ], 
     "Respiratory": [
       "Burning pressure beneath sternum", 
-      "Constriction and cutting in chest", 
-      "Hoarseness", 
       "Debilitating, spasmodic cough; worse, eating sweet things", 
+      "Constriction and cutting in chest", 
       "Child grasps genitals during cough", 
+      "Hoarseness", 
       "Asthmatic bronchitis, with constriction of chest", 
       "DYSPNOEA BETTER AS SOON AS EXPECTORATION APPEARS"
     ], 
     "Eyes": [
+      "Ptosis", 
       "Pterygium; smarting, lachrymation, itching", 
       "Pressure as if pressed into head", 
       "Itching and soreness of lids and INNER ANGLES", 
-      "Ptosis", 
+      "SQUINTING", 
       "ROLLING OF EYES", 
       "Blurring of one-half of vision; worse, stimulants", 
-      "SQUINTING", 
-      "Amaurosis, with severe headache", 
-      "Red and inflamed conjunctiva; WORSE, INNER CANTHUS"
+      "Red and inflamed conjunctiva; WORSE, INNER CANTHUS", 
+      "Amaurosis, with severe headache"
     ], 
     "Face": [
-      "PALE lips, and corners of mouth cracked", 
       "Redness and itching eruptions on chin", 
+      "PALE lips, and corners of mouth cracked", 
       "Tearing in facial bones"
     ], 
     "Nose": [
       "Sore feeling high up; pressure upon root"
     ], 
     "Male": [
-      "Testicles swelled, drawn up", 
-      "Erections violent", 
-      "Emissions with hypochondriasis", 
       "Falling off of hair", 
-      "Drawing in testicles up to spermatic cord"
+      "Drawing in testicles up to spermatic cord", 
+      "Erections violent", 
+      "Testicles swelled, drawn up", 
+      "Emissions with hypochondriasis"
     ], 
     "Ears": [
       "Tearing, stitches, and external swelling", 
@@ -103,66 +103,67 @@
       "Better: and appearance of eruptions"
     ], 
     "Mind": [
-      "Weak memory", 
-      "VERY SENSITIVE TO NOISE", 
-      "Averse to work, to talk", 
-      "CHILD REPEATS EVERYTHING SAID TO IT", 
       "Fears arrest on account of a supposed crime", 
+      "Weak memory", 
+      "Paresis", 
       "Melancholia", 
+      "VERY SENSITIVE TO NOISE", 
+      "CHILD REPEATS EVERYTHING SAID TO IT", 
       "LETHARGIC, STUPID", 
-      "Paresis"
+      "Averse to work, to talk"
     ], 
     "Back": [
-      "Pain in small of back", 
       "Cannot bear back TOUCHED", 
       "Tension and stinging between shoulders", 
-      "Spinal irritation", 
-      "DULL ACHING ABOUT THE LAST DORSAL OR FIRST LUMBAR VERTEBRAE; WORSE SITTING", 
       "BURNING ALONG SPINE", 
+      "DULL ACHING ABOUT THE LAST DORSAL OR FIRST LUMBAR VERTEBRAE; WORSE SITTING", 
+      "Spinal irritation", 
+      "Pain in small of back", 
       "NAPE OF NECK WEARY FROM WRITING OR ANY EXERTION", 
       "Tearing in shoulder-blades"
     ], 
+    "Sleep": [
+      "Cries out during sleep; body jerks; wakes frightened, startled", 
+      "Somnambulism", 
+      "Nervous motion of feet when asleep", 
+      "Loud screaming out at night in sleep without being aware of it"
+    ], 
     "Female": [
-      "Ovarian pain, ESPECIALLY LEFT; CAN'T KEEP STILL", 
-      "Nymphomania of lying-in women", 
+      "Menses flow more at night", 
+      "ALL THE FEMALE SYMPTOMS ARE ASSOCIATED WITH RESTLESSNESS, DEPRESSION, COLDNESS, SPINAL TENDERNESS AND RESTLESS FEET", 
+      "Complaints all BETTER DURING MENSTRUAL FLOW", 
       "Menses too late, suppressed; lochia suppressed", 
       "Breasts painful", 
       "Nipples sore", 
-      "Menses flow more at night", 
-      "Complaints all BETTER DURING MENSTRUAL FLOW", 
-      "ALL THE FEMALE SYMPTOMS ARE ASSOCIATED WITH RESTLESSNESS, DEPRESSION, COLDNESS, SPINAL TENDERNESS AND RESTLESS FEET", 
-      "Dry cough before and during menses"
+      "Dry cough before and during menses", 
+      "Nymphomania of lying-in women", 
+      "Ovarian pain, ESPECIALLY LEFT; CAN'T KEEP STILL"
     ], 
     "Skin": [
-      "VARICOSE VEINS, especially of lower extremities", 
-      "Formication of feet and legs as from bugs crawling over the skin, preventing sleep", 
       "Eczema, especially in the anaemic and neurotic", 
       "Itching of thighs and HOLLOW OF KNEES", 
+      "Formication of feet and legs as from bugs crawling over the skin, preventing sleep", 
+      "VARICOSE VEINS, especially of lower extremities", 
       "RETROCESSION OF ERUPTIONS"
     ], 
     "Throat": [
-      "Dry; constant inclination to hawk up tenacious mucus", 
       "Rawness and dryness in throat and larynx", 
-      "Pain in muscles of throat when swallowing"
+      "Pain in muscles of throat when swallowing", 
+      "Dry; constant inclination to hawk up tenacious mucus"
     ], 
     "Extremities": [
-      "Lameness, WEAKNESS, TREMBLING AND TWITCHING OF various muscles", 
-      "Chilblains", 
       "FEET IN CONTINUED MOTION; CANNOT KEEP STILL", 
-      "LARGE VARICOSE VEINS ON LEGS", 
+      "Lameness, WEAKNESS, TREMBLING AND TWITCHING OF various muscles", 
       "Sweaty", 
+      "SOLES OF FEET SENSITIVE", 
       "Convulsions, WITH PALE FACE", 
       "TRANSVERSE PAINS, especially in upper extremity", 
-      "SOLES OF FEET SENSITIVE", 
       "Steps with entire sole of foot on floor", 
-      "Sleep", 
-      "Cries out during sleep; body jerks; wakes frightened, startled", 
-      "Nervous motion of feet when asleep", 
-      "Loud screaming out at night in sleep without being aware of it", 
-      "Somnambulism"
+      "Chilblains", 
+      "LARGE VARICOSE VEINS ON LEGS"
     ]
   }, 
-  "details": "The provings picture cerebral depression. The word \"FAG\" covers a large part of zinc action. Tissues are worn out faster than they are repaired. Poisoning from suppressed eruptions or discharges. The nervous symptoms of most importance. Defective vitality. Impending brain paralysis. PERIOD OF DEPRESSION IN DISEASE. Spinal affections. Twitchings. Pain, as if between skin and flesh. Great relief from discharges. Chorea, from fright or suppressed eruption. CONVULSIONS, WITH PALE FACE AND NO HEAT. Marked anaemia with profound prostration. It causes a decrease in the number, and destruction of red blood corpuscles. Repercussed eruptive diseases. In chronic diseases with brain and spinal symptoms, trembling, convulsive twitching and fidgety feet are guiding symptoms.", 
+  "details": "The provings picture cerebral depression. The word FAG covers a large part of zinc action. Tissues are worn out faster than they are repaired. Poisoning from suppressed eruptions or discharges. The nervous symptoms of most importance. Defective vitality. Impending brain paralysis. PERIOD OF DEPRESSION IN DISEASE. Spinal affections. Twitchings. Pain, as if between skin and flesh. Great relief from discharges. Chorea, from fright or suppressed eruption. CONVULSIONS, WITH PALE FACE AND NO HEAT. Marked anaemia with profound prostration. It causes a decrease in the number, and destruction of red blood corpuscles. Repercussed eruptive diseases. In chronic diseases with brain and spinal symptoms, trembling, convulsive twitching and fidgety feet are guiding symptoms.", 
   "Natural History": [
     "Zinc"
   ], 

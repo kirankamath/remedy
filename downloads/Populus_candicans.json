@@ -5,19 +5,19 @@
   "details": "Seems to have a remarkable power over acute colds, especially when accompanied by a deep, hoarse voice, or even aphonia. General insensibility of surface (worse, back and abdomen); rubbing and pounding borne without pain, and is grateful on account of warmth produced. Finger-ends thickened, horny; insensible to pinching and prickling. Instantaneous voice-producer. (COCA.)", 
   "symptoms": {
     "Head": [
+      "Tongue feels thick and numb", 
+      "Cold-sores on lips", 
       "Discusses her symptoms with everyone", 
       "Hot head with cold extremities", 
-      "Cold-sores on lips", 
-      "Tongue feels thick and numb", 
       "Burning irritation of eyes, nose, mouth, throat, and air passages"
     ], 
     "Respiratory": [
-      "ACUTE HOARSENESS", 
-      "Throat and nostrils burn", 
       "Sits bent forward with dry cough", 
+      "ACUTE HOARSENESS", 
       "Pharynx and larynx feel dry, and the voice weak and toneless", 
-      "Rawness and soreness of chest and throat", 
-      "Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares"
+      "Throat and nostrils burn", 
+      "Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares", 
+      "Rawness and soreness of chest and throat"
     ]
   }, 
   "name": "Populus candicans", 

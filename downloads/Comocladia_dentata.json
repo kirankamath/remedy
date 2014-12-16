@@ -3,36 +3,36 @@
   "Relationship": "Compare: RHUS; ANACARD.; EUPHORB.", 
   "symptoms": {
     "Eyes": [
-      "Ciliary neuralgia with eyes feeling large and protruded, especially RIGHT", 
       "WORSE, NEAR WARM STOVE; feels as if pressed outward", 
       "Sees only glimmer of light with left eye", 
-      "Glaucoma, sense of fullness; EYEBALL FEELS TOO LARGE", 
-      "Motion of eyes aggravates"
+      "Motion of eyes aggravates", 
+      "Ciliary neuralgia with eyes feeling large and protruded, especially RIGHT", 
+      "Glaucoma, sense of fullness; EYEBALL FEELS TOO LARGE"
     ], 
     "Modalities": [
-      "Better: open air", 
-      "Better: scratching", 
-      "Better: by motion", 
       "Worse: touch", 
       "Worse: warmth", 
-      "Worse: rest; night"
+      "Worse: rest; night", 
+      "Better: open air", 
+      "Better: scratching", 
+      "Better: by motion"
     ], 
     "Face": [
       "Swollen, with eyes projecting"
     ], 
     "Chest": [
       "Acute pain in left mammary gland", 
-      "Pain from right side of chest down arm to fingers", 
-      "Cough with pain under left breast, going through to left scapula"
+      "Cough with pain under left breast, going through to left scapula", 
+      "Pain from right side of chest down arm to fingers"
     ], 
     "Skin": [
       "Itches, red and pimples", 
-      "REDNESS ALL OVER, like scarlatina", 
-      "Erysipelas", 
-      "Deep ulcers, with hard edges", 
-      "Leprosy", 
       "Red stripes on skin", 
-      "Eczema  of the trunk and extremities; also pustular type"
+      "Deep ulcers, with hard edges", 
+      "Erysipelas", 
+      "Leprosy", 
+      "Eczema  of the trunk and extremities; also pustular type", 
+      "REDNESS ALL OVER, like scarlatina"
     ]
   }, 
   "details": "Important eye and skin symptoms. Affections of antrum. Sacroiliac and abdominal pain. THROBBING PAINS WORSE BY HEAT. Pain in joints and ankles.", 

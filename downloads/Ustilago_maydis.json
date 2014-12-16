@@ -3,44 +3,44 @@
   "Relationship": "Compare: SECALE; SABIN.; ZEA ITALICA. (Possess curative properties in skin diseases, particularly in psoriasis and eczema rubrum. Mania for bathing. Impulse to suicide, particularly by drowning. Easily angered. Appetite increased, voracious, alternating with disgust for food. Pyrosis, nausea, vomiting, better drinking wine.)", 
   "symptoms": {
     "Head": [
-      "Very depressed", 
       "Full feeling", 
       "Nervous headache from menstrual irregularities", 
+      "Very depressed", 
       "Aching in eyeballs, with much lachrymation"
     ], 
     "Fever": [
       "Abundant sweat", 
-      "Pulse at first accelerated then enfeebled", 
-      "Palpitations"
+      "Palpitations", 
+      "Pulse at first accelerated then enfeebled"
     ], 
     "Female": [
+      "Oozing of dark blood, clotted, forming long black strings", 
+      "Profuse lochia", 
+      "Menorrhagia at climaxes", 
       "Vicarious menstruation", 
       "Ovaries burn, pain, swell", 
-      "Profuse menses after miscarriage; discharge of blood from slightest provocation; bright red; partly clotted", 
-      "Menorrhagia at climaxes", 
-      "Oozing of dark blood, clotted, forming long black strings", 
       "Uterus hypertrophied", 
-      "CERVIX BLEEDS EASILY", 
       "Postpartum hemorrhage", 
-      "Profuse lochia"
+      "CERVIX BLEEDS EASILY", 
+      "Profuse menses after miscarriage; discharge of blood from slightest provocation; bright red; partly clotted"
     ], 
     "Skin": [
       "Alopecia", 
+      "Psoriasis", 
       "Tendency to small boils", 
       "Skin dry; eczema; copper-colored spots", 
-      "Pruritus; sunburn", 
-      "Psoriasis"
+      "Pruritus; sunburn"
     ], 
     "Extremities": [
+      "Muscular contractions, especially of lower limbs", 
       "Muscular debility, SENSATION OF BOILING WATER ALONG THE BACK", 
-      "Clonic and tetanic movements", 
-      "Muscular contractions, especially of lower limbs"
+      "Clonic and tetanic movements"
     ], 
     "Male": [
       "Uncontrollable masturbation", 
+      "Dull pain in lumbar region, with great despondency and mental irritability", 
       "Spermatorrhoea, with erotic fancies and amorous dreams", 
-      "Emissions, with irresistible tendency to masturbation", 
-      "Dull pain in lumbar region, with great despondency and mental irritability"
+      "Emissions, with irresistible tendency to masturbation"
     ]
   }, 
   "details": "Flabby condition of uterus. Hemorrhage. Congestion to various parts, especially at climacteric. Crusta lactea. (VIOL TRICH.)", 

@@ -1,6 +1,6 @@
 {
   "name": "Calcarea fluorica", 
-  "Relationship": "Compare: Con.; Lapis; Baryt. mur.; Hecla.; Rhus; Cacodylate of Soda (Tumors).Calc-st-sula. (acts as an hemostatic and absorptive in uterine myoma).Mangifera indica (varicose veins).", 
+  "Relationship": "Mangifera indica (varicose veins).Compare: Con.; Lapis; Baryt. mur.; Hecla.; Rhus; Cacodylate of Soda (Tumors).Calc-st-sula. (acts as an hemostatic and absorptive in uterine myoma).", 
   "symptoms": {
     "Eyes": [
       "Flickering and sparks before the eyes, spots on the cornea; conjunctivitis; cataract", 
@@ -8,20 +8,20 @@
       "SUBCUTANEOUS PALPEBRAL CYSTS"
     ], 
     "Stomach": [
-      "Vomiting of infants", 
-      "Vomiting of undigested food", 
-      "Hiccough  Flatulency", 
-      "Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies", 
-      "ACUTE INDIGESTION FROM FATIGUE and brain-fag; much flatulence", 
-      "Stool and Anus", 
-      "Diarrhoea in gouty subjects", 
-      "Itching of anus", 
-      "Fissure of the anus, and intensely sore crack near the lower end of the bowel", 
       "Bleeding hemorrhoids", 
-      "Itching of anus as from pin-worms", 
-      "Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation", 
+      "Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies", 
       "Much wind in lower bowels", 
-      "Worse, pregnancy"
+      "Stool and Anus", 
+      "Vomiting of undigested food", 
+      "Itching of anus", 
+      "Worse, pregnancy", 
+      "ACUTE INDIGESTION FROM FATIGUE and brain-fag; much flatulence", 
+      "Vomiting of infants", 
+      "Fissure of the anus, and intensely sore crack near the lower end of the bowel", 
+      "Itching of anus as from pin-worms", 
+      "Hiccough  Flatulency", 
+      "Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation", 
+      "Diarrhoea in gouty subjects"
     ], 
     "Modalities": [
       "Worse: during rest", 
@@ -34,19 +34,19 @@
     ], 
     "Head": [
       "Creaking noise in head", 
-      "Blood-tumors of newborn infants", 
       "Hard excrescences on the scalp", 
-      "Ulcers on the scalp with callous, hard edges"
+      "Ulcers on the scalp with callous, hard edges", 
+      "Blood-tumors of newborn infants"
     ], 
     "Face": [
       "Hard swelling on the cheek, with pain or toothache, hard swelling on jaw bone"
     ], 
     "Mouth": [
-      "Gum-boils, with hard swelling on the jaw", 
-      "Cracked appearance of the tongue, with or without pain", 
       "Induration of the tongue, hardening after inflammation", 
+      "Gum-boils, with hard swelling on the jaw", 
       "Unnatural looseness of the teeth, with or without pain; teeth become loose in their sockets", 
-      "Toothache, with pain if any food touches the tooth"
+      "Toothache, with pain if any food touches the tooth", 
+      "Cracked appearance of the tongue, with or without pain"
     ], 
     "Nose": [
       "Cold in the head; stuffy cold; dry coryza; ozaena", 
@@ -54,63 +54,64 @@
       "Atrophic rhinitis, especially if crusts are prominent"
     ], 
     "Skin": [
-      "Marked whiteness of skin", 
-      "Scar tissue; adhesions after operations", 
-      "Chaps and cracks", 
-      "Fissures or cracks in the palms of the hands, or hard skin", 
-      "Fissure of the anus", 
-      "Suppurations with callous, hard edges", 
-      "Whitlow", 
       "Indolent, fistulous ulcers, secreting thick, yellow pus", 
-      "Hard, elevated edges of ulcer, surrounding skin purple and swollen", 
+      "Suppurations with callous, hard edges", 
+      "INDURATIONS OF STONY HARDNESS", 
       "Knots, kernels, hardened glands in the female breast", 
       "SWELLINGS OR INDURATED ENLARGEMENTS having their seat in the fasciae and capsular ligaments of joints, or in the tendons", 
-      "INDURATIONS OF STONY HARDNESS"
+      "Hard, elevated edges of ulcer, surrounding skin purple and swollen", 
+      "Fissures or cracks in the palms of the hands, or hard skin", 
+      "Whitlow", 
+      "Marked whiteness of skin", 
+      "Fissure of the anus", 
+      "Chaps and cracks", 
+      "Scar tissue; adhesions after operations"
     ], 
     "Throat": [
       "Follicular sore throat; plugs of mucus are continually forming in the crypts of the tonsils", 
+      "Relaxed uvula, tickling referred to larynx", 
       "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
-      "Hypertrophy of Luschka's tonsil", 
-      "Relaxed uvula, tickling referred to larynx"
+      "Hypertrophy of Luschka's tonsil"
+    ], 
+    "Sleep": [
+      "Unrefreshing sleep", 
+      "Vivid dreams, with sense of impending danger"
     ], 
     "Extremities": [
-      "Ganglia or encysted tumors at the back of the wrist", 
       "Gouty enlargements of the joints of the fingers", 
-      "Exostoses on fingers", 
+      "Ganglia or encysted tumors at the back of the wrist", 
       "Chronic synovitis of knee-joint", 
-      "Sleep", 
-      "Vivid dreams, with sense of impending danger", 
-      "Unrefreshing sleep"
+      "Exostoses on fingers"
     ], 
     "Male": [
-      "Hydrocele; induration of the testicles", 
       "Respiratory Organs", 
-      "Hoarseness", 
-      "CROUP", 
-      "Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down", 
-      "Spasmodic cough", 
-      "Calc", 
       "Fluor", 
-      "removes fibroid deposits about the endocardium and restores normal endocardial structure", 
-      "Heart and Circulation", 
-      "Chief remedy for vascular tumors with dilated blood-vessels, and for VARICOSE OR ENLARGED VEINS", 
+      "Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down", 
       "Aneurism", 
       "Valvular disease", 
-      "When the tuberculous toxins attack the heart and blood-vessels", 
-      "Neck and Back", 
-      "Chronic LUMBAGO; aggravated on beginning to move, and ameliorated on continued motion", 
-      "Osseous tumors", 
+      "Heart and Circulation", 
       "RACHITIC ENLARGEMENT OF FEMUR IN INFANTS", 
-      "Pain lower part of back, with burning"
+      "Osseous tumors", 
+      "removes fibroid deposits about the endocardium and restores normal endocardial structure", 
+      "Chief remedy for vascular tumors with dilated blood-vessels, and for VARICOSE OR ENLARGED VEINS", 
+      "Hoarseness", 
+      "Hydrocele; induration of the testicles", 
+      "Chronic LUMBAGO; aggravated on beginning to move, and ameliorated on continued motion", 
+      "Spasmodic cough", 
+      "CROUP", 
+      "Neck and Back", 
+      "Calc", 
+      "Pain lower part of back, with burning", 
+      "When the tuberculous toxins attack the heart and blood-vessels"
     ], 
     "Ears": [
-      "Calcareous deposits on tympanum; sclerosis of ossicula and petrous portion of temporal bone, with deafness, ringing and roaring", 
-      "CHRONIC SUPPURATION OF MIDDLE EAR"
+      "CHRONIC SUPPURATION OF MIDDLE EAR", 
+      "Calcareous deposits on tympanum; sclerosis of ossicula and petrous portion of temporal bone, with deafness, ringing and roaring"
     ]
   }, 
   "details": "A powerful tissue remedy for hard, stony glands, varicose and enlarged veins, and malnutrition of bones. Hard knots in female breast. Goitre. Congenital hereditary syphilis. INDURATION THREATENING SUPPURATION. Many cases of cataract have undoubtedly been influenced favorably by it. Congenital syphilis manifesting itself in ulceration of mouth and throat, caries and necrosis with boring pains and heat in parts. Arteriosclerosis; threatened apoplexy. Tuberculosis. Used after operations, the tendency to adhesions is reduced.", 
   "Natural History": [
     "Fluor Spar - Fluoride of Lime"
   ], 
-  "dosage": "Third to twelfth trituration. A \"chronic\" remedy. Needs some time before manifesting its effects. Should not be repeated too frequently."
+  "dosage": "Third to twelfth trituration. A chronic remedy. Needs some time before manifesting its effects. Should not be repeated too frequently."
 }

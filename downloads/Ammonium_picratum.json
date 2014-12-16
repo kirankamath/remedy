@@ -5,9 +5,9 @@
   "details": "A remedy for malarial fever and neuralgia and so-called bilious headaches. Pain in occiput and mastoid region. Whooping cough.", 
   "symptoms": {
     "Head": [
+      "Periodic bilious headaches", 
       "Periodical neuralgia IN RIGHT SIDE OF OCCIPUT; boring extends to ear, orbit, and jaw", 
-      "Vertigo on rising", 
-      "Periodic bilious headaches"
+      "Vertigo on rising"
     ]
   }, 
   "name": "Ammonium picratum", 

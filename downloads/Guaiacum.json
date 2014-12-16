@@ -1,6 +1,6 @@
 {
   "name": "Guaiacum", 
-  "Relationship": "GUAIACOL (in the treatment of gonorrheal epididymitis, 2 parts to 30 vaseline, locally).Antidote: NUX. Follows sepia.Compare: MERC.; CAUST.; RHUS; MEZER.; RHODO.", 
+  "Relationship": "GUAIACOL (in the treatment of gonorrheal epididymitis, 2 parts to 30 vaseline, locally).Compare: MERC.; CAUST.; RHUS; MEZER.; RHODO.Antidote: NUX. Follows sepia.", 
   "symptoms": {
     "Eyes": [
       "Pupils dilated", 
@@ -8,75 +8,75 @@
       "Pimples around eyes"
     ], 
     "Respiratory": [
-      "FEELS SUFFOCATED", 
-      "Dry, tight cough", 
-      "Fetid breath after coughing", 
       "PLEURITIC STITCHES", 
-      "Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in"
+      "FEELS SUFFOCATED", 
+      "Fetid breath after coughing", 
+      "Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in", 
+      "Dry, tight cough"
     ], 
     "Stomach": [
+      "Burning in stomach", 
+      "Constricted epigastric region", 
       "Tongue furred", 
       "DESIRE FROM APPLES and other fruits", 
-      "Aversion to milk", 
-      "Burning in stomach", 
-      "Constricted epigastric region"
+      "Aversion to milk"
     ], 
     "Female": [
       "Ovaritis in rheumatic patients, with irregular menstruation and dysmenorrhoea, and irritable bladder"
     ], 
     "Modalities": [
+      "Better: external pressure", 
       "Worse: from motion", 
       "Worse: heat", 
       "Worse: cold", 
       "Worse: wet weather; pressure", 
       "Worse: touch", 
-      "Worse: from six PM to four AMAmelioration", 
-      "Better: external pressure"
+      "Worse: from six PM to four AM"
     ], 
     "Mind": [
       "Forgetful; thoughtless; staring", 
       "Slow to comprehend"
     ], 
     "Back": [
-      "Pain from head to neck", 
-      "ACHING IN NAPE", 
-      "STIFF NECK AND SORE SHOULDERS", 
+      "Contractive pain between scapulae", 
       "Stitches between scapulae to occiput", 
-      "Contractive pain between scapulae"
+      "ACHING IN NAPE", 
+      "Pain from head to neck", 
+      "STIFF NECK AND SORE SHOULDERS"
     ], 
     "Abdomen": [
+      "Sharp stitches after urinating", 
       "Intestinal fermentation", 
       "Much wind in bowels", 
       "Diarrhoea, cholera infantum", 
-      "Urinary Organs", 
-      "Sharp stitches after urinating", 
-      "Constant desire"
+      "Constant desire", 
+      "Urinary Organs"
     ], 
     "Head": [
-      "GOUTY AND RHEUMATIC PAIN IN HEAD and face, EXTENDING TO NECK", 
+      "Aching in left ear", 
       "Tearing pain in skull; worse, cold, wet weather", 
       "Feels swollen, and blood-vessels distended", 
-      "Aching in left ear", 
+      "GOUTY AND RHEUMATIC PAIN IN HEAD and face, EXTENDING TO NECK", 
       "PAINS OFTEN END IN A STITCH, especially in head"
     ], 
     "Throat": [
-      "Rheumatic sore throat with weak throat muscles", 
-      "Throat dry, burns, swollen, stitches toward ear", 
       "ACUTE TONSILLITIS", 
-      "Syphilitic sore throat"
+      "Syphilitic sore throat", 
+      "Rheumatic sore throat with weak throat muscles", 
+      "Throat dry, burns, swollen, stitches toward ear"
     ], 
     "Extremities": [
-      "Rheumatic pain in shoulders, arms and hands", 
-      "GROWING PAINS", 
       "Pricking in nates", 
       "Sciatica and lumbago", 
-      "Gouty tearing, with contractions", 
       "Immovable stiffness", 
-      "Ankle pain extending up the leg, causing lameness", 
-      "Joints swollen, painful, and intolerant of pressure; can bear no heat", 
-      "Stinging pain in limbs", 
       "Arthritic lancinations followed by contraction of limbs", 
-      "A FEELING OF HEAT in the affected limbs"
+      "Gouty tearing, with contractions", 
+      "A FEELING OF HEAT in the affected limbs", 
+      "GROWING PAINS", 
+      "Stinging pain in limbs", 
+      "Rheumatic pain in shoulders, arms and hands", 
+      "Ankle pain extending up the leg, causing lameness", 
+      "Joints swollen, painful, and intolerant of pressure; can bear no heat"
     ]
   }, 
   "details": "Chief action on fibrous tissue, and is especially adapted to the arthritic diathesis, rheumatism, and tonsillitis. Secondary syphilis. Very valuable in acute rheumatism. FREE FOUL SECRETIONS. UNCLEAN ODOR FROM WHOLE BODY. Promotes suppuration of abscesses. Sensitiveness and aggravation from local heat. Contraction of limbs, stiffness and immobility. Feeling that he must stretch.", 

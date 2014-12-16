@@ -3,28 +3,28 @@
   "Relationship": "Compare: CAUST.; SULPH.; BELL.; Rumex contains chrysophanic acid to which the skin stitches correspond. RUMEX ACETOSA - Sheep sorrel - (Gathered in June and dried, used locally for Epithelioma of face. (Cowperthwaite.) Dry, unremitting short cough, and violent pains in the bowels; uvula elongated; inflammation of oesophagus; also cancer); RUMEX OBTUSIFOLIUS - LAPATHUM - Broad-leaf dock - (nosebleed and headache following; pain in kidneys; leucorrhoea).", 
   "symptoms": {
     "Respiratory": [
-      "Nose dry", 
-      "TICKLING IN THROAT-PIT CAUSES COUGH", 
-      "COPIOUS MUCOUS DISCHARGE from nose and trachea", 
-      "DRY, TEASING COUGH, PREVENTING SLEEP", 
-      "AGGRAVATED BY PRESSURE, TALKING, AND ESPECIALLY BY INSPIRING COOL AIR AND AT NIGHT", 
-      "Thin, watery, frothy expectoration by the mouthful; later, stringy and tough", 
-      "Rawness of larynx and trachea", 
       "Soreness behind sternum, especially left side, in region of left shoulder", 
+      "Thin, watery, frothy expectoration by the mouthful; later, stringy and tough", 
+      "AGGRAVATED BY PRESSURE, TALKING, AND ESPECIALLY BY INSPIRING COOL AIR AND AT NIGHT", 
+      "COPIOUS MUCOUS DISCHARGE from nose and trachea", 
+      "Rawness of larynx and trachea", 
       "RAW PAIN UNDER CLAVICLE", 
-      "Lump in throat"
+      "TICKLING IN THROAT-PIT CAUSES COUGH", 
+      "Lump in throat", 
+      "Nose dry", 
+      "DRY, TEASING COUGH, PREVENTING SLEEP"
     ], 
     "Stomach": [
-      "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; CANNOT EAT MEAT; IT C fever-blisters around mAUSES ERUCTATIONS, PRURITUS", 
+      "Pain in left breast after meals; FLATULENCE", 
       "Jaundice after excessive use of alcoholics", 
-      "Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking", 
-      "Pain in left breast after meals; FLATULENCE"
+      "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; CANNOT EAT MEAT; IT C fever-blisters around mAUSES ERUCTATIONS, PRURITUS", 
+      "Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking"
     ], 
     "Modalities": [], 
     "Stool": [
-      "Brown, watery, diarrhoea EARLY IN MORNING, with cough, driving him out of bed", 
-      "Valuable in advanced phthisis", 
       "Itching of anus, with sensation as of a stick in rectum", 
+      "Valuable in advanced phthisis", 
+      "Brown, watery, diarrhoea EARLY IN MORNING, with cough, driving him out of bed", 
       "Piles"
     ], 
     "Skin": [

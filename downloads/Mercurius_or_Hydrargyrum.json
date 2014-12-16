@@ -4,110 +4,110 @@
   ], 
   "symptoms": {
     "Stool": [
+      "Urine dark, scanty, bloody, albuminous", 
       "Greenish, BLOODY AND SLIMY, WORSE AT NIGHT; WITH PAIN AND TENESMUS", 
-      "NEVER-GET-DONE FEELING", 
-      "Discharge accompanied by chilliness, sick stomach, cutting colic, and tenesmus", 
       "Whitish-gray stools", 
-      "Urine Section", 
+      "NEVER-GET-DONE FEELING", 
       "Frequent urging", 
       "Greenish discharge from urethra; burning in urethra on beginning to urinate", 
-      "Urine dark, scanty, bloody, albuminous"
+      "Urine Section", 
+      "Discharge accompanied by chilliness, sick stomach, cutting colic, and tenesmus"
     ], 
     "Head": [
-      "Vertigo, when LYING ON BACK", 
+      "Scalp tense; oily sweat on head", 
       "Band-feeling about head", 
-      "One-sided, tearing pains", 
       "TENSION ABOUT SCALP, AS IF BANDAGED", 
-      "Catarrhal headaches; much heat in head", 
-      "Stinging, burning, fetid eruptions on scalp", 
-      "Loss of hair", 
       "Exostosis, with feeling of soreness", 
-      "Scalp tense; oily sweat on head"
+      "Vertigo, when LYING ON BACK", 
+      "Catarrhal headaches; much heat in head", 
+      "Loss of hair", 
+      "Stinging, burning, fetid eruptions on scalp", 
+      "One-sided, tearing pains"
     ], 
     "Fever": [
-      "Generally gastric or bilious, with profuse nightly perspiration; debility, slow and lingering", 
       "Heat and shuddering alternately", 
       "Yellow perspiration", 
-      "PROFUSE PERSPIRATION WITHOUT RELIEF", 
       "CREEPING CHILLINESS; worse in the evening and into night", 
-      "Alternate flashes of heat in single parts"
+      "PROFUSE PERSPIRATION WITHOUT RELIEF", 
+      "Alternate flashes of heat in single parts", 
+      "Generally gastric or bilious, with profuse nightly perspiration; debility, slow and lingering"
     ], 
     "Stomach": [
-      "Putrid eructations", 
-      "INTENSE THIRST FOR COLD DRINKS", 
+      "Feels replete and constricted", 
       "Weak digestion, WITH CONTINUOUS HUNGER", 
       "Stomach sensitive to touch", 
       "Hiccough and regurgitation", 
-      "Feels replete and constricted"
+      "INTENSE THIRST FOR COLD DRINKS", 
+      "Putrid eructations"
     ], 
     "Abdomen": [
-      "Stabbing pain, with chilliness", 
-      "Boring pain in right groin", 
-      "Flatulent distention, with pain", 
+      "Bile secreted deficiently", 
       "Liver enlarged; sore to touch, indurated", 
-      "Jaundice", 
-      "Bile secreted deficiently"
+      "Flatulent distention, with pain", 
+      "Boring pain in right groin", 
+      "Stabbing pain, with chilliness", 
+      "Jaundice"
     ], 
     "Mouth": [
+      "GREAT THIRST, WITH MOIST MOUTH", 
+      "GUMS SPONGY, recede, bleed easily", 
+      "Alveolar abscess, worse at night", 
       "Sweetish metallic taste", 
+      "FETID ODOR from mouth; can smell it all over room", 
+      "Sore pain on touch and from CHEWING", 
+      "Whole mouth MOIST", 
+      "FURROW IN UPPER SURFACE OF TONGUE LENGTHWISE", 
+      "Crown of teeth decay", 
+      "Teeth loose, feel tender and elongated", 
       "SALIVARY SECRETIONS GREATLY INCREASED; bloody and viscid", 
       "Saliva fetid, coppery", 
       "Speech difficult on account of trembling tongue", 
-      "GUMS SPONGY, recede, bleed easily", 
-      "Sore pain on touch and from CHEWING", 
-      "Whole mouth MOIST", 
-      "Crown of teeth decay", 
-      "Teeth loose, feel tender and elongated", 
-      "FURROW IN UPPER SURFACE OF TONGUE LENGTHWISE", 
-      "Tongue heavy, thick; MOIST COATING; YELLOW, FLABBY, TEETH-INDENTED; feels as if burnt, with ulcers", 
-      "FETID ODOR from mouth; can smell it all over room", 
-      "Alveolar abscess, worse at night", 
-      "GREAT THIRST, WITH MOIST MOUTH"
+      "Tongue heavy, thick; MOIST COATING; YELLOW, FLABBY, TEETH-INDENTED; feels as if burnt, with ulcers"
     ], 
     "Respiratory": [
       "Soreness from fauces to sternum", 
-      "CANNOT LIE ON RIGHT SIDE", 
-      "Cough, with yellow mucopurulent expectoration", 
-      "Paroxysms of two; worse, night and from warmth of bed", 
-      "Catarrh, with chilliness; dread of air", 
       "Stitches from lower lobe of right lung to back", 
+      "Cough worse, tobacco smoke", 
+      "Cough, with yellow mucopurulent expectoration", 
       "Whooping-cough with nosebleed", 
-      "Cough worse, tobacco smoke"
+      "CANNOT LIE ON RIGHT SIDE", 
+      "Catarrh, with chilliness; dread of air", 
+      "Paroxysms of two; worse, night and from warmth of bed"
     ], 
     "Eyes": [
-      "Lids red, thick, swollen", 
-      "PROFUSE, BURNING, ACRID DISCHARGE", 
-      "Floating black spots", 
-      "AFTER EXPOSURE TO GLARE OF FIRE; FOUNDRY MEN", 
+      "Iritis, with hypopyon", 
       "PARENCHYMATOUS KERATITIS of syphilitic origin with burning pain", 
-      "Iritis, with hypopyon"
+      "AFTER EXPOSURE TO GLARE OF FIRE; FOUNDRY MEN", 
+      "Floating black spots", 
+      "Lids red, thick, swollen", 
+      "PROFUSE, BURNING, ACRID DISCHARGE"
     ], 
     "Face": [
-      "Pale, EARTHY, dirty-looking, puffy", 
       "Aching in facial bones", 
+      "Pale, EARTHY, dirty-looking, puffy", 
       "Syphilitic pustules on face"
     ], 
     "Nose": [
-      "Much sneezing", 
-      "Sneezing in SUNSHINE", 
-      "NOSTRILS RAW, ULCERATED; nasal bones swollen", 
       "Yellow-green, fetid, pus-like discharge", 
+      "Much sneezing", 
+      "Coryza, with sneezing; sore, RAW, smarting sensation; worse, damp weather; PROFUSE, FLUENT", 
       "Coryza; acrid discharge, but too thick to run down the lip; worse, warm room", 
       "Pain and SWELLING OF NASAL BONES, AND CARIES, WITH GREENISH FETID ULCERATION", 
       "Nosebleed at night", 
       "Copious discharge of corroding mucus", 
-      "Coryza, with sneezing; sore, RAW, smarting sensation; worse, damp weather; PROFUSE, FLUENT"
+      "NOSTRILS RAW, ULCERATED; nasal bones swollen", 
+      "Sneezing in SUNSHINE"
     ], 
     "Male": [
-      "Vesicles and ulcers; soft chancre", 
       "Cold genitals", 
+      "Vesicles and ulcers; soft chancre", 
       "Prepuce irritated; itches", 
       "Nocturnal emissions, stained with blood"
     ], 
     "Ears": [
       "Thick, YELLOW DISCHARGE; fetid and bloody", 
-      "OTALGIC, WORSE WARMTH OF BED; at night, sticking pains", 
-      "Boils in external canal"
+      "Boils in external canal", 
+      "OTALGIC, WORSE WARMTH OF BED; at night, sticking pains"
     ], 
     "Modalities": [
       "Worse: at night", 
@@ -117,62 +117,62 @@
       "Worse: perspiring; warm room and warm bed"
     ], 
     "Mind": [
-      "Slow in answering questions", 
+      "Thinks he is losing his reason", 
       "Memory weakened, and loss of will-power", 
       "Weary of life", 
       "Mistrustful", 
-      "Thinks he is losing his reason"
+      "Slow in answering questions"
     ], 
     "Back": [
       "Bruised pain in small of back, especially when sitting", 
       "Tearing pain in coccyx; better, pressing on abdomen"
     ], 
     "Female": [
-      "Menses profuse, with abdominal pains", 
-      "Leucorrhoea excoriating, greenish and bloody; SENSATION OF RAWNESS in parts", 
-      "STINGING PAIN in ovaries", 
       "Itching and burning; worse, after urinating; better, washing with cold water", 
       "Morning sickness, with profuse salivation", 
-      "Mammae painful and full of milk at menses"
+      "Menses profuse, with abdominal pains", 
+      "Mammae painful and full of milk at menses", 
+      "Leucorrhoea excoriating, greenish and bloody; SENSATION OF RAWNESS in parts", 
+      "STINGING PAIN in ovaries"
     ], 
     "Skin": [
-      "Almost CONSTANTLY MOIST", 
-      "Persistent dryness of the skin contraindicate mercurius", 
-      "Excessive odorous viscid perspiration; worse, night", 
       "GENERAL TENDENCY TO FREE PERSPIRATION, BUT PATIENT IS NOT RELIEVED THEREBY", 
-      "Vesicular and pustular eruptions", 
-      "Ulcers, irregular in shape, edges undefined", 
-      "Pimples around the main eruption", 
-      "ITCHING; worse from warmth of bed", 
-      "Crusta lactea; yellowish-brown crusts, considerable suppuration", 
       "Glands swell every time patient takes cold", 
       "Buboes", 
-      "Orchitis"
+      "Excessive odorous viscid perspiration; worse, night", 
+      "Almost CONSTANTLY MOIST", 
+      "Orchitis", 
+      "Crusta lactea; yellowish-brown crusts, considerable suppuration", 
+      "Vesicular and pustular eruptions", 
+      "Pimples around the main eruption", 
+      "Ulcers, irregular in shape, edges undefined", 
+      "Persistent dryness of the skin contraindicate mercurius", 
+      "ITCHING; worse from warmth of bed"
     ], 
     "Throat": [
-      "Bluish-red swelling", 
-      "Constant desire to swallow", 
-      "Putrid sore throat; worse right side", 
       "ULCERS and inflammation appearing at every change in weather", 
-      "Stitches into ear on swallowing; fluids return through nose", 
-      "Quinsy, with difficult swallowing; AFTER PUS HAS FORMED", 
+      "Bluish-red swelling", 
       "Sore, raw, smarting, burning throat", 
+      "Stitches into ear on swallowing; fluids return through nose", 
+      "Burning in throat, as from hot vapor ascending", 
+      "Putrid sore throat; worse right side", 
       "Complete loss of voice", 
-      "Burning in throat, as from hot vapor ascending"
+      "Constant desire to swallow", 
+      "Quinsy, with difficult swallowing; AFTER PUS HAS FORMED"
     ], 
     "Extremities": [
-      "Weakness of limbs", 
-      "Bone-pains and in limbs; worse, night", 
-      "Patient very sensitive to cold", 
-      "Oily perspiration", 
       "TREMBLING EXTREMITIES, ESPECIALLY HANDS; PARALYSIS AGITANS", 
-      "Lacerating pain in joints", 
+      "Bone-pains and in limbs; worse, night", 
+      "Dropsical swelling of feet and legs", 
+      "Oily perspiration", 
       "Cold, clammy sweat on legs at night", 
-      "Dropsical swelling of feet and legs"
+      "Lacerating pain in joints", 
+      "Patient very sensitive to cold", 
+      "Weakness of limbs"
     ], 
     "dosage": ""
   }, 
   "name": "Mercurius or Hydrargyrum", 
-  "Relationship": "Compare: CAPPARIS CORIACCEA (polyuria, glandular affections, mucous diarrhoea; influenza); EPILOBIUM - Willow herb - (chronic diarrhoea with tenesmus and mucous discharges; ptyalism, dysphagia; wasting of body and much debility; cholera infantum); KALI-HYD. (in hard chancre); MERCUR. ACET. (Congestion with stiffness, dryness and heat of parts affected. Eyes inflamed, burn and itch. Lack of moisture. Throat dry, talking difficult. Pressure in lower sternum; chancre in urethra; tenia capitis favosa margin of ulcers painful: MERCURIUS AURATUS (Psoriasis and syphilitic catarrh; brain tumors; lues of nose and bones; ozaena; swelling of testicles); MERCURIUS BROMATUS (secondary syphilitic skin affection); MERCURIUS NITROSUS - Nitrate of Mercury - (especially in pustular conjunctivitis and keratitis; gonorrhea and mucous patches, with STICKING PAINS; syphilides); MERCURIUS PHOSPHORICUS (nervous diseases from syphilis; exostoses); MERCURIUS PRAECIPITATUS RUBER (suffocative attacks at night on lying down WHILE ON THE POINT OF FALLING ASLEEP, obliged to jump up suddenly which relieves; gonorrhea; URETHRA FELT AS A HARD STRING; chancroid; phagedenic ulcer and bubo; pemphigus, mucous patches, eczema with rhagades and fissures, barber's itch; blepharitis, internally and externally; leaden heaviness in occiput, with otorrhoea); MERCURIUS TANNICUS (syphilides in patients with gastrointestinal diseases, or, if very sensitive, to ordinary mercurial preparations); ERYTHRINUS - South American Red Mullet Fish - (in pityriasis rubra and syphilis; red rash on chest; pityriasis); LOLIUM TEMULENTUM (in TREMBLING of hands and legs); MERCUR. CUM KALI (inveterate colds, acute facial paralysis). HENCHERA - Alum root - (Gastroenteritis nausea, vomiting of bile and frothy mucous; stools watery, profuse, slimy, tenesmus, never get done feeling. Dose, 2 to 10 drops of tincture).Compare: MEZ.; PHOS.; SYPH.; KALI-MUR.; AETHIOPS.Antidote: HEP.; AUR.; MEZ.Complementary: BADIAGA.", 
-  "details": "Every organ and tissue of the body is more or less affected by this powerful drug; it transforms healthy cells into decrepit, inflamed and necrotic wrecks, decomposes the blood, producing a profound anemia. This malignant medicinal force is converted into useful life saving and life preserving service if employed homeopathically, guided by its clear cut symptoms. The lymphatic system is especially affected with all the membranes and GLANDS, and internal organs, bones, etc. Lesions produced by mercury very similar to those of syphilis. Very often indicated in the SECONDARY stage of syphilis when there is a febrile chloro-anaemia, rheumatoid pains behind sternum, around joints, etc.; ulceration of mouth and throat, etc. These are the special conditions and stages to which Mercur is homeopathic and where the 2X will do surprising work. Again, hereditary syphilis manifestations, are within its range; bullae, abscesses, snuffles, marasmus, stomatitis or destructive inflammations. TREMORS everywhere. Weakness with ebullitions and tremblings from least exertion. All mercury symptoms are WORSE AT NIGHT, from warmth of bed, from damp, cold, rainy weather, WORSE DURING PERSPIRATION. Complaints increase with the sweat and rest; all associated with a great deal of weariness, prostration, and trembling. A human \"thermometer.\" Sensitive to heat and cold. Parts are much swollen, with raw, sore feeling; the profuse, oily perspiration does not relieve. BREATH, excretions of the body smell foul. Tendency to formation of pus, which is thin, greening, putrid; streaked with blood."
+  "Relationship": "Complementary: BADIAGA.Antidote: HEP.; AUR.; MEZ.Compare: MEZ.; PHOS.; SYPH.; KALI-MUR.; AETHIOPS.Compare: CAPPARIS CORIACCEA (polyuria, glandular affections, mucous diarrhoea; influenza); EPILOBIUM - Willow herb - (chronic diarrhoea with tenesmus and mucous discharges; ptyalism, dysphagia; wasting of body and much debility; cholera infantum); KALI-HYD. (in hard chancre); MERCUR. ACET. (Congestion with stiffness, dryness and heat of parts affected. Eyes inflamed, burn and itch. Lack of moisture. Throat dry, talking difficult. Pressure in lower sternum; chancre in urethra; tenia capitis favosa margin of ulcers painful: MERCURIUS AURATUS (Psoriasis and syphilitic catarrh; brain tumors; lues of nose and bones; ozaena; swelling of testicles); MERCURIUS BROMATUS (secondary syphilitic skin affection); MERCURIUS NITROSUS - Nitrate of Mercury - (especially in pustular conjunctivitis and keratitis; gonorrhea and mucous patches, with STICKING PAINS; syphilides); MERCURIUS PHOSPHORICUS (nervous diseases from syphilis; exostoses); MERCURIUS PRAECIPITATUS RUBER (suffocative attacks at night on lying down WHILE ON THE POINT OF FALLING ASLEEP, obliged to jump up suddenly which relieves; gonorrhea; URETHRA FELT AS A HARD STRING; chancroid; phagedenic ulcer and bubo; pemphigus, mucous patches, eczema with rhagades and fissures, barber's itch; blepharitis, internally and externally; leaden heaviness in occiput, with otorrhoea); MERCURIUS TANNICUS (syphilides in patients with gastrointestinal diseases, or, if very sensitive, to ordinary mercurial preparations); ERYTHRINUS - South American Red Mullet Fish - (in pityriasis rubra and syphilis; red rash on chest; pityriasis); LOLIUM TEMULENTUM (in TREMBLING of hands and legs); MERCUR. CUM KALI (inveterate colds, acute facial paralysis). HENCHERA - Alum root - (Gastroenteritis nausea, vomiting of bile and frothy mucous; stools watery, profuse, slimy, tenesmus, never get done feeling. Dose, 2 to 10 drops of tincture).", 
+  "details": "Every organ and tissue of the body is more or less affected by this powerful drug; it transforms healthy cells into decrepit, inflamed and necrotic wrecks, decomposes the blood, producing a profound anemia. This malignant medicinal force is converted into useful life saving and life preserving service if employed homeopathically, guided by its clear cut symptoms. The lymphatic system is especially affected with all the membranes and GLANDS, and internal organs, bones, etc. Lesions produced by mercury very similar to those of syphilis. Very often indicated in the SECONDARY stage of syphilis when there is a febrile chloro-anaemia, rheumatoid pains behind sternum, around joints, etc.; ulceration of mouth and throat, etc. These are the special conditions and stages to which Mercur is homeopathic and where the 2X will do surprising work. Again, hereditary syphilis manifestations, are within its range; bullae, abscesses, snuffles, marasmus, stomatitis or destructive inflammations. TREMORS everywhere. Weakness with ebullitions and tremblings from least exertion. All mercury symptoms are WORSE AT NIGHT, from warmth of bed, from damp, cold, rainy weather, WORSE DURING PERSPIRATION. Complaints increase with the sweat and rest; all associated with a great deal of weariness, prostration, and trembling. A human thermometer. Sensitive to heat and cold. Parts are much swollen, with raw, sore feeling; the profuse, oily perspiration does not relieve. BREATH, excretions of the body smell foul. Tendency to formation of pus, which is thin, greening, putrid; streaked with blood."
 }

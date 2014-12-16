@@ -6,84 +6,85 @@
       "Palpitation, with constriction of chest"
     ], 
     "Eyes": [
-      "OPACITY OF CORNEA", 
       "Blue circle around eyes", 
+      "Night blindness", 
       "One pupil dilated", 
-      "Night blindness"
+      "OPACITY OF CORNEA"
     ], 
     "Fever": [
       "ICY COLDNESS  YELLOW FEVER"
     ], 
     "Stomach": [
-      "Soreness in pit of stomach on pressure", 
-      "Violent NAUSEA, retching", 
+      "Carcinoma, helps the persistent vomiting", 
+      "Burning and cutting pains in stomach", 
+      "Coffee ground vomiting", 
       "BLACK VOMIT", 
       "Vomiting of mucus, green slime, blood, with great prostration, and great tenderness over the stomach", 
-      "Burning and cutting pains in stomach", 
-      "Carcinoma, helps the persistent vomiting", 
-      "Coffee ground vomiting"
+      "Violent NAUSEA, retching", 
+      "Soreness in pit of stomach on pressure"
     ], 
     "Modalities": [
+      "Better: eating and rest", 
       "Worse: walking or carrying burdens; after sleep; from open air", 
-      "Worse: stimulants", 
-      "Better: eating and rest"
+      "Worse: stimulants"
     ], 
     "Mind": [
-      "Unconscious", 
-      "Vertigo; room and bed seem to spin around"
+      "Vertigo; room and bed seem to spin around", 
+      "Unconscious"
     ], 
     "Stool": [
-      "Bloody, black, and offensive", 
       "Gelatinous, yellowish green; semi-fluid, with urinary suppression", 
-      "Urine Section", 
-      "Rawness and soreness in urethra, urine mixed with pus and blood"
+      "Rawness and soreness in urethra, urine mixed with pus and blood", 
+      "Bloody, black, and offensive", 
+      "Urine Section"
     ], 
     "Abdomen": [
-      "Sore, tender, tympanitic", 
       "Region of liver sore", 
-      "Coldness", 
-      "Black, offensive clots of blood from bowels", 
       "Pain in abdomen, with vomiting", 
-      "Tenderness and tympanites"
+      "Black, offensive clots of blood from bowels", 
+      "Tenderness and tympanites", 
+      "Coldness", 
+      "Sore, tender, tympanitic"
     ], 
     "Face": [
+      "FACIAL PARALYSIS; more left side", 
       "Distortion of mouth", 
-      "Trembling of jaw", 
-      "FACIAL PARALYSIS; more left side"
+      "Trembling of jaw"
     ], 
     "Mouth": [
       "Difficult swallowing", 
-      "Oesophagus constricted", 
-      "Salty belching", 
       "Intense nausea, with pain and cold", 
       "Stringy, offensive exudation on mucous membrane", 
-      "Salty taste"
+      "Salty belching", 
+      "Salty taste", 
+      "Oesophagus constricted"
     ], 
     "Nose": [
-      "OZOENA", 
       "Tightness at root", 
+      "Nostrils ulcerated", 
+      "Boils on nose", 
       "Nose obstructed; POLYPUS", 
       "Caries of nasal bones", 
-      "Boils on nose", 
-      "Nostrils ulcerated"
+      "OZOENA"
     ], 
     "Head": [
       "Hammering in head", 
       "Heat in head"
     ], 
     "Skin": [
-      "Blue, yellow, sallow, scaly, cracking", 
+      "Chilblains", 
       "Itching; better scratching", 
       "Chloasma, yellowish stains on nose and cheeks; worse exposure to sun and wind", 
-      "Chilblains", 
-      "Sleep", 
+      "Blue, yellow, sallow, scaly, cracking"
+    ], 
+    "Throat": [
+      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
+    ], 
+    "Sleep": [
       "Stops breathing on going to sleep", 
       "Wakes up suffocating", 
       "Fears to go to sleep again", 
       "Protracted sleeplessness"
-    ], 
-    "Throat": [
-      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
     ]
   }, 
   "details": "Its pathogenesis gives symptoms corresponding to very low forms of disease, as in cholera, YELLOW FEVER, where, with exhaustion, vomiting, and EXTREME PROSTRATION, the disease runs death ward. Important gastric symptoms. Carcinoma ventriculi; persistent vomiting. The attack is upon the stomach more especially. Patients must keep quiet. CHILLINESS AND COLDNESS even when near the fire.", 

@@ -3,75 +3,75 @@
   "Relationship": "Compare: NAT-MUR.; LILIUM; GELS.; RUTA.", 
   "symptoms": {
     "Eyes": [
+      "PAIN IN EYEBALLS between orbit and ball, extending to left temple", 
+      "Eyes heavy and dull, muscular asthenopia; OCULAR MUSCLES TENSE", 
       "Vision blurred; optic disc hyperemic, and retinal vessels enlarged", 
       "Strained feeling in eyes; worse, using eyes", 
-      "Eyes heavy and dull, muscular asthenopia; OCULAR MUSCLES TENSE", 
-      "Internal eye muscles paretic", 
-      "PAIN IN EYEBALLS between orbit and ball, extending to left temple"
+      "Internal eye muscles paretic"
     ], 
     "Female": [
+      "Nipples itch", 
+      "Aching in breasts", 
       "Severe uterine pains; bearing-down pains; old pains return", 
       "SEXUAL DESIRE COMPLETELY DESTROYED", 
-      "Feels as if menses would appear", 
-      "Aching in breasts", 
-      "Nipples itch", 
+      "Leucorrhoea, yellow, acrid, profuse", 
       "Menses too early and too prolonged", 
       "Soreness in uterine region", 
-      "Leucorrhoea, yellow, acrid, profuse"
+      "Feels as if menses would appear"
     ], 
     "Modalities": [
-      "Worse: from motion", 
-      "Worse: jar", 
-      "Worse: and tight clothing", 
       "Better: when undressed", 
       "Better: when lying down on back", 
       "Better: from cold drinks", 
-      "Better: and eating"
+      "Better: and eating", 
+      "Worse: from motion", 
+      "Worse: jar", 
+      "Worse: and tight clothing"
     ], 
     "Back": [
-      "Pain in dorsal and lumbar regions", 
-      "Numbness and tingling in feet and legs"
+      "Numbness and tingling in feet and legs", 
+      "Pain in dorsal and lumbar regions"
     ], 
     "Abdomen": [
-      "Craving for ice-water and cold drinks; wants to drink often", 
-      "Abdomen feels bloated"
+      "Abdomen feels bloated", 
+      "Craving for ice-water and cold drinks; wants to drink often"
     ], 
     "Chest": [
-      "Sore, aching in breasts; feels swollen and sore", 
-      "Pain in heart; pulse, rapid, irregular, weak"
+      "Pain in heart; pulse, rapid, irregular, weak", 
+      "Sore, aching in breasts; feels swollen and sore"
     ], 
     "Head": [
-      "Loss of memory", 
-      "Nose feels dry", 
-      "Confused", 
-      "Dull, heavy, dizzy, pressing upward in occiput", 
       "Occipitofrontal pain in morning on waking, CHIEFLY LEFT SIDE", 
-      "Pain in temples and mastoid"
+      "Dull, heavy, dizzy, pressing upward in occiput", 
+      "Confused", 
+      "Pain in temples and mastoid", 
+      "Nose feels dry", 
+      "Loss of memory"
     ], 
     "Throat": [
       "Severe dryness", 
+      "Symptoms worse by cold drinks", 
       "Discharge from posterior nares", 
-      "Raw, scraping", 
       "Stuffed feeling in posterior nares", 
-      "Symptoms worse by cold drinks"
+      "Raw, scraping"
     ], 
     "Extremities": [
-      "Pain in back", 
-      "TIRED AND NUMB feeling in legs, popliteal spaces, and below knees", 
-      "STAGGERING GAIT", 
-      "Sidewalk seems too high", 
       "Pain in left scapular region", 
-      "Great muscular weakness and weariness"
+      "Pain in back", 
+      "Great muscular weakness and weariness", 
+      "TIRED AND NUMB feeling in legs, popliteal spaces, and below knees", 
+      "Sidewalk seems too high", 
+      "STAGGERING GAIT"
     ], 
     "Male": [
-      "Constant sexual excitement", 
-      "PSYCHICAL IMPOTENCE", 
       "Loss of desire", 
       "Speedy emissions", 
-      "Deficient erections"
+      "PSYCHICAL IMPOTENCE", 
+      "Deficient erections", 
+      "Constant sexual excitement"
     ]
   }, 
-  "details": "Want of power of concentration and coordination. Vertigo, numbness and muscular prostration. Marked association of head and eye symptoms, with muscular tiredness and weariness.A remedy for MIGRAINE. Headaches from eyestrain and sexual weakness. It produces diminution of sexual desire in both sexes; hence its homoeopathicity, in SEXUAL NEURASTHENIA. Depressed or lost sexual life in women. Neuralgic pains. General prostration. Acts as if born tired.", 
+  "details": "A remedy for MIGRAINE. Headaches from eyestrain and sexual weakness. It produces diminution of sexual desire in both sexes; hence its homoeopathicity, in SEXUAL NEURASTHENIA. Depressed or lost sexual life in women. Neuralgic pains. General prostration. Acts as if born tired.Want of power of concentration and coordination. Vertigo, numbness and muscular prostration. Marked association of head and eye symptoms, with muscular tiredness and weariness.", 
   "Natural History": [
     "False Gromwell"
   ], 

@@ -4,47 +4,47 @@
   "symptoms": {
     "Heart": [
       "Pulse SLOW, SOFT, WEAK, irregular, intermittent", 
-      "Rapid pulse, low tension", 
-      "Constant, dull, burning pain in region of heart", 
+      "FEVER", 
       "Valvular disease", 
       "BEATING OF PULSES THROUGHOUT BODY, especially in right thigh", 
       "Aching pain in back of neck and shoulders", 
       "Severe pain in joints and muscles", 
-      "Violent electric-like shocks in limbs", 
+      "Rapid pulse, low tension", 
       "Convulsive twitchings", 
+      "Violent electric-like shocks in limbs", 
       "ACUTE RHEUMATISM", 
-      "FEVER"
+      "Constant, dull, burning pain in region of heart"
     ], 
     "Head": [
-      "Congestion intense, almost apoplectic", 
       "Hot head, bloodshot eyes", 
-      "Bloated, livid face", 
-      "Hippocratic face", 
-      "Head retracted, PUPILS DILATED, double vision", 
-      "Meningitis", 
       "PAIN FROM NAPE OF NECK; cannot hold head up", 
-      "Sunstroke; head full, throbbing arteries", 
-      "FACE FLUSHED", 
+      "Meningitis", 
       "Convulsive twitching of facial muscles", 
-      "Vertigo with nausea"
+      "Hippocratic face", 
+      "Congestion intense, almost apoplectic", 
+      "Head retracted, PUPILS DILATED, double vision", 
+      "Bloated, livid face", 
+      "FACE FLUSHED", 
+      "Vertigo with nausea", 
+      "Sunstroke; head full, throbbing arteries"
     ], 
     "Respiratory": [
-      "Congestion of lungs", 
       "Difficult breathing", 
       "Sensation of a heavy load on chest", 
+      "Scanty with cloudy sediment", 
       "Pneumonia, with faint feeling in stomach and violent congestion", 
+      "Congestion of lungs", 
       "CROUP", 
-      "Menstrual colic before the appearance of the discharge with strangury", 
       "Urine Section", 
-      "Scanty with cloudy sediment"
+      "Menstrual colic before the appearance of the discharge with strangury"
     ], 
     "Stomach": [
       "Thirsty", 
-      "Nausea and vomiting", 
+      "Burning in stomach and oesophagus", 
       "Smallest quantity of food or drink immediately rejected", 
-      "Constrictive pain; increased by warm drinks", 
       "HICCOUGH; excessive and painful, with SPASMS OF ESOPHAGUS", 
-      "Burning in stomach and oesophagus"
+      "Nausea and vomiting", 
+      "Constrictive pain; increased by warm drinks"
     ], 
     "Mind": [
       "Quarrelsome and delirious"
@@ -64,14 +64,14 @@
     "Female": [
       "Rigid os", 
       "Puerperal fever", 
-      "Suppressed menstruation, with congestion to head", 
-      "Menstrual colic before the appearance of the discharge with strangury"
+      "Menstrual colic before the appearance of the discharge with strangury", 
+      "Suppressed menstruation, with congestion to head"
     ], 
     "Skin": [
-      "Erysipelas, with cerebral symptoms", 
+      "HOT SWEATING", 
       "Erythema", 
       "Itching in various parts", 
-      "HOT SWEATING"
+      "Erysipelas, with cerebral symptoms"
     ]
   }, 
   "details": "Paroxysms of auricular fibrillation. Induces fall of both systolic and diastolic blood pressure. Congestions, especially to lungs, base of brain, with nausea and vomiting. Twitchings and convulsions. Especially adapted to full-blooded, plethoric persons. Great prostration. Rheumatism of heart. BLOATED, LIVID FACE. Furious delirium. Effects of sunstroke. ESOPHAGITIS. (Farrington.) VERAT. VIR, will raise the opsonic index against the DIPLOCCUS PNEUMONIA, 70 to 109 per cent. Congestive stage and early manifestations of hepatization in pneumonia. Zigzag temperature. Clinically, it is known that such diseases as Tiegel's contracture, Thompson's Disease, athetosis and pseudo-hypertrophic muscular paralysis present a symptomatology quite like that produced by Veratrum VIR upon muscular tissue. (A. E. Hinsdale, M.D.)", 

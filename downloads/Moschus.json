@@ -1,6 +1,6 @@
 {
   "name": "Moschus", 
-  "Relationship": "Compare: NUX MOSCH.; ASAF.; VALER.; SUMBUL.; IGN.; CASTOR.Compatible: AMBRA.Antidotes: CAMPH.; COFF.", 
+  "Relationship": "Antidotes: CAMPH.; COFF.Compare: NUX MOSCH.; ASAF.; VALER.; SUMBUL.; IGN.; CASTOR.Compatible: AMBRA.", 
   "symptoms": {
     "Heart": [
       "Hysterical palpitation", 
@@ -8,55 +8,55 @@
       "Weak pulse and fainting"
     ], 
     "Head": [
-      "Compressive pain over root of nose", 
       "Pressure on top of head", 
-      "Vertigo on least motion; sensation as if falling from a great height", 
+      "Compressive pain over root of nose", 
       "Scalp sensitive", 
+      "Vertigo on least motion; sensation as if falling from a great height", 
       "Sounds in ears as from the report of a cannon"
     ], 
     "Respiratory": [
       "Tightness of chest, is obliged to take a deeper breath", 
+      "Globus hystericus", 
       "Sudden constriction of larynx and trachea", 
       "DIFFICULT RESPIRATION; CHEST OPPRESSED; hysterical spasm of chest; asthma", 
       "Spasm of glottis", 
-      "Impending paralysis of lungs", 
-      "Asthma, with intense anxiety, fear, and smothering sensation", 
       "COUGH CEASES, MUCUS CANNOT BE EXPECTORATED", 
-      "Globus hystericus"
+      "Asthma, with intense anxiety, fear, and smothering sensation", 
+      "Impending paralysis of lungs"
     ], 
     "Stomach": [
-      "Desire for black coffee, stimulants", 
-      "Aversion to food", 
-      "Everything tastes flat", 
-      "With stomach symptoms, anxiety in chest", 
-      "Distended", 
-      "Faints when eating", 
       "Abdomen greatly distended", 
-      "SPASMODIC, NERVOUS HICCOUGH"
+      "Aversion to food", 
+      "SPASMODIC, NERVOUS HICCOUGH", 
+      "Desire for black coffee, stimulants", 
+      "With stomach symptoms, anxiety in chest", 
+      "Faints when eating", 
+      "Everything tastes flat", 
+      "Distended"
     ], 
     "Modalities": [
+      "Worse: cold", 
       "Better: in open air", 
-      "Better: rubbing", 
-      "Worse: cold"
+      "Better: rubbing"
     ], 
     "Mind": [
+      "Sexual hypochondriasis", 
       "UNCONTROLLABLE LAUGHTER", 
-      "Scolding", 
       "Anxiety, with palpitation; starting as if frightened", 
-      "Sexual hypochondriasis"
+      "Scolding"
     ], 
     "Female": [
-      "Menses too early, too profuse, with disposition to faint", 
       "Sexual desire, with intolerable titillation in parts", 
-      "Drawing and pushing in the direction of the genitals; sensation as if menses appear", 
-      "Urine Section", 
       "Profuse urination", 
+      "Drawing and pushing in the direction of the genitals; sensation as if menses appear", 
+      "Menses too early, too profuse, with disposition to faint", 
+      "Urine Section", 
       "DIABETES"
     ], 
     "Male": [
+      "Premature senility", 
       "VIOLENT DESIRE; involuntary emissions", 
       "Impotence, associated with diabetes", 
-      "Premature senility", 
       "Nausea and vomiting after coition"
     ]
   }, 

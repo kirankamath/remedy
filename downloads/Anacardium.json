@@ -1,19 +1,19 @@
 {
   "name": "Anacardium", 
-  "Relationship": "Antidote: Grindeleia; Coffea; Juglans; Rhus; Eucalyptus.Compare: Anacard. occidentale (cashew nut) (erysipelas, vesicular facial eruptions), anaesthetic variety of leprosy; warts, corns, ulcers, cracking of the skin on soles of feet). Rhus.; Cypriped.; Chelidonium.; Xerophyl. 'Platina follows well. Cereus serpentina (swearing).", 
+  "Relationship": "Platina follows well. Cereus serpentina (swearing).Compare: Anacard. occidentale (cashew nut) (erysipelas, vesicular facial eruptions), anaesthetic variety of leprosy; warts, corns, ulcers, cracking of the skin on soles of feet). Rhus.; Cypriped.; Chelidonium.; Xerophyl. 'Antidote: Grindeleia; Coffea; Juglans; Rhus; Eucalyptus.", 
   "symptoms": {
     "Head": [
-      "Vertigo", 
       "Pressing pain, AS FROM A PLUG; worse after mental exertion - in forehead; occiput, temples, vertex; BETTER DURING A MEAL", 
+      "Vertigo", 
       "Itching and little boils on scalp"
     ], 
     "Stomach": [
       "Weak digestion, with fullness and distention", 
       "EMPTY FEELING IN STOMACH", 
       "Eructation, nausea, vomiting", 
-      "EATING RELIEVES ANACARDIUM DYSPEPSIA", 
       "Apt to choke when eating or drinking", 
-      "Swallows food and drinks hastily"
+      "Swallows food and drinks hastily", 
+      "EATING RELIEVES ANACARDIUM DYSPEPSIA"
     ], 
     "Abdomen": [
       "PAIN AS IF DULL PLUG WERE PRESSED INTO INTESTINES", 
@@ -21,39 +21,39 @@
     ], 
     "Mouth": [
       "Painful vesicles; fetid odor", 
-      "Tongue feels swollen, impeding speech and motion, with saliva in mouth", 
-      "Burning around lips as from pepper"
+      "Burning around lips as from pepper", 
+      "Tongue feels swollen, impeding speech and motion, with saliva in mouth"
     ], 
     "Rectum": [
-      "Bowels inactive", 
-      "INEFFECTUAL DESIRE; RECTUM SEEMS POWERLESS, AS IF PLUGGED UP; spasmodic constriction of sphincter ani; even soft stool passes with difficulty", 
       "ITCHING AT ANUS; MOISTURE FROM RECTUM", 
+      "Painful hemorrhoids", 
       "Hemorrhage during stool", 
-      "Painful hemorrhoids"
+      "Bowels inactive", 
+      "INEFFECTUAL DESIRE; RECTUM SEEMS POWERLESS, AS IF PLUGGED UP; spasmodic constriction of sphincter ani; even soft stool passes with difficulty"
     ], 
     "Respiratory": [
-      "Pressure in chest, as from a dull plug", 
-      "Oppression of chest, with internal heat and anxiety, driving him into open air", 
       "Cough excited by talking, in children, after fit of temper", 
-      "Cough after eating with vomiting of food and pain in occiput"
+      "Cough after eating with vomiting of food and pain in occiput", 
+      "Oppression of chest, with internal heat and anxiety, driving him into open air", 
+      "Pressure in chest, as from a dull plug"
     ], 
     "Eyes": [
-      "Pressure LIKE A PLUG on upper orbit", 
+      "OBJECTS APPEAR TOO FAR OFF", 
       "Indistinct vision", 
-      "OBJECTS APPEAR TOO FAR OFF"
+      "Pressure LIKE A PLUG on upper orbit"
     ], 
     "Face": [
-      "Blue rings around eyes", 
-      "Face pale"
+      "Face pale", 
+      "Blue rings around eyes"
     ], 
     "Nose": [
       "Frequent sneezing", 
-      "SENSE OF SMELL PERVERTED", 
-      "Coryza with palpitation, especially in the aged"
+      "Coryza with palpitation, especially in the aged", 
+      "SENSE OF SMELL PERVERTED"
     ], 
     "Male": [
-      "Voluptuous itching; increased desire; seminal emissions without dreams", 
-      "Prostatic discharge during stool"
+      "Prostatic discharge during stool", 
+      "Voluptuous itching; increased desire; seminal emissions without dreams"
     ], 
     "Ears": [
       "Pressing in the ears as from a plug", 
@@ -70,46 +70,47 @@
       "Better: from rubbing"
     ], 
     "Mind": [
-      "Fixed ideas", 
-      "Hallucinations; THINKS HE IS POSSESSED OF TWO PERSONS OR WILLS", 
+      "Suspicious", 
       "Anxiety when walking, as if pursued", 
       "Profound melancholy and hypochondriasis, with TENDENCY TO USE VIOLENT LANGUAGE", 
-      "BRAIN-FAG", 
-      "IMPAIRED MEMORY", 
-      "ABSENT MINDED", 
-      "VERY EASILY OFFENDED", 
+      "Hallucinations; THINKS HE IS POSSESSED OF TWO PERSONS OR WILLS", 
       "Malicious; seems bent on wickedness", 
-      "Lack of confidence in himself or others", 
-      "Suspicious", 
+      "VERY EASILY OFFENDED", 
+      "Fixed ideas", 
+      "Absence of all moral restraint", 
       "Clairaudient, hears voices far away or of the dead", 
+      "BRAIN-FAG", 
       "Senile dementia", 
-      "Absence of all moral restraint"
+      "IMPAIRED MEMORY", 
+      "Lack of confidence in himself or others", 
+      "ABSENT MINDED"
     ], 
     "Back": [
-      "Dull pressure in the shoulders, as from a weight", 
-      "Stiffness at nape of neck"
+      "Stiffness at nape of neck", 
+      "Dull pressure in the shoulders, as from a weight"
+    ], 
+    "Sleep": [
+      "Spells of sleeplessness lasting for several nights", 
+      "Anxious dreams"
     ], 
     "Female": [
       "Leucorrhoea, with soreness and itching", 
       "Menses scanty"
     ], 
     "Skin": [
-      "INTENSE ITCHING eczema, with mental irritability; vesicular eruption; SWELLING, urticaria; eruption like that of Poison-Oak", 
-      "Lichen planus; neurotic eczema", 
       "Warts on hands", 
+      "Lichen planus; neurotic eczema", 
+      "INTENSE ITCHING eczema, with mental irritability; vesicular eruption; SWELLING, urticaria; eruption like that of Poison-Oak", 
       "Ulcer formation on forearm"
     ], 
     "Extremities": [
       "Neuralgia in thumb", 
-      "Paralytic weakness", 
-      "Knees feel paralyzed or bandaged", 
       "Cramps in calves", 
+      "Paralytic weakness", 
       "Pressure as from a plug in the glutei", 
-      "Warts on palms of hands", 
       "Fingers swollen with vesicular eruption", 
-      "Sleep", 
-      "Spells of sleeplessness lasting for several nights", 
-      "Anxious dreams"
+      "Knees feel paralyzed or bandaged", 
+      "Warts on palms of hands"
     ]
   }, 
   "details": "The Anacardium patient is found mostly among the neurasthenics; such have a type of nervous dyspepsia, relieved by food; IMPAIRED MEMORY, depression, and irritability; diminution of senses (smell, sight, hearing). Syphilitic patients often suffer with these conditions. Intermittency of symptoms. Fear of examination in students. Weakening of all senses, sight, hearing, etc. Aversion to work; lacks self-confidence; irresistible desire to swear and curse. SENSATION OF A PLUG in various parts - eyes, rectum, bladder, etc.; also of a band. Empty feeling in stomach; EATING TEMPORARILY RELIEVES ALL DISCOMFORT. This is a sure indication, often verified. Its skin symptoms are similar to Rhus, and it has proved a valuable antidote to Poison-Oak.", 

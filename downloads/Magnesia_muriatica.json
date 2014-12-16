@@ -1,25 +1,25 @@
 {
   "name": "Magnesia muriatica", 
-  "Relationship": "Antidotes: CAMPH.; CHAM.Compare: NAT-M.; PULS.; SEP.; AMM. M.; NASTURTIUM AQUATICUM - Water-cress - (useful in scorbutic affections and constipation, related to strictures of urinary apparatus; supposed to be aphrodisiacal in its action. Is also antidotal to TOBACCO narcosis and sedative in neurotic affections, neurasthenia, hysteria. Cirrhosis of liver and dropsy.", 
+  "Relationship": "Compare: NAT-M.; PULS.; SEP.; AMM. M.; NASTURTIUM AQUATICUM - Water-cress - (useful in scorbutic affections and constipation, related to strictures of urinary apparatus; supposed to be aphrodisiacal in its action. Is also antidotal to TOBACCO narcosis and sedative in neurotic affections, neurasthenia, hysteria. Cirrhosis of liver and dropsy.Antidotes: CAMPH.; CHAM.", 
   "symptoms": {
     "Heart": [
-      "Palpitation and cardiac pain WHILE SITTING; BETTER BY MOVING ABOUT", 
-      "Functional cardiac affections WITH LIVER ENLARGEMENT"
+      "Functional cardiac affections WITH LIVER ENLARGEMENT", 
+      "Palpitation and cardiac pain WHILE SITTING; BETTER BY MOVING ABOUT"
     ], 
     "Head": [
+      "Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat", 
       "Sensitive to noise; bursting headache; worse, motion, open air; better, pressure, and wrapping up warmly", 
-      "Much sweating of head", 
-      "Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat"
+      "Much sweating of head"
     ], 
     "Respiratory": [
       "Spasmodic dry cough; worse forepart of night, with burning and sore chest"
     ], 
     "Stomach": [
-      "Appetite poor, bad taste in mouth", 
+      "CANNOT DIGEST MILK", 
       "Eructations like rotten eggs", 
       "Continued rising of white froth into mouth", 
-      "CANNOT DIGEST MILK", 
-      "Urine can be passed only by pressing abdominal muscles"
+      "Urine can be passed only by pressing abdominal muscles", 
+      "Appetite poor, bad taste in mouth"
     ], 
     "Modalities": [
       "Worse: immediately after eating", 
@@ -29,44 +29,45 @@
       "Better: except headache"
     ], 
     "Abdomen": [
-      "Pressing pain in liver; worse lying on right side", 
-      "LIVER ENLARGED WITH BLOATING OF ABDOMEN; yellow tongue", 
       "Congenital scrotal hernia", 
-      "Must use abdominal muscles to enable him to urinate", 
-      "Urinary Organs", 
-      "Urine difficult to void", 
-      "Bladder can only be emptied by straining and pressure", 
-      "Bowels", 
       "Constipation of infants during dentition; only passing small quantity; STOOLS KNOTTY, like sheep's dung, CRUMBLING AT VERGE OF ANUS", 
-      "Painful smarting hemorrhoids"
+      "Painful smarting hemorrhoids", 
+      "Pressing pain in liver; worse lying on right side", 
+      "Bladder can only be emptied by straining and pressure", 
+      "Urinary Organs", 
+      "Bowels", 
+      "Urine difficult to void", 
+      "LIVER ENLARGED WITH BLOATING OF ABDOMEN; yellow tongue", 
+      "Must use abdominal muscles to enable him to urinate"
     ], 
     "Mouth": [
       "Blisters on lips", 
-      "Gums swollen, bleed easily", 
       "Tongue feels burnt and scalded", 
+      "Gums swollen, bleed easily", 
       "Throat dry, with hoarseness"
     ], 
     "Nose": [
-      "Nostrils ulcerated", 
-      "Coryza", 
-      "Nose stopped and fluent", 
       "LOSS OF SMELL AND TASTE, following catarrh", 
+      "Nostrils ulcerated", 
       "Cannot lie down", 
+      "Nose stopped and fluent", 
+      "Coryza", 
       "Must breathe through mouth"
     ], 
     "Female": [
-      "Menses black, clotted", 
       "Pain in back and thighs", 
-      "Metrorrhagia; worse at night", 
+      "Tinea ciliaris, eruptions in face and forehead worse before menses", 
       "Great excitement at every period", 
       "Leucorrhoea with every stool and after exercise", 
-      "Tinea ciliaris, eruptions in face and forehead worse before menses"
+      "Menses black, clotted", 
+      "Metrorrhagia; worse at night"
+    ], 
+    "Sleep": [
+      "Sleep during day; restless at night on account of heat and shock; anxious dreams"
     ], 
     "Extremities": [
-      "Pain in back and hips; in arms and legs", 
-      "Arms \"go to sleep\" when waking in morning", 
-      "Sleep", 
-      "Sleep during day; restless at night on account of heat and shock; anxious dreams"
+      "Arms go to sleep when waking in morning", 
+      "Pain in back and hips; in arms and legs"
     ]
   }, 
   "details": "A liver remedy with pronounced characteristic constipation. Chronic liver affections with tenderness and pain, extending to spine and epigastrium, worse after food. Especially adapted to diseases of women, with a long history of indigestion and uterine disease; children who cannot digest milk. Evil effects of sea bathing.", 

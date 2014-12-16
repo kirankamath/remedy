@@ -1,53 +1,53 @@
 {
   "name": "Copaiva", 
-  "Relationship": "Antidote: BELL.; MERC.Compare: SANTALUM - (aching in kidneys); CANNAB.; CANTH.; BAROSMA; CUBEB; APIS; VESPA; ERIG.; SENECIO; SEPIA.", 
+  "Relationship": "Compare: SANTALUM - (aching in kidneys); CANNAB.; CANTH.; BAROSMA; CUBEB; APIS; VESPA; ERIG.; SENECIO; SEPIA.Antidote: BELL.; MERC.", 
   "symptoms": {
     "Head": [
-      "Excessive sensitiveness; pain in occiput", 
+      "Sensitive to sharp sounds", 
       "Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion", 
       "Scalp sensitive", 
-      "Sensitive to sharp sounds"
+      "Excessive sensitiveness; pain in occiput"
     ], 
     "Respiratory": [
-      "Cough, with profuse, gray, purulent expectoration", 
       "Tickling in larynx, trachea, and bronchi", 
+      "Cough, with profuse, gray, purulent expectoration", 
       "Bronchial catarrh, with profuse greenish, offensive discharge"
     ], 
     "Stomach": [
-      "Food seems too salty", 
-      "Gastric troubles during menstruation or following urticaria", 
-      "Gas and intestinal flatulence, urging to stool and difficult passage with pain", 
-      "Urinary Organs", 
-      "Burning pressure; painful micturition by drops", 
-      "Retention, with pain in bladder, anus, and rectum", 
-      "CATARRH OF BLADDER; dysuria", 
       "Swelling of orifice", 
       "Constant desire to urinate", 
+      "Burning pressure; painful micturition by drops", 
       "Urine smells of violets", 
-      "Greenish; turbid color; peculiar pungent odor"
+      "Retention, with pain in bladder, anus, and rectum", 
+      "Greenish; turbid color; peculiar pungent odor", 
+      "CATARRH OF BLADDER; dysuria", 
+      "Gastric troubles during menstruation or following urticaria", 
+      "Food seems too salty", 
+      "Gas and intestinal flatulence, urging to stool and difficult passage with pain", 
+      "Urinary Organs"
     ], 
     "Nose": [
-      "Rawness and soreness of nostrils with stopped-up feeling; dryness of posterior nares", 
       "Profuse, thick, fetid discharge from nasal passages, running down throat at night", 
-      "BURNING AND DRYNESS, crusts on turbinated bones", 
-      "Marked catarrhal condition in upper respiratory tract"
+      "Marked catarrhal condition in upper respiratory tract", 
+      "Rawness and soreness of nostrils with stopped-up feeling; dryness of posterior nares", 
+      "BURNING AND DRYNESS, crusts on turbinated bones"
     ], 
     "Female": [
       "Itching of vulva and anus, with bloody purulent discharge", 
       "Profuse, strong-smelling menstrual discharge, with pains radiating to hip bones, with nausea"
     ], 
     "Skin": [
-      "HIVES, with fever and constipation", 
-      "Roseola", 
-      "Erysipelatous inflammation, especially around abdomen", 
       "Circumscribed, lenticular patches, with itching; mottled appearance", 
       "Chronic urticaria in children", 
-      "Bullous eruptions"
+      "HIVES, with fever and constipation", 
+      "Bullous eruptions", 
+      "Roseola", 
+      "Erysipelatous inflammation, especially around abdomen"
     ], 
     "Rectum": [
-      "MUCOUS COLITIS", 
+      "Burning and itching of anus, caused by piles", 
       "Stools covered with mucous, with colic and chilliness", 
-      "Burning and itching of anus, caused by piles"
+      "MUCOUS COLITIS"
     ], 
     "Male": [
       "Testicles sensitive and swollen"

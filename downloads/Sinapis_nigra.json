@@ -4,36 +4,36 @@
   ], 
   "symptoms": {
     "Head": [
-      "Scalp hot and itches", 
       "SWEAT ON UPPER LIP AND FOREHEAD", 
+      "Scalp hot and itches", 
       "Tongue feels blistered"
     ], 
     "Respiratory": [
       "Cough is relieved by lying down"
     ], 
     "Stomach": [
-      "OFFENSIVE BREATH, smelling like onions", 
-      "Burning in stomach, extending up oesophagus, throat, and mouth, which is full of canker sores", 
-      "Hot sour eructations", 
-      "COLIC; PAINS COME ON WHILE BENT FORWARD; BETTER, SITTING UP STRAIGHT", 
       "Sweat better when nausea comes on", 
-      "Urinary Organs", 
-      "Pain in bladder, frequent COPIOUS flow day and night"
+      "Burning in stomach, extending up oesophagus, throat, and mouth, which is full of canker sores", 
+      "OFFENSIVE BREATH, smelling like onions", 
+      "Hot sour eructations", 
+      "Pain in bladder, frequent COPIOUS flow day and night", 
+      "COLIC; PAINS COME ON WHILE BENT FORWARD; BETTER, SITTING UP STRAIGHT", 
+      "Urinary Organs"
     ], 
     "Back": [
       "Rheumatic pain in intercostal and lumbar muscles; sleeplessness from pain in back and hips"
     ], 
     "Nose": [
       "Mucus from posterior nares feels COLD", 
-      "Scanty, ACRID discharge", 
+      "Dryness of anterior nares", 
       "STOPPAGE OF LEFT NOSTRIL ALL DAY, or in afternoon and evening", 
-      "Dry, hot, with lachrymation, sneezing; hacking cough; better lying down", 
+      "Scanty, ACRID discharge", 
       "NOSTRILS ALTERNATELY STOPPED", 
-      "Dryness of anterior nares"
+      "Dry, hot, with lachrymation, sneezing; hacking cough; better lying down"
     ], 
     "Throat": [
-      "Feels scalded, hot, inflamed", 
       "Asthmatic breathing", 
+      "Feels scalded, hot, inflamed", 
       "Loud coughing-spells with barking expiration"
     ], 
     "dosage": ""

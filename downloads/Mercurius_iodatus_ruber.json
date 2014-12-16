@@ -5,17 +5,17 @@
   "details": "Diphtheria and ulcerated sore throats, especially on left side, with much glandular swelling. Chronic suppurating buboes. Hard chancres. Old cases of syphilis in scrofulous patients. Early stages of cold, especially in children.", 
   "symptoms": {
     "Mouth": [
-      "Gums swollen; toothache; glands swollen", 
-      "Scalded feeling on tongue", 
       "Aphthae", 
-      "Profuse saliva", 
-      "Tongue feels stiff at base, and pains on moving"
+      "Tongue feels stiff at base, and pains on moving", 
+      "Scalded feeling on tongue", 
+      "Gums swollen; toothache; glands swollen", 
+      "Profuse saliva"
     ], 
     "Nose": [
       "Coryza and dull hearing; right side of nose hot", 
       "Hawks mucus from posterior nares", 
-      "Turbinated bones swollen", 
-      "Boggy mucous membrane of nose and throat; closure of Eustachian tube, opening with a pop"
+      "Boggy mucous membrane of nose and throat; closure of Eustachian tube, opening with a pop", 
+      "Turbinated bones swollen"
     ], 
     "Skin": [
       "Small fissures and cracks; hard papules; HUNTERIAN CHANCRE; syphilitic ulcers", 
@@ -23,15 +23,15 @@
       "Sarcocele"
     ], 
     "Throat": [
-      "Diphtheria; submaxillary glands painfully engorged, fauces dark red; WORSE ON LEFT TONSIL", 
       "Parenchymatous tonsillitis", 
-      "Will often abort peritonsillitis if given frequently", 
       "Cough from elongated uvula, with sore throat", 
       "Laryngeal troubles with aphonia", 
+      "Will often abort peritonsillitis if given frequently", 
       "FAUCES DARK RED; swallowing painful", 
-      "Phlegm in nose and throat", 
+      "STIFFNESS OF MUSCLES OF THROAT AND NECK", 
       "Disposition to hawk, with sensation of a lump in throat", 
-      "STIFFNESS OF MUSCLES OF THROAT AND NECK"
+      "Diphtheria; submaxillary glands painfully engorged, fauces dark red; WORSE ON LEFT TONSIL", 
+      "Phlegm in nose and throat"
     ]
   }, 
   "name": "Mercurius iodatus ruber", 

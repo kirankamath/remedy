@@ -4,21 +4,22 @@
   ], 
   "symptoms": {
     "Head": [
-      "Stupefaction; indifference", 
       "Unequally dilated pupils; GIDDINESS; twitching of facial muscles", 
-      "Hydrocephalus", 
-      "Constant vertigo; intense sleepiness"
+      "Constant vertigo; intense sleepiness", 
+      "Stupefaction; indifference", 
+      "Hydrocephalus"
     ], 
     "Stomach": [
-      "Excessive thirst", 
-      "Constant nausea, vomiting; burning pain in epigastrium", 
-      "Urinary organs", 
       "Tenesmus and erections", 
-      "Grass-green urine"
+      "Excessive thirst", 
+      "Grass-green urine", 
+      "Constant nausea, vomiting; burning pain in epigastrium", 
+      "Urinary organs"
     ], 
     "Extremities": [
+      "Compare: NUX; GELS", 
       "Numbness and pain in hands", 
-      "Difficulty in moving themCompare: NUX; GELS", 
+      "Difficulty in moving them", 
       "CYSTINE"
     ], 
     "dosage": ""

@@ -3,14 +3,14 @@
   "Relationship": "Compare: IRIS, MELILOT.; SANGUINAR, FAGUS - BEECH-NUTS - (headache and salivation; swelling on mouth; dread of water).", 
   "symptoms": {
     "Head": [
-      "Pressing pain in temples FROM WITHOUT INWARDS, WORSE, LEFT SIDE", 
       "VISCID SALIVATION, constant inclination to spit", 
       "Sick headache coming on when deviating from ordinary pursuits", 
+      "Pressing pain in temples FROM WITHOUT INWARDS, WORSE, LEFT SIDE", 
       "Headaches from nerve tire caused by mental or physical exhaustion, PRECEDED BY HUNGER"
     ], 
     "Modalities": [
-      "Worse: from working in open air", 
-      "Better: from sleep"
+      "Better: from sleep", 
+      "Worse: from working in open air"
     ]
   }, 
   "details": "A remedy for sick, neurasthenic, and nervous headaches, especially in women, brought on or made worse by exertion, shopping, etc. Tongue coated yellow; bitter taste. Drowsy after meals. Loose stools. SUBINVOLUTION, with painful menstruation and congestion.", 

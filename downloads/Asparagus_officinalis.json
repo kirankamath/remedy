@@ -1,27 +1,27 @@
 {
   "name": "Asparagus officinalis", 
-  "Relationship": "Antidote: Acon.; Apis.Compare: Althaea - Marshmallow - (contains asparagine; irritable bladder, throat and bronchi.) Physalis Alkekengi. Digital.; Sarsap.; Spigelia", 
+  "Relationship": "Compare: Althaea - Marshmallow - (contains asparagine; irritable bladder, throat and bronchi.) Physalis Alkekengi. Digital.; Sarsap.; SpigeliaAntidote: Acon.; Apis.", 
   "symptoms": {
     "Heart": [
+      "Hydrothorax", 
       "PALPATION, WITH OPPRESSION OF CHEST", 
       "Pulse intermits, weak, pain about left shoulder and heart, associated with bladder disturbances", 
-      "Great oppression in breathing", 
-      "Hydrothorax"
+      "Great oppression in breathing"
     ], 
     "Head": [
-      "Confused", 
-      "Coryza, with profuse, thin fluid", 
-      "Aching in forehead and root of nose", 
+      "Lithiasis", 
       "Migrainous morning headache with scotoma", 
-      "Throat feels rough, with hawking copious, tenacious mucus from throat", 
-      "Urine Section", 
-      "Frequent, with fine stitches in orifice of urethra; burning; of peculiar odor", 
       "Cystitis, with pus, mucus and tenesmus", 
-      "Lithiasis"
+      "Confused", 
+      "Throat feels rough, with hawking copious, tenacious mucus from throat", 
+      "Coryza, with profuse, thin fluid", 
+      "Frequent, with fine stitches in orifice of urethra; burning; of peculiar odor", 
+      "Urine Section", 
+      "Aching in forehead and root of nose"
     ], 
     "Extremities": [
-      "Rheumatic pain in back, especially near shoulder and limbs", 
-      "Pain at acromion process of left scapula under clavicle and down arm, with feeble pulse"
+      "Pain at acromion process of left scapula under clavicle and down arm, with feeble pulse", 
+      "Rheumatic pain in back, especially near shoulder and limbs"
     ]
   }, 
   "details": "Its marked and immediate action on the urinary secretion is well known. It causes weakness and cardia depression with dropsy. Rheumatic pains. Especially about left shoulder and heart.", 

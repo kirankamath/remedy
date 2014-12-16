@@ -7,17 +7,17 @@
       "Headache with least exertion"
     ], 
     "Respiratory": [
-      "Hurried, labored, stertorous respiration", 
-      "Frothy mucus obstructs the air-passages"
+      "Frothy mucus obstructs the air-passages", 
+      "Hurried, labored, stertorous respiration"
     ], 
     "Mind": [
-      "Irritable, sensitive to noise", 
-      "Mental fatigue, nausea and vertigo, worse in a closed room"
+      "Mental fatigue, nausea and vertigo, worse in a closed room", 
+      "Irritable, sensitive to noise"
     ], 
     "Abdomen": [
-      "Pain in bowels; relieved by stool", 
       "Desire for stool immediately after eating", 
-      "DYSENTERY"
+      "DYSENTERY", 
+      "Pain in bowels; relieved by stool"
     ], 
     "Female": [
       "Dysmenorrhoea, with bearing-down pains, tenderness, drawing in groins", 
@@ -27,7 +27,7 @@
       "Roaring and ringing; voice sounds strange; EARS SEEM TO CLOSE UP SUDDENLY"
     ]
   }, 
-  "details": "Abnormal lassitude. Nervous and tired feeling. \"Half dead, half alive feeling\" all over. Of use in chorea and reflex spasms (worms). Said to be a specific against effects of poison ivy.", 
+  "details": "Abnormal lassitude. Nervous and tired feeling. Half dead, half alive feeling all over. Of use in chorea and reflex spasms (worms). Said to be a specific against effects of poison ivy.", 
   "Natural History": [
     "Tansy"
   ], 

@@ -4,14 +4,14 @@
       "Chronic catarrhal conjunctivitis with copious, thick yellow discharge"
     ], 
     "Stomach": [
-      "Bitter taste", 
       "Aversion to food", 
-      "Urinary Organs", 
+      "Nightly urging", 
       "SCANTY; complete anuria", 
-      "Dribbling micturition", 
       "Urine contains much indican, granular cylinders and fatty degenerated epithelium", 
+      "Dribbling micturition", 
       "Inflammation of kidneys with profound weakness, dark, bloody, scanty urine", 
-      "Nightly urging"
+      "Urinary Organs", 
+      "Bitter taste"
     ], 
     "Modalities": [
       "Worse: least exertion", 
@@ -23,35 +23,35 @@
       "Better: tight pressure"
     ], 
     "Mind": [
-      "Lack of will-power; disinclined to work", 
       "Cerebral softening", 
+      "Lack of will-power; disinclined to work", 
       "Dementia with prostration, sits still and listens"
     ], 
     "Head": [
-      "Head pains; RELIEVED BY BANDAGING TIGHTLY", 
+      "Boils WITHIN ears and back of neck", 
+      "Brain fag", 
       "OCCIPITAL PAIN; worse, slightest mental exertion", 
       "Vertigo and noises in ear", 
-      "Boils WITHIN ears and back of neck", 
-      "After prolonged mental strain, with anxiety and dread of failure at examination", 
-      "Brain fag"
+      "Head pains; RELIEVED BY BANDAGING TIGHTLY", 
+      "After prolonged mental strain, with anxiety and dread of failure at examination"
     ], 
     "Female": [
-      "Pain in left ovary and leucorrhoea before menstruation", 
-      "Pruritus vulvae"
+      "Pruritus vulvae", 
+      "Pain in left ovary and leucorrhoea before menstruation"
     ], 
     "Natural History": [], 
     "Extremities": [
-      "Burning along spine", 
+      "Acute ascending paralysis", 
       "GREAT WEAKNESS", 
-      "TIRED, HEAVY FEELING ALL OVER BODY, ESPECIALLY LIMBS; WORSE, EXERTION", 
-      "Feet cold", 
+      "Burning along spine", 
       "Cannot get warm", 
-      "Acute ascending paralysis"
+      "TIRED, HEAVY FEELING ALL OVER BODY, ESPECIALLY LIMBS; WORSE, EXERTION", 
+      "Feet cold"
     ], 
     "Male": [
       "Emissions profuse, followed by great exhaustion, without sensual dreams", 
-      "PRIAPISM; satyriasis", 
       "Hard erections, with pain in testicles and up cord", 
+      "PRIAPISM; satyriasis", 
       "Prostatic hypertrophy, especially in cases not too far advanced"
     ]
   }, 

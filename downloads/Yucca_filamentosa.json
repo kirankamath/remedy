@@ -5,9 +5,9 @@
   "details": "So-called bilious symptoms, with headache. Despondent and irritable.", 
   "symptoms": {
     "Head": [
+      "Nose red", 
       "Aches as if top of head would fly off", 
-      "Arteries of forehead throb", 
-      "Nose red"
+      "Arteries of forehead throb"
     ], 
     "Abdomen": [
       "Deep pain in right side over liver, going through back", 
@@ -26,8 +26,8 @@
       "Sensation as if something hung down from posterior nares; cannot get it up or down"
     ], 
     "Male": [
-      "Burning and swelling of the prepuce, with redness of meatus", 
-      "Gonorrhea"
+      "Gonorrhea", 
+      "Burning and swelling of the prepuce, with redness of meatus"
     ]
   }, 
   "name": "Yucca filamentosa", 

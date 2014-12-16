@@ -5,23 +5,26 @@
   "details": "Introduced by Drs. Lehman and Yingling. Not proved, hence clinical symptoms only but many have been verified. Sycotic remedy Anaphylactic states produced by proteins and enzymes (Yingling).", 
   "symptoms": {
     "Head": [
-      "Aching back of head and neck", 
-      "Headache and sharp pains all over", 
-      "Worse from constipation", 
-      "Sneezing and wheezing", 
       "Catarrhal discharge from posterior nares", 
-      "Irritable and nervous"
+      "Headache and sharp pains all over", 
+      "Aching back of head and neck", 
+      "Irritable and nervous", 
+      "Sneezing and wheezing", 
+      "Worse from constipation"
     ], 
     "Stomach": [
+      "CONSTIPATION", 
+      "Sour, yeasty, mouldy odor from discharges", 
+      "Rumbling, pains shift, flatulence", 
       "Bad taste", 
-      "Nausea", 
-      "Poor digestion", 
       "Belching of gas in stomach and abdomen", 
+      "Poor digestion", 
       "Soreness all over abdomen", 
       "Sense of fullness", 
-      "Rumbling, pains shift, flatulence", 
-      "CONSTIPATION", 
-      "Sour, yeasty, mouldy odor from discharges"
+      "Nausea"
+    ], 
+    "Sleep": [
+      "Disturbed with much restlessness"
     ], 
     "Skin": [
       "Boils, recurrent", 
@@ -29,10 +32,8 @@
       "Tinea versicolor"
     ], 
     "Extremities": [
-      "Backache, tired and weak from elbows and knees down", 
       "Hands cold like ice and go to sleep easily", 
-      "Sleep", 
-      "Disturbed with much restlessness"
+      "Backache, tired and weak from elbows and knees down"
     ]
   }, 
   "name": "Torula cervisiae", 

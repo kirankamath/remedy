@@ -3,29 +3,29 @@
   "Relationship": "Compare: THIOSINAMINUM (action on cicatricial tissues; adhesions, strictures, tumors); CALC. FLUOR.; SILICA. Complementary: SILICA.", 
   "symptoms": {
     "Eyes": [
+      "Violent itching of inner canthus", 
       "SENSATION AS OF WIND BLOWING THROUGH EYES", 
-      "Lachrymal fistula", 
-      "Violent itching of inner canthus"
+      "Lachrymal fistula"
     ], 
     "Respiratory": [
-      "Oppression of chest, difficult breathing, great dyspnoea", 
-      "Hydrothorax"
+      "Hydrothorax", 
+      "Oppression of chest, difficult breathing, great dyspnoea"
     ], 
     "Stomach": [
-      "Heaviness and weight in stomach", 
-      "Heat in stomach before meals", 
-      "Sour eructations", 
-      "Averse to coffee, wants fancy dishes", 
-      "Stomach symptoms relieved by tight clothes", 
       "Desire for highly seasoned food", 
+      "Warm drinks produce diarrhoea", 
+      "Heat in stomach before meals", 
+      "Stomach symptoms relieved by tight clothes", 
+      "Sour eructations", 
       "Craves cold water, hungry", 
-      "Warm drinks produce diarrhoea"
+      "Heaviness and weight in stomach", 
+      "Averse to coffee, wants fancy dishes"
     ], 
     "Female": [
-      "Menses copious, frequent, too long", 
+      "Nymphomania", 
       "Ulceration of uterus and os", 
       "Copious and excoriating leucorrhoea", 
-      "Nymphomania"
+      "Menses copious, frequent, too long"
     ], 
     "Modalities": [
       "Worse: warmth", 
@@ -35,21 +35,21 @@
       "Better: while walking"
     ], 
     "Mind": [
-      "Indifference towards those loved bets; inability to realize responsibility; buoyancy", 
-      "Mentally elated and gay"
+      "Mentally elated and gay", 
+      "Indifference towards those loved bets; inability to realize responsibility; buoyancy"
     ], 
     "Stool": [
       "Bilious diarrhoea, with aversion to coffee"
     ], 
     "Abdomen": [
-      "Soreness over liver", 
-      "Flatus and eructations"
+      "Flatus and eructations", 
+      "Soreness over liver"
     ], 
     "Mouth": [
       "Dental fistula, with persistent, bloody, salty discharge", 
-      "Syphilitic ulceration of throat, which is very sensitive to cold", 
+      "Affects teeth and bones of upper jaw", 
       "Teeth feel warm", 
-      "Affects teeth and bones of upper jaw"
+      "Syphilitic ulceration of throat, which is very sensitive to cold"
     ], 
     "Nose": [
       "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
@@ -57,42 +57,42 @@
     "Head": [
       "Alopecia", 
       "Caries of skin", 
+      "Exostosis", 
       "Pressure on sides of head from within outward", 
-      "Caries of ossicles and mastoid, with copious discharge; worse warmth", 
-      "Exostosis"
+      "Caries of ossicles and mastoid, with copious discharge; worse warmth"
     ], 
     "Skin": [
       "VARICOSE VEINS", 
       "Naevi", 
-      "Ulcers; red edges and vesicles", 
+      "DROPSY OF LIMBS in old, feeble constitutions", 
+      "Syphilitic tubercles", 
+      "Atony of capillary and venous system", 
       "Decubitus; worse, warmth", 
+      "Feels as if burning vapor were emitted from pores", 
+      "Periosteal abscess", 
       "Syphilitic rupia", 
       "Itching of cicatrices", 
-      "Feels as if burning vapor were emitted from pores", 
-      "ITCHING ESPECIALLY OF THE ORIFICES, and in spots, worse warmth", 
-      "Nails grow rapidly", 
-      "Periosteal abscess", 
       "Profuse, sour, offensive perspiration", 
-      "Syphilitic tubercles", 
-      "DROPSY OF LIMBS in old, feeble constitutions", 
-      "Atony of capillary and venous system", 
-      "Tissues bloated"
+      "Ulcers; red edges and vesicles", 
+      "Nails grow rapidly", 
+      "Tissues bloated", 
+      "ITCHING ESPECIALLY OF THE ORIFICES, and in spots, worse warmth"
     ], 
     "Extremities": [
-      "Inflammation of joints of fingers", 
       "Feeling as of a splinter under nail", 
-      "Nails crumble", 
+      "Ulcer over tibia", 
       "Caries and necrosis, especially of long bones", 
-      "Coccygodynia", 
-      "Ulcer over tibia"
+      "Nails crumble", 
+      "Inflammation of joints of fingers", 
+      "Coccygodynia"
     ], 
     "Male": [
+      "Scanty, dark", 
       "Burning in urethra", 
       "Sexual passion and desire increased, with erections at night, during sleep", 
+      "In dropsy, produces frequent and free discharge, with great relief", 
       "SWOLLEN SCROTUM", 
-      "Urine Section", 
-      "Scanty, dark", 
-      "In dropsy, produces frequent and free discharge, with great relief"
+      "Urine Section"
     ]
   }, 
   "details": "Especially adapted to chronic diseases with syphilitic and mercurial history. GLABELLA REGION BLOATED. Acts especially upon lower tissues, and indicated in deep, destructive processes, bedsores, ulcerations, varicose veins, and ulcers. Patient is compelled to move about energetically. Complaints of old age, or the prematurely aged, with weak, distended blood vessels. Hobnailed liver of alcoholics. GOITRE (Dr. Woakes) (Kali-fluoride produced bronchocele in dogs). Early decay of teeth. Old cases of nightly fevers, coming on periodically.", 

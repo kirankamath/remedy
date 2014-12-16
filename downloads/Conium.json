@@ -3,39 +3,39 @@
   "Relationship": "Compare: SCIRRHINUM - Cancer nosode - (cancerous diathesis; enlarged glands; cancer of breast; worms); BARYT.; HYDRAST.; IOD.; KALI-PHOS.; HYOS.; CURARE.", 
   "symptoms": {
     "Eyes": [
-      "PHOTOPHOBIA AND EXCESSIVE LACHRYMATION", 
-      "Corneal pustules", 
       "Dim-sighted; worse, artificial light", 
-      "On closing eyes, he sweats", 
       "Paralysis of ocular muscles", 
       "In superficial inflammation, as in phlyctenular conjunctivitis and keratitis", 
-      "THE SLIGHTEST ULCERATION OR ABRASION WILL CAUSE THE MOST INTENSE PHOTOPHOBIA"
+      "On closing eyes, he sweats", 
+      "PHOTOPHOBIA AND EXCESSIVE LACHRYMATION", 
+      "THE SLIGHTEST ULCERATION OR ABRASION WILL CAUSE THE MOST INTENSE PHOTOPHOBIA", 
+      "Corneal pustules"
     ], 
     "Respiratory": [
-      "Dry cough, almost continuous, hacking; worse, evening and at night; CAUSED BY DRY SPOT IN LARYNX WITH ITCHING in chest and throat, WHEN LYING DOWN, talking or laughing, and during pregnancy", 
+      "Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest", 
       "Expectoration only after long coughing", 
-      "Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest"
+      "Dry cough, almost continuous, hacking; worse, evening and at night; CAUSED BY DRY SPOT IN LARYNX WITH ITCHING in chest and throat, WHEN LYING DOWN, talking or laughing, and during pregnancy"
     ], 
     "Stomach": [
-      "Soreness about the root of tongue", 
-      "Terrible nausea, acrid HEARTBURN, and acid eructations; WORSE ON GOING TO BED", 
       "Painful spasms of the stomach", 
+      "Terrible nausea, acrid HEARTBURN, and acid eructations; WORSE ON GOING TO BED", 
+      "Soreness about the root of tongue", 
       "Amelioration from eating and aggravation a few hours after meals; acidity and burning; painful spot the level of the sternum"
     ], 
     "Female": [
-      "Dysmenorrhoea, with drawing-down thighs", 
-      "Mammae lax and shrunken, HARD, painful to touch", 
-      "STITCHES IN NIPPLES", 
-      "Wants to press breast hard with hand", 
-      "Menses delayed and scanty; parts sensitive", 
-      "BREASTS ENLARGE AND BECOME PAINFUL before and during menses", 
-      "Rash before menses", 
       "Itching around pudenda", 
-      "Unready conception", 
+      "Dysmenorrhoea, with drawing-down thighs", 
+      "Wants to press breast hard with hand", 
       "Induration of os and cervix", 
-      "Ovaritis; ovary enlarged, indurated; lancinating pain", 
+      "Mammae lax and shrunken, HARD, painful to touch", 
       "Ill effects of REPRESSED SEXUAL desire or suppressed menses, or from excessive indulgence", 
-      "Leucorrhoea after micturition"
+      "Ovaritis; ovary enlarged, indurated; lancinating pain", 
+      "Rash before menses", 
+      "STITCHES IN NIPPLES", 
+      "Leucorrhoea after micturition", 
+      "Unready conception", 
+      "BREASTS ENLARGE AND BECOME PAINFUL before and during menses", 
+      "Menses delayed and scanty; parts sensitive"
     ], 
     "Modalities": [
       "Worse: lying down", 
@@ -49,66 +49,66 @@
     ], 
     "Mind": [
       "Excitement causes mental depression", 
-      "Depressed, timid, averse to society, and afraid of being alone", 
+      "Memory weak; unable to sustain any mental effort", 
       "No inclination for business or study; takes no interest in anything", 
-      "Memory weak; unable to sustain any mental effort"
+      "Depressed, timid, averse to society, and afraid of being alone"
     ], 
     "Stool": [
-      "Frequent urging; hard, with tenesmus", 
       "TREMULOUS WEAKNESS AFTER EVERY STOOL", 
-      "Heat and burning in rectum during stool", 
-      "Urine Section", 
-      "Much difficulty in voiding", 
-      "IT FLOWS AND STOPS AGAIN", 
       "INTERRUPTED DISCHARGE", 
-      "Dribbling in old men"
+      "Heat and burning in rectum during stool", 
+      "Frequent urging; hard, with tenesmus", 
+      "Dribbling in old men", 
+      "IT FLOWS AND STOPS AGAIN", 
+      "Urine Section", 
+      "Much difficulty in voiding"
     ], 
     "Back": [
+      "Dull aching in lumbar and sacral region", 
       "Dorsal pain between shoulders", 
-      "Ill effects of bruises and shocks to spine", 
       "Coccydynia", 
-      "Dull aching in lumbar and sacral region"
+      "Ill effects of bruises and shocks to spine"
     ], 
     "Abdomen": [
-      "Severe aching in and around the liver", 
-      "Chronic jaundice, and pains in right hypochondrium", 
       "Sensitive, bruised, swollen, knife-like pains", 
-      "Painful tightness"
+      "Painful tightness", 
+      "Severe aching in and around the liver", 
+      "Chronic jaundice, and pains in right hypochondrium"
     ], 
     "Nose": [
-      "Bleeds easily - becomes sore", 
-      "Polypus"
+      "Polypus", 
+      "Bleeds easily - becomes sore"
     ], 
     "Head": [
-      "VERTIGO, WHEN LYING DOWN, AND WHEN TURNING OVER IN BED, when turning head SIDEWISE, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left", 
       "Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull", 
-      "Scorched feeling of top", 
+      "Dull occipital pain on rising in morning", 
+      "VERTIGO, WHEN LYING DOWN, AND WHEN TURNING OVER IN BED, when turning head SIDEWISE, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left", 
       "Tightness as if both temples were compressed; worse AFTER A MEAL", 
-      "Bruised, semi lateral pains", 
-      "Dull occipital pain on rising in morning"
+      "Scorched feeling of top", 
+      "Bruised, semi lateral pains"
     ], 
     "Skin": [
-      "AXILLARY GLANDS PAIN, WITH NUMB FEELING DOWN ARM", 
-      "Induration after contusions", 
-      "Yellow skin, with papular eruption; yellow finger-nails", 
-      "GLANDS ENLARGED AND INDURATED, also mesenteric", 
-      "Flying stitches through the glands", 
-      "Tumors; piercing pains; worse, at night", 
-      "Chronic ulcers with fetid discharge", 
       "SWEAT AS SOON AS ONE SLEEPS, or even when closing eyes", 
-      "Night and morning sweat, with offensive odor, and smarting in skin"
+      "AXILLARY GLANDS PAIN, WITH NUMB FEELING DOWN ARM", 
+      "Night and morning sweat, with offensive odor, and smarting in skin", 
+      "Induration after contusions", 
+      "Flying stitches through the glands", 
+      "GLANDS ENLARGED AND INDURATED, also mesenteric", 
+      "Chronic ulcers with fetid discharge", 
+      "Tumors; piercing pains; worse, at night", 
+      "Yellow skin, with papular eruption; yellow finger-nails"
     ], 
     "Extremities": [
       "Heavy, weary, paralyzed; trembling; hands unsteady; fingers and toes numb", 
-      "MUSCULAR WEAKNESS, especially of lower extremities", 
       "PERSPIRATION OF HANDS", 
+      "MUSCULAR WEAKNESS, especially of lower extremities", 
       "PUTTING FEET ON CHAIR RELIEVES PAIN"
     ], 
     "Male": [
-      "Desire increased; power decreased", 
-      "Sexual nervousness, with feeble erection", 
       "EFFECTS OF SUPPRESSED SEXUAL APPETITE", 
-      "Testicles hard and enlarged"
+      "Sexual nervousness, with feeble erection", 
+      "Testicles hard and enlarged", 
+      "Desire increased; power decreased"
     ], 
     "Ears": [
       "Defective hearing; discharge from ear blood colored"

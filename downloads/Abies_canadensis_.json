@@ -9,25 +9,25 @@
       "Irritable"
     ], 
     "Fever": [
-      "Cold shivers, as if blood were ice-water", 
-      "Chills run down back", 
-      "Cold-water feeling between shoulders", 
       "Skin clammy and sticky", 
-      "Night-sweat"
+      "Cold-water feeling between shoulders", 
+      "Cold shivers, as if blood were ice-water", 
+      "Night-sweat", 
+      "Chills run down back"
     ], 
     "Stomach": [
-      "Canine hunger with torpid liver", 
-      "GNAWING, HUNGRY, FAINT FEELING AT THE EPIGASTRIUM", 
+      "Pain in right shoulder-blade, and constipation, with burning in rectum", 
       "Great appetite, craving for meat, pickles, radishes, turnips, artichokes, coarse food", 
-      "TENDENCY TO EAT FAR BEYOND CAPACITY FOR DIGESTION", 
-      "BURNING AND DISTENTION OF STOMACH AND ABDOMEN WITH PALPITATION", 
       "Flatulence disturbs the heart's action", 
-      "Pain in right shoulder-blade, and constipation, with burning in rectum"
+      "TENDENCY TO EAT FAR BEYOND CAPACITY FOR DIGESTION", 
+      "GNAWING, HUNGRY, FAINT FEELING AT THE EPIGASTRIUM", 
+      "BURNING AND DISTENTION OF STOMACH AND ABDOMEN WITH PALPITATION", 
+      "Canine hunger with torpid liver"
     ], 
     "Female": [
-      "Uterine displacements", 
       "Sore feeling at fundus of uterus, relieved by pressure", 
       "Prostration; wants to lie down all the time", 
+      "Uterine displacements", 
       "Thinks womb is soft and feeble"
     ]
   }, 

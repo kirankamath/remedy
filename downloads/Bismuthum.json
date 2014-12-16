@@ -4,59 +4,60 @@
   ], 
   "symptoms": {
     "Head": [
-      "Headache alternates with gastralgia", 
       "Neuralgic pain, as if torn by pincers; involves face and teeth; worse, eating; better, cold; alternate with gastralgia", 
-      "Cutting or pressure above right orbit extending to occiput", 
-      "Pressure in occiput; worse, motion; with heaviness"
+      "Pressure in occiput; worse, motion; with heaviness", 
+      "Headache alternates with gastralgia", 
+      "Cutting or pressure above right orbit extending to occiput"
     ], 
     "Respiratory": [
-      "Pinching in middle of diaphragm, extending transversely through chest", 
-      "Angina pectoris; pain around heart, left arm to fingers"
+      "Angina pectoris; pain around heart, left arm to fingers", 
+      "Pinching in middle of diaphragm, extending transversely through chest"
     ], 
     "Stomach": [
-      "Vomits, with convulsive gagging and pain", 
-      "WATER IS VOMITED AS SOON AS IT REACHES THE STOMACH", 
-      "Eructation after drinking", 
-      "Vomits all fluids", 
-      "BURNING; FEELING OF A LOAD", 
       "Will eat for several days; then vomit", 
-      "Slow digestion, with FETID eructations", 
-      "Gastralgia; pain from stomach through to spine", 
+      "Vomits, with convulsive gagging and pain", 
       "Gastritis", 
-      "BETTER, COLD DRINKS, but vomiting when stomach becomes full"
+      "BETTER, COLD DRINKS, but vomiting when stomach becomes full", 
+      "Vomits all fluids", 
+      "Gastralgia; pain from stomach through to spine", 
+      "BURNING; FEELING OF A LOAD", 
+      "Slow digestion, with FETID eructations", 
+      "WATER IS VOMITED AS SOON AS IT REACHES THE STOMACH", 
+      "Eructation after drinking"
     ], 
     "Mind": [
-      "Solitude is unbearable", 
       "DESIRE FOR COMPANY", 
       "Complains about his condition", 
       "ANGUISH", 
+      "Solitude is unbearable", 
       "Discontented"
     ], 
     "Stool": [
       "Painless diarrhoea, with great thirst, and frequent micturition and vomiting", 
       "Pinching in lower abdomen, with rumbling"
     ], 
+    "Sleep": [
+      "Sleepy in morning, a few hours after eating", 
+      "Restless on account of voluptuous dreams"
+    ], 
     "Mouth": [
-      "GUMS SWOLLEN", 
-      "Toothache; better, cold water in mouth  Tongue white", 
-      "Swollen", 
-      "Black, gangrenous looking wedges on dorsum and sides of tongue", 
-      "Profuse salivation, teeth loose", 
-      "Thirst for cold drinks", 
+      "Pressure as from a load in one spot, alternating with burning, crampy pain and pyrosis", 
       "Tongue coated white; sweetish, metallic taste", 
       "Inexpressible pain in stomach; must bend backwards", 
-      "Pressure as from a load in one spot, alternating with burning, crampy pain and pyrosis"
+      "Swollen", 
+      "Toothache; better, cold water in mouth  Tongue white", 
+      "Profuse salivation, teeth loose", 
+      "GUMS SWOLLEN", 
+      "Black, gangrenous looking wedges on dorsum and sides of tongue", 
+      "Thirst for cold drinks"
     ], 
     "Extremities": [
+      "Itching erosion near tibia and back of feet near joints", 
       "Cramps in hands and feet", 
+      "Tearing in tips of fingers under nails", 
       "Tearing in wrist", 
       "Paralytic weakness, especially right arm", 
-      "Tearing in tips of fingers under nails", 
-      "Itching erosion near tibia and back of feet near joints", 
-      "Cold limbs", 
-      "Sleep", 
-      "Restless on account of voluptuous dreams", 
-      "Sleepy in morning, a few hours after eating"
+      "Cold limbs"
     ], 
     "dosage": ""
   }, 

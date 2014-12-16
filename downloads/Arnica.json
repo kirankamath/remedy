@@ -1,152 +1,153 @@
 {
   "name": "Arnica", 
-  "Relationship": "Antidotes: Camph.Vitex trifolia - Indian Arnica. (Sprains and pains, headache in temples, pain in joints; pain in abdomen; pain in testicles.)Complementary: Acon.; Ipec.Compare: Acon.; Bapt.; Bellis; Hemamellis; Rhus; Hypericum.", 
+  "Relationship": "Antidotes: Camph.Complementary: Acon.; Ipec.Vitex trifolia - Indian Arnica. (Sprains and pains, headache in temples, pain in joints; pain in abdomen; pain in testicles.)Compare: Acon.; Bapt.; Bellis; Hemamellis; Rhus; Hypericum.", 
   "symptoms": {
-    "Heart": [
-      "ANGINA PECTORIS; pain especially severe in elbow of left arm", 
-      "Stitches in heart", 
-      "Pulse feeble and irregular", 
-      "Cardiac dropsy with distressing dyspnoea", 
-      "Extremities distended, feel bruised and sore", 
-      "Fatty heart and hypertrophy"
+    "Stool": [
+      "Dysenteric stools with muscular pains", 
+      "Vesical tenesmus with very painful micturition", 
+      "STRAINING OF TENESMUS IN DIARRHEA", 
+      "Diarrhoea of consumption; worse lying on left side", 
+      "OFFENSIVE, brown, BLOODY, putrid, involuntary", 
+      "Retained from over-exertion", 
+      "Must lie down after every stool", 
+      "Looks like brown yeast", 
+      "Dark brick-red sediment", 
+      "Urine Section"
+    ], 
+    "Head": [
+      "Scalp feels contracted", 
+      "HOT, WITH COLD BODY; confused; sensitiveness of brain, with sharp, pinching pains", 
+      "Chronic vertigo; objects whirl about especially when walking", 
+      "Cold spot on forehead"
+    ], 
+    "Fever": [
+      "Nightly sour sweats", 
+      "Shivering over whole body", 
+      "Heat and redness of head, with coolness of rest of body", 
+      "Febrile symptoms closely related to typhoid", 
+      "Internal heat; feet and hands cold"
+    ], 
+    "Stomach": [
+      "Oppressive gases pass upward and downward", 
+      "Pain in stomach during eating", 
+      "Longing for vinegar", 
+      "Repletion with loathing", 
+      "Vomiting of blood", 
+      "Canine hunger", 
+      "Distaste for milk and meat", 
+      "FEELING AS IF STOMACH WERE PRESSING AGAINST SPINE", 
+      "Fetid vomiting", 
+      "Pressure as from a stone"
+    ], 
+    "Abdomen": [
+      "Sharp thrusts through abdomen", 
+      "Stitches under false ribs", 
+      "Distended; offensive flatus"
+    ], 
+    "Mouth": [
+      "Dry and thirsty", 
+      "TASTE AS FROM BAD EGGS", 
+      "Empyema of maxillary sinus", 
+      "Soreness of gums after teeth extraction", 
+      "FETID BREATH", 
+      "Bitter taste"
+    ], 
+    "Respiratory": [
+      "All bones and cartilage of chest painful", 
+      "Hoarseness from overuse of voice", 
+      "Raw, sore feeling in morning", 
+      "VIOLENT, SPASMATIC COUGH WITH FACIAL HERPES", 
+      "Dyspnoea with hemoptysis", 
+      "Acute tonsillitis, swelling of soft palate and uvula", 
+      "Whooping cough, child cries before coughing", 
+      "Coughs depending on cardiac lesion, paroxysmal, at night, during sleep, worse exercise", 
+      "Pleurodynia", 
+      "Bloody expectoration", 
+      "Cough produced by weeping and lamenting", 
+      "Pneumonia; approaching paralysis", 
+      "Dry, from tickling low down in trachea"
     ], 
     "Eyes": [
       "Diplopia from traumatism, muscular paralysis, retinal hemorrhage", 
-      "Bruised, sore feeling in eyes after close work", 
-      "Must keep eyes open", 
       "Dizzy on closing them", 
-      "Feel tired and weary after sight-seeing, moving pictures, etc"
+      "Feel tired and weary after sight-seeing, moving pictures, etc.", 
+      "Bruised, sore feeling in eyes after close work", 
+      "Must keep eyes open"
     ], 
-    "Fever": [
-      "Febrile symptoms closely related to typhoid", 
-      "Shivering over whole body", 
-      "Heat and redness of head, with coolness of rest of body", 
-      "Internal heat; feet and hands cold", 
-      "Nightly sour sweats"
+    "Face": [
+      "Heat in lips", 
+      "SUNKEN; very red", 
+      "Herpes in face"
     ], 
-    "Stomach": [
-      "Longing for vinegar", 
-      "Distaste for milk and meat", 
-      "Canine hunger", 
-      "Vomiting of blood", 
-      "Pain in stomach during eating", 
-      "Repletion with loathing", 
-      "Oppressive gases pass upward and downward", 
-      "Pressure as from a stone", 
-      "FEELING AS IF STOMACH WERE PRESSING AGAINST SPINE", 
-      "Fetid vomiting"
+    "Nose": [
+      "Nose feels sore; COLD", 
+      "Bleeding after every fit of coughing, dark fluid blood"
     ], 
-    "Female": [
-      "Bruised parts after labor", 
-      "Violent after-pains", 
-      "Uterine hemorrhage from mechanical injury after coition", 
-      "Sore nipples", 
-      "Mastitis from injury", 
-      "Feeling as if foetus were lying crosswise"
+    "Ears": [
+      "Blood from ears", 
+      "Shooting in and around ears", 
+      "Dullness of hearing after concussion", 
+      "Noises in ear caused by rush of blood to the head", 
+      "Pain in cartilage of ears as if bruised"
+    ], 
+    "Heart": [
+      "Stitches in heart", 
+      "Pulse feeble and irregular", 
+      "Extremities distended, feel bruised and sore", 
+      "Fatty heart and hypertrophy", 
+      "ANGINA PECTORIS; pain especially severe in elbow of left arm", 
+      "Cardiac dropsy with distressing dyspnoea"
     ], 
     "Modalities": [
-      "Worse: least touch; motion; rest; wine; damp cold", 
       "Better: LYING DOWN", 
-      "Better: OR WITH HEAD LOW"
+      "Better: OR WITH HEAD LOW", 
+      "Worse: least touch; motion; rest; wine; damp cold"
     ], 
     "Mind": [
-      "Fears touch, or the approach of anyone", 
       "Unconscious; when spoken to answers correctly, but relapses", 
-      "Indifference; inability to perform continuous active work; morose, delirious", 
       "Nervous; cannot bear pain; whole body oversensitive", 
+      "After mental strain or shock", 
+      "Indifference; inability to perform continuous active work; morose, delirious", 
       "Says there is nothing the matter with him", 
       "Wants to be let alone", 
       "Agoraphobia", 
-      "After mental strain or shock"
+      "Fears touch, or the approach of anyone"
     ], 
-    "Stool": [
-      "STRAINING OF TENESMUS IN DIARRHEA", 
-      "OFFENSIVE, brown, BLOODY, putrid, involuntary", 
-      "Looks like brown yeast", 
-      "Must lie down after every stool", 
-      "Diarrhoea of consumption; worse lying on left side", 
-      "Dysenteric stools with muscular pains", 
-      "Urine Section", 
-      "Retained from over-exertion", 
-      "Dark brick-red sediment", 
-      "Vesical tenesmus with very painful micturition"
+    "Sleep": [
+      "Comatose drowsiness; awakens with hot head; dreams of death, mutilated bodies, anxious and terrible", 
+      "Involuntary stools during sleep", 
+      "Sleepless and restless when overtired", 
+      "Horrors in the night"
     ], 
-    "Abdomen": [
-      "Stitches under false ribs", 
-      "Distended; offensive flatus", 
-      "Sharp thrusts through abdomen"
-    ], 
-    "Face": [
-      "SUNKEN; very red", 
-      "Heat in lips", 
-      "Herpes in face"
-    ], 
-    "Respiratory": [
-      "Coughs depending on cardiac lesion, paroxysmal, at night, during sleep, worse exercise", 
-      "Acute tonsillitis, swelling of soft palate and uvula", 
-      "Pneumonia; approaching paralysis", 
-      "Hoarseness from overuse of voice", 
-      "Raw, sore feeling in morning", 
-      "Cough produced by weeping and lamenting", 
-      "Dry, from tickling low down in trachea", 
-      "Bloody expectoration", 
-      "Dyspnoea with hemoptysis", 
-      "All bones and cartilage of chest painful", 
-      "VIOLENT, SPASMATIC COUGH WITH FACIAL HERPES", 
-      "Whooping cough, child cries before coughing", 
-      "Pleurodynia"
-    ], 
-    "Mouth": [
-      "FETID BREATH", 
-      "Dry and thirsty", 
-      "Bitter taste", 
-      "TASTE AS FROM BAD EGGS", 
-      "Soreness of gums after teeth extraction", 
-      "Empyema of maxillary sinus"
-    ], 
-    "Nose": [
-      "Bleeding after every fit of coughing, dark fluid blood", 
-      "Nose feels sore; COLD"
-    ], 
-    "Head": [
-      "HOT, WITH COLD BODY; confused; sensitiveness of brain, with sharp, pinching pains", 
-      "Scalp feels contracted", 
-      "Cold spot on forehead", 
-      "Chronic vertigo; objects whirl about especially when walking"
+    "Female": [
+      "Mastitis from injury", 
+      "Uterine hemorrhage from mechanical injury after coition", 
+      "Violent after-pains", 
+      "Sore nipples", 
+      "Feeling as if foetus were lying crosswise", 
+      "Bruised parts after labor"
     ], 
     "Skin": [
-      "BLACK AND BLUE", 
-      "Itching, burning, eruption of small pimples", 
-      "CROPS OF SMALL BOILS", 
       "Ecchymosis", 
       "Bed sores", 
       "Acne indurata, characterized by SYMMETRY IN DISTRIBUTION", 
-      "Sleep", 
-      "Sleepless and restless when overtired", 
-      "Comatose drowsiness; awakens with hot head; dreams of death, mutilated bodies, anxious and terrible", 
-      "Horrors in the night", 
-      "Involuntary stools during sleep"
+      "Itching, burning, eruption of small pimples", 
+      "CROPS OF SMALL BOILS", 
+      "BLACK AND BLUE"
     ], 
     "Extremities": [
       "Gout", 
-      "Great fear of being touched or approached", 
-      "Pain in back and limbs, as if bruised or beaten", 
-      "Sprained and dislocated feeling", 
-      "Soreness after overexertion", 
-      "Everything on which he lies seems too hard", 
-      "Deathly coldness of forearm", 
       "Cannot walk erect, on account of bruised pain in pelvic region", 
-      "Rheumatism begins low down and works up"
-    ], 
-    "Ears": [
-      "Noises in ear caused by rush of blood to the head", 
-      "Shooting in and around ears", 
-      "Blood from ears", 
-      "Dullness of hearing after concussion", 
-      "Pain in cartilage of ears as if bruised"
+      "Everything on which he lies seems too hard", 
+      "Pain in back and limbs, as if bruised or beaten", 
+      "Great fear of being touched or approached", 
+      "Sprained and dislocated feeling", 
+      "Rheumatism begins low down and works up", 
+      "Soreness after overexertion", 
+      "Deathly coldness of forearm"
     ]
   }, 
-  "details": "Produces conditions upon the system quite similar to those resulting from injuries, falls, blows, contusions. Tinnitus aurium. PUTRID PHENOMENA. Septic conditions; prophylactic of pus infection. Apoplexy, red, full face.It is especially suited to cases when any injury, however remote, seems to have caused the present trouble. AFTER TRAUMATIC INJURIES, overuse of any organ, strains. Arnica is disposed to cerebral congestion. Acts best in plethoric, feebly in debilitated with impoverished blood, cardiac dropsy with dyspnoea. A muscular tonic. Traumatism of grief, remorse or sudden realization of financial loss. Limbs and body ache as if beaten; joints as if sprained. Bed feels too hard. Marked effect on the blood. Affects the venous system inducing stasis. Ecchymosis and Hemorrhages. Relaxed blood vessels, black and blue spots. Tendency to hemorrhage and low-fever states. Tendency to tissue degeneration, septic conditions abscesses that do not mature. SORE, LAME, BRUISED FEELING. Neuralgias originating in disturbances of pneumogastric. Rheumatism of muscular and tendinous tissue, especially of back and shoulders. Aversion to tobacco. INFLUENZA. Thrombosis. Haematocele.", 
+  "details": "It is especially suited to cases when any injury, however remote, seems to have caused the present trouble. AFTER TRAUMATIC INJURIES, overuse of any organ, strains. Arnica is disposed to cerebral congestion. Acts best in plethoric, feebly in debilitated with impoverished blood, cardiac dropsy with dyspnoea. A muscular tonic. Traumatism of grief, remorse or sudden realization of financial loss. Limbs and body ache as if beaten; joints as if sprained. Bed feels too hard. Marked effect on the blood. Affects the venous system inducing stasis. Ecchymosis and Hemorrhages. Relaxed blood vessels, black and blue spots. Tendency to hemorrhage and low-fever states. Tendency to tissue degeneration, septic conditions abscesses that do not mature. SORE, LAME, BRUISED FEELING. Neuralgias originating in disturbances of pneumogastric. Rheumatism of muscular and tendinous tissue, especially of back and shoulders. Aversion to tobacco. INFLUENZA. Thrombosis. Haematocele.Produces conditions upon the system quite similar to those resulting from injuries, falls, blows, contusions. Tinnitus aurium. PUTRID PHENOMENA. Septic conditions; prophylactic of pus infection. Apoplexy, red, full face.", 
   "Natural History": [
     "Leopard's Bane"
   ], 

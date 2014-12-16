@@ -3,18 +3,18 @@
   "Relationship": "RHAMNUS CATHARTICA OR RHAMNUS FRANGULA - European Buckthorn - a rheumatic remedy - (abdominal symptoms, colic; diarrhoea; hemorrhoids, especially chronic). RHAMNUS PURSHIANA - CASCARA SAGRADA - (palliative in constipation, as an intestinal tonic, and dyspepsia dependent thereon. 10-15 drops of tincture).", 
   "symptoms": {
     "Heart": [
-      "Variation of pulse", 
-      "Slow pulse"
+      "Slow pulse", 
+      "Variation of pulse"
     ], 
     "Head": [
-      "DIZZY full feeling", 
-      "Heavy bruised sensation; better, from pressure", 
-      "BURSTING feeling with every step", 
-      "Soreness, especially in occiput and vertex, worse, bending over", 
-      "Dull pain in left temple", 
       "Dull aching in frontal region , extending backwards and over forehead", 
       "Deep, right-sided frontal headache", 
-      "Twitching eyelids"
+      "Heavy bruised sensation; better, from pressure", 
+      "Twitching eyelids", 
+      "Soreness, especially in occiput and vertex, worse, bending over", 
+      "DIZZY full feeling", 
+      "Dull pain in left temple", 
+      "BURSTING feeling with every step"
     ], 
     "Respiratory": [
       "Substernal oppression", 
@@ -22,42 +22,42 @@
     ], 
     "Modalities": [], 
     "Mind": [
-      "Nervous, restless, irritable", 
-      "Lassitude; mentally dull and dazed; unable to concentrate mind on studies"
+      "Lassitude; mentally dull and dazed; unable to concentrate mind on studies", 
+      "Nervous, restless, irritable"
     ], 
     "Face": [
-      "Flushed, hot and glowing", 
-      "Outward pressure from malar processes"
+      "Outward pressure from malar processes", 
+      "Flushed, hot and glowing"
     ], 
     "Mouth": [
-      "Canker sore between gums and lips", 
-      "Tongue coated, with clean, pink, central patch"
+      "Tongue coated, with clean, pink, central patch", 
+      "Canker sore between gums and lips"
     ], 
     "Female": [
       "Sexual desire increased"
     ], 
     "Throat": [
-      "Dry, rough", 
       "Soreness on right side and tonsil", 
-      "Bowels", 
-      "CONSTIPATION with some flatus", 
-      "Tenesmus and dry stool", 
-      "Flatulent diarrhoea", 
-      "Urinary organs", 
       "Increased urination", 
-      "Tickling in anterior urethra, small morning drop"
+      "Tickling in anterior urethra, small morning drop", 
+      "CONSTIPATION with some flatus", 
+      "Dry, rough", 
+      "Tenesmus and dry stool", 
+      "Bowels", 
+      "Flatulent diarrhoea", 
+      "Urinary organs"
     ], 
     "Extremities": [
+      "Walked like a drunken man", 
       "Unable to control muscular action", 
-      "Legs sore", 
-      "Walked like a drunken man"
+      "Legs sore"
     ], 
     "Ears": [
-      "DULLNESS OF HEARING", 
-      "Soreness, deep under right tragus on swallowing"
+      "Soreness, deep under right tragus on swallowing", 
+      "DULLNESS OF HEARING"
     ]
   }, 
-  "details": "One of the most positive remedies for rheumatism and MUSCULAR PAINS. Pleurodynia, lumbago, gastralgia. Vesical tenesmus; DYSMENORRHOEA of myalgic origin; pain in head, neck, and face. INFLAMMATORY RHEUMATISM, joints swollen, painful; tendency to metastasis; profuse sweat. Rheumatic heart (Webster).Provings of students. 2x potency.", 
+  "details": "Provings of students. 2x potency.One of the most positive remedies for rheumatism and MUSCULAR PAINS. Pleurodynia, lumbago, gastralgia. Vesical tenesmus; DYSMENORRHOEA of myalgic origin; pain in head, neck, and face. INFLAMMATORY RHEUMATISM, joints swollen, painful; tendency to metastasis; profuse sweat. Rheumatic heart (Webster).", 
   "Natural History": [
     "California Coffee-tree"
   ], 

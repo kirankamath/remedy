@@ -4,79 +4,80 @@
   "symptoms": {
     "Head": [
       "Megrim of left side; worse stooping, especially after drinking milk", 
-      "Headache; worse heat of sun and by rapid motion", 
       "Sharp pain through eyes", 
-      "Dizzy when crossing stream of water"
+      "Dizzy when crossing stream of water", 
+      "Headache; worse heat of sun and by rapid motion"
     ], 
     "Respiratory": [
-      "Whooping cough", 
-      "DRY COUGH, WITH HOARSENESS and burning pain BEHIND STERNUM", 
-      "SPASMODIC COUGH, WITH RATTLING OF MUCUS in the larynx; suffocative", 
-      "HOARSENESS", 
-      "Croup after febrile symptoms have subsided", 
-      "Difficult and painful breathing", 
-      "Violent cramping of chest", 
-      "Chest pains run upward", 
-      "COLD SENSATION WHEN INSPIRING", 
-      "Every inspiration provokes cough", 
-      "LARYNGEAL DIPHTHERIA, membrane begins in larynx and spreads upward", 
-      "Spasmodic constriction", 
-      "Asthma; difficulty in getting air INTO lung", 
       "Better at sea, of seafaring men when they come on land", 
+      "Spasmodic constriction", 
+      "Bronchial tubes feel filled with smoke", 
       "Hypertrophy of heart from gymnastics", 
+      "Violent cramping of chest", 
+      "COLD SENSATION WHEN INSPIRING", 
+      "DRY COUGH, WITH HOARSENESS and burning pain BEHIND STERNUM", 
+      "Every inspiration provokes cough", 
+      "HOARSENESS", 
+      "Whooping cough", 
+      "Asthma; difficulty in getting air INTO lung", 
+      "Difficult and painful breathing", 
+      "Croup after febrile symptoms have subsided", 
       "Fibrinous bronchitis, great dyspnoea", 
-      "Bronchial tubes feel filled with smoke"
+      "SPASMODIC COUGH, WITH RATTLING OF MUCUS in the larynx; suffocative", 
+      "Chest pains run upward", 
+      "LARYNGEAL DIPHTHERIA, membrane begins in larynx and spreads upward"
     ], 
     "Modalities": [
+      "Better: from any motion; exercise", 
+      "Better: at sea", 
       "Worse: from evening", 
       "Worse: until midnight", 
-      "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side", 
-      "Better: from any motion; exercise", 
-      "Better: at sea"
+      "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side"
+    ], 
+    "Sleep": [
+      "Full of dreams and anguish; jerking and starting during sleep, full of fantasy and illusions; difficult to go to sleep at night, cannot sleep enough in morning; trembling and weak on awaking"
     ], 
     "Nose": [
-      "Coryza, with corrosive soreness of nose", 
-      "Stoppage of right nostril", 
       "Pressure at root of nose", 
-      "TICKLING, SMARTING, AS FROM COBWEBS", 
       "Fan-like motion of alae", 
-      "Bleeding from nose relieving the chest"
+      "Coryza, with corrosive soreness of nose", 
+      "Bleeding from nose relieving the chest", 
+      "TICKLING, SMARTING, AS FROM COBWEBS", 
+      "Stoppage of right nostril"
     ], 
     "Female": [
+      "Sharp shooting pain in left breast, worse, pressure", 
       "Swelling of ovaries", 
       "Menses too early; too profuse, with membranous shreds", 
       "Low spirited before menses", 
       "Tumor in breasts, with stitching pains; worse left", 
-      "Stitch pains from breast to axillae", 
-      "Sharp shooting pain in left breast, worse, pressure", 
-      "Sleep", 
-      "Full of dreams and anguish; jerking and starting during sleep, full of fantasy and illusions; difficult to go to sleep at night, cannot sleep enough in morning; trembling and weak on awaking"
+      "Stitch pains from breast to axillae"
     ], 
     "Skin": [
-      "Acne, pimples and pustules", 
-      "Boils on arms and face", 
-      "GLANDS STONY, HARD, ESPECIALLY ON LOWER JAW and throat", 
       "Hard goitre", 
+      "Acne, pimples and pustules", 
+      "GLANDS STONY, HARD, ESPECIALLY ON LOWER JAW and throat", 
+      "Boils on arms and face", 
       "Gangrene"
     ], 
     "Throat": [
-      "Throat feels raw, evening, with hoarseness", 
-      "Tonsils pain on swallowing, deep red, with networks of dilated blood vessels", 
-      "Tickling in trachea during inspiration", 
-      "Hoarseness coming on from being overheated", 
-      "Stomach and Abdomen", 
       "Sharp burning from tongue to stomach", 
-      "Pressure as of stone", 
+      "Tickling in trachea during inspiration", 
+      "Tonsils pain on swallowing, deep red, with networks of dilated blood vessels", 
+      "Painful hemorrhoids, with black stool", 
+      "Hoarseness coming on from being overheated", 
+      "Throat feels raw, evening, with hoarseness", 
       "Gastralgia; better eating", 
       "Tympanitic distention of abdomen", 
-      "Painful hemorrhoids, with black stool"
+      "Stomach and Abdomen", 
+      "Pressure as of stone"
     ], 
     "Male": [
       "Swelling of testicles", 
       "Indurated, with pains worse slight jar"
     ]
   }, 
-  "details": "Most marked effects are seen in the respiratory symptoms, especially in larynx and trachea. It seems to affect especially scrofulous children with enlarged glands. BLOND TYPE. Enlarged parotid and goitre. Tendency to spasmodic attacks. LEFT-SIDED MUMPS. Sense of suffocation; excoriating discharges, profuse sweats and great weakness. Complaints from being over-heated. TENDENCY TO INFILTRATE GLANDS, BECOME HARD, BUT SELDOM SUPPURATE.Delusion that strange persons are looking over patient's shoulder and that she would see someone on turning. Quarrelsome.", 
+  "details": "Delusion that strange persons are looking over patient's shoulder and that she would see someone on turning. Quarrelsome.Most marked effects are seen in the respiratory symptoms, especially in larynx and trachea. It seems to affect especially scrofulous children with enlarged glands. BLOND TYPE. Enlarged parotid and goitre. Tendency to spasmodic attacks. LEFT-SIDED MUMPS. Sense of suffocation; excoriating discharges, profuse sweats and great weakness. Complaints from being over-heated. TENDENCY TO INFILTRATE GLANDS, BECOME HARD, BUT SELDOM SUPPURATE.", 
   "Natural History": [
     "Bromine"
   ], 

@@ -3,19 +3,19 @@
   "Relationship": "Compare: MELILOT ALBA - (White Clover) - practically the same action. (Hemorrhages, congestive headaches, engorged blood vessels, spasms.) AMYL.; BELL.; GLON.", 
   "symptoms": {
     "Head": [
-      "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes", 
-      "Heavy, oppressed; FRONTAL, THROBBING, undulating sensation in brain", 
-      "SICK HEADACHE; relieved by epistaxis or MENSTRUAL FLOW", 
+      "Scalp sore and tender to touch", 
       "FULLNESS ALL OVER HEAD", 
       "Eyes heavy; blurred sight; wants to close them tightly for relief", 
-      "NEURALGIA around and over right side of head and neck", 
-      "Scalp sore and tender to touch"
+      "Heavy, oppressed; FRONTAL, THROBBING, undulating sensation in brain", 
+      "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes", 
+      "SICK HEADACHE; relieved by epistaxis or MENSTRUAL FLOW", 
+      "NEURALGIA around and over right side of head and neck"
     ], 
     "Respiratory": [
-      "Feels as if smothering, especially from rapid walking", 
-      "Hemoptysis", 
       "Weight on chest", 
-      "Tickling in throat with cough"
+      "Hemoptysis", 
+      "Tickling in throat with cough", 
+      "Feels as if smothering, especially from rapid walking"
     ], 
     "Modalities": [
       "Worse: rainy", 
@@ -30,10 +30,10 @@
     ], 
     "Mind": [
       "Unable to fix mind", 
-      "Memory treacherous", 
-      "Stupor", 
       "Wants to run away and hide", 
-      "Delusions; thinks everyone is looking at her, fears to talk loud, and wants to run away, etc"
+      "Stupor", 
+      "Memory treacherous", 
+      "Delusions; thinks everyone is looking at her, fears to talk loud, and wants to run away, etc."
     ], 
     "Face": [
       "Intensely red and flushed, with throbbing carotids"
@@ -42,16 +42,16 @@
       "Stopped up; DRY, must breathe through mouth; dry, hard clinkers in nose; PROFUSE EPISTAXIS"
     ], 
     "Female": [
-      "Menses SCANTY, INTERMIT, with nausea and bearing-down", 
-      "Sticking pain in external parts", 
       "Dysmenorrhoea", 
-      "Ovarian neuralgia"
+      "Sticking pain in external parts", 
+      "Ovarian neuralgia", 
+      "Menses SCANTY, INTERMIT, with nausea and bearing-down"
     ], 
     "Extremities": [
       "Pain in knee; wants to stretch leg, but does not relieve", 
-      "Joints sore", 
       "Skin and extremities cold", 
-      "Numbness and aching in knee-joints"
+      "Numbness and aching in knee-joints", 
+      "Joints sore"
     ]
   }, 
   "details": "Congestions and hemorrhages seem to be the special manifestations of this drug. Violent congestive and nervous headaches. Infantile spasms. Epilepsy from blow on head. PAINS AND DEBILITY point to it. Coldness but also increase of temperature; tenderness, and pain. Muscular system depressed. Dreams and emissions.Hemorrhages, congestive headaches, engorged blood vessels, spasms.", 

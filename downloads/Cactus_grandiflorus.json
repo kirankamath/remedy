@@ -3,100 +3,101 @@
   "Relationship": "Antidotes: Acon.; Camph.; China.Compare: Digital.; Spigel.; Convallar.; Kalmia; Naja; Magnol.", 
   "symptoms": {
     "Heart": [
+      "Pain in apex, shooting down left arm", 
       "ENDOCARDITIS WITH MITRAL INSUFFICIENCY TOGETHER WITH VIOLENT AND RAPID ACTION", 
-      "Acts best in he incipiency of cardia incompetence", 
-      "Heart weakness of arteriosclerosis", 
-      "Tobacco heart", 
       "Violent palpitation; WORSE LYING ON LEFT SIDE, AT APPROACH OF MENSES", 
       "Angina pectoris, with suffocation, cold sweat, and ever-present iron-band feeling", 
-      "Pain in apex, shooting down left arm", 
-      "Palpitation, with vertigo, dyspnoea, flatulence", 
+      "Low blood pressure", 
+      "Acts best in he incipiency of cardia incompetence", 
       "CONSTRICTION; very acute pains and stitches in heart; pulse feeble, irregular, quick, without strength", 
-      "Endocardial murmurs, excessive impulse, increased precordial dullness, enlarged ventricle", 
-      "Low blood pressure"
+      "Palpitation, with vertigo, dyspnoea, flatulence", 
+      "Tobacco heart", 
+      "Heart weakness of arteriosclerosis", 
+      "Endocardial murmurs, excessive impulse, increased precordial dullness, enlarged ventricle"
     ], 
     "Head": [
-      "Headache if obliged to pass dinner hour", 
-      "SENSATION AS OF A WEIGHT ON VERTEX", 
+      "RIGHT-SIDED PROSOPALGIA, constricting pains, returns at same hour daily", 
       "Right-sided pulsating pain", 
-      "CONGESTIVE HEADACHES, periodical, threatening apoplexy", 
-      "Blood-vessels to the head distended", 
-      "Feels as if head were compressed in a vise", 
       "Pulsation in ears", 
+      "Headache if obliged to pass dinner hour", 
+      "Blood-vessels to the head distended", 
+      "CONGESTIVE HEADACHES, periodical, threatening apoplexy", 
       "Dim sight", 
-      "RIGHT-SIDED PROSOPALGIA, constricting pains, returns at same hour daily"
+      "Feels as if head were compressed in a vise", 
+      "SENSATION AS OF A WEIGHT ON VERTEX"
     ], 
     "Fever": [
       "Fever every day at same hour", 
-      "Coldness in back and icy-cold hands", 
-      "Intermittent; paroxysms about midday  incomplete in their stages, accompanied by Hemorrhages", 
       "Coldness predominates; cold sweat, with great anguish", 
-      "Persistent SUBNORMAL temperature"
+      "Persistent SUBNORMAL temperature", 
+      "Intermittent; paroxysms about midday  incomplete in their stages, accompanied by Hemorrhages", 
+      "Coldness in back and icy-cold hands"
     ], 
     "Stomach": [
       "CONSTRICTION, pulsation, or heaviness in stomach", 
       "Vomiting of blood"
     ], 
     "Modalities": [
+      "Better: open air", 
       "Worse: about noon", 
       "Worse: lying on left side; walking", 
       "Worse: going upstairs", 
-      "Worse: eleven AM and eleven PMAmelioration", 
-      "Better: open air"
+      "Worse: eleven AM and eleven PMAmelioration"
     ], 
     "Mind": [
       "Melancholy, taciturn, sad, ill-humored", 
-      "Fear of death", 
       "Screams with pain", 
-      "Anxiety"
+      "Anxiety", 
+      "Fear of death"
     ], 
     "Stool": [
-      "Hard, black stools", 
-      "Diarrhoea in morning", 
-      "Hemorrhoids swollen and painful", 
-      "Sensation of great weight in anus", 
-      "Hemorrhages from bowels in malarial fevers and with heart symptoms", 
-      "Urine Section", 
       "Constriction of neck of bladder, causing retention of urine", 
-      "Hemorrhage from bladder", 
+      "Hemorrhoids swollen and painful", 
       "Clots of blood in urethra", 
+      "Sensation of great weight in anus", 
+      "Hemorrhage from bladder", 
+      "Hard, black stools", 
+      "Hemorrhages from bowels in malarial fevers and with heart symptoms", 
+      "Diarrhoea in morning", 
+      "Urine Section", 
       "Constant urination"
     ], 
     "Chest": [
-      "Oppressed breathing as from a weight on chest", 
-      "CONSTRICTION IN CHEST, AS IF BOUND, HINDERING RESPIRATION", 
-      "Inflammation of diaphragm", 
-      "HEAR-CONSTRICTION, AS FROM AN IRON BAND", 
       "Angina pectoris", 
       "Palpitation; pain shooting down left arm", 
-      "Hemoptysis, with convulsive, spasmodic cough", 
-      "Diaphragmitis, with great difficulty of breathing"
+      "Oppressed breathing as from a weight on chest", 
+      "HEAR-CONSTRICTION, AS FROM AN IRON BAND", 
+      "Diaphragmitis, with great difficulty of breathing", 
+      "CONSTRICTION IN CHEST, AS IF BOUND, HINDERING RESPIRATION", 
+      "Inflammation of diaphragm", 
+      "Hemoptysis, with convulsive, spasmodic cough"
+    ], 
+    "Sleep": [
+      "Frightful dreams", 
+      "Sleepless on account of pulsation in different parts of body"
     ], 
     "Nose": [
       "Profuse bleeding from nose", 
       "Fluent coryza"
     ], 
     "Female": [
-      "Constriction in uterine region and ovaries", 
       "DYSMENORRHOEA; pulsating pain in uterus and ovaries", 
-      "Vaginismus", 
+      "; cease on lying down, with heart symptoms", 
       "Menses early, dark, pitch-like", 
-      "; cease on lying down, with heart symptoms"
+      "Vaginismus", 
+      "Constriction in uterine region and ovaries"
     ], 
     "Throat": [
+      "Suffocative constriction at throat, with full, throbbing carotids in angina pectoris", 
       "Constriction of oesophagus", 
-      "Dryness of tongue, as if burnt; needs much liquid to get food down", 
-      "Suffocative constriction at throat, with full, throbbing carotids in angina pectoris"
+      "Dryness of tongue, as if burnt; needs much liquid to get food down"
     ], 
     "Extremities": [
+      "Icy-cold hands", 
       "Oedema of hands and feet", 
       "Hands soft; feet enlarged", 
-      "Numbness of left arm", 
-      "Icy-cold hands", 
       "Restless legs", 
-      "Sleep", 
-      "Sleepless on account of pulsation in different parts of body", 
-      "Frightful dreams"
+      "Numbness of left arm"
     ]
   }, 
   "details": "Acts on circular muscular fibers, hence constrictions. It is the heart and arteries especially that at once respond to the influence of Cactus, producing very characteristic CONSTRICTIONS as of an iron band. This sensation is found in various places, oesophagus, bladder, etc. The mental symptoms produced correspond to those found when there are heart affections, sadness, and melancholy. HEMORRHAGE, CONSTRICTIONS, PERIODICITY, and SPASMODIC PAINS. Whole body feels as if caged, each wire being twisted tighter. Atheromatous arteries and weak heart. Congestions; irregular distribution of blood. FAVORS FORMATION OF CLOTS SPEEDILY. Great periodicity. Toxic goitre with cardiac symptoms. Cactus is pulse-less, panting and prostrated.", 

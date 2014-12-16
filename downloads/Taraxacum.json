@@ -1,20 +1,21 @@
 {
   "Natural History": [
-    "DandelionFor gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin", 
     "Cancer of bladder", 
+    "For gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin", 
     "Flatulence", 
-    "HYSTERICAL TYMPANITES"
+    "HYSTERICAL TYMPANITES", 
+    "Dandelion"
   ], 
   "symptoms": {
     "Head": [
-      "Sensation of great heat on top of head", 
-      "STERNOMASTOID muscle very painful to touch"
+      "STERNOMASTOID muscle very painful to touch", 
+      "Sensation of great heat on top of head"
     ], 
     "Fever": [
-      "Chilliness after eating, worse drinking; FINGER TIPS COLD", 
-      "BITTER TASTE", 
       "Heat without thirst, in face, IN TOES", 
-      "Sweat on falling asleep"
+      "Sweat on falling asleep", 
+      "Chilliness after eating, worse drinking; FINGER TIPS COLD", 
+      "BITTER TASTE"
     ], 
     "Modalities": [
       "Worse: resting", 
@@ -23,29 +24,29 @@
       "Better: touch"
     ], 
     "Abdomen": [
-      "Liver enlarged and indurated", 
-      "Sharp stitches in left side", 
+      "Evacuation difficult", 
       "Sensation of bubbles bursting in bowels", 
+      "Sharp stitches in left side", 
       "Tympanitis", 
-      "Evacuation difficult"
+      "Liver enlarged and indurated"
     ], 
     "Mouth": [
-      "Mapped tongue", 
       "Tongue covered with a white film; feels raw; comes off in patches, leaving RED, SENSITIVE SPOTS", 
       "Loss of appetite", 
-      "Bitter taste and eructations", 
-      "Salivation"
+      "Salivation", 
+      "Mapped tongue", 
+      "Bitter taste and eructations"
     ], 
     "Skin": [
       "PROFUSE NIGHT-SWEATS"
     ], 
     "Extremities": [
-      "Very restless limbs", 
       "NEURALGIA OF KNEE; BETTER, PRESSUR", 
+      "Very restless limbs", 
       "Limbs painful to touch"
     ]
   }, 
   "name": "Taraxacum", 
-  "Relationship": "Compare: CHOLINE, a constituent of Taraxacum root, has given encouraging results in the treatment of cancer. Choline is closely related to NEURIN, it is the \"Cancronie\" of Prof. Adamkiewicz (E. Schlegel.) BRY.; HYDRAST.; NUX. TELA ARANEA (nervous asthma and sleeplessness).", 
+  "Relationship": "Compare: CHOLINE, a constituent of Taraxacum root, has given encouraging results in the treatment of cancer. Choline is closely related to NEURIN, it is the Cancronie of Prof. Adamkiewicz (E. Schlegel.) BRY.; HYDRAST.; NUX. TELA ARANEA (nervous asthma and sleeplessness).", 
   "dosage": "Tincture, to third potency. In cancer 1-2 drams fluid extract."
 }

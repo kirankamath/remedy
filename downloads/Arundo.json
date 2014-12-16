@@ -3,26 +3,26 @@
   "Relationship": "Compare: Anthroxantum - sweet vernal grass (a popular medicine for hay-fever and coryza). Lolium; Cepa; Sabad.; Silica.", 
   "symptoms": {
     "Head": [
+      "Deep seated pain in sides of head", 
       "Itching; falling off of hair; roots of hair painful", 
-      "Pustules", 
       "Pain in occiput, extends to right ciliary region", 
-      "Deep seated pain in sides of head"
+      "Pustules"
     ], 
     "Respiratory": [
-      "Dyspnoea; cough; bluish expectoration", 
-      "Burning and pain in nipples"
+      "Burning and pain in nipples", 
+      "Dyspnoea; cough; bluish expectoration"
     ], 
     "Stomach": [
       "Coldness in stomach", 
       "Longing for acids"
     ], 
     "Stool": [
-      "Greenish", 
-      "Burning at anus", 
       "Diarrhoea of nursing children", 
-      "Urine Section", 
+      "Red sediment", 
       "Burning", 
-      "Red sediment"
+      "Burning at anus", 
+      "Greenish", 
+      "Urine Section"
     ], 
     "Abdomen": [
       "Movement as from something alive", 
@@ -30,35 +30,35 @@
     ], 
     "Mouth": [
       "Burning and itching; bleeding of gums", 
-      "Ulcers and exfoliations in the commissaries", 
-      "Fissures in tongue"
+      "Fissures in tongue", 
+      "Ulcers and exfoliations in the commissaries"
     ], 
     "Nose": [
-      "Hay-fever begins with burning and ITCHING OF PALATE and conjunctiva", 
       "ANNOYING ITCHING IN THE NOSTRILS AND ROOF OF THE MOUTH", 
-      "Coryza; loss of smell", 
-      "Sneezing, ITCHING OF NOSTRILS"
+      "Sneezing, ITCHING OF NOSTRILS", 
+      "Hay-fever begins with burning and ITCHING OF PALATE and conjunctiva", 
+      "Coryza; loss of smell"
     ], 
     "Female": [
-      "Menses too early and too profuse", 
+      "Desire with vaginal pruritus", 
       "Neuralgic pains from face to shoulders and pubis", 
-      "Desire with vaginal pruritus"
+      "Menses too early and too profuse"
     ], 
     "Skin": [
-      "Eczema; itching and crawling, especially of chest, upper extremities", 
-      "Fissures in fingers and heels"
+      "Fissures in fingers and heels", 
+      "Eczema; itching and crawling, especially of chest, upper extremities"
     ], 
     "Extremities": [
       "Itching, burning; oedema of hands and feet", 
-      "Burning and swelling of soles", 
-      "Copious and offensive sweat of feet"
+      "Copious and offensive sweat of feet", 
+      "Burning and swelling of soles"
     ], 
     "Male": [
       "Pain in spermatic cord after embrace"
     ], 
     "Ears": [
-      "Burning and itching in auditory canals", 
-      "Eczema behind ears"
+      "Eczema behind ears", 
+      "Burning and itching in auditory canals"
     ]
   }, 
   "details": "A remedy for catarrhal states. Hay-fever.Arundo donax seems to be the same: Acts on excretory and generative organs; suppuration, especially chronic, and where the ulceration is fistulous, especially in long bones. Itching eruption on chest, upper extremities and behind ears.", 

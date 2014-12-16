@@ -1,6 +1,6 @@
 {
   "name": "Kali nitricum", 
-  "Relationship": "Antidotes: OPIUM; NIT. SP. DULC.Antidote to Opium and Morphine poisoning, 8-10 grains to glass of water.Compare: GUN-POWDER (Nitre with sulphur and charcoal - 2X trit. \"Blood-poisoning.\" Septic suppuration. Protractive against wound infection. Antidote to Ivy and Primula rash (Clarke). HERPES FACIALIS; crops of boils. Carbuncles). Osteomyelitis. CANNAB. SAT. (Which contains a large amount of KALI-NIT.). LYCOP.; SANGUIN.; ALLIUM. SAT.; ANTIMON. IOD.", 
+  "Relationship": "Antidotes: OPIUM; NIT. SP. DULC.Antidote to Opium and Morphine poisoning, 8-10 grains to glass of water.Compare: GUN-POWDER (Nitre with sulphur and charcoal - 2X trit. Blood-poisoning. Septic suppuration. Protractive against wound infection. Antidote to Ivy and Primula rash (Clarke). HERPES FACIALIS; crops of boils. Carbuncles). Osteomyelitis. CANNAB. SAT. (Which contains a large amount of KALI-NIT.). LYCOP.; SANGUIN.; ALLIUM. SAT.; ANTIMON. IOD.", 
   "symptoms": {
     "Heart": [
       "Pulse weak, SMALL, thready", 
@@ -13,51 +13,51 @@
       "Burning and lachrymation"
     ], 
     "Respiratory": [
-      "Hoarseness", 
-      "Dry, morning cough, with pain in chest and bloody expectoration", 
-      "Bronchitis, with sharp, short, dry, hacking cough", 
-      "ASTHMA, with excessive dyspnoea, nausea, dull stitches, and burning in chest", 
-      "Dyspnoea so great that breath cannot be held long enough to drink, though thirsty", 
-      "Chest feels constricted", 
-      "Oppression worse in morning", 
       "Sour-smelling expectoration", 
-      "Expectoration of clotted blood, after hawking mucus", 
-      "Acute exacerbations in phthisis; congestion of lungs", 
+      "ASTHMA, with excessive dyspnoea, nausea, dull stitches, and burning in chest", 
       "SPASMODIC CROUP; paroxysm of crowing", 
-      "Laryngeal diphtheria"
+      "Chest feels constricted", 
+      "Dry, morning cough, with pain in chest and bloody expectoration", 
+      "Laryngeal diphtheria", 
+      "Hoarseness", 
+      "Bronchitis, with sharp, short, dry, hacking cough", 
+      "Acute exacerbations in phthisis; congestion of lungs", 
+      "Oppression worse in morning", 
+      "Expectoration of clotted blood, after hawking mucus", 
+      "Dyspnoea so great that breath cannot be held long enough to drink, though thirsty"
     ], 
     "Modalities": [
-      "Worse: eating veal; towards morning and in afternoon", 
-      "Better: drinking sips of water"
+      "Better: drinking sips of water", 
+      "Worse: eating veal; towards morning and in afternoon"
     ], 
     "Stool": [
-      "Thin, watery, bloody", 
       "Membranous shreds, with tenesmus", 
-      "DIARRHOEA FROM EATING VEAL"
+      "DIARRHOEA FROM EATING VEAL", 
+      "Thin, watery, bloody"
     ], 
     "Head": [
-      "Scalp very sensitive", 
       "Headache, with vertigo, as if falling to right side and backwards; worse, stooping", 
+      "Scalp very sensitive", 
       "Ennui"
     ], 
     "Mouth": [
-      "Tongue red, with burning pimples; burns at tip", 
-      "Throat constricted and sore"
+      "Throat constricted and sore", 
+      "Tongue red, with burning pimples; burns at tip"
     ], 
     "Nose": [
-      "Sneezing", 
       "Swollen feeling; WORSE, RIGHT NOSTRIL", 
-      "Point red and itching", 
-      "Polypus"
+      "Sneezing", 
+      "Polypus", 
+      "Point red and itching"
     ], 
     "Female": [
-      "Menses too early, profuse, BLACK; preceded and with violent backache", 
       "Leucorrhoea", 
+      "Menses too early, profuse, BLACK; preceded and with violent backache", 
       "Burning pains in the ovarian region only during menses"
     ], 
     "Extremities": [
-      "Stitches between shoulder-blades", 
       "Tearing and sticking in shoulders and joints", 
+      "Stitches between shoulder-blades", 
       "Hands and fingers seem swollen"
     ]
   }, 

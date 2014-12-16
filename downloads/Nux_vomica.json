@@ -1,124 +1,124 @@
 {
   "name": "Nux vomica", 
-  "Relationship": "NUX seeds contain copper, notice the cramp-causing proclivities of both Complementary: SULPHUR; SEPIA.Inimical: ZINC.Compare: STRYCHNIACompare: KALI-CARB.; HYDR.; BRY.; LYC.; GRAPH.Antidotes: COFF.; IGNAT.; COCC.", 
+  "Relationship": "NUX seeds contain copper, notice the cramp-causing proclivities of both Complementary: SULPHUR; SEPIA.Compare: STRYCHNIAInimical: ZINC.Antidotes: COFF.; IGNAT.; COCC.Compare: KALI-CARB.; HYDR.; BRY.; LYC.; GRAPH.", 
   "symptoms": {
     "Stool": [
-      "Constipation, with FREQUENT INEFFECTUAL URGING, incomplete and unsatisfactory; FEELING AS IF PART REMAINED UN EXPELLED", 
-      "Constriction of rectum", 
-      "Irregular, peristaltic action; hence FREQUENT INEFFECTUAL DESIRE, OR PASSING BUT SMALL QUANTITIES AT EACH ATTEMPT", 
-      "ABSENCE OF ALL DESIRE FOR DEFECATION IS A CONTRAINDICATION", 
-      "Alternate constipation and diarrhoea - after abuse of purgatives", 
-      "Urging to stool felt throughout abdomen", 
-      "ITCHING, BLIND HEMORRHOIDS, with ineffectual urging to stool; very painful; after drastic drugs", 
-      "Diarrhoea after a debauch; worse, morning", 
-      "Frequent small evacuations", 
-      "Scanty stool, with much urging", 
-      "Dysentery; stools RELIEVE PAINS FOR A TIME", 
-      "CONSTANT UNEASINESS IN RECTUM", 
-      "Diarrhoea, with jaundice", 
-      "Urine Section", 
       "Irritable bladder; from spasmodic sphincter", 
-      "Frequent calls; little and often", 
-      "Hematuria", 
       "Ineffectual urging, spasmodic and strangury", 
+      "Diarrhoea, with jaundice", 
+      "ITCHING, BLIND HEMORRHOIDS, with ineffectual urging to stool; very painful; after drastic drugs", 
+      "CONSTANT UNEASINESS IN RECTUM", 
+      "Irregular, peristaltic action; hence FREQUENT INEFFECTUAL DESIRE, OR PASSING BUT SMALL QUANTITIES AT EACH ATTEMPT", 
+      "Hematuria", 
+      "While urinating, itching in urethra and pain in neck of bladder", 
+      "ABSENCE OF ALL DESIRE FOR DEFECATION IS A CONTRAINDICATION", 
+      "Constipation, with FREQUENT INEFFECTUAL URGING, incomplete and unsatisfactory; FEELING AS IF PART REMAINED UN EXPELLED", 
+      "Dysentery; stools RELIEVE PAINS FOR A TIME", 
+      "Frequent small evacuations", 
       "Renal colic extending to genitals, with dribbling urine", 
-      "While urinating, itching in urethra and pain in neck of bladder"
+      "Scanty stool, with much urging", 
+      "Alternate constipation and diarrhoea - after abuse of purgatives", 
+      "Frequent calls; little and often", 
+      "Constriction of rectum", 
+      "Urine Section", 
+      "Diarrhoea after a debauch; worse, morning", 
+      "Urging to stool felt throughout abdomen"
     ], 
     "Head": [
-      "Headache in occiput or over eyes, with VERTIGO; brain feels turning in a circle", 
       "Over-sensitiveness", 
+      "Feels distended and sore within, after a debauch", 
+      "Headache in occiput or over eyes, with VERTIGO; brain feels turning in a circle", 
+      "Frontal headache, with desire to press the head against something", 
       "VERTIGO, WITH MOMENTARY LOSS OF CONSCIOUSNESS", 
-      "Intoxicated feeling; worse, morning, mental exertion, tobacco, alcohol, coffee, open air", 
       "Pressing pain on vertex, as if a nail driven in", 
       "Vertigo in morning and after dinner", 
       "Scalp sensitive", 
-      "Frontal headache, with desire to press the head against something", 
-      "Congestive headache, associated with hemorrhoids", 
       "HEADACHE IN THE SUNSHINE", 
-      "Feels distended and sore within, after a debauch"
+      "Congestive headache, associated with hemorrhoids", 
+      "Intoxicated feeling; worse, morning, mental exertion, tobacco, alcohol, coffee, open air"
     ], 
     "Fever": [
       "Cold stage predominates", 
+      "CHILLINESS ON BEING UNCOVERED, YET HE DOES NOT ALLOW BEING COVERED", 
+      "Perspiration sour; only one side of body", 
+      "Dry heat of the body", 
+      "Chilly, MUST BE COVERED in every stage of fever", 
       "Paroxysms anticipate in morning", 
       "Excessive rigor, with BLUENESS OF FINGER-NAILS", 
-      "Aching in limbs and back, and gastric symptoms", 
-      "Chilly, MUST BE COVERED in every stage of fever", 
-      "Perspiration sour; only one side of body", 
-      "CHILLINESS ON BEING UNCOVERED, YET HE DOES NOT ALLOW BEING COVERED", 
-      "Dry heat of the body"
+      "Aching in limbs and back, and gastric symptoms"
     ], 
     "Stomach": [
-      "Sour taste, and NAUSEA IN THE MORNING, AFTER EATING", 
-      "WEIGHT AND PAIN IN STOMACH; WORSE, EATING, SOME TIME AFTER", 
-      "Flatulence and pyrosis", 
-      "Sour, bitter eructations", 
-      "NAUSEA AND VOMITING, with much retching", 
-      "Ravenous hunger, especially about a day before an attack of dyspepsia", 
-      "REGION OF STOMACH VERY SENSITIVE TO PRESSURE", 
       "Epigastrium bloated, with pressure as of a stone, SEVERAL HOURS AFTER EATING", 
       "Desire for stimulants", 
-      "Loves FATS and tolerates them well", 
+      "NAUSEA AND VOMITING, with much retching", 
+      "REGION OF STOMACH VERY SENSITIVE TO PRESSURE", 
+      "Wants to vomit, but cannot", 
+      "WEIGHT AND PAIN IN STOMACH; WORSE, EATING, SOME TIME AFTER", 
+      "Flatulence and pyrosis", 
+      "Ravenous hunger, especially about a day before an attack of dyspepsia", 
       "Dyspepsia from drinking strong coffee", 
-      "Difficult belching of gas", 
-      "Wants to vomit, but cannot"
+      "Loves FATS and tolerates them well", 
+      "Sour, bitter eructations", 
+      "Sour taste, and NAUSEA IN THE MORNING, AFTER EATING", 
+      "Difficult belching of gas"
     ], 
     "Abdomen": [
-      "BRUISED SORENESS OF ABDOMINAL WALLS", 
-      "Flatulent distention, with spasmodic colic", 
-      "Colic from uncovering", 
       "Liver engorged, with stitches and soreness", 
       "Colic, with upward pressure, causing short breath, and desire for stool", 
-      "WEAKNESS OF ABDOMINAL RING REGION", 
-      "Strangulated hernia", 
+      "Colic from uncovering", 
       "Forcing in lower abdomen towards genitals", 
-      "Umbilical hernia of infants"
+      "BRUISED SORENESS OF ABDOMINAL WALLS", 
+      "Strangulated hernia", 
+      "Umbilical hernia of infants", 
+      "Flatulent distention, with spasmodic colic", 
+      "WEAKNESS OF ABDOMINAL RING REGION"
     ], 
     "Mouth": [
       "Jaws contracted", 
-      "Small aphthous ulcers, with BLOODY SALIVA", 
+      "Gums swollen, white, and bleeding", 
       "First half of tongue clean; posterior covered with deep fur; white, yellow, cracked edges", 
       "Teeth ache; worse, cold thing", 
-      "Gums swollen, white, and bleeding"
+      "Small aphthous ulcers, with BLOODY SALIVA"
     ], 
     "Respiratory": [
+      "OPPRESSED BREATHING", 
+      "Cough, with sensation as if something were torn loose in chest", 
       "Catarrhal hoarseness, with SCRAPING IN THROAT", 
+      "SHALLOW RESPIRATION", 
+      "Tight, dry, hacking cough; at times with bloody expectoration", 
       "Spasmodic constriction", 
       "ASTHMA, WITH FULLNESS IN STOMACH, MORNING OR AFTER EATING", 
-      "Cough, with sensation as if something were torn loose in chest", 
-      "SHALLOW RESPIRATION", 
-      "OPPRESSED BREATHING", 
-      "Tight, dry, hacking cough; at times with bloody expectoration", 
       "COUGH BRINGS ON BURSTING HEADACHE and bruised pain in epigastric region"
     ], 
     "Eyes": [
-      "Photophobia; much worse in morning", 
+      "Optic nerve atrophy; from habitual use of intoxicants", 
+      "Optic neuritis", 
       "Smarting, dry sensation in inner canthi", 
       "Infra-orbital neuralgia, with watering of eyes", 
-      "Optic nerve atrophy; from habitual use of intoxicants", 
-      "Paresis of ocular muscles; worse, tobacco and stimulants", 
       "Orbital twitching radiating towards the occiput", 
-      "Optic neuritis"
+      "Photophobia; much worse in morning", 
+      "Paresis of ocular muscles; worse, tobacco and stimulants"
     ], 
     "Nose": [
+      "Odors tend to produce fainting", 
       "Stuffed up, at night especially", 
       "STUFFY COLDS, SNUFFLES, after exposure to dry, cold atmosphere; worse, in warm room", 
-      "Odors tend to produce fainting", 
       "Coryza; fluent in daytime; STUFFED UP AT NIGHT AND OUTDOORS; or alternates between nostrils", 
-      "Bleeding in morning", 
-      "Arid discharge, but WITH STUFFED-UP FEELING"
+      "Arid discharge, but WITH STUFFED-UP FEELING", 
+      "Bleeding in morning"
     ], 
     "Male": [
-      "Easily excited desire", 
-      "Emissions from high living", 
+      "Spermatorrhoea, with dreams, backache, burning in spine, weakness and irritability", 
       "Bad effects of sexual excesses", 
-      "Constrictive pain in testicles", 
+      "Easily excited desire", 
       "Orchitis", 
-      "Spermatorrhoea, with dreams, backache, burning in spine, weakness and irritability"
+      "Constrictive pain in testicles", 
+      "Emissions from high living"
     ], 
     "Ears": [
+      "Otalgia; worse in bed", 
       "Itching in ear through Eustachian tube", 
       "Auditory canal dry and sensitive", 
-      "Otalgia; worse in bed", 
       "Hyperaesthesia of auditory nerves; loud sounds are painful, and anger him"
     ], 
     "Modalities": [
@@ -139,59 +139,60 @@
       "Better: strong pressure"
     ], 
     "Mind": [
+      "Disposed to reproach others", 
       "Very IRRITABLE; sensitive to all impressions", 
       "Ugly, malicious", 
       "CANNOT BEAR NOISES, ODORS, LIGHT, ETC", 
+      "SULLEN, FAULTFINDING", 
       "Does not want to be touched", 
-      "Time passes too slowly", 
       "Even the least ailment affects her greatly", 
-      "Disposed to reproach others", 
-      "SULLEN, FAULTFINDING"
+      "Time passes too slowly"
     ], 
     "Back": [
-      "Backache in lumbar region", 
-      "Burning in spine; worse, 3 to four AM Cervico-brachial neuralgia; worse, touch", 
-      "MUST SIT UP IN ORDER TO TURN IN BED", 
       "Bruised pain below scapulae", 
-      "Sitting is painful"
+      "MUST SIT UP IN ORDER TO TURN IN BED", 
+      "Sitting is painful", 
+      "Burning in spine; worse, 3 to four AM Cervico-brachial neuralgia; worse, touch", 
+      "Backache in lumbar region"
+    ], 
+    "Sleep": [
+      "CANNOT SLEEP AFTER three AM UNTIL TOWARDS MORNING; AWAKES FEELING WRETCHEDLY", 
+      "BETTER AFTER A SHORT SLEEP, unless aroused", 
+      "Dreams full of bustle and hurry", 
+      "Drowsy after meals, and in early evening"
     ], 
     "Female": [
       "Menses TOO EARLY, lasts too long; ALWAYS IRREGULAR, blood BLACK  with faint spells", 
-      "PROLAPSUS UTERI", 
-      "DYSMENORRHOEA, with pain in sacrum, and constant urging to stool", 
+      "Metrorrhagia, with SENSATION AS IF BOWELS WANTED TO MOVE", 
       "Inefficient labor-pains; extend to rectum, with desire for stool and frequent urination", 
+      "DYSMENORRHOEA, with pain in sacrum, and constant urging to stool", 
       "Desire too strong", 
-      "Metrorrhagia, with SENSATION AS IF BOWELS WANTED TO MOVE"
+      "PROLAPSUS UTERI"
     ], 
     "Skin": [
-      "BODY BURNING HOT, ESPECIALLY FACE; YET CANNOT MOVE OR UNCOVER WITHOUT FEELING CHILLY", 
       "Urticaria, with gastric derangement", 
+      "BODY BURNING HOT, ESPECIALLY FACE; YET CANNOT MOVE OR UNCOVER WITHOUT FEELING CHILLY", 
       "Acne; skin red and blotchy"
     ], 
     "Throat": [
-      "ROUGH, SCRAPED FEELING", 
-      "TICKLING after waking in morning", 
-      "Sensation of ROUGHNESS, tightness, and tension", 
       "Pharynx constricted", 
+      "Sensation of ROUGHNESS, tightness, and tension", 
       "Uvula swollen", 
+      "TICKLING after waking in morning", 
+      "ROUGH, SCRAPED FEELING", 
       "STITCHES INTO EAR"
     ], 
     "Extremities": [
-      "Arms and hands go to sleep", 
-      "Paresis of arms, with shocks", 
-      "Legs numb; feel paralyzed; cramps in calves and soles", 
-      "Partial paralysis, from over exertion of getting soaked", 
-      "Cracking in knee-joints during motion", 
-      "Drags his feet when walking", 
       "Sensation of sudden loss of power of arms and legs in the morning", 
-      "Sleep", 
-      "CANNOT SLEEP AFTER three AM UNTIL TOWARDS MORNING; AWAKES FEELING WRETCHEDLY", 
-      "Drowsy after meals, and in early evening", 
-      "Dreams full of bustle and hurry", 
-      "BETTER AFTER A SHORT SLEEP, unless aroused"
+      "Cracking in knee-joints during motion", 
+      "Paresis of arms, with shocks", 
+      "Drags his feet when walking", 
+      "Partial paralysis, from over exertion of getting soaked", 
+      "Arms and hands go to sleep", 
+      "Legs numb; feel paralyzed; cramps in calves and soles"
     ]
   }, 
-  "details": "Is the greatest of polychrests, because the bulk of its symptoms correspond in similarity with those of the commonest and most frequent of diseases. It is frequently the first remedy, indicated after much dosing, establishing a sort of equilibrium of forces and counteracting chronic effects.Nux is pre-eminently the remedy for many of the conditions incident to modern life. The typical Nux patient is rather thin, spare, quick, active, nervous, and irritable. He does a good deal of mental work; has mental strains and leads a sedentary life, found in prolonged office work, over study, and close application to business, with its cares and anxieties. This indoor life and mental strain seeks stimulants, coffee, wine, possibly in excess; or again, he hopes to quiet his excitement, by indulging in the sedative effects of tobacco, if not really a victim, to the seductive drugs, like opium, etc. These things are associated with other indulgences; at table, he takes preferably rich and stimulating food; wine and women play their part to make him forget the close application of the day. Late hours are a consequence; a thick head, dyspepsia, and irritable temper are the next day's inheritance. Now he takes some cathartic, liver pills, or mineral water, and soon gets into the habit of taking these things, which still further complicate matters. Since these frailties are more yielded to by men than women, Nux is pre-eminently a male remedy. These conditions produce an IRRITABLE, nervous system, hypersensitive and over impressionable, which Nux will do much to soothe and calm. Especially adapted to digestive disturbances, portal congestion, and hypochondriacal states depending thereon. Convulsions, with consciousness; worse, touch, moving. ZEALOUS FIERY TEMPERAMENT. Nux patients are easily chilled, avoid open air, etc. Nux always seems to be out of tune; inharmonious spasmodic action.", 
+  "details": "Nux is pre-eminently the remedy for many of the conditions incident to modern life. The typical Nux patient is rather thin, spare, quick, active, nervous, and irritable. He does a good deal of mental work; has mental strains and leads a sedentary life, found in prolonged office work, over study, and close application to business, with its cares and anxieties. This indoor life and mental strain seeks stimulants, coffee, wine, possibly in excess; or again, he hopes to quiet his excitement, by indulging in the sedative effects of tobacco, if not really a victim, to the seductive drugs, like opium, etc. These things are associated with other indulgences; at table, he takes preferably rich and stimulating food; wine and women play their part to make him forget the close application of the day. Late hours are a consequence; a thick head, dyspepsia, and irritable temper are the next day's inheritance. Now he takes some cathartic, liver pills, or mineral water, and soon gets into the habit of taking these things, which still further complicate matters. Since these frailties are more yielded to by men than women, Nux is pre-eminently a male remedy. These conditions produce an IRRITABLE, nervous system, hypersensitive and over impressionable, which Nux will do much to soothe and calm. Especially adapted to digestive disturbances, portal congestion, and hypochondriacal states depending thereon. Convulsions, with consciousness; worse, touch, moving. ZEALOUS FIERY TEMPERAMENT. Nux patients are easily chilled, avoid open air, etc. Nux always seems to be out of tune; inharmonious spasmodic action.Is the greatest of polychrests, because the bulk of its symptoms correspond in similarity with those of the commonest and most frequent of diseases. It is frequently the first remedy, indicated after much dosing, establishing a sort of equilibrium of forces and counteracting chronic effects.", 
   "Natural History": [
     "Poison-nut"
   ], 

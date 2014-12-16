@@ -1,24 +1,24 @@
 {
   "name": "Caladium seguinum", 
-  "Relationship": "Incompatible: Arum triph.Complementary: Nit-ac.Compare: Capsic.; Phosph.; Caust.; Selen.; Lyc. Ikshugandha (sexual weakness, emissions, prostatic enlargement.", 
+  "Relationship": "Incompatible: Arum triph.Compare: Capsic.; Phosph.; Caust.; Selen.; Lyc. Ikshugandha (sexual weakness, emissions, prostatic enlargement.Complementary: Nit-ac.", 
   "symptoms": {
     "Head": [
-      "Headaches and mental states of smokers", 
       "Very forgetful, does not know about the occurrence of things", 
+      "Headaches and mental states of smokers", 
       "Confused headache with pain in shoulder, pressure in eyes and forehead; extremely sensitive to noise, throbbing in ear"
     ], 
     "Respiratory": [
-      "Larynx seems constricted", 
-      "Breathing impeded", 
+      "Patient afraid to go to sleep", 
       "Catarrhal asthma; mucus not readily raised", 
-      "Patient afraid to go to sleep"
+      "Larynx seems constricted", 
+      "Breathing impeded"
     ], 
     "Stomach": [
-      "Gnawing in orifice of stomach, which prevents deep breathing; and eructations", 
+      "Sighing respiration", 
       "Eructations", 
       "STOMACH FEELS FULL OF DRY FOOD, SENSATION OF FLUTTERING", 
       "Acrid vomiting, thirstless and tolerates only warm drinks", 
-      "Sighing respiration"
+      "Gnawing in orifice of stomach, which prevents deep breathing; and eructations"
     ], 
     "Modalities": [
       "Better: after sweat", 
@@ -26,23 +26,23 @@
       "Worse: motion"
     ], 
     "Female": [
-      "PRURITUS OF VULVA  and vagina during pregnancy", 
+      "Cramp pains in uterus at night", 
       "Voluptuousness", 
-      "Cramp pains in uterus at night"
+      "PRURITUS OF VULVA  and vagina during pregnancy"
     ], 
     "Skin": [
-      "Sweet sweat - attracts flies", 
-      "Insect bites burn and itch intensely", 
       "Itching rash alternates with asthma", 
-      "BURNING SENSATION and erysipelatous inflammation"
+      "BURNING SENSATION and erysipelatous inflammation", 
+      "Insect bites burn and itch intensely", 
+      "Sweet sweat - attracts flies"
     ], 
     "Male": [
-      "PRURITUS", 
       "Glans very red", 
+      "No emission and no orgasm during embrace", 
       "Organs seem larger, puffed, relaxed, cold, sweating; skin of scrotum thick", 
+      "PRURITUS", 
       "Erections when half-asleep; cease when fully awake", 
-      "IMPOTENCY; relaxation of penis during excitement", 
-      "No emission and no orgasm during embrace"
+      "IMPOTENCY; relaxation of penis during excitement"
     ]
   }, 
   "details": "This remedy has a marked action on the genital organs, and pruritus of this region. Coldness of single parts and inclination to lie down, with aggravation on lying on left side. Slightest noise startles from sleep. DREAD FROM MOTION. Modifies craving for tobacco. Tobacco heart. Asthmatic complaints.", 

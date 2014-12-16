@@ -3,34 +3,34 @@
   "Relationship": "Complementary: PULS.Compare: ARS.; CALEN.; LED.; SEP.; CALC.", 
   "symptoms": {
     "Eyes": [
-      "Intraocular hemorrhage following traumatism", 
-      "Great chemosis of conjunctiva, with aching and sharp pain"
+      "Great chemosis of conjunctiva, with aching and sharp pain", 
+      "Intraocular hemorrhage following traumatism"
     ], 
     "Respiratory": [
-      "Respiration rapid with shooting in cervical muscles and movement of wings of nose; LARYNX MOVES UP AND DOWN VIOLENTLY", 
-      "Bronchitis in children with short, teasing cough"
+      "Bronchitis in children with short, teasing cough", 
+      "Respiration rapid with shooting in cervical muscles and movement of wings of nose; LARYNX MOVES UP AND DOWN VIOLENTLY"
     ], 
     "Stomach": [
-      "Heartburn; SOUR ERUCTATIONS; SETS TEETH ON EDGE", 
+      "HICCOUGH", 
       "CRAVING FOR ALCOHOL", 
-      "WATER CAUSES COLDNESS OF STOMACH; must be mixed with liquors", 
-      "RELAXED FEELING IN STOMACH", 
-      "Averse to smell of coffee", 
       "Sour vomiting", 
       "Desire for fresh food", 
-      "HICCOUGH", 
+      "Nausea with chilliness", 
       "Coldness of stomach relieved by applied heat", 
-      "Nausea with chilliness"
+      "RELAXED FEELING IN STOMACH", 
+      "Heartburn; SOUR ERUCTATIONS; SETS TEETH ON EDGE", 
+      "WATER CAUSES COLDNESS OF STOMACH; must be mixed with liquors", 
+      "Averse to smell of coffee"
     ], 
     "Female": [
-      "Menstruation early and profuse", 
       "Erosion of cervix in the aged; easily bleeding", 
-      "Acrid, burning leucorrhoea, often of bloody mucus"
+      "Acrid, burning leucorrhoea, often of bloody mucus", 
+      "Menstruation early and profuse"
     ], 
     "Modalities": [
-      "Worse: from excess of heat or cold in forenoon and evening", 
       "Better: from warmth", 
-      "Better: and lying on affected side"
+      "Better: and lying on affected side", 
+      "Worse: from excess of heat or cold in forenoon and evening"
     ], 
     "Mind": [
       "Fretful, impatient", 
@@ -41,40 +41,40 @@
       "FEELING AS IF HERNIA WOULD PROTRUDE, especially left side"
     ], 
     "Mouth": [
+      "Pyorrhoea", 
       "Aphthae; gums bleed readily", 
-      "Offensive breath", 
-      "Pyorrhoea"
+      "Offensive breath"
     ], 
     "Head": [
-      "Right-sided neuralgia; painful shocks; skin feels pinched", 
-      "Sensation as if brain was loose in forehead and falling from side to side", 
-      "Concussion of brain where skin is cold, body bathed in cold sweat", 
       "Compressive pain in side of occiput", 
+      "Concussion of brain where skin is cold, body bathed in cold sweat", 
+      "THRUST IN RIGHT TEMPLE AS IF PLUG WERE PRESSED IN", 
+      "Sensation as if brain was loose in forehead and falling from side to side", 
       "RELIEVED BY HOLDING THE HANDS NEAR THE HEAD", 
-      "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch", 
-      "THRUST IN RIGHT TEMPLE AS IF PLUG WERE PRESSED IN"
+      "Right-sided neuralgia; painful shocks; skin feels pinched", 
+      "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch"
     ], 
     "Skin": [
+      "Hemorrhage of black blood from all outlets", 
       "Bad effects from mechanical injuries, with bruises and livid skin", 
+      "Chilblains with gangrenous tendency", 
       "Ecchymosis", 
-      "Petechiae", 
+      "Carbuncles, boils and other staphylococcic and streptococcic infections", 
       "PURPURA HEMORRHAGICA", 
       "Livid, red, itching blotches", 
-      "Hemorrhage of black blood from all outlets", 
       "Cicatrices turn red and blue and become painful", 
-      "Chilblains with gangrenous tendency", 
-      "Carbuncles, boils and other staphylococcic and streptococcic infections"
+      "Petechiae"
     ], 
     "Rectum": [
-      "Piles; oozing dampness", 
       "Rectum feels as if it had a big ball", 
-      "Diarrhoea, fetid, black, with sour odor of body, and empty faint feeling in abdomen"
+      "Diarrhoea, fetid, black, with sour odor of body, and empty faint feeling in abdomen", 
+      "Piles; oozing dampness"
     ], 
     "Extremities": [
       "Cramp-like paralytic contraction in arms, hands; jerking of fingers while writing"
     ]
   }, 
-  "details": "The \"debility\" common to acids shows itself here, especially in the digestive tract, giving a very relaxed feeling in the stomach, with craving for stimulants. TREMOR AND WEAKNESS; everything must be done in a hurry. HOT FLUSHES, followed by perspiration, with trembling. Tendency to gangrene following mechanical injuries. Writer's cramp. Lead poisoning. Gastralgia and hypochlorhydria. Purpura hemorrhagia.", 
+  "details": "The debility common to acids shows itself here, especially in the digestive tract, giving a very relaxed feeling in the stomach, with craving for stimulants. TREMOR AND WEAKNESS; everything must be done in a hurry. HOT FLUSHES, followed by perspiration, with trembling. Tendency to gangrene following mechanical injuries. Writer's cramp. Lead poisoning. Gastralgia and hypochlorhydria. Purpura hemorrhagia.", 
   "Natural History": [
     "Sulphuric Acid"
   ], 

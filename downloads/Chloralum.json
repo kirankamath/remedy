@@ -4,17 +4,14 @@
   "symptoms": {
     "Eyes": [
       "Eyes blood-shot and watery", 
-      "Circles of light, black spots", 
-      "Illusions of sight where eyes are closed or at night", 
       "Dim vision", 
-      "Conjunctivitis, burning in eye and lids; eyeball feels too large; everything looks WHITE"
+      "Circles of light, black spots", 
+      "Conjunctivitis, burning in eye and lids; eyeball feels too large; everything looks WHITE", 
+      "Illusions of sight where eyes are closed or at night"
     ], 
     "Respiratory": [
       "Extreme dyspnoea, with sensation of weight and constriction of chest", 
-      "Asthma, with sleeplessness", 
-      "Sleep", 
-      "Insomnia, hallucinations, horrid dreams", 
-      "Somnolence"
+      "Asthma, with sleeplessness"
     ], 
     "Modalities": [
       "Worse: after hot drinks", 
@@ -24,18 +21,22 @@
     ], 
     "Head": [
       "Morning headache; worse in forehead, also in occiput, on motion; better in open air", 
+      "Hears voices", 
       "Passive cerebral hyperaemia", 
-      "Feeling as if hot band were drawn from temple to temple", 
-      "Hears voices"
+      "Feeling as if hot band were drawn from temple to temple"
+    ], 
+    "Sleep": [
+      "Somnolence", 
+      "Insomnia, hallucinations, horrid dreams"
     ], 
     "Skin": [
-      "Red blotches, like measles", 
-      "URTICARIA, WORSE, SPIRITUOUS LIQUORS, hot drinks", 
       "Erythema aggravated by alcoholic drinks, with palpitation; causes pain in tendons and extensors", 
-      "Intense itching", 
       "Surface of body STONE-COLD", 
+      "Purpura", 
+      "Red blotches, like measles", 
       "Wheals come on from a chill; better, warmth", 
-      "Purpura"
+      "URTICARIA, WORSE, SPIRITUOUS LIQUORS, hot drinks", 
+      "Intense itching"
     ]
   }, 
   "details": "This drug, used in physiological doses, is a powerful hypnotic and cardiac depressant. It has a marked effect on the skin, producing erythema, ecchymosis, etc., which symptoms have been utilized homeopathically with much success, especially in the treatment of hives. Emotional excitability, hallucinations. Night terrors in children. Muscular prostration.", 

@@ -3,47 +3,47 @@
   "Relationship": "Compare: AMBRA; PULSAT.; CINCHONA; FERR. CIT. ET. CHIN.", 
   "symptoms": {
     "Eyes": [
-      "Dim vision, worse on waking, with spots before eyes", 
-      "FLICKERING OF VARIOUS COLORS", 
+      "Diplopia", 
+      "Disturbance of vision, associated with gastric disturbances", 
       "Convergent strabismus", 
       "SEES COUNTLESS STARS", 
-      "Diplopia", 
-      "Disturbance of vision, associated with gastric disturbances"
+      "Dim vision, worse on waking, with spots before eyes", 
+      "FLICKERING OF VARIOUS COLORS"
     ], 
     "Stomach": [
-      "SALTY TASTE; hiccough-like eructation worse, fat food", 
+      "No thirst all day", 
       "Diarrhoea after every cup of coffee; HICCOUGH", 
-      "Satiety after a few mouthfuls", 
+      "SALTY TASTE; hiccough-like eructation worse, fat food", 
       "Disgust for meat, especially pork", 
-      "Desire for lemonade", 
-      "No thirst all day"
+      "Satiety after a few mouthfuls", 
+      "Desire for lemonade"
     ], 
     "Modalities": [
-      "Worse: open air", 
-      "Worse: evenings", 
-      "Worse: sitting", 
-      "Worse: standing and cold water", 
       "Better: during menstrual flow", 
       "Better: by moving about", 
       "Better: rubbing parts; in warm room", 
-      "Better: lemonade"
+      "Better: lemonade", 
+      "Worse: open air", 
+      "Worse: evenings", 
+      "Worse: sitting", 
+      "Worse: standing and cold water"
     ], 
     "Head": [
       "Terrors of conscience", 
-      "Grieves over duty neglected", 
-      "Depression, with weeping desire to be alone", 
-      "Aching in morning, with FLICKERING BEFORE EYES; sneezing with itching in ear", 
       "Vertigo; things turn in a circle; better in the room; worse, open air", 
       "One-sided headache", 
-      "Frequent sneezing with itching in ears"
+      "Aching in morning, with FLICKERING BEFORE EYES; sneezing with itching in ear", 
+      "Frequent sneezing with itching in ears", 
+      "Grieves over duty neglected", 
+      "Depression, with weeping desire to be alone"
     ], 
     "Female": [
-      "Menses PROFUSE, BLACK, membranous, CLOTTED, TOO EARLY, WITH LABOR-LIKE PAINS from back to pubes", 
+      "Postpartum hemorrhage, with colicky bearing-down pains, with relief after gush of blood", 
+      "After menses, swelling of breasts, with milky secretion", 
+      "HICCOUGH DURING PREGNANCY", 
       "Flow less when moving about", 
       "Menstrual irregularities with megrim and blindness, or fiery spots before eyes", 
-      "HICCOUGH DURING PREGNANCY", 
-      "Postpartum hemorrhage, with colicky bearing-down pains, with relief after gush of blood", 
-      "After menses, swelling of breasts, with milky secretion"
+      "Menses PROFUSE, BLACK, membranous, CLOTTED, TOO EARLY, WITH LABOR-LIKE PAINS from back to pubes"
     ], 
     "Skin": [
       "Acne in young women, pruritus better scratching and appearance of menses"
@@ -52,11 +52,11 @@
       "PAIN ABOUT ANUS AND PERINEUM, as if a spot were suppurating, when walking or sitting"
     ], 
     "Extremities": [
-      "Pains in parts where bones lie near surface", 
-      "Burning, SORE PAIN IN HEELS", 
-      "Cramp-like contraction of right thumb and index finger", 
       "Pains in periosteum", 
-      "Chilblains"
+      "Chilblains", 
+      "Burning, SORE PAIN IN HEELS", 
+      "Pains in parts where bones lie near surface", 
+      "Cramp-like contraction of right thumb and index finger"
     ]
   }, 
   "details": "Large doses produce violent purging and vomiting; disturbed digestion with very salty saliva. Anaemic and chlorotic conditions. Affections of uterus. Gastrointestinal and genitourinary tracts affected, inducing secondary anaemia and various reflexes. SLEEPINESS, MOROSENESS, AND LASSITUDE. Cough at night while asleep without waking, especially in children. (CHAM.; NIT-AC.)", 

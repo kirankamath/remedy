@@ -1,23 +1,23 @@
 {
   "name": "Latrodectus mactans", 
-  "Relationship": "Compare: LATRODECTUS HASSELTI - New South Wales Black Spider - (Long lasting effects seem to indicate it as a \"chronic\" blood poisoning. Arrests intense pain in pyaemia. Great oedema in neighborhood of wound; paralysis of limbs, with great wasting of muscles. Violent, darting, burning pains preceding paralysis; vertigo, tendency to fall forward, septicaemic conditions; constant delusion of FLYING. Loss of memory. Roaring noises.) ARANEA; MYGALE; THERIDION; LATRODECTUS KALIPO - New Zealand spider - (lymphangitis and nervous twitchings, scarlet burning eruption.) TRIATOMA - Kissing bug - (Swelling with violent itching of fingers and toes. Smothering sensation and difficult breathing succeeded by fainting and rapid pulse.)", 
+  "Relationship": "Compare: LATRODECTUS HASSELTI - New South Wales Black Spider - (Long lasting effects seem to indicate it as a chronic blood poisoning. Arrests intense pain in pyaemia. Great oedema in neighborhood of wound; paralysis of limbs, with great wasting of muscles. Violent, darting, burning pains preceding paralysis; vertigo, tendency to fall forward, septicaemic conditions; constant delusion of FLYING. Loss of memory. Roaring noises.) ARANEA; MYGALE; THERIDION; LATRODECTUS KALIPO - New Zealand spider - (lymphangitis and nervous twitchings, scarlet burning eruption.) TRIATOMA - Kissing bug - (Swelling with violent itching of fingers and toes. Smothering sensation and difficult breathing succeeded by fainting and rapid pulse.)", 
   "symptoms": {
     "Head": [
-      "Anxiety", 
+      "Occipital pain", 
       "Screams with pain", 
-      "Pain in neck to back of head", 
-      "Occipital pain"
+      "Anxiety", 
+      "Pain in neck to back of head"
     ], 
     "Respiratory": [
-      "Extreme apnoea", 
+      "Fears losing breath", 
       "Gasping respiration", 
-      "Fears losing breath"
+      "Extreme apnoea"
     ], 
     "Chest": [
       "Violent, precordial pain extending to the axilla and down the arm and forearm to fingers, with numbness of the extremity", 
-      "Pulse feeble and rapid", 
       "Sinking sensation", 
-      "Cramping pain from chest to abdomen"
+      "Cramping pain from chest to abdomen", 
+      "Pulse feeble and rapid"
     ], 
     "Skin": [
       "Coldness of whole surface", 

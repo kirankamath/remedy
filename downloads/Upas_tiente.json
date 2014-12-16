@@ -4,23 +4,23 @@
   ], 
   "symptoms": {
     "Eyes": [
-      "PAIN IN EYES AND ORBITS, WITH CONJUNCTIVITIS", 
       "Dull sunken eyes", 
-      "Styes"
+      "Styes", 
+      "PAIN IN EYES AND ORBITS, WITH CONJUNCTIVITIS"
     ], 
     "Head": [
+      "Dull headache deep in brain", 
       "Disinclined for mental work", 
-      "Irritable", 
-      "Dull headache deep in brain"
+      "Irritable"
     ], 
     "Chest": [
       "Lancinating pain throughout right lung toward the liver, stopping breathing", 
       "Violent palpitation; sensation of heaviness in stomach"
     ], 
     "Mouth": [
-      "Herpes on lips", 
+      "Pain in mouth, as from a splinter", 
       "Burning on the tongue", 
-      "Pain in mouth, as from a splinter"
+      "Herpes on lips"
     ], 
     "Skin": [
       "Numb hands and feet", 

@@ -3,12 +3,12 @@
   "Relationship": "Euonymus Europea-Spindle-tree (liver disorders, biliousness, lumbago, gastric derangements with albuminuria. Cutting pains in malar bones, tongue, penis up to bladder); Podophyl; Ammon. pic.; Chel.; Euonymin 1x trit. (albuminuria).", 
   "symptoms": {
     "Head": [
-      "Heavy frontal headache", 
-      "Sore, tired feeling; bruised feeling of scalp", 
       "Pain over right eye extending back through the head", 
-      "Bilious headache; coated tongue, bad taste, constipation", 
       "Vertigo, obscure vision and gastric derangement, associated with albuminuria", 
-      "Headache over eyebrows"
+      "Headache over eyebrows", 
+      "Sore, tired feeling; bruised feeling of scalp", 
+      "Heavy frontal headache", 
+      "Bilious headache; coated tongue, bad taste, constipation"
     ], 
     "Stomach": [
       "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable"
@@ -21,25 +21,25 @@
       "Dull pain between shoulders and about renal and splenic region; pain in lumbar region better lying down"
     ], 
     "Abdomen": [
-      "Flatus and pain", 
       "Anus very sore and burning", 
-      "Constipation with hemorrhoids and severe backache", 
+      "Urine scanty, high-colored; acidity increased, poured out rapidly", 
       "Diarrhoea; stools variable and profuse, bloody", 
       "Pain about umbilical region", 
+      "Flatus and pain", 
       "Urinary Organs", 
-      "Urine scanty, high-colored; acidity increased, poured out rapidly"
+      "Constipation with hemorrhoids and severe backache"
     ], 
     "Extremities": [
-      "Aching in all joints, especially ankles", 
       "Feet feel swollen and tired", 
       "Amelioration", 
-      "Better cool draft, pressure"
+      "Better cool draft, pressure", 
+      "Aching in all joints, especially ankles"
     ]
   }, 
   "details": "Brunettes more easily affected, producing headache, mental disturbances and much distress in hepatic and renal region; albuminuria. Migraine. Passive Congestion and torpor of liver; chronic catarrhal affections of stomach and intestines. Weak heart. Chronic rheumatism and gout.", 
   "Natural History": [
-    "Wahoo", 
-    "Burning Bush"
+    "Burning Bush", 
+    "Wahoo"
   ], 
   "dosage": "Tincture and lower attenuations."
 }

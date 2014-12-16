@@ -8,61 +8,60 @@
       "Palpitation, FROM LYING DOWN ON RIGHT SIDE"
     ], 
     "Head": [
+      "Alopecia", 
       "BURNING PAIN AS IF WEIGHT ON TOP OF HEAD BETTER BY PRESSURE of hand", 
-      "Vertigo, with weakness in pit of stomach", 
-      "Alopecia"
+      "Vertigo, with weakness in pit of stomach"
     ], 
     "Respiratory": [
-      "Hemoptysis, great weakness of chest; difficult to expel mucus", 
       "Copious, ropy morning expectoration in old people", 
-      "Asthma"
+      "Asthma", 
+      "Hemoptysis, great weakness of chest; difficult to expel mucus"
     ], 
     "Rectum": [
       "CONSTIPATION OF THE MOST AGGRAVATED KIND", 
-      "No desire to stool for days", 
-      "Violent ineffectual urging to stool", 
-      "No ability to expel stool", 
-      "MARBLE-LIKE MASSES PASS, BUT RECTUM STILL FEELS FULL", 
-      "Itching after stool", 
       "Itching in anus", 
-      "Long lasting pain and smarting in rectum after stool; also hemorrhoids", 
+      "Itching after stool", 
+      "Violent ineffectual urging to stool", 
       "Yellow, like an infant's", 
-      "Hemorrhage from bowels"
+      "No ability to expel stool", 
+      "Hemorrhage from bowels", 
+      "Long lasting pain and smarting in rectum after stool; also hemorrhoids", 
+      "MARBLE-LIKE MASSES PASS, BUT RECTUM STILL FEELS FULL", 
+      "No desire to stool for days"
     ], 
     "Modalities": [
       "Worse: cold except headache", 
       "Worse: which is relieved by cold"
     ], 
     "Female": [
+      "Menses watery", 
+      "Chronic gonorrhea, yellow with little lumps along urethra", 
       "Tendency to induration of neck of uterus and mammary glands", 
       "Chronic yellow vaginal discharge", 
-      "Chronic gonorrhea, yellow with little lumps along urethra", 
-      "Aphthous patches in vagina", 
-      "Menses watery"
+      "Aphthous patches in vagina"
     ], 
     "Skin": [
       "ULCERS, WITH INDURATED BASE", 
-      "To be thought of in indurated glands, epithelioma, etc", 
-      "; veins become varicose and bleed", 
       "Indurations resulting from long-continued inflammatory irritations", 
+      "Alopecia, Scrotal eczema and on back of penis", 
       "Glands inflame and harden", 
-      "Alopecia, Scrotal eczema and on back of penis"
+      "To be thought of in indurated glands, epithelioma, etc.; veins become varicose and bleed"
     ], 
     "Throat": [
+      "Constriction of oesophagus", 
+      "ENLARGED AND INDURATED TONSILS", 
       "Throat relaxed", 
       "Mucous membrane red and swollen", 
-      "Cough", 
-      "Tickling in throat", 
-      "Tendency to throat colds", 
-      "ENLARGED AND INDURATED TONSILS", 
-      "Burning pain down the oesophagus", 
-      "Complete aphonia", 
       "Every cold settles in throat", 
-      "Constriction of oesophagus"
+      "Tendency to throat colds", 
+      "Tickling in throat", 
+      "Burning pain down the oesophagus", 
+      "Cough", 
+      "Complete aphonia"
     ], 
     "Extremities": [
-      "WEAKNESS OF ALL MUSCLES, especially arms and legs", 
-      "Constricted feeling around limbs"
+      "Constricted feeling around limbs", 
+      "WEAKNESS OF ALL MUSCLES, especially arms and legs"
     ]
   }, 
   "name": "Alumen", 

@@ -4,17 +4,17 @@
   ], 
   "symptoms": {
     "Head": [
-      "Frontal headache", 
       "Forehead and eyes feel as if split", 
-      "Inflamed and red lids"
+      "Inflamed and red lids", 
+      "Frontal headache"
     ], 
     "Mind": [
       "Irritable, impatient ill-humored, nervous"
     ], 
     "Skin": [
-      "Hot and dry", 
       "Pimples and blotches", 
-      "Eruption like variola"
+      "Eruption like variola", 
+      "Hot and dry"
     ], 
     "dosage": ""
   }, 

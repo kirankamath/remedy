@@ -3,85 +3,86 @@
   "Relationship": "Compare: STREPTOCCIN (anti-febrile action; septic symptoms in infectious diseases). Rapid in its action, especially in its effect on temperature); STAPHLOCCIN in diseases where the staphylococcal is the chief bacterial factor, as acne, abscess, furuncle; empyema, endocarditis, etc.); SEPIN - A toxin of Proteus vulgaris, prepared by Dr. Shedd, same symptoms as Pyrogen, of which it is the main constituent; ECHINACEA; CARBO; ARS.; LACH.; RHUS; BAPT.Complementary: BRYON.", 
   "symptoms": {
     "Heart": [
-      "Tired feeling about heart", 
-      "PALPITATION", 
-      "Sensation as if heart were too full", 
       "Always can hear her heart beat", 
-      "Pulse abnormally rapid, OUT OF PROPORTION TO THE TEMPERATURE", 
+      "Tired feeling about heart", 
       "Pain in region of left nipple", 
+      "PALPITATION", 
+      "Pulse abnormally rapid, OUT OF PROPORTION TO THE TEMPERATURE", 
+      "Sensation as if heart were too full", 
       "Conscious of heart"
     ], 
     "Head": [
-      "Painless throbbing", 
+      "Bursting headache with restlessness", 
       "Fan-like motion of alae nasi", 
-      "Bursting headache with restlessness"
+      "Painless throbbing"
     ], 
     "Fever": [
-      "Coldness and chilliness", 
-      "SEPTIC FEVERS", 
       "Latent pyogenic condition", 
+      "Coldness and chilliness", 
       "Chill begins in back", 
+      "SEPTIC FEVERS", 
       "Temperature rises rapidly", 
       "Great heat with profuse how sweat, but SWEATING DOES NOT CAUSE A FALL IN TEMPERATURE"
     ], 
     "Stomach": [
-      "Coffee-grounds vomiting", 
-      "Vomits water, when it becomes warm in stomach"
+      "Vomits water, when it becomes warm in stomach", 
+      "Coffee-grounds vomiting"
     ], 
     "Modalities": [], 
     "Mind": [
-      "Full of anxiety and insane notions", 
-      "Loquacious", 
       "Thinks he is very wealthy", 
+      "Loquacious", 
       "RESTLESS", 
       "Feels if crowded with arms and legs", 
+      "Full of anxiety and insane notions", 
       "Cannot tell whether dreaming while awake or asleep"
     ], 
     "Stool": [
-      "Diarrhoea; horribly offensive, brown-black; painless, involuntary", 
       "Constipation, with complete inertia ; obstinate from impaction", 
+      "Diarrhoea; horribly offensive, brown-black; painless, involuntary", 
       "Stools large, black, carrion-like, or small black balls"
     ], 
     "Abdomen": [
-      "Intolerable tenesmus of both bladder and rectum", 
-      "Bloated, sore, cutting pain"
+      "Bloated, sore, cutting pain", 
+      "Intolerable tenesmus of both bladder and rectum"
     ], 
-    "Mouth": [
-      "Tongue red and DRY, clean, cracked, smooth, as though varnished", 
-      "Throat dry, articulation difficult", 
-      "Nausea and vomiting", 
-      "Taste terribly fetid", 
-      "Breath horrible"
-    ], 
-    "Female": [
-      "Puerperal peritonitis, with extreme fetor", 
-      "Septicaemia following abortion", 
-      "Menses horribly offensive", 
-      "Uterine hemorrhages", 
-      "Fever at each menstrual period, consequent upon latent pelvic inflammation", 
-      "SEPTIC PUERPERAL INFECTION", 
-      "Pelvic calculi", 
-      "Inflammatory exudate", 
-      "Post-operative cases, with overwhelming sepsis"
-    ], 
-    "Skin": [
-      "Small cut or injury becomes much swollen and inflamed - discolored", 
-      "Dry", 
-      "Sleep", 
+    "Sleep": [
       "Seems to be in semi-sleep", 
       "Dreams all night"
     ], 
+    "Female": [
+      "Septicaemia following abortion", 
+      "Post-operative cases, with overwhelming sepsis", 
+      "Puerperal peritonitis, with extreme fetor", 
+      "Menses horribly offensive", 
+      "SEPTIC PUERPERAL INFECTION", 
+      "Uterine hemorrhages", 
+      "Fever at each menstrual period, consequent upon latent pelvic inflammation", 
+      "Pelvic calculi", 
+      "Inflammatory exudate"
+    ], 
+    "Skin": [
+      "Small cut or injury becomes much swollen and inflamed - discolored", 
+      "Dry"
+    ], 
+    "Mouth": [
+      "Nausea and vomiting", 
+      "Throat dry, articulation difficult", 
+      "Taste terribly fetid", 
+      "Tongue red and DRY, clean, cracked, smooth, as though varnished", 
+      "Breath horrible"
+    ], 
     "Extremities": [
-      "Throbbing in vessels of neck", 
       "Numbness of hands, arms, feet", 
-      "Aching in all limbs and bones", 
-      "BED FEELS TOO HARD", 
       "Great debility in the morning", 
-      "Soreness; better by motion", 
-      "Rapid decubitus of septic origin"
+      "Aching in all limbs and bones", 
+      "Throbbing in vessels of neck", 
+      "Rapid decubitus of septic origin", 
+      "BED FEELS TOO HARD", 
+      "Soreness; better by motion"
     ]
   }, 
-  "details": "This remedy was introduced by English Homeopathists, prepared from decomposed lean beef allowed to stand in the sun for two weeks and then potentised. The provings and most of the clinical experience have been obtained from this preparation. But, subsequently, Dr. Swan potentised some septic pus, which preparation has also been proved and clinically applied. There does not seem to be any marked difference in their effects.Pyrogen is the great remedy for SEPTIC STATES, with intense restlessness. \"In septic fevers, especially puerperal, Pyrogen has demonstrated its great value as a homeopathic dynamic antiseptic.\" (H. C. Allen.) Hectic, typhoid, typhus, ptomaine poisoning, diphtheria, dissecting wounds, sewer-gas poisoning, chronic malaria, after-effects of miscarriage, all these conditions at times may present symptoms calling for this unique medicine. ALL DISCHARGES ARE HORRIBLY OFFENSIVE - menstrual, lochial, diarrhoea, vomit, sweat, breath, etc. Great pain and violent burning in abscesses. Chronic complaints that date back to septic conditions. Threatening heart failure in zymotic and septic fevers. Influenza, typhoid symptoms.", 
+  "details": "Pyrogen is the great remedy for SEPTIC STATES, with intense restlessness. In septic fevers, especially puerperal, Pyrogen has demonstrated its great value as a homeopathic dynamic antiseptic. (H. C. Allen.) Hectic, typhoid, typhus, ptomaine poisoning, diphtheria, dissecting wounds, sewer-gas poisoning, chronic malaria, after-effects of miscarriage, all these conditions at times may present symptoms calling for this unique medicine. ALL DISCHARGES ARE HORRIBLY OFFENSIVE - menstrual, lochial, diarrhoea, vomit, sweat, breath, etc. Great pain and violent burning in abscesses. Chronic complaints that date back to septic conditions. Threatening heart failure in zymotic and septic fevers. Influenza, typhoid symptoms.This remedy was introduced by English Homeopathists, prepared from decomposed lean beef allowed to stand in the sun for two weeks and then potentised. The provings and most of the clinical experience have been obtained from this preparation. But, subsequently, Dr. Swan potentised some septic pus, which preparation has also been proved and clinically applied. There does not seem to be any marked difference in their effects.", 
   "Natural History": [
     "Artificial Sepsin"
   ], 

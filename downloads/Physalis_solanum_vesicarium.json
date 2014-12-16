@@ -5,14 +5,14 @@
   "details": "Marked urinary symptoms confirming its ancient uses in gravel, etc. Lithiasis; marked diuretic action. Languor and muscular weakness.Recommended in facial paralysis.", 
   "symptoms": {
     "Head": [
-      "Vertigo, hazy feeling; memory weakened; desire to talk constantly", 
-      "Throbbing pain, heavy over eyes in forehead", 
+      "Dryness of mouth", 
       "Facial paralysis", 
-      "Dryness of mouth"
+      "Vertigo, hazy feeling; memory weakened; desire to talk constantly", 
+      "Throbbing pain, heavy over eyes in forehead"
     ], 
     "Fever": [
-      "Chilly in open air", 
       "Feverish in evening", 
+      "Chilly in open air", 
       "Sweat during stool, with creeping sensation, with abundant urine", 
       "Pain in liver during fever"
     ], 
@@ -20,23 +20,23 @@
       "Worse: cold camp evening"
     ], 
     "Respiratory": [
-      "Cough", 
-      "Hoarse voice; throat irritated; chest oppressed, causing insomnia", 
-      "Stabbing in chest", 
-      "Urinary Organs", 
-      "Acrid, foul, retained, abundant", 
-      "Polyuria", 
-      "Sudden inability to hold it in women", 
       "Nocturnal incontinence", 
-      "ENURESIS"
+      "Hoarse voice; throat irritated; chest oppressed, causing insomnia", 
+      "Sudden inability to hold it in women", 
+      "Acrid, foul, retained, abundant", 
+      "Stabbing in chest", 
+      "Polyuria", 
+      "Cough", 
+      "ENURESIS", 
+      "Urinary Organs"
     ], 
     "Skin": [
       "Excoriation between fingers and toes; pustules on thighs; nodes on forehead"
     ], 
     "Extremities": [
-      "Stiff limbs; tonic cramps", 
+      "When walking, every jar seems repeated in the head", 
       "Paralysis", 
-      "When walking, every jar seems repeated in the head"
+      "Stiff limbs; tonic cramps"
     ]
   }, 
   "name": "Physalis solanum vesicarium", 

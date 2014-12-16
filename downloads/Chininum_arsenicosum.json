@@ -4,47 +4,48 @@
   "symptoms": {
     "Heart": [
       "Palpitation", 
-      "Sensation as if heart stopped", 
-      "Suffocative attacks, occurring in periodical paroxysms", 
       "Must have open air", 
+      "Suffocative attacks, occurring in periodical paroxysms", 
       "Short of breath on ascending; cardiac dyspnoea; circulatory weakness after acute infections; early myocardial degeneration", 
-      "Sleep", 
-      "Sleeplessness due to nervous causes"
+      "Sensation as if heart stopped"
     ], 
     "Eyes": [
-      "Intense photophobia and orbicular spasm; gushing hot tears", 
-      "Flickering with pain and lachrymation"
+      "Flickering with pain and lachrymation", 
+      "Intense photophobia and orbicular spasm; gushing hot tears"
     ], 
     "Fever": [
       "Continuous, with weakness", 
       "System depleted"
     ], 
     "Stomach": [
-      "Alternation of hyperacidity and decrease of acid", 
-      "Hyperchlorhydria", 
       "Thirst for water, yet it disturbs", 
-      "ANOREXIA", 
-      "EGGS PRODUCE DIARRHOEA"
+      "Hyperchlorhydria", 
+      "EGGS PRODUCE DIARRHOEA", 
+      "Alternation of hyperacidity and decrease of acid", 
+      "ANOREXIA"
     ], 
     "Head": [
-      "Tired feeling", 
-      "Head feels too full", 
-      "Throbbing", 
-      "Great anxiety", 
-      "Great irritability", 
       "Vertigo; worse looking up", 
       "Dull, heavy headache, frontal and occipital", 
-      "Darting pains running up into head"
+      "Great anxiety", 
+      "Darting pains running up into head", 
+      "Head feels too full", 
+      "Tired feeling", 
+      "Throbbing", 
+      "Great irritability"
     ], 
     "Mouth": [
+      "No appetite", 
       "Tongue thickly furred; yellow, slimy coating", 
-      "Bitter taste", 
-      "No appetite"
+      "Bitter taste"
+    ], 
+    "Sleep": [
+      "Sleeplessness due to nervous causes"
     ], 
     "Extremities": [
-      "Weak limbs", 
+      "Tearing pains", 
       "COLDNESS OF HANDS AND FEET, KNEES AND LIMBS", 
-      "Tearing pains"
+      "Weak limbs"
     ]
   }, 
   "details": "The symptoms of general WEARINESS AND PROSTRATION produced by the drug have been utilized in prescribing it homeopathically as a general tonic, often with very marked beneficial and prompt effect. In diphtheria with great prostration, cases that are prolonged, especially, and in malarial affections, neuralgia, etc., it has been found curative. Asthmatic attacks which recur periodically, with great prostration. Icy skin. Pressure in the solar plexus, with tender spine back of it.", 

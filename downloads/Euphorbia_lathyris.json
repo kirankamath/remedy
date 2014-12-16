@@ -3,30 +3,27 @@
   "Relationship": "Antidoted by Rhus tox. (skin symptoms); Veratr. alb. (vomiting, purging, cough and coma).", 
   "symptoms": {
     "Heart": [
-      "Weak and fluttering heart-action", 
       "Pulse 120, full, bounding, somewhat irregular", 
-      "Sleep", 
-      "Restlessness at night", 
-      "Sleep disturbed, anxious dreams"
+      "Weak and fluttering heart-action"
     ], 
     "Eyes": [
       "Almost closed from OEDEMA OF LIDS"
     ], 
     "Respiratory": [
       "Labored breathing", 
-      "Breath cold, musty odor", 
-      "Cough; first a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhoea and vomiting, with sleepiness between each paroxysm"
+      "Cough; first a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhoea and vomiting, with sleepiness between each paroxysm", 
+      "Breath cold, musty odor"
     ], 
     "Stomach": [
       "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps"
     ], 
     "Modalities": [
-      "Worse: touch and cold air;Amelioration", 
-      "Better: close room and sweet-oil application"
+      "Better: close room and sweet-oil application", 
+      "Worse: touch and cold air;"
     ], 
     "Mind": [
-      "Delirium and hallucinations", 
-      "Stupor, coma"
+      "Stupor, coma", 
+      "Delirium and hallucinations"
     ], 
     "Stool": [
       "Drastic purgation from large doses; mild laxative condition from smaller doses; followed several weeks afterwards by obstinate constipation", 
@@ -35,17 +32,17 @@
       "Copious flow of urine"
     ], 
     "Face": [
-      "At first ruddy glow on cheeks, afterwards death-like pallor", 
-      "Cold perspiration in beads on forehead", 
-      "Red, puffed, and in spots suppurating", 
       "Erythema, beginning on face, gradually extending into the hair parts, and then spreading over whole body, taking eight days to do so; eruption glossy, rough oedematous, with burning and smarting; aggravated by touch and cold air; ameliorated by close room and sweet-oil applications", 
+      "At first ruddy glow on cheeks, afterwards death-like pallor", 
       "Fine bran-like desquamation", 
       "Sensation of cobwebs", 
-      "Stinging, smarting, and burning of face when touched"
+      "Red, puffed, and in spots suppurating", 
+      "Stinging, smarting, and burning of face when touched", 
+      "Cold perspiration in beads on forehead"
     ], 
     "Fever": [
-      "Temperature increased", 
-      "Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead"
+      "Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead", 
+      "Temperature increased"
     ], 
     "Mouth": [
       "Tongue coated, slimy; acrid taste", 
@@ -56,9 +53,13 @@
       "Very SENSITIVE AND OEDEMATOUS mucous membranes with ulceration"
     ], 
     "Skin": [
-      "Erythema, beginning on uncovered parts, on face, and spreading over whole body; glossy, rough, oedematous, with burning and smarting", 
       "Fine bran-like desquamation following in the wake of the erythema", 
+      "Erythema, beginning on uncovered parts, on face, and spreading over whole body; glossy, rough, oedematous, with burning and smarting", 
       "Eruption rough, scaly, smarting, and burning; when scratched forms deep, ragged ulcers; skin where ulcerated remains red"
+    ], 
+    "Sleep": [
+      "Restlessness at night", 
+      "Sleep disturbed, anxious dreams"
     ], 
     "Male": [
       "Inflammation of scrotum, resulting in deep acrid ulcers, with intense itching and burning; worse, touching the parts from washing"

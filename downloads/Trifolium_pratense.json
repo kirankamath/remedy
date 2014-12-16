@@ -3,28 +3,28 @@
   "Relationship": "Compare: TRIFOLIUM REPENS - White clover - (Prophylactic against mumps, feeling of congestion in salivary glands, pain and hardening, especially submaxillary; worse, lying down. Mouth filled with watery saliva, WORSE LYING DOWN. Taste of blood in mouth and throat. Sensation as if heart would stop, with great fear, better sitting up or moving about; worse, when alone, with cold sweat on face.)", 
   "symptoms": {
     "Head": [
-      "Confusion and headaches on awaking", 
       "Dullness in anterior brain", 
+      "Confusion and headaches on awaking", 
       "Mental failure, loss of memory"
     ], 
     "Respiratory": [
-      "Coryza like that which precedes hay-fever; thin mucus, with much irritation", 
       "HOARSE AND CHOKING; CHILLS WITH COUGH AT NIGHT", 
       "Cough on coming into the open air", 
-      "Hay-fever", 
-      "Spasmodic cough; WHOOPING COUGH, paroxysms; worse at night"
+      "Coryza like that which precedes hay-fever; thin mucus, with much irritation", 
+      "Spasmodic cough; WHOOPING COUGH, paroxysms; worse at night", 
+      "Hay-fever"
     ], 
     "Back": [
       "Neck stiff; cramp in sterno-cleido muscles; relieved by heat and irritation"
     ], 
     "Mouth": [
-      "INCREASED FLOW OF SALIVA", 
-      "Sore throat, with hoarseness"
+      "Sore throat, with hoarseness", 
+      "INCREASED FLOW OF SALIVA"
     ], 
     "Extremities": [
-      "Tingling in palms", 
+      "Tibial ulcers", 
       "Hands and feet cold", 
-      "Tibial ulcers"
+      "Tingling in palms"
     ]
   }, 
   "details": "PRODUCES MOST MARKED PTYALISM. Feeling of fullness with congestion of salivary glands, followed by increased copious flow of saliva. Feeling as if mumps were coming on. CRUSTA LACTEA; dry, scaly crusts. Stiff neck. CANCEROUS DIATHESIS.", 

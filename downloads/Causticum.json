@@ -1,42 +1,36 @@
 {
   "name": "Causticum", 
-  "Relationship": "According to the careful investigations of Dr. Wagner of Basel, Causticum corresponds to Ammon. causticum 4X. Causticum does not agree with Phosphorus; the remedies should not be used after each other. Diphtherotoxin follows, causticum in chronic bronchitis.Antidote: Paralysis from lead-poisoning.Complementary: Carbo; Petrosel.Compare: Rhus; Arsenic; Am. phos. (facial paralysis).", 
+  "Relationship": "According to the careful investigations of Dr. Wagner of Basel, Causticum corresponds to Ammon. causticum 4X. Causticum does not agree with Phosphorus; the remedies should not be used after each other. Diphtherotoxin follows, causticum in chronic bronchitis.Complementary: Carbo; Petrosel.Compare: Rhus; Arsenic; Am. phos. (facial paralysis).Antidote: Paralysis from lead-poisoning.", 
   "symptoms": {
     "Eyes": [
-      "Cataract with motor disturbances", 
-      "Inflammation of eyelids; ulceration", 
       "Sparks and dark spots before eyes", 
       "Ptosis", 
+      "Cataract with motor disturbances", 
       "Vision impaired, as if film were before eyes", 
-      "Paralysis of ocular muscles after exposure to cold"
+      "Paralysis of ocular muscles after exposure to cold", 
+      "Inflammation of eyelids; ulceration"
     ], 
     "Respiratory": [
-      "HOARSENESS with pain in chest; APHONIA", 
-      "Larynx sore", 
       "COUGH WITH RAW SORENESS OF CHEST", 
-      "Expectoration scanty; MUST BE SWALLOWED", 
-      "Cough WITH PAIN IN HIP, especially left worse in evening; BETTER, DRINKING COLD WATER; worse, warmth of bed", 
-      "Sore streak down trachea", 
       "Mucus under sternum, which he cannot QUITE REACH", 
-      "Pain in chest, with palpitation", 
-      "Cannot lie down at night", 
-      "Voice re-echoes", 
       "Own voice roars in ears and distresses", 
-      "Difficulty of voice of singers and public speakers"
+      "Pain in chest, with palpitation", 
+      "Expectoration scanty; MUST BE SWALLOWED", 
+      "Difficulty of voice of singers and public speakers", 
+      "Cough WITH PAIN IN HIP, especially left worse in evening; BETTER, DRINKING COLD WATER; worse, warmth of bed", 
+      "Voice re-echoes", 
+      "Sore streak down trachea", 
+      "Larynx sore", 
+      "HOARSENESS with pain in chest; APHONIA", 
+      "Cannot lie down at night"
     ], 
     "Stomach": [
-      "Greasy taste", 
-      "Aversion to sweets", 
-      "Feels as if lime were burned in stomach", 
       "Worse after eating fresh meat; smoked meat agrees", 
       "Sensation of ball rising in throat", 
-      "Acid dyspepsia"
-    ], 
-    "Female": [
-      "UTERINE INERTIA DURING LABOR", 
-      "Menses cease at night; FLOW ONLY DURING DAY", 
-      "Leucorrhoea at night, with great weakness", 
-      "Menses delay, late"
+      "Greasy taste", 
+      "Acid dyspepsia", 
+      "Feels as if lime were burned in stomach", 
+      "Aversion to sweets"
     ], 
     "Modalities": [
       "Worse: dry", 
@@ -47,83 +41,90 @@
       "Better: WET WEATHER; WARMTH"
     ], 
     "Mind": [
+      "INTENSELY SYMPATHETIC", 
       "Child does not want to go to bed alone", 
       "Least thing makes it cry", 
+      "Thinking of complaints, aggravates, especially hemorrhoids", 
       "Sad, hopeless", 
-      "INTENSELY SYMPATHETIC", 
-      "Ailments from long-lasting grief, sudden emotions", 
-      "Thinking of complaints, aggravates, especially hemorrhoids"
+      "Ailments from long-lasting grief, sudden emotions"
     ], 
     "Stool": [
+      "RETENTION after surgical operations", 
+      "Fistula and large piles", 
       "Soft and small, size of goose-quill", 
       "Hard, tough, covered with mucus; shines like grease; small-shaped; expelled with much straining, or only on standing up", 
-      "Pruritis", 
-      "Partial paralysis of rectum", 
       "Rectum sore and burns", 
-      "Fistula and large piles", 
-      "Urine Section", 
+      "Partial paralysis of rectum", 
+      "Loss of sensibility on passing urine", 
       "Involuntary when coughing, sneezing", 
-      "Expelled very slowly, and sometimes retained", 
       "Involuntary during first sleep at night; also from slightest excitement", 
-      "RETENTION after surgical operations", 
-      "Loss of sensibility on passing urine"
+      "Expelled very slowly, and sometimes retained", 
+      "Pruritis", 
+      "Urine Section"
     ], 
     "Back": [
-      "Stiffness between shoulders", 
-      "Dull pain in nape of neck"
+      "Dull pain in nape of neck", 
+      "Stiffness between shoulders"
     ], 
     "Face": [
-      "Paralysis of right side", 
-      "Warts", 
-      "Pain in facial bones", 
+      "Pain in jaws, with difficulty in opening mouth", 
       "Dental fistula", 
-      "Pain in jaws, with difficulty in opening mouth"
+      "Pain in facial bones", 
+      "Warts", 
+      "Paralysis of right side"
     ], 
     "Mouth": [
       "Bites inside of cheek from chewing", 
-      "Paralysis of tongue, with indistinct speech", 
+      "Gums bleed easily", 
       "Rheumatism of articulation of lower jaw", 
-      "Gums bleed easily"
+      "Paralysis of tongue, with indistinct speech"
     ], 
     "Nose": [
-      "CORYZA, WITH HOARSENESS", 
       "Scaly nose", 
       "Nostrils ulcerated", 
+      "CORYZA, WITH HOARSENESS", 
       "PIMPLES AND WARTS"
     ], 
     "Head": [
-      "Sensation of empty space between forehead and brain", 
-      "Pain in right frontal eminence"
+      "Pain in right frontal eminence", 
+      "Sensation of empty space between forehead and brain"
     ], 
     "Skin": [
-      "Soreness in folds of skin, back of ears, between thighs", 
-      "Warts large, jagged, bleeding easily, on tips of fingers and nose", 
       "Old burns that do not get well, and ill effects from burns", 
-      "Pains of burns", 
       "Cicatrices freshen up; old injuries reopen", 
+      "Warts large, jagged, bleeding easily, on tips of fingers and nose", 
+      "Soreness in folds of skin, back of ears, between thighs", 
       "Skin prone to intertrigo during dentition", 
-      "Sleep", 
+      "Pains of burns"
+    ], 
+    "Sleep": [
       "Very drowsy; can hardly keep awake", 
       "Nocturnal sleeplessness, with dry heat, inquietude"
     ], 
     "Extremities": [
-      "Left-sided sciatica, with numbness", 
-      "Paralysis of single parts", 
-      "Dull, tearing pain in hands and arms", 
-      "Heaviness and weakness", 
-      "Tearing joints", 
-      "Unsteadiness of MUSCLES OF FOREARM and hand", 
-      "Numbness; loss of sensation in hands", 
-      "CONTRACTED TENDONS", 
-      "Weak ankles", 
-      "Cannot walk without suffering", 
-      "RHEUMATIC TEARING IN LIMBS; BETTER BY WARMTH, ESPECIALLY HEAT OF BED", 
-      "Burning in joints", 
       "Slow in learning to walk", 
-      "Unsteady walking and easily falling", 
-      "RESTLESS LEGS AT NIGHT", 
+      "Unsteadiness of MUSCLES OF FOREARM and hand", 
       "Cracking and tension in knees; stiffness in hollow of knee", 
-      "Itching on dorsum of feet"
+      "Weak ankles", 
+      "Dull, tearing pain in hands and arms", 
+      "Numbness; loss of sensation in hands", 
+      "Itching on dorsum of feet", 
+      "CONTRACTED TENDONS", 
+      "RESTLESS LEGS AT NIGHT", 
+      "Paralysis of single parts", 
+      "Burning in joints", 
+      "Left-sided sciatica, with numbness", 
+      "Unsteady walking and easily falling", 
+      "RHEUMATIC TEARING IN LIMBS; BETTER BY WARMTH, ESPECIALLY HEAT OF BED", 
+      "Cannot walk without suffering", 
+      "Heaviness and weakness", 
+      "Tearing joints"
+    ], 
+    "Female": [
+      "Menses delay, late", 
+      "UTERINE INERTIA DURING LABOR", 
+      "Leucorrhoea at night, with great weakness", 
+      "Menses cease at night; FLOW ONLY DURING DAY"
     ], 
     "Ears": [
       "Ringing, roaring, pulsating, with deafness; words and steps re-echo; chronic middle-ear catarrh; accumulation of ear-wax"

@@ -2,7 +2,7 @@
   "Natural History": [
     "Cyanide of Mercury"
   ], 
-  "details": "Acute infections, pneumonia, nephritis. Its action is similar to that of the toxins of infectious diseases. Great and rapid prostration, tendency toward hemorrhages, from the different orifices, of dark fluid blood, cyanosis, rapid respiration and heart action, albuminuria and twitching and jerking of muscles. Typhoid pneumonia.Livid states from great struggling, where suffocation is imminent and paralysis of lung threatening; great sweat.Affects most prominently the buccal cavity. This, together with marked prostration, gives it a place in the treatment of DIPHTHERIA, where it has achieved unquestioned great results. Malignant types, with prostration. Coldness and nausea. Syphilitic ulcers when perforation threatens.", 
+  "details": "Livid states from great struggling, where suffocation is imminent and paralysis of lung threatening; great sweat.Acute infections, pneumonia, nephritis. Its action is similar to that of the toxins of infectious diseases. Great and rapid prostration, tendency toward hemorrhages, from the different orifices, of dark fluid blood, cyanosis, rapid respiration and heart action, albuminuria and twitching and jerking of muscles. Typhoid pneumonia.Affects most prominently the buccal cavity. This, together with marked prostration, gives it a place in the treatment of DIPHTHERIA, where it has achieved unquestioned great results. Malignant types, with prostration. Coldness and nausea. Syphilitic ulcers when perforation threatens.", 
   "symptoms": {
     "Head": [
       "Great excitement, fits of passion; fury; talkativeness", 
@@ -13,38 +13,38 @@
       "Nausea, vomiting, bilious, bloody; hiccough; abdomen painful, tender to pressure"
     ], 
     "Mouth": [
-      "Covered with ulceration", 
-      "Tongue pale", 
+      "Astringent taste", 
       "Free salivation", 
       "Fetor of breath", 
-      "Pain and swelling of salivary glands", 
-      "Astringent taste", 
-      "ULCERATIONS of mouth have a gray membrane"
+      "Tongue pale", 
+      "ULCERATIONS of mouth have a gray membrane", 
+      "Covered with ulceration", 
+      "Pain and swelling of salivary glands"
     ], 
     "Skin": [
       "Moisture, with icy coldness"
     ], 
     "Throat": [
+      "Dark blood from nose", 
+      "Diphtheria of the larynx and nose", 
+      "Swallowing very difficult", 
+      "Looks raw in spots, especially in public speakers", 
       "Feels raw and sore", 
       "Mucous membranes broken down, ulcerated", 
-      "Looks raw in spots, especially in public speakers", 
       "Hoarseness, and talking is painful", 
-      "NECROTIC DESTRUCTION OF SOFT PARTS OF PALATE AND FAUCES", 
       "Intense redness of fauces", 
-      "Swallowing very difficult", 
-      "Dark blood from nose", 
-      "Diphtheria of the larynx and nose"
+      "NECROTIC DESTRUCTION OF SOFT PARTS OF PALATE AND FAUCES"
     ], 
     "Rectum": [
-      "Intolerable pain", 
-      "Redness around anus", 
-      "Frequent hemorrhage; stools with tenesmus", 
-      "Discharge of fetid liquid with gangrenous odor", 
-      "Black stools", 
-      "Urinary Organs", 
-      "Amber color, painful, albuminous, scanty", 
       "Nephritis with great debility and chilliness", 
-      "Suppression of urine"
+      "Redness around anus", 
+      "Intolerable pain", 
+      "Frequent hemorrhage; stools with tenesmus", 
+      "Suppression of urine", 
+      "Black stools", 
+      "Amber color, painful, albuminous, scanty", 
+      "Discharge of fetid liquid with gangrenous odor", 
+      "Urinary Organs"
     ]
   }, 
   "name": "Mercurius cyanatus", 

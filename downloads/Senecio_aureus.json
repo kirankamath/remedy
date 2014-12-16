@@ -5,60 +5,61 @@
     "Head": [
       "Dull, stupefying headache", 
       "WAVELIKE DIZZINESS from occiput to sinciput", 
-      "SHARP PAINS OVER LEFT EYE, AND THROUGH LEFT TEMPLE", 
-      "Fullness of nasal passages; burning; SNEEZING; profuse flow"
+      "Fullness of nasal passages; burning; SNEEZING; profuse flow", 
+      "SHARP PAINS OVER LEFT EYE, AND THROUGH LEFT TEMPLE"
     ], 
     "Respiratory": [
-      "Acute inflammatory conditions of upper respiratory tract", 
-      "Hoarseness", 
-      "COUGH LOOSE, with labored inspiration", 
-      "Chest sore and raw", 
       "Dyspnoea on ascending", 
-      "Dry teasing cough, stitching chest pains", 
-      "Sleep", 
-      "Great drowsiness, with unpleasant dreams", 
-      "Nervousness and sleeplessness"
+      "COUGH LOOSE, with labored inspiration", 
+      "Acute inflammatory conditions of upper respiratory tract", 
+      "Chest sore and raw", 
+      "Hoarseness", 
+      "Dry teasing cough, stitching chest pains"
     ], 
     "Stomach": [
       "Sour eructations; nausea"
     ], 
     "Mind": [
       "Inability to fix mind upon any one subject", 
-      "Despondent", 
-      "Nervous and irritable"
+      "Nervous and irritable", 
+      "Despondent"
     ], 
     "Abdomen": [
       "Pain around umbilicus; spreads all over abdomen; better, stool", 
-      "Thin, watery stool, intermingled with hard lumps of feces", 
-      "STRAINING AT STOOL; THIN, DARK, BLOODY, WITH TENESMUS", 
-      "Urinary Organs", 
+      "Irritable bladder of children, with headache", 
       "Scanty, high-colored, BLOODY, with much mucus and TENESMUS", 
       "GREAT HEAT AND CONSTANT URGING", 
+      "Renal colic", 
+      "Thin, watery stool, intermingled with hard lumps of feces", 
       "Nephritis", 
-      "Irritable bladder of children, with headache", 
-      "Renal colic"
+      "STRAINING AT STOOL; THIN, DARK, BLOODY, WITH TENESMUS", 
+      "Urinary Organs"
     ], 
     "Face": [
-      "Teeth very sensitive", 
       "SHARP, CUTTING PAIN left side", 
+      "Teeth very sensitive", 
       "DRYNESS of fauces, throat and mouth"
     ], 
+    "Sleep": [
+      "Nervousness and sleeplessness", 
+      "Great drowsiness, with unpleasant dreams"
+    ], 
     "Female": [
-      "MENSES RETARDED, suppressed", 
       "FUNCTIONAL AMENORRHOEA OF YOUNG GIRLS with backache", 
-      "Before menses, inflammatory conditions of throat, chest, and bladder", 
-      "After menstruation commences, these improve", 
       "Anaemic dysmenorrhoea with urinary disturbances", 
+      "MENSES RETARDED, suppressed", 
+      "After menstruation commences, these improve", 
+      "Before menses, inflammatory conditions of throat, chest, and bladder", 
       "Premature and too profuse menses"
     ], 
     "Throat": [
-      "Dry mouth, throat and fauces", 
-      "Burning in pharynx, raw feeling in nasopharynx, must swallow, though painful"
+      "Burning in pharynx, raw feeling in nasopharynx, must swallow, though painful", 
+      "Dry mouth, throat and fauces"
     ], 
     "Male": [
       "Lascivious dreams, with involuntary emissions", 
-      "PROSTATE ENLARGED", 
-      "Dull, heavy pain in spermatic cord, extending to testicles"
+      "Dull, heavy pain in spermatic cord, extending to testicles", 
+      "PROSTATE ENLARGED"
     ]
   }, 
   "details": "Its action on the female organism has been clinically verified. Urinary organs also affected in a marked degree. Backaches of congested kidneys. Early cirrhosis of liver.", 

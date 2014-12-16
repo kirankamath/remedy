@@ -10,32 +10,32 @@
       "Chill from 9 to ten AM Shuddering in back; heat in one part and chill in another"
     ], 
     "Stomach": [
-      "Frequent eructations, tasting like bad eggs", 
-      "Rising of water in mouth", 
-      "Urinary Organs", 
-      "Stitches and burning the orifice of the urethra after urinating", 
-      "Stream intermits and dribbles", 
-      "The urine passed in the morning copious, bright yellow, soon becomes turbid, and deposits a copious red sediment", 
       "The urine is greenish as passed; is of a clear color, and in a large quantity", 
+      "Frequent eructations, tasting like bad eggs", 
+      "Stream intermits and dribbles", 
+      "Rising of water in mouth", 
+      "The urine passed in the morning copious, bright yellow, soon becomes turbid, and deposits a copious red sediment", 
+      "Stitches and burning the orifice of the urethra after urinating", 
+      "Urinary Organs", 
       "Diabetes"
     ], 
     "Back": [
-      "Bruised and ulcerative pain between the shoulders, with a feeling as of a lump as large as the fist, on which account she could not lie upon her back or side; relieved by rubbing", 
-      "Violent pain in the small of the back, as if bruised, and as before menstruation"
+      "Violent pain in the small of the back, as if bruised, and as before menstruation", 
+      "Bruised and ulcerative pain between the shoulders, with a feeling as of a lump as large as the fist, on which account she could not lie upon her back or side; relieved by rubbing"
     ], 
     "Female": [
-      "Thick leucorrhoea, as profuse as the menses, with weary pain in the small of the back and thighs, on moving about", 
       "Some blood from the vagina between the menses", 
+      "Menses too early, intermit", 
       "Menstruation returned after fourteen days; the discharge was thick, black, and profuse", 
-      "Menses too early, intermit"
+      "Thick leucorrhoea, as profuse as the menses, with weary pain in the small of the back and thighs, on moving about"
     ], 
     "Skin": [
-      "Small pimples over the whole body, that itch violently", 
-      "Suppressed itch", 
-      "Crawling in the tips of the fingers of the left hand; better on rubbing", 
-      "WARTS", 
+      "Dropsy", 
       "Erysipelas", 
-      "Dropsy"
+      "Crawling in the tips of the fingers of the left hand; better on rubbing", 
+      "Small pimples over the whole body, that itch violently", 
+      "WARTS", 
+      "Suppressed itch"
     ], 
     "Extremities": [
       "The left arm and foot fall asleep in bed, in the morning after waking"
@@ -45,5 +45,5 @@
   "Natural History": [
     "Epsom Salt"
   ], 
-  "dosage": "Magnes. Sulph. is of diagnostic and therapeutic value in Gallstone colic. From 2 to 4 teaspoonfuls in glass hot water taken at onset of a colicky attack may abort or stop the colic.Epsom salts is one of the most active saline cathartics, operating with little pain or nausea, especially if pure. It has but little if any effect on intestinal peristalsis, its action causing a rush of fluid into the intestine, which by producing a distention of the bowel produces evacuation. It causes little or no irritation in the intestine. In common with the other salines, it is the classical evacuant to be employed in connection with mercurials and anthelmintics and in cases of poisoning. Epsom salt usually acts within from one to two hours, more quickly if taken in hot water and in the morning before breakfast. The ordinary dose as a mild laxative is a heaping teaspoonful; as a cathartic, two to four teaspoonfuls. The taste may be improved, if necessary, by the addition of a little lemon juice and sugar.Besides its chief use as a saline cathartic, magnesium sulphate is used to a considerable extent externally in saturated solution as an antiphlogistic and antipruritic in erysipelas, ivy poisoning, cellulitis and other local inflammations. Use on compresses saturated with solution.The pure salt to the third potency. Locally 1:4 in water in septic conditions, erysipelas, orchitis, boils, etc."
+  "dosage": "The pure salt to the third potency. Locally 1:4 in water in septic conditions, erysipelas, orchitis, boils, etc.Epsom salts is one of the most active saline cathartics, operating with little pain or nausea, especially if pure. It has but little if any effect on intestinal peristalsis, its action causing a rush of fluid into the intestine, which by producing a distention of the bowel produces evacuation. It causes little or no irritation in the intestine. In common with the other salines, it is the classical evacuant to be employed in connection with mercurials and anthelmintics and in cases of poisoning. Epsom salt usually acts within from one to two hours, more quickly if taken in hot water and in the morning before breakfast. The ordinary dose as a mild laxative is a heaping teaspoonful; as a cathartic, two to four teaspoonfuls. The taste may be improved, if necessary, by the addition of a little lemon juice and sugar.Magnes. Sulph. is of diagnostic and therapeutic value in Gallstone colic. From 2 to 4 teaspoonfuls in glass hot water taken at onset of a colicky attack may abort or stop the colic.Besides its chief use as a saline cathartic, magnesium sulphate is used to a considerable extent externally in saturated solution as an antiphlogistic and antipruritic in erysipelas, ivy poisoning, cellulitis and other local inflammations. Use on compresses saturated with solution."
 }

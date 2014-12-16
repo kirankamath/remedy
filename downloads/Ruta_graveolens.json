@@ -1,26 +1,26 @@
 {
   "name": "Ruta graveolens", 
-  "Relationship": "Compare: RATANHIA; CARDUUS. Rectal (irritation); JABORANDI; PHYT.; RHUS; SIL.; ARN.Antidote: CAMPH.Complementary: CALC. PHOS.", 
+  "Relationship": "Antidote: CAMPH.Compare: RATANHIA; CARDUUS. Rectal (irritation); JABORANDI; PHYT.; RHUS; SIL.; ARN.Complementary: CALC. PHOS.", 
   "symptoms": {
     "Eyes": [
+      "Tarsal cartilage feels bruised", 
       "EYE-STRAIN FOLLOWED BY HEADACHE", 
-      "EYES RED, HOT, AND PAINFUL FROM SEWING OR READING FINE PRINT", 
-      "DISTURBANCES OF ACCOMMODATION", 
+      "Pressure over eyebrow", 
+      "Asthenopia", 
       "Weary pain while reading", 
       "Pressure deep in orbits", 
-      "Tarsal cartilage feels bruised", 
-      "Pressure over eyebrow", 
-      "Asthenopia"
+      "EYES RED, HOT, AND PAINFUL FROM SEWING OR READING FINE PRINT", 
+      "DISTURBANCES OF ACCOMMODATION"
     ], 
     "Respiratory": [
-      "Cough with copious, thick, yellow expectoration; chest feels weak", 
-      "Painful spot on sternum; short breath with tightness of chest"
+      "Painful spot on sternum; short breath with tightness of chest", 
+      "Cough with copious, thick, yellow expectoration; chest feels weak"
     ], 
     "Stomach": [
-      "Gastralgia of aching, gnawing character", 
-      "Urinary Organs", 
       "Pressure in neck of bladder after urinating; painful closure", 
-      "Constant urging to urinate, feels bladder full"
+      "Constant urging to urinate, feels bladder full", 
+      "Urinary Organs", 
+      "Gastralgia of aching, gnawing character"
     ], 
     "Modalities": [
       "Worse: lying down", 
@@ -28,41 +28,41 @@
       "Worse: wet weather"
     ], 
     "Back": [
+      "Lumbago worse morning before rising", 
       "Pain in nape, back and loins", 
-      "Backache better pressure and lying on back", 
-      "Lumbago worse morning before rising"
+      "Backache better pressure and lying on back"
     ], 
     "Head": [
+      "Epistaxis", 
       "Pain as from a nail; after excessive intoxicating drinks", 
-      "Periosteum sore", 
-      "Epistaxis"
+      "Periosteum sore"
     ], 
     "Rectum": [
+      "PROLAPSUS ANI every time the bowels move, after confinement", 
       "DIFFICULT FECES, evacuated only with straining", 
+      "Protrusion of rectum when stooping", 
       "Constipation, alternating with mucous, frothy stools; discharge of blood with stool", 
       "When sitting, tearing stitches in rectum", 
-      "CARCINOMA AFFECTING LOWER BOWEL", 
-      "PROLAPSUS ANI every time the bowels move, after confinement", 
       "Frequent, unsuccessful urging to stool", 
-      "Protrusion of rectum when stooping"
+      "CARCINOMA AFFECTING LOWER BOWEL"
     ], 
     "Extremities": [
-      "Spine and limbs feel bruised", 
-      "Small of back and loins pain", 
-      "Legs give out on rising from a chair, hips and thighs so weak", 
-      "Contraction of fingers", 
+      "Pain in bones of feet and ankles", 
+      "Aching pain in tendo-achilles", 
+      "Great restlessness", 
       "Pain and stiffness in wrists and hands", 
-      "Ganglia", 
+      "Small of back and loins pain", 
+      "THIGHS PAIN WHEN STRETCHING THE LIMBS", 
+      "Legs give out on rising from a chair, hips and thighs so weak", 
       "Sciatica; worse, lying down at night; pain from back down hips and thighs", 
       "Hamstrings feel shortened", 
       "TENDONS SORE", 
-      "Aching pain in tendo-achilles", 
-      "THIGHS PAIN WHEN STRETCHING THE LIMBS", 
-      "Pain in bones of feet and ankles", 
-      "Great restlessness"
+      "Spine and limbs feel bruised", 
+      "Ganglia", 
+      "Contraction of fingers"
     ]
   }, 
-  "details": "Acts upon the periosteum and cartilage, eyes and uterus. Complaints from straining FLEXOR TENDONS especially. Tendency to the formation of deposits in the periosteum, tendons, and about joints, especially wrist. Over strain of ocular muscles. All parts of the body are painful, AS IF BRUISED. Sprains (after ARNICA). Lameness after sprains. Jaundice. FEELING OF INTENSE LASSITUDE, WEAKNESS AND DESPAIR. Injured \"bruised\" bones.", 
+  "details": "Acts upon the periosteum and cartilage, eyes and uterus. Complaints from straining FLEXOR TENDONS especially. Tendency to the formation of deposits in the periosteum, tendons, and about joints, especially wrist. Over strain of ocular muscles. All parts of the body are painful, AS IF BRUISED. Sprains (after ARNICA). Lameness after sprains. Jaundice. FEELING OF INTENSE LASSITUDE, WEAKNESS AND DESPAIR. Injured bruised bones.", 
   "Natural History": [
     "Rue-bitterwort"
   ], 

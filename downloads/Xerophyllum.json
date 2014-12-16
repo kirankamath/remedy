@@ -3,32 +3,32 @@
   "Relationship": "Compare: RHUS; ANACARD.; GRINDELIA.", 
   "symptoms": {
     "Rectum": [
-      "Constipation, stools hard, small lumps", 
-      "Difficult, soft stools, with much straining", 
-      "Much flatus", 
       "Bearing-down pain in rectum", 
-      "Urine Section", 
+      "Constipation, stools hard, small lumps", 
+      "Much flatus", 
       "Difficulty of retaining; dribbling when walking", 
-      "Frequent urination at night"
+      "Urine Section", 
+      "Frequent urination at night", 
+      "Difficult, soft stools, with much straining"
     ], 
     "Eyes": [
-      "Painful, as of sand, smarting; difficult to focus for close work", 
-      "Eyes feel sore, burn"
+      "Eyes feel sore, burn", 
+      "Painful, as of sand, smarting; difficult to focus for close work"
     ], 
     "Respiratory": [
-      "Posterior nares raw; discharge thick, yellow mucus", 
       "Sneezing", 
-      "Trachea sore; lumps feel constricted"
+      "Trachea sore; lumps feel constricted", 
+      "Posterior nares raw; discharge thick, yellow mucus"
     ], 
     "Stomach": [
-      "Feels full and heavy", 
       "Eructations sour; offensive, an hour after luncheons and dinner", 
-      "Vomiting at two PM"
+      "Vomiting at two PM", 
+      "Feels full and heavy"
     ], 
     "Female": [
+      "Increased sexual desire, with ovarian and uterine pains and leucorrhoea", 
       "Bearing-down sensation", 
-      "Vulva inflamed, with furious itching", 
-      "Increased sexual desire, with ovarian and uterine pains and leucorrhoea"
+      "Vulva inflamed, with furious itching"
     ], 
     "Modalities": [
       "Worse: application of cold water", 
@@ -41,10 +41,10 @@
       "Dull, cannot concentrate mind for study; forgets names; WRITES LAST LETTERS OF WORDS FIRST; misspells common words"
     ], 
     "Back": [
-      "Feels hot from sacrum to scapulae", 
       "Backache, extending down legs", 
       "Pain over kidneys", 
-      "Heat deep in spine"
+      "Heat deep in spine", 
+      "Feels hot from sacrum to scapulae"
     ], 
     "Face": [
       "Bloated in morning", 
@@ -54,37 +54,37 @@
       "Stuffed; tightness at bridge of nose; acute nasal catarrh"
     ], 
     "Head": [
-      "Feels full, stuffed up, pain across forehead and above eyes", 
-      "Great pressure at root of nose", 
+      "Pulsating headache", 
       "Bewildered", 
+      "Feels full, stuffed up, pain across forehead and above eyes", 
       "Loss of consciousness", 
-      "Pulsating headache"
+      "Great pressure at root of nose"
     ], 
     "Skin": [
-      "Erythema, with vesication and intense itching, stinging, and burning", 
-      "Blisters, little lumps", 
+      "Inguinal glands and behind knees swollen", 
       "Skin rough and cracked; feels like leather", 
       "Dermatitis, especially around knees", 
+      "Erythema, with vesication and intense itching, stinging, and burning", 
       "Inflammation resembling poison-oak", 
-      "Inguinal glands and behind knees swollen"
+      "Blisters, little lumps"
     ], 
     "Throat": [
       "Stitching pain upon swallowing"
     ], 
     "Abdomen": [
-      "Intestinal flatulence", 
-      "In morning rumbling in bowels, with desire for stool"
+      "In morning rumbling in bowels, with desire for stool", 
+      "Intestinal flatulence"
     ], 
     "Extremities": [
-      "Muscular lameness, trembling", 
       "Pain in knees", 
+      "Muscular lameness, trembling", 
       "Limbs feel stiff"
     ]
   }, 
-  "details": "Should prove curative in eczematous conditions, poison-oak, early typhoid states, etc.Dysmenorrhoea and skin symptoms.", 
+  "details": "Dysmenorrhoea and skin symptoms.Should prove curative in eczematous conditions, poison-oak, early typhoid states, etc.", 
   "Natural History": [
-    "Tamalpais Lily", 
-    "Basket Grass Flower"
+    "Basket Grass Flower", 
+    "Tamalpais Lily"
   ], 
   "dosage": "Sixth potency or higher."
 }

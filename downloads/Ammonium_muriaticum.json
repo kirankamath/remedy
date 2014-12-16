@@ -3,50 +3,50 @@
   "Relationship": "Antidotes: Coffea; Nux; Caust.", 
   "symptoms": {
     "Rectum": [
-      "Itching and hemorrhoids, soreness with pustules", 
       "Hard, CRUMBLY stool, or covered with glairy mucus", 
-      "Stinging in perinaeum", 
-      "Green mucus stools alternate with constipation", 
       "During and after stool, burning and smarting in rectum", 
-      "Hemorrhoids after suppressed leucorrhoea"
+      "Itching and hemorrhoids, soreness with pustules", 
+      "Hemorrhoids after suppressed leucorrhoea", 
+      "Stinging in perinaeum", 
+      "Green mucus stools alternate with constipation"
     ], 
     "Eyes": [
       "Mist before eyes, optical illusions in incipient cataract; capsular cataract"
     ], 
     "Respiratory": [
+      "Burning at small spots in chest", 
       "HOARSENESS AND BURNING IN LARYNX", 
+      "Oppression of chest", 
+      "Cough loose in afternoon, with profuse expectoration and rattling of mucus", 
       "Dry, hacking, scraping cough; worse lying on back or right side", 
       "Stitches in chest", 
-      "Cough loose in afternoon, with profuse expectoration and rattling of mucus", 
-      "Oppression of chest", 
-      "Burning at small spots in chest", 
       "Scanty secretion", 
       "Cough with profuse salivation"
     ], 
     "Stomach": [
       "Thirst for lemonade, regurgitation of food, bitter water brash", 
-      "Nausea", 
       "Gnawing in stomach", 
+      "Cancer of stomach", 
       "Epigastric pain immediately after eating", 
-      "Cancer of stomach"
+      "Nausea"
     ], 
     "Female": [
       "Menses too early, too free, dark, clotted; FLOW MORE AT NIGHT", 
-      "Pain as if sprained in left side of abdomen during pregnancy", 
       "Diarrhoea, greenish mucous stools, and navel pain DURING MENSES", 
+      "Pain as if sprained in left side of abdomen during pregnancy", 
       "Leucorrhoea, like white of an egg ; with pain about the navel; brown, slimy AFTER EVERY URINATION"
     ], 
     "Modalities": [
       "Worse: head and chest symptoms in the morning; abdominal symptoms in the afternoon"
     ], 
     "Mind": [
+      "Consequences of grief", 
       "Melancholy, apprehensive; like from internal grief", 
-      "DESIRE TO CRY, but cannot", 
-      "Consequences of grief"
+      "DESIRE TO CRY, but cannot"
     ], 
     "Back": [
-      "ICY COLD BETWEEN SHOULDERS; not relieved by warm covering, followed by itching", 
       "Bruised pain in coccyx when sitting", 
+      "ICY COLD BETWEEN SHOULDERS; not relieved by warm covering, followed by itching", 
       "Backache, as if in a vise when sitting"
     ], 
     "Face": [
@@ -55,59 +55,59 @@
     ], 
     "Fever": [
       "CHILLINESS EVENINGS AFTER LYING DOWN and on awakening, without thirst", 
-      "Heat in palms and soles", 
       "Sub acute, low fevers due to unhealthy climate", 
-      "Lowest potencies"
+      "Lowest potencies", 
+      "Heat in palms and soles"
     ], 
     "Nose": [
-      "Free ACRID, HOT WATERY DISCHARGE corroding the lip", 
-      "Sneezing", 
-      "Nose sore to touch; ulcerative pain in nostrils", 
-      "LOSS OF SMELL", 
       "OBSTRUCTED, STUFFY FEELING; constant and unavailing efforts to blow it out", 
-      "Itching"
+      "Free ACRID, HOT WATERY DISCHARGE corroding the lip", 
+      "Itching", 
+      "Sneezing", 
+      "LOSS OF SMELL", 
+      "Nose sore to touch; ulcerative pain in nostrils"
     ], 
     "Head": [
-      "Hair falls out, with itchiness and dandruff", 
-      "Feels full, compressed; worse mornings"
+      "Feels full, compressed; worse mornings", 
+      "Hair falls out, with itchiness and dandruff"
     ], 
     "Skin": [
-      "Itching, generally evenings", 
       "Blisters on various parts", 
-      "Intense burning better cold applications"
+      "Intense burning better cold applications", 
+      "Itching, generally evenings"
     ], 
     "Throat": [
-      "Throbbing in, and swelling of tonsils, can scarcely swallow", 
       "Sore spot behind uvula, relieved by eating", 
       "Internal and external swelling of throat with VISCID PHLEGM", 
       "So tough, it cannot be hawked up", 
-      "TONSILLITIS", 
-      "Stricture of oesophagus"
+      "Throbbing in, and swelling of tonsils, can scarcely swallow", 
+      "Stricture of oesophagus", 
+      "TONSILLITIS"
     ], 
     "Abdomen": [
+      "Much flatus", 
+      "Chronic congestion of liver", 
       "Splenic stitches, especially in the morning, with difficult breathing", 
       "Pain around navel", 
       "Abdominal symptoms appear during pregnancy", 
-      "Chronic congestion of liver", 
-      "Excessive fatty deposit around abdomen", 
-      "Much flatus", 
-      "Strained feeling in groin"
+      "Strained feeling in groin", 
+      "Excessive fatty deposit around abdomen"
     ], 
     "Extremities": [
-      "Pain as from ulceration in finger tips", 
       "Shooting and tearing IN TIPS OF FINGERS AND TOES", 
-      "Ulcerative pain in heels", 
+      "Pain in feet during menses", 
       "CONTRACTION OF HAMSTRING TENDONS", 
-      "Sciatica, WORSE SITTING, BETTER LYING", 
-      "Neuralgic pain in amputated limbs", 
+      "Pain as from ulceration in finger tips", 
       "Offensive sweaty feet", 
-      "Pain in feet during menses"
+      "Ulcerative pain in heels", 
+      "Sciatica, WORSE SITTING, BETTER LYING", 
+      "Neuralgic pain in amputated limbs"
     ]
   }, 
-  "details": "A state of prostration bordering on a typhoid state is produced by this remedy. All mucous secretions are increased and retained. It is especially adapted to fat and sluggish patients who have respiratory troubles. Coughs associated with catarrhs and affections of liver. A tendency to irregular circulation, blood seems to be in constant turmoil, pulsations, etc. Many groups of symptoms are accompanied by cough, PROFUSE GLAIRY SECRETIONS. Its periods of aggravations are peculiarly divided as to the bodily region affected; thus the head and chest symptoms are worse mornings, the abdominal in the afternoon, the pains in the limbs, the skin and febrile symptoms, in the evenings. \"Boiling\" sensation.", 
+  "details": "A state of prostration bordering on a typhoid state is produced by this remedy. All mucous secretions are increased and retained. It is especially adapted to fat and sluggish patients who have respiratory troubles. Coughs associated with catarrhs and affections of liver. A tendency to irregular circulation, blood seems to be in constant turmoil, pulsations, etc. Many groups of symptoms are accompanied by cough, PROFUSE GLAIRY SECRETIONS. Its periods of aggravations are peculiarly divided as to the bodily region affected; thus the head and chest symptoms are worse mornings, the abdominal in the afternoon, the pains in the limbs, the skin and febrile symptoms, in the evenings. Boiling sensation.", 
   "Natural History": [
-    "Sal", 
-    "Ammoniac"
+    "Ammoniac", 
+    "Sal"
   ], 
   "dosage": "Third to sixth potency."
 }

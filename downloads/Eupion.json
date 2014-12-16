@@ -1,4 +1,37 @@
 {
-  "symptoms": {}, 
-  "name": "Eupion"
+  "name": "Eupion", 
+  "Relationship": "Kreosote.; Graph.; Lach.", 
+  "symptoms": {
+    "Head": [
+      "Heat at vertex; stitches from vertex down limbs into abdomen and genitals", 
+      "Painful pulsation in forehead", 
+      "Vertigo; everything turns round on sitting up in bed", 
+      "Sore painful spots on head"
+    ], 
+    "Back": [
+      "Sacrum pains, as if broken", 
+      "Severe backache; must lean against something for support", 
+      "Pains extended into pelvis"
+    ], 
+    "Female": [
+      "During menses, irritable and disinclined to talk; burning and stitches in chest and heart", 
+      "When pain in back ceases, the discharge gushes out", 
+      "Uterine flexions", 
+      "BURNING IN RIGHT OVARY", 
+      "After menses, yellow LEUCORRHOEA, WITH SEVER BACKACHE", 
+      "Pruritus pudendi; labia swollen", 
+      "Sore pain between labia during urination", 
+      "Chronic tubal disease", 
+      "Menses too early and copious", 
+      "GUSHING LEUCORRHOEA"
+    ], 
+    "Extremities": [
+      "CRAMPS IN THE CALVES; worse at night"
+    ]
+  }, 
+  "details": "Marked female symptoms, and backache. A remedy for UTERINE DISPLACEMENTS. Pain in back, followed by a bland leucorrhoea. Menses too early and copious; flow thin. INTENSE SWEAT FROM SLIGHTEST EXERTION. Disgusting dreams. Sensation as if whole body were made of jelly.", 
+  "Natural History": [
+    "Wood-tar distillation"
+  ], 
+  "dosage": "Third potency."
 }

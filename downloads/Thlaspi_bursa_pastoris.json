@@ -3,36 +3,36 @@
   "Relationship": "Compare: URTICA; CROC.; TRILL.; MILLEFOL.", 
   "symptoms": {
     "Head": [
-      "Eyes and face puffy", 
       "Frequent epistaxis", 
+      "Sharp pain over right eye drawing eye upwards", 
       "Vertigo; worse, rising", 
-      "Frontal pain; worse toward evening", 
-      "Scaly eruption behind ears", 
       "Tongue white, coated", 
+      "Eyes and face puffy", 
+      "Frontal pain; worse toward evening", 
       "Mouth and lips cracked", 
-      "Sharp pain over right eye drawing eye upwards"
+      "Scaly eruption behind ears"
     ], 
     "Nose": [
       "Bleeding in nasal operations", 
       "Especially passive hemorrhage"
     ], 
     "Female": [
-      "Metrorrhagia; too frequent and copious menses", 
       "Hemorrhage, with violent uterine colic", 
-      "Every alternate period very profuse", 
       "Leucorrhoea before and after menses; bloody, dark, offensive; STAINS INDELIBLY", 
-      "SORE PAIN IN WOMB ON RISING", 
-      "Scarcely recovers from one period before another begins", 
-      "Urinary Organs", 
-      "Frequent desire; urine HEAVY, phosphatic", 
-      "Chronic cystitis", 
-      "Dysuria and spasmodic retention", 
-      "Hematuria", 
+      "Every alternate period very profuse", 
       "Accumulation of gravel", 
+      "Often replaces the use of the catheter", 
+      "Frequent desire; urine HEAVY, phosphatic", 
+      "Dysuria and spasmodic retention", 
       "Renal colic", 
-      "BRICK-DUST SEDIMENT", 
+      "Scarcely recovers from one period before another begins", 
       "Urethritis; urine runs away in little jets", 
-      "Often replaces the use of the catheter"
+      "SORE PAIN IN WOMB ON RISING", 
+      "Chronic cystitis", 
+      "BRICK-DUST SEDIMENT", 
+      "Hematuria", 
+      "Urinary Organs", 
+      "Metrorrhagia; too frequent and copious menses"
     ], 
     "Male": [
       "Spermatic cord sensitive to concussion of walking or riding"
@@ -40,7 +40,7 @@
   }, 
   "details": "Is an anti-hemorrhagic and anti-uric acid remedy. Albuminuria during gestation. Chronic neuralgia. Renal and vesical irritation. Hemorrhage from uterine fibroid with aching in back or general bruised soreness. Aching between scapulae. Uterine hemorrhage, with cramps and expulsion of clots. Craves buttermilk. Effects of suppressed uterine disease. (Burnett.)", 
   "Natural History": [
-    "CapsellaShepherd's Purse"
+    "Shepherd's PurseCapsella"
   ], 
   "dosage": "Tincture, to sixth potency."
 }

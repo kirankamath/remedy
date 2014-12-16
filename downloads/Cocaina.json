@@ -3,40 +3,41 @@
   "Relationship": "Compare: STOVAIN (an analgesic, a vasomotor dilator.) Antidote to disagreeable effects occasionally resulting from injection of cocaine into skin or gums, drop doses of nitro-glycer. 1% sol.", 
   "symptoms": {
     "Eyes": [
-      "Glaucoma, increased tension, decreased corneal sensibility", 
-      "Eyes staring, expressionless"
+      "Eyes staring, expressionless", 
+      "Glaucoma, increased tension, decreased corneal sensibility"
     ], 
     "Fever": [
       "Coldness with intense pallor"
     ], 
     "Stomach": [
-      "Loss of appetite for solid food", 
-      "LIKES SWEETS", 
       "HEMORRHAGES from bowels, stomach", 
-      "Nervous System", 
-      "Chorea; paralysis agitans; alcoholic tremors and senile trembling", 
+      "LIKES SWEETS", 
       "Local sensory paralysis", 
+      "Loss of appetite for solid food", 
+      "Chorea; paralysis agitans; alcoholic tremors and senile trembling", 
       "Formication and numbness in hands and forearms", 
-      "Sleep", 
-      "Restless, cannot sleep for hours after retiring"
+      "Nervous System"
     ], 
     "Mind": [
-      "Talkative", 
-      "Constant desire to do something great, TO UNDERTAKE VAST FEATS OF STRENGTH", 
-      "Cerebral activity", 
-      "Frightful persecutory hallucinations; SEES AND FEELS BUGS AND WORMS", 
-      "MORAL SENSE BLUNTED", 
-      "Personal appearance neglected", 
       "Thinks he hears unpleasant remarks about himself", 
-      "Hallucinations of hearing", 
       "Irrational JEALOUSY", 
-      "Insomnia"
+      "Constant desire to do something great, TO UNDERTAKE VAST FEATS OF STRENGTH", 
+      "Insomnia", 
+      "Frightful persecutory hallucinations; SEES AND FEELS BUGS AND WORMS", 
+      "Cerebral activity", 
+      "Hallucinations of hearing", 
+      "Personal appearance neglected", 
+      "MORAL SENSE BLUNTED", 
+      "Talkative"
     ], 
     "Head": [
       "Throbbing and bursting sensation", 
+      "Roaring and noises in head", 
       "PUPILS DILATED", 
-      "Hearing greatly increased", 
-      "Roaring and noises in head"
+      "Hearing greatly increased"
+    ], 
+    "Sleep": [
+      "Restless, cannot sleep for hours after retiring"
     ], 
     "Throat": [
       "Dry, burning, tickling, constricted, paralysis of muscles of deglutition", 

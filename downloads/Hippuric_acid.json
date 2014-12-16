@@ -7,8 +7,8 @@
       "Eyelids inflamed and swollen"
     ], 
     "Stomach": [
-      "Acid rising", 
       "Lump in pit of stomach", 
+      "Acid rising", 
       "Soreness and pressure over liver"
     ], 
     "Female": [
@@ -22,17 +22,17 @@
       "Sore, raw, dry, swallowing difficult, foul odor, gummy exudate; thickness and infiltration of all tissues around throat"
     ], 
     "Extremities": [
+      "Pain in middle of thigh posteriorly shooting down right leg", 
       "Backache extending down hips", 
       "Pain in shoulders and extremities and sore swollen joints", 
-      "Pain in middle of thigh posteriorly shooting down right leg", 
       "Tired, grating sensation in the joints"
     ]
   }, 
   "details": "Its chief action is on the external tissues of the eyes and nasopharynx, joint surfaces, liver and mucous membranes. Right side especially affected, general muscular soreness.", 
   "Natural History": [
     "Proved by Dr", 
-    "W", 
     "B", 
+    "W", 
     "Griggs"
   ], 
   "dosage": "Lower potencies."

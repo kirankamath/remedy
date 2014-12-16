@@ -3,17 +3,17 @@
   "Relationship": "Compare: ARS.; LACH.; LEONURUS - MOTHER-WORT (Influences pelvic organs, allays spasm and nervous irritability, promotes secretion and reduces febrile excitement. Valuable in suppressed menses and LOCHIA; dysentery; vomiting, frightful pains in abdomen, violent thirst. Tongue dry and cracked). MONSONIA - An African plant belonging to the Geraniaceae - (Used for dysentery in material doses).Antidote: CALCIUM SULPHIDE is antidotal to Bichloride poisoning. Use intravenous injection of 7 1/2 grains in 7 1/2 oz. boiled water.", 
   "symptoms": {
     "Eyes": [
-      "Pain behind eyeballs, as if forced out", 
-      "Phlyctenulae; deep ulcers on cornea", 
-      "Excessive photophobia and ACRID LACHRYMATION", 
+      "Retinitis albuminuric, ophthalmia neonatorum", 
       "IRITIS, ordinary or syphilitic", 
-      "Pain severe at night; burning, shooting, tearing", 
       "Little tendency to pus formation", 
       "IRIS MUDDY IN COLOR, THICK, AND NEITHER CONTRACTS NOR DILATES", 
-      "Retinitis albuminuric, ophthalmia neonatorum", 
-      "LIDS ODEMATOUS, red, excoriated", 
+      "Pain behind eyeballs, as if forced out", 
       "SEVERE BURNING", 
-      "SORENESS OF THE EYES"
+      "Excessive photophobia and ACRID LACHRYMATION", 
+      "Pain severe at night; burning, shooting, tearing", 
+      "SORENESS OF THE EYES", 
+      "Phlyctenulae; deep ulcers on cornea", 
+      "LIDS ODEMATOUS, red, excoriated"
     ], 
     "Fever": [
       "Chilly from slightest exposure", 
@@ -30,71 +30,71 @@
       "Better: while at rest"
     ], 
     "Stool": [
-      "Dysentery; tenesmus, not relieved by stool; incessant", 
-      "Stool hot, bloody, slimy, offensive, with cutting pains and shreds of mucous membranes"
+      "Stool hot, bloody, slimy, offensive, with cutting pains and shreds of mucous membranes", 
+      "Dysentery; tenesmus, not relieved by stool; incessant"
     ], 
     "Abdomen": [
       "Bruised sensation; caecal region and transverse colon painful", 
       "Bloated; very painful to least touch"
     ], 
     "Face": [
-      "Swollen", 
-      "Red, puffy", 
       "Lips black, swollen", 
+      "Red, puffy", 
+      "Facial neuralgia within the bones", 
       "Sordes", 
-      "Facial neuralgia within the bones"
+      "Swollen"
     ], 
     "Respiratory": [
-      "Pain in larynx as cut with knife", 
-      "Aphonia", 
       "Cough, with bloody expectoration", 
-      "Pulse rapid and intermittent", 
-      "Stitches through side of chest", 
-      "Urine Section", 
-      "Intense burning in urethra", 
-      "Urine hot, burning, scanty or SUPPRESSED; bloody, GREENISH DISCHARGE", 
-      "ALBUMINOUS", 
-      "TENESMUS OF BLADDER", 
       "Stabbing pain extending up urethra into bladder", 
-      "Perspiration after urinating"
+      "Pain in larynx as cut with knife", 
+      "Stitches through side of chest", 
+      "Perspiration after urinating", 
+      "Pulse rapid and intermittent", 
+      "Aphonia", 
+      "ALBUMINOUS", 
+      "Intense burning in urethra", 
+      "TENESMUS OF BLADDER", 
+      "Urine hot, burning, scanty or SUPPRESSED; bloody, GREENISH DISCHARGE", 
+      "Urine Section"
     ], 
     "Mouth": [
-      "Teeth loose", 
-      "Gums purple, swollen, and spongy", 
       "Tongue swollen and inflamed", 
-      "Salivation", 
+      "Gums purple, swollen, and spongy", 
       "Pyorrhoea", 
       "Ptyalism", 
-      "Taste salty and bitter"
+      "Taste salty and bitter", 
+      "Teeth loose", 
+      "Salivation"
     ], 
     "Nose": [
-      "Excessive coryza", 
       "Ozaena, with perforation of septum nasi", 
+      "Excessive coryza", 
       "Rawness and smarting in nostrils", 
       "Post-nasal swelling, mucous membrane dry, red, and covered with bloody mucus"
     ], 
     "Head": [
       "Delirium, stupor", 
-      "Frontal pain, congestion of head, with burning in cheeks", 
-      "Drawing pain in periosteum of skull"
+      "Drawing pain in periosteum of skull", 
+      "Frontal pain, congestion of head, with burning in cheeks"
     ], 
     "Throat": [
       "RED, SWOLLEN, PAINFUL, INTENSELY INFLAMED", 
+      "BURNING PAIN, WITH GREAT SWELLING; WORSE, SLIGHT EXTERNAL PRESSURE", 
       "UVULA SWOLLEN", 
       "SWALLOWING PAINFUL", 
       "Most pain is POST-NASAL WITH SHARP PAINS TO EARS", 
-      "BURNING PAIN, WITH GREAT SWELLING; WORSE, SLIGHT EXTERNAL PRESSURE", 
       "All glands about thorax swollen"
     ], 
     "Male": [
       "Penis and testes enormously swollen", 
-      "Chancres assume phagedenic appearance", 
       "GONORRHOEA; urethra orifice red, swollen; glans sore and hot", 
+      "Chancres assume phagedenic appearance", 
       "Discharge greenish, thick"
     ], 
     "Ears": [
-      "Violent pulsations", 
-      "Fetid pus"
+      "Fetid pus", 
+      "Violent pulsations"
     ]
   }, 
   "details": "This salt leads all other remedies in tenesmus of the rectum, which is incessant, and is not relieved by the stool. The tenesmus often involves the bladder as well. Bright's disease. Gonorrhea; second stage, with continuous tenesmus. Destroys the secreting portions of the kidneys. This process is slow, but sure. Albuminuria in early pregnancy. (PHOSPH. later and at full term).", 

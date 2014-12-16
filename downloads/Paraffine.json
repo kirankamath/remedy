@@ -3,51 +3,51 @@
   "Relationship": "Compare: NAPHTHALIN; PETROL.; KREOS.; EUPION.", 
   "symptoms": {
     "Eyes": [
-      "Vision dim; black specks before", 
+      "Sensation as if there were fat on the eyes", 
       "Lids red", 
-      "Sensation as if there were fat on the eyes"
+      "Vision dim; black specks before"
     ], 
     "Stomach": [
-      "Hungry all the time", 
-      "Pain across stomach", 
       "Pain in stomach alternates with pain in throat and spine, extends to chest with belching", 
       "Fixed pain in left hypochondrium, as if parts were being twisted", 
-      "Palpitation with stomach pains"
+      "Palpitation with stomach pains", 
+      "Hungry all the time", 
+      "Pain across stomach"
     ], 
     "Head": [
       "Left side of head and face suffer most; pains stinging and twisting", 
-      "Pain as if a nail were driven in left side of vertex", 
-      "Twisting in left ear"
+      "Twisting in left ear", 
+      "Pain as if a nail were driven in left side of vertex"
     ], 
     "Abdomen": [
       "Pain in lower abdomen, extending to genitals, rectum and coccyx; better, sitting"
     ], 
     "Mouth": [
-      "Tearing, twisting pain in teeth down to lower jaw", 
-      "Full of saliva; feels sticky; bitter taste"
+      "Full of saliva; feels sticky; bitter taste", 
+      "Tearing, twisting pain in teeth down to lower jaw"
     ], 
     "Female": [
-      "Menses too late, black, abundant", 
-      "Milky leucorrhoea", 
-      "Nipples pain when touched, as if sore inside", 
       "Stabbing pain in mons veneries", 
-      "Very hot urine with burning pains in vulva"
+      "Menses too late, black, abundant", 
+      "Nipples pain when touched, as if sore inside", 
+      "Very hot urine with burning pains in vulva", 
+      "Milky leucorrhoea"
     ], 
     "Skin": [
+      "Useful also in frost bites", 
       "Burns, even of third degree, with sloughing and sepsis", 
-      "Wash with sterile water and dry and spray with paraffine, and cover with thin layer of cotton", 
-      "Useful also in frost bites"
+      "Wash with sterile water and dry and spray with paraffine, and cover with thin layer of cotton"
     ], 
     "Rectum": [
-      "Frequent desire for stool", 
       "OBSTINATE CONSTIPATION IN CHILDREN", 
-      "Chronic constipation, with hemorrhoids and continual urging to stool, without result"
+      "Chronic constipation, with hemorrhoids and continual urging to stool, without result", 
+      "Frequent desire for stool"
     ], 
     "Extremities": [
       "Pain in spine extending to inguinal region and in both loins, when ascending the stairs", 
-      "Feeling of electric shocks in all joints", 
+      "Feet swollen with tearing in ankles and soles", 
       "Wrenching pain in calves, extending into toes, in joints", 
-      "Feet swollen with tearing in ankles and soles"
+      "Feeling of electric shocks in all joints"
     ]
   }, 
   "details": "Valuable in uterine affections. Particularly serviceable, in constipation. Knife-like pains. Pains extend from one part to another, and alternate. Pain in stomach alternates with pain in throat and spine.", 

@@ -3,36 +3,37 @@
   "Relationship": "Compare: HYDROCY-AC.; CAMPHOR; SECALE; AMMON. CARB.; AMBRA.", 
   "symptoms": {
     "Heart": [
-      "Mitral regurgitation", 
-      "Clutching at heart and palpitation", 
       "Cyanosis neonatorum", 
-      "Sleep", 
-      "Spells of deep sleep, with snoring and stertorous breathing"
+      "Mitral regurgitation", 
+      "Clutching at heart and palpitation"
     ], 
     "Fever": [
-      "Coldness; chills and heat alternate", 
-      "Thirst, with dry mouth in afternoon"
+      "Thirst, with dry mouth in afternoon", 
+      "Coldness; chills and heat alternate"
     ], 
     "Respiratory": [
-      "Cyanosis and dyspnoea; worse, sitting up", 
-      "Patient puts hands on heart", 
-      "Cough, with valvular disease", 
-      "Exercise causes pain around heart", 
-      "Tickling, DRY COUGH", 
+      "Cough, with copious, jelly-like, or bloody expectoration", 
       "Dyspnoea", 
       "Constriction of chest", 
-      "Cough, with copious, jelly-like, or bloody expectoration", 
-      "Small and feeble pulse", 
       "Threatening paralysis of lungs", 
-      "GASPING FOR BREATH; clutches at heart"
+      "Small and feeble pulse", 
+      "Tickling, DRY COUGH", 
+      "Exercise causes pain around heart", 
+      "GASPING FOR BREATH; clutches at heart", 
+      "Patient puts hands on heart", 
+      "Cyanosis and dyspnoea; worse, sitting up", 
+      "Cough, with valvular disease"
+    ], 
+    "Sleep": [
+      "Spells of deep sleep, with snoring and stertorous breathing"
     ], 
     "Extremities": [
-      "Toe and finger nails become knotty", 
-      "Skin blue", 
-      "Sprained pains in hips, thighs and heels", 
-      "Cold, clammy feet and legs", 
       "Clubbing of fingers", 
-      "Veins of hands distended"
+      "Cold, clammy feet and legs", 
+      "Sprained pains in hips, thighs and heels", 
+      "Toe and finger nails become knotty", 
+      "Veins of hands distended", 
+      "Skin blue"
     ]
   }, 
   "details": "Spasmodic tickling cough, especially in cardiac patients, is often magically influenced by this drug. LACK OF REACTION, especially in chest and heart affections. DRINK ROLLS AUDIBLY THROUGH ESOPHAGUS AND INTESTINES. General coldness, not ameliorated by warmth. Violent pain in stomach with loss of speech. Spasm of facial muscles and oesophagus. Asphyxia neonatorum.", 

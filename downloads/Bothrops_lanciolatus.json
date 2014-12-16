@@ -1,6 +1,6 @@
 {
   "Natural History": [
-    "Lachesis LanciolatusYellow Viper"
+    "Yellow ViperLachesis Lanciolatus"
   ], 
   "symptoms": {
     "Eyes": [
@@ -9,10 +9,10 @@
       "Day-blindness; can scarcely see after sunrise;"
     ], 
     "Stomach": [
+      "Tympanitis and bloody stools", 
       "Epigastric distress", 
       "Black vomiting", 
-      "Intense haematemisis", 
-      "Tympanitis and bloody stools"
+      "Intense haematemisis"
     ], 
     "Modalities": [], 
     "Face": [
@@ -22,9 +22,9 @@
     "Skin": [
       "Swollen, livid, cold with hemorrhagic infiltration", 
       "Gangrene", 
+      "Malignant erysipelas", 
       "Lymphatics swollen", 
-      "Anthrax", 
-      "Malignant erysipelas"
+      "Anthrax"
     ], 
     "Throat": [
       "Red, dry, constricted; swallowing difficult, cannot pass liquids"
@@ -33,5 +33,5 @@
   }, 
   "name": "Bothrops lanciolatus", 
   "Relationship": "Compare: Toxicophis. Mocassin Snake (pain and fever recur annually, after bite from this snake, and sometimes change location with disappearance of first symptoms, An unusual dryness of skin follows the bite. Oedematous swellings and periodical neuralgia. Pain travels from one part to another.) Other snake poisons, notably Lachesis.; Trachinus, - Sting fish (intolerable pains, swelling acute blood poisoning, gangrene).", 
-  "details": "Its venom is most coagulating, (also Lachesis). We should expect to find under these remedies the symptomatology of thrombosis, also thrombotic phenomena, as hemiplegia, aphasia, inability to articulate. (Linn J. Boyd.)Broken-down, hemorrhagic constitutions; septic states. Great lassitude and sluggishness; Hemorrhages from every orifice of the body; black spots. Hemiplegia with aphasia. Inability to articulate, without any affection of the tongue. Nervous trembling. Pain in right big toe. Diagonal course of symptoms. Pulmonary congestion."
+  "details": "Broken-down, hemorrhagic constitutions; septic states. Great lassitude and sluggishness; Hemorrhages from every orifice of the body; black spots. Hemiplegia with aphasia. Inability to articulate, without any affection of the tongue. Nervous trembling. Pain in right big toe. Diagonal course of symptoms. Pulmonary congestion.Its venom is most coagulating, (also Lachesis). We should expect to find under these remedies the symptomatology of thrombosis, also thrombotic phenomena, as hemiplegia, aphasia, inability to articulate. (Linn J. Boyd.)"
 }

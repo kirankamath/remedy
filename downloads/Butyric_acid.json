@@ -5,17 +5,17 @@
   "symptoms": {
     "Head": [
       "Worries over trifles; impulsive thoughts of suicide; constant state of fear and nervousness", 
-      "Headache makes him apprehensive about trifles; worse going upstairs or rapid motion", 
-      "Dull, hazy ache of head"
+      "Dull, hazy ache of head", 
+      "Headache makes him apprehensive about trifles; worse going upstairs or rapid motion"
     ], 
     "Stomach": [
+      "Cramps in pit of stomach, worse at night", 
+      "Cramp in abdomen below umbilicus", 
       "Poor appetite", 
       "Much gas in stomach and bowels", 
-      "Cramps in pit of stomach, worse at night", 
       "Stomach feels heavy and overloaded", 
-      "Cramp in abdomen below umbilicus", 
-      "Bowels irregular", 
-      "Stool accompanied by pain and straining"
+      "Stool accompanied by pain and straining", 
+      "Bowels irregular"
     ], 
     "Modalities": [
       "Worse: at night", 
@@ -23,16 +23,17 @@
       "Worse: going upstairs"
     ], 
     "Back": [
-      "Tired feeling and dull pain in small of back, worse walking", 
-      "Pain in ankles and up back of leg", 
       "Pain low down in back and extremities", 
-      "Sleep", 
+      "Tired feeling and dull pain in small of back, worse walking", 
+      "Pain in ankles and up back of leg"
+    ], 
+    "Sleep": [
       "Pronounced sleeplessness; dreams of serious nature while asleep"
     ], 
     "Skin": [
-      "Perspiration on slight exertion", 
+      "Crumbling away of finger-nails", 
       "PROFUSE, OFFENSIVE SWEAT OF FEET", 
-      "Crumbling away of finger-nails"
+      "Perspiration on slight exertion"
     ]
   }, 
   "name": "Butyric acid", 

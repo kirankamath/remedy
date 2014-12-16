@@ -5,22 +5,22 @@
   "details": "Acts on gastric organs as a tonic. (GENTIAN; HYDR.) Seems to possess marked action on eyes, producing amblyopia and cataract. Pain in right intercostal muscles above the liver. Pressure and stitches in liver, and sympathetically in spleen.", 
   "symptoms": {
     "Extremities": [
-      "Inclination to yawn and stretch", 
-      "Sensation of coldness over back", 
       "Prostration, with hunger", 
-      "Cold extremities, with sensation of internal coldness"
+      "Inclination to yawn and stretch", 
+      "Cold extremities, with sensation of internal coldness", 
+      "Sensation of coldness over back"
     ], 
     "Stomach": [
-      "Atonic dyspepsia, with gas and acidity", 
+      "Dyspepsia after infectious diseases; especially grip, dysentery", 
+      "Cirrhosis of liver with ascites", 
       "Heartburn and gastralgia", 
       "Regurgitation of food", 
-      "Abdomen feels empty and retracted", 
-      "Dyspepsia after infectious diseases; especially grip, dysentery", 
       "Tongue dry or with brown sticky coating", 
-      "Cirrhosis of liver with ascites", 
-      "Urinary Organs", 
+      "Abdomen feels empty and retracted", 
       "Excessive desire - impossible to retain urine; copious micturition day and night", 
-      "As soon as the child wakes up the bed is drenched"
+      "As soon as the child wakes up the bed is drenched", 
+      "Urinary Organs", 
+      "Atonic dyspepsia, with gas and acidity"
     ]
   }, 
   "name": "Quassia", 

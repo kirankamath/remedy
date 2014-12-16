@@ -4,23 +4,23 @@
   ], 
   "symptoms": {
     "Eyes": [
+      "Eyes feel cold", 
       "OBJECTS LOOK SMALLER THAN THEY ARE", 
       "Twitching of lids", 
-      "Eyes feel cold", 
       "Cramp-like pain in orbits"
     ], 
     "Stomach": [
       "Fermentation, much flatulence; CONSTRICTION; RAVENOUS hunger; persistent nausea, with anxiety and weakness"
     ], 
     "Female": [
-      "Parts hypersensitive", 
       "Tingling internally and externally", 
+      "Excessive sexual development; vaginismus", 
       "Ovaries sensitive and burn", 
       "Menses too early, too profuse, DARK-CLOTTED, with spasms and painful bearing-down, chilliness, and sensitiveness of parts", 
       "Vaginismus", 
       "Nymphomania", 
-      "Excessive sexual development; vaginismus", 
       "Pruritus vulvae", 
+      "Parts hypersensitive", 
       "Ovaritis with sterility", 
       "Abnormal sexual appetite and melancholia"
     ], 
@@ -29,44 +29,45 @@
       "Better: walking"
     ], 
     "Mind": [
-      "Irresistible impulse to kill", 
-      "Self-exaltation; CONTEMPT FOR OTHERS", 
-      "Arrogant, proud", 
-      "Weary of everything", 
       "Everything seems changed", 
-      "Mental troubles, associated with suppressed menses", 
-      "Physical symptoms disappear as mental symptoms develop"
+      "Self-exaltation; CONTEMPT FOR OTHERS", 
+      "Weary of everything", 
+      "Arrogant, proud", 
+      "Irresistible impulse to kill", 
+      "Physical symptoms disappear as mental symptoms develop", 
+      "Mental troubles, associated with suppressed menses"
     ], 
     "Stool": [
-      "Retarded; faeces scanty; evacuated with difficulty", 
+      "Stool as if burnt", 
       "Adheres to rectum, like soft clay", 
+      "Retarded; faeces scanty; evacuated with difficulty", 
       "STICKY STOOL", 
-      "Constipation of travelers, who are constantly changing food and water", 
-      "Stool as if burnt"
+      "Constipation of travelers, who are constantly changing food and water"
     ], 
     "Abdomen": [
-      "Painter's colic", 
+      "Pressing and bearing down in abdomen, extending into pelvis", 
       "Pain in umbilical region; extending through to back", 
-      "Pressing and bearing down in abdomen, extending into pelvis"
+      "Painter's colic"
     ], 
     "Face": [
       "Prosopalgia, with numb feeling in malar bones, as if the parts were between screws", 
-      "Pain at root of nose, as if squeezed in a vise", 
       "COLDNESS, CREEPING, AND NUMBNESS, in whole right side of face", 
-      "Pains increase and decrease gradually"
+      "Pains increase and decrease gradually", 
+      "Pain at root of nose, as if squeezed in a vise"
+    ], 
+    "Sleep": [
+      "Sleeps with legs far apart"
     ], 
     "Head": [
-      "Tense, pressing pain, confined to a small spot", 
       "CRAMP-LIKE, SQUEEZING PAIN", 
+      "Tense, pressing pain, confined to a small spot", 
       "Constriction about forehead and right temples", 
       "NUMBNESS, WITH HEADACHE"
     ], 
     "Extremities": [
       "Tightness of thighs, as if too tightly wrapped", 
-      "Numb and weary sensation", 
       "Feel paralyzed", 
-      "Sleep", 
-      "Sleeps with legs far apart"
+      "Numb and weary sensation"
     ], 
     "dosage": "", 
     "Ears": [
@@ -76,6 +77,6 @@
     ]
   }, 
   "name": "Platina", 
-  "Relationship": "Compare: RHODIUM; STANN.; VALER.; SEP. Compare, also: PLATINUM MURIATICUM (this remedy has achieved beneficial results after Iodine of Potash failed to cure in syphilitic affection; violent occipital headaches, dysphagia, and syphilitic throat and bone affections; caries of bones of feet); PLAT. MUR. NAT. (polyuria and salivation); SEDUM ACRE (sexual irritability, relieves irritation of nerve centers and gives rest).Antidote: PULS. Platina antidotes the bad effects of lead.", 
+  "Relationship": "Antidote: PULS. Platina antidotes the bad effects of lead.Compare: RHODIUM; STANN.; VALER.; SEP. Compare, also: PLATINUM MURIATICUM (this remedy has achieved beneficial results after Iodine of Potash failed to cure in syphilitic affection; violent occipital headaches, dysphagia, and syphilitic throat and bone affections; caries of bones of feet); PLAT. MUR. NAT. (polyuria and salivation); SEDUM ACRE (sexual irritability, relieves irritation of nerve centers and gives rest).", 
   "details": "Is pre-eminently a woman's remedy. Strong tendency to paralysis, anaesthesia, localized NUMBNESS AND COLDNESS are shown. Hysterical spasms; pains increase and decrease gradually. (STANNUM.) Tremulousness."
 }

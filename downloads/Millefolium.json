@@ -3,16 +3,16 @@
   "Relationship": "Compare: FICUS VENOSA (PAKUR.) Hemorrhage from bowels and lungs. ACALYPHA and HELIX TOSTA - Snail (in hemoptysis, diseases of chest, consumption); also, SECALE; IPEC.; ERECH.; GERAN.; HAMAM.", 
   "symptoms": {
     "Head": [
-      "Vertigo when moving slowly", 
       "Sensation as if he had forgotten something", 
+      "Vertigo when moving slowly", 
       "The head seems full of blood", 
-      "Convulsions and epilepsy from suppressed menses", 
-      "PIERCING THRUSTS of pain"
+      "PIERCING THRUSTS of pain", 
+      "Convulsions and epilepsy from suppressed menses"
     ], 
     "Respiratory": [
-      "Hemoptysis in incipient phthisis", 
       "Cough, with bloody expectoration, in suppressed menses or hemorrhoids", 
-      "Violent palpitations"
+      "Violent palpitations", 
+      "Hemoptysis in incipient phthisis"
     ], 
     "Stool": [
       "Hemorrhage from bowels", 
@@ -23,9 +23,9 @@
       "NOSEBLEED  Piercing pain from eyes to root of nose"
     ], 
     "Female": [
-      "Menses early, profuse, protracted", 
+      "PAINFUL VARICES DURING PREGNANCY", 
       "Hemorrhage from uterus; bright red, fluid", 
-      "PAINFUL VARICES DURING PREGNANCY"
+      "Menses early, profuse, protracted"
     ]
   }, 
   "details": "An invaluable remedy for various types of hemorrhages; blood bright red. Incarcerated hernia; small-pox, with great pain in pit of stomach. After operations for stone. Bad effects from fall from a height; over-lifting. CONTINUED HIGH TEMPERATURE. Hemoptysis.", 

@@ -3,20 +3,20 @@
   "Relationship": "Compare: YOHIMBINE.; CANTH.", 
   "symptoms": {
     "Back": [
-      "Pain across sacral and lumbar region", 
-      "Unable to step out quickly"
+      "Unable to step out quickly", 
+      "Pain across sacral and lumbar region"
     ], 
     "Face": [
-      "Red, swollen, especially the end of nose - eyes blood-shot and sore to touch and on motion", 
+      "Epistaxis", 
       "Roots of hair hurt", 
-      "Epistaxis"
+      "Red, swollen, especially the end of nose - eyes blood-shot and sore to touch and on motion"
     ], 
     "Female": [
-      "Before and during menses much nervous disturbance, pain in ovaries; difficult menstruation", 
-      "Ovarian congestion and neuralgia", 
       "Menorrhagia", 
       "Bleeding with uterine fibroid", 
-      "Nymphomania"
+      "Nymphomania", 
+      "Before and during menses much nervous disturbance, pain in ovaries; difficult menstruation", 
+      "Ovarian congestion and neuralgia"
     ], 
     "Male": [
       "Painful movement of the testicles"

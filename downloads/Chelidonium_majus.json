@@ -1,6 +1,6 @@
 {
   "name": "Chelidonium majus", 
-  "Relationship": "Chelidonin. - (Spasm of smooth muscle everywhere, intestinal colic, uterine colic, bronchial spasm, tachycardia, etc.) Boldo - Boldoa fragrans - (Bladder atony; cholecystitis and biliary calculus. Bitter taste, no appetite; constipation, hypochondriasis languor, congestion of liver, burning weight in liver and stomach. Painful hepatic diseases. Disturbed liver following malaria.) Elemuy Gauteria - (Stone in kidneys and bladder; grain doses of powdered bark in water or 5 drops of tincture. Pellagra).Sulph. often completes its work.Complementary: Lycop.; Bryon.Antidote: Chamomile.Compare: Nux; Sulph.; Bry.; Lyc.; Opium; Podophyl.; Sanguin.; Ars.", 
+  "Relationship": "Complementary: Lycop.; Bryon.Compare: Nux; Sulph.; Bry.; Lyc.; Opium; Podophyl.; Sanguin.; Ars.Antidote: Chamomile.Chelidonin. - (Spasm of smooth muscle everywhere, intestinal colic, uterine colic, bronchial spasm, tachycardia, etc.) Boldo - Boldoa fragrans - (Bladder atony; cholecystitis and biliary calculus. Bitter taste, no appetite; constipation, hypochondriasis languor, congestion of liver, burning weight in liver and stomach. Painful hepatic diseases. Disturbed liver following malaria.) Elemuy Gauteria - (Stone in kidneys and bladder; grain doses of powdered bark in water or 5 drops of tincture. Pellagra).Sulph. often completes its work.", 
   "symptoms": {
     "Eyes": [
       "Dirty yellow color of whites", 
@@ -9,24 +9,24 @@
       "Orbital neuralgia of right eye, with profuse lachrymation; pupils contracted, relieved by pressure"
     ], 
     "Respiratory": [
-      "Very quick and short inspirations; pain on deep inspiration", 
-      "Dyspnoea", 
-      "Short, exhausting cough; sensation of dust not relieved by cough", 
-      "Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult", 
-      "Pain in RIGHT side of chest and shoulder, with embarrassed respiration", 
-      "Small lumps of mucus fly from mouth when coughing", 
       "Hoarse in afternoon", 
-      "Constriction of chest"
+      "Dyspnoea", 
+      "Constriction of chest", 
+      "Small lumps of mucus fly from mouth when coughing", 
+      "Short, exhausting cough; sensation of dust not relieved by cough", 
+      "Very quick and short inspirations; pain on deep inspiration", 
+      "Pain in RIGHT side of chest and shoulder, with embarrassed respiration", 
+      "Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult"
     ], 
     "Stomach": [
-      "Tongue yellow, with imprint of teeth; large and flabby", 
+      "Gastralgia", 
       "Taste bitter, pasty", 
-      "Bad odor from mouth", 
+      "EATING RELIEVES TEMPORARILY, especially when accompanied with hepatic symptoms", 
+      "Pain through stomach to back and right shoulder-blade", 
+      "Tongue yellow, with imprint of teeth; large and flabby", 
       "PREFERS HOT FOOD AND DRINK", 
       "Nausea, vomiting; BETTER, VERY HOT WATER", 
-      "Pain through stomach to back and right shoulder-blade", 
-      "Gastralgia", 
-      "EATING RELIEVES TEMPORARILY, especially when accompanied with hepatic symptoms"
+      "Bad odor from mouth"
     ], 
     "Female": [
       "Menses too late and too profuse"
@@ -41,50 +41,50 @@
     ], 
     "Back": [
       "Pain in nape", 
+      "Pain at lower angle of left scapula", 
       "Stiff neck, head drawn to left", 
-      "FIXED PAIN UNDER INNER AND LOWER ANGLE OF RIGHT SCAPULA", 
-      "Pain at lower angle of left scapula"
+      "FIXED PAIN UNDER INNER AND LOWER ANGLE OF RIGHT SCAPULA"
     ], 
     "Face": [
-      "YELLOW; worse nose and cheeks", 
-      "Wilted skin"
+      "Wilted skin", 
+      "YELLOW; worse nose and cheeks"
     ], 
     "Nose": [
       "Flapping of alae nasi"
     ], 
     "Head": [
+      "Right-sided headache down behind ears and shoulder-blade", 
       "Icy coldness of occiput from the nape of neck; FEELS HEAVY AS LEAD", 
       "Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance", 
       "Inclination to fall forward", 
-      "Right-sided headache down behind ears and shoulder-blade", 
       "NEURALGIA OVER RIGHT EYE, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver"
     ], 
     "Skin": [
-      "Dry heat of skin; itches, YELLOW", 
       "Painful red pimples and pustules", 
-      "Old, spreading, offensive ulcers", 
       "Wilted skin", 
-      "Sallow, cold, clammy"
+      "Dry heat of skin; itches, YELLOW", 
+      "Sallow, cold, clammy", 
+      "Old, spreading, offensive ulcers"
     ], 
     "Abdomen": [
-      "Jaundice due to hepatic and gall-bladder obstruction", 
-      "Gall-colic", 
-      "Distention", 
       "Fermentation and sluggish bowels", 
-      "Constriction across, as by a string", 
       "Liver enlarged", 
+      "Distention", 
       "Gallstones", 
-      "Urine Section", 
+      "Jaundice due to hepatic and gall-bladder obstruction", 
       "Profuse, foaming, yellow urine, like beer", 
-      "Dark, turbid"
+      "Constriction across, as by a string", 
+      "Urine Section", 
+      "Dark, turbid", 
+      "Gall-colic"
     ], 
     "Extremities": [
       "Pain in arms, shoulders, hands, tips of fingers", 
-      "ICY COLDNESS OF TIPS OF FINGERS; wrists sore, tearing in metacarpal bones", 
       "Whole flesh sore to touch", 
       "Rheumatic pain in hips and thighs; intolerable pains in heels, as if pinched by too narrow a shoe; worse, right", 
-      "Feels paralyzed", 
-      "Paresis of the lower limbs with rigidity of muscles"
+      "ICY COLDNESS OF TIPS OF FINGERS; wrists sore, tearing in metacarpal bones", 
+      "Paresis of the lower limbs with rigidity of muscles", 
+      "Feels paralyzed"
     ]
   }, 
   "details": "A prominent liver remedy, covering many of the direct reflex symptoms of diseased conditions of that organ. The jaundiced skin, and especially the CONSTANT PAIN UNDER INFERIOR ANGLE OF RIGHT SCAPULA, are certain indications. Paralytic drawing and lameness in single parts. The great general lethargy and indisposition to make any effort is also marked. Ailments brought on or renewed by change of weather. SEROUS EFFUSIONS. HYDROCELE. BILIOUS COMPLICATIONS DURING GESTATION.", 

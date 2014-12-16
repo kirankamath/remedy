@@ -5,21 +5,21 @@
   "details": "Obstinate skin affections, notably in BARBER'S ITCH AND ACNE. Weeping eczema.", 
   "symptoms": {
     "Throat": [
-      "Uvula and tonsils enlarged and reddened", 
-      "Swollen", 
+      "Parotid hypertrophied", 
       "Tongue thick", 
-      "Parotid hypertrophied"
+      "Uvula and tonsils enlarged and reddened", 
+      "Swollen"
     ], 
     "Skin": [
-      "Itching on ears, nose, and in urethra", 
       "Papular eruption on face", 
-      "Cold-sores on lips", 
-      "Boils on neck", 
-      "Barber's itch", 
-      "ACNE", 
       "Lichen planus", 
       "Arms covered with itching rash", 
-      "Hair feels as if erect"
+      "ACNE", 
+      "Itching on ears, nose, and in urethra", 
+      "Barber's itch", 
+      "Hair feels as if erect", 
+      "Cold-sores on lips", 
+      "Boils on neck"
     ]
   }, 
   "name": "Sulphur iodatum", 

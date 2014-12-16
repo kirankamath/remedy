@@ -4,10 +4,10 @@
   "symptoms": {
     "Head": [
       "Heavy, frontal headache; worse, walking or stooping", 
-      "Eyes nearly closed with great swelling", 
+      "Face swollen", 
       "Vesicular inflammation of ears", 
       "Nose red and shiny", 
-      "Face swollen"
+      "Eyes nearly closed with great swelling"
     ], 
     "Mind": [
       "Great melancholy; no desire to live, gloomy"
@@ -17,15 +17,15 @@
       "Pain in hypogastrium before every stool"
     ], 
     "Mouth": [
-      "Tongue red at tip", 
       "Fissured in middle", 
+      "Tongue red at tip", 
       "Vesicles on under side"
     ], 
     "Skin": [
       "Itching; relieved by hot water", 
+      "Erythema nodosum, with nightly itching and pains in long bones", 
       "VESICLES", 
-      "ERYSIPELAS; SKIN DARK RED", 
-      "Erythema nodosum, with nightly itching and pains in long bones"
+      "ERYSIPELAS; SKIN DARK RED"
     ], 
     "Extremities": [
       "Paralytic drawing in right arm, especially wrist, and extending to fingers"

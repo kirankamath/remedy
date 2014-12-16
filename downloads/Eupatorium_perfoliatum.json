@@ -3,30 +3,30 @@
   "Relationship": "Compare: Bryon.; Sepia.; nat. mur.; Chelidonium. Nyctanthes arbor-tristis (bilious fever; insatiable thirst; bitter vomiting at close of chill; also constipation of children).", 
   "symptoms": {
     "Head": [
-      "Throbbing pain", 
-      "Pressure as if a cap of lead pressed over the whole skull", 
       "Vertigo; sensation of falling to LEFT", 
-      "Vomiting of bile", 
+      "OCCIPITAL PAIN AFTER LYING DOWN, WITH SENSE OF WEIGHT", 
       "Top and back of head with pain AND SORENESS OF EYEBALLS", 
+      "Throbbing pain", 
       "Periodical headache, every third and seventh day", 
-      "OCCIPITAL PAIN AFTER LYING DOWN, WITH SENSE OF WEIGHT"
+      "Pressure as if a cap of lead pressed over the whole skull", 
+      "Vomiting of bile"
     ], 
     "Respiratory": [
       "Coryza, with sneezing", 
-      "HOARSENESS AND COUGH, WITH SORENESS IN CHEST; must support it", 
       "INFLUENZA, with great soreness of muscles and bones", 
+      "HOARSENESS AND COUGH, WITH SORENESS IN CHEST; must support it", 
       "CHRONIC loose cough, chest sore; WORSE AT NIGHT", 
       "Cough relieved by getting on hands and knees"
     ], 
     "Stomach": [
-      "Tongue yellow", 
-      "Taste bitter", 
-      "Hepatic region sore", 
-      "Great thirst", 
       "Vomiting and purging of bile, of green liquid several quarts at a time", 
-      "Vomiting preceded by thirst", 
+      "Taste bitter", 
       "HICCOUGH", 
-      "Avoids tight clothing"
+      "Hepatic region sore", 
+      "Tongue yellow", 
+      "Avoids tight clothing", 
+      "Vomiting preceded by thirst", 
+      "Great thirst"
     ], 
     "Modalities": [
       "Worse: periodically", 
@@ -34,29 +34,29 @@
       "Better: by getting on hands and knees"
     ], 
     "Stool": [
-      "Frequent, green, watery", 
       "Cramps", 
-      "Constipate, with sore liver"
+      "Constipate, with sore liver", 
+      "Frequent, green, watery"
     ], 
     "Fever": [
-      "Perspiration relieves all symptoms except headache", 
       "Chill between 7 and nine AM, PRECEDED BY THIRST WITH GREAT SORENESS AND ACHING OF BONES", 
-      "Nausea, vomiting of bile at close of chill or hot stage; throbbing headache", 
-      "Knows chill is coming on because he cannot drink enough"
+      "Knows chill is coming on because he cannot drink enough", 
+      "Perspiration relieves all symptoms except headache", 
+      "Nausea, vomiting of bile at close of chill or hot stage; throbbing headache"
     ], 
     "Mouth": [
       "Cracks in corners of mouth, yellow coated tongue, thirst"
     ], 
     "Extremities": [
-      "ACHING PAIN IN BACK", 
-      "ACHING IN BONES OF EXTREMITIES WITH SORENESS OF FLESH", 
-      "ACHING IN ARMS AND WRISTS", 
       "Swelling of left great toe", 
+      "ACHING PAIN IN BACK", 
+      "Dropsical swelling", 
+      "ACHING IN BONES OF EXTREMITIES WITH SORENESS OF FLESH", 
       "Gouty soreness and inflamed nodosities of joints, associated with headache", 
-      "Dropsical swelling"
+      "ACHING IN ARMS AND WRISTS"
     ]
   }, 
-  "details": "Known as \"Bone-set\", from the prompt manner in which it relieves pain in limbs and muscles that accompanies some forms of febrile disease, like malaria and influenza. Eupatorium acts principally upon the gastrohepatic organs and bronchial mucous membrane. It is a boon in miasmatic districts, along rivers, marshes, etc., and in all conditions where there is a great deal of BONE-PAIN. Cachexia from old chronic, bilious intermittents. Worn-out constitutions from inebriety. Sluggishness of all organs and functions. Bone-pains, general and severs. Soreness. Marked periodicity. (Ars.; China; Cedron.)", 
+  "details": "Known as Bone-set, from the prompt manner in which it relieves pain in limbs and muscles that accompanies some forms of febrile disease, like malaria and influenza. Eupatorium acts principally upon the gastrohepatic organs and bronchial mucous membrane. It is a boon in miasmatic districts, along rivers, marshes, etc., and in all conditions where there is a great deal of BONE-PAIN. Cachexia from old chronic, bilious intermittents. Worn-out constitutions from inebriety. Sluggishness of all organs and functions. Bone-pains, general and severs. Soreness. Marked periodicity. (Ars.; China; Cedron.)", 
   "Natural History": [
     "Thorough wort"
   ], 

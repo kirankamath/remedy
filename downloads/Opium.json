@@ -1,132 +1,132 @@
 {
   "name": "Opium", 
-  "Relationship": "Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.", 
+  "Relationship": "Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).", 
   "symptoms": {
     "Eyes": [
-      "Half-closed, dilated; pupils insensible, CONTRACTED", 
       "Ptosis", 
+      "Half-closed, dilated; pupils insensible, CONTRACTED", 
       "Staring, glassy"
     ], 
     "Respiratory": [
-      "Breathing stops on going to sleep; must be shaken to start it again", 
-      "Hoarse", 
-      "DEEP SNORING; RATTLING, STERTOROUS BREATHING", 
       "Difficult, intermittent, deep, unequal respiration", 
-      "Heat in chest; burning about heart", 
       "Cough, with dyspnoea and blue face; with bloody expectoration", 
-      "Sleep", 
-      "Great drowsiness", 
-      "Falls into a heavy stupid sleep", 
-      "Profound coma", 
-      "Loss of breath on falling asleep", 
-      "Coma vigil", 
-      "Picking at bedclothes", 
-      "Very sleepy, but cannot go to sleep", 
-      "Distant noises, cocks crowing, etc", 
-      ", keep him awake", 
-      "Child dreams of cats, dogs, black forms", 
-      "Bed feels so hot cannot lie on it", 
-      "Pleasant, fantastic, amorous dreams", 
-      "Shaking chill; then heat, with sleep and sweat", 
-      "Thirst only during heat"
+      "Heat in chest; burning about heart", 
+      "DEEP SNORING; RATTLING, STERTOROUS BREATHING", 
+      "Hoarse", 
+      "Breathing stops on going to sleep; must be shaken to start it again"
     ], 
     "Stomach": [
-      "Vomiting, with colic and convulsions", 
       "Faecal vomiting", 
-      "Incarcerated hernia", 
-      "Hungry; no desire to eat"
+      "Hungry; no desire to eat", 
+      "Vomiting, with colic and convulsions", 
+      "Incarcerated hernia"
     ], 
     "Female": [
       "Suppressed menses from fright", 
-      "Cessation of labor-pains with coma and twitchings", 
       "Puerperal convulsions; drowsiness or coma between paroxysms", 
-      "Threatened abortion and suppression of lochia, from fright with sopor", 
-      "Horrible labor-like pains in uterus, with urging to stool"
+      "Cessation of labor-pains with coma and twitchings", 
+      "Horrible labor-like pains in uterus, with urging to stool", 
+      "Threatened abortion and suppression of lochia, from fright with sopor"
     ], 
     "Modalities": [
-      "Worse: heat", 
-      "Worse: during and after sleep", 
       "Better: cold things", 
-      "Better: constant walking"
+      "Better: constant walking", 
+      "Worse: heat", 
+      "Worse: during and after sleep"
     ], 
     "Mind": [
       "Patient wants nothing", 
+      "Thinks he is not at home", 
+      "Delirious talking, with wide open eyes", 
       "COMPLETE LOSS OF CONSCIOUSNESS; APOPLECTIC STATE", 
       "Frightful fancies, daring, gay, bright", 
-      "Unable to understand or appreciate his sufferings", 
-      "Thinks he is not at home", 
-      "Delirious talking, with wide open eyes"
+      "Unable to understand or appreciate his sufferings"
     ], 
     "Stool": [
-      "Obstinate constipation; no desire to go to stool", 
-      "ROUND, HARD, BLACK BALLS", 
       "Faeces protrude and recede", 
-      "Spasmodic retention of faeces in small intestines", 
-      "Stools involuntary, black, offensive, frothy", 
-      "Violent pain in rectum, as if pressed asunder", 
-      "Urine Section", 
-      "Slow to start; feeble stream", 
+      "ROUND, HARD, BLACK BALLS", 
       "RETAINED or involuntary, after fright", 
-      "Loss of power or sensibility of bladder"
+      "Violent pain in rectum, as if pressed asunder", 
+      "Loss of power or sensibility of bladder", 
+      "Stools involuntary, black, offensive, frothy", 
+      "Spasmodic retention of faeces in small intestines", 
+      "Obstinate constipation; no desire to go to stool", 
+      "Slow to start; feeble stream", 
+      "Urine Section"
     ], 
     "Back": [
       "Opisthotonos", 
       "Swollen veins of neck"
     ], 
     "Face": [
-      "Red, bloated, SWOLLEN, DARK SUFFUSED, HOT", 
       "Looks intoxicated, besotted", 
-      "Spasmodic facial twitching, especially corners of mouth", 
-      "Veins of face distended", 
       "HANGING DOWN OF LOWER JAW", 
+      "Spasmodic facial twitching, especially corners of mouth", 
+      "Red, bloated, SWOLLEN, DARK SUFFUSED, HOT", 
+      "Veins of face distended", 
       "Distorted"
     ], 
     "Fever": [
-      "Pulse FULL AND SLOW", 
-      "Heat extending over body", 
-      "HOT perspiration", 
       "Fever characterized by stupor, snoring respiration, twitching of limbs, intense thirst and sleepiness", 
-      "General low temperature with inclination to stupor"
+      "General low temperature with inclination to stupor", 
+      "HOT perspiration", 
+      "Heat extending over body", 
+      "Pulse FULL AND SLOW"
     ], 
     "Mouth": [
       "Dry", 
-      "Tongue black, PARALYZED", 
-      "Bloody froth", 
       "Intense thirst", 
+      "Difficult articulation and swallowing", 
+      "Tongue black, PARALYZED", 
       "Blubbering of lips", 
-      "Difficult articulation and swallowing"
+      "Bloody froth"
     ], 
     "Head": [
       "Vertigo; LIGHTNESS OF HEAD IN OLD PEOPLE", 
+      "Pain in back of head; great weight there", 
+      "Paralysis of brain", 
+      "Complete insensibility; no mental grasp for anything", 
+      "Bursting feeling", 
       "Dull, heavy, stupid", 
       "Delirium", 
-      "Vertigo after fright", 
-      "Pain in back of head; great weight there", 
-      "Bursting feeling", 
-      "Complete insensibility; no mental grasp for anything", 
-      "Paralysis of brain"
+      "Vertigo after fright"
     ], 
     "Skin": [
       "Hot, damp, sweating", 
       "Constant desire to uncover", 
       "HOT PERSPIRATION OVER WHOLE BODY EXCEPT LOWER LIMBS"
     ], 
+    "Sleep": [
+      "Profound coma", 
+      "Child dreams of cats, dogs, black forms", 
+      "Distant noises, cocks crowing, etc., keep him awake", 
+      "Thirst only during heat", 
+      "Very sleepy, but cannot go to sleep", 
+      "Great drowsiness", 
+      "Coma vigil", 
+      "Bed feels so hot cannot lie on it", 
+      "Shaking chill; then heat, with sleep and sweat", 
+      "Loss of breath on falling asleep", 
+      "Pleasant, fantastic, amorous dreams", 
+      "Picking at bedclothes", 
+      "Falls into a heavy stupid sleep"
+    ], 
+    "Extremities": [
+      "Convulsions; worse from glare of light; coldness of limbs", 
+      "Painless paralysis", 
+      "TWITCHING OF LIMBS", 
+      "Jerks as if flexors were over acting", 
+      "Numbness"
+    ], 
     "Abdomen": [
       "Hard, bloated, tympanitic", 
       "Lead colic", 
       "During colic, urging to stool and discharge of hard faeces"
-    ], 
-    "Extremities": [
-      "Painless paralysis", 
-      "TWITCHING OF LIMBS", 
-      "Numbness", 
-      "Jerks as if flexors were over acting", 
-      "Convulsions; worse from glare of light; coldness of limbs"
     ]
   }, 
   "details": "Hahnemann says that it is much more difficult to estimate the action of Opium than of almost any other drug. The effects of Opium as shown in the insensibility of the nervous system, the depression drowsy stupor, painlessness, and torpor, the general sluggishness and lack of vital reaction, constitute the main indications for the drug when used homeopathically. All complaints are characterized by SOPOR. They are PAINLESS, and are accompanied by HEAVY, STUPID SLEEP, STERTOROUS BREATHING. SWEATY SKIN. Dark, mahogany-brown face. Serous apoplexy - venous, passive congestion. Want of sensitiveness to the action of medicines. Reappearance and aggravation from becoming heated. Opium lessens voluntary movements, contracts pupils, depresses higher intellectual powers, lessens self-control and power of concentration, judgement; stimulates the imagination, checks all secretions except that of the skin. Want of susceptibility to remedies even though indicated. Diseases that originate from fright.", 
   "Natural History": [
     "Papaver SomniferumDried Latex of the Poppy"
   ], 
-  "dosage": "Third to thirtieth and 200th potency.Non-Homeopathic Preparations and Uses.PALLIATIVE ONLY in great pain, sleeplessness, peritonitis, and to check excessive secretion in diarrhoea, diabetes, etc.Opium (crude). Official dose, 1 grain.Laudanum (tincture) - Dose, 5 to 20 drops. Extract of Opium 1/4 to 1 grain.PAREGORIC - Tinctura Camphora Compositae. Contains in each dram 1/4 grain of Opium equal to 1/30 grain of Morphine. Dose 1/2 to 1 fluid dram for adults. For an infant 3 to 5 drops.DOVER'S POWDER consists of Opium, Ipecac and Sulphate of Potash. It contains 10% each of Opium and Ipecac. Dose 5 to 15 grains.Morphine - 1/8 to 1/4 grain.Magendie's solution - 16 grains to 1 oz. or 5 drops equal to 1/6 grain.Codein - 1/2 to 1 grain.Apomorphia - 1/20 to 1/10 grain hypodermically."
+  "dosage": "Third to thirtieth and 200th potency.Morphine - 1/8 to 1/4 grain.Magendie's solution - 16 grains to 1 oz. or 5 drops equal to 1/6 grain.Opium (crude). Official dose, 1 grain.Laudanum (tincture) - Dose, 5 to 20 drops. Extract of Opium 1/4 to 1 grain.PAREGORIC - Tinctura Camphora Compositae. Contains in each dram 1/4 grain of Opium equal to 1/30 grain of Morphine. Dose 1/2 to 1 fluid dram for adults. For an infant 3 to 5 drops.PALLIATIVE ONLY in great pain, sleeplessness, peritonitis, and to check excessive secretion in diarrhoea, diabetes, etc.DOVER'S POWDER consists of Opium, Ipecac and Sulphate of Potash. It contains 10% each of Opium and Ipecac. Dose 5 to 15 grains.Apomorphia - 1/20 to 1/10 grain hypodermically.Codein - 1/2 to 1 grain.Non-Homeopathic Preparations and Uses."
 }

@@ -3,24 +3,24 @@
   "Relationship": "Useful after Colchic. fails in gout; after Copaiva in gonorrhea.Compare: Nitric acid; Ammon. benz.; Sabina; Tropoeleum - Garden Nasturtium - (fetid urine).Antidote: Copaiva.Incompatible: Wine.", 
   "symptoms": {
     "Rectum": [
-      "Stitches and CONSTRICTED feeling", 
       "Puckering constriction of rectum", 
-      "Itching and watery elevations around anus"
+      "Itching and watery elevations around anus", 
+      "Stitches and CONSTRICTED feeling"
     ], 
     "Head": [
-      "Vertigo inclination to fall sideways", 
-      "Throbbing in temporal arteries, causes puffing around ears", 
-      "Noises when swallowing", 
       "Ulceration of tongue", 
-      "Swelling behind ears", 
+      "Noises when swallowing", 
       "Cold sweat on forehead", 
       "Pricking, puckered constriction of mouth, bluish and bleeding gums", 
-      "Wens"
+      "Swelling behind ears", 
+      "Vertigo inclination to fall sideways", 
+      "Wens", 
+      "Throbbing in temporal arteries, causes puffing around ears"
     ], 
     "Fever": [
-      "Cold hands, feet, back, knees", 
+      "Internal heat on awakening", 
       "Chilliness; cold sweat", 
-      "Internal heat on awakening"
+      "Cold hands, feet, back, knees"
     ], 
     "Stomach": [
       "Sweat while eating; pressure in stomach, sensation of a lump"
@@ -29,18 +29,18 @@
       "Worse: in open air; by uncovering"
     ], 
     "Mind": [
-      "Prone to dwell on unpleasant things in the past", 
       "Omits words in writing", 
+      "Prone to dwell on unpleasant things in the past", 
       "Depression"
     ], 
     "Stool": [
-      "Frothy, OFFENSIVE, LIQUID, light-colored, like soapsuds, bowel movements mostly windy", 
-      "Urine Section", 
-      "REPULSIVE ODOR; changeable color; brown, acid", 
-      "ENURESIS; dribbling, OFFENSIVE URINE OF OLD MEN", 
-      "Excess of uric acid", 
       "Vesical catarrh from suppressed gonorrhea", 
-      "Cystitis"
+      "REPULSIVE ODOR; changeable color; brown, acid", 
+      "Frothy, OFFENSIVE, LIQUID, light-colored, like soapsuds, bowel movements mostly windy", 
+      "ENURESIS; dribbling, OFFENSIVE URINE OF OLD MEN", 
+      "Cystitis", 
+      "Excess of uric acid", 
+      "Urine Section"
     ], 
     "Back": [
       "Pressure on spinal column", 
@@ -48,39 +48,39 @@
       "Dull pain in region of kidneys; worse, wine"
     ], 
     "Face": [
+      "Circumscribed redness of cheeks", 
       "Copper-colored spots", 
-      "Red, with little blisters", 
-      "Circumscribed redness of cheeks"
+      "Red, with little blisters"
     ], 
     "Respiratory": [
-      "Hoarse in morning", 
       "Asthmatic cough; worse night; lying on right side", 
       "Chest very tender", 
-      "Pain in region of heart", 
-      "Expectoration, green mucus"
+      "Expectoration, green mucus", 
+      "Hoarse in morning", 
+      "Pain in region of heart"
     ], 
     "Nose": [
       "Itching of septum", 
       "Pain in nasal bones"
     ], 
     "Skin": [
-      "Red spots", 
-      "Itching in spots"
+      "Itching in spots", 
+      "Red spots"
     ], 
     "Abdomen": [
-      "Cutting about navel", 
-      "Stitching in liver region"
+      "Stitching in liver region", 
+      "Cutting about navel"
     ], 
     "Extremities": [
+      "Pain and swelling in knees", 
+      "Gouty deposits", 
       "Joints crack on motion", 
       "Tearing with stitches", 
-      "PAIN IN TENDO ACHILLS", 
-      "Rheumatic gout; nodes very painful", 
-      "Gouty deposits", 
-      "Ganglion; swelling of the wrist", 
-      "Pain and swelling in knees", 
+      "Tearing pain in great toe", 
       "Bunion of great toe", 
-      "Tearing pain in great toe"
+      "Rheumatic gout; nodes very painful", 
+      "Ganglion; swelling of the wrist", 
+      "PAIN IN TENDO ACHILLS"
     ]
   }, 
   "details": "The most marked characteristic pertains to the odor and color of the urine. It has a marked action on metabolism. It produces and cures symptoms of a uric acid diathesis, with urine highly colored and very offensive, and gouty symptoms. Renal insufficiency. Child wants to be nursed in the arms, will not be laid down. Pains suddenly change their locality. Anti-sycotic. Gouty and asthmatic.", 

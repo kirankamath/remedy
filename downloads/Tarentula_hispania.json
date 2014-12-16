@@ -1,47 +1,47 @@
 {
   "name": "Tarentula hispania", 
-  "Relationship": "Compare: AGAR.; ARS.; CUPR.; MAG. PHOS.Antidotes: LACH.", 
+  "Relationship": "Antidotes: LACH.Compare: AGAR.; ARS.; CUPR.; MAG. PHOS.", 
   "symptoms": {
     "Heart": [
       "Palpitation; precordial anguish, sensation as if heart twisted and turned around"
     ], 
     "Head": [
-      "Intense pain, as if thousands of needles were pricking into brain VERTIGO", 
-      "Wants hair brushed or head rubbed"
+      "Wants hair brushed or head rubbed", 
+      "Intense pain, as if thousands of needles were pricking into brain VERTIGO"
     ], 
     "Modalities": [
-      "Worse: motion", 
-      "Worse: contact", 
-      "Worse: noises", 
-      "Worse: seeing others in trouble", 
       "Better: in open air", 
       "Better: MUSIC", 
       "Better: bright colors", 
-      "Better: rubbing affected parts"
+      "Better: rubbing affected parts", 
+      "Worse: seeing others in trouble", 
+      "Worse: motion", 
+      "Worse: contact", 
+      "Worse: noises"
     ], 
     "Mind": [
-      "Sudden alteration of mood", 
-      "Foxy", 
-      "Destructive impulses; MORAL RELAXATION", 
-      "Must constantly busy herself or walk", 
-      "SENSITIVE TO MUSIC", 
-      "Averse to company, but wants someone present", 
       "Ungrateful, discontented", 
-      "Guided by whims"
+      "Sudden alteration of mood", 
+      "Destructive impulses; MORAL RELAXATION", 
+      "Foxy", 
+      "Guided by whims", 
+      "SENSITIVE TO MUSIC", 
+      "Must constantly busy herself or walk", 
+      "Averse to company, but wants someone present"
     ], 
     "Female": [
+      "Dysmenorrhoea, with very sensitive ovaries", 
       "Vulva dry and hot, with much itching", 
-      "Profuse menstruation, with frequent erotic spasms", 
       "PRURITUS VULVAE; NYMPHOMANIA", 
-      "Dysmenorrhoea, with very sensitive ovaries"
+      "Profuse menstruation, with frequent erotic spasms"
     ], 
     "Extremities": [
-      "Weakness of legs; choreic movements", 
-      "Numbness of legs", 
-      "Multiple sclerosis, with trembling", 
+      "Extraordinary contractions and movements", 
       "TWITCHING AND JERKING", 
-      "Yawning with uneasiness of legs, must move them constantly", 
-      "Extraordinary contractions and movements"
+      "Numbness of legs", 
+      "Weakness of legs; choreic movements", 
+      "Multiple sclerosis, with trembling", 
+      "Yawning with uneasiness of legs, must move them constantly"
     ], 
     "Male": [
       "Sexual excitement; lasciviousness reaching almost to insanity; seminal emissions"

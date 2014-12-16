@@ -3,12 +3,12 @@
   "Relationship": "Compare: IRIDIUM CHLORIDE. (Produces salivation and stiffness of jaws followed by head and nervous symptoms. Congestion of nares and bronchi. Dragging pain in lower back. Headache worse right side, heavy feeling as of liquid lead.)Compare: PLATINA; PALLADIUM; OSMIUM.", 
   "symptoms": {
     "Head": [
-      "Difficult concentration of thought", 
-      "Sensation as if mind were void", 
-      "Thought confuse", 
-      "\"Wooden\" feeling in right side of head", 
-      "Right side of scalp sensitive", 
       "Profuse, watery coryza, better indoors", 
+      "Thought confuse", 
+      "Wooden feeling in right side of head", 
+      "Sensation as if mind were void", 
+      "Right side of scalp sensitive", 
+      "Difficult concentration of thought", 
       "Ozaena"
     ], 
     "Respiratory": [
@@ -16,12 +16,12 @@
       "Chronic laryngeal catarrh"
     ], 
     "Back": [
-      "Weakness in the kidney region", 
-      "Spinal paresis, especially for the aged and after disease"
+      "Spinal paresis, especially for the aged and after disease", 
+      "Weakness in the kidney region"
     ], 
     "Extremities": [
-      "Pressing in groin and left thigh", 
       "Tension in both thighs, especially left", 
+      "Pressing in groin and left thigh", 
       "Dislocated feeling in left hip-joint and dull pain toward left gluteal region"
     ]
   }, 

@@ -9,12 +9,12 @@
       "Pulse slower and softer"
     ], 
     "Head": [
-      "Dull", 
-      "Indisposed to mental and bodily exertion", 
-      "Pressing inward pain", 
       "Otalgia", 
+      "NOSEBLEED", 
+      "Pressing inward pain", 
+      "Indisposed to mental and bodily exertion", 
       "Inward pressing in malar bones", 
-      "NOSEBLEED"
+      "Dull"
     ], 
     "Stomach": [
       "Sour risings", 
@@ -22,8 +22,8 @@
       "Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation"
     ], 
     "Abdomen": [
-      "Abdominal muscles painfully contracted towards the spine", 
       "Distended", 
+      "Abdominal muscles painfully contracted towards the spine", 
       "Difficult stool; feels as if more remained to pass"
     ]
   }, 

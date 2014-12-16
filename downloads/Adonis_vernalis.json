@@ -3,46 +3,47 @@
   "Relationship": "ADONIDIN is a cardiac tonic and diuretic. Quarter grain daily, or two to five grains of first decimal trit. increases arterial pressure and prolongs the diastole, favoring emptying engorged veins. Is an excellent substitute for Digitalis and is not cumulative in action.Compare: Digit.; Crataegus.; Conval.; Strophanthus.", 
   "symptoms": {
     "Heart": [
+      "Cardiac asthma", 
+      "Marked venous engorgement", 
       "Mitral and aortic regurgitation", 
       "Chronic aortitis", 
-      "Fatty heart pericarditis", 
-      "Rheumatic Endocarditis", 
-      "PRECORDIAL PAIN, PALPATION, AND DYSPNEA", 
-      "Marked venous engorgement", 
-      "Cardiac asthma", 
       "Fatty heart", 
+      "Rheumatic Endocarditis", 
+      "Pulse rapid, irregular", 
       "Myocarditis, irregular cardiac action, constriction and vertigo", 
-      "Pulse rapid, irregular"
+      "Fatty heart pericarditis", 
+      "PRECORDIAL PAIN, PALPATION, AND DYSPNEA"
     ], 
     "Head": [
-      "Feels light; aches across font, FROM OCCIPUT AROUND TEMPLES TO EYES", 
       "Vertigo on rising, turning head quickly or lying down", 
+      "Feels light; aches across font, FROM OCCIPUT AROUND TEMPLES TO EYES", 
+      "Eyes dilated", 
       "Tinnitus", 
-      "Scalp feels tight", 
-      "Eyes dilated"
+      "Scalp feels tight"
     ], 
     "Respiratory": [
       "Frequent desire to take a long breath", 
-      "Feeling of weight on chest", 
-      "Sleep", 
-      "Restless, with horrible dreams"
+      "Feeling of weight on chest"
     ], 
     "Stomach": [
-      "Heavy weight", 
       "Gnawing hunger", 
-      "Faint feeling in epigastrium", 
       "Better out of doors", 
-      "Urine Section", 
       "Oily pellicle on urine", 
-      "Scanty, albuminous"
+      "Heavy weight", 
+      "Faint feeling in epigastrium", 
+      "Scanty, albuminous", 
+      "Urine Section"
     ], 
     "Mouth": [
-      "Slimy", 
-      "Tongue dirty yellow, sore, feels scalded"
+      "Tongue dirty yellow, sore, feels scalded", 
+      "Slimy"
+    ], 
+    "Sleep": [
+      "Restless, with horrible dreams"
     ], 
     "Extremities": [
-      "Aching in nape", 
       "Spine stiff and aching", 
+      "Aching in nape", 
       "Oedema"
     ]
   }, 

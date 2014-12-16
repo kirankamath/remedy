@@ -4,38 +4,38 @@
   ], 
   "symptoms": {
     "Head": [
-      "Tearing pain in vertex, ringing and whistling in ears", 
-      "Whirling vertigo, with flickering before eyes", 
-      "SPOTS ON SCALP, OOZING MOISTURE, MATTING HAIR TOGETHER", 
-      "CORROSIVE ITCHING OF SCALP", 
       "Bald spots", 
+      "CORROSIVE ITCHING OF SCALP", 
+      "Whirling vertigo, with flickering before eyes", 
       "PLICA POLONICA", 
+      "SPOTS ON SCALP, OOZING MOISTURE, MATTING HAIR TOGETHER", 
+      "Tearing pain in vertex, ringing and whistling in ears", 
       "Irresistible desire to scratch"
     ], 
     "Nose": [
       "Tip gets red easily", 
-      "Moist eruption on septum", 
-      "Stoppage of one nostril", 
       "SORES IN NOSE", 
-      "Seborrhoea upper lip and base of nose"
+      "Seborrhoea upper lip and base of nose", 
+      "Stoppage of one nostril", 
+      "Moist eruption on septum"
     ], 
     "Female": [
-      "Excessive menstruation with great weakness", 
-      "PASSIVE UTERINE HEMORRHAGES", 
       "Menorrhagia; continuous flow, particularly at climacteric", 
-      "Hemorrhages from fibroids"
+      "Excessive menstruation with great weakness", 
+      "Hemorrhages from fibroids", 
+      "PASSIVE UTERINE HEMORRHAGES"
     ], 
     "Skin": [
-      "Corrosive itching", 
-      "GREAT SENSITIVENESS OF SKIN, WITH REDNESS AND SORENESS from slight rubbing", 
+      "Hair matted together", 
       "Eczema of head and face; pustules, itching, burning, and offensive odor", 
-      "Hair matted together"
+      "Corrosive itching", 
+      "GREAT SENSITIVENESS OF SKIN, WITH REDNESS AND SORENESS from slight rubbing"
     ], 
     "Throat": [
+      "DIPHTHERIA", 
       "Difficult swallowing", 
       "Ulcers", 
-      "Frequent hawking", 
-      "DIPHTHERIA"
+      "Frequent hawking"
     ]
   }, 
   "name": "Vinca minor", 

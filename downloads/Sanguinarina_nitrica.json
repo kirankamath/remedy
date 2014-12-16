@@ -4,27 +4,27 @@
   ], 
   "symptoms": {
     "Respiratory": [
+      "Voice altered, deep, hoarse", 
       "Short, hacking cough, with expectoration of thick, yellow, sweetish mucus", 
-      "PRESSURE BEHIND CENTER OF STERNUM", 
-      "Dryness and burning in throat and bronchi", 
       "TICKLING COUGH", 
+      "Dryness and burning in throat and bronchi", 
       "Chronic nasal, laryngeal, and bronchial catarrh", 
-      "Voice altered, deep, hoarse"
+      "PRESSURE BEHIND CENTER OF STERNUM"
     ], 
     "Mouth": [
       "Ulceration on the SIDE of the tongue"
     ], 
     "Nose": [
-      "FEELS OBSTRUCTED", 
-      "PROFUSE, WATERY MUCUS, WITH BURNING PAIN", 
-      "Enlarged turbinates at beginning of hypertrophic process", 
-      "Secretion scant, tendency to dryness", 
-      "Small crusts which bleed when removed", 
       "Post-nasal secretions adherent to nasopharynx, dislodged with difficulty", 
-      "Dry and burning nostrils; watery mucus, with pressure over root of nose", 
-      "Nostrils plugged with thick, yellow, bloody mucus", 
+      "Small crusts which bleed when removed", 
+      "FEELS OBSTRUCTED", 
+      "Enlarged turbinates at beginning of hypertrophic process", 
+      "Rawness and soreness in posterior nares", 
       "SNEEZING", 
-      "Rawness and soreness in posterior nares"
+      "Nostrils plugged with thick, yellow, bloody mucus", 
+      "Secretion scant, tendency to dryness", 
+      "Dry and burning nostrils; watery mucus, with pressure over root of nose", 
+      "PROFUSE, WATERY MUCUS, WITH BURNING PAIN"
     ], 
     "Throat": [
       "Rough, dry, CONSTRICTED, BURNING", 
@@ -34,5 +34,5 @@
   }, 
   "name": "Sanguinarina nitrica", 
   "Relationship": "Compare: SANGUIN. TARTARICUM (exophthalmos); MYDRIASIS; dim vision); ARUM TRIPH.; PSORIN.; KAL. BICH.", 
-  "details": "Is of use in polypus of the nose. Acute and chronic catarrh. Acute pharyngitis. (WYETHIA). Smarting and burning in throat and chest especially under sternum. INFLUENZA. Lachrymation, pains in eyes and head, sore scalp; SENSE OF OBSTRUCTION. Chronic follicular pharyngitis.Diseases of rectum"
+  "details": "Diseases of rectumIs of use in polypus of the nose. Acute and chronic catarrh. Acute pharyngitis. (WYETHIA). Smarting and burning in throat and chest especially under sternum. INFLUENZA. Lachrymation, pains in eyes and head, sore scalp; SENSE OF OBSTRUCTION. Chronic follicular pharyngitis."
 }

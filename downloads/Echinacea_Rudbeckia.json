@@ -7,8 +7,8 @@
       "Aches with a peculiar periodical flushing of the face, even to the neck; dizziness and profound prostration"
     ], 
     "Fever": [
-      "CHILLINESS, WITH NAUSEA", 
       "Cold flashes all over back", 
+      "CHILLINESS, WITH NAUSEA", 
       "MALARIAL FEVER"
     ], 
     "Stomach": [
@@ -16,33 +16,33 @@
       "Nausea; better lying down"
     ], 
     "Chest": [
-      "Pain as of a lump in chest and under sternum", 
       "Pain in pectoral muscles", 
+      "Albuminous, scanty, frequent, and involuntary", 
       "Urine Section", 
-      "Albuminous, scanty, frequent, and involuntary"
+      "Pain as of a lump in chest and under sternum"
     ], 
     "Mouth": [
-      "Canker; gums recede and bleed easily; corners of mouth and lips crack; tongue dry and swollen; sores; dirty brownish", 
       "Tongue, lips and fauces TINGLE, with sense of fear about heart", 
+      "Canker; gums recede and bleed easily; corners of mouth and lips crack; tongue dry and swollen; sores; dirty brownish", 
       "White coating of tongue, with red edges", 
       "Promotes the flow of saliva"
     ], 
     "Nose": [
       "Foul-smelling discharge, membranous formations protruding", 
-      "Post-nasal catarrh with ulceration and fetor", 
       "Nose feels stuffed up", 
+      "Post-nasal catarrh with ulceration and fetor", 
       "Right nostril raw, bleeding"
     ], 
     "Female": [
       "PUERPERAL SEPTICAEMIA; discharges suppressed; abdomen sensitive and tympanitic; offensive, excoriating leucorrhoea"
     ], 
     "Skin": [
-      "Recurring boils", 
-      "Carbuncles", 
-      "Irritations from insect bites and poisonous plants", 
       "Lymphatics enlarged", 
       "Old tibial ulcers", 
-      "Gangrene"
+      "Recurring boils", 
+      "Carbuncles", 
+      "Gangrene", 
+      "Irritations from insect bites and poisonous plants"
     ], 
     "Throat": [
       "Tonsils purple or black, gray exudation extending to posterior nares and air-passages", 
@@ -52,7 +52,7 @@
       "ACHING IN LIMBS and general lassitude"
     ]
   }, 
-  "details": "We are indebted to the Eclectic school for this remarkable medicine as a \"corrector of blood dyscrasia.\" Acute auto-infection. Symptoms of BLOOD POISONING, SEPTIC CONDITIONS GENERALLY. Diarrhoea in typhoid. Gonorrhea. Boils. ERYSIPELAS and foul ulcers. GANGRENE. Goitre with exophthalmic symptoms; full doses, also injecting 5-10 drops into thyroid gland. Tendency to malignancy in acute and subacute disorders. Last stages of cancer to ease pain. VENOM INFECTION. Cerebrospinal meningitis. Puerperal infections. TIRED FEELING. Piles. Pustules. Acts no vermiform appendix thus has been used for appendicitis, but remember it promotes suppuration and a neglected appendicitis with pus formation would probably rupture sooner under its use. Lymphatic inflammation; crushing injuries. SNAKE BITES and bites and stings generally. Foul discharges with emaciation and great debility.", 
+  "details": "We are indebted to the Eclectic school for this remarkable medicine as a corrector of blood dyscrasia. Acute auto-infection. Symptoms of BLOOD POISONING, SEPTIC CONDITIONS GENERALLY. Diarrhoea in typhoid. Gonorrhea. Boils. ERYSIPELAS and foul ulcers. GANGRENE. Goitre with exophthalmic symptoms; full doses, also injecting 5-10 drops into thyroid gland. Tendency to malignancy in acute and subacute disorders. Last stages of cancer to ease pain. VENOM INFECTION. Cerebrospinal meningitis. Puerperal infections. TIRED FEELING. Piles. Pustules. Acts no vermiform appendix thus has been used for appendicitis, but remember it promotes suppuration and a neglected appendicitis with pus formation would probably rupture sooner under its use. Lymphatic inflammation; crushing injuries. SNAKE BITES and bites and stings generally. Foul discharges with emaciation and great debility.", 
   "Natural History": [
     "Purple Cone-flower"
   ], 

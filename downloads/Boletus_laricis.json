@@ -3,15 +3,15 @@
   "Relationship": "Compare: Agaricin, active constituent of Polyporus officinale (phthisical and other enervating night-sweats 1-4 to 1-2 gr. doses; also in chorea, in dilatation of heart with pulmonary Emphysema, fatty degeneration, profuse perspiration and erythema.) Boletus luridus. (Violent pain in epigastrium, urticaria tuberosa.) Boletus satanus (dysentery, vomiting, great debility, cold extremities, spasm of extremities and face).", 
   "symptoms": {
     "Head": [
-      "Feels light and hollow with deep frontal headache", 
+      "Constant nausea", 
       "Thick, yellow coating of tongue; teeth indented", 
-      "Constant nausea"
+      "Feels light and hollow with deep frontal headache"
     ], 
     "Fever": [
-      "Chilliness along spine, with frequent, hot flashes", 
       "Yawns and stretches when chilly", 
       "Severe aching in shoulders and joints and small of back", 
-      "PROFUSE PERSPIRATION AT NIGHT, with hectic chills and fever"
+      "PROFUSE PERSPIRATION AT NIGHT, with hectic chills and fever", 
+      "Chilliness along spine, with frequent, hot flashes"
     ], 
     "Skin": [
       "Hot and dry, especially in palms", 
@@ -20,7 +20,7 @@
   }, 
   "details": "Quotidian intermittent fever. Sweat is light, and without relief. Night-sweat in phthisis.Violent pain in epigastrium, urticaria tuberosa. Boletus satanus dysentery, vomiting, great debility, cold extremities, spasm of extremities and face.", 
   "Natural History": [
-    "Polyporus OfficinaleWhite Agaric"
+    "White AgaricPolyporus Officinale"
   ], 
   "dosage": "First attenuation."
 }

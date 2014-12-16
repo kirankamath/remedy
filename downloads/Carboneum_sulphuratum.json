@@ -4,65 +4,66 @@
   "symptoms": {
     "Eyes": [
       "Myopia, asthenopia, and dis-chromotopsia, cloudiness and atrophy of optic disc and central scotoma for light and for red and green not for white", 
-      "Optic neuritis advancing toward atrophy", 
       "Arteries and veins congested", 
-      "Retinal congestion; optic disc pale", 
+      "Optic neuritis advancing toward atrophy", 
       "Everything seems in a fog", 
-      "Vision greatly impaired", 
-      "Color-blindness"
+      "Color-blindness", 
+      "Retinal congestion; optic disc pale", 
+      "Vision greatly impaired"
     ], 
     "Modalities": [
-      "Better: in open air", 
-      "Worse: after breakfast; bathing"
+      "Worse: after breakfast; bathing", 
+      "Better: in open air"
     ], 
     "Mind": [
+      "Hallucination of sight and hearing", 
       "Irritable, anxious, intolerant; STUPOR", 
       "Sluggishness of mind", 
-      "Hallucination of sight and hearing", 
-      "Changeable mood", 
-      "Dementia alternating with excitement"
+      "Dementia alternating with excitement", 
+      "Changeable mood"
     ], 
     "Abdomen": [
       "Pain with WANDERING SWELLINGS as from flatus", 
       "Distention, with soreness and rumbling"
     ], 
-    "Head": [
-      "Headache and dizziness", 
-      "Aches as from a tight cap", 
-      "Ears feel obstructed", 
-      "NOISES IN HEAD", 
-      "Ulceration of the lips, anaesthesia of mouth and tongue"
-    ], 
-    "Skin": [
-      "Anaesthesia; burning, itching, ulcers; small wounds fester", 
-      "Useful to restrain the growth of cancer", 
-      "Furunculosis", 
-      "Chronic skin diseases with much itching"
-    ], 
-    "Extremities": [
-      "Herpes on dorsal surface of hands", 
-      "Sore, bruised limbs, anaesthesia of arms and hands", 
-      "Cramps in limbs", 
-      "Lighting-like pains, with cramps", 
-      "Fingers swollen, INSENSIBLE, rigid, stiff", 
-      "Gait unsteady, tottering; worse in dark", 
-      "Feet insensible", 
-      "Sciatica", 
-      "FLYING PAINS, RETURNING REGULARLY for a long time", 
-      "Pain in lower limbs, with cramps and formications", 
-      "Neuritis", 
-      "Sleep", 
+    "Sleep": [
       "Deep morning sleep with anxious, vexatious dreams"
     ], 
+    "Head": [
+      "Aches as from a tight cap", 
+      "Ears feel obstructed", 
+      "Ulceration of the lips, anaesthesia of mouth and tongue", 
+      "Headache and dizziness", 
+      "NOISES IN HEAD"
+    ], 
+    "Skin": [
+      "Furunculosis", 
+      "Chronic skin diseases with much itching", 
+      "Anaesthesia; burning, itching, ulcers; small wounds fester", 
+      "Useful to restrain the growth of cancer"
+    ], 
+    "Extremities": [
+      "Lighting-like pains, with cramps", 
+      "Neuritis", 
+      "Cramps in limbs", 
+      "Herpes on dorsal surface of hands", 
+      "FLYING PAINS, RETURNING REGULARLY for a long time", 
+      "Fingers swollen, INSENSIBLE, rigid, stiff", 
+      "Feet insensible", 
+      "Sciatica", 
+      "Gait unsteady, tottering; worse in dark", 
+      "Sore, bruised limbs, anaesthesia of arms and hands", 
+      "Pain in lower limbs, with cramps and formications"
+    ], 
     "Male": [
-      "Desire lost, parts atrophied", 
-      "Frequent profuse emissions"
+      "Frequent profuse emissions", 
+      "Desire lost, parts atrophied"
     ], 
     "Ears": [
       "Hearing impaired", 
-      "Buzzing and singing noises like an Aeolia harp", 
       "Tinnitus aurium", 
-      "Meniere's disease"
+      "Meniere's disease", 
+      "Buzzing and singing noises like an Aeolia harp"
     ]
   }, 
   "details": "This drug has a deep and disorganizing action and an immense range of action judging from the symptomatology. Very useful in patients broken down by abuse of alcohol. Sensitive patients worse cold, wasted muscles, and skin and mucous membranes anaesthetic. Special affinity for eyes. Chronic rheumatism, sensitive and cold. Lack of vital heat. Diarrhoea every four to six weeks. Paralysis with intense congestion of nerve centers. Tabes. Sensory difficulties in limbs. IMPOTENCE, sciatica, come within the therapeutic sphere of this remedy. Chronic plumbism. DIMINISHED SENSIBILITY of arms, hands and feet. Peripheral neuritis.", 

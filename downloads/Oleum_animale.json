@@ -1,19 +1,19 @@
 {
   "name": "Oleum animale", 
-  "Relationship": "Compare: PULS.; ARS.; SILIC.; SEPIA.Antidotes: CAMPH.; OP.", 
+  "Relationship": "Antidotes: CAMPH.; OP.Compare: PULS.; ARS.; SILIC.; SEPIA.", 
   "symptoms": {
     "Eyes": [
-      "Smarting in eyes; misty vision", 
-      "Glistening bodies before eyes", 
-      "Lachrymation when eating", 
       "Short-sighted", 
-      "Twitching of lids"
+      "Lachrymation when eating", 
+      "Glistening bodies before eyes", 
+      "Twitching of lids", 
+      "Smarting in eyes; misty vision"
     ], 
     "Respiratory": [
-      "Chest feels constricted", 
       "Asthma from suppressed foot-sweat", 
+      "STITCHES IN BREAST FROM BEHIND FORWARD", 
       "Oppression", 
-      "STITCHES IN BREAST FROM BEHIND FORWARD"
+      "Chest feels constricted"
     ], 
     "Stomach": [
       "Sensation AS IF WATER WERE IN STOMACH; of coldness, of constriction, and of burning; better, eructations"
@@ -23,61 +23,61 @@
     ], 
     "Modalities": [
       "Worse: after eating", 
-      "Worse: from 2 to nine PMAmelioration", 
-      "Better: by rubbing", 
-      "Better: eructation", 
-      "Better: open air"
+      "Worse: from 2 to nine PMBETTER", 
+      "Worse: by rubbing", 
+      "Worse: eructation", 
+      "Worse: open air"
     ], 
     "Abdomen": [
-      "Flatulence and rumbling", 
-      "Ineffectual urging to stool, with burning in anus", 
+      "Itching in urethra", 
       "After stool, bruised pain in abdomen", 
-      "Urine Section", 
+      "Ineffectual urging to stool, with burning in anus", 
+      "Flatulence and rumbling", 
       "POLYURIA", 
       "Greenish urine, frequent and urgent want to urinate, with tenesmus and scanty emission", 
-      "Itching in urethra"
+      "Urine Section"
     ], 
     "Face": [
       "Feels drawn", 
-      "Cramp-like pains", 
       "TWITCHING OF LIPS", 
+      "Cramp-like pains", 
       "Malar bone feels pulled upward", 
       "Toothache, BETTER PRESSING TEETH TOGETHER"
     ], 
     "Mouth": [
-      "Bites cheek while eating", 
+      "Greasy feeling in mouth", 
       "Tongue feels sore", 
-      "Greasy feeling in mouth"
+      "Bites cheek while eating"
     ], 
     "Nose": [
       "Watery, excoriating discharge; worse in open air"
     ], 
     "Head": [
-      "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing", 
-      "Itching, burning vesicles; better, friction", 
       "Malar bones feel pulled forcibly upward", 
+      "Itching, burning vesicles; better, friction", 
+      "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing", 
       "Migraine with polyuria"
     ], 
     "Throat": [
-      "Sore, dry, constricted", 
-      "Air feels cold"
+      "Air feels cold", 
+      "Sore, dry, constricted"
     ], 
     "Extremities": [
-      "Sprained feeling in small of back", 
-      "Cracking of vertebrae on raising head", 
       "Restlessness", 
       "Rheumatic pain in shoulders", 
+      "Cracking of vertebrae on raising head", 
+      "Sprained feeling in small of back", 
       "Fish-brine odor of sweat of heels"
     ], 
     "Male": [
-      "Desire increased; ejaculation too soon", 
       "Pain along spermatic cord to testicles", 
       "TESTICLES FEEL SEIZED AND PULLED FORCIBLY UPWARD; worse, right", 
+      "Desire increased; ejaculation too soon", 
       "PRESSURE IN THE PERINEUM", 
       "Prostatic hypertrophy"
     ]
   }, 
-  "details": "Acts on the nervous system, especially on pneumogastric region. Useful in migraine and neuralgia of spermatic cord. Burning pains and stitches. \"PULLED UPWARD\" AND \"FROM BEHIND FORWARD\" PAINS.", 
+  "details": "Acts on the nervous system, especially on pneumogastric region. Useful in migraine and neuralgia of spermatic cord. Burning pains and stitches. PULLED UPWARD AND FROM BEHIND FORWARD PAINS.", 
   "Natural History": [
     "Dippel's Animal Oil"
   ], 

@@ -1,14 +1,14 @@
 {
   "name": "Cinnamomum", 
-  "Relationship": "Compare: IPEC.; SIL.; TRILL.Antidote: ACON.", 
+  "Relationship": "Antidote: ACON.Compare: IPEC.; SIL.; TRILL.", 
   "symptoms": {
     "Female": [
-      "Bearing-down sensation", 
       "Menses EARLY, PROFUSE, PROLONGED, BRIGHT RED", 
       "Sleepy", 
+      "Bearing-down sensation", 
+      "Uterine Hemorrhages caused by over-lifting, during puerperal state; menorrhagia", 
       "No desire for anything", 
-      "Fingers seem swollen", 
-      "Uterine Hemorrhages caused by over-lifting, during puerperal state; menorrhagia"
+      "Fingers seem swollen"
     ]
   }, 
   "details": "Cancer where pain and fetor are present. Bets when skin is intact. Its use in Hemorrhages has abundant clinical verification. Nosebleed. Hemorrhages from bowels, hemoptysis, etc. A strain in loins or false step brings on a profuse flow of bright blood. POSTPARTUM HEMORRHAGE. Flatulency and diarrhoea. Feeble patients with languid circulation.", 

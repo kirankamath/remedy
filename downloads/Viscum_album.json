@@ -3,26 +3,26 @@
   "Relationship": "Compare: SECALE; CONVALLAR.; BRY.; PULS.; RHODOD. GUIPSINE - active principle - (exalts the hypotensive properties of Viscum). HEDERA HELIX - Ivy - (Inter cranial pressure).", 
   "symptoms": {
     "Heart": [
-      "Hypertrophy with valvular insufficiency; pulse small and weak; unable to rest in a reclining positions", 
       "Palpitation during coitus", 
-      "Low tension", 
+      "Hypertrophy with valvular insufficiency; pulse small and weak; unable to rest in a reclining positions", 
+      "Weight and oppression of heart; as if a hand were squeezing it; ticking sensation about heart", 
       "Failing compensation, dyspnoea worse lying on left side", 
-      "Weight and oppression of heart; as if a hand were squeezing it; ticking sensation about heart"
+      "Low tension"
     ], 
     "Head": [
-      "Feeling as if whole vault of skull were lifted up", 
       "Blue rings around eyes", 
-      "Double vision", 
-      "Buzzing and stopped-up feeling in ear", 
       "Deafness from cold", 
+      "Feeling as if whole vault of skull were lifted up", 
+      "Buzzing and stopped-up feeling in ear", 
       "Facial muscles in constant agitation", 
+      "Double vision", 
       "Persistent vertigo"
     ], 
     "Respiratory": [
       "Dyspnoea; FEELING OF SUFFOCATING WHEN LYING ON LEFT SIDE", 
-      "Spasmodic cough", 
+      "Stertorous breathing", 
       "ASTHMA, if connected with gout or rheumatism", 
-      "Stertorous breathing"
+      "Spasmodic cough"
     ], 
     "Modalities": [
       "Worse: winter", 
@@ -30,25 +30,25 @@
       "Worse: stormy weather; in bed"
     ], 
     "Female": [
-      "Hemorrhage, with pain; blood partly clots and bright red", 
-      "Climacteric complaints", 
-      "Pain from sacrum into pelvis, with tearing, shooting pains from above downwards", 
-      "Retained placenta", 
-      "Chronic endometritis", 
       "Metrorrhagia", 
-      "Ovaralgia, especially left"
+      "Climacteric complaints", 
+      "Chronic endometritis", 
+      "Hemorrhage, with pain; blood partly clots and bright red", 
+      "Ovaralgia, especially left", 
+      "Pain from sacrum into pelvis, with tearing, shooting pains from above downwards", 
+      "Retained placenta"
     ], 
     "Extremities": [
       "Pains alternate in the knee and ankle with shoulder and elbow", 
-      "SCIATICA", 
-      "TEARING, shooting pains in both thighs and upper extremities", 
-      "A GLOW rises from the feet to the head; seems to be on fire", 
-      "Periodic pains from sacrum into pelvis, WORSE IN BED, with pains into thighs and upper extremities", 
-      "General tremor, as if all muscles were in state of fibrillary contraction", 
-      "Dropsy of extremities", 
       "Sensation of a spider crawling over back of hand and foot", 
-      "Itching all over", 
-      "Compressing pain in feet"
+      "Dropsy of extremities", 
+      "Compressing pain in feet", 
+      "General tremor, as if all muscles were in state of fibrillary contraction", 
+      "Periodic pains from sacrum into pelvis, WORSE IN BED, with pains into thighs and upper extremities", 
+      "TEARING, shooting pains in both thighs and upper extremities", 
+      "SCIATICA", 
+      "A GLOW rises from the feet to the head; seems to be on fire", 
+      "Itching all over"
     ]
   }, 
   "details": "Lowered blood pressure. Dilated blood vessels but does not act on the centers in the medulla. Pulse is slow due to central irritation of the vagus.The symptoms point especially to rheumatic and gouty complaints; neuralgia, especially sciatica. Epilepsy, CHOREA, and metrorrhagia. RHEUMATIC DEAFNESS. ASTHMA. Spinal pains, due to uterine causes. Rheumatism with TEARING PAINS. Hypertensive albuminuria. Valvular disease, with disturbances in sexual sphere. Symptoms like epileptic aura and petit mal.", 

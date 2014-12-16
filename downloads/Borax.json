@@ -1,20 +1,20 @@
 {
   "name": "Borax", 
-  "Relationship": "Acetic acid, vinegar, and wine are incompatible.Antidote: Cham.; Coffea.Compare: Calc.; Bryon.; Sanicula; Sulph-ac.", 
+  "Relationship": "Compare: Calc.; Bryon.; Sanicula; Sulph-ac.Antidote: Cham.; Coffea.Acetic acid, vinegar, and wine are incompatible.", 
   "symptoms": {
     "Eyes": [
-      "Lashes turn inward", 
-      "Visions of bright waves", 
       "Eyelids inflamed, lids cut against eyeball", 
-      "Entropium"
+      "Entropium", 
+      "Lashes turn inward", 
+      "Visions of bright waves"
     ], 
     "Respiratory": [
-      "Hacking and violent cough; expectoration, mouldy taste and smell", 
-      "STITCHES IN CHEST, with inspiration and cough", 
-      "Cough with mouldy taste - breath smells mouldy", 
-      "Pleurodynia; worse upper part of right chest", 
       "Arrest of breathing when lying; is obliged to jump and catch breath, which causes pain in right side", 
-      "Out of breath on going up stairs"
+      "STITCHES IN CHEST, with inspiration and cough", 
+      "Hacking and violent cough; expectoration, mouldy taste and smell", 
+      "Cough with mouldy taste - breath smells mouldy", 
+      "Out of breath on going up stairs", 
+      "Pleurodynia; worse upper part of right chest"
     ], 
     "Modalities": [
       "Worse: downward motion", 
@@ -27,21 +27,21 @@
       "Better: cold weather"
     ], 
     "Mind": [
-      "Extreme anxiety, especially from motions which have a downward direction, rocking, being carried downstairs, laid down", 
-      "Anxious expression of face during the downward motions, starts and throws up hands on laying patient down, as if afraid of falling", 
       "Excessively nervous; easily frightened", 
+      "Anxious expression of face during the downward motions, starts and throws up hands on laying patient down, as if afraid of falling", 
       "SENSITIVE TO SUDDEN NOISES", 
-      "Violent fright from report of a gun, even at a distance", 
-      "Fear of thunder"
+      "Fear of thunder", 
+      "Extreme anxiety, especially from motions which have a downward direction, rocking, being carried downstairs, laid down", 
+      "Violent fright from report of a gun, even at a distance"
     ], 
     "Stool": [
-      "LOOSE, PAPPY, OFFENSIVE STOOLS IN CHILDREN", 
-      "Diarrhoea, offensive, preceded by colic; stools mucous, with aphthous sore mouth", 
-      "Urine Section", 
-      "Hot, smarting pain in orifice", 
       "Pungent smell", 
       "Child afraid to urinate, screams before urinating", 
-      "Small red particles on diaper"
+      "Small red particles on diaper", 
+      "Hot, smarting pain in orifice", 
+      "Diarrhoea, offensive, preceded by colic; stools mucous, with aphthous sore mouth", 
+      "LOOSE, PAPPY, OFFENSIVE STOOLS IN CHILDREN", 
+      "Urine Section"
     ], 
     "Head": [
       "Aches, with nausea and trembling of whole body", 
@@ -49,64 +49,65 @@
     ], 
     "Face": [
       "Pale, earthy, with suffering expression", 
-      "Swollen, with pimples on nose and lips", 
-      "Feeling of cobwebs"
+      "Feeling of cobwebs", 
+      "Swollen, with pimples on nose and lips"
     ], 
     "Mouth": [
       "APHTHAE", 
-      "White fungous like growth", 
-      "Mouth hot and tender; ulcers bleed on touch and eating", 
-      "Painful gum-boil", 
-      "Crying when nursing", 
       "Taste bitter", 
-      "Taste of \"cellar mould", 
-      "\"Stomach and Abdomen", 
-      "Distention after eating; vomiting", 
+      "Mouth hot and tender; ulcers bleed on touch and eating", 
       "Gastralgia, depending upon uterine disturbance", 
-      "Pain as if diarrhoea would result"
+      "Distention after eating; vomiting", 
+      "Painful gum-boil", 
+      "White fungous like growth", 
+      "Stomach and Abdomen", 
+      "Pain as if diarrhoea would result", 
+      "Crying when nursing", 
+      "Taste of cellar mould"
     ], 
     "Female": [
-      "Labor pains with frequent eructations", 
-      "GALACTORRHOEA", 
-      "In nursing, pain IN OPPOSITE BREAST", 
+      "Pruritis of vulva and eczema", 
       "Leucorrhoea with like white of eggs, with sensation as if warm water was flowing", 
-      "Menses TOO SOON, PROFUSE, with gripping, nausea and pain in stomach extending into small of back", 
+      "In nursing, pain IN OPPOSITE BREAST", 
+      "GALACTORRHOEA", 
       "MEMBRANOUS DYSMENORRHOEA", 
-      "Sterility", 
-      "Favors easy conception", 
       "Sensation of distention in clitoris with sticking", 
-      "Pruritis of vulva and eczema"
+      "Favors easy conception", 
+      "Labor pains with frequent eructations", 
+      "Sterility", 
+      "Menses TOO SOON, PROFUSE, with gripping, nausea and pain in stomach extending into small of back"
     ], 
     "Skin": [
       "PSORIASIS", 
+      "Trade eruptions on fingers and hands, itching and stinging", 
+      "Chilblains relieved in open air", 
+      "Ends of hair become tangled", 
       "Erysipelas in face", 
       "Itching on back of finger-joints", 
-      "Unhealthy skin; slight injuries suppurate", 
-      "Herpes", 
       "Erysipelatous inflammation with swelling and tension", 
-      "Chilblains relieved in open air", 
-      "Trade eruptions on fingers and hands, itching and stinging", 
-      "Ends of hair become tangled", 
-      "Sleep", 
-      "Voluptuous dreams", 
+      "Herpes", 
+      "Unhealthy skin; slight injuries suppurate"
+    ], 
+    "Sleep": [
       "Cannot sleep on account of heat, especially in head", 
-      "Cries out of sleep as if frightened"
+      "Cries out of sleep as if frightened", 
+      "Voluptuous dreams"
     ], 
     "Extremities": [
-      "Feeling as of cobwebs on hands", 
-      "Itching on back of finger-joints and hands", 
+      "Pain in heel", 
       "Throbbing pain in tip of thumb", 
       "STITCHES IN SOLE", 
-      "Pain in heel", 
-      "Burning pain in great toe; inflammation of balls of toes", 
-      "Eczema of toes and fingers with loss of nails"
+      "Eczema of toes and fingers with loss of nails", 
+      "Feeling as of cobwebs on hands", 
+      "Itching on back of finger-joints and hands", 
+      "Burning pain in great toe; inflammation of balls of toes"
     ], 
     "Ears": [
       "VERY SENSITIVE TO SLIGHTEST NOISE; not so much disturbed by louder ones", 
-      "Red nose, of young women", 
-      "Red and shining swelling, with throbbing and tensive sensation", 
       "Tip swollen and ulcerated", 
-      "Dry crusts"
+      "Red and shining swelling, with throbbing and tensive sensation", 
+      "Dry crusts", 
+      "Red nose, of young women"
     ]
   }, 
   "details": "Gastrointestinal irritation. Salivation, nausea, vomiting, colic, diarrhoea, collapse, albuminuria, casts and vesical spasm. Delirium, visual changes, hematuria, and skin eruptions have all be observed from over-dosing.DREAD OF DOWNWARD MOTION in nearly all complaints. For homeopathic purposes, the peculiar nervous symptoms are very characteristic, and have frequently been verified, especially in the therapeutics of children. Of much value in epilepsy. Aphthous ulceration of mucous membranes.", 

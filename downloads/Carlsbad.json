@@ -7,13 +7,14 @@
       "Aches, with swollen temporal veins ; better, motion, in open air"
     ], 
     "Stomach": [
-      "Tongue coated white", 
-      "Offensive smell from mouth", 
-      "Furry sensation", 
       "Sour or salty taste", 
-      "Hiccough and yawning", 
-      "Heartburn Urine Section", 
-      "Stream WEAK AND SLOW; only passed by pressing abdominal muscles"
+      "Offensive smell from mouth", 
+      "Heartburn", 
+      "Stream WEAK AND SLOW; only passed by pressing abdominal muscles", 
+      "Tongue coated white", 
+      "Furry sensation", 
+      "Urine Section", 
+      "Hiccough and yawning"
     ], 
     "Mind": [
       "Discouraged and anxious about domestic duties"
@@ -22,9 +23,9 @@
       "Yellow, sallow; red and hot; pain in zygomatic process; feels as if cobwebs were on it"
     ], 
     "Rectum": [
-      "FAECES HELD BACK", 
-      "Stool slow, and only passed by much abdominal pressure", 
       "Burning in rectum and anus", 
+      "Stool slow, and only passed by much abdominal pressure", 
+      "FAECES HELD BACK", 
       "Bleeding piles"
     ], 
     "dosage": ""

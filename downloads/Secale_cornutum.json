@@ -12,65 +12,61 @@
       "Sense of internal heat"
     ], 
     "Stomach": [
-      "UNNATURAL RAVENOUS APPETITE; CRAVES acids", 
-      "THIRST unquenchable", 
-      "Singultus, nausea; vomiting of blood and coffee-grounds fluid", 
       "Burning in stomach and abdomen; tympanites", 
-      "Eructations of bad odor"
+      "THIRST unquenchable", 
+      "UNNATURAL RAVENOUS APPETITE; CRAVES acids", 
+      "Eructations of bad odor", 
+      "Singultus, nausea; vomiting of blood and coffee-grounds fluid"
     ], 
     "Female": [
-      "Menstrual colic, with coldness and intolerance of heat", 
-      "Passive hemorrhages in feeble, cachetic women", 
-      "Burning pains in uterus", 
-      "BROWNISH, OFFENSIVE LEUCORRHOEA", 
-      "Menses irregular, copious, dark; CONTINUOUS OOZING OF WATERY BLOOD until next period", 
-      "Threatened abortion about the THIRD month", 
       "During labor no expulsive action, though everything is relaxed", 
-      "After-pains", 
       "Suppression of milk; breasts do not fill properly", 
+      "Burning pains in uterus", 
+      "Passive hemorrhages in feeble, cachetic women", 
+      "BROWNISH, OFFENSIVE LEUCORRHOEA", 
+      "Puerperal fever, putrid discharges, tympanitis, coldness, suppressed urine", 
+      "Menses irregular, copious, dark; CONTINUOUS OOZING OF WATERY BLOOD until next period", 
+      "After-pains", 
+      "Threatened abortion about the THIRD month", 
       "Dark, offensive lochia", 
-      "Puerperal fever, putrid discharges, tympanitis, coldness, suppressed urine"
+      "Menstrual colic, with coldness and intolerance of heat"
     ], 
     "Modalities": [
-      "Worse: heat", 
-      "Worse: WARM COVERING", 
       "Better: cold", 
       "Better: UNCOVERING", 
       "Better: rubbing", 
-      "Better: stretching out limbs"
+      "Better: stretching out limbs", 
+      "Worse: heat", 
+      "Worse: WARM COVERING"
     ], 
     "Stool": [
-      "Cholera-like stools, with coldness and cramps", 
-      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION", 
-      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
-      "Urine Section", 
-      "Paralysis of bladder", 
       "Retention, with unsuccessful urging", 
+      "Cholera-like stools, with coldness and cramps", 
+      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
       "Discharge of black blood from bladder", 
-      "Enuresis in old people"
+      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION", 
+      "Enuresis in old people", 
+      "Paralysis of bladder", 
+      "Urine Section"
     ], 
     "Back": [
-      "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
+      "Myelitis", 
       "LOCOMOTOR ATAXIA", 
-      "Formication and numbness", 
-      "Myelitis"
+      "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
+      "Formication and numbness"
     ], 
     "Face": [
+      "SPASMODIC DISTORTION", 
       "PALE, PINCHED, SUNKEN", 
-      "Cramps commence in face and spread over whole body", 
       "Livid spots on face", 
-      "SPASMODIC DISTORTION"
+      "Cramps commence in face and spread over whole body"
     ], 
     "Chest": [
-      "Angina pectoris", 
-      "Dyspnoea and oppression, with cramp in diaphragm", 
       "Boring pain in chest", 
       "Precordial tenderness", 
       "Palpitation, with contracted and intermittent pulse", 
-      "Sleep", 
-      "Profound and long", 
-      "Insomnia with restlessness, fever, anxious dreams", 
-      "INSOMNIA OF DRUG AND LIQUOR HABITUES"
+      "Dyspnoea and oppression, with cramp in diaphragm", 
+      "Angina pectoris"
     ], 
     "Mouth": [
       "Tongue dry, CRACKED; BLOOD LIKE INK EXUDES, coated thick; viscid, yellowish, cold livid", 
@@ -80,39 +76,44 @@
     "Head": [
       "Passive, congestive pain , with pale face", 
       "Head drawn back", 
-      "Falling of hair; dry and gray", 
-      "NOSEBLEED, dark, oozing"
+      "NOSEBLEED, dark, oozing", 
+      "Falling of hair; dry and gray"
     ], 
     "Skin": [
-      "Shriveled, numb; mottled dusky-blue tinge", 
-      "Scleraema and oedema neonatorum", 
-      "Raynaud's disease", 
+      "FORMICATION UNDER SKIN", 
+      "Livid spots", 
       "Blue color", 
-      "DRY GANGRENE, developing slowly", 
       "VARICOSE ULCERS", 
       "BURNING SENSATION; better by cold; WANTS PARTS UNCOVERED, though cold to touch", 
       "Formication; petechiae", 
-      "Slight wounds continue to bleed", 
-      "Livid spots", 
-      "Boils, small, painful, with green contents; mature slowly", 
-      "SKIN FEELS COLD TO TOUCH, yet covering is not tolerated", 
       "GREAT AVERSION TO HEAT", 
-      "FORMICATION UNDER SKIN"
+      "Scleraema and oedema neonatorum", 
+      "Raynaud's disease", 
+      "SKIN FEELS COLD TO TOUCH, yet covering is not tolerated", 
+      "Boils, small, painful, with green contents; mature slowly", 
+      "DRY GANGRENE, developing slowly", 
+      "Shriveled, numb; mottled dusky-blue tinge", 
+      "Slight wounds continue to bleed"
+    ], 
+    "Sleep": [
+      "Insomnia with restlessness, fever, anxious dreams", 
+      "Profound and long", 
+      "INSOMNIA OF DRUG AND LIQUOR HABITUES"
     ], 
     "Extremities": [
-      "Cold, dry hands and feet of excessive smokers with feeling of fuzziness in fingers", 
-      "Trembling, staggering gait", 
-      "Formication, pain and spasmodic movements", 
+      "Violent pain in finger-tips, tingling in toes", 
       "Numbness", 
-      "Fingers and feet bluish, shriveled, SPREAD APART OR BENT BACKWARDS, numb", 
-      "VIOLENT CRAMPS", 
+      "Formication, pain and spasmodic movements", 
       "ICY COLDNESS OF EXTREMITIES", 
-      "Violent pain in finger-tips, tingling in toes"
+      "Fingers and feet bluish, shriveled, SPREAD APART OR BENT BACKWARDS, numb", 
+      "Trembling, staggering gait", 
+      "VIOLENT CRAMPS", 
+      "Cold, dry hands and feet of excessive smokers with feeling of fuzziness in fingers"
     ]
   }, 
   "details": "Produces contraction of the un striped muscular fibers; hence a constringent feeling throughout the whole body. This produces an anaemic condition, coldness, numbness, petechiae, mortification, gangrene. A useful remedy for old people with shriveled skin - thin, scrawny old women. All the Secale conditions are BETTER FROM COLD; the whole body is pervaded by a sense of great heat. Hemorrhages; continued oozing; THIN, fetid, watery black blood. DEBILITY, ANXIETY, EMACIATION, THOUGH APPETITE AND THIRST MAY BE EXCESSIVE. Facial and abdominal muscles twitch. Secale decreases the flow of pancreatic juice by raising the blood pressure. (Hinsdale).", 
   "Natural History": [
-    "Claviceps PurpureaErgot"
+    "ErgotClaviceps Purpurea"
   ], 
-  "dosage": "First to thirtieth potency. NON-HOMEOPATHIC USE. If hemorrhages of the puerperium, after the uterus is entirely emptied, when it fails to contract satisfactorily and in secondary puerperal hemorrhage the result of incomplete involution of the uterus, give one-half to one dram of the fluid extract. Remember Pagot's law, \"As long as the uterus contains anything, be it child, placenta, membranes, clots, never administer Ergot.\""
+  "dosage": "First to thirtieth potency. NON-HOMEOPATHIC USE. If hemorrhages of the puerperium, after the uterus is entirely emptied, when it fails to contract satisfactorily and in secondary puerperal hemorrhage the result of incomplete involution of the uterus, give one-half to one dram of the fluid extract. Remember Pagot's law, As long as the uterus contains anything, be it child, placenta, membranes, clots, never administer Ergot."
 }

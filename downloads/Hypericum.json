@@ -3,26 +3,26 @@
   "Relationship": "Compare: LEDUM (punched wounds and bites of animals); ARNICA; STAPHIS.; CALEN.; RUTA; COFF.Antidotes: ARS.; CHAM.", 
   "symptoms": {
     "Head": [
-      "Heavy; feels as if touched by AN ICY COLD HAND", 
-      "THROBBING IN VERTEX; worse in close room", 
-      "Brain seems compressed", 
-      "Right side of face aches", 
-      "Brain-fag and neurasthenia", 
+      "In fractured skull, bone splinters", 
       "Facial neuralgia and toothache of a pulling, tearing character, with sadness", 
       "HEAD FEELS LONGER - elongated to a point", 
-      "In fractured skull, bone splinters", 
       "Brain feels alive", 
+      "Brain seems compressed", 
+      "THROBBING IN VERTEX; worse in close room", 
       "Pains in eyes and ears", 
-      "Falling out of hair"
+      "Falling out of hair", 
+      "Brain-fag and neurasthenia", 
+      "Heavy; feels as if touched by AN ICY COLD HAND", 
+      "Right side of face aches"
     ], 
     "Respiratory": [
       "Asthma WORSE foggy weather and relieved by profuse perspiration"
     ], 
     "Stomach": [
-      "Craving for wine", 
+      "Feeling of lump in stomach", 
       "Thirst; NAUSEA", 
-      "Tongue coated white at base, tip clean", 
-      "Feeling of lump in stomach"
+      "Craving for wine", 
+      "Tongue coated white at base, tip clean"
     ], 
     "Modalities": [
       "Worse: in cold; dampness", 
@@ -30,46 +30,46 @@
       "Better: bending head backward"
     ], 
     "Mind": [
-      "Feels as if lifted high in air, or anxiety lest he fall from heights", 
+      "Melancholy", 
       "Mistakes in writing", 
-      "Effects of shock", 
-      "Melancholy"
+      "Feels as if lifted high in air, or anxiety lest he fall from heights", 
+      "Effects of shock"
     ], 
     "Back": [
+      "Coccyx injury from fall, with pain radiating up spine and down limbs", 
+      "Spinal concussion", 
       "Pain in nape of neck", 
       "PRESSURE OVER SACRUM", 
-      "Spinal concussion", 
-      "Coccyx injury from fall, with pain radiating up spine and down limbs", 
       "Jerking and twitching of muscles"
     ], 
     "Skin": [
+      "Old ulcers or sores in mouth when very sensitive", 
       "Hyperidrosis, sweating of scalp, worse in morning after sleep; falling of hair from injury; eczema of hands and face, intense itching, eruption seems to be under the skin", 
       "Herpes zoster", 
-      "Old ulcers or sores in mouth when very sensitive", 
       "Lacerated wounds with much prostration from loss of blood"
     ], 
     "Rectum": [
-      "Urging, dry, dull, pressing pain", 
-      "HEMORRHOIDS, with pain, bleeding, and tenderness"
+      "HEMORRHOIDS, with pain, bleeding, and tenderness", 
+      "Urging, dry, dull, pressing pain"
     ], 
     "Extremities": [
-      "Darting pain in shoulders", 
-      "Pressure along ulnar side of arm", 
-      "Cramp in calves", 
-      "Pain in toes and fingers, especially in tips", 
-      "CRAWLING IN HAND AND FEET", 
-      "Lancinating pain in upper and lower limbs", 
-      "NEURITIS, with tingling, burning pain, numbness and flossy skin", 
-      "Joints feel bruised", 
       "Hysterical joints", 
+      "Traumatic neuralgia and neuritis", 
       "Tetanus", 
-      "Traumatic neuralgia and neuritis"
+      "NEURITIS, with tingling, burning pain, numbness and flossy skin", 
+      "Darting pain in shoulders", 
+      "Pain in toes and fingers, especially in tips", 
+      "Cramp in calves", 
+      "Pressure along ulnar side of arm", 
+      "Joints feel bruised", 
+      "CRAWLING IN HAND AND FEET", 
+      "Lancinating pain in upper and lower limbs"
     ]
   }, 
   "details": "The great remedy for injuries to nerves, especially of fingers, toes and nails. Crushed fingers, especially tips. Excessive painfulness is a guiding symptom to its use. Prevents lockjaw. PUNCTURED wounds. Relieves pain after operations. Quite supersedes the use of Morphia after operations. (Helmuth.) Spasms after every injury. Has an important action on the rectum; hemorrhoids. COCCYDYNIA. Spasmodic asthmatic attacks with changes of weather or before storms, better by copious expectoration. Injured nerves from bites of animals. Tetanus. Neuritis, tingling, burning and numbness. Constant drowsiness.", 
   "Natural History": [
-    "St", 
-    "John's-wort"
+    "John's-wort", 
+    "St"
   ], 
   "dosage": "Tincture, to third potency."
 }

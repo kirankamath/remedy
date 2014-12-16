@@ -5,9 +5,9 @@
     "Eyes": [
       "CILIARY NEURALGIA", 
       "Bursting pain in right eyeball shooting like lightning through the brain to occiput", 
-      "SUDDEN PAIN IN LEFT EYE AS IF IT WOULD BURST, better by lachrymation", 
       "Iridochoroiditis", 
       "Opacity of vitreous humor", 
+      "SUDDEN PAIN IN LEFT EYE AS IF IT WOULD BURST, better by lachrymation", 
       "Eyes feel as if bursting"
     ], 
     "Respiratory": [
@@ -17,29 +17,29 @@
       "Furious beating of heart; worse, slightest motion"
     ], 
     "Head": [
-      "Pressing-asunder pain beneath skull", 
-      "SHOOTING FROM RIGHT FRONTAL BONE THROUGH BRAIN TO OCCIPUT", 
       "PAIN IN RIGHT EYEBALL, AS IF IT WOULD BURST", 
-      "Piercing toothache, as if teeth were pulled out; worse, taking anything warm"
+      "Piercing toothache, as if teeth were pulled out; worse, taking anything warm", 
+      "SHOOTING FROM RIGHT FRONTAL BONE THROUGH BRAIN TO OCCIPUT", 
+      "Pressing-asunder pain beneath skull"
     ], 
     "Abdomen": [
-      "Ascites", 
-      "Cramp-like pain in bladder region; worse, walking"
+      "Cramp-like pain in bladder region; worse, walking", 
+      "Ascites"
     ], 
     "Skin": [
+      "Itching on tips of fingers, as if frozen", 
       "Herpes zoster", 
-      "DROPSY", 
-      "Itching on tips of fingers, as if frozen"
+      "DROPSY"
     ], 
     "Rectum": [
+      "HURRIEDLY IMPELLED TO URINATE; THE URINE SEEMS TO PASS AS FAR AS GLANS, AND THEN RETURNS AND CAUSES PAIN IN URETHRA", 
+      "Tenesmus of bladder", 
+      "Neuralgic dysuria", 
+      "Ineffectual effort to urinate", 
       "Hard, nodular stool, with rectal pain, as if angular body were pressed inward", 
       "Burning in anus after slimy diarrhoea", 
-      "Urine Section", 
-      "Tenesmus of bladder", 
-      "Ineffectual effort to urinate", 
-      "HURRIEDLY IMPELLED TO URINATE; THE URINE SEEMS TO PASS AS FAR AS GLANS, AND THEN RETURNS AND CAUSES PAIN IN URETHRA", 
-      "Neuralgic dysuria", 
-      "MUST PRESS A LONG TIME BEFORE URINE APPEARS"
+      "MUST PRESS A LONG TIME BEFORE URINE APPEARS", 
+      "Urine Section"
     ]
   }, 
   "details": "Special action on the urinary organs and head. Very valuable in certain neuralgias, anasarca, and especially oedema pedum. Ankle and foot feel sprained. CILIARY NEURALGIA. (SPIG.)", 

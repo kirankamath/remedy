@@ -6,47 +6,47 @@
   "symptoms": {
     "Head": [
       "Very impatient, cross, and irritable", 
-      "Frontal headache, with ENLARGED FEELING OF EYES", 
-      "FACE WRINKLED AND OLD-LOOKING"
+      "FACE WRINKLED AND OLD-LOOKING", 
+      "Frontal headache, with ENLARGED FEELING OF EYES"
     ], 
     "Fever": [
       "Feels a glow all over, like being over steam; CHILLY, while sitting beside the fire"
     ], 
     "Stomach": [
-      "Breath and taste foul", 
-      "Intense nausea, with vomiting, purging, and faintness", 
-      "Stool very offensive", 
-      "Abdomen bloated", 
-      "Urine Section", 
-      "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
-      "Flow stops suddenly followed by pain Urine foul", 
       "Cannot retain urine; must attend to the call without delay", 
-      "Irritable bladder before menses"
+      "Stool very offensive", 
+      "Breath and taste foul", 
+      "Irritable bladder before menses", 
+      "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
+      "Abdomen bloated", 
+      "Flow stops suddenly followed by pain Urine foul", 
+      "Intense nausea, with vomiting, purging, and faintness", 
+      "Urine Section"
     ], 
     "Modalities": [
-      "Better: sitting or lying down", 
       "Worse: left side", 
-      "Worse: moving about"
+      "Worse: moving about", 
+      "Better: sitting or lying down"
     ], 
     "Back": [
       "Aches, weak; drawing of muscles below scapulae"
     ], 
     "Mouth": [
-      "Metallic taste", 
       "Sensation of a thread in throat", 
+      "Metallic taste", 
       "Thirsty, especially during headache"
     ], 
     "Female": [
-      "Menses delayed", 
-      "Increased flow of saliva during", 
-      "Intense burning in vagina", 
       "Leucorrhoea, profuse, foul, staining a greenish yellow; stains of menses and leucorrhoea very hard to wash out", 
-      "Backache"
+      "Increased flow of saliva during", 
+      "Backache", 
+      "Menses delayed", 
+      "Intense burning in vagina"
     ], 
     "Skin": [
-      "Prickly itching", 
+      "Skin emits foul odor", 
       "Sore spots all over", 
-      "Skin emits foul odor"
+      "Prickly itching"
     ]
   }, 
   "name": "Pulex irritans", 

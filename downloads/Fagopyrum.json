@@ -4,19 +4,19 @@
   "symptoms": {
     "Heart": [
       "Pain around heart, better lying on back, extending to left shoulder and arm", 
-      "THROBBING IN ALL ARTERIES after retiring", 
-      "Palpitation with oppression", 
       "Pulse irregular, intermittent, rapid", 
-      "Light feeling in chest"
+      "Light feeling in chest", 
+      "Palpitation with oppression", 
+      "THROBBING IN ALL ARTERIES after retiring"
     ], 
     "Eyes": [
       "ITCHING and smarting, swelling, heat and soreness"
     ], 
     "Stomach": [
-      "Eructations of SCALDING, HOT, acid, watery substance; better, coffee", 
-      "Bad taste in the morning", 
       "Persistent, morning nausea", 
-      "Drooling"
+      "Eructations of SCALDING, HOT, acid, watery substance; better, coffee", 
+      "Drooling", 
+      "Bad taste in the morning"
     ], 
     "Modalities": [
       "Better: cold water", 
@@ -26,40 +26,40 @@
     ], 
     "Head": [
       "Inability to study or remember", 
-      "Depressed and irritable", 
-      "Itching of eyes and ears", 
-      "Pains deep in head, WITH UPWARD PRESSURE", 
-      "Itching in and around eyes and ears", 
       "Head hot, better bending backward, with tired neck", 
-      "Occipital headache", 
+      "Itching in and around eyes and ears", 
+      "Cerebral hyperaemia", 
+      "Itching of eyes and ears", 
+      "Depressed and irritable", 
       "Bursting pains", 
-      "Cerebral hyperaemia"
+      "Pains deep in head, WITH UPWARD PRESSURE", 
+      "Occipital headache"
     ], 
     "Nose": [
-      "Sore, red, inflamed", 
-      "Fluent coryza, with sneezing, followed by dryness and crust formation"
+      "Fluent coryza, with sneezing, followed by dryness and crust formation", 
+      "Sore, red, inflamed"
     ], 
     "Female": [
       "PRURITUS VULVAE, WITH YELLOW LEUCORRHOEA, worse, rest", 
       "Burning in right ovary"
     ], 
     "Skin": [
-      "ITCHING; better by bathing in cold water; worse scratching, touch and retiring", 
+      "Skin, hot, swollen", 
       "Sore red blotches", 
-      "Blind boils", 
-      "Itching of knees and elbows and hairy portions", 
       "ITCHING OF HANDS, DEEP IN", 
+      "Itching of knees and elbows and hairy portions", 
+      "ITCHING; better by bathing in cold water; worse scratching, touch and retiring", 
       "Vesicular, pustular, phlegmonous dermatitis", 
-      "Skin, hot, swollen"
+      "Blind boils"
     ], 
     "Throat": [
-      "Soreness and feeling of excoriation, deep down pharynx", 
-      "Uvula elongated, tonsils swollen"
+      "Uvula elongated, tonsils swollen", 
+      "Soreness and feeling of excoriation, deep down pharynx"
     ], 
     "Extremities": [
-      "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head", 
-      "Pain in shoulder, with pain along fingers", 
       "VEHEMENT ITCHING IN ARMS AND LEGS; worse towards evening", 
+      "Pain in shoulder, with pain along fingers", 
+      "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head", 
       "Feet numb and pricking", 
       "Streaking pains in arms and legs"
     ]

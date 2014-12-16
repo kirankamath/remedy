@@ -3,92 +3,92 @@
   "Relationship": "Compare: KALI HYPO PHOSPH. (DEBILITY WITH WASTING OF MUSCULAR TISSUE. Phosphaturia with general anemia or leucocythemia. Effects of excessive tea drinking. Chronic bronchitis where the expectoration is THICK AND FETID, sometimes SCANTY AND TOUGH. Dose - 5 grains of crude to 3X.) GENISTA - Dyer's Weed - (contains scopolamin; frontal headache and vertigo, worse motion, better open air and eating. Dry throat, awakes with water brash. Itching eruption on elbows, knees, and ankles. Promotes diuresis in dropsical conditions.) MACROZAMIA SPIRALIS. (Extreme debility after severe illness; collapse. Weariness from no assignable cause, no pains. Boring pain at vertex; vomiting and retching all night; impossible to eyes, giddiness and cold.) ZINC.; GELS.; CIMICIF.; LACHES.; MUR-AC.", 
   "symptoms": {
     "Eyes": [
-      "Weakness of sight; loss of perceptive power; after diphtheria; from exhaustion", 
-      "Drooping of eyelids"
+      "Drooping of eyelids", 
+      "Weakness of sight; loss of perceptive power; after diphtheria; from exhaustion"
     ], 
     "Fever": [
       "Subnormal temperature"
     ], 
     "Stomach": [
-      "A nervous \"gone\" sensation at the pit of the stomach", 
+      "A nervous gone sensation at the pit of the stomach", 
       "Feels seasick without nausea"
     ], 
     "Female": [
       "Menstruation TOO LATE OR TOO SCANTY in pale, irritable, sensitive, lachrymose females", 
-      "Too profuse discharge, deep-red or blackish-red, thin and not coagulating; some times with offensive odor", 
-      "Feeble and ineffectual labor pains"
+      "Feeble and ineffectual labor pains", 
+      "Too profuse discharge, deep-red or blackish-red, thin and not coagulating; some times with offensive odor"
     ], 
     "Modalities": [
+      "Better: warmth", 
+      "Better: rest", 
+      "Better: nourishment", 
       "Worse: excitement", 
       "Worse: worry", 
       "Worse: mental and physical exertion; eating", 
       "Worse: cold", 
-      "Worse: early morning", 
-      "Better: warmth", 
-      "Better: rest", 
-      "Better: nourishment"
+      "Worse: early morning"
     ], 
     "Mind": [
-      "Anxiety, NERVOUS DREAD, lethargy", 
+      "Somnambulance", 
       "Indisposition to meet people", 
       "Extreme lassitude and depression", 
-      "Very nervous, starts easily, IRRITABLE", 
       "Brain-fag; hysteria; NIGHT TERRORS", 
-      "Somnambulance", 
-      "Loss of memory", 
       "SLIGHTEST LABOR SEEMS A HEAVY TASK", 
+      "Anxiety, NERVOUS DREAD, lethargy", 
+      "Very nervous, starts easily, IRRITABLE", 
       "Great despondency about business", 
-      "Shyness; disinclined to converse"
+      "Shyness; disinclined to converse", 
+      "Loss of memory"
     ], 
     "Abdomen": [
-      "Diarrhoea; foul, PUTRID ODOR; occasioned by fright, with depression and exhaustion", 
-      "Diarrhoea while eating", 
-      "Dysentery; stools consist of pure blood; patient becomes delirious; abdomen swells", 
       "Cholera; stools have the appearance of rice water", 
-      "Prolapsus recti"
+      "Dysentery; stools consist of pure blood; patient becomes delirious; abdomen swells", 
+      "Diarrhoea while eating", 
+      "Prolapsus recti", 
+      "Diarrhoea; foul, PUTRID ODOR; occasioned by fright, with depression and exhaustion"
     ], 
     "Face": [
-      "Livid and sunken, with hollow eyes", 
-      "Right-sided neuralgia, relieved by cold applications"
+      "Right-sided neuralgia, relieved by cold applications", 
+      "Livid and sunken, with hollow eyes"
     ], 
     "Respiratory": [
-      "Asthma; least food aggravates", 
+      "Cough; YELLOW expectoration", 
       "Short breath on going upstairs", 
-      "Cough; YELLOW expectoration"
+      "Asthma; least food aggravates"
     ], 
     "Mouth": [
       "BREATH OFFENSIVE, FETID", 
-      "Tongue coated brownish, like mustard", 
       "EXCESSIVELY DRY, in the morning", 
+      "Gums spongy and receding", 
       "Toothache, with easily-bleeding gums; they have a bright-red seam on them", 
-      "Gums spongy and receding"
+      "Tongue coated brownish, like mustard"
     ], 
     "Nose": [
       "Nasal disease, with offensive odor; fetid discharge"
     ], 
     "Head": [
       "Occipital headache; better, after rising", 
+      "Headaches are relieved by gentle motion", 
       "Vertigo, from lying, on standing up, from sitting, and when looking upward", 
       "CEREBRAL ANAEMIA", 
-      "Headaches are relieved by gentle motion", 
       "Headache, with weary, empty, gone feeling at stomach"
     ], 
     "Throat": [
-      "Gangrenous sore throat", 
-      "Paralysis of the vocal cords"
+      "Paralysis of the vocal cords", 
+      "Gangrenous sore throat"
     ], 
     "Extremities": [
-      "Paralytic lameness in back and extremities", 
+      "Pains, with depression, and subsequent exhaustion", 
       "Exertion aggravates", 
-      "Pains, with depression, and subsequent exhaustion"
+      "Paralytic lameness in back and extremities"
     ], 
     "Male": [
-      "Nocturnal emissions; sexual power diminished; utter prostration after coitus", 
-      "Urinary Organs", 
-      "Enuresis", 
       "Incontinence of urine", 
       "Bleeding from the urethra", 
-      "VERY YELLOW URINE"
+      "Nocturnal emissions; sexual power diminished; utter prostration after coitus", 
+      "VERY YELLOW URINE", 
+      "Enuresis", 
+      "Urinary Organs"
     ], 
     "Ears": [
       "HUMMING AND BUZZING IN THE EARS"

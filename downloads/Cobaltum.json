@@ -3,50 +3,51 @@
   "Relationship": "Compare: CANNAB. IND.; SEPIA; ZINC.; AGNUS; SELEN.", 
   "symptoms": {
     "Head": [
-      "Aches; worse, bending head FORWARD", 
-      "Itching of hairy scalp and beard", 
-      "Teeth", 
       "Feel too long", 
-      "Pain in teeth", 
+      "Itching of hairy scalp and beard", 
+      "Coated white", 
+      "Aches; worse, bending head FORWARD", 
+      "Teeth", 
       "Cracks across tongue", 
-      "Coated white"
+      "Pain in teeth"
     ], 
     "Rectum": [
       "Constant dropping of blood from the anus, no blood from the stools"
     ], 
     "Mind": [
-      "All mental excitement increases suffering", 
-      "Constant interchange of mental moods"
+      "Constant interchange of mental moods", 
+      "All mental excitement increases suffering"
     ], 
     "Back": [
-      "PAIN IN BACK AND SACRUM; WORSE WHILE SITTING; better, walking or lying", 
-      "Weakness in legs and backache after emissions"
+      "Weakness in legs and backache after emissions", 
+      "PAIN IN BACK AND SACRUM; WORSE WHILE SITTING; better, walking or lying"
     ], 
     "Abdomen": [
       "Shooting in liver", 
       "Pain in spleen"
     ], 
+    "Sleep": [
+      "Unrefreshing; DISTURBED BY LEWD DREAMS"
+    ], 
     "Skin": [
-      "Dry and pimply", 
-      "Pimples about nates, chin, hairy scalp"
+      "Pimples about nates, chin, hairy scalp", 
+      "Dry and pimply"
     ], 
     "Extremities": [
       "Aching in wrist-joints", 
-      "Shooting into thighs from liver", 
-      "WEAK KNEES", 
-      "Trembling in limbs", 
-      "Tingling in feet", 
       "Foot-sweat, mostly between toes", 
-      "Sleep", 
-      "Unrefreshing; DISTURBED BY LEWD DREAMS"
+      "WEAK KNEES", 
+      "Shooting into thighs from liver", 
+      "Tingling in feet", 
+      "Trembling in limbs"
     ], 
     "Male": [
+      "Backache in lumbar region and weak legs", 
       "Pain in right testicle; better, urinating", 
       "EMISSIONS without erection", 
-      "Impotence", 
-      "Backache in lumbar region and weak legs", 
+      "Pain in end of urethra; greenish discharge; brown spots on genitals and abdomen", 
       "Lewd dreams", 
-      "Pain in end of urethra; greenish discharge; brown spots on genitals and abdomen"
+      "Impotence"
     ]
   }, 
   "details": "Adapted to neurasthenic spinal states. Sexual disturbances. Fatigue, agitation, and bone pains, worse in morning.", 

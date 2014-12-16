@@ -3,52 +3,52 @@
   "Relationship": "Compare: Digitalis; Radium; Aragallus; Oxtrop; Astrag. Complementary: Dulc.; Silica; Psorin. Incompatible: Calc. Antidote for poisonous doses: Epsom salts.", 
   "symptoms": {
     "Head": [
-      "Vertigo; stitches, when standing in the sun, extending through head", 
-      "Brain feels as if loose", 
       "Hair falls out", 
       "Confusion", 
+      "Brain feels as if loose", 
+      "Vertigo; stitches, when standing in the sun, extending through head", 
       "WENS"
     ], 
     "Stomach": [
-      "Water brash, hiccough, and eructation, which relieves pressure as of a stone", 
       "Hungry, but refuses food", 
-      "Pain and weight immediately after a meal, with epigastric tenderness", 
       "Worse after warm food", 
+      "Pain and weight immediately after a meal, with epigastric tenderness", 
+      "Water brash, hiccough, and eructation, which relieves pressure as of a stone", 
       "Gastric weakness in the aged with possible malignancy present"
     ], 
     "Abdomen": [
-      "HARD AND TENSE, DISTENDED", 
-      "Colicky", 
       "Enlarged mesenteric glands", 
+      "Colicky", 
+      "Habitual colic, with hunger, but food is refused", 
       "Pain in abdomen swallowing food", 
-      "Habitual colic, with hunger, but food is refused"
+      "HARD AND TENSE, DISTENDED"
     ], 
     "Mouth": [
-      "Awakes with dry mouth", 
-      "Gums bleed and retract", 
-      "Teeth ache before menses", 
-      "Mouth filled with inflamed vesicles, foul taste", 
-      "Paralysis of tongue", 
       "Smarting, burning pain in tip of tongue", 
+      "Spasms of oesophagus when food enters", 
+      "Teeth ache before menses", 
       "Dribbling of saliva at dawn", 
-      "Spasms of oesophagus when food enters"
+      "Awakes with dry mouth", 
+      "Mouth filled with inflamed vesicles, foul taste", 
+      "Gums bleed and retract", 
+      "Paralysis of tongue"
     ], 
     "Rectum": [
+      "Every time patient urinates, his piles come down", 
       "Constipation, with hard, knotty stools", 
       "Hemorrhoids protrude on urinating", 
       "Crawling in rectum", 
-      "Oozing at anus", 
-      "Urinary Organs", 
-      "Every time patient urinates, his piles come down", 
       "Urging to urinate", 
-      "Burning in urethra on urinating"
+      "Oozing at anus", 
+      "Burning in urethra on urinating", 
+      "Urinary Organs"
     ], 
     "Respiratory": [
+      "Lungs feel full of smoke", 
+      "Stitches in chest; worse inspiration", 
       "Dry, suffocative cough, especially in old people, full of mucus but lacking strength to expectorate, worse every change of weather", 
       "Larynx feels as if smoke were inhaled", 
-      "Chronic aphonia", 
-      "Stitches in chest; worse inspiration", 
-      "Lungs feel full of smoke"
+      "Chronic aphonia"
     ], 
     "Eyes": [
       "Alternate dilatation and contraction of pupils", 
@@ -61,79 +61,80 @@
       "Upper lip swollen"
     ], 
     "Nose": [
-      "Dry; sneezing, CORYZA, WITH SWELLING OF UPPER LIP AND NOSE", 
-      "Sensation of smoke in nose", 
       "Discharge of thick, yellow mucus", 
-      "Frequent bleeding", 
-      "Scabs around wings of nose"
+      "Scabs around wings of nose", 
+      "Sensation of smoke in nose", 
+      "Dry; sneezing, CORYZA, WITH SWELLING OF UPPER LIP AND NOSE", 
+      "Frequent bleeding"
     ], 
     "Male": [
       "Diminished desire and premature impotence", 
-      "Enlarged prostate", 
-      "Testicles indurated"
+      "Testicles indurated", 
+      "Enlarged prostate"
     ], 
     "Ears": [
-      "Hardness of hearing", 
-      "CRACKLING NOISE", 
       "GLANDS AROUND EARS PAINFUL AND SWOLLEN", 
-      "Reverberation on blowing nose"
+      "Hardness of hearing", 
+      "Reverberation on blowing nose", 
+      "CRACKLING NOISE"
     ], 
     "Heart": [
       "Palpitation and distress in region of heart", 
-      "Aneurism", 
       "Accelerates the heart's action at first, blood pressure much increased, contraction of blood vessels", 
-      "Palpitation when lying on left side, when thinking of it especially; pulse full and hard", 
-      "Cardiac symptoms after suppressed foot-sweat"
+      "Cardiac symptoms after suppressed foot-sweat", 
+      "Aneurism", 
+      "Palpitation when lying on left side, when thinking of it especially; pulse full and hard"
     ], 
     "Modalities": [
-      "Worse: while thinking of symptoms; from washing; lying on painful side", 
-      "Better: walking in open air"
+      "Better: walking in open air", 
+      "Worse: while thinking of symptoms; from washing; lying on painful side"
     ], 
     "Mind": [
-      "Loss of memory, mental weakness", 
-      "Irresolute", 
       "Lost confidence in himself", 
-      "Senile dementia", 
-      "Confusion", 
-      "BASHFUL", 
       "Aversion to strangers", 
-      "Childish; grief over trifles"
+      "Loss of memory, mental weakness", 
+      "BASHFUL", 
+      "Childish; grief over trifles", 
+      "Irresolute", 
+      "Confusion", 
+      "Senile dementia"
     ], 
     "Back": [
+      "Weakness of spine", 
       "SWOLLEN GLANDS IN NAPE OF OCCIPUT", 
       "Fatty tumors about neck", 
-      "Bruised pain between scapulae", 
       "Stiffness in sacrum", 
-      "Weakness of spine"
+      "Bruised pain between scapulae"
+    ], 
+    "Sleep": [
+      "Talking in sleep; awakens frequently; feels too hot", 
+      "Twitching during sleep"
     ], 
     "Female": [
       "Before menses, pain in stomach and small of back", 
       "Menses scanty"
     ], 
     "Throat": [
+      "Smarting pain when swallowing; worse empty swallowing", 
+      "Tonsils inflamed, with swollen veins", 
+      "Spasm of oesophagus as soon as food enters oesophagus, causes gagging and choking", 
       "Submaxillary glands and tonsils swollen", 
       "TAKES COLD EASILY, WITH STITCHES AND SMARTING PAIN", 
-      "QUINSY", 
-      "SUPPURATING TONSILS FROM EVERY COLD", 
-      "Tonsils inflamed, with swollen veins", 
-      "Smarting pain when swallowing; worse empty swallowing", 
       "Feeling of a plug in pharynx", 
+      "QUINSY", 
       "Can only swallow liquids", 
-      "Spasm of oesophagus as soon as food enters oesophagus, causes gagging and choking", 
       "Throat troubles from over use of voice", 
+      "SUPPURATING TONSILS FROM EVERY COLD", 
       "Stinging pain in tonsils, pharynx or larynx"
     ], 
     "Extremities": [
-      "Pain in axillary glands", 
       "Cold, clammy feet", 
-      "FETID FOOT-SWEATS", 
-      "Numbness of limbs", 
-      "Numb feeling from knees to scrotum; disappears when sitting down", 
       "Toes and soles sore; soles painful when walking", 
-      "Pain in joints; burning pains in lower limbs", 
-      "Sleep", 
-      "Talking in sleep; awakens frequently; feels too hot", 
-      "Twitching during sleep"
+      "Numbness of limbs", 
+      "Pain in axillary glands", 
+      "Numb feeling from knees to scrotum; disappears when sitting down", 
+      "FETID FOOT-SWEATS", 
+      "Pain in joints; burning pains in lower limbs"
     ]
   }, 
   "details": "Specially indicated in INFANCY and OLD AGE. This remedy brings aid to scrofulous children, especially if they are backward mentally and physically, are dwarfish, do not grow and develop, have scrofulous ophthalmia, swollen abdomen, take cold easily, and then ALWAYS HAVE SWOLLEN TONSILS. Persons subject to quinsy, which is prone to suppurate; gums bleed easily. Diseases of old men when degenerative changes begin; - cardiac vascular and cerebral; - who have hypertrophied prostate or indurated testes, very sensitive to cold, offensive foot-sweats, very weak and weary, must sit or lie down or lean on something. Very averse to meeting strangers. Catarrh of posterior nares, with frequent epistaxis. Often useful in the dyspepsia of the young who have masturbated and who suffer from seminal emissions, together with cardiac irritability and palpitation. Affects glandular structures, and useful in general degenerative changes, especially in coats of arteries, ANEURISM, and senility. Baryta is a cardiovascular poison acting on the muscular coats of heart and vessels. Arterial fibrosis. Blood-vessels soften and degenerate, become distended, and aneurisms, ruptures, and apoplexies result.", 

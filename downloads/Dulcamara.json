@@ -1,25 +1,25 @@
 {
   "name": "Dulcamara", 
-  "Relationship": "Antidotes: CAMPH.; CUPR.Complementary: BARYTA CARB.Incompatible: BELLAD.; LACHES.Compare: PIMPINELLA - (Bibernell). Respiratory mucous membrane sensitive to drafts, pain and coldness in occiput and nape. Whole body weak; heavy head and drowsiness; lumbago and stiff neck; pain from nape to shoulder; chilliness. RHUS; CIMICIF.; CALC.; PULS.; BRY.; NAT-SULPH.", 
+  "Relationship": "Incompatible: BELLAD.; LACHES.Antidotes: CAMPH.; CUPR.Compare: PIMPINELLA - (Bibernell). Respiratory mucous membrane sensitive to drafts, pain and coldness in occiput and nape. Whole body weak; heavy head and drowsiness; lumbago and stiff neck; pain from nape to shoulder; chilliness. RHUS; CIMICIF.; CALC.; PULS.; BRY.; NAT-SULPH.Complementary: BARYTA CARB.", 
   "symptoms": {
     "Eyes": [
-      "Every time he takes cold it settles in eyes", 
       "Thick, yellow discharge; granular lids", 
-      "Hay-fever; profuse, watery discharge, worse in open air"
+      "Hay-fever; profuse, watery discharge, worse in open air", 
+      "Every time he takes cold it settles in eyes"
     ], 
     "Fever": [
-      "Dry burning heat all over", 
+      "Chilliness with thirst", 
       "Chilliness towards evening, mostly in back", 
       "Icy coldness, with pains", 
-      "Dry hat and burning of skin", 
-      "Chilliness with thirst"
+      "Dry burning heat all over", 
+      "Dry hat and burning of skin"
     ], 
     "Stomach": [
-      "Vomiting of white, tenacious mucus", 
       "AVERSION TO FOOD", 
-      "BURNING THIRST FOR COLD DRINKS", 
+      "Vomiting of white, tenacious mucus", 
       "Heartburn", 
       "Nausea accompanies the desire for stool", 
+      "BURNING THIRST FOR COLD DRINKS", 
       "Chilliness during vomiting"
     ], 
     "Modalities": [
@@ -31,12 +31,12 @@
     ], 
     "Stool": [
       "Green, watery, slimy, bloody, MUCUS, especially in summer, when the weather suddenly becomes cold; FROM DAMP, COLD WEATHER and repelled eruptions", 
-      "Urine Section", 
       "Must urinate WHEN GETTING CHILLED", 
-      "Strangury, painful micturition", 
+      "Ischuria from wading with bare feet in cold water", 
       "Catarrh of bladder from taking cold", 
+      "Strangury, painful micturition", 
       "Urine has thick, MUCOUS, purulent sediment", 
-      "Ischuria from wading with bare feet in cold water"
+      "Urine Section"
     ], 
     "Back": [
       "Stiff neck", 
@@ -44,76 +44,75 @@
       "Stiffness and lameness across neck and shoulders, after getting cold and wet"
     ], 
     "Face": [
-      "Tearing in cheek extending to ear, orbit, and jaw, PRECEDED BY COLDNESS OF PARTS, AND ATTENDED BY CANINE HUNGER", 
-      "Humid eruption on cheeks and face generally"
+      "Humid eruption on cheeks and face generally", 
+      "Tearing in cheek extending to ear, orbit, and jaw, PRECEDED BY COLDNESS OF PARTS, AND ATTENDED BY CANINE HUNGER"
     ], 
     "Respiratory": [
-      "Cough worse cold, wet weather, with free expectoration, tickling in larynx", 
-      "Cough, hoarse, spasmodic", 
-      "Whooping-cough, with excessive secretion of mucus", 
+      "Must cough a long time to expel phlegm", 
+      "Cough AFTER PHYSICAL EXERTION", 
       "Winter coughs, dry, teasing", 
+      "Cough worse cold, wet weather, with free expectoration, tickling in larynx", 
+      "Whooping-cough, with excessive secretion of mucus", 
       "Asthma with dyspnoea", 
       "Loose, rattling cough; worse wet weather", 
-      "Must cough a long time to expel phlegm", 
-      "Cough AFTER PHYSICAL EXERTION"
+      "Cough, hoarse, spasmodic"
     ], 
     "Mouth": [
       "Saliva tenacious, soapy", 
-      "Dry, rough tongue, rough scraping in throat, after taking cold in damp weather", 
+      "Facial neuralgia; worse, SLIGHTEST EXPOSURE TO COLD", 
       "Cold-sores on lips", 
-      "Facial neuralgia; worse, SLIGHTEST EXPOSURE TO COLD"
+      "Dry, rough tongue, rough scraping in throat, after taking cold in damp weather"
     ], 
     "Nose": [
-      "Dry coryza", 
-      "Complete stoppage of nose", 
       "STUFFS UP WHEN THERE IS A COLD RAIN", 
-      "Thick, yellow mucus, bloody crusts", 
       "Profuse coryza", 
       "Wants nose kept warm, least cold air stops the nose", 
-      "Coryza of the newborn"
+      "Coryza of the newborn", 
+      "Thick, yellow mucus, bloody crusts", 
+      "Dry coryza", 
+      "Complete stoppage of nose"
     ], 
     "Head": [
-      "Mental confusion", 
-      "Occipital pain ascending from nape of neck", 
-      "Headache relieved by conversation", 
-      "Rejects things asked for", 
-      "Back part of head chill, heavy, aching, during cold weather", 
+      "Buzzing in head", 
       "Ringworm of scalp", 
+      "Back part of head chill, heavy, aching, during cold weather", 
+      "Rejects things asked for", 
+      "Mental confusion", 
+      "Headache relieved by conversation", 
       "THICK BROWN CRUSTS, SCALDED HEAD, bleeding when scratched", 
-      "Buzzing in head"
+      "Occipital pain ascending from nape of neck"
     ], 
     "Skin": [
-      "ADENITIS", 
-      "PRURITUS, ALWAYS WORSE IN COLD, WET WEATHER", 
-      "Herpes zoster, pemphigus", 
-      "Swelling and indurated glands from cold", 
-      "Vesicular eruptions", 
-      "Sensitive bleeding ulcers", 
-      "Little boils", 
       "Red spots, URTICARIA, brought on by exposure, or sour stomach", 
-      "Humid eruptions on face, genitals, hands etc", 
-      "WARTS, large, smooth, on face and palmar surface of hands", 
+      "Swelling and indurated glands from cold", 
+      "PRURITUS, ALWAYS WORSE IN COLD, WET WEATHER", 
+      "Thick, brown-yellow crusts, bleeding when scratched", 
+      "ADENITIS", 
+      "Vesicular eruptions", 
+      "Herpes zoster, pemphigus", 
       "Anasarca", 
-      "Thick, brown-yellow crusts, bleeding when scratched"
+      "Sensitive bleeding ulcers", 
+      "Humid eruptions on face, genitals, hands etc. WARTS, large, smooth, on face and palmar surface of hands", 
+      "Little boils"
     ], 
     "Abdomen": [
-      "Colic from cold", 
       "Acts prominently on umbilical region", 
-      "CUTTING PAIN ABOUT NAVEL", 
-      "Swelling of inguinal glands"
+      "Colic from cold", 
+      "Swelling of inguinal glands", 
+      "CUTTING PAIN ABOUT NAVEL"
     ], 
     "Extremities": [
       "Paralysis: paralyzed limbs, FEET ICY COLD", 
       "Warts on hands", 
       "Perspiration on palms of hands", 
       "Pain in shin-bones", 
-      "Rheumatism alternates with diarrhoea", 
-      "Rheumatic symptoms after acute skin eruptions"
+      "Rheumatic symptoms after acute skin eruptions", 
+      "Rheumatism alternates with diarrhoea"
     ], 
     "Female": [
       "Suppression of menses from cold or dampness", 
-      "Before appearance of menses, a RASH APPEARS ON SKIN, or sexual excitement", 
-      "Dysmenorrhoea, with blotches all over; mammae engorged and sore, delicate, sensitive to cold"
+      "Dysmenorrhoea, with blotches all over; mammae engorged and sore, delicate, sensitive to cold", 
+      "Before appearance of menses, a RASH APPEARS ON SKIN, or sexual excitement"
     ], 
     "Ears": [
       "Earache, buzzing, stitches, and swelling of Middle-ear catarrh"

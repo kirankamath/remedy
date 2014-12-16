@@ -1,22 +1,22 @@
 {
   "name": "Calendula officinalis", 
-  "Relationship": "Compare: Hamamel.; Hypericum.; Symph.; Arn.Compare in deafness: Ferr. pic.; Kal. iod.; Calc; Mag. ac; Graph.Antidote: Chelidonium; Rheum.Complementary: Hepar.", 
+  "Relationship": "Antidote: Chelidonium; Rheum.Compare: Hamamel.; Hypericum.; Symph.; Arn.Compare in deafness: Ferr. pic.; Kal. iod.; Calc; Mag. ac; Graph.Complementary: Hepar.", 
   "symptoms": {
     "Eyes": [
       "Injuries to eyes which tend to suppuration; after operations; blennorrhoea of lachrymal sac"
     ], 
     "Fever": [
-      "COLDNESS, GREAT SENSITIVENESS TO OPEN AIR; shuddering in back, skin feels warm to touch", 
-      "Heat in evening"
+      "Heat in evening", 
+      "COLDNESS, GREAT SENSITIVENESS TO OPEN AIR; shuddering in back, skin feels warm to touch"
     ], 
     "Stomach": [
-      "Hunger immediately after nursing", 
-      "Bulimia", 
       "HEARTBURN WITH HORRIPILATIONS", 
+      "Bulimia", 
       "Nausea in CHEST", 
       "Vomiting", 
+      "Epigastric DISTENTION", 
       "Sinking sensation", 
-      "Epigastric DISTENTION"
+      "Hunger immediately after nursing"
     ], 
     "Modalities": [
       "Worse: in damp", 
@@ -24,10 +24,10 @@
       "Worse: CLOUDY weather"
     ], 
     "Head": [
+      "Lacerated SCALP wounds", 
       "Extremely nervous; easily frightened; tearing headache; weight on brain", 
       "Submaxillary glands swollen, painful to touch", 
-      "Pain in right side of neck", 
-      "Lacerated SCALP wounds"
+      "Pain in right side of neck"
     ], 
     "Respiratory": [
       "Cough, with green expectoration, hoarseness; with distention of inguinal ring"
@@ -36,19 +36,19 @@
       "Coryza in one nostril; with much green discharge"
     ], 
     "Female": [
-      "WARTS THE OS EXTERNUM", 
       "Menses suppressed, with cough", 
       "Chronic endocervicitis", 
-      "Uterine hypertrophy, sensation of weight and fullness in pelvis; stretching and dragging in groin; pain on sudden movements", 
+      "WARTS THE OS EXTERNUM", 
+      "Menorrhagia", 
       "Os lower than natural", 
-      "Menorrhagia"
+      "Uterine hypertrophy, sensation of weight and fullness in pelvis; stretching and dragging in groin; pain on sudden movements"
     ], 
     "Skin": [
-      "YELLOW; goose-flesh", 
-      "Promotes favorable cicatrization, with least amount of suppuration", 
-      "Slough, proud flesh, and raised edges", 
       "Superficial burns and scalds", 
-      "Erysipelas"
+      "Erysipelas", 
+      "YELLOW; goose-flesh", 
+      "Slough, proud flesh, and raised edges", 
+      "Promotes favorable cicatrization, with least amount of suppuration"
     ], 
     "Ears": [
       "Deafness; worse in DAMP surroundings and with eczematous conditions", 

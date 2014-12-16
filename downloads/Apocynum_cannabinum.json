@@ -3,26 +3,24 @@
   "Relationship": "CYMARIN is the active principle of Apocyn., lowers pulse rate and increases blood-pressure. STROPHANTHUS (extreme cardiac depression with intense gastric disturbance; dropsy). ARALIA HISPIDA - Wild Elder - a valuable diuretic, useful in dropsy of the cavities, either due to hepatic or renal disease with constipation. Urinary disorders, especially with dropsy. Scudder advises doses of five to thirty drops in sweetened cream of tartar, Solution). APIS.; ARSENIC; DIGITAL.; HELL.", 
   "symptoms": {
     "Heart": [
-      "Tricuspid regurgitation; rapid and feeble, irregular cardiac action, low arterial tension, pulsating jugulars, general cyanosis and general dropsy", 
-      "Sleep", 
-      "Great restlessness and little sleep"
+      "Tricuspid regurgitation; rapid and feeble, irregular cardiac action, low arterial tension, pulsating jugulars, general cyanosis and general dropsy"
     ], 
     "Respiratory": [
       "Short, dry cough", 
-      "RESPIRATION SHORT AND UNSATISFACTORY", 
       "Sighing", 
-      "Oppression about epigastrium and chest"
+      "Oppression about epigastrium and chest", 
+      "RESPIRATION SHORT AND UNSATISFACTORY"
     ], 
     "Stomach": [
-      "Nausea, with drowsiness", 
-      "Thirst on walking", 
       "EXCESSIVE VOMITING", 
-      "Food or water is immediately ejected", 
       "Dull, heavy, sick feeling", 
-      "Oppression in epigastrium and chest, impeding breathing", 
-      "Sensation of sinking in stomach", 
       "Abdomen bloated", 
-      "Ascites"
+      "Nausea, with drowsiness", 
+      "Food or water is immediately ejected", 
+      "Ascites", 
+      "Thirst on walking", 
+      "Sensation of sinking in stomach", 
+      "Oppression in epigastrium and chest, impeding breathing"
     ], 
     "Modalities": [], 
     "Mind": [
@@ -30,26 +28,29 @@
       "Low spirited"
     ], 
     "Stool": [
-      "WATERY, flatulent, with soreness in anus; worse after eating", 
       "Feeling as if sphincter were open and stools ran right out", 
-      "Urine Section", 
+      "Dribbling", 
+      "RENAL DROPSY", 
+      "Strangury", 
+      "WATERY, flatulent, with soreness in anus; worse after eating", 
       "Bladder much distended", 
       "Turbid, hot urine, with thick mucus and burning in urethra, after urinating", 
       "Little expulsive power", 
-      "Dribbling", 
-      "Strangury", 
-      "RENAL DROPSY"
+      "Urine Section"
+    ], 
+    "Sleep": [
+      "Great restlessness and little sleep"
     ], 
     "Nose": [
       "Long-continued sneezing", 
-      "Snuffles of children", 
-      "Chronic nasal catarrh with tendency to acute stuffiness with dull, sluggish memory", 
       "Dull headache", 
-      "Takes cold easily, nostrils become congested and blocked up easily"
+      "Snuffles of children", 
+      "Takes cold easily, nostrils become congested and blocked up easily", 
+      "Chronic nasal catarrh with tendency to acute stuffiness with dull, sluggish memory"
     ], 
     "Female": [
-      "Amenorrhoea, with bloating; metrorrhagia with nausea; fainting, vital depression", 
       "Hemorrhages at change of life", 
+      "Amenorrhoea, with bloating; metrorrhagia with nausea; fainting, vital depression", 
       "Blood expelled in large clots"
     ]
   }, 

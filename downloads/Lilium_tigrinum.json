@@ -3,41 +3,41 @@
   "Relationship": "Compare: CACT.; HELON.; MUREX; SEP.; PLAT.; PALLAD.Antidote: HELON.", 
   "symptoms": {
     "Heart": [
-      "Sensation as if heart were grasped in a vise", 
-      "Feels full to bursting", 
       "Pulsations over whole body", 
-      "Palpitation; irregular pulse; very rapid", 
+      "Feels full to bursting", 
       "Pain in cardiac region with feeling of a load on chest", 
       "Cold feeling about heart", 
       "Suffocating feeling in a crowded and warm room", 
-      "Angina pectoris with pain in right arm"
+      "Palpitation; irregular pulse; very rapid", 
+      "Angina pectoris with pain in right arm", 
+      "Sensation as if heart were grasped in a vise"
     ], 
     "Eyes": [
-      "Hyperaesthesia of retina", 
-      "Pain, extending back into head; lachrymation; and impaired vision", 
       "MYOPIC ASTIGMIA", 
+      "Pain, extending back into head; lachrymation; and impaired vision", 
+      "Hyperaesthesia of retina", 
       "Useful in restoring power to the weakened ciliary muscle"
     ], 
     "Fever": [
       "Great heat and lassitude in afternoon, with throbbing throughout body"
     ], 
     "Stomach": [
+      "Thirsty, drinks often and much, and before severe symptoms", 
       "Flatulent; nausea, with sensation of lump in stomach", 
-      "Hungry; longs for meat", 
-      "Thirsty, drinks often and much, and before severe symptoms"
+      "Hungry; longs for meat"
     ], 
     "Female": [
-      "Menses early, scanty, DARK, CLOTTED, OFFENSIVE; FLOW ONLY WHEN MOVING ABOUT", 
-      "BEARING-DOWN SENSATION WITH URGENT DESIRE FOR STOOL, AS THOUGH ALL ORGANS WOULD ESCAPE", 
-      "CEASES WHEN RESTING", 
-      "CONGESTION OF UTERUS, prolapse, and anteversion", 
-      "Constant desire to support parts externally", 
-      "Pain in ovaries and down thighs", 
-      "Acrid, brown leucorrhoea; smarting in labia", 
       "Sexual instinct awakened", 
-      "Bloated feeling in uterine region", 
+      "Constant desire to support parts externally", 
+      "Menses early, scanty, DARK, CLOTTED, OFFENSIVE; FLOW ONLY WHEN MOVING ABOUT", 
       "Sub-involution", 
-      "Pruritis pudendi"
+      "Pruritis pudendi", 
+      "CONGESTION OF UTERUS, prolapse, and anteversion", 
+      "Pain in ovaries and down thighs", 
+      "Bloated feeling in uterine region", 
+      "CEASES WHEN RESTING", 
+      "BEARING-DOWN SENSATION WITH URGENT DESIRE FOR STOOL, AS THOUGH ALL ORGANS WOULD ESCAPE", 
+      "Acrid, brown leucorrhoea; smarting in labia"
     ], 
     "Modalities": [
       "Worse: consolation", 
@@ -45,44 +45,45 @@
       "Better: fresh air"
     ], 
     "Mind": [
-      "Tormented about her salvation", 
       "Consolation aggravates", 
-      "PROFOUND DEPRESSION OF SPIRITS", 
-      "Constant inclination to weep", 
+      "Tormented about her salvation", 
       "Anxious; FEARS SOME ORGANIC AND INCURABLE DISEASE", 
+      "Constant inclination to weep", 
+      "AIMLESS, HURRIED MANNER; must keep busy", 
       "Disposed to curse, strike, think obscene things", 
-      "AIMLESS, HURRIED MANNER; must keep busy"
+      "PROFOUND DEPRESSION OF SPIRITS"
     ], 
     "Stool": [
-      "Constant desire to defecate; FROM PRESSURE IN RECTUM, worse standing", 
-      "Pressure down the anus", 
       "Early-morning urgent stool", 
-      "Dysentery; mucus and blood, with tenesmus, especially in plethoric and nervous women at change of life"
+      "Dysentery; mucus and blood, with tenesmus, especially in plethoric and nervous women at change of life", 
+      "Constant desire to defecate; FROM PRESSURE IN RECTUM, worse standing", 
+      "Pressure down the anus"
     ], 
     "Abdomen": [
-      "Abdomen sore, distended; trembling sensation in abdomen", 
       "Pressure downwards and backwards against rectum and anus; worse, standing; better, walking in open air", 
       "Bearing down in lower part of abdomen", 
-      "Urinary Organs", 
       "Frequent urging", 
-      "Urine milky, scanty, HOT"
+      "Urinary Organs", 
+      "Urine milky, scanty, HOT", 
+      "Abdomen sore, distended; trembling sensation in abdomen"
+    ], 
+    "Sleep": [
+      "Unable to sleep, with wild feeling in head", 
+      "Unrefreshing, with disagreeable dreams"
     ], 
     "Head": [
-      "Hot, dull, heavy", 
       "Faint in warm room", 
+      "Hot, dull, heavy", 
       "Wild feeling in head"
     ], 
     "Extremities": [
+      "Legs ache; cannot keep them still", 
       "Cannot walk on uneven ground", 
+      "Pain in right arm and hip", 
       "Pain in back and spine, with trembling, but oftener in front of a pressing-down character", 
       "Pricking in fingers", 
-      "Pain in right arm and hip", 
-      "Legs ache; cannot keep them still", 
       "Pain in ankle joint", 
-      "Burning palms and soles", 
-      "Sleep", 
-      "Unrefreshing, with disagreeable dreams", 
-      "Unable to sleep, with wild feeling in head"
+      "Burning palms and soles"
     ]
   }, 
   "details": "Manifests powerful influence over the pelvic organs, and is adapted to many reflex states dependent on some pathological condition of uterus and ovaries. More often indicated in unmarried women. The action on the heart is very marked. Pain in small spots. (OXAL-AC.) Rheumatic arthritis.", 

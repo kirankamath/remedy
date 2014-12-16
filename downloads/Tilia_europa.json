@@ -3,33 +3,33 @@
   "Relationship": "Compare: LILIUM; BELLAD.", 
   "symptoms": {
     "Head": [
+      "Bleeding from nose", 
       "NEURALGIA , WITH VEIL BEFORE EYES", 
-      "Confusion, with dimness of vision", 
       "Much sneezing, with fluent coryza", 
-      "Bleeding from nose"
+      "Confusion, with dimness of vision"
     ], 
     "Modalities": [
-      "Worse: in afternoon and evening; in warm room", 
-      "Worse: heat of bed", 
       "Better: cool room", 
-      "Better: motion"
+      "Better: motion", 
+      "Worse: in afternoon and evening; in warm room", 
+      "Worse: heat of bed"
     ], 
     "Eyes": [
       "Sensation as of gauze before eyes", 
       "Binocular vision imperfect"
     ], 
     "Female": [
-      "INTENSE SORE FEELING ABOUT UTERUS; bearing-down, with hot sweat, but without relief", 
       "Much slimy Leucorrhoea when walking", 
+      "INTENSE SORE FEELING ABOUT UTERUS; bearing-down, with hot sweat, but without relief", 
       "Soreness and redness of external genitals", 
       "Pelvic inflammation, tympanites, abdominal tenderness and hot sweat which does not relieve"
     ], 
     "Skin": [
-      "Urticaria", 
-      "Violent itching, and burning like fire after scratching", 
-      "Eruption of small, red itching pimples", 
       "SWEAT WARM AND PROFUSE soon after falling asleep", 
-      "Sweat increases as rheumatic pains increase"
+      "Sweat increases as rheumatic pains increase", 
+      "Eruption of small, red itching pimples", 
+      "Urticaria", 
+      "Violent itching, and burning like fire after scratching"
     ]
   }, 
   "details": "Of value in muscular weakness of the eye; hemorrhage to thin, pale blood. Puerperal metritis. Disease of the antrum. (KALI HYD.; CHELID.)", 

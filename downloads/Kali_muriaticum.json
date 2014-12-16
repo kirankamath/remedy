@@ -4,26 +4,26 @@
   "symptoms": {
     "Eyes": [
       "White mucus, purulent scabs", 
-      "Superficial ulcer", 
       "Trachoma", 
-      "Corneal opacities"
+      "Corneal opacities", 
+      "Superficial ulcer"
     ], 
     "Stomach": [
-      "FATTY OR RICH FOOD CAUSES INDIGESTION", 
       "Vomiting of white, opaque mucus; water gathers in the mouth", 
+      "FATTY OR RICH FOOD CAUSES INDIGESTION", 
       "Pain in the stomach, with constipation", 
       "Bulimia; hunger disappears by drinking water"
     ], 
     "Female": [
-      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
+      "Respiratory Organs", 
       "Leucorrhoea; discharge of milky-white mucus, thick, non-irritating, bland", 
       "Morning sickness, with vomiting of white phlegm", 
-      "Bunches in breast feel quite soft and are TENDER", 
-      "Respiratory Organs", 
-      "Loss of voice; hoarseness", 
-      "Asthma, with gastric derangements; mucus white and hard to cough up", 
       "Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white", 
-      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up"
+      "Loss of voice; hoarseness", 
+      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up", 
+      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
+      "Asthma, with gastric derangements; mucus white and hard to cough up", 
+      "Bunches in breast feel quite soft and are TENDER"
     ], 
     "Modalities": [
       "Worse: rich food", 
@@ -31,10 +31,10 @@
       "Worse: motion"
     ], 
     "Stool": [
-      "Constipation; light-colored stools", 
-      "Diarrhoea, after fatty food; clay-colored, white, or slimy stools", 
       "Dysentery; purging, with slimy stools", 
-      "HEMORRHOIDS; bleeding; blood dark and thick; fibrinous, clotted"
+      "Constipation; light-colored stools", 
+      "HEMORRHOIDS; bleeding; blood dark and thick; fibrinous, clotted", 
+      "Diarrhoea, after fatty food; clay-colored, white, or slimy stools"
     ], 
     "Abdomen": [
       "Abdominal tenderness and swelling", 
@@ -46,51 +46,51 @@
     ], 
     "Mouth": [
       "Aphthae; thrush; white ulcers in mouth", 
-      "Swollen glands about jaw and neck", 
-      "Coating of tongue GRAYISH-WHITE, dryish, or slimy"
+      "Coating of tongue GRAYISH-WHITE, dryish, or slimy", 
+      "Swollen glands about jaw and neck"
     ], 
     "Nose": [
-      "Catarrh; phlegm white, thick", 
+      "Nosebleed", 
       "Vault of pharynx covered with adherent crust", 
       "Stuffy cold", 
-      "Nosebleed"
+      "Catarrh; phlegm white, thick"
     ], 
     "Head": [
       "Imagine he must starve", 
-      "Headache, with vomiting", 
+      "Dandruff", 
       "Crusta lactea", 
-      "Dandruff"
+      "Headache, with vomiting"
     ], 
     "Skin": [
-      "Acne, erythema, and eczema, with VESICLES containing thick, white contents", 
       "Dry, flour-like scales on the skin", 
-      "Bursitis"
+      "Bursitis", 
+      "Acne, erythema, and eczema, with VESICLES containing thick, white contents"
     ], 
     "Throat": [
       "FOLLICULAR TONSILLITIS", 
       "Tonsils inflamed; enlarged so much, can hardly breathe", 
-      "Grayish patches or spots in the throat and tonsils", 
       "Adherent crusts in vault of pharynx", 
-      "\"Hospital\" sore throat", 
-      "Eustachian catarrh"
+      "Eustachian catarrh", 
+      "Hospital sore throat", 
+      "Grayish patches or spots in the throat and tonsils"
     ], 
     "Extremities": [
+      "Hands get stiff while writing", 
       "Rheumatic fever; exudation and SWELLING AROUND JOINTS", 
       "Rheumatic pains felt only during motion, or increased by it", 
-      "Nightly rheumatic pains; worse from warmth of bed; lightning-like from small of back to feet; must get out of bed and sit up", 
-      "Hands get stiff while writing"
+      "Nightly rheumatic pains; worse from warmth of bed; lightning-like from small of back to feet; must get out of bed and sit up"
     ], 
     "Ears": [
-      "CHRONIC, CATARRHAL CONDITIONS OF THE MIDDLE EAR", 
       "Glands about the ear swollen", 
+      "CHRONIC, CATARRHAL CONDITIONS OF THE MIDDLE EAR", 
+      "Great effusion about the auricle", 
       "SNAPPING AND NOISES IN THE EAR", 
-      "Threatened mastoid", 
-      "Great effusion about the auricle"
+      "Threatened mastoid"
     ]
   }, 
   "details": "Although not proven, this remedy has a wide clinical use, through its introduction by Schuessler. It certainly is of great value in catarrhal affections, in sub-acute inflammatory states, fibrinous exudations, and glandular swellings. WHITE OR GRAY COATING OF BASE OF TONGUE, and expectoration of thick, white phlegm, seem to be special guiding symptoms. Bursitis praepatellaris.", 
   "Natural History": [
     "Chloride of Potassium -"
   ], 
-  "dosage": "Third to twelfth potency.External use in skin affections with burning sensation."
+  "dosage": "External use in skin affections with burning sensation.Third to twelfth potency."
 }

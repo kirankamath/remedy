@@ -3,12 +3,12 @@
   "Relationship": "Compare: PULS. (similar in rheumatism, pains shifting, worse, rest, warmth; better cold air).", 
   "symptoms": {
     "Head": [
-      "General irritability", 
       "Lassitude, indisposition to work", 
       "Smarting and burning in eyes, feel protruded", 
-      "Dull, frontal headache; worse in morning and left side with sleepiness", 
+      "General irritability", 
       "Neck muscles stiff and sore", 
-      "Eyes feel protruded"
+      "Eyes feel protruded", 
+      "Dull, frontal headache; worse in morning and left side with sleepiness"
     ], 
     "Modalities": [
       "Worse: mornings", 
@@ -19,21 +19,21 @@
       "Better: motion"
     ], 
     "Abdomen": [
-      "LIVER ENGORGED, SWOLLEN, WITH STITCHING PAIN AND SENSITIVE TO PRESSURE", 
-      "Clay-colored stools", 
       "Hepatic torpor", 
-      "Constipation or alternating constipation and diarrhoea"
+      "Clay-colored stools", 
+      "Constipation or alternating constipation and diarrhoea", 
+      "LIVER ENGORGED, SWOLLEN, WITH STITCHING PAIN AND SENSITIVE TO PRESSURE"
     ], 
     "Extremities": [
-      "Rheumatoid pains in different parts of the body", 
-      "Sharp pain in small of back, over kidneys, in gluteal region, extending down thigh", 
       "Pain in shoulders and arms", 
       "SYNOVITIS", 
       "Bruised feeling", 
-      "Rheumatic pains in calves of legs"
+      "Rheumatoid pains in different parts of the body", 
+      "Rheumatic pains in calves of legs", 
+      "Sharp pain in small of back, over kidneys, in gluteal region, extending down thigh"
     ]
   }, 
-  "details": "Induces a condition of stasis, congestion, and sluggishness of all functions. Morning aggravation.Sharp, SHIFTING, rheumatic pains in all parts very pronounced. RHEUMATISM; darting pains in almost every part; stiffness of joints; parts sore to touch; worse motion. CHRONIC RHEUMATISM. SHIFTING PAINS. (PULS.; KALI-SULPH.) Psoriasis. Enlarged and inflamed gouty finger joints.", 
+  "details": "Sharp, SHIFTING, rheumatic pains in all parts very pronounced. RHEUMATISM; darting pains in almost every part; stiffness of joints; parts sore to touch; worse motion. CHRONIC RHEUMATISM. SHIFTING PAINS. (PULS.; KALI-SULPH.) Psoriasis. Enlarged and inflamed gouty finger joints.Induces a condition of stasis, congestion, and sluggishness of all functions. Morning aggravation.", 
   "Natural History": [
     "Chickweed"
   ], 

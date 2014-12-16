@@ -3,21 +3,21 @@
   "Relationship": "Compare: CUPRUM; OESTRUS CAMELI, an Indian medicine for epilepsy.", 
   "symptoms": {
     "Head": [
-      "Vertigo with nausea", 
-      "Convulsions", 
-      "Sensation of a band around forehead", 
       "Undulating sensation through whole head", 
       "Sensation as if brain were frozen", 
+      "Sensation of a band around forehead", 
+      "Head feels frozen", 
       "Gloomy; cries at night", 
+      "Convulsions", 
       "Hair feels pulled from vertex", 
-      "Head feels frozen"
+      "Vertigo with nausea"
     ], 
     "Stomach": [
-      "Metallic taste", 
+      "Flushes of heat rising from stomach to head", 
       "ERUCTATIONS", 
+      "Metallic taste", 
       "Bloating", 
-      "Anorexia", 
-      "Flushes of heat rising from stomach to head"
+      "Anorexia"
     ], 
     "Modalities": [
       "Worse: during rest and sitting", 
@@ -29,24 +29,24 @@
       "Excessive sneezing and bleeding from nose"
     ], 
     "Rectum": [
+      "Catarrh of bladder", 
       "Falling of rectum", 
-      "Aroused at night with horrible itching at anus", 
-      "Urinary Organs", 
-      "Constant desire to urinate", 
       "Urine turbid", 
-      "Catarrh of bladder"
+      "Constant desire to urinate", 
+      "Aroused at night with horrible itching at anus", 
+      "Urinary Organs"
     ], 
     "Extremities": [
-      "SCIATICA", 
-      "Pain from middle of thigh to knee", 
-      "Boring pain in knee-joint; better, walking", 
-      "PAIN IN LIMBS WORSE AFTER EVERY MEAL", 
-      "Nerves", 
       "Hysterical symptoms where pain predominates", 
-      "Excessive nervous irritation", 
       "Epilepsy; flashes of heat from abdomen to head; fit begins with dizziness", 
+      "Reflex spasms from worms", 
       "Aura from a painful spot between shoulders", 
-      "Reflex spasms from worms"
+      "Excessive nervous irritation", 
+      "PAIN IN LIMBS WORSE AFTER EVERY MEAL", 
+      "SCIATICA", 
+      "Nerves", 
+      "Boring pain in knee-joint; better, walking", 
+      "Pain from middle of thigh to knee"
     ], 
     "Ears": [
       "Pressure and roaring"

@@ -5,17 +5,17 @@
   "details": "Acts especially on the respiratory organs. Dry coryza of infants, snuffles, edematous swellings. PROFUSE SWEAT accompanies many affections.", 
   "symptoms": {
     "Respiratory": [
-      "Chest oppressed with pressure in stomach, and nausea", 
-      "Hoarseness with tenacious mucus in larynx", 
-      "Paroxysmal, SUFFOCATIVE COUGH, COMING ON ABOUT MIDNIGHT, with crying and dyspnoea", 
-      "Spasmodic croup", 
-      "Dry coryza", 
-      "SNIFFLES OF INFANTS; nose dry and obstructed", 
-      "Loose choking cough", 
-      "When nursing child must let go of nipple, nose blocked up, cannot breathe", 
       "CHILD AWAKES SUDDENLY, NEARLY SUFFOCATING, SITS UP, TURNS BLUE", 
+      "Paroxysmal, SUFFOCATIVE COUGH, COMING ON ABOUT MIDNIGHT, with crying and dyspnoea", 
+      "Loose choking cough", 
+      "Spasmodic croup", 
+      "Hoarseness with tenacious mucus in larynx", 
+      "Miller's asthma", 
+      "When nursing child must let go of nipple, nose blocked up, cannot breathe", 
+      "Dry coryza", 
       "CANNOT EXPIRE", 
-      "Miller's asthma"
+      "Chest oppressed with pressure in stomach, and nausea", 
+      "SNIFFLES OF INFANTS; nose dry and obstructed"
     ], 
     "Modalities": [
       "Worse: sleep", 
@@ -25,37 +25,37 @@
       "Better: motion"
     ], 
     "Mind": [
+      "Very easily frightened", 
       "Sees images when shutting eyes", 
       "CONSTANT FRETFULNESS", 
-      "Very easily frightened", 
       "Fright followed by suffocative attacks"
     ], 
     "Abdomen": [
-      "Colic, with nausea and flatulence; frequent watery, slimy stools", 
-      "Urine Section", 
-      "Profuse urine with dry heat of skin", 
+      "Acute nephritis; dropsical symptoms, with vomiting", 
       "Frequent micturition, with scanty urine", 
-      "Acute nephritis; dropsical symptoms, with vomiting"
+      "Urine Section", 
+      "Colic, with nausea and flatulence; frequent watery, slimy stools", 
+      "Profuse urine with dry heat of skin"
     ], 
     "Face": [
-      "Turns blue with cough", 
+      "Heat and perspiration of face", 
       "Red, burning spots on cheeks", 
-      "Heat and perspiration of face"
+      "Turns blue with cough"
     ], 
     "Fever": [
-      "Dry heat while sleeping", 
       "DREADS UNCOVERING", 
-      "PROFUSE SWEAT OVER ENTIRE BODY DURING WAKING HOURS", 
-      "Dry, deep cough precedes the fever paroxysm"
+      "Dry, deep cough precedes the fever paroxysm", 
+      "Dry heat while sleeping", 
+      "PROFUSE SWEAT OVER ENTIRE BODY DURING WAKING HOURS"
     ], 
     "Skin": [
-      "Dry heat of skin during sleep", 
-      "Bloated and swollen; general dropsy; PROFUSE SWEAT ON WAKING"
+      "Bloated and swollen; general dropsy; PROFUSE SWEAT ON WAKING", 
+      "Dry heat of skin during sleep"
     ], 
     "Extremities": [
-      "Hands turn blue", 
       "Edematous swelling in legs, insteps, and feet", 
       "Feet icy cold", 
+      "Hands turn blue", 
       "Debilitating night-sweats"
     ]
   }, 

@@ -3,14 +3,14 @@
   "Relationship": "Compare: RADIUM.; SELENIUM.; TETRADYMITE - crystals from Georgia and North Carolina containing BISMUTH, TELLURIUM AND SULPHUR - (coccygodynia, ulceration of nails; pains in hands, in small spots, ankles, heels, and tendo-achilles); SEP.; ARTS.; RHUS.", 
   "symptoms": {
     "Eyes": [
+      "Cataract, following ocular lesions; aids the absorption of infiltrations in iris and choroid", 
       "Lids THICKENED, INFLAMED, itching", 
-      "Pterygium; pustular conjunctivitis", 
-      "Cataract, following ocular lesions; aids the absorption of infiltrations in iris and choroid"
+      "Pterygium; pustular conjunctivitis"
     ], 
     "Stomach": [
       "Craving for apples", 
-      "Empty and weak feeling", 
-      "Heartburn"
+      "Heartburn", 
+      "Empty and weak feeling"
     ], 
     "Modalities": [
       "Worse: while at rest at night", 
@@ -23,40 +23,40 @@
     ], 
     "Back": [
       "Pain in sacrum", 
+      "CONTRACTION OF TENDONS IN BENDS OF KNEES", 
       "PAIN FROM LAST CERVICAL TO FIFTH DORSAL VERTEBRA, very sensitive; worse touch", 
-      "SCIATICA; worse right side, COUGHING, STRAINING, and at night, with sensitive vertebral column", 
-      "CONTRACTION OF TENDONS IN BENDS OF KNEES"
+      "SCIATICA; worse right side, COUGHING, STRAINING, and at night, with sensitive vertebral column"
     ], 
     "Nose": [
-      "Coryza, lachrymation and hoarseness; better in open air", 
-      "Obstructed; hawks salty phlegm from posterior nares"
+      "Obstructed; hawks salty phlegm from posterior nares", 
+      "Coryza, lachrymation and hoarseness; better in open air"
     ], 
     "Head": [
-      "Neglectful and forgetful", 
-      "Pain in left side of head and in forehead above left eye", 
+      "Itching of scalp; red spots", 
       "Distortion and twitching of left facial muscles; when speaking left angle of mouth drawn upwards and to left", 
       "Fear of being touched in sensitive places", 
+      "Neglectful and forgetful", 
       "Congestion to head and nape of neck, followed by weakness and faintness in stomach", 
-      "Itching of scalp; red spots"
+      "Pain in left side of head and in forehead above left eye"
     ], 
     "Skin": [
-      "Itching of hands and feet", 
-      "Herpetic spots; RINGWORM", 
-      "RING-SHAPE LESIONS, offensive odors from affected parts", 
-      "Barber's itch", 
-      "Stinging in skin", 
-      "FETID EXHALATIONS", 
-      "Offensive foot-sweat", 
       "Eczema, back of ears and occiput", 
-      "Circular patches of eczema"
+      "RING-SHAPE LESIONS, offensive odors from affected parts", 
+      "Stinging in skin", 
+      "Barber's itch", 
+      "Itching of hands and feet", 
+      "Offensive foot-sweat", 
+      "Circular patches of eczema", 
+      "Herpetic spots; RINGWORM", 
+      "FETID EXHALATIONS"
     ], 
     "Rectum": [
       "Pruritus ani et perinei after every stool"
     ], 
     "Ears": [
-      "ECZEMA BEHIND EAR", 
       "CATARRH OF MIDDLE EAR, DISCHARGE ACRID, SMELLS LIKE FISH-PICKLE", 
       "ITCHING, SWELLING, THROBBING IN MEATUS", 
+      "ECZEMA BEHIND EAR", 
       "Deafness"
     ]
   }, 

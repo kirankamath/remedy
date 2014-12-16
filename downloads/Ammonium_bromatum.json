@@ -3,28 +3,28 @@
   "Relationship": "Hyos.; Con.; Arg. nit.; Kali-bich.", 
   "symptoms": {
     "Eyes": [
-      "Edges of lids red and swollen, also Meibomian glands", 
-      "Eyeballs feel large and pain around eyes into head"
+      "Eyeballs feel large and pain around eyes into head", 
+      "Edges of lids red and swollen, also Meibomian glands"
     ], 
     "Respiratory": [
-      "Sudden, short cough, strangling", 
-      "Tickling in trachea and bronchial tubes", 
-      "Wakes at three AM with cough", 
       "Feels suffocated; continuous cough, when lying down at night; sharp pain in lungs", 
+      "Dry, spasmodic cough on lying down", 
+      "Sudden, short cough, strangling", 
+      "Wakes at three AM with cough", 
       "Whooping Cough", 
-      "Dry, spasmodic cough on lying down"
+      "Tickling in trachea and bronchial tubes"
     ], 
     "Head": [
-      "Cerebral congestion", 
       "Feeling of a band above ears", 
+      "Cerebral congestion", 
       "Sneezing; thick nasal discharge"
     ], 
     "Throat": [
-      "Smarting in mouth", 
-      "Tickling in throat, WITH INCLINATION TO DRY, SPASMATIC COUGH, ESPECIALLY AT NIGHT", 
       "Burning in fauces", 
+      "Chronic speakers' catarrh", 
       "White, sticky mucus", 
-      "Chronic speakers' catarrh"
+      "Tickling in throat, WITH INCLINATION TO DRY, SPASMATIC COUGH, ESPECIALLY AT NIGHT", 
+      "Smarting in mouth"
     ]
   }, 
   "details": "Indicated in chronic laryngeal and pharyngeal catarrh, neuralgic headaches, and obesity. Constrictive pain in head, chest, legs, etc. Irritable feeling under finger nails; relieved only by biting them.", 

@@ -3,49 +3,50 @@
   "Relationship": "Compare: ASTRAG.; LATHYR.; OXAL-AC.; BARYTA (Loco plant is rich in Baryta). LOLIUM.", 
   "symptoms": {
     "Eyes": [
-      "Sight obscured; pupils contracted; do not respond to light", 
-      "Paralysis of nerves and muscles of eyes"
+      "Paralysis of nerves and muscles of eyes", 
+      "Sight obscured; pupils contracted; do not respond to light"
     ], 
     "Stomach": [
-      "Eructations with colicky pains", 
-      "Epigastrium tender"
+      "Epigastrium tender", 
+      "Eructations with colicky pains"
     ], 
     "Modalities": [
       "Worse: thinking of symptoms", 
-      "Worse: every other day", 
-      "Better: after sleep"
+      "Better: after sleep", 
+      "Worse: every other day"
     ], 
     "Mind": [
-      "Desires to be alone", 
       "Disinclined to work or talk", 
-      "Worse, thinking of symptoms", 
+      "Desires to be alone", 
+      "Vertigo", 
       "MENTAL DEPRESSION", 
-      "Vertigo"
+      "Worse, thinking of symptoms"
     ], 
     "Head": [
-      "Vertigo", 
-      "Full, warm feeling about head", 
       "Feeling of intoxication, with loss of vision", 
-      "Pain in maxillary bones and masseter muscles", 
-      "Mouth and nose dry"
+      "Full, warm feeling about head", 
+      "Vertigo", 
+      "Mouth and nose dry", 
+      "Pain in maxillary bones and masseter muscles"
+    ], 
+    "Sleep": [
+      "Restless, dreams of quarrel"
     ], 
     "Rectum": [
       "Sphincter seems relaxed", 
-      "Stools slip from anus, like LUMPS OF JELLY, mushy", 
       "Urine Section", 
       "Urging to urinate when thinking of it", 
+      "Pain in kidneys", 
       "PROFUSE FLOW", 
-      "Pain in kidneys"
+      "Stools slip from anus, like LUMPS OF JELLY, mushy"
     ], 
     "Extremities": [
       "Pain along ulnar nerve", 
-      "Numb feeling about spine", 
-      "STAGGERING GAIT", 
       "Loss of coordination", 
+      "Numb feeling about spine", 
       "Patellar tendon reflex lost", 
       "Pains come and go quickly, but muscles remain sore and stiff", 
-      "Sleep", 
-      "Restless, dreams of quarrel"
+      "STAGGERING GAIT"
     ], 
     "Male": [
       "No desire or ability", 

@@ -1,6 +1,6 @@
 {
   "name": "Anagallis", 
-  "Relationship": "Anagallis contains Saponin, q.v.Compare: Cyclamen; Primula obcon.", 
+  "Relationship": "Compare: Cyclamen; Primula obcon.Anagallis contains Saponin, q.v.", 
   "symptoms": {
     "Head": [
       "Great hilarity; headache over supraorbital ridges, with rumbling in bowels and eructations; better from coffee", 
@@ -8,19 +8,19 @@
       "Pain in facial muscles"
     ], 
     "Skin": [
+      "Ulcers and swellings on joints", 
       "ITCHING; dry, bran-like eruption, especially ON HANDS AND FINGERS", 
       "Palms especially affected", 
-      "Vesicles in groups", 
-      "Ulcers and swellings on joints"
+      "Vesicles in groups"
     ], 
     "Extremities": [
+      "Urine passes in several streams; must press before it passes", 
       "Rheumatic and gouty pains", 
-      "Pain in shoulder and arm", 
+      "Burning pain on urinating, with agglutination of orifice", 
+      "More or less irritation in urethra, inclining to coition", 
       "Cramp in ball of thumbs and fingers", 
       "Urine Section", 
-      "More or less irritation in urethra, inclining to coition", 
-      "Burning pain on urinating, with agglutination of orifice", 
-      "Urine passes in several streams; must press before it passes"
+      "Pain in shoulder and arm"
     ]
   }, 
   "details": "Marked action on skin, characterized by great itching and tingling everywhere. Favors expulsion of splinters. An old medicine for hydrophobia and dropsy. Possesses power of softening flesh and destroying warts.", 

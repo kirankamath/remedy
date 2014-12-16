@@ -3,21 +3,21 @@
   "Relationship": "Compare: KALI-SULPH. CHROMIC. ALUM OF CHROME - 3X. (Produces in the nasal passages very fine threads from the septum to external wall; affections of nasal fossae and hay-fever. Chronic colds. Sneezing, red, watery eyes, irritation of mucous membrane). PULSAT.; KALI-BICH.; NAT-M.", 
   "symptoms": {
     "Head": [
-      "Rheumatic headache, beginning in evening", 
+      "Dandruff and scaldhead", 
       "Bald spots", 
-      "Dandruff and scaldhead"
+      "Rheumatic headache, beginning in evening"
     ], 
     "Fever": [
       "Rise of temperature at night", 
       "Intermittent fever, with yellow, slimy tongue"
     ], 
     "Stomach": [
-      "Tongue coated yellow and slimy", 
-      "Insipid, pappy taste", 
+      "Dread of hot drinks", 
       "Gums painful", 
+      "Insipid, pappy taste", 
+      "Tongue coated yellow and slimy", 
       "Burning thirst, nausea, and vomiting", 
-      "Load feeling", 
-      "Dread of hot drinks"
+      "Load feeling"
     ], 
     "Modalities": [
       "Worse: in evening", 
@@ -26,40 +26,39 @@
       "Better: open air"
     ], 
     "Abdomen": [
-      "Colicky pains; abdomen feels cold to touch; tympanitic, tense", 
       "Yellow, slimy diarrhoea", 
+      "Colicky pains; abdomen feels cold to touch; tympanitic, tense", 
       "Constipation, with hemorrhoids"
     ], 
     "Face": [
-      "Aches in heated room", 
-      "Epithelioma"
+      "Epithelioma", 
+      "Aches in heated room"
     ], 
     "Respiratory": [
       "Coarse rales", 
-      "RATTLING OF MUCUS IN CHEST", 
-      "Post-grippal cough, especially in children", 
-      "Bronchial asthma, with yellow expectoration", 
       "Cough; worse in evening and in hot atmosphere", 
-      "Croupy hoarseness"
+      "Croupy hoarseness", 
+      "RATTLING OF MUCUS IN CHEST", 
+      "Bronchial asthma, with yellow expectoration", 
+      "Post-grippal cough, especially in children"
     ], 
     "Nose": [
-      "Colds, WITH YELLOW, slimy expectoration", 
-      "Nose obstructed", 
       "Smell lost", 
-      "ENGORGEMENT OF THE NASAL PHARYNGEAL MUCOUS MEMBRANE, mouth breathing, snoring, etc", 
-      ", remaining after removal of adenoids"
+      "Colds, WITH YELLOW, slimy expectoration", 
+      "ENGORGEMENT OF THE NASAL PHARYNGEAL MUCOUS MEMBRANE, mouth breathing, snoring, etc., remaining after removal of adenoids", 
+      "Nose obstructed"
     ], 
     "Female": [
-      "Menses too late, scanty, with feeling of weight in abdomen", 
-      "Metrorrhagia"
+      "Metrorrhagia", 
+      "Menses too late, scanty, with feeling of weight in abdomen"
     ], 
     "Skin": [
       "Psoriasis", 
+      "Seborrhoea", 
+      "Polypi", 
       "Eczema; burning, itching, papular eruption", 
       "Nettle-rash", 
-      "Polypi", 
       "Epithelioma", 
-      "Seborrhoea", 
       "Favus", 
       "Ring-worm of scalp or beard with abundant scales"
     ], 
@@ -69,12 +68,12 @@
     ], 
     "Male": [
       "Gonorrhea; discharge slimy, yellowish-green", 
-      "Orchitis", 
-      "Gleet"
+      "Gleet", 
+      "Orchitis"
     ], 
     "Ears": [
-      "Eustachian deafness", 
-      "Discharge of YELLOW matter"
+      "Discharge of YELLOW matter", 
+      "Eustachian deafness"
     ]
   }, 
   "details": "Ailments accompanied by profuse desquamation. Applicable to the later stages of inflammation. YELLOW, mucous and serous discharges, profuse and intermittent. Has been found of much use in oxaluria.", 

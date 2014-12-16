@@ -1,45 +1,45 @@
 {
   "name": "Ipecacuanha", 
-  "Relationship": "Compare: EMETINE - principal alkaloid of Ipecac. (A powerful amebicide, but is not a bactericide. Specific for amebiasis; of remarkable value in treatment of amebic dysentery; also as a remedy in pyorrhoea, 1/2 gr. daily for three days, then less. Emetin, 1/2 gr. hypodermically, in Psoriasis. Emetin hydroch. 2X, diarrhoea with colicky, abdominal pains and nausea. Emetin for endameba dysentery. In physiological doses must be carefully watched. May produce hepatization of lungs, rapid heart action, tendency for the head to fall forward and lobar pneumonia. In hematemesis and other hemorrhages, compare: GELATIN (which has a marked effect on the coagulability of the blood. Hypodermically; or if by mouth, a 10 per cent. Jelly, about 4 oz., three times a day). ARSENIC; CHAM.; PULS.; TART. EM.; SQUILL CONVOLVULUS (colic and diarrhoea.) TYPHA LATIFOLIA - Cat-tail flag (dysentery, diarrhoea) and summer complaint. EUPHORBIA HYPERICIFOLIA - Garden Spurge - (Very similar to Ipecac. Irritation of the respiratory and gastrointestinal tracts and female organs). LIPPIA MEXICANA - (Persistent dry, hard, bronchial cough - asthma and chronic bronchitis).In Asthma, compare: BLATTA ORIENTALIS.Antidotes: ARSENIC; CHINA; TAB AC.Complementary: CUPRUM; ARN.", 
+  "Relationship": "Compare: EMETINE - principal alkaloid of Ipecac. (A powerful amebicide, but is not a bactericide. Specific for amebiasis; of remarkable value in treatment of amebic dysentery; also as a remedy in pyorrhoea, 1/2 gr. daily for three days, then less. Emetin, 1/2 gr. hypodermically, in Psoriasis. Emetin hydroch. 2X, diarrhoea with colicky, abdominal pains and nausea. Emetin for endameba dysentery. In physiological doses must be carefully watched. May produce hepatization of lungs, rapid heart action, tendency for the head to fall forward and lobar pneumonia. In hematemesis and other hemorrhages, compare: GELATIN (which has a marked effect on the coagulability of the blood. Hypodermically; or if by mouth, a 10 per cent. Jelly, about 4 oz., three times a day). ARSENIC; CHAM.; PULS.; TART. EM.; SQUILL CONVOLVULUS (colic and diarrhoea.) TYPHA LATIFOLIA - Cat-tail flag (dysentery, diarrhoea) and summer complaint. EUPHORBIA HYPERICIFOLIA - Garden Spurge - (Very similar to Ipecac. Irritation of the respiratory and gastrointestinal tracts and female organs). LIPPIA MEXICANA - (Persistent dry, hard, bronchial cough - asthma and chronic bronchitis).Antidotes: ARSENIC; CHINA; TAB AC.In Asthma, compare: BLATTA ORIENTALIS.Complementary: CUPRUM; ARN.", 
   "symptoms": {
     "Eyes": [
-      "Inflamed, red", 
       "Pain through eyeballs", 
-      "Profuse lachrymation", 
-      "Cornea dim", 
-      "Eyes tire from near vision", 
       "State of vision constantly changing", 
+      "Cornea dim", 
+      "Profuse lachrymation", 
       "Spasm of accommodation from irritable weakness of the ciliary muscle", 
+      "Eyes tire from near vision", 
+      "Inflamed, red", 
       "Nausea from looking on moving objects"
     ], 
     "Respiratory": [
-      "Dyspnoea; constant CONSTRICTION IN CHEST", 
-      "Asthma", 
-      "Yearly attacks of difficult shortness of breathing", 
-      "Continued sneezing; coryza; wheezing cough", 
-      "COUGH INCESSANT AND VIOLENT, WITH EVERY BREATH", 
-      "Chest seems full of phlegm, but does not yield to coughing", 
-      "Bubbling rales", 
-      "Suffocative cough; child becomes stiff, and blue in the face", 
       "Whooping-cough, with nosebleed, and from mouth", 
-      "Bleeding from lungs, WITH NAUSEA; feeling of constriction; rattling cough", 
-      "Croup", 
-      "Hemoptysis from slightest exertion", 
+      "Asthma", 
+      "Suffocative cough; child becomes stiff, and blue in the face", 
+      "Chest seems full of phlegm, but does not yield to coughing", 
+      "Yearly attacks of difficult shortness of breathing", 
       "HOARSENESS, especially at end of a cold", 
-      "Complete aphonia"
+      "Bubbling rales", 
+      "COUGH INCESSANT AND VIOLENT, WITH EVERY BREATH", 
+      "Croup", 
+      "Dyspnoea; constant CONSTRICTION IN CHEST", 
+      "Hemoptysis from slightest exertion", 
+      "Bleeding from lungs, WITH NAUSEA; feeling of constriction; rattling cough", 
+      "Complete aphonia", 
+      "Continued sneezing; coryza; wheezing cough"
     ], 
     "Stomach": [
+      "Hiccough", 
+      "Vomits food, bile, blood, mucus", 
+      "CONSTANT NAUSEA and vomiting, with pale, twitching of face", 
       "TONGUE USUALLY CLEAN", 
       "Mouth, moist; MUCH SALIVA", 
-      "CONSTANT NAUSEA and vomiting, with pale, twitching of face", 
-      "Vomits food, bile, blood, mucus", 
-      "Stomach feels relaxed, as if hanging down", 
-      "Hiccough"
+      "Stomach feels relaxed, as if hanging down"
     ], 
     "Female": [
       "Uterine hemorrhage, PROFUSE, BRIGHT, GUSHING, WITH NAUSEA", 
-      "Vomiting during pregnancy", 
       "PAIN FROM NAVEL TO UTERUS", 
+      "Vomiting during pregnancy", 
       "Menses too early and too profuse"
     ], 
     "Modalities": [
@@ -52,32 +52,33 @@
       "Full of desires, for what they know not"
     ], 
     "Abdomen": [
-      "Amoebic dysentery with tenesmus; while straining pain so great that it nauseates; little thirst", 
-      "Cutting, clutching; WORSE, AROUND THE NAVEL", 
       "Body rigid; stretched out stiff", 
-      "Stools", 
+      "Dysenteric, slimy", 
       "Pitch-like, green as grass, LIKE FROTHY MOLASSES, with griping at navel", 
-      "Dysenteric, slimy"
+      "Stools", 
+      "Cutting, clutching; WORSE, AROUND THE NAVEL", 
+      "Amoebic dysentery with tenesmus; while straining pain so great that it nauseates; little thirst"
     ], 
     "Face": [
-      "Blue rings around eyes", 
-      "Periodical orbital neuralgia, with lachrymation, photophobia, and smarting eyelids"
+      "Periodical orbital neuralgia, with lachrymation, photophobia, and smarting eyelids", 
+      "Blue rings around eyes"
     ], 
     "Fever": [
-      "Intermittent fever, irregular cases, after Quinine", 
       "SLIGHTEST CHILL with MUCH heat, NAUSEA, vomiting, and dyspnoea", 
       "Relapses with improper diet", 
-      "Sleep", 
-      "With eyes half wide open", 
-      "Shocks in all limbs on going to sleep"
+      "Intermittent fever, irregular cases, after Quinine"
+    ], 
+    "Sleep": [
+      "Shocks in all limbs on going to sleep", 
+      "With eyes half wide open"
     ], 
     "Nose": [
-      "Coryza, with stoppage of nose and nausea", 
-      "Epistaxis"
+      "Epistaxis", 
+      "Coryza, with stoppage of nose and nausea"
     ], 
     "Head": [
-      "Bones of skull feel crushed or bruised", 
-      "Pain extends to teeth and root of tongue"
+      "Pain extends to teeth and root of tongue", 
+      "Bones of skull feel crushed or bruised"
     ], 
     "Skin": [
       "Pale, lax", 

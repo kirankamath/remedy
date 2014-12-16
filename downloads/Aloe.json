@@ -3,62 +3,62 @@
   "Relationship": "Complementary: Sulphur; compare: Kali-bich.; Lycop.; Allium sat.", 
   "symptoms": {
     "Rectum": [
-      "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water", 
-      "Feeling of weakness and loss of power of sphincter ani", 
-      "SENSE OF INSECURITY IN RECTUM, when passing flatus", 
-      "Uncertain whether gas or stool will come", 
-      "Stool passes without effort, almost unnoticed", 
-      "Lumpy, watery stool", 
-      "Jelly-like stools, with soreness in rectum after stool", 
-      "A LOT OF MUCUS, WITH PAIN IN RECTUM AFTER STOOL", 
       "Hemorrhoids protrude like grapes; very sore and tender; better cold water application", 
-      "BURNING IN ANUS and rectum", 
-      "Constipation, with heavy pressure in lower part of abdomen", 
+      "Jelly-like stools, with soreness in rectum after stool", 
+      "SENSE OF INSECURITY IN RECTUM, when passing flatus", 
       "Diarrhoea from beer", 
-      "Urinary Organs", 
+      "Scanty and high colored", 
+      "Constipation, with heavy pressure in lower part of abdomen", 
+      "Uncertain whether gas or stool will come", 
+      "Lumpy, watery stool", 
       "Incontinence in aged, bearing-down sensation and enlarged prostate", 
-      "Scanty and high colored"
+      "A LOT OF MUCUS, WITH PAIN IN RECTUM AFTER STOOL", 
+      "Feeling of weakness and loss of power of sphincter ani", 
+      "BURNING IN ANUS and rectum", 
+      "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water", 
+      "Stool passes without effort, almost unnoticed", 
+      "Urinary Organs"
     ], 
     "Eyes": [
+      "PAIN DEEP IN ORBITS", 
       "Compelled to make small during pain in forehead", 
-      "Flickering before eyes", 
       "Redness of eyes with YELLOW vision", 
-      "PAIN DEEP IN ORBITS"
+      "Flickering before eyes"
     ], 
     "Respiratory": [
-      "Winter coughs, with itching", 
-      "Difficult respiration, with stitches from liver to chest"
+      "Difficult respiration, with stitches from liver to chest", 
+      "Winter coughs, with itching"
     ], 
     "Stomach": [
-      "Aversion to meat", 
+      "Pain in pit when making false step", 
       "Longing for juicy things", 
+      "Aversion to meat", 
       "After eating, flatulence, PULSATION IN RECTUM, and sexual irritation", 
-      "Nausea, with headache", 
-      "Pain in pit when making false step"
+      "Nausea, with headache"
     ], 
     "Modalities": [
-      "Worse: early morning; summer; heat; in hot", 
-      "Worse: dry weather; after eating or drinking", 
       "Better: from cold", 
-      "Better: open air"
+      "Better: open air", 
+      "Worse: early morning; summer; heat; in hot", 
+      "Worse: dry weather; after eating or drinking"
     ], 
     "Back": [
-      "Pain in small of back; worse moving", 
+      "LUMBAGO ALTERNATING WITH HEADACHE AND PILES", 
       "Stitches through sacrum", 
-      "LUMBAGO ALTERNATING WITH HEADACHE AND PILES"
+      "Pain in small of back; worse moving"
     ], 
     "Face": [
       "Marked redness of lips"
     ], 
     "Mouth": [
       "Taste bitter and sour", 
-      "Tasteless eructations", 
-      "Lips cracked and dry"
+      "Lips cracked and dry", 
+      "Tasteless eructations"
     ], 
     "Nose": [
-      "Coldness of tip", 
       "Bleeding in morning on awakening", 
-      "Full of crusts"
+      "Full of crusts", 
+      "Coldness of tip"
     ], 
     "Head": [
       "Headache alternates with lumbago, with intestinal and uterine affections", 
@@ -66,30 +66,30 @@
       "ACHES ABOVE FOREHEAD, WITH HEAVINESS IN EYES, MUST PARTIALLY CLOSE THEM"
     ], 
     "Throat": [
-      "Thick lumps of tough mucus", 
       "Varicose condition of veins in pharynx", 
-      "Dry, scrappy feeling"
+      "Dry, scrappy feeling", 
+      "Thick lumps of tough mucus"
     ], 
     "Abdomen": [
-      "Pain around navel, worse pressure", 
-      "Fullness in region of liver, pain under right ribs", 
+      "Burning, copious flatus", 
       "ABDOMEN FEELS FULL, HEAVY, HOT, BLOATED", 
-      "Pulsating pain around navel", 
-      "Weak feeling, as if diarrhoea would come on", 
-      "Great accumulation of flatus, pressing downwards, causing distress in lower bowels", 
-      "SENSATION OF PLUG BETWEEN SYMPHYSIS PUBIS AND OS COCCYGES, with urging to stool", 
       "Colic before and during stool", 
-      "Burning, copious flatus"
+      "Fullness in region of liver, pain under right ribs", 
+      "Weak feeling, as if diarrhoea would come on", 
+      "SENSATION OF PLUG BETWEEN SYMPHYSIS PUBIS AND OS COCCYGES, with urging to stool", 
+      "Pain around navel, worse pressure", 
+      "Pulsating pain around navel", 
+      "Great accumulation of flatus, pressing downwards, causing distress in lower bowels"
     ], 
     "Extremities": [
       "Lameness in all limbs", 
-      "DRAWING PAINS IN JOINTS", 
-      "Soles pain when walking"
+      "Soles pain when walking", 
+      "DRAWING PAINS IN JOINTS"
     ], 
     "Female": [
       "Bearing down in rectum, worse standing and during menses", 
-      "Uterus feels heavy, cannot walk much on that account", 
       "Labor-like pains in loins; extend down legs", 
+      "Uterus feels heavy, cannot walk much on that account", 
       "Climacteric hemorrhage", 
       "Menses too early and too profuse"
     ], 

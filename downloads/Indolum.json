@@ -1,28 +1,31 @@
 {
+  "Natural History": [
+    "product of Putrefaction of Proteids)(A Crystalline Compound Derivable from Indigo, but also a"
+  ], 
+  "details": "Primary action is to increase the elimination of Indican. Auto-intoxication. Compare: SKATOL.Persistent desire to sleep, dull, discontented mental state, hideous delusions and nervousness, constant motion of fingers and feet. Intestinal putrefaction.", 
   "symptoms": {
     "Head": [
       "Dull occipital and frontal headache in afternoon", 
+      "Pupils dilated with headache", 
       "Dull sensation over eyes", 
-      "Eyeballs hot and hurt when moved", 
-      "Pupils dilated with headache"
+      "Eyeballs hot and hurt when moved"
     ], 
     "Stomach": [
-      "Bloated feeling", 
+      "Constipation", 
       "Hungry sensation after full meal", 
-      "Great thirst", 
-      "Constipation"
+      "Bloated feeling", 
+      "Great thirst"
     ], 
-    "Natural History": [], 
+    "Sleep": [
+      "Continuous dreaming", 
+      "SLEEPINESS"
+    ], 
     "Extremities": [
       "Very tired and sore in lower limbs", 
       "Feet burn", 
-      "Knee-joints sore", 
-      "Sleep", 
-      "SLEEPINESS", 
-      "Continuous dreaming"
+      "Knee-joints sore"
     ]
   }, 
-  "details": "Primary action is to increase the elimination of Indican. Auto-intoxication. Compare: SKATOL.Persistent desire to sleep, dull, discontented mental state, hideous delusions and nervousness, constant motion of fingers and feet. Intestinal putrefaction.", 
   "name": "Indolum", 
   "dosage": "Sixth attenuation."
 }

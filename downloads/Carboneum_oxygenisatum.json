@@ -7,20 +7,21 @@
       "Ocular paralysis, hemianopsia, disturbed pupillary reaction, optic neuritis and atrophy, subconjunctival and retinal Hemorrhages"
     ], 
     "Head": [
-      "Cerebral congestion; hallucination of vision, hearing and touch", 
-      "Inclination to turn in a circle", 
       "JAWS FIRMLY CLENCHED", 
       "Trismus", 
+      "Roaring ears", 
+      "Inclination to turn in a circle", 
       "Heaviness of head", 
       "Sticking pain in temples", 
-      "Roaring ears"
+      "Cerebral congestion; hallucination of vision, hearing and touch"
+    ], 
+    "Sleep": [
+      "PROLONGED; sleepiness for several days", 
+      "Deep"
     ], 
     "Skin": [
       "Anaesthesia; vesication along course of nerves; HERPES ZOSTER; pemphigus, with large and small vesicles", 
-      "Hand icy cold", 
-      "Sleep", 
-      "Deep", 
-      "PROLONGED; sleepiness for several days"
+      "Hand icy cold"
     ], 
     "dosage": ""
   }, 

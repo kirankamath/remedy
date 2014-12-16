@@ -1,41 +1,41 @@
 {
   "name": "Mezereum", 
-  "Relationship": "Compare: DIRCA PALUSTRIS - Leather wood - (a gastrointestinal irritant inducing salivation, emesis and purgation; cerebral hyperaemia; neuralgic pains, with depression, palpitation, and dyspnoea); MERC.; PHYT.; RHUS; GUAIAC.; SYPH.Antidotes: KALI-HYD.; MERC.", 
+  "Relationship": "Antidotes: KALI-HYD.; MERC.Compare: DIRCA PALUSTRIS - Leather wood - (a gastrointestinal irritant inducing salivation, emesis and purgation; cerebral hyperaemia; neuralgic pains, with depression, palpitation, and dyspnoea); MERC.; PHYT.; RHUS; GUAIAC.; SYPH.", 
   "symptoms": {
     "Eyes": [
       "CILIARY NEURALGIA AFTER OPERATIONS", 
-      "Especially after removal of eyeball", 
-      "Pains radiate and shoot downward, WITH COLD FEELING AND STIFFNESS OF BONE"
+      "Pains radiate and shoot downward, WITH COLD FEELING AND STIFFNESS OF BONE", 
+      "Especially after removal of eyeball"
     ], 
     "Respiratory": [
-      "Soreness and burning in bones of thorax", 
       "Constriction across chest", 
+      "Soreness and burning in bones of thorax", 
       "Cough; worse, eating, irritation lower than can be reached, on taking a warm drink"
     ], 
     "Stomach": [
       "Desire for ham-fat", 
+      "GASTRIC ULCER with much burning", 
       "Burning in tongue, extending to stomach", 
       "MOUTH WATERS", 
-      "Nausea felt in throat; better, eating", 
       "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
-      "GASTRIC ULCER with much burning"
+      "Nausea felt in throat; better, eating"
     ], 
     "Modalities": [
+      "Better: open air", 
       "Worse: cold air; night", 
       "Worse: evening until midnight", 
       "Worse: warm food", 
       "Worse: touch", 
-      "Worse: motion", 
-      "Better: open air"
+      "Worse: motion"
     ], 
     "Abdomen": [
       "Swelling of glands with large abdomen in children", 
-      "Pressure in inguinal ring", 
-      "Flatulent colic, with shivering and difficult respiration"
+      "Flatulent colic, with shivering and difficult respiration", 
+      "Pressure in inguinal ring"
     ], 
     "Face": [
-      "Red", 
-      "Eruption around mouth, with coryza"
+      "Eruption around mouth, with coryza", 
+      "Red"
     ], 
     "Female": [
       "Menses too frequent, soon, profuse", 
@@ -46,46 +46,46 @@
       "Post-nasal adenoids"
     ], 
     "Head": [
+      "Stupefying headache in right side", 
+      "Head covered with THICK, LEATHERY CRUSTS, UNDER WHICH PUS COLLECTS", 
       "Hard work to talk", 
       "Headache; worse from talking", 
-      "Stupefying headache in right side", 
-      "Affections of external head; scaly eruption, white scabs", 
-      "Head covered with THICK, LEATHERY CRUSTS, UNDER WHICH PUS COLLECTS", 
-      "Violent neuralgia about face and teeth, running towards ear, at night; WORSE, EATING; better near hot stove", 
       "Roots of teeth decay", 
-      "Teeth feel elongated"
+      "Violent neuralgia about face and teeth, running towards ear, at night; WORSE, EATING; better near hot stove", 
+      "Teeth feel elongated", 
+      "Affections of external head; scaly eruption, white scabs"
     ], 
     "Skin": [
       "Eczema; INTOLERABLE ITCHING; chilliness with pruritus; worse in bed", 
-      "Ulcers itch and burn, surrounded by vesicles and shining, fiery-red areola", 
       "Zona, with burning pain", 
       "BONES, especially long bones, inflamed and swollen; caries, exostosis; pain worse night, touch, damp weather", 
+      "Ulcers itch and burn, surrounded by vesicles and shining, fiery-red areola", 
       "ERUPTIONS ULCERATE AND FORM THICK SCABS UNDER WHICH PURULENT MATTER EXUDES"
     ], 
     "Rectum": [
       "Constipation after confinement", 
-      "Prolapse of rectum", 
-      "Diarrhoea, with small, white particles", 
-      "GREEN DISCHARGES", 
-      "Constipation, with hepatic and uterine inertia", 
       "Constriction of anus; stitches and prolapse of rectum", 
-      "Urine Section", 
-      "Red flakes float on top of urine", 
-      "Hot, bloody", 
+      "GREEN DISCHARGES", 
       "Biting, burning in forepart of urethra at the close of micturition", 
+      "Red flakes float on top of urine", 
+      "Diarrhoea, with small, white particles", 
+      "After urinating, a few drops of blood are passed", 
       "Hematuria preceded by cramp pain in the bladder", 
-      "After urinating, a few drops of blood are passed"
+      "Constipation, with hepatic and uterine inertia", 
+      "Hot, bloody", 
+      "Urine Section", 
+      "Prolapse of rectum"
     ], 
     "Extremities": [
-      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
       "PAIN and burning in tibia and long bones", 
+      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
       "Legs and feet go to sleep", 
       "Pain in hip and knee"
     ], 
     "Male": [
-      "ENLARGEMENT OF TESTICLES", 
       "Violent sexual desire", 
-      "Gonorrhea, with hematuria"
+      "Gonorrhea, with hematuria", 
+      "ENLARGEMENT OF TESTICLES"
     ], 
     "Ears": [
       "Feel too much open, AS IF TYMPANUM WAS EXPOSED TO THE COLD AIR AND IT BLEW INTO THE EAR", 

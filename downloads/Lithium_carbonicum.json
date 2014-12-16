@@ -3,38 +3,38 @@
   "Relationship": "Compare: LYC.; AMMON. PHOS.; BENZ-AC.; CALC.; LITHIUM CHLOR. (symptoms of cinchonism, viz.: DIZZY head, full, BLURRING OF VISION. Ringing in ears; marked tremors; GENERAL WEAKNESS; marked muscular and general prostration; no gastrointestinal effects. Nose sore, heartburn, pain in teeth). LITHIUM LACTICUM (rheumatism of shoulder, and small joints relieved by moving about; worse, resting). LITHIUM BENZOICUM (deep-seated pains in loins; in small of back; uneasiness in bladder. Cystic irritation. Gallstones. Frequent desire. Diminishing uric acid deposit). LITHIUM BROMATUM (cerebral congestion, threatened apoplexy, insomnia and epilepsy).", 
   "symptoms": {
     "Heart": [
-      "Rheumatic soreness in cardiac region", 
-      "Sudden shock in heart", 
-      "Throbbing, dull stitch in cardiac region", 
+      "Turbid urine with mucus, scanty and dark, acrid; sandy deposits", 
       "Pains in heart before menses, and associated with pains in bladder, and before urinating; better, after", 
+      "Rheumatic soreness in cardiac region", 
       "Trembling and fluttering in heart, extending to back", 
-      "Urinary Organs", 
+      "Sudden shock in heart", 
       "Soreness of bladder; pain in right kidney and ureter", 
-      "Turbid urine with mucus, scanty and dark, acrid; sandy deposits"
+      "Urinary Organs", 
+      "Throbbing, dull stitch in cardiac region"
     ], 
     "Eyes": [
-      "Half vision; invisible right half", 
+      "Eyes pain after reading", 
       "Photophobia", 
-      "Pain over eyes", 
       "Dry lids", 
-      "Eyes pain after reading"
+      "Pain over eyes", 
+      "Half vision; invisible right half"
     ], 
     "Respiratory": [
-      "Constriction of chest", 
-      "Violent cough when lying down", 
       "Air feels cold when inspired", 
-      "Pain in mammary glands, WHICH EXTEND INTO THE ARMS AND FINGERS"
+      "Constriction of chest", 
+      "Pain in mammary glands, WHICH EXTEND INTO THE ARMS AND FINGERS", 
+      "Violent cough when lying down"
     ], 
     "Stomach": [
-      "Acidity, nausea, GNAWING, RELIEVED BY EATING", 
       "Cannot endure slightest pressure of clothes", 
-      "Urine Section", 
-      "Tenesmus", 
+      "While urinating, pressure in heart", 
       "Turbid urine, with mucus and red deposit", 
       "Pain in region of right kidney", 
       "Free and colorless", 
-      "While urinating, pressure in heart", 
-      "Cystitis, subacute and chronic"
+      "Acidity, nausea, GNAWING, RELIEVED BY EATING", 
+      "Tenesmus", 
+      "Cystitis, subacute and chronic", 
+      "Urine Section"
     ], 
     "Modalities": [
       "Worse: in morning", 
@@ -42,26 +42,26 @@
       "Better: rising and moving about"
     ], 
     "Head": [
-      "Tension, as if bound; better, sitting and going out", 
       "Externally sensitive", 
-      "HEADACHE CEASES WHILE EATING", 
-      "Trembling and throbbing", 
+      "Both cheeks covered with dry, bran-like scales", 
       "Pain in heart; extends to head", 
+      "Trembling and throbbing", 
+      "HEADACHE CEASES WHILE EATING", 
       "Dizzy states with ringing in ears", 
-      "Both cheeks covered with dry, bran-like scales"
+      "Tension, as if bound; better, sitting and going out"
     ], 
     "Skin": [
-      "Scabby, tettery eruption on hands, head, and cheeks, preceded by red, raw skin", 
+      "Rough rash all over body, much loose epithelium, tough, dry, itchy skin", 
       "Dull stitch, ending in itching", 
-      "BARBER'S ITCH", 
-      "Rough rash all over body, much loose epithelium, tough, dry, itchy skin"
+      "Scabby, tettery eruption on hands, head, and cheeks, preceded by red, raw skin", 
+      "BARBER'S ITCH"
     ], 
     "Extremities": [
-      "Paralytic stiffness all over", 
-      "Itching about joints", 
       "Rheumatic pains throughout shoulder-joint, arm, and fingers and small joints generally", 
       "Pain in hollow of foot, extending to knee", 
       "Swelling and tenderness of finger and toe joints; better, hot water", 
+      "Paralytic stiffness all over", 
+      "Itching about joints", 
       "Nodular swellings in joints", 
       "Ankles pain when walking"
     ]

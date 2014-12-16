@@ -1,16 +1,16 @@
 {
   "name": "Helleborus", 
-  "Relationship": "(HELLEBOR. FOETIDUS or, POLYMNIA - Bear's foot - Acts especially on spleen (CEANOTHUS); also rectum and sciatic nerve. Splenic pains extend to scapula, neck and head, worse left side and evening; chronic ague cake; hypertrophied uterus; glandular enlargements; hair and nails falling off; skin peeling.) HELLEBOR. ORIENTALIS (salivation).Antidote: CAMPHOR; CINCH.Compare: Threatening effusion; TUBERC.; APIS; ZINC.; OPIUM; CINCH.; CICUTA; IODOFORM.", 
+  "Relationship": "(HELLEBOR. FOETIDUS or, POLYMNIA - Bear's foot - Acts especially on spleen (CEANOTHUS); also rectum and sciatic nerve. Splenic pains extend to scapula, neck and head, worse left side and evening; chronic ague cake; hypertrophied uterus; glandular enlargements; hair and nails falling off; skin peeling.) HELLEBOR. ORIENTALIS (salivation).Compare: Threatening effusion; TUBERC.; APIS; ZINC.; OPIUM; CINCH.; CICUTA; IODOFORM.Antidote: CAMPHOR; CINCH.", 
   "symptoms": {
     "Eyes": [
       "Eyeballs turn upwards; squinting, vacant look", 
       "Pupils dilated", 
-      "Eyes wide open, sunken", 
-      "Night-blindness"
+      "Night-blindness", 
+      "Eyes wide open, sunken"
     ], 
     "Respiratory": [
-      "Frequent sighing", 
       "Respiration irregular", 
+      "Frequent sighing", 
       "Chest constricted; gasps for breath", 
       "Hydrothorax"
     ], 
@@ -19,75 +19,76 @@
       "Worse: from uncovering"
     ], 
     "Mind": [
-      "Slow in answering", 
+      "COMPLETE UNCONSCIOUSNESS", 
       "Thoughtless; staring", 
       "INVOLUNTARY SIGHING", 
-      "COMPLETE UNCONSCIOUSNESS", 
-      "PICKS LIPS AND CLOTHES"
+      "PICKS LIPS AND CLOTHES", 
+      "Slow in answering"
     ], 
     "Stool": [
-      "Jelly-like, white mucus; involuntary", 
-      "Urine Section", 
+      "Bladder over distended", 
       "Suppressed; scanty, dark; coffee-grounds sediment", 
-      "Frequent urging", 
+      "Jelly-like, white mucus; involuntary", 
       "Child cannot urinate", 
-      "Bladder over distended"
+      "Frequent urging", 
+      "Urine Section"
     ], 
     "Abdomen": [
-      "Gurgling, as if bowels were full of water", 
-      "Swollen, painful to touch"
+      "Swollen, painful to touch", 
+      "Gurgling, as if bowels were full of water"
     ], 
     "Face": [
       "Pale, sunken", 
-      "Cold sweat", 
       "Wrinkled", 
+      "Cold sweat", 
       "Neuralgia on left side; parts so tender he cannot chew"
     ], 
     "Mouth": [
-      "HORRIBLE SMELL FROM MOUTH", 
-      "Lips dry and cracked", 
-      "Tongue red and dry", 
       "FALLING OF LOWER JAW", 
       "Meaningless picking of lips", 
       "Grinding of teeth", 
       "CHEWING MOTION", 
+      "Tongue red and dry", 
+      "Lips dry and cracked", 
       "Greedily swallows cold water, though unconscious", 
-      "Child nurses greedily, with disgust for food", 
-      "Ptyalism, with sore corners of mouth"
+      "Ptyalism, with sore corners of mouth", 
+      "HORRIBLE SMELL FROM MOUTH", 
+      "Child nurses greedily, with disgust for food"
     ], 
     "Nose": [
-      "Dirty, dry nostrils", 
+      "Nose pointed", 
       "Rubs nose", 
       "Smell diminished", 
-      "Nose pointed"
+      "Dirty, dry nostrils"
     ], 
     "Head": [
+      "BORES HEAD INTO PILLOW; beats it with hands", 
+      "ROLLS HEAD day and night; moaning, sudden screams", 
+      "Headache culminates in vomiting", 
       "Forehead wrinkled in folds", 
       "Cold sweat", 
-      "Stupefying headache", 
-      "ROLLS HEAD day and night; moaning, sudden screams", 
-      "BORES HEAD INTO PILLOW; beats it with hands", 
       "Dull pain in occiput, with sensation of water swishing inside", 
-      "Headache culminates in vomiting"
+      "Stupefying headache"
     ], 
     "Skin": [
-      "PALE, DROPSICAL, itching", 
-      "Livid spots on skin", 
       "Sudden, watery, swelling of skin", 
-      "Falling off of hair and nails", 
-      "Angioneurotic oedema"
+      "PALE, DROPSICAL, itching", 
+      "Angioneurotic oedema", 
+      "Livid spots on skin", 
+      "Falling off of hair and nails"
+    ], 
+    "Sleep": [
+      "Cannot be fully aroused", 
+      "Sudden screams in sleep", 
+      "CRI ENCEPHALIQUE", 
+      "Soporous sleep"
     ], 
     "Extremities": [
-      "AUTOMATIC MOTION OF ONE ARM AND LEG", 
-      "Limbs heavy and painful", 
       "Stretching of limbs", 
+      "AUTOMATIC MOTION OF ONE ARM AND LEG", 
       "Thumb drawn into palm", 
       "Vesicular eruption between fingers and toes", 
-      "Sleep", 
-      "Sudden screams in sleep", 
-      "Soporous sleep", 
-      "CRI ENCEPHALIQUE", 
-      "Cannot be fully aroused"
+      "Limbs heavy and painful"
     ]
   }, 
   "details": "Produces a condition of SENSORIAL DEPRESSION. Sees, hears, tastes imperfectly, and general MUSCULAR WEAKNESS, which may go on to complete paralysis, accompanied by dropsical effusions. Hence, a remedy in low states of vitality and serious disease. Characteristic aggravation from 4 to eight PM (LYCOP.) SINKING SENSATION. State of effusion in hydrocephalus. Mania of a melancholy type.", 

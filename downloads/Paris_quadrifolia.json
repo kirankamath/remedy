@@ -1,11 +1,11 @@
 {
   "name": "Paris quadrifolia", 
-  "Relationship": "Compare: PASTINACA - PARSNIP - (Loquacity; delirium tremens; illusions of vision; intolerance of milk; Roots used dietetically, cooked in water or as broth or as salad for consumptives and \"kidney stones.\") SIL.; CALC.; NUX; RHUS.Incompatible: FERR. PHOS.Antidote: COFF.", 
+  "Relationship": "Compare: PASTINACA - PARSNIP - (Loquacity; delirium tremens; illusions of vision; intolerance of milk; Roots used dietetically, cooked in water or as broth or as salad for consumptives and kidney stones.) SIL.; CALC.; NUX; RHUS.Antidote: COFF.Incompatible: FERR. PHOS.", 
   "symptoms": {
     "Eyes": [
+      "Expanded, as though lids did not cover", 
       "Affections of the eyebrows", 
-      "Eyes feel heavy, as if they were projected; SENSATION OF A STRING THROUGH EYEBALLS", 
-      "Expanded, as though lids did not cover"
+      "Eyes feel heavy, as if they were projected; SENSATION OF A STRING THROUGH EYEBALLS"
     ], 
     "Respiratory": [
       "Stuffed condition and fullness at root of nose", 
@@ -20,11 +20,11 @@
     ], 
     "Head": [
       "Sensation as if scalp were contracted and bones scraped", 
-      "Soreness of top of head; cannot brush hair", 
       "Aches, as from PULLING A STRING FROM EYES TO OCCIPUT", 
-      "Occipital headache, with a feeling of weight", 
-      "Head feels very large, expanded", 
       "Scalp sensitive", 
+      "Occipital headache, with a feeling of weight", 
+      "Soreness of top of head; cannot brush hair", 
+      "Head feels very large, expanded", 
       "Numb feeling on left side of head"
     ], 
     "Face": [
@@ -35,13 +35,13 @@
       "TONGUE DRY WHEN AWAKING - Coated white, WITHOUT THIRST, with bitter or diminished taste"
     ], 
     "Extremities": [
+      "Arm becomes stiff, fingers clenched", 
       "Sense of WEIGHT AND WEARINESS IN NAPE OF NECK and across shoulders", 
       "Neuralgia, beginning in left intercostal region, and extending into left arm", 
-      "Arm becomes stiff, fingers clenched", 
-      "Neuralgia of coccyx; pulsating, sticking, when sitting", 
-      "FINGERS OFTEN FEEL NUMB", 
       "Numbness of upper limbs", 
-      "Everything feels rough"
+      "Everything feels rough", 
+      "Neuralgia of coccyx; pulsating, sticking, when sitting", 
+      "FINGERS OFTEN FEEL NUMB"
     ]
   }, 
   "details": "Head symptoms marked and verified. Sensation of expansion and consequent tension. Coldness of right side of body, left hot. Catarrhal complaints, stuffed feeling at root of nose. Disorder of sense of touch.", 

@@ -1,6 +1,6 @@
 {
   "Natural History": [
-    "Lycopersicum EsculentumTomato"
+    "TomatoLycopersicum Esculentum"
   ], 
   "symptoms": {
     "Heart": [
@@ -11,14 +11,14 @@
       "Eyes suffused"
     ], 
     "Respiratory": [
-      "Voice husky", 
-      "Pain in chest, extending to head", 
-      "Hoarseness; constant desire to clear throat", 
       "Expulsive cough, deep and harsh", 
-      "Chest oppressed; dry, hacking cough coming on at night and keeping one awake", 
-      "Urine Section", 
+      "Pain in chest, extending to head", 
       "Constant dribbling IN OPEN AIR", 
-      "Must rise at night to urinate"
+      "Hoarseness; constant desire to clear throat", 
+      "Voice husky", 
+      "Chest oppressed; dry, hacking cough coming on at night and keeping one awake", 
+      "Must rise at night to urinate", 
+      "Urine Section"
     ], 
     "Modalities": [
       "Worse: right side", 
@@ -34,18 +34,18 @@
       "Whole head and scalp feels sore, bruised, after pain has ceased"
     ], 
     "Nose": [
-      "Profuse, watery coryza; drops down throat", 
-      "Itching in anterior chamber; worse, breathing any dust; better, indoors"
+      "Itching in anterior chamber; worse, breathing any dust; better, indoors", 
+      "Profuse, watery coryza; drops down throat"
     ], 
     "Extremities": [
-      "Aching through back", 
       "Dull pain in lumbar region", 
-      "SHARP PAIN IN RIGHT DELTOID AND PECTORALIS MUSCLES", 
       "Pain deep in middle of right arm", 
-      "Rheumatic pain in right elbow and wrist, and hands of both sides", 
       "Intense aching in lower limbs", 
-      "Right crural neuralgia", 
-      "Tingling along right ulnar nerve"
+      "SHARP PAIN IN RIGHT DELTOID AND PECTORALIS MUSCLES", 
+      "Rheumatic pain in right elbow and wrist, and hands of both sides", 
+      "Aching through back", 
+      "Tingling along right ulnar nerve", 
+      "Right crural neuralgia"
     ], 
     "dosage": ""
   }, 

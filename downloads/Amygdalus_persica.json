@@ -1,7 +1,10 @@
 {
-  "symptoms": {}, 
-  "details": "A most valuable remedy in vomiting of various kinds; MORNING SICKNESS. Irritation of eyes. Ischuria and hematuria.Hemorrhage from the bladder.Gastric irritation of children; no form of food tolerated. Loss of smell and taste. Gastric and intestinal irritation when the tongue is elongated and pointed, tip and edges red. Constant nausea and vomiting.", 
   "name": "Amygdalus persica", 
   "Relationship": "Compare: AMYG. AMARA - Bitter Almond. (Pains through tonsils, throat dark, difficult swallowing, vomiting, cough with sore chest.)", 
+  "symptoms": {}, 
+  "details": "Gastric irritation of children; no form of food tolerated. Loss of smell and taste. Gastric and intestinal irritation when the tongue is elongated and pointed, tip and edges red. Constant nausea and vomiting.A most valuable remedy in vomiting of various kinds; MORNING SICKNESS. Irritation of eyes. Ischuria and hematuria.Hemorrhage from the bladder.", 
+  "Natural History": [
+    "Peach Tree"
+  ], 
   "dosage": "Fresh infusion or mother tincture."
 }

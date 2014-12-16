@@ -9,82 +9,82 @@
       "Sound of heart becomes weaker, pulse of low tension"
     ], 
     "Eyes": [
-      "Pupils unequal; left pupil contracted", 
-      "Variations in visual acuity", 
-      "Lachrymation worse in open air; violent tearing pain in eyes", 
       "Dim vision after reading", 
-      "Spots before eyes"
+      "Spots before eyes", 
+      "Lachrymation worse in open air; violent tearing pain in eyes", 
+      "Pupils unequal; left pupil contracted", 
+      "Variations in visual acuity"
     ], 
     "Stomach": [
-      "Dry mouth, tongue burns, gums and teeth pain", 
-      "THIRST; pain in stomach and flatulence", 
-      "The SMELL OF FOOD CAUSES NAUSEA EVEN TO FAINTING, especially fish", 
+      "Thirst for effervescent, alcoholic beverages", 
       "Profuse salivary secretion", 
+      "The SMELL OF FOOD CAUSES NAUSEA EVEN TO FAINTING, especially fish", 
+      "Gouty gastralgia", 
       "Vomiting of mucus, bile and food; worse, any motion; GREAT COLDNESS IN STOMACH", 
       "CRAVING FOR VARIOUS THINGS, but is averse to them when smelling them, seized then with nausea", 
-      "Gouty gastralgia", 
+      "Dry mouth, tongue burns, gums and teeth pain", 
       "Burning or ICY COLDNESS IN STOMACH and abdomen", 
-      "Thirst for effervescent, alcoholic beverages", 
-      "Pain in transverse colon"
+      "Pain in transverse colon", 
+      "THIRST; pain in stomach and flatulence"
     ], 
     "Female": [
-      "Pruritis of genitals", 
-      "Cold feeling in thigh after period", 
+      "Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar", 
       "Sensation of swelling in vulva and clitoris", 
+      "Pruritis of genitals", 
       "Urine Section", 
-      "Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar"
+      "Cold feeling in thigh after period"
     ], 
     "Modalities": [
+      "Better: stooping", 
       "Worse: sundown to sunrise; motion", 
       "Worse: loss of sleep", 
       "Worse: smell of food in evening", 
-      "Worse: mental exertion", 
-      "Better: stooping"
+      "Worse: mental exertion"
     ], 
     "Stool": [
-      "Painful, scanty, transparent, jelly-like mucus; pain, as if anus were torn open, with prolapse", 
+      "Ineffectual pressing; feels faeces in rectum, but cannot expel them", 
       "Autumnal dysentery; stools contain WHITE SHREDDY PARTICLES in large quantities", 
-      "Ineffectual pressing; feels faeces in rectum, but cannot expel them"
+      "Painful, scanty, transparent, jelly-like mucus; pain, as if anus were torn open, with prolapse"
     ], 
     "Back": [
-      "Aching in lumbar and lumbosacral region", 
       "Dull pain across loins", 
-      "Backache, better, rest and pressure"
+      "Backache, better, rest and pressure", 
+      "Aching in lumbar and lumbosacral region"
     ], 
     "Face": [
-      "Pain in facial muscles, moving about", 
       "Tingling and oedematous swelling; cheeks red, hot, sweaty", 
-      "Very irritable with the pains  Pain behind angle of right lower jaw"
+      "Very irritable with the pains  Pain behind angle of right lower jaw", 
+      "Pain in facial muscles, moving about"
     ], 
     "Head": [
       "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening"
     ], 
     "Skin": [
-      "Blotchy papular rash on face", 
       "Pink spots on back, chest and abdomen", 
-      "Urticaria"
+      "Urticaria", 
+      "Blotchy papular rash on face"
     ], 
     "Abdomen": [
-      "DISTENTION of abdomen, with gas, inability to stretch out legs", 
-      "Borborygmi", 
-      "Pain over liver", 
       "Caecum and ascending colon much distended", 
-      "Fullness and continuous rumbling", 
-      "Ascites"
+      "DISTENTION of abdomen, with gas, inability to stretch out legs", 
+      "Ascites", 
+      "Pain over liver", 
+      "Borborygmi", 
+      "Fullness and continuous rumbling"
     ], 
     "Extremities": [
       "Sharp pain down left arm", 
-      "Tearing in limbs during warm weather, stinging during cold", 
-      "Pins and needles in hands and wrists, fingertips numb", 
-      "Pain in front of thigh", 
-      "Right plantar reflex abolished", 
       "Limbs, lame, weak, tingling", 
-      "Pain worse in evening and warm weather", 
-      "Joints stiff and feverish; shifting rheumatism; pains worse at night", 
-      "Inflammation of great toe, gout in heel, CANNOT BEAR TO HAVE IT TOUCHED OR MOVED", 
-      "Tingling in the finger nails", 
       "Knees strike together, can hardly walk", 
-      "Oedematous swelling and coldness of legs and feet"
+      "Pins and needles in hands and wrists, fingertips numb", 
+      "Inflammation of great toe, gout in heel, CANNOT BEAR TO HAVE IT TOUCHED OR MOVED", 
+      "Right plantar reflex abolished", 
+      "Tearing in limbs during warm weather, stinging during cold", 
+      "Tingling in the finger nails", 
+      "Joints stiff and feverish; shifting rheumatism; pains worse at night", 
+      "Pain in front of thigh", 
+      "Oedematous swelling and coldness of legs and feet", 
+      "Pain worse in evening and warm weather"
     ], 
     "Ears": [
       "Itching in ears; sharp, shooting pains below right tragus"

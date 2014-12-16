@@ -3,15 +3,15 @@
   "Relationship": "Compare: CYSTISIN (motor paralysis); CONIUM; CAUSTICUM; CROTALUS; NUX. Curare antidotes STRYCHNIN.", 
   "symptoms": {
     "Eyes": [
-      "Sharp, stitching pains over right eye", 
       "Black spots before vision", 
-      "Ptosis of right side"
+      "Ptosis of right side", 
+      "Sharp, stitching pains over right eye"
     ], 
     "Respiratory": [
-      "THREATENED PARALYSIS OF RESPIRATION on falling asleep", 
       "Short breath", 
-      "Short dry cough; provokes vomiting, followed by fainting", 
       "CHEST SORE TO PRESSURE", 
+      "Short dry cough; provokes vomiting, followed by fainting", 
+      "THREATENED PARALYSIS OF RESPIRATION on falling asleep", 
       "VERY DISTRESSING DYSPNOEA"
     ], 
     "Modalities": [
@@ -23,49 +23,49 @@
       "Indecision; no longer wishes to think, or act for herself"
     ], 
     "Head": [
-      "Lancinating pains all over head", 
       "Head drawn backward", 
-      "Falling out of hair", 
-      "Brain feels full of fluid"
+      "Lancinating pains all over head", 
+      "Brain feels full of fluid", 
+      "Falling out of hair"
     ], 
     "Face": [
-      "Facial and buccal paralysis", 
-      "Tongue and mouth drawn", 
+      "Tongue and mouth drawn to right", 
       "Red face", 
-      "Tongue and mouth drawn to right"
+      "Tongue and mouth drawn", 
+      "Facial and buccal paralysis"
     ], 
     "Nose": [
       "Ozaena", 
       "Tubercles on nose; fetid lumps of pus"
     ], 
     "Female": [
-      "Dysmenorrhoea", 
+      "Leucorrhoea, thick, purulent, offensive", 
       "Menses too early, during menses, colic, headache, kidney pain", 
-      "Leucorrhoea, thick, purulent, offensive"
+      "Dysmenorrhoea"
     ], 
     "Skin": [
-      "Leprosy", 
-      "Dirty-looking skin", 
-      "Boils", 
-      "Tubercles on nose", 
-      "Liver spots", 
       "Blood oozes through", 
-      "Itching"
+      "Dirty-looking skin", 
+      "Tubercles on nose", 
+      "Itching", 
+      "Liver spots", 
+      "Leprosy", 
+      "Boils"
     ], 
     "Extremities": [
-      "Tired pain up and down spine", 
-      "ARMS WEAK, HEAVY", 
       "Cannot lift the fingers", 
       "Weakness of hands and fingers in pianists", 
+      "Tired pain up and down spine", 
       "Legs tremble; give way in walking", 
+      "ARMS WEAK, HEAVY", 
+      "Favors development of corns", 
       "Debility; paralysis", 
       "Catalepsy", 
-      "Favors development of corns", 
       "Reflexes lessened or abolished"
     ], 
     "Ears": [
-      "Noises; unbearable earache", 
       "Lancinating pains start from ears; extending down to legs", 
+      "Noises; unbearable earache", 
       "Swelling of lobes of ear"
     ]
   }, 

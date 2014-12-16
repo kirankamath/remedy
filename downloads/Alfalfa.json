@@ -3,39 +3,40 @@
   "Relationship": "Compare: AVENA SAT.; DIPODIUM PUNCT.; GELS.; HYDR.; KALI-P.; PH-AC.; ZINC.", 
   "symptoms": {
     "Head": [
-      "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening", 
+      "Violent headache", 
       "Pain in left side of head", 
-      "Violent headache"
+      "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening"
     ], 
     "Stomach": [
-      "Increased thirst", 
       "Appetite impaired, but chiefly increased even to bulimia", 
-      "He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon", 
-      "Much nibbling of food and craving of sweets"
+      "Much nibbling of food and craving of sweets", 
+      "Increased thirst", 
+      "He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon"
     ], 
     "Mind": [
-      "It induces mental exhilaration of buoyancy, i", 
       "e", 
-      ", a general feeling of well being; clear and bright, so that all blues are dissipated", 
-      "Dull, drowsy, stupid ; gloomy and irritable, worse during evening"
+      "Dull, drowsy, stupid ; gloomy and irritable, worse during evening", 
+      "It induces mental exhilaration of buoyancy, i", 
+      ", a general feeling of well being; clear and bright, so that all blues are dissipated"
     ], 
     "Abdomen": [
-      "Flatulence with distention", 
-      "Shifting, flatulent pain along colon several hours after meals", 
-      "Frequent loose, yellow, painful stools, with burning of flatulence", 
       "Chronic appendicitis", 
-      "Urine Section", 
+      "Shifting, flatulent pain along colon several hours after meals", 
       "Kidneys inactive; frequent urging to urinate", 
-      "Polyuria", 
       "Increased elimination of urea, indican and phosphates", 
-      "Sleep", 
+      "Polyuria", 
+      "Flatulence with distention", 
+      "Urine Section", 
+      "Frequent loose, yellow, painful stools, with burning of flatulence"
+    ], 
+    "Sleep": [
       "Slept better than usual, especially in early morning; it induces quiet, reposeful and refreshing sleep"
     ], 
     "Ears": [
       "Stuffed feeling in eustachian tube  at night, patulous in morning"
     ]
   }, 
-  "details": "From its action on the sympathetic, Alfalfa favorably influences nutrition, evidenced in \"toning up\" the appetite and digestion resulting in greatly improved mental and physical vigor, with gain in weight. Disorders characterized by malnutrition are mainly within its therapeutic range, for example, neurasthenia, splanchnic blues, nervousness, insomnia, nervous indigestion, etc. Acts as a fat producer, corrects tissue waste. Deficient lactation. Increases quality and quantity of milk in nursing mothers. Its pronounced urinary action suggests it clinically in diabetes insipidus and phosphaturia; and it is claimed to allay vesical irritability of prostatic hypertrophy. The rheumatic diathesis seems especially amenable to its action.", 
+  "details": "From its action on the sympathetic, Alfalfa favorably influences nutrition, evidenced in toning up the appetite and digestion resulting in greatly improved mental and physical vigor, with gain in weight. Disorders characterized by malnutrition are mainly within its therapeutic range, for example, neurasthenia, splanchnic blues, nervousness, insomnia, nervous indigestion, etc. Acts as a fat producer, corrects tissue waste. Deficient lactation. Increases quality and quantity of milk in nursing mothers. Its pronounced urinary action suggests it clinically in diabetes insipidus and phosphaturia; and it is claimed to allay vesical irritability of prostatic hypertrophy. The rheumatic diathesis seems especially amenable to its action.", 
   "Natural History": [
     "Medicago Sativa", 
     "California Clover or Lucerne"

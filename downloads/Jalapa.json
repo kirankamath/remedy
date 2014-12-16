@@ -4,24 +4,24 @@
   "symptoms": {
     "Stomach": [
       "Tongue, smooth, glazed, dry, smarting", 
-      "Pain in right hypochondrium", 
       "Flatulence and nausea", 
-      "Pinching and griping", 
+      "Anus sore", 
       "Watery diarrhoea; thin, muddy stools", 
-      "Abdomen distended", 
       "Face cold and blue", 
-      "Anus sore"
+      "Pain in right hypochondrium", 
+      "Pinching and griping", 
+      "Abdomen distended"
     ], 
     "Extremities": [
+      "Burning of soles", 
       "Aching in arms and legs", 
       "Pain in large joint of great toe", 
-      "Smarting at root of nail", 
-      "Burning of soles"
+      "Smarting at root of nail"
     ]
   }, 
   "details": "Causes and cures colic and diarrhoea. The child is good all day, but screams and is restless and troublesome at night.", 
   "Natural History": [
-    "Exogonium PurgaJalap"
+    "JalapExogonium Purga"
   ], 
   "dosage": "Third to twelfth potency."
 }

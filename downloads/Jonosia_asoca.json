@@ -1,29 +1,30 @@
 {
   "Natural History": [
-    "Bark of an Indian Tree, introduced by Dr", 
     "N", 
+    "Ray, Calcutta", 
     "D", 
-    "Ray, Calcutta"
+    "Bark of an Indian Tree, introduced by Dr"
   ], 
   "details": "Has extensive sphere of action on female organs. Amenorrhoea and metrorrhagia.Saraca indica - AMENORRHOEA, pain. ARTIPLEX Uterine symptoms, amenorrhoea; hysteria, coldness between shoulders, dislike of warm food, craves strange foods, palpitation, sleeplessness.", 
   "symptoms": {
     "Head": [
-      "Unilateral headache; reflex uterine, congestive headache, better open air and by free flow", 
-      "Pain in eyeballs; supraorbital pains, photophobia", 
-      "Nasal catarrh, profuse, watery discharge", 
-      "Loss of sense of smell", 
+      "Thirsty, excessive nausea; obstinate constipation; hemorrhoids", 
       "Gastric", 
+      "Loss of sense of smell", 
+      "Nasal catarrh, profuse, watery discharge", 
+      "Pain in eyeballs; supraorbital pains, photophobia", 
       "Desire for sweets, also acid things", 
-      "Thirsty, excessive nausea; obstinate constipation; hemorrhoids"
+      "Unilateral headache; reflex uterine, congestive headache, better open air and by free flow"
     ], 
     "Back": [
       "Pain along spine radiating to abdomen and thighs"
     ], 
+    "Sleep": [
+      "Dreams of traveling", 
+      "Disturbed"
+    ], 
     "Female": [
-      "Delayed and irregular menses; menstrual colic; amenorrhoea, pain in ovaries before flow; menorrhagia, irritable bladder, leucorrhoea", 
-      "Sleep", 
-      "Disturbed", 
-      "Dreams of traveling"
+      "Delayed and irregular menses; menstrual colic; amenorrhoea, pain in ovaries before flow; menorrhagia, irritable bladder, leucorrhoea"
     ]
   }, 
   "name": "Jonosia asoca", 

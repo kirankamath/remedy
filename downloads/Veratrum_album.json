@@ -3,37 +3,37 @@
   "Relationship": "Compare: VERATRINUM - alkaloid from seed of Sabadilla. - (electric pains, electric shocks in muscles, fibrillary twitchings); CHOLOS TERRAPINA (cramps in calves); CAMPH.; CUPR.; ARS.; CUPRUM ARS. (INTERMITTENT, COLD, CLAMMY SWEAT); NARCISSUS POETICUS (gastroenteritis with much griping and cutting pain in bowels. Fainting, trembling, cold limbs, small and irregular pulse); TRICHOSANTHES - (diarrhoea, pain in liver, dizziness after every stool); AGARIC. EMETIC. (Vertigo; longing for ice-cold water; burning pains in stomach); AGARIC PHALLOIDES (cholera, cramps in stomach, cold extremities, urine suppressed). VERATRINE (Increased vascular tension. It relaxes it and stimulates the elimination of toxins by skin, kidneys, and liver).", 
   "symptoms": {
     "Heart": [
-      "Palpitation with anxiety and rapid audible respiration", 
       "Pulse irregular, feeble", 
-      "Tobacco heart from chewing", 
+      "One of the best heart stimulants in homeopathic doses", 
+      "Palpitation with anxiety and rapid audible respiration", 
       "Intermittent action of heart in feeble persons with some hepatic obstruction", 
-      "One of the best heart stimulants in homeopathic doses"
+      "Tobacco heart from chewing"
     ], 
     "Eyes": [
-      "Surrounded by dark rings", 
       "Staring: turned upwards, without lustre", 
       "Lachrymation with redness", 
-      "Lids dry heavy"
+      "Lids dry heavy", 
+      "Surrounded by dark rings"
     ], 
     "Fever": [
       "Chill, WITH EXTREME COLDNESS and thirst"
     ], 
     "Stomach": [
-      "VORACIOUS appetite", 
-      "THIRST FOR COLD WATER, BUT IS VOMITED AS SOON AS SWALLOWED", 
-      "Averse to warm food", 
-      "Hiccough", 
-      "COPIOUS VOMITING AND NAUSEA; AGGRAVATED BY DRINKING AND LEAST MOTION", 
-      "Craves fruit, juicy and cold things, ice, salt", 
-      "Anguish in pit of stomach", 
       "Great weakness after vomiting", 
-      "Gastric irritability with CHRONIC vomiting of food"
+      "VORACIOUS appetite", 
+      "Anguish in pit of stomach", 
+      "Hiccough", 
+      "Gastric irritability with CHRONIC vomiting of food", 
+      "THIRST FOR COLD WATER, BUT IS VOMITED AS SOON AS SWALLOWED", 
+      "Craves fruit, juicy and cold things, ice, salt", 
+      "COPIOUS VOMITING AND NAUSEA; AGGRAVATED BY DRINKING AND LEAST MOTION", 
+      "Averse to warm food"
     ], 
     "Female": [
       "Menses too early; profuse and exhausting", 
       "DYSMENORRHOEA, WITH COLDNESS, purging, COLD SWEAT", 
-      "FAINTS FROM LEAST EXERTION", 
-      "Sexual mania precedes menses"
+      "Sexual mania precedes menses", 
+      "FAINTS FROM LEAST EXERTION"
     ], 
     "Modalities": [
       "Worse: at night; wet", 
@@ -41,74 +41,74 @@
       "Better: walking and warmth"
     ], 
     "Mind": [
-      "Melancholy, with stupor and mania", 
-      "Sits in a stupid manner; notices nothing; SULLEN INDIFFERENCE", 
-      "Frenzy of excitement; shrieks, curses", 
-      "Puerperal mania", 
       "Aimless wandering from home", 
-      "DELUSIONS OF IMPENDING MISFORTUNES", 
+      "Cursing, howling all night", 
       "Mania, with desire to cut and tear things", 
+      "Puerperal mania", 
+      "Sits in a stupid manner; notices nothing; SULLEN INDIFFERENCE", 
+      "Melancholy, with stupor and mania", 
+      "Frenzy of excitement; shrieks, curses", 
       "Attacks of pain, with delirium driving to madness", 
-      "Cursing, howling all night"
+      "DELUSIONS OF IMPENDING MISFORTUNES"
     ], 
     "Abdomen": [
-      "Sinking and empty feeling", 
-      "COLD FEELING in stomach and abdomen", 
-      "Pain in abdomen preceding stool", 
-      "Cramps, knotting abdomen and legs", 
       "Sensation as if hernia would protrude", 
+      "Sinking and empty feeling", 
+      "Cramps, knotting abdomen and legs", 
+      "Pain in abdomen preceding stool", 
+      "COLD FEELING in stomach and abdomen", 
       "Abdomen sensitive to pressure, swollen with terrible colic"
     ], 
     "Face": [
       "Features sunken", 
-      "ICY COLDNESS OF TIP OF NOSE AND FACE", 
+      "FACE VERY PALE, BLUE, COLLAPSED, COLD", 
       "Nose grows more pointed", 
-      "Tearing in cheeks, temples, and eyes", 
-      "FACE VERY PALE, BLUE, COLLAPSED, COLD"
+      "ICY COLDNESS OF TIP OF NOSE AND FACE", 
+      "Tearing in cheeks, temples, and eyes"
     ], 
     "Respiratory": [
-      "Hoarse, weak voice", 
-      "Rattling in chest", 
       "Much mucus in bronchial tubes, that cannot be coughed up", 
+      "Cough on entering warm room from cold air", 
       "Coarse rales", 
+      "Cough comes on from drinking, especially cold water; urine escapes when coughing", 
       "Chronic bronchitis in the aged", 
       "Loud, barking, stomach cough, followed by eructations of gas; worse, warm room", 
       "Hollow cough, tickling low down, with blue face", 
-      "Cough comes on from drinking, especially cold water; urine escapes when coughing", 
-      "Cough on entering warm room from cold air"
+      "Rattling in chest", 
+      "Hoarse, weak voice"
     ], 
     "Mouth": [
       "Tongue pale, cold; cool sensation, as from peppermint", 
+      "Toothache, teeth feel heavy as if filled with lead", 
       "Dry in center not relieved by water", 
-      "Salty saliva", 
-      "Toothache, teeth feel heavy as if filled with lead"
+      "Salty saliva"
     ], 
     "Head": [
       "Contracted features", 
-      "COLD SWEAT ON FOREHEAD", 
-      "SENSATION OF A LUMP OF ICE ON VERTEX", 
+      "Neck too weak to hold head up", 
       "Headache, with nausea, vomiting, diarrhoea, pale face", 
-      "Neck too weak to hold head up"
+      "SENSATION OF A LUMP OF ICE ON VERTEX", 
+      "COLD SWEAT ON FOREHEAD"
     ], 
     "Skin": [
-      "Blue, cold, clammy, inelastic; COLD AS DEATH", 
+      "Wrinkling of skin of hands and feet", 
       "Cold sweat", 
-      "Wrinkling of skin of hands and feet"
+      "Blue, cold, clammy, inelastic; COLD AS DEATH"
     ], 
     "Rectum": [
       "Constipation from inactivity of rectum, with heat and headache", 
-      "Constipation of babies, and when produced by very cold weather", 
+      "Evacuations of cholera morbus and true cholera when vomiting accompanies the purging", 
       "STOOLS LARGE, WITH MUCH STRAINING UNTIL COPIOUS, AND FORCIBLY EVACUATED, followed by great prostration", 
-      "Evacuations of cholera morbus and true cholera when vomiting accompanies the purging"
+      "Constipation of babies, and when produced by very cold weather"
     ], 
     "Extremities": [
-      "Soreness and tenderness of joints", 
+      "Neuralgia in brachial plexus; arms feel swollen, cold, paralytic", 
       "Sciatica; pains like electric flashes", 
-      "CRAMPS IN CALVES", 
-      "Neuralgia in brachial plexus; arms feel swollen, cold, paralytic"
+      "Soreness and tenderness of joints", 
+      "CRAMPS IN CALVES"
     ]
   }, 
-  "details": "A perfect picture of COLLAPSE, WITH EXTREME COLDNESS, BLUENESS, AND WEAKNESS, is offered by this drug. Post-operative shock with cold sweat on forehead, pale face, rapid, feeble pulse. COLD PERSPIRATION ON THE FOREHEAD, with nearly all complaints. VOMITING, PURGING, AND CRAMPS IN EXTREMITIES. The PROFUSE, violent retching and vomiting is most characteristic. Surgical shock. Excessive dryness of all mucous surfaces. \"COPROPHAGIA\" violent mania alternates with silence and refusal to talk.", 
+  "details": "A perfect picture of COLLAPSE, WITH EXTREME COLDNESS, BLUENESS, AND WEAKNESS, is offered by this drug. Post-operative shock with cold sweat on forehead, pale face, rapid, feeble pulse. COLD PERSPIRATION ON THE FOREHEAD, with nearly all complaints. VOMITING, PURGING, AND CRAMPS IN EXTREMITIES. The PROFUSE, violent retching and vomiting is most characteristic. Surgical shock. Excessive dryness of all mucous surfaces. COPROPHAGIA violent mania alternates with silence and refusal to talk.", 
   "Natural History": [
     "White Hellebore"
   ], 

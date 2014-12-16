@@ -1,26 +1,28 @@
 {
+  "name": "Hippomanes", 
+  "Relationship": "Compare: CAUSTIC.", 
   "symptoms": {
     "Stomach": [
       "ICY COLDNESS in stomach"
     ], 
-    "Natural History": [], 
     "Extremities": [
-      "Violent pain in wrist", 
-      "Paralysis of wrists", 
-      "SPRAINED SENSATION IN WRIST", 
       "Great weakness of hands and fingers", 
-      "Weakness in joints of feet, knee, and soles", 
+      "Paralysis of wrists", 
+      "Much weakness after growing too fast", 
+      "Violent pain in wrist", 
       "CHOREA", 
-      "Much weakness after growing too fast"
+      "Weakness in joints of feet, knee, and soles", 
+      "SPRAINED SENSATION IN WRIST"
     ], 
     "Male": [
-      "Sexual desire increased", 
       "Prostatitis", 
-      "Drawing pain in testicles"
+      "Drawing pain in testicles", 
+      "Sexual desire increased"
     ]
   }, 
   "details": "The old famous Aphrodisiacum of the Greek authors.", 
-  "name": "Hippomanes", 
-  "Relationship": "Compare: CAUSTIC.", 
+  "Natural History": [
+    "from the Colt)(A Meconium Deposit out of the Amniotic Fluid taken"
+  ], 
   "dosage": "Sixth to thirtieth potency."
 }

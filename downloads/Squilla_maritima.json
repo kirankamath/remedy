@@ -3,25 +3,25 @@
   "Relationship": "Compare: DIGIT.; STROPHANT.; APOCYN. CAN.; BRY.; KALI-CARB. Squilla follows DIGITALIS, if this fails to relieve water-logged cases.", 
   "symptoms": {
     "Heart": [
-      "A cardiac stimulant affecting the peripheral vessels and coronary arteries", 
-      "Urinary Organs", 
+      "INVOLUNTARY spurting of urine when coughing", 
       "Great urging; MUCH WATERY URINE", 
-      "INVOLUNTARY spurting of urine when coughing"
+      "Urinary Organs", 
+      "A cardiac stimulant affecting the peripheral vessels and coronary arteries"
     ], 
     "Eyes": [
-      "Feel irritable; child bores into them with fists", 
-      "Sensation as if swimming in cold water"
+      "Sensation as if swimming in cold water", 
+      "Feel irritable; child bores into them with fists"
     ], 
     "Respiratory": [
-      "Fluent coryza; margins of nostrils feel sore", 
-      "Sneezing; throat irritated; short, dry cough; must take a deep breath", 
-      "DYSPNOEA AND STITCHES IN CHEST, and painful contraction of abdominal muscles", 
-      "VIOLENT, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with INVOLUNTARY SPURTING OF URINE AND SNEEZING", 
       "CHILD RUBS FACE WITH FIST DURING COUGH", 
       "Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air", 
-      "Cough of measles", 
       "Frequent calls to urinate at night, passing large quantities", 
-      "SNEEZING WITH COUGHING"
+      "VIOLENT, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with INVOLUNTARY SPURTING OF URINE AND SNEEZING", 
+      "DYSPNOEA AND STITCHES IN CHEST, and painful contraction of abdominal muscles", 
+      "Cough of measles", 
+      "Fluent coryza; margins of nostrils feel sore", 
+      "SNEEZING WITH COUGHING", 
+      "Sneezing; throat irritated; short, dry cough; must take a deep breath"
     ], 
     "Stomach": [
       "Pressure like a stone"
@@ -35,11 +35,11 @@
     ], 
     "Extremities": [
       "Icy cold hands and feet, with warmth of the rest of the body", 
-      "Feet get sore from standing", 
-      "Tender feet with shop girls"
+      "Tender feet with shop girls", 
+      "Feet get sore from standing"
     ]
   }, 
-  "details": "A slow acting remedy. Corresponds to ailments requiring several days to reach their maximum. Persistent, dull, rheumatic pains permeate the body. A spleen medicine; stitches under left free ribs. Important heart and kidney medicine. BRONCHOPNEUMONIA.Acts especially on mucous membranes of the respiratory and digestive tracts, and also upon the kidneys. Valuable in chronic bronchitis of old people with mucous rales, dyspnoea, and scanty urine.", 
+  "details": "Acts especially on mucous membranes of the respiratory and digestive tracts, and also upon the kidneys. Valuable in chronic bronchitis of old people with mucous rales, dyspnoea, and scanty urine.A slow acting remedy. Corresponds to ailments requiring several days to reach their maximum. Persistent, dull, rheumatic pains permeate the body. A spleen medicine; stitches under left free ribs. Important heart and kidney medicine. BRONCHOPNEUMONIA.", 
   "Natural History": [
     "Sea-onion"
   ], 

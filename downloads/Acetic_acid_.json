@@ -1,34 +1,34 @@
 {
   "name": "Acetic acid ", 
-  "Relationship": "Acetic acid is antidotal to all anaesthetic vapors. Counteracts sausage poisoning.Compare: Am-acet. (Profuse saccharine urine, patient is bathed in sweat.) Benzoin oderiferum - Spice-wood (night sweats.) Ars.; China; Digitalis; Liatris. General anasarca in heart and kidney disease, dropsy, and chronic diarrhoea.)", 
+  "Relationship": "Compare: Am-acet. (Profuse saccharine urine, patient is bathed in sweat.) Benzoin oderiferum - Spice-wood (night sweats.) Ars.; China; Digitalis; Liatris. General anasarca in heart and kidney disease, dropsy, and chronic diarrhoea.)Acetic acid is antidotal to all anaesthetic vapors. Counteracts sausage poisoning.", 
   "symptoms": {
     "Head": [
-      "Nervous headache, from abuse of narcotics", 
+      "Temporal vessels distended", 
       "Blood rushes to head with delirium", 
-      "Temporal vessels distended"
+      "Nervous headache, from abuse of narcotics"
     ], 
     "Respiratory": [
-      "Hoarse, hissing respiration; DIFFICULT BREATHING; COUGH WHEN INHALING", 
-      "Membranous croup", 
-      "Irritation of trachea and bronchial tubes", 
       "False membrane in throat", 
+      "Membranous croup", 
+      "Putrid sore throat", 
       "Profuse bronchorrhea", 
-      "Putrid sore throat"
+      "Hoarse, hissing respiration; DIFFICULT BREATHING; COUGH WHEN INHALING", 
+      "Irritation of trachea and bronchial tubes"
     ], 
     "Stomach": [
-      "SALIVATION", 
-      "FERMENTATION in stomach", 
-      "Intense burning thirst", 
-      "Cold drinks distress", 
       "Vomits after every kind of food", 
-      "Epigastric tenderness", 
-      "Burning pain as of an ulcer", 
-      "Cancer of Stomach", 
-      "Sour belching and vomiting", 
-      "Burning water brash and profuse salivation", 
+      "FERMENTATION in stomach", 
       "Hyperchlorhydria and gastralgia", 
+      "Burning pain as of an ulcer", 
+      "Sour belching and vomiting", 
+      "Cold drinks distress", 
       "VIOLENT BURNING PAIN IN STOMACH AND CHEST, FOLLOWED BY COLDNESS OF SKIN AND COLD SWEAT ON FOREHEAD", 
-      "Stomach feels as if she had taken a lot of vinegar"
+      "Stomach feels as if she had taken a lot of vinegar", 
+      "Cancer of Stomach", 
+      "Burning water brash and profuse salivation", 
+      "Epigastric tenderness", 
+      "SALIVATION", 
+      "Intense burning thirst"
     ], 
     "Mind": [
       "Irritable, worried about business affairs"
@@ -38,37 +38,36 @@
     ], 
     "Abdomen": [
       "Feels as if abdomen was sinking in", 
+      "Ascites", 
       "Frequent watery stools, worse in morning", 
       "TYMPANITIC", 
-      "Ascites", 
+      "Diabetes, with great thirst and debility", 
       "Hemorrhage from bowels", 
-      "Urine Section", 
       "Large quantities of pale urine", 
-      "Diabetes, with great thirst and debility"
+      "Urine Section"
     ], 
     "Fever": [
       "HECTIC, WITH DRENCHING NIGHT-SWEATS", 
-      "RED SPOT ON LEFT CHEEK", 
+      "SWEAT PROFUSE, COLD", 
       "NO THIRST IN FEVER", 
-      "Ebullitions", 
-      "SWEAT PROFUSE, COLD"
+      "RED SPOT ON LEFT CHEEK", 
+      "Ebullitions"
     ], 
     "Female": [
-      "Excessive catamenia", 
-      "HEMORRHAGES AFTER LABOR", 
-      "Nausea of pregnancy", 
       "Breasts painfully enlarged, distended with milk", 
-      "Milk impoverished, bluish, transparent, sour", 
-      "Anemia of nursing mothers"
+      "Excessive catamenia", 
+      "Nausea of pregnancy", 
+      "HEMORRHAGES AFTER LABOR", 
+      "Anemia of nursing mothers", 
+      "Milk impoverished, bluish, transparent, sour"
     ], 
     "Skin": [
-      "Pale, waxen, Edematous", 
       "Burning, dry, hot skin, or bathed in profuse sweat", 
-      "Diminished sensibility of the surface of body", 
-      "Useful after stings, bites, etc", 
-      "Varicose swellings", 
+      "Pale, waxen, Edematous", 
       "Scurvy; anasarca", 
-      "Bruises; sprains"
+      "Bruises; sprains", 
+      "Useful after stings, bites, etc. Varicose swellings", 
+      "Diminished sensibility of the surface of body"
     ], 
     "Extremities": [
       "Emaciation", 

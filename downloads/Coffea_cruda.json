@@ -1,6 +1,6 @@
 {
   "name": "Coffea cruda", 
-  "Relationship": "Incompatible: CAMPH.; COCCUL. Complementary: ACON.Compare: COFFEA TOSTA. (Roasting develops certain vitamin-like substances (P. T. Matte). Pigeons which have developed \"deficiency\" neuritis and paralysis on diet of polished rice lost their disabilities on the addition of 8 cc to a 5% infusion of coffee to their food. Non-roasted coffee was useless.) CAFFEINE. - (A crystalline alkaloid - is a direct heart stimulant and diuretic. Dropsy depending on cardiac insufficiency. Myocardial degeneration. Cardiac insufficiency in pneumonia and other infectious diseases. Raises the blood pressure, increases pulse rate and stimulates the heart muscle; hence, a support in extreme feebleness or threatened failure. Stimulates the respiratory center, nerve centers and INCREASES DIURESIS. One of the best stimulants of the vasomotor centers. Acute pulmonary edema. Brachialgia and other neuralgias characterized by NOCTURNAL EXACERBATIONS. Jousset uses equal parts of caffeine and sachar. lac. 3 grains taken in divided doses every other day. Hypodermically, 1/4 grain. Excruciating facial neuralgia from decayed teeth; ACON.; CHAM.; NUX; CYP.; CAFFEINE and plants containing it, as KOLA, THEA, etc.Strong black coffee, drunk as hot as possible, is indispensable as an antidote in a large number of poisons, especially narcotics. Hot coffee by rectum in cases of extreme collapse.Antidotes: Nux.; Tab ac.", 
+  "Relationship": "Incompatible: CAMPH.; COCCUL. Complementary: ACON.Antidotes: Nux.; Tab ac.Strong black coffee, drunk as hot as possible, is indispensable as an antidote in a large number of poisons, especially narcotics. Hot coffee by rectum in cases of extreme collapse.Compare: COFFEA TOSTA. (Roasting develops certain vitamin-like substances (P. T. Matte). Pigeons which have developed deficiency neuritis and paralysis on diet of polished rice lost their disabilities on the addition of 8 cc to a 5% infusion of coffee to their food. Non-roasted coffee was useless.) CAFFEINE. - (A crystalline alkaloid - is a direct heart stimulant and diuretic. Dropsy depending on cardiac insufficiency. Myocardial degeneration. Cardiac insufficiency in pneumonia and other infectious diseases. Raises the blood pressure, increases pulse rate and stimulates the heart muscle; hence, a support in extreme feebleness or threatened failure. Stimulates the respiratory center, nerve centers and INCREASES DIURESIS. One of the best stimulants of the vasomotor centers. Acute pulmonary edema. Brachialgia and other neuralgias characterized by NOCTURNAL EXACERBATIONS. Jousset uses equal parts of caffeine and sachar. lac. 3 grains taken in divided doses every other day. Hypodermically, 1/4 grain. Excruciating facial neuralgia from decayed teeth; ACON.; CHAM.; NUX; CYP.; CAFFEINE and plants containing it, as KOLA, THEA, etc.", 
   "symptoms": {
     "Heart": [
       "Violent irregular palpitation especially after excessive joy or surprise", 
@@ -8,8 +8,8 @@
     ], 
     "Head": [
       "Tight pain, worse from noise, smell, narcotics", 
-      "Seems as if brain were torn to pieces, AS IF NAIL WERE DRIVEN IN HEAD", 
       "Worse in open air", 
+      "Seems as if brain were torn to pieces, AS IF NAIL WERE DRIVEN IN HEAD", 
       "SENSITIVE HEARING"
     ], 
     "Respiratory": [
@@ -17,19 +17,13 @@
     ], 
     "Stomach": [
       "Excessive hunger", 
-      "Intolerance of tight clothing", 
-      "After wine and liquor", 
-      "Female", 
       "Menses too early and long lasting", 
-      "Dysmenorrhoea, large clots of black blood", 
-      "HYPERSENSITIVE VULVA AND VAGINA", 
+      "After wine and liquor", 
       "Voluptuous itching", 
-      "Sleep", 
-      "Wakeful; on a constant move", 
-      "Sleeps till three AM, after which only dozing", 
-      "Wakes with a start, sleep disturbed by dreams", 
-      "SLEEPLESS, ON ACCOUNT MENTAL ACTIVITY; flow of ideas, with nervous excitability", 
-      "Disturbed by itching of anus"
+      "HYPERSENSITIVE VULVA AND VAGINA", 
+      "Dysmenorrhoea, large clots of black blood", 
+      "Female", 
+      "Intolerance of tight clothing"
     ], 
     "Modalities": [
       "Worse: excessive emotions", 
@@ -43,19 +37,26 @@
       "Better: from lying down; holding ice in mouth"
     ], 
     "Mind": [
-      "Gaiety, easy comprehension, irritability, excited; senses acute", 
       "Impressionable, especially to pleasurable impressions", 
+      "Gaiety, easy comprehension, irritability, excited; senses acute", 
       "Full of ideas, quick to act", 
       "Tossing about in anguish"
     ], 
     "Face": [
-      "Dry heat, with red cheeks", 
-      "Prosopalgia extending to molar teeth, ears, forehead, and scalp"
+      "Prosopalgia extending to molar teeth, ears, forehead, and scalp", 
+      "Dry heat, with red cheeks"
+    ], 
+    "Sleep": [
+      "Wakeful; on a constant move", 
+      "Disturbed by itching of anus", 
+      "Sleeps till three AM, after which only dozing", 
+      "SLEEPLESS, ON ACCOUNT MENTAL ACTIVITY; flow of ideas, with nervous excitability", 
+      "Wakes with a start, sleep disturbed by dreams"
     ], 
     "Mouth": [
-      "Toothache; temporarily relieved by holding ice-water in the mouth", 
       "Hasty eating and drinking", 
-      "Delicate taste"
+      "Delicate taste", 
+      "Toothache; temporarily relieved by holding ice-water in the mouth"
     ], 
     "Extremities": [
       "Crural neuralgia; worse, motion, afternoon and night; better, by pressure"

@@ -4,101 +4,102 @@
   ], 
   "symptoms": {
     "Heart": [
-      "Palpitation awakes him", 
       "Piercing pain, with great oppression", 
+      "Palpitation awakes him", 
       "PULSE VERY SLOW"
     ], 
     "Eyes": [
       "Fixed", 
-      "Letters run together when reading", 
+      "Spectral illusions without terror", 
       "Clairvoyance", 
-      "Spectral illusions without terror"
+      "Letters run together when reading"
     ], 
     "Respiratory": [
-      "Humid asthma", 
-      "Chest oppressed with deep, labored breathing"
+      "Chest oppressed with deep, labored breathing", 
+      "Humid asthma"
     ], 
     "Stomach": [
-      "Increased appetite", 
+      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
       "Pain at cardiac orifice; better, pressure", 
-      "Distention", 
       "Pyloric spasm", 
-      "Sensation of extreme tension in abdominal vessels - feel distended to bursting"
+      "Increased appetite", 
+      "Distention"
     ], 
     "Modalities": [
       "Worse: morning; from coffee", 
       "Worse: liquor and tobacco; lying on right side"
     ], 
     "Mind": [
-      "Excessive loquacity; EXUBERANCE OF SPIRITS", 
-      "TIME SEEMS TOO LONG; SECONDS SEEM AGES; A FEW RODS AN IMMENSE DISTANCE", 
+      "Mania, must constantly move", 
+      "Cannot realize her identity, chronic vertigo as of floating off", 
+      "Clairvoyance", 
       "Constantly theorizing", 
       "Anxious depression; constant fear of becoming insane", 
-      "Mania, must constantly move", 
+      "UNCONTROLLABLE LAUGHTER", 
+      "Excessive loquacity; EXUBERANCE OF SPIRITS", 
       "VERY FORGETFUL; CANNOT FINISH SENTENCE", 
       "Is lost in delicious thought", 
-      "UNCONTROLLABLE LAUGHTER", 
+      "TIME SEEMS TOO LONG; SECONDS SEEM AGES; A FEW RODS AN IMMENSE DISTANCE", 
       "Delirium tremens", 
-      "Clairvoyance", 
-      "Emotional excitement; rapid change of mood", 
-      "Cannot realize her identity, chronic vertigo as of floating off"
+      "Emotional excitement; rapid change of mood"
     ], 
     "Head": [
-      "Feels AS IF TOP OF HEAD WERE OPENING AND SHUTTING AND AS IF CALVARIUM WERE BEING LIFTED", 
       "Shocks through brain", 
-      "Uraemic headache", 
-      "Throbbing and weight at occiput", 
       "Headache with flatulence", 
+      "Throbbing and weight at occiput", 
+      "Feels AS IF TOP OF HEAD WERE OPENING AND SHUTTING AND AS IF CALVARIUM WERE BEING LIFTED", 
+      "Uraemic headache", 
       "INVOLUNTARY SHAKING OF HEAD", 
       "Migraine attack preceded by unusual excitement with loquacity"
     ], 
     "Face": [
-      "Expression drowsy and stupid", 
       "Lips glued together", 
+      "Saliva thick, frothy, and sticky", 
       "GRINDING OF TEETH IN SLEEP", 
       "Mouth and lips dry", 
-      "Saliva thick, frothy, and sticky"
+      "Expression drowsy and stupid"
+    ], 
+    "Sleep": [
+      "Obstinate and intractable forms of insomnia", 
+      "Nightmare", 
+      "Very sleepy, but unable to do so", 
+      "Catalepsy", 
+      "Dreams of dead bodies; prophetic"
     ], 
     "Female": [
-      "Menses PROFUSE, dark, painful, without clots", 
       "Backache during menses", 
+      "Menses PROFUSE, dark, painful, without clots", 
+      "Dysmenorrhoea with sexual desire", 
       "Uterine colic, with great nervous agitation and sleeplessness", 
-      "Sterility", 
-      "Dysmenorrhoea with sexual desire"
+      "Sterility"
     ], 
     "Rectum": [
-      "Sensation in anus as if sitting on a ball", 
-      "Urinary Organs", 
+      "Stitches and burning in urethra", 
+      "Dull pain in region of right kidney", 
       "Urine loaded with slimy mucus", 
       "Must strain; DRIBBLING; has to wait some time before the urine flows", 
-      "Stitches and burning in urethra", 
-      "Dull pain in region of right kidney"
+      "Sensation in anus as if sitting on a ball", 
+      "Urinary Organs"
     ], 
     "Extremities": [
-      "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT", 
-      "Thrilling through arms and hands, and from knees down", 
-      "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
       "Pain in soles and calves; sharp pains in knees and ankles; VERY EXHAUSTED AFTER A SHORT WALK", 
-      "Sleep", 
-      "Very sleepy, but unable to do so", 
-      "Obstinate and intractable forms of insomnia", 
-      "Catalepsy", 
-      "Dreams of dead bodies; prophetic", 
-      "Nightmare"
+      "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
+      "Thrilling through arms and hands, and from knees down", 
+      "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT"
     ], 
     "Male": [
-      "After sexual intercourse, BACKACHE", 
-      "Oozing of white, glairy mucus from glans", 
-      "Satyriasis", 
-      "Prolonged thrill", 
       "Chordee", 
-      "Sensation of swelling in perineum or near anus, as if sitting on a ball"
+      "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
+      "Satyriasis", 
+      "Oozing of white, glairy mucus from glans", 
+      "After sexual intercourse, BACKACHE", 
+      "Prolonged thrill"
     ], 
     "dosage": "", 
     "Ears": [
-      "Throbbing, buzzing, and ringing", 
+      "Extreme sensitiveness to noise", 
       "Noise like boiling water", 
-      "Extreme sensitiveness to noise"
+      "Throbbing, buzzing, and ringing"
     ]
   }, 
   "name": "Cannibis indica", 

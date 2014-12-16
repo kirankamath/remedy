@@ -5,31 +5,31 @@
   "details": "Should not be forgotten in the treatment of tubercular meningitis, both as a local application to the head and internally. (BACIL.) TUBERCULOUS CONDITIONS. Subacute and chronic diarrhoea of children.", 
   "symptoms": {
     "Head": [
-      "Sharp, neuralgic pain", 
       "Head feels heavy, as if it could not be lifted from pillow", 
+      "Sharp, neuralgic pain", 
+      "Very drowsy", 
       "Itching of occiput MENINGITIS", 
-      "Sleep interrupted by sighing and cries", 
-      "Very drowsy"
+      "Sleep interrupted by sighing and cries"
     ], 
     "Abdomen": [
-      "Scaphoid abdomen", 
-      "Chronic diarrhoea with suspected tuberculosis", 
-      "Abdomen distended; mesenteric glands enlarged", 
       "CHOLERA INFANTUM", 
+      "Scaphoid abdomen", 
+      "Abdomen distended; mesenteric glands enlarged", 
+      "Chronic diarrhoea with suspected tuberculosis", 
       "CHRONIC DIARRHOEA; STOOLS GREENISH, WATERY, UNDIGESTED, WITH IRRITABLE TEMPER"
     ], 
     "Eyes": [
       "Pupils, DILATED; contract unequally, react poorly", 
-      "Diplopia", 
-      "Failing sight due to retrobulbar neuritis, central scotoma - partial atrophy of optic disc"
+      "Failing sight due to retrobulbar neuritis, central scotoma - partial atrophy of optic disc", 
+      "Diplopia"
     ], 
     "Chest": [
       "Sore pain in apex of right lung", 
-      "Feeling of a weight on chest, as if smothering", 
-      "Cough and wheezing on going to bed", 
-      "Pain in left breast, like a hand grasping at the base of the heart", 
       "Hemoptysis", 
-      "Asthmatic breathing"
+      "Pain in left breast, like a hand grasping at the base of the heart", 
+      "Feeling of a weight on chest, as if smothering", 
+      "Asthmatic breathing", 
+      "Cough and wheezing on going to bed"
     ], 
     "Extremities": [
       "Legs weak; cannot stand and walk with eyes closed", 

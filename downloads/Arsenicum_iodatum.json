@@ -8,63 +8,63 @@
     "Fever": [
       "Recurrent fever and sweats", 
       "DRENCHING NIGHT-SWEATS", 
-      "Pulse rapid, feeble, weak, irregular", 
-      "Chilly, cannot endure cold"
+      "Chilly, cannot endure cold", 
+      "Pulse rapid, feeble, weak, irregular"
     ], 
     "Stomach": [
       "Pain and pyrosis", 
+      "Intense thirst; water is immediately ejected", 
       "Vomiting an hour after food", 
       "Nausea distressing", 
-      "Pain in epigastrium", 
-      "Intense thirst; water is immediately ejected"
+      "Pain in epigastrium"
     ], 
     "Head": [
       "VERTIGO, with tremulous feeling, especially in aged"
     ], 
     "Respiratory": [
-      "Slight hacking cough, with dry and stopped up nostrils", 
-      "Pleuritis exudativa", 
+      "Bronchopneumonia after grippe", 
       "Chronic bronchitis", 
+      "Cough dry, with little difficult expectoration", 
+      "Pleuritis exudativa", 
       "Pulmonary tuberculosis", 
       "Pneumonia that fails to clear up", 
-      "Bronchopneumonia after grippe", 
-      "Cough dry, with little difficult expectoration", 
+      "Slight hacking cough, with dry and stopped up nostrils", 
       "Aphonia"
     ], 
     "Nose": [
       "THIN, WATERY, EXCORIATING DISCHARGE FROM ANTERIOR AND POSTERIOR NARES; SNEEZING", 
-      "Hay-fever", 
-      "Irritation and tingling of nose constant desire to sneeze", 
-      "CHRONIC NASAL CATARRH; swollen nose; profuse thick, yellow discharge; ulcers; MEMBRANE SORE AND EXCORIATED", 
       "Aggravation by sneezing", 
+      "Irritation and tingling of nose constant desire to sneeze", 
+      "Hay-fever", 
+      "CHRONIC NASAL CATARRH; swollen nose; profuse thick, yellow discharge; ulcers; MEMBRANE SORE AND EXCORIATED", 
       "BURNING, acrid coryza"
     ], 
     "Skin": [
-      "Dry, scaly, itching", 
+      "Psoriasis", 
+      "Debilitating night-sweats", 
       "MARKED EXFOLIATION OF SKIN IN LARGE SCALES, leaving a raw exuding surface beneath", 
       "ICHTHYOSIS", 
-      "ENLARGED SCROFULOUS GLANDS", 
       "VENEREAL BUBO", 
-      "Debilitating night-sweats", 
-      "Eczema of the beard; watery, oozing, itching; worse, washing", 
+      "Dry, scaly, itching", 
+      "ENLARGED SCROFULOUS GLANDS", 
       "Emaciation", 
-      "Psoriasis", 
+      "Eczema of the beard; watery, oozing, itching; worse, washing", 
       "Acne hard, shotty, indurated base with pustule at apex"
     ], 
     "Throat": [
-      "Burning in pharynx", 
-      "Tonsils swollen", 
-      "Thick membrane from fauces to lips", 
       "Breath fetid, glandular involvement", 
+      "Thick membrane from fauces to lips", 
+      "Chronic follicular pharyngitis", 
+      "Burning in pharynx", 
       "Diphtheria", 
-      "Chronic follicular pharyngitis"
+      "Tonsils swollen"
     ], 
     "Ears": [
-      "Otitis, with fetid, corrosive discharge", 
-      "Thickening of tympanum"
+      "Thickening of tympanum", 
+      "Otitis, with fetid, corrosive discharge"
     ]
   }, 
-  "details": "Is to be preferred for persistently irritating, corrosive discharges. The discharge irritates the membrane FROM which it flows and OVER which it flows. The discharge may be fetid, watery, and the mucous membrane is always red, angry, swollen; itches and burns. Influenza, HAY-FEVER, old nasal catarrhs, and catarrh of middle ear. Swelling of tissues within the nose. Hypertrophied condition of eustachian tube and deafness. Senile heart, myocarditis and fatty degeneration. Pulse shotty. Chronic aortitis. Epithelioma of the lip. Cancer of breast after ulceration has set in.It seems probable that in Arsenic iod., we have a remedy most closely allied to manifestations of tuberculosis. In the early stages of tuberculosis, even though there is an afternoon rise in temperature, ARS. JOD. is very effective. It will be indicated by a profound prostration, rapid, irritable pulse, recurring fever and sweats, emaciation; tendency to diarrhoea. Chronic pneumonia, with abscess in lung. Hectic; debility; night sweats.This remedy is also to be remembered in phthisis with hoarse, racking cough and profuse expectoration of a purulent nature, and attended with cardiac weakness, emaciation and general debility; in chronic, watery diarrhoea in phthisical subjects; in cases of emaciation with good appetite; in amenorrhoea, with anaemic palpitation and dyspnoea. In chronic pneumonia, when abscess is about to form. Great emaciation. Arteriosclerosis, myocardial degeneration and senile heart. Threatened pyaemia. (Pyrog.; Methyl. blue)", 
+  "details": "This remedy is also to be remembered in phthisis with hoarse, racking cough and profuse expectoration of a purulent nature, and attended with cardiac weakness, emaciation and general debility; in chronic, watery diarrhoea in phthisical subjects; in cases of emaciation with good appetite; in amenorrhoea, with anaemic palpitation and dyspnoea. In chronic pneumonia, when abscess is about to form. Great emaciation. Arteriosclerosis, myocardial degeneration and senile heart. Threatened pyaemia. (Pyrog.; Methyl. blue)Is to be preferred for persistently irritating, corrosive discharges. The discharge irritates the membrane FROM which it flows and OVER which it flows. The discharge may be fetid, watery, and the mucous membrane is always red, angry, swollen; itches and burns. Influenza, HAY-FEVER, old nasal catarrhs, and catarrh of middle ear. Swelling of tissues within the nose. Hypertrophied condition of eustachian tube and deafness. Senile heart, myocarditis and fatty degeneration. Pulse shotty. Chronic aortitis. Epithelioma of the lip. Cancer of breast after ulceration has set in.It seems probable that in Arsenic iod., we have a remedy most closely allied to manifestations of tuberculosis. In the early stages of tuberculosis, even though there is an afternoon rise in temperature, ARS. JOD. is very effective. It will be indicated by a profound prostration, rapid, irritable pulse, recurring fever and sweats, emaciation; tendency to diarrhoea. Chronic pneumonia, with abscess in lung. Hectic; debility; night sweats.", 
   "Natural History": [
     "Iodide of Arsenic"
   ], 

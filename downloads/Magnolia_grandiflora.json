@@ -3,16 +3,16 @@
   "Relationship": "Compare: RHUS.; DULCAM.; AURUM.", 
   "symptoms": {
     "Heart": [
-      "Oppression of chest with inability to expand the lungs", 
-      "Feeling of a large bolus of food which distressed the stomach", 
-      "Suffocated feeling when walking fast or lying on left side", 
-      "Dyspnoea", 
       "Crampy pain in heart", 
-      "Angina pectoris", 
-      "Endocarditis and pericarditis", 
+      "Dyspnoea", 
       "Tendency to faint", 
-      "SENSATION AS IF HEART HAD STOPPED BEATING", 
-      "Pain around heart accompanied by itching of the feet"
+      "Angina pectoris", 
+      "Feeling of a large bolus of food which distressed the stomach", 
+      "Pain around heart accompanied by itching of the feet", 
+      "Endocarditis and pericarditis", 
+      "Oppression of chest with inability to expand the lungs", 
+      "Suffocated feeling when walking fast or lying on left side", 
+      "SENSATION AS IF HEART HAD STOPPED BEATING"
     ], 
     "Modalities": [
       "Worse: damp air", 
@@ -21,11 +21,11 @@
       "Better: motion; intermenstrual flow"
     ], 
     "Extremities": [
-      "Stiffness and sharp erratic pains; worse in joints", 
-      "FEET ITCH", 
-      "Numbness in left arm", 
       "Rheumatic pain in clavicles", 
-      "Shooting in all limbs"
+      "Numbness in left arm", 
+      "Shooting in all limbs", 
+      "Stiffness and sharp erratic pains; worse in joints", 
+      "FEET ITCH"
     ]
   }, 
   "details": "Rheumatism and cardiac lesions are prominent features in the symptomatology of this drug. STIFFNESS and soreness. Alternating pains between spleen and heart. Patient tired and stiff. Soreness when quiet. Erratic shifting of pains.", 

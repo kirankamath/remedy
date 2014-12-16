@@ -4,36 +4,36 @@
   ], 
   "symptoms": {
     "Head": [
-      "Morbid fear of small-pox", 
       "Deafness", 
       "Pain in occiput", 
+      "Morbid fear of small-pox", 
       "Inflamed eyelids"
     ], 
     "Respiratory": [
       "Oppressed breathing", 
-      "Throat feels closed", 
       "Cough with thick viscid, bloody mucus", 
+      "Throat feels closed", 
       "Feeling of a lump in right side of throat"
     ], 
     "Fever": [
-      "Hot fever, with intense radiating heat", 
-      "Profuse, bad-smelling sweat"
+      "Profuse, bad-smelling sweat", 
+      "Hot fever, with intense radiating heat"
     ], 
     "Skin": [
       "Hot, dry", 
-      "Eruption of pustules", 
-      "SHINGLES"
+      "SHINGLES", 
+      "Eruption of pustules"
     ], 
     "Extremities": [
-      "EXCRUCIATING BACKACHE", 
-      "ACHING IN LEGS", 
-      "Tired all over with restlessness", 
       "Wrists pain", 
-      "Pains shift from back to abdomen"
+      "ACHING IN LEGS", 
+      "EXCRUCIATING BACKACHE", 
+      "Pains shift from back to abdomen", 
+      "Tired all over with restlessness"
     ], 
     "dosage": ""
   }, 
   "name": "Variolinum", 
   "Relationship": "Compare: VACCIN. (same action); MALANDRINUM - the morbid product of the grease of the horse (a prophylactic of small-pox and a remedy for the ill-effects of vaccination; chronic eczema following vaccination).", 
-  "details": "Used for \"internal vaccination.\" Seems to be efficacious in protecting against, modifying and aiding in the cure of smallpox."
+  "details": "Used for internal vaccination. Seems to be efficacious in protecting against, modifying and aiding in the cure of smallpox."
 }

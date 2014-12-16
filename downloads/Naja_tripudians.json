@@ -4,49 +4,50 @@
   "symptoms": {
     "Heart": [
       "Dragging and anxiety in precordia", 
-      "Feeling of weight on heart", 
-      "Angina pains extending to nape of neck, left shoulder and arm with anxiety and fear of death", 
       "With the heart symptoms pain in forehead and temples", 
-      "Pulse IRREGULAR IN FORCE", 
-      "Threatened paralysis of heart, body cold, pulse slow, weak, irregular, tremulous", 
+      "DAMAGED HEART AFTER INFECTIOUS DISEASES", 
       "ACUTE AND CHRONIC ENDOCARDITIS", 
       "Palpitation", 
+      "Angina pains extending to nape of neck, left shoulder and arm with anxiety and fear of death", 
+      "Threatened paralysis of heart, body cold, pulse slow, weak, irregular, tremulous", 
+      "Pulse IRREGULAR IN FORCE", 
+      "Feeling of weight on heart", 
       "Stitching pain in region of heart", 
-      "DAMAGED HEART AFTER INFECTIOUS DISEASES", 
       "Marked symptoms of LOW tension"
     ], 
     "Head": [
-      "PAIN IN LEFT TEMPLE AND IN LEFT ORBITAL REGION, EXTENDING TO OCCIPUT, WITH NAUSEA AND VOMITING", 
-      "Hay-fever, with dry larynx", 
       "Suffocative spells after sleeping", 
+      "Ptosis of both lids", 
+      "PAIN IN LEFT TEMPLE AND IN LEFT ORBITAL REGION, EXTENDING TO OCCIPUT, WITH NAUSEA AND VOMITING", 
       "Eyes staring", 
-      "Ptosis of both lids"
+      "Hay-fever, with dry larynx"
     ], 
     "Respiratory": [
-      "Grasping at throat, with sense of choking", 
-      "IRRITATING, DRY COUGH, DEPENDENT ON CARDIAC LESIONS", 
-      "Sticky mucus and saliva", 
+      "Asthma beginning with coryza", 
       "Asthmatic constriction in evening", 
-      "Asthma beginning with coryza"
+      "Sticky mucus and saliva", 
+      "Grasping at throat, with sense of choking", 
+      "IRRITATING, DRY COUGH, DEPENDENT ON CARDIAC LESIONS"
     ], 
     "Modalities": [
-      "Worse: from use of stimulants;Amelioration", 
-      "Better: from walking or riding in open air"
+      "Better: from walking or riding in open air", 
+      "Worse: from use of stimulants;"
     ], 
     "Mind": [
-      "Broods constantly over imaginary troubles", 
       "Suicidal insanity", 
       "Depressed", 
       "Aversion to talking", 
-      "Blurred speech", 
       "Melancholy", 
+      "Broods constantly over imaginary troubles", 
       "Dreads to be left alone", 
+      "Blurred speech", 
       "Fear of rain"
     ], 
-    "Female": [
-      "Neuralgia of left ovary; often serviceable in obscure pain in left groin, especially in post-operative cases; SEEMS TO BE DRAWN TO HEART", 
-      "Sleep", 
+    "Sleep": [
       "Profound, like a log, with stertorous breathing, a typical reptilian state"
+    ], 
+    "Female": [
+      "Neuralgia of left ovary; often serviceable in obscure pain in left groin, especially in post-operative cases; SEEMS TO BE DRAWN TO HEART"
     ], 
     "Ears": [
       "Illusions of hearing; otalgia; chronic otorrhoea, black discharges; smells like herring brine"

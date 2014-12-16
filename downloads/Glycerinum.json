@@ -3,15 +3,15 @@
   "Relationship": "Compare: LACTIC ACID; GELSEMIUM; CALC.", 
   "symptoms": {
     "Head": [
-      "Feels full, throbs; mentally confused", 
       "Severe headache two days before menstruation", 
+      "Feels full, throbs; mentally confused", 
       "Occiput feels full"
     ], 
     "Stomach": [
-      "Fermentation, burning in stomach and oesophagus", 
-      "Urinary Organs", 
       "Profuse and frequent urination", 
+      "Fermentation, burning in stomach and oesophagus", 
       "Increased specific gravity and sugar", 
+      "Urinary Organs", 
       "Diabetes"
     ], 
     "Chest": [
@@ -20,13 +20,13 @@
       "Influenza pneumonia"
     ], 
     "Nose": [
-      "Stopped up, sneezing, irritating coryza", 
+      "Post-nasal dripping", 
       "Sensation of crawling on mucous membrane", 
-      "Post-nasal dripping"
+      "Stopped up, sneezing, irritating coryza"
     ], 
     "Female": [
-      "Profuse, long-lasting flow with bearing down heaviness in uterus", 
-      "General sense of exhaustion"
+      "General sense of exhaustion", 
+      "Profuse, long-lasting flow with bearing down heaviness in uterus"
     ], 
     "Extremities": [
       "Rheumatic pains of a remittent type", 

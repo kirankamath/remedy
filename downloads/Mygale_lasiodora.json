@@ -3,34 +3,34 @@
   "Relationship": "Compare: AGAR.; TARENT.; CUPR.; ZIZIA.", 
   "symptoms": {
     "Stomach": [
-      "Nausea, with dim sight", 
       "Aversion to food", 
-      "Excessive thirst"
+      "Excessive thirst", 
+      "Nausea, with dim sight"
     ], 
     "Modalities": [
-      "Better: during sleep", 
-      "Worse: in morning"
+      "Worse: in morning", 
+      "Better: during sleep"
     ], 
     "Mind": [
       "Delirious, restless, sad; fears death; despondent"
     ], 
     "Face": [
-      "TWITCHING OF FACIAL MUSCLES", 
-      "Mouth and eyes open in rapid succession", 
-      "HOT and FLUSHED", 
       "Tongue dry and parched; put out with difficulty", 
+      "Mouth and eyes open in rapid succession", 
+      "Grating of teeth at night", 
       "Head jerked to one side", 
-      "Grating of teeth at night"
+      "HOT and FLUSHED", 
+      "TWITCHING OF FACIAL MUSCLES"
     ], 
     "Extremities": [
-      "Unsteady gait", 
-      "CONSTANT MOTION OF WHOLE BODY", 
-      "Tremulous", 
-      "Intense redness in streaks, following course of lymphatics", 
+      "Limbs drag while walking", 
       "Twitching of limbs", 
-      "Restless hands", 
       "Convulsive, UNCONTROLLABLE MOVEMENTS OF ARMS AND LEGS", 
-      "Limbs drag while walking"
+      "Intense redness in streaks, following course of lymphatics", 
+      "CONSTANT MOTION OF WHOLE BODY", 
+      "Unsteady gait", 
+      "Restless hands", 
+      "Tremulous"
     ], 
     "Male": [
       "Violent erections", 

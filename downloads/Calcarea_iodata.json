@@ -1,12 +1,12 @@
 {
   "name": "Calcarea iodata", 
-  "Relationship": "Compare: Agraphis - Bluebell (adenoids with enlarged tonsils). Here Sulph. iod. follows both Agraphis and Calc. iod. Acon. lycoctonum (swelling of glands, Hodgkin's disease).Compare also: Calc. fluor; Sil.; Merc. iod.", 
+  "Relationship": "Compare also: Calc. fluor; Sil.; Merc. iod.Compare: Agraphis - Bluebell (adenoids with enlarged tonsils). Here Sulph. iod. follows both Agraphis and Calc. iod. Acon. lycoctonum (swelling of glands, Hodgkin's disease).", 
   "symptoms": {
     "Head": [
-      "Headache while riding against cold wind", 
+      "Polypi of nose and ear", 
       "Light-headed", 
-      "Catarrh; worse at root of nose; sneezing; very little sensation", 
-      "Polypi of nose and ear"
+      "Headache while riding against cold wind", 
+      "Catarrh; worse at root of nose; sneezing; very little sensation"
     ], 
     "Respiratory": [
       "Chronic cough; Pain in chest, difficulty breathing after syphilis and mercurialization", 
@@ -16,8 +16,8 @@
     ], 
     "Skin": [
       "INDOLEM ULCERS, ACCOMPANYING VARICOSE VEINS", 
-      "Easy perspiration", 
-      "Copper-colored and papulous eruption, tinea, favus, crusta lactea, swelling of the glands, skin cracked, falling out of hair"
+      "Copper-colored and papulous eruption, tinea, favus, crusta lactea, swelling of the glands, skin cracked, falling out of hair", 
+      "Easy perspiration"
     ], 
     "Throat": [
       "Enlarged tonsils are filled with little crypts"

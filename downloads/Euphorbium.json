@@ -1,49 +1,53 @@
 {
+  "name": "Euphorbium", 
+  "Relationship": "Euphorbia corollate-Large Flowering Spurge (a diaphoretic expectorant and cathartic of the old school in gastroenteric disturbance, with deathly nausea. Vomiting of food, water, and mucus, and copious evacuations. Attacks recur after short intermissions. Feeling of clawing in stomach; cold sweat). (Verat. alb.)Antidotes: Camph.; Opium.Euphorbia marginata-Snow on the mountain - (Honey from the flowers is poisonous, detected by the hot, acrid taste. The milky juice produces skin symptoms like Rhus).Compare: Euphorbia amygdaloides-Wood Spurge (in pain in antrum, illusion of smell, ODOR OF MICE. Sense of taste blunted. Diarrhoea; stools difficult, with painful anal spasm).Euphorbia pilulifera-Pillbearing Spurge - (Humid asthma, cardiac dyspnoea, hay-fever, and bronchitis. Urethritis, with intense pain on urinating, and much urging. Acrid leucorrhoea; worse least movement. Hemorrhages from sunstroke and traumatism).Compare, also: Psoralea-A Colombian plant - (Pain of cancer, ulcers. Leucorrhoea fetid., Pruritus. Uterine tumors.) Croton; Jatropha; Colchic.", 
+  "symptoms": {
+    "Head": [
+      "Acute mania", 
+      "Violent, pressive headache"
+    ], 
+    "Respiratory": [
+      "Warm feeling in chest, as if hot food had been swallowed", 
+      "Violent, fluent coryza, with burning and cough", 
+      "Spasmodic, dry cough, day and night, with asthma", 
+      "Breathing oppressed as if chest were not wide enough", 
+      "Croup, dry, hollow, cough", 
+      "Constant cough, with stitches from pit of stomach to sides of chest"
+    ], 
+    "Stomach": [
+      "Great hunger", 
+      "Sialorrhoea", 
+      "Thirst for cold drinks", 
+      "Water brash"
+    ], 
+    "Abdomen": [
+      "Feels hollow", 
+      "Stools fermented, profuse, clayish", 
+      "Sunken; spasmodic, flatulent colic"
+    ], 
+    "Face": [
+      "Red swelling of cheeks", 
+      "Erysipelas; yellow blister", 
+      "Eyes inflamed and agglutinated in morning", 
+      "Nasal pruritus with mucous secretions from nasopharynx", 
+      "Burning in cheek; worse, left"
+    ], 
+    "Skin": [
+      "Carbuncle; old, torpid, indolent ulcers with biting, lancinating pain", 
+      "Biting and stinging, red, swollen", 
+      "Erysipelatous inflammation, especially of the cheek", 
+      "VESICULAR ERYSIPELAS", 
+      "Old torpid ulcer, pustules; GANGRENE", 
+      "Ulcerating carcinoma and epithelioma of the skin"
+    ], 
+    "Extremities": [
+      "Paralytic pains", 
+      "Pain in hip-joint and coccyx"
+    ]
+  }, 
+  "details": "An irritant to the skin and mucous membranes. Burning pain in bones. Pains in limbs and paralytic weakness in the joints. Important respiratory and skin symptoms. Terrible burning pains. PAINS OF CANCER. Everything appears larger than it really is.", 
   "Natural History": [
-    "Spurge-The Resinous Juice of Euphorbia ResiniferaGeneralAn irritant to the skin and mucous membranes", 
-    "Burning pain in bones", 
-    "Pains in limbs and paralytic weakness in the joints", 
-    "Important respiratory and skin symptoms", 
-    "Terrible burning pains", 
-    "PAINS OF CANCER", 
-    "Everything appears larger than it really is", 
-    "HeadAcute mania", 
-    "Violent, pressive headache", 
-    "FaceErysipelas; yellow blister", 
-    "Burning in cheek; worse, left", 
-    "Eyes inflamed and agglutinated in morning", 
-    "Red swelling of cheeks", 
-    "Nasal pruritus with mucous secretions from nasopharynx", 
-    "StomachGreat hunger", 
-    "Sialorrhoea", 
-    "Water brash", 
-    "Thirst for cold drinks", 
-    "AbdomenSunken; spasmodic, flatulent colic", 
-    "Stools fermented, profuse, clayish", 
-    "Feels hollow", 
-    "RespiratoryBreathing oppressed as if chest were not wide enough", 
-    "Spasmodic, dry cough, day and night, with asthma", 
-    "Violent, fluent coryza, with burning and cough", 
-    "Constant cough, with stitches from pit of stomach to sides of chest", 
-    "Croup, dry, hollow, cough", 
-    "Warm feeling in chest, as if hot food had been swallowed", 
-    "ExtremitiesParalytic pains", 
-    "Pain in hip-joint and coccyx", 
-    "SkinErysipelatous inflammation, especially of the cheek", 
-    "Biting and stinging, red, swollen", 
-    "VESICULAR ERYSIPELAS", 
-    "Carbuncle; old, torpid, indolent ulcers with biting, lancinating pain", 
-    "Old torpid ulcer, pustules; GANGRENE", 
-    "Ulcerating carcinoma and epithelioma of the skin", 
-    "RelationshipCompare: Euphorbia amygdaloides-Wood Spurge", 
-    "Euphorbia corollate-Large Flowering Spurge", 
-    "Euphorbia marginata-Snow on the mountain -", 
-    "Euphorbia pilulifera-Pillbearing Spurge -", 
-    "Compare, also: Psoralea-A Colombian plant -  Croton; Jatropha; Colchic", 
-    "Antidotes: Camph", 
-    "; Opium", 
-    "DoseThird to sixth potency"
+    "Spurge-The Resinous Juice of Euphorbia Resinifera"
   ], 
-  "symptoms": {}, 
-  "name": "Euphorbium"
+  "dosage": "Third to sixth potency."
 }

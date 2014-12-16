@@ -3,147 +3,147 @@
   "Relationship": "Complementary: ARGENT. NIT. (follows well in gastric derangements); CAUSTIC.; HEP.; LYCOP.; ARS.; TUBERC.Compare: PETROL.; SEP.; SULPH.; FLUOR-AC. The associated constipation with mucus-covered stools and gastric flatulency should be taken into consideration and differentiate it from such remedies as PETOL. and LYCOP. (Raue.)Antidote: NUX.; ACON.; ARS.", 
   "symptoms": {
     "Eyes": [
-      "Ophthalmia, with intolerance of artificial light", 
       "EYELIDS RED AND SWOLLEN", 
+      "Ophthalmia, with intolerance of artificial light", 
+      "ECZEMA OF LIDS; FISSURED", 
       "Blepharitis", 
-      "Dryness of the lids", 
-      "ECZEMA OF LIDS; FISSURED"
+      "Dryness of the lids"
     ], 
     "Respiratory": [
-      "Constriction of chest; spasmodic asthmas, suffocative attacks wakes from sleep; must eat something", 
+      "Inability to control the vocal chords; hoarseness on beginning to sing and for breaking voice", 
       "Pain in middle of chest, with cough, scraping and soreness", 
-      "Chronic hoarseness with skin affections", 
-      "Inability to control the vocal chords; hoarseness on beginning to sing and for breaking voice"
+      "Constriction of chest; spasmodic asthmas, suffocative attacks wakes from sleep; must eat something", 
+      "Chronic hoarseness with skin affections"
     ], 
     "Stomach": [
-      "Aversion to meat", 
-      "Sweets nauseate", 
       "HOT DRINKS DISAGREE", 
-      "Nausea and vomiting after each meal", 
-      "Morning sickness during menstruation", 
+      "Sweets nauseate", 
       "Pressure in stomach", 
-      "Burning in stomach, causing HUNGER", 
-      "Eructation difficult", 
       "CONSTRICTIVE PAIN IN STOMACH", 
-      "Recurrent gastralgia", 
+      "Morning sickness during menstruation", 
       "Flatulence", 
-      "Stomach pain is temporarily relieved by eating, hot drinks especially milk and lying down"
+      "Stomach pain is temporarily relieved by eating, hot drinks especially milk and lying down", 
+      "Aversion to meat", 
+      "Nausea and vomiting after each meal", 
+      "Burning in stomach, causing HUNGER", 
+      "Recurrent gastralgia", 
+      "Eructation difficult"
     ], 
     "Female": [
-      "Menses TOO LATE, with constipation; pale and scanty, with tearing pain in epigastrium, and itching BEFORE", 
-      "Hoarseness, coryza, cough, sweats and morning sickness during menstruation", 
-      "Leucorrhoea, PALE, thin, PROFUSE, WHITE, EXCORIATING, with great weakness in back", 
-      "Mammae swollen and hard", 
-      "Induration of ovaries and uterus and mammae", 
+      "Decided aversion to coitus", 
       "Nipples sore, cracked, and blistered", 
-      "Decided aversion to coitus"
+      "Menses TOO LATE, with constipation; pale and scanty, with tearing pain in epigastrium, and itching BEFORE", 
+      "Leucorrhoea, PALE, thin, PROFUSE, WHITE, EXCORIATING, with great weakness in back", 
+      "Hoarseness, coryza, cough, sweats and morning sickness during menstruation", 
+      "Mammae swollen and hard", 
+      "Induration of ovaries and uterus and mammae"
     ], 
     "Modalities": [
+      "Better: in the dark", 
+      "Better: from wrapping up", 
       "Worse: warmth", 
       "Worse: at night", 
-      "Worse: during and after menstruation", 
-      "Better: in the dark", 
-      "Better: from wrapping up"
+      "Worse: during and after menstruation"
     ], 
     "Mind": [
-      "Great tendency to start Timid Unable to decide", 
-      "Want of disposition to work", 
       "Fidgety while sitting at work", 
+      "Want of disposition to work", 
+      "Apprehensive, despondency, indecision", 
       "MUSIC MAKES HER WEEP", 
-      "Apprehensive, despondency, indecision"
+      "Great tendency to start Timid Unable to decide"
     ], 
     "Stool": [
-      "Constipation; large, difficult, knotty stools united by mucus threads", 
-      "Burning hemorrhoids", 
-      "Prolapse, diarrhoea; stools of brown fluid, mixed with undigested substance, VERY FETID, sour odor", 
       "Smarting, sore anus, itching", 
-      "Lump stool, conjoined with threads of mucus", 
-      "Varices of the rectum", 
+      "Burning hemorrhoids", 
       "Fissure of anus", 
-      "Urine Section", 
+      "Sour smelling", 
+      "Varices of the rectum", 
+      "Prolapse, diarrhoea; stools of brown fluid, mixed with undigested substance, VERY FETID, sour odor", 
+      "Lump stool, conjoined with threads of mucus", 
       "Turbid, with sediment", 
-      "Sour smelling"
+      "Urine Section", 
+      "Constipation; large, difficult, knotty stools united by mucus threads"
     ], 
     "Abdomen": [
       "Nauseous feeling in abdomen", 
-      "Fullness and hardness in abdomen, as from incarcerated flatulence; MUST LOOSEN CLOTHING; presses painfully at abdominal ring", 
-      "Croaking in abdomen", 
-      "Inguinal region sensitive, swollen", 
-      "Pain of gas opposite the side on which he lies", 
       "Chronic diarrhoea, stools, brownish, liquid, undigested, OFFENSIVE", 
-      "Very fetid gas preceded by colic"
+      "Pain of gas opposite the side on which he lies", 
+      "Croaking in abdomen", 
+      "Very fetid gas preceded by colic", 
+      "Fullness and hardness in abdomen, as from incarcerated flatulence; MUST LOOSEN CLOTHING; presses painfully at abdominal ring", 
+      "Inguinal region sensitive, swollen"
     ], 
     "Face": [
-      "Feels as if cobwebs were on it", 
-      "Eczema of nose", 
       "Itching pimples", 
+      "Erysipelas, burning and stinging", 
+      "Eczema of nose", 
       "Moist eczema around mouth and chin", 
-      "Erysipelas, burning and stinging"
+      "Feels as if cobwebs were on it"
     ], 
     "Mouth": [
       "Rotten odor from mouth", 
       "Breath smells like urine", 
-      "Burning blisters on tongue, salivation", 
-      "Sour eructations"
+      "Sour eructations", 
+      "Burning blisters on tongue, salivation"
     ], 
     "Nose": [
-      "Sore on blowing it; is painful internally", 
       "Smell abnormally acute; cannot tolerate flowers", 
+      "Sore on blowing it; is painful internally", 
       "Scabs and fissures in nostrils"
     ], 
     "Head": [
-      "Rush of blood to head with flushed face also with nose bleed and distention and flatulence", 
-      "Headache in morning on waking, mostly on one side, with inclination to vomit", 
-      "Sensation of cobweb on forehead", 
-      "Feels numb and pithy", 
-      "Rheumatic pains on one side of head, extending to teeth and neck", 
-      "BURNING ON VERTEX", 
       "Humid, itching eruption on hairy scalp, emitting a fetid odor", 
-      "Cataleptic condition"
+      "Feels numb and pithy", 
+      "Rush of blood to head with flushed face also with nose bleed and distention and flatulence", 
+      "Rheumatic pains on one side of head, extending to teeth and neck", 
+      "Sensation of cobweb on forehead", 
+      "Cataleptic condition", 
+      "Headache in morning on waking, mostly on one side, with inclination to vomit", 
+      "BURNING ON VERTEX"
     ], 
     "Skin": [
-      "Rough, hard, persistent dryness of portions of skin unaffected by eczema", 
-      "Early stage of keloid and fibroma", 
-      "Pimples and acne", 
-      "ERUPTIONS, OOZING OUT A STICKY EXUDATION", 
-      "Rawness in bends of limbs, groins, neck, behind ears", 
-      "UNHEALTHY SKIN; EVERY LITTLE INJURY SUPPURATES", 
-      "Ulcers discharging a GLUTINOUS fluid, thin and sticky", 
-      "Swelling and induration of glands", 
-      "Gouty nodosities", 
-      "Cracks in nipples, mouth, between toes, anus", 
-      "Phlegmonous erysipelas of face; burning and stinging pain", 
       "Swelling of feet", 
+      "Chronic Poison Oak", 
+      "Rawness in bends of limbs, groins, neck, behind ears", 
+      "Pimples and acne", 
+      "Gouty nodosities", 
+      "Ulcers discharging a GLUTINOUS fluid, thin and sticky", 
+      "UNHEALTHY SKIN; EVERY LITTLE INJURY SUPPURATES", 
+      "Early stage of keloid and fibroma", 
+      "ERUPTIONS, OOZING OUT A STICKY EXUDATION", 
+      "Phlegmonous erysipelas of face; burning and stinging pain", 
+      "Swelling and induration of glands", 
+      "Rough, hard, persistent dryness of portions of skin unaffected by eczema", 
       "WENS", 
-      "Chronic Poison Oak"
+      "Cracks in nipples, mouth, between toes, anus"
     ], 
     "Extremities": [
-      "Pain in nape of neck, shoulders and back and limbs", 
-      "Spinal pains", 
-      "Pain in small of back with great weakness", 
-      "Excoriation between thighs", 
       "Left hand numbs; arms feel asleep; finger-nails THICK, black, and rough", 
       "Matrix inflamed", 
-      "Oedema of lower limbs", 
-      "Toe-nails crippled", 
-      "Stiffness and contraction of toes", 
       "Nails brittle and crumbling", 
+      "Pain in small of back with great weakness", 
+      "Offensive perspiration of feet", 
+      "Oedema of lower limbs", 
       "Nails deformed, painful, sore, thick, and crippled", 
+      "Stiffness and contraction of toes", 
+      "Spinal pains", 
       "Cracks or fissure in ends of fingers", 
-      "Offensive perspiration of feet"
+      "Toe-nails crippled", 
+      "Excoriation between thighs", 
+      "Pain in nape of neck, shoulders and back and limbs"
     ], 
     "Male": [
       "Sexual debility, with increased desire; aversion to coition; too early or no ejaculation; herpetic eruption on organs"
     ], 
     "Ears": [
-      "DRYNESS OF INNER EAR", 
-      "Cracking in ears when eating", 
-      "MOISTURE AND ERUPTIONS BEHIND THE EARS", 
-      "HEARS BETTER IN NOISE", 
-      "Hardness of hearing", 
-      "Hissing in the ears", 
       "Detonation in ear like report of a gun", 
+      "Cracking in ears when eating", 
+      "DRYNESS OF INNER EAR", 
+      "HEARS BETTER IN NOISE", 
       "Thin, white, scaly membrane covering membrana tympani, like exfoliated epithelium", 
+      "MOISTURE AND ERUPTIONS BEHIND THE EARS", 
+      "Hissing in the ears", 
+      "Hardness of hearing", 
       "Fissures in and behind the ear"
     ]
   }, 

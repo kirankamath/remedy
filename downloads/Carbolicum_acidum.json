@@ -1,47 +1,47 @@
 {
   "name": "Carbolicum acidum", 
-  "Relationship": "Compare: Chrysarobin (locally in ringworm of the scale 5-10 per cent. in glycerine and alcohol. Equal parts). Ars.; Kreosote.; Carbo; Guano. (Violent headache as from a band around head. Itching of nostrils, back, thighs, genitals. Symptoms like hay-fever.)Antidote: Alcohol; Vinegar; Chalk; Iod. Glauger's Salt in watery solution.Incompatible: Glycerine and vegetable oils.", 
+  "Relationship": "Antidote: Alcohol; Vinegar; Chalk; Iod. Glauger's Salt in watery solution.Incompatible: Glycerine and vegetable oils.Compare: Chrysarobin (locally in ringworm of the scale 5-10 per cent. in glycerine and alcohol. Equal parts). Ars.; Kreosote.; Carbo; Guano. (Violent headache as from a band around head. Itching of nostrils, back, thighs, genitals. Symptoms like hay-fever.)", 
   "symptoms": {
     "Head": [
-      "Disinclined to mental work", 
-      "Tight feeling, as if compressed by a rubber band", 
       "Orbital neuralgia over right eye", 
-      "Headache, better, by green tea; while smoking"
+      "Disinclined to mental work", 
+      "Headache, better, by green tea; while smoking", 
+      "Tight feeling, as if compressed by a rubber band"
     ], 
     "Stomach": [
-      "Appetite lost", 
-      "DESIRE FOR STIMULANTS AND TOBACCO", 
-      "Constant belching, nausea, VOMITING, dark olive green", 
-      "Heat rises up oesophagus", 
       "Flatulent distention of stomach and abdomen", 
-      "Painful flatulence often marked in one part of the bowel", 
-      "FERMENTATIVE DYSPEPSIA with bad taste and breath"
+      "Heat rises up oesophagus", 
+      "Constant belching, nausea, VOMITING, dark olive green", 
+      "DESIRE FOR STIMULANTS AND TOBACCO", 
+      "Appetite lost", 
+      "FERMENTATIVE DYSPEPSIA with bad taste and breath", 
+      "Painful flatulence often marked in one part of the bowel"
     ], 
     "Stool": [
       "Constipation, with VERY OFFENSIVE BREATH", 
-      "Bloody, like scrappings of intestines", 
       "Great tenesmus", 
-      "Diarrhoea; stools thin, black, putrid", 
       "Almost black", 
-      "Diabetes", 
       "Irritable bladder in old men with frequent urination at night, or probably prostatic nature", 
-      "Use 1x)"
+      "Diarrhoea; stools thin, black, putrid", 
+      "Bloody, like scrappings of intestines", 
+      "Use 1x)", 
+      "Diabetes"
     ], 
     "Nose": [
-      "SMELL VERY ACUTE", 
+      "Influenza and resulting debility", 
       "Putrid discharge", 
       "Ozaena, with fetor and ulceration", 
-      "Influenza and resulting debility"
+      "SMELL VERY ACUTE"
     ], 
     "Female": [
-      "Discharges always offensive", 
-      "Pustules about vulva containing bloody pus", 
-      "Agonizing backache across loins, with dragging-down thighs", 
-      "Pain in left ovary; worse walking in open air", 
-      "Erosions of cervix; fetid, acrid discharge", 
       "Leucorrhoea in children", 
       "Puerperal fever, with offensive discharge", 
-      "Irritating leucorrhoea, causing itching and burning"
+      "Agonizing backache across loins, with dragging-down thighs", 
+      "Erosions of cervix; fetid, acrid discharge", 
+      "Discharges always offensive", 
+      "Irritating leucorrhoea, causing itching and burning", 
+      "Pain in left ovary; worse walking in open air", 
+      "Pustules about vulva containing bloody pus"
     ], 
     "Skin": [
       "Itching vesicles, with burning pain", 
@@ -49,18 +49,18 @@
     ], 
     "Throat": [
       "Ulcerated patches on inside of lips and cheeks", 
-      "BURNING IN MOUTH TO stomach", 
       "Fauces red, and covered with exudation", 
-      "Uvula whitened and shriveled", 
-      "PUTRID DISCHARGE", 
+      "BURNING IN MOUTH TO stomach", 
+      "Rapid sinking of vital forces", 
       "Almost impossible to swallow", 
-      "DIPHTHERIA, FETID BREATH, REGURGITATION on swallowing liquids, but little pain", 
       "Face dusky red; white about mouth and nose", 
-      "Rapid sinking of vital forces"
+      "DIPHTHERIA, FETID BREATH, REGURGITATION on swallowing liquids, but little pain", 
+      "PUTRID DISCHARGE", 
+      "Uvula whitened and shriveled"
     ], 
     "Extremities": [
-      "Cramps in fore part of leg, close to tibia DURING WALKING", 
       "Gnawing pains in shin bones", 
+      "Cramps in fore part of leg, close to tibia DURING WALKING", 
       "Arthritis"
     ]
   }, 

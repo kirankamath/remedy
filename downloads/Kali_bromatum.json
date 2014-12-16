@@ -5,10 +5,10 @@
   "details": "Like all Potash Salts, this weakens the heart and lowers temperature. Brominism is caused by it. General failure of mental power, loss of memory, melancholia, anaesthesia of the mucous membranes, especially of eyes, throat, and skin; acne; loss of sexual desire, paralysis. Leading remedy in psoriasis. Nodular form of chronic gout. SYMPTOMS OF APOPLECTIC ATTACKS, uraemic or otherwise; somnolence and stertor, convulsions, aphasia, albuminuria. Epilepsy (with salt-free diet).", 
   "symptoms": {
     "Head": [
+      "Brain-fag", 
+      "NUMB FEELING IN HEAD", 
       "Suicidal mania with tremulousness", 
       "Face flushed", 
-      "NUMB FEELING IN HEAD", 
-      "Brain-fag", 
       "Coryza with tendency to extension into throat"
     ], 
     "Respiratory": [
@@ -17,61 +17,62 @@
       "Dry, fatiguing, hacking cough at night"
     ], 
     "Stomach": [
-      "Vomiting, with INTENSE THIRST, after each meal", 
-      "PERSISTENT HICCOUGH"
+      "PERSISTENT HICCOUGH", 
+      "Vomiting, with INTENSE THIRST, after each meal"
     ], 
     "Modalities": [
       "Better: when occupied mentally or physically"
     ], 
     "Mind": [
-      "Profound, melancholic delusion; feeling of moral deficiency; religious depression; delusions of conspiracies against him", 
-      "Imagines he is singled out as an object of divine wrath", 
       "Loss of memory", 
-      "Must do something - move about; gets fidgety", 
-      "Fear of being poisoned", 
       "Amnesic aphasia; can pronounce any word told, but cannot speak otherwise", 
-      "NIGHT TERRORS", 
+      "Must do something - move about; gets fidgety", 
+      "Active delirium", 
+      "Imagines he is singled out as an object of divine wrath", 
+      "Profound, melancholic delusion; feeling of moral deficiency; religious depression; delusions of conspiracies against him", 
       "Horrid illusions", 
-      "Active delirium"
+      "NIGHT TERRORS", 
+      "Fear of being poisoned"
     ], 
     "Abdomen": [
-      "Sensation as if bowels were falling out", 
-      "CHOLERA INFANTUM, with reflex cerebral irritation, jerking and twitching of muscles", 
       "Green, watery stools with intense thirst, vomiting, eyes sunken", 
-      "Prostration", 
-      "INTERNAL COLDNESS of abdomen", 
-      "Diarrhoea, with much blood", 
-      "Green, watery stools", 
+      "Sensation as if bowels were falling out", 
       "RETRACTION of abdomen", 
-      "Urinary Organs", 
-      "Sensibility of urethra diminished", 
+      "Green, watery stools", 
+      "INTERNAL COLDNESS of abdomen", 
       "Urine profuse, with thirst", 
-      "Diabetes"
+      "Diarrhoea, with much blood", 
+      "CHOLERA INFANTUM, with reflex cerebral irritation, jerking and twitching of muscles", 
+      "Prostration", 
+      "Diabetes", 
+      "Urinary Organs", 
+      "Sensibility of urethra diminished"
+    ], 
+    "Sleep": [
+      "Horrible dreams", 
+      "Somnambulism", 
+      "Sleeplessness due to worry and grief and sexual excess", 
+      "Night terrors", 
+      "Extreme drowsiness", 
+      "Restless sleep", 
+      "Grinding teeth in sleep"
     ], 
     "Female": [
       "Pruritus", 
-      "Ovarian neuralgia with great nervous uneasiness", 
       "EXAGGERATED SEXUAL desires", 
-      "Cystic tumors of ovaries"
+      "Cystic tumors of ovaries", 
+      "Ovarian neuralgia with great nervous uneasiness"
     ], 
     "Skin": [
       "ACNE of face, pustules", 
       "Itching; worse on chest, shoulders, and face", 
-      "Anaesthesia of skin", 
       "PSORIASIS", 
-      "Sleep", 
-      "Restless sleep", 
-      "Extreme drowsiness", 
-      "Sleeplessness due to worry and grief and sexual excess", 
-      "Night terrors", 
-      "Grinding teeth in sleep", 
-      "Horrible dreams", 
-      "Somnambulism"
+      "Anaesthesia of skin"
     ], 
     "Throat": [
       "Congestion of uvula and fauces", 
-      "ANAESTHESIA of fauces, pharynx, and larynx", 
-      "Dysphagia, especially of liquids"
+      "Dysphagia, especially of liquids", 
+      "ANAESTHESIA of fauces, pharynx, and larynx"
     ], 
     "Extremities": [
       "FIDGETY HANDS; busy twitching of fingers", 

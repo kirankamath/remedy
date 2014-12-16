@@ -3,59 +3,58 @@
   "Relationship": "Compare: Card. benedictus (strong action on eyes, and sensation of contraction in many parts; stomach symptoms similar); Chelidonium; Chionanthus; Merc.; Podophyl.; Bry.; Aloe.", 
   "symptoms": {
     "Head": [
-      "Contractive feeling above eyebrows", 
-      "Dull heavy, stupid, with foul tongue", 
-      "Vertigo, with tendency to fall forward", 
       "Burning and pressure in eyes", 
-      "Nose-bleed"
+      "Contractive feeling above eyebrows", 
+      "Nose-bleed", 
+      "Dull heavy, stupid, with foul tongue", 
+      "Vertigo, with tendency to fall forward"
     ], 
     "Stomach": [
-      "Taste bitter", 
-      "Aversion to salt meat", 
       "Appetite small; tongue furred; NAUSEA; RETCHING; VOMITING OF GREEN, ACID FLUID", 
       "Stitches in left side of stomach, near spleen", 
+      "Taste bitter", 
+      "Aversion to salt meat", 
       "Gallstone disease with enlarged liver"
     ], 
     "Rectum": [
-      "Hemorrhagic piles, prolapse or rectum, burning pain in anus and rectum, hard and knotting, clayish stools", 
-      "Profuse diarrhoea due to rectal cancer", 
       "10 drop doses", 
+      "Hemorrhagic piles, prolapse or rectum, burning pain in anus and rectum, hard and knotting, clayish stools", 
       "Urine Section", 
-      "Cloudy; golden-colored"
+      "Cloudy; golden-colored", 
+      "Profuse diarrhoea due to rectal cancer"
     ], 
     "Mind": [
       "Despondency; forgetful, apathetic"
     ], 
     "Abdomen": [
-      "Pain in region of liver", 
-      "Left lobe very sensitive", 
       "Fullness and soreness, with moist skin", 
-      "Constipation; stools hard, difficult, knotty; alternates with diarrhoea", 
-      "Stools bright yellow", 
+      "Pain in region of liver", 
       "Swelling of gall bladder with painful tenderness", 
       "Hyperaemia of liver, with jaundice", 
-      "Cirrhosis, with dropsy"
+      "Cirrhosis, with dropsy", 
+      "Stools bright yellow", 
+      "Constipation; stools hard, difficult, knotty; alternates with diarrhoea", 
+      "Left lobe very sensitive"
     ], 
     "Chest": [
-      "Stitching pains in lower right ribs and front; worse, moving, walking, etc", 
-      "ASTHMATIC RESPIRATION", 
+      "Stitching pains in lower right ribs and front; worse, moving, walking, etc. ASTHMATIC RESPIRATION", 
       "Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate"
     ], 
     "Skin": [
+      "Eruption on lower part of sternum", 
       "Itching on lying down at night", 
-      "VARICOSE ULCERS", 
-      "Eruption on lower part of sternum"
+      "VARICOSE ULCERS"
     ], 
     "Extremities": [
-      "Pain in hip-joint, spreading through buttocks and down thigh; WORSE FROM STOOPING", 
       "Difficult rising", 
+      "Pain in hip-joint, spreading through buttocks and down thigh; WORSE FROM STOOPING", 
       "Weakness felt in feet, especially after sitting"
     ]
   }, 
   "details": "The action of this drug is centered in the liver, and portal system, causing soreness, pain, jaundice. Has specific relation to the vascular system. Abuse of alcoholic beverages, especially beer. VARICOSE VEINS and ulcers. Diseases of miners, associated with asthma. Dropsical conditions depending on liver disease, and when due to pelvic congestion and hepatic disease. Disturbs sugar metabolism. Influenza when liver is affected. Debility. Hemorrhages, especially connected with hepatic disease.", 
   "Natural History": [
-    "St", 
-    "Mary's Thistle"
+    "Mary's Thistle", 
+    "St"
   ], 
   "dosage": "Tincture and lower potencies."
 }

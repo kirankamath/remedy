@@ -3,67 +3,67 @@
   "Relationship": "Compare: DIGIT.; CRATAEG.; LILIUM; ADONIS (feeble heart action due only to functional disturbance).", 
   "symptoms": {
     "Heart": [
-      "Feeling as if heart beat throughout the chest", 
-      "Endocarditis, with extreme orthopnoea", 
-      "SENSATION AS IF HEART CEASED BEATING, THEN STARTING VERY SUDDENLY", 
-      "Palpitation from the least exertion", 
-      "Tobacco heart, especially when due to cigarettes", 
-      "Angina pectoris", 
-      "Extremely rapid and irregular pulse", 
-      "Back and Extremities", 
-      "Pain and aching in lumbar region; aching of legs; in big toe", 
       "Trembling of hands", 
+      "Angina pectoris", 
+      "SENSATION AS IF HEART CEASED BEATING, THEN STARTING VERY SUDDENLY", 
+      "Pain and aching in lumbar region; aching of legs; in big toe", 
+      "Tobacco heart, especially when due to cigarettes", 
+      "Back and Extremities", 
+      "Endocarditis, with extreme orthopnoea", 
+      "Feeling as if heart beat throughout the chest", 
+      "Palpitation from the least exertion", 
+      "Extremely rapid and irregular pulse", 
       "Aching in wrists and ankles"
     ], 
     "Fever": [
       "Chilly in back and down spine, followed by fever, little sweat", 
-      "Thirst and headache during chill", 
-      "Dyspnoea during fever"
+      "Dyspnoea during fever", 
+      "Thirst and headache during chill"
     ], 
     "Modalities": [
-      "Better: in open air", 
-      "Worse: in warm room"
+      "Worse: in warm room", 
+      "Better: in open air"
     ], 
     "Mind": [
-      "Dull intellect", 
-      "Grieves easily", 
-      "Dull headache; worse, ascending, hawking", 
-      "Scalp sensitive", 
       "Irritability", 
+      "Dull intellect", 
+      "Scalp sensitive", 
+      "Dull headache; worse, ascending, hawking", 
+      "Grieves easily", 
       "Hysterical manifestations"
     ], 
     "Abdomen": [
-      "Sensitive", 
-      "Clothes feel too tight", 
+      "Frequent urination; offensive; scanty urine", 
       "Gurgling and pain on taking deep breath", 
-      "Movement in abdomen like fist of a child", 
-      "Colicky pains", 
-      "Urinary Organs", 
       "Aching in bladder; feels distended", 
-      "Frequent urination; offensive; scanty urine"
+      "Clothes feel too tight", 
+      "Sensitive", 
+      "Colicky pains", 
+      "Movement in abdomen like fist of a child", 
+      "Urinary Organs"
     ], 
     "Face": [
-      "Hydroa in nose and lips; raw and sore", 
+      "Sees imaginary gray spot about three inches square", 
       "Epistaxis", 
-      "Sees imaginary gray spot about three inches square"
+      "Hydroa in nose and lips; raw and sore"
     ], 
     "Throat": [
       "Raw feeling in back of throat when inspiring"
     ], 
     "Respiratory": [
       "Pulmonary congestion", 
+      "Hot feeling in throat", 
       "Orthopnoea", 
-      "DYSPNOEA while walking", 
-      "Hot feeling in throat"
+      "DYSPNOEA while walking"
     ], 
     "Mouth": [
-      "Grating of teeth in the morning", 
       "Coppery taste", 
-      "Tongue feels sore and scalded; broad and thick with heavy, dirty coating"
+      "Tongue feels sore and scalded; broad and thick with heavy, dirty coating", 
+      "Grating of teeth in the morning"
     ], 
     "Female": [
-      "Great SORENESS IN UTERINE REGION, WITH SYMPATHETIC PALPITATION OF HEART", 
       "Pain in sacroiliac joints, running down leg", 
+      "Great SORENESS IN UTERINE REGION, WITH SYMPATHETIC PALPITATION OF HEART", 
       "Itching of urinary meatus and vaginal orifice"
     ]
   }, 

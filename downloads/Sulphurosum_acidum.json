@@ -5,27 +5,27 @@
   "details": "SULPHUROUS ACID, (tonsillitis (as a spray), acne rosacea, ULCERATIVE STOMATITIS, pityriasis versicolor).", 
   "symptoms": {
     "Head": [
+      "Ringing in ears", 
       "Anxious, furious, disposed to fight", 
-      "Headache better by vomiting", 
-      "Ringing in ears"
+      "Headache better by vomiting"
     ], 
     "Respiratory": [
-      "Persistent choking cough with copious expectoration", 
       "Hoarseness, constriction of chest", 
-      "Difficult breathing"
+      "Difficult breathing", 
+      "Persistent choking cough with copious expectoration"
     ], 
     "Stomach": [
       "Loss of appetite", 
       "Obstinate constipation"
     ], 
     "Mouth": [
-      "Ulcerative inflammation of mouth", 
       "Tongue red or bluish-red", 
-      "Coated"
+      "Coated", 
+      "Ulcerative inflammation of mouth"
     ], 
     "Female": [
-      "Fluor albus", 
-      "Debility"
+      "Debility", 
+      "Fluor albus"
     ]
   }, 
   "name": "Sulphurosum acidum", 

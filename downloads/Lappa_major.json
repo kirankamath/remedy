@@ -5,14 +5,14 @@
   "details": "Very important in skin therapeutics. Eruptions on the head, face, and neck; pimples; acne. Styes and ulcerations on the edge of the eyelids. Profuse and frequent urination. Crops of boils and styes. (ANTHRACIN.)", 
   "symptoms": {
     "Extremities": [
-      "Pain in hands, knees, and ankles extending downward to fingers and toes", 
       "Pain in all joints", 
+      "Pain in hands, knees, and ankles extending downward to fingers and toes", 
       "Eruption on extremities"
     ], 
     "Female": [
+      "These symptoms all aggravated by standing, walking, a misstep, or sudden jar", 
       "Uterine displacements", 
-      "An exceedingly sore, bruised feeling in uterus, with great relaxation of the vaginal tissues; apparently entire lack of tonicity of pelvic contents", 
-      "These symptoms all aggravated by standing, walking, a misstep, or sudden jar"
+      "An exceedingly sore, bruised feeling in uterus, with great relaxation of the vaginal tissues; apparently entire lack of tonicity of pelvic contents"
     ]
   }, 
   "name": "Lappa major", 

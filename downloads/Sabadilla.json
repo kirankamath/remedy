@@ -1,31 +1,31 @@
 {
   "name": "Sabadilla", 
-  "Relationship": "Complementary: SEPIA. Compare: VERATRINE (is alkaloid of Sabadilla, NOT of Veratrum, locally in neuralgias, and for removal of dropsy. Five grains to two drams. Lanolin, rubbed on inside of thighs, causes diuresis). COLCH.; NUX; ARUNDO AND POLLANTIN. PHLEUM PRATENSE - Timothy - Hay-fever - Potentized - 12 - specific to many cases and evidently acts in a desensitizing manner. (Rabe.) CUMARINUM (hay-fever).Antidotes: PULS.; LYCOP.; CONIUM; LACH.", 
+  "Relationship": "Antidotes: PULS.; LYCOP.; CONIUM; LACH.Complementary: SEPIA. Compare: VERATRINE (is alkaloid of Sabadilla, NOT of Veratrum, locally in neuralgias, and for removal of dropsy. Five grains to two drams. Lanolin, rubbed on inside of thighs, causes diuresis). COLCH.; NUX; ARUNDO AND POLLANTIN. PHLEUM PRATENSE - Timothy - Hay-fever - Potentized - 12 - specific to many cases and evidently acts in a desensitizing manner. (Rabe.) CUMARINUM (hay-fever).", 
   "symptoms": {
     "Head": [
-      "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting", 
-      "Dullness and oppression", 
+      "LACHRYMATION", 
       "Over-sensitiveness to odors", 
       "THINKING produces headaches and sleeplessness", 
+      "Dullness and oppression", 
+      "Difficult hearing", 
       "EYELIDS RED, BURNING", 
-      "LACHRYMATION", 
-      "Difficult hearing"
+      "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting"
     ], 
     "Fever": [
-      "CHILL PREDOMINATES; from below upwards", 
+      "Thirstless", 
       "Heat in head and face; hands and feet icy cold, with chill", 
       "Lachrymation during paroxysm", 
-      "Thirstless"
+      "CHILL PREDOMINATES; from below upwards"
     ], 
     "Stomach": [
-      "Spasmodic pain in stomach with dry cough and difficult breathing", 
-      "NO THIRST", 
-      "Loathing for strong food", 
-      "Canine appetite for sweets and rainaceous food", 
       "Pyrosis; copious salivation", 
-      "Cold, empty feeling in stomach", 
+      "Canine appetite for sweets and rainaceous food", 
+      "SWEETISH taste", 
+      "NO THIRST", 
       "DESIRE FOR HOT THINGS", 
-      "SWEETISH taste"
+      "Spasmodic pain in stomach with dry cough and difficult breathing", 
+      "Loathing for strong food", 
+      "Cold, empty feeling in stomach"
     ], 
     "Modalities": [
       "Worse: cold and cold drinks", 
@@ -34,9 +34,9 @@
       "Better: wrapped up"
     ], 
     "Mind": [
-      "Nervous, timid, easily startled", 
       "Has erroneous notions about himself", 
-      "Imagines that he is very sick; that parts are shrunken; that she is pregnant; that she has cancer; delirium during intermittents"
+      "Imagines that he is very sick; that parts are shrunken; that she is pregnant; that she has cancer; delirium during intermittents", 
+      "Nervous, timid, easily startled"
     ], 
     "Nose": [
       "SPASMODIC SNEEZING, WITH RUNNING NOSE", 
@@ -44,25 +44,25 @@
       "Copious, watery, nasal discharge"
     ], 
     "Female": [
-      "Menses too late; come by fits and starts", 
-      "INTERMIT"
+      "INTERMIT", 
+      "Menses too late; come by fits and starts"
     ], 
     "Skin": [
       "Dry, like parchment", 
       "Horny, deformed, THICKENED NAILS", 
-      "Hot, burning, creeping, crawling sensation", 
-      "Itching in anus"
+      "Itching in anus", 
+      "Hot, burning, creeping, crawling sensation"
     ], 
     "Throat": [
+      "Dry fauces and throat", 
+      "WARM FOOD AND DRINK RELIEVE", 
       "Sore; BEGINS ON LEFT SIDE", 
       "Much tough phlegm", 
-      "Sensation of a skin hanging loosely; must swallow it", 
-      "WARM FOOD AND DRINK RELIEVE", 
-      "Empty swallowing most painful", 
-      "Dry fauces and throat", 
+      "Tongue as if burnt", 
       "Sensation of a lump in throat with CONSTANT necessity to swallow", 
-      "Chronic sore throat; worse, from cold air", 
-      "Tongue as if burnt"
+      "Empty swallowing most painful", 
+      "Sensation of a skin hanging loosely; must swallow it", 
+      "Chronic sore throat; worse, from cold air"
     ], 
     "Extremities": [
       "Cracking of skin under and beneath toes; inflammation under toe-nails"

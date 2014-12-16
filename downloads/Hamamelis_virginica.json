@@ -1,90 +1,90 @@
 {
   "name": "Hamamelis virginica", 
-  "Relationship": "Compare in hemorrhoids: CALC. FLUOR.; ALOE; MUR-AC. in varicose veins. MANGIFERA INDICA.Compare: ARNICA, CALEN.; TRILLIUM; BELLIS; SULPH-AC.; PULSATILLA.Antidote: ARNICA.Complementary: FERRUM.", 
+  "Relationship": "Compare in hemorrhoids: CALC. FLUOR.; ALOE; MUR-AC. in varicose veins. MANGIFERA INDICA.Complementary: FERRUM.Compare: ARNICA, CALEN.; TRILLIUM; BELLIS; SULPH-AC.; PULSATILLA.Antidote: ARNICA.", 
   "symptoms": {
     "Eyes": [
       "Painful weakness; SORE PAIN in eyes; bloodshot appearance; inflamed vessels greatly injected", 
-      "Hastens absorption of intraocular hemorrhage", 
-      "Eyes feel forced out"
+      "Eyes feel forced out", 
+      "Hastens absorption of intraocular hemorrhage"
     ], 
     "Respiratory": [
-      "Hemoptysis; tickling cough", 
-      "Chest feels sore and constricted"
+      "Chest feels sore and constricted", 
+      "Hemoptysis; tickling cough"
     ], 
     "Stomach": [
-      "Tongue feels burnt", 
-      "Thirst", 
-      "Blisters on side", 
       "Hematemesis of black blood", 
-      "Throbbing and pain in stomach"
+      "Blisters on side", 
+      "Throbbing and pain in stomach", 
+      "Tongue feels burnt", 
+      "Thirst"
     ], 
     "Female": [
-      "Ovarian congestion and neuralgia; feel very sore", 
-      "Vicarious menstruation", 
-      "Uterine hemorrhage, bearing-down pain in back", 
-      "Menses DARK, PROFUSE, WITH SORENESS IN ABDOMEN", 
       "METRORRHAGIA, OCCURRING MIDWAY BETWEEN MENSTRUAL PERIODS", 
-      "Intermenstrual pain", 
-      "Vagina very tender", 
+      "Menses DARK, PROFUSE, WITH SORENESS IN ABDOMEN", 
+      "Uterine hemorrhage, bearing-down pain in back", 
+      "Milk-leg, hemorrhoids, and sore nipples, after confinement", 
+      "Ovarian congestion and neuralgia; feel very sore", 
+      "Vaginismus, ovaritis, soreness over whole abdomen", 
       "Profuse leucorrhoea", 
       "Vulva itches", 
-      "Milk-leg, hemorrhoids, and sore nipples, after confinement", 
+      "Vicarious menstruation", 
+      "Vagina very tender", 
       "Metrorrhagia; passive flow", 
-      "Vaginismus, ovaritis, soreness over whole abdomen", 
-      "Phlegmasia alba"
+      "Phlegmasia alba", 
+      "Intermenstrual pain"
     ], 
     "Modalities": [
       "Worse: warm", 
       "Worse: moist air"
     ], 
     "Stool": [
+      "Hematuria, with increased desire", 
+      "Pulsation in rectum", 
+      "Dysentery", 
       "Anus feels sore and raw", 
       "HEMORRHOIDS, BLEEDING PROFUSELY, WITH SORENESS", 
-      "Dysentery", 
-      "Pulsation in rectum", 
-      "Urine Section", 
-      "Hematuria, with increased desire"
+      "Urine Section"
     ], 
     "Back": [
       "Sore pain down cervical vertebrae", 
       "Severe pain in lumbar and hypogastric region, extending down legs"
     ], 
     "Nose": [
-      "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose", 
-      "Bad odor from nose"
+      "Bad odor from nose", 
+      "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose"
     ], 
     "Head": [
-      "Wants \"the respect due to me\" shown", 
       "Feeling as of a bolt from temple to temple", 
       "Fullness, followed by epistaxis", 
-      "Numbness over frontal bone"
+      "Numbness over frontal bone", 
+      "Wants the respect due to me shown"
     ], 
     "Skin": [
-      "Bluish chilblains", 
-      "Phlebitis", 
-      "Purpura", 
-      "Varicose veins and ulcers; very sore", 
-      "Burns", 
       "Ecchymosis", 
-      "Traumatic inflammations"
+      "Varicose veins and ulcers; very sore", 
+      "Phlebitis", 
+      "Bluish chilblains", 
+      "Traumatic inflammations", 
+      "Purpura", 
+      "Burns"
     ], 
     "Throat": [
       "Mucous membrane distended and bluish; varicosis of throat"
     ], 
     "Extremities": [
-      "Tired feeling in arms and legs", 
       "Very sore muscles and joints", 
-      "Varicose veins", 
+      "Neuralgia of internal saphenous nerve", 
+      "Tired feeling in arms and legs", 
       "Chilliness in back and hips, extending down legs", 
-      "Neuralgia of internal saphenous nerve"
+      "Varicose veins"
     ], 
     "Male": [
       "Pain in spermatic cord, running into testes", 
       "Varicocele", 
-      "Pain in testicles", 
-      "Orchitis", 
       "Testicles enlarged, hot, and painful", 
-      "Epididymitis"
+      "Pain in testicles", 
+      "Epididymitis", 
+      "Orchitis"
     ]
   }, 
   "details": "Venous congestion, hemorrhages, varicose veins, and hemorrhoids, with BRUISED SORENESS OF AFFECTED PARTS, seem to be the special sphere of this remedy. Acts upon the coats of the veins causing relaxation with consequent engorgement. Passive venous hemorrhages from any part. Great value in open, painful wounds, with weakness from loss of blood. After operations, super cedes the use of morphia (Helmuth).", 
