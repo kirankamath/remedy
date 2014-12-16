@@ -15,24 +15,33 @@
       "Shivering even in a warm room", 
       "Chill daily at three PM Painful swelling of various veins during a chill"
     ], 
-    "Face": [
-      "Neuralgia commences under eye; extends into and around it", 
-      "Albuminuria", 
-      "Pain extends to head and neck", 
-      "Spine", 
-      "Excessive flow", 
-      "GREAT SENSITIVENESS OF THE DORSAL VERTEBRAE; pain on pressure", 
-      "Bloody", 
+    "Spine": [
       "Last cervical sensitive", 
+      "GREAT SENSITIVENESS OF THE DORSAL VERTEBRAE; pain on pressure", 
+      "Pain extends to head and neck"
+    ], 
+    "Urine": [
+      "Excessive flow", 
+      "Albuminuria", 
       "Small amount of urea and phosphoric acid with excess or uric acid and abundance of chlorides, accompanied by subnormal temperature", 
       "Turbid, slimy, clay-colored, greasy sediment", 
-      "Pains return with great regularity; RELIEVED BY PRESSURE", 
-      "Urine Section"
+      "Bloody"
     ], 
     "Skin": [
       "Itching; erythema, urticaria, icterus, vesication, pustules, purpura", 
       "Great sensitiveness", 
       "Shriveled skin"
+    ], 
+    "Face": [
+      "Neuralgia commences under eye; extends into and around it", 
+      "Pains return with great regularity; RELIEVED BY PRESSURE"
+    ], 
+    "Urine Section": [
+      "Excessive flow", 
+      "Albuminuria", 
+      "Small amount of urea and phosphoric acid with excess or uric acid and abundance of chlorides, accompanied by subnormal temperature", 
+      "Turbid, slimy, clay-colored, greasy sediment", 
+      "Bloody"
     ], 
     "Ears": [
       "Violent ringing, buzzing, and ROARING IN EARS, WITH DEAFNESS"

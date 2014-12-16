@@ -37,6 +37,12 @@
       "CONSTRICTION, pulsation, or heaviness in stomach", 
       "Vomiting of blood"
     ], 
+    "Urine": [
+      "Constriction of neck of bladder, causing retention of urine", 
+      "Hemorrhage from bladder", 
+      "Constant urination", 
+      "Clots of blood in urethra"
+    ], 
     "Modalities": [
       "Better: open air", 
       "Worse: about noon", 
@@ -51,16 +57,11 @@
       "Fear of death"
     ], 
     "Stool": [
-      "Constriction of neck of bladder, causing retention of urine", 
-      "Hemorrhoids swollen and painful", 
-      "Clots of blood in urethra", 
-      "Sensation of great weight in anus", 
-      "Hemorrhage from bladder", 
+      "Diarrhoea in morning", 
       "Hard, black stools", 
       "Hemorrhages from bowels in malarial fevers and with heart symptoms", 
-      "Diarrhoea in morning", 
-      "Urine Section", 
-      "Constant urination"
+      "Hemorrhoids swollen and painful", 
+      "Sensation of great weight in anus"
     ], 
     "Chest": [
       "Angina pectoris", 

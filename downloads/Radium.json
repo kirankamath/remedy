@@ -32,6 +32,12 @@
       "Better: lying down", 
       "Better: pressure"
     ], 
+    "Urine": [
+      "Enuresis", 
+      "Nephritis with rheumatic symptoms", 
+      "Increased elimination of solids, particularly of chlorides", 
+      "Renal irritation, albuminuria, granular and hyaline casts"
+    ], 
     "Mind": [
       "Apprehensive, depressed; fear of being alone in the dark; great desire to be with people", 
       "Tired and irritable"
@@ -43,15 +49,10 @@
       "Pain and lameness in cervical vertebrae, worse dropping head forward, better standing, or sitting erect"
     ], 
     "Abdomen": [
-      "Nephritis with rheumatic symptoms", 
       "Pruritus ani and piles", 
-      "Enuresis", 
       "Alternating constipation and loose movements", 
       "Much flatulence", 
-      "Urinary Organs", 
-      "Pain, violent cramps, rumbling, full of gas; pain over McBurney's point, and at location of sigmoid flexure", 
-      "Increased elimination of solids, particularly of chlorides", 
-      "Renal irritation, albuminuria, granular and hyaline casts"
+      "Pain, violent cramps, rumbling, full of gas; pain over McBurney's point, and at location of sigmoid flexure"
     ], 
     "Fever": [
       "Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence", 
