@@ -119,6 +119,7 @@ def process_one_remedy(file_name):
         symptom_list[symptom_name] = symptoms
     remedy = {"name": name}
 
+    # Some items move from symptoms to remedy main section.
     main_items = ["dosage", "details", "Relationship", "Natural History"]
     for item in main_items:
         item_value = symptom_list.get(item)
@@ -126,10 +127,23 @@ def process_one_remedy(file_name):
             remedy[item] = item_value
             del symptom_list[item]
 
-    relation = symptom_list.get("Relationship")
-    if relation:
-        remedy["relationship"] = relation
-        del symptom_list["Relationship"]
+    # Modalities needs special casing.
+    modalities = symptom_list.get("Modalities")
+    if modalities:
+        readable_modalities = []
+        for mod in modalities:
+            if mod.startswith("BETTER,"):
+                mod = mod[7:]
+                chunks = mod.split(",")
+                for chunk in chunks:
+                    readable_modalities.append("Better: %s" % chunk.strip())
+            elif mod.startswith("WORSE,"):
+                mod = mod[6:]
+                chunks = mod.split(",")
+                for chunk in chunks:
+                    readable_modalities.append("Worse: %s" % chunk.strip())
+        symptom_list["Modalities"] = readable_modalities
+
 
     # Rest of the items go to symptoms of the remedy.
     remedy["symptoms"] = symptom_list
