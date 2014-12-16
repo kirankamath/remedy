@@ -52,7 +52,7 @@ def process_one_remedy(file_name):
                 if "</tr>" in line:
                     # We have reached the end.
                     break
-                if "</body>" in line or "</td>" in line:
+                if "</body>" in line or "</td>" in line or "</span>" in line:
                     continue
                 body.append(line)
             elif "Materia Medica (Boericke)" in line:
