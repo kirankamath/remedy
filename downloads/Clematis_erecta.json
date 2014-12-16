@@ -17,18 +17,19 @@
       "Worse: and warmth of bed", 
       "Better: in open air"
     ], 
+    "Teeth": [
+      "ACHE; WORSE, AT NIGHT AND FROM TOBACCO", 
+      "Teeth feel too long"
+    ], 
     "Head": [
       "CONFUSED FEELING; BETTER IN OPEN AIR", 
       "Boring pain in temples", 
       "Eruption on occiput at base of hair, moist, pustular sensitive, itching"
     ], 
     "Face": [
+      "Swelling of submaxillary glands, with hard tubercles; throbbing, aggravated on being touched", 
       "White blisters on face and nose, as if burned by sun", 
-      "Pain in right side of face to eye, ear and temple; better, holding cold water in mouth", 
-      "ACHE; WORSE, AT NIGHT AND FROM TOBACCO", 
-      "Teeth feel too long", 
-      "Teeth", 
-      "Swelling of submaxillary glands, with hard tubercles; throbbing, aggravated on being touched"
+      "Pain in right side of face to eye, ear and temple; better, holding cold water in mouth"
     ], 
     "Skin": [
       "GLANDS hot, painful, SWOLLEN; worse inguinal glands", 
@@ -42,18 +43,19 @@
       "Testicles hang heavy or retracted, with pain along spermatic cord; worse, right side", 
       "Ilio-scrotal neuralgia", 
       "Troubles from suppressed gonorrhea", 
-      "Frequent, scanty urination; burning at orifice", 
-      "Inability to pass all the urine; dribbling after urinating", 
       "Violent erections with stitches in urethra", 
       "Right half only", 
+      "Swelling of scrotum"
+    ], 
+    "Urinary Organs": [
+      "Inability to pass all the urine; dribbling after urinating", 
+      "Frequent, scanty urination; burning at orifice", 
       "Commencing stricture", 
       "Tingling in urethra lasting some time after urinating", 
-      "Swelling of scrotum", 
       "INTERRUPTED FLOW", 
       "Urethra feels constricted", 
       "Urine emitted drop by drop", 
-      "Pain worse at night, pain along the spermatic cord", 
-      "Urinary Organs"
+      "Pain worse at night, pain along the spermatic cord"
     ]
   }, 
   "details": "Scrofulous, rheumatic, gonorrheal, and syphilitic patients. Acts especially on skin, GLANDS and genitourinary organs, especially testicles. A remedy of much importance in disturbances of sleep, and neuralgic PAINS in various parts. Many of these pains are relieved by perspiration. Muscles relaxed or twitching. Great emaciation. GREAT SLEEPINESS. Distant pulsation in whole body.", 

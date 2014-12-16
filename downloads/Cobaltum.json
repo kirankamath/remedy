@@ -3,16 +3,17 @@
   "Relationship": "Compare: CANNAB. IND.; SEPIA; ZINC.; AGNUS; SELEN.", 
   "symptoms": {
     "Head": [
-      "Feel too long", 
-      "Itching of hairy scalp and beard", 
-      "Coated white", 
       "Aches; worse, bending head FORWARD", 
-      "Teeth", 
-      "Cracks across tongue", 
-      "Pain in teeth"
+      "Itching of hairy scalp and beard"
     ], 
     "Rectum": [
       "Constant dropping of blood from the anus, no blood from the stools"
+    ], 
+    "Teeth": [
+      "Feel too long", 
+      "Cracks across tongue", 
+      "Pain in teeth", 
+      "Coated white"
     ], 
     "Mind": [
       "Constant interchange of mental moods", 
