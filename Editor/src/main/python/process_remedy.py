@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 import shutil
+import os
+import re
+from xml.dom import minidom
+from subprocess import check_call
+import json
+import sys
 
 keywords = set(["General.", "Natural History.", "Stomach.",
                 "Sleep",
