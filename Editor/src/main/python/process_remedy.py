@@ -87,11 +87,11 @@ def process_one_remedy(file_name):
     current_list = None
     for element in data:
         if element in keywords:
-            current_list = []
+            current_list = set()
             category_map[element] = current_list
         else:
             if current_list != None:
-                current_list.append(element)
+                current_list.add(element)
 
     special_handling = set(["Relationship.", "General.", "Dose."])
     symptom_list = {}
@@ -105,12 +105,13 @@ def process_one_remedy(file_name):
             # Remove any content within paren.
             value = paren_remover.sub('', value)
             values = value.split(".")
-            symptoms = []
+            symptoms = set()
             for x in values:
                 x = x.strip()
                 if not x:
                     continue
-                symptoms.append(x)
+                symptoms.add(x)
+            symptoms = list(symptoms)
 
         symptom_name = k[:-1]
         if symptom_name in rename_pairs.keys():
