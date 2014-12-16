@@ -1,0 +1,46 @@
+{
+  "name": "Formalin", 
+  "Relationship": "Antidote: AMMONIA WATER. Compare: AMMONIUM FORMALDEHYDE, known commercially as CYSTOGEN. (Dose, five to seven grains two to four times daily, dissolved in hot water, after meals. Prevents the decomposition of urine in the bladder, kidneys, and ureters. Turbid urine rendered clear and non-irritating; phosphatic deposits dissolved, and growth of pyogenic bacteria arrested). Also, UROTROPIN (A diuretic and solvent of uric acid concretions; relieves cystitis associated with putrefaction. Three to five grains well diluted. When administered invariably appears in the cerebrospinal fluid and therefore advised in threatened meningeal infection.)", 
+  "symptoms": {
+    "Head": [
+      "Coryza; eyes water; VERTIGO"
+    ], 
+    "Respiratory": [
+      "DYSPNOEA", 
+      "LARYNGISMUS STRIDULUS", 
+      "WHOOPING-COUGH"
+    ], 
+    "Stomach": [
+      "Food feels as if it were a ball in stomach", 
+      "Burning in mouth and stomach"
+    ], 
+    "Mind": [
+      "FORGETFULNESS", 
+      "Anxiety", 
+      "Unconscious"
+    ], 
+    "Abdomen": [
+      "Intense urging to stool, watery stools", 
+      "Urinary Organs", 
+      "Anuria; albuminous urine"
+    ], 
+    "Fever": [
+      "Chills in forenoon, followed by long fever", 
+      "Bones ache during whole paroxysm", 
+      "During fever forgets where he was"
+    ], 
+    "Mouth": [
+      "Ptyalism, thick saliva; loss of taste"
+    ], 
+    "Skin": [
+      "Puckers skin like leather; wrinkles; scales off", 
+      "Eczema in neighborhood of wound", 
+      "Damp sweat most marked on right upper extremity"
+    ]
+  }, 
+  "details": "Is a powerful disinfectant and deodorant; a potent poison. Prevents growth and kills almost any pathogenic micro-organism. It seems to have the peculiar property of eating into malignant tumors, leaving the surrounding healthy tissue non-charred and unchanged. A plug of cotton wool soaked in a 20 per cent. solution of Formaldehyde, and applied for a few hours, will produce a necrotic slough, which must be scraped away before the next application, otherwise it hardens.FORMALIN IN HOT WATER AS VAPOR MOST VALUABLE THERAPEUTIC AGENT IN PERTUSSIS, phthisis, in catarrhal affections of upper air-passages.", 
+  "Natural History": [
+    "Aqueous Solution  of Formaldehyde Gas"
+  ], 
+  "dosage": "As vapor in hot water in respiratory affections; 1 per cent. spray, otherwise 3x potency."
+}

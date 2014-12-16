@@ -1,0 +1,164 @@
+{
+  "name": "Kali bichromicum", 
+  "Relationship": "Compare: TART. EMET.; BROM.; HEPAR; IND.; CALC.;' ANT. CR. In the production of false membranes compare: BROM.; AMMON. CAUST.; SULPH-AC.; IPECAC.Antidotes: ARS.; LACH.", 
+  "symptoms": {
+    "Stool": [
+      "Jelly-like, gelatinous; WORSE, MORNINGS", 
+      "Dysentery; tenesmus, stools brown, frothy", 
+      "Sensation of a plug in anus", 
+      "Periodic constipation, with pain across the loins, and brown urine", 
+      "Urinary Organs", 
+      "Burning in urethra", 
+      "AFTER URINATING A DROP SEEMS TO REMAIN WHICH CANNOT BE EXPELLED", 
+      "Ropy mucus in urine", 
+      "Urethra becomes clogged up", 
+      "Congestion of kidney; nephritis, with scanty, albuminous urine and casts", 
+      "Pyelitis; urine mixed with epithelial cells, mucus, pus or blood", 
+      "HEMATOCHYLURIA"
+    ], 
+    "Head": [
+      "Vertigo with nausea when rising from seat", 
+      "Headache over EYEBROWS, preceded by blurred vision", 
+      "ACHING AND FULLNESS IN GLABELLA", 
+      "Semilateral headache in small spots, and from suppressed catarrh", 
+      "Frontal pain; usually over one eye", 
+      "BONES AND SCALP FEEL SORE"
+    ], 
+    "Stomach": [
+      "Nausea and vomiting after beer", 
+      "Load immediately after eating", 
+      "Feels as if digestion had stopped", 
+      "Dilatation of stomach", 
+      "Gastritis", 
+      "ROUND ULCER OF STOMACH", 
+      "Stitches in region of liver and spleen and through to spine", 
+      "Dislikes water", 
+      "Cannot digest meat", 
+      "Desire for beer and acids", 
+      "Gastric symptoms are relieved after eating, and the rheumatic symptoms reappear", 
+      "Vomiting of bright yellow water"
+    ], 
+    "Abdomen": [
+      "Cutting pain in abdomen, soon after eating", 
+      "Chronic intestinal ulceration", 
+      "Soreness in right hypochondrium, fatty infiltration of liver and increase in soft fibrous tissue", 
+      "Painful retraction, soreness and burning"
+    ], 
+    "Mouth": [
+      "Dry; viscid saliva", 
+      "Tongue mapped, RED, SHINING, SMOOTH, AND DRY, with dysentery; broad, flat, indented, thickly coated", 
+      "Feeling of a hair on tongue"
+    ], 
+    "Respiratory": [
+      "Voice hoarse; worse, evening", 
+      "Metallic, hacking cough", 
+      "PROFUSE, YELLOW EXPECTORATION, VERY GLUTINOUS AND STICKY, coming out in long, stringy, and very tenacious mass", 
+      "Tickling in larynx", 
+      "Catarrhal laryngitis cough has a brassy sound", 
+      "True membranous croup, extending to larynx and nares", 
+      "Cough, with pain in sternum, extending to shoulders; worse when undressing", 
+      "Pain at bifurcation of trachea on coughing; from mid-sternum to back"
+    ], 
+    "Eyes": [
+      "Supraorbital neuralgia, right side", 
+      "Eyelids burn, swollen, edematous", 
+      "Discharge ROPY and yellow", 
+      "Ulcers on cornea; no pain or photophobia", 
+      "DESCEMETITIS, with only moderate irritation of eye", 
+      "Croupous conjunctivitis; granular lids, with pannus", 
+      "Iritis, with punctate deposits on inner surface of cornea", 
+      "Slight pain, with severe ulceration or inflammation"
+    ], 
+    "Face": [
+      "Florid complexion", 
+      "Blotchy, red appearance", 
+      "Acne", 
+      "Bones sensitive, especially beneath orbits"
+    ], 
+    "Nose": [
+      "Snuffles of children, ESPECIALLY FAT, CHUBBY BABIES", 
+      "PRESSURE AND PAIN AT ROOT OF NOSE, and sticking pain in nose", 
+      "SEPTUM ULCERATE; round ulcer", 
+      "FETID SMELL", 
+      "DISCHARGE THICK, ROPY, GREENISH-YELLOW", 
+      "TOUGH, ELASTIC PLUGS from nose; leave a raw surface", 
+      "Inflammation extends to frontal sinuses, with distress and fullness at root of nose", 
+      "Dropping from posterior nares", 
+      "LOSS OF SMELL", 
+      "Much hawking", 
+      "Inability to breathe through nose", 
+      "Dryness", 
+      "CORYZA, WITH OBSTRUCTION OF nose", 
+      "VIOLENT SNEEZING", 
+      "Profuse, watery nasal discharge", 
+      "Chronic inflammation of frontal sinus with stopped-up sensation"
+    ], 
+    "Male": [
+      "Itching and pain of penis, with pustules", 
+      "Ulcers, with paroxysmal stitches; aggravated at night", 
+      "Constriction at root of penis, at night on awakening", 
+      "Syphilitic ulcers, with cheesy, tenacious exudation", 
+      "Erections"
+    ], 
+    "Ears": [
+      "Swollen, with tearing pains", 
+      "Thick, yellow, stringy, fetid discharge", 
+      "Sharp stitches in left ear"
+    ], 
+    "Heart": [
+      "Dilatation, especially from coexisting kidney lesion", 
+      "Cold feeling around heart"
+    ], 
+    "Modalities": [
+      "Better: from heat", 
+      "Worse: beer", 
+      "Worse: morning", 
+      "Worse: hot weather", 
+      "Worse: undressing"
+    ], 
+    "Back": [
+      "CUTTING THROUGH LOINS; cannot walk; extends to groins", 
+      "Pain in coccyx and sacrum extending up and down"
+    ], 
+    "Female": [
+      "Yellow, tenacious leucorrhoea", 
+      "Pruritus of vulva, with great burning and excitement", 
+      "Prolapsus uteri; WORSE IN HOT WEATHER"
+    ], 
+    "Skin": [
+      "Acne", 
+      "Papular eruptions", 
+      "ULCER WITH PUNCHED-OUT EDGES, with tendency to penetrate and tenacious exudation", 
+      "Pustular eruption, resembling small-pox, with burning pains", 
+      "Itching with vesicular eruption"
+    ], 
+    "Throat": [
+      "Fauces red and inflamed", 
+      "Dry and rough", 
+      "Parotid glands swollen", 
+      "Uvula relaxed, EDEMATOUS, BLADDER-LIKE", 
+      "Pseudomembranous deposit on tonsils and soft palate", 
+      "Burning extending to stomach", 
+      "Aphthae", 
+      "Diphtheria, with profound prostration and soft pulse", 
+      "Discharge from mouth and throat, tough and stringy"
+    ], 
+    "Extremities": [
+      "Pains fly rapidly from one place to another", 
+      "Wandering pains, along the bones; worse cold", 
+      "Left-sided sciatica; better, motion", 
+      "Bones feels sore and bruised", 
+      "VERY WEAK", 
+      "Tearing pains in tibia; syphilitic rheumatism", 
+      "Pain, swelling and stiffness and crackling of all joints", 
+      "Soreness of heels when walking", 
+      "Tendo Achilles swollen and painful", 
+      "Pains in small spots"
+    ]
+  }, 
+  "details": "The special affinities of this drug are the mucous membrane of stomach, bowels, and air-passages; bones and fibrous tissue. Kidneys, heart, and liver are also affected. Incipient parenchymatous; nephritis. Nephritis with gastric disturbances. Cirrhosis of liver. Anaemia and absence of fever are characteristic. General weakness bordering on paralysis. It is especially indicated for fleshy, fat, light complexioned persons subject to catarrhs or with syphilitic or scrofulous history. Symptoms are worse in the morning; PAINS MIGRATE QUICKLY, rheumatic and gastric symptoms alternate. More adapted to subacute rather than the violent acute stage. Mucous membranes everywhere are affected. Catarrh of pharynx, larynx, bronchi and nose, and a TOUGH, STRINGY, VISCID SECRETION is produced, which condition is a very strong guiding symptom for this drug. PERFORATION OF THE SEPTUM. Chronic atonic catarrh. Polypus. Dilatation of stomach and heart.", 
+  "Natural History": [
+    "Bichromate of Potash"
+  ], 
+  "dosage": "Third trituration, also thirtieth attenuation and higher.The lower preparations of this salt should not be kept too long."
+}

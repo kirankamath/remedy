@@ -1,0 +1,47 @@
+{
+  "Natural History": [
+    "Arsenite of Lime"
+  ], 
+  "details": "Epilepsy with rush of blood to the head before attack; aura felt in region of heart; flying sensation. Complaints in fat women around climacteric. Chronic malaria. Infantile enlarged liver and spleen. NEPHRITIS, with great sensitiveness in kidney region. Complaints of drunkards after abstaining. (Carbon. sulph.) Fleshy women at climacteric, SLIGHTEST EMOTION CAUSING PALPITATION. Dysphonia, with feeble heart. CHILLINESS. Albuminuria. Dropsy. Affections of spleen and mesenteric glands. Haemoglobin and red corpuscles are low.", 
+  "symptoms": {
+    "Heart": [
+      "Constriction and pain in region of heart, suffocating feeling, PALPITATION, oppression and throbbing and pain in back extending to arms"
+    ], 
+    "Head": [
+      "Violent rush of blood to head with vertigo", 
+      "Pain in head BETTER BY LYING ON PAINFUL SIDE", 
+      "Weekly headache", 
+      "Benumbing headache mostly around ears"
+    ], 
+    "Stomach": [
+      "Region of stomach distended", 
+      "Enlarged liver and spleen in children", 
+      "Pancreatic disease; relieves burning pain in cancer of pancreas", 
+      "Belching with saliva and beating of heart", 
+      "Urinary Organs", 
+      "KIDNEY REGION SENSITIVE TO PRESSURE", 
+      "Albuminuria, passes urine every hour"
+    ], 
+    "Modalities": [], 
+    "Mind": [
+      "Anger, anxiety", 
+      "Desire for company", 
+      "Confusion, delusions, illusions", 
+      "Great depression"
+    ], 
+    "Back": [
+      "Pain and stiffness near nape of neck", 
+      "Violent back ache, throbbing, drives out of bed"
+    ], 
+    "Female": [
+      "Offensive, bloody leucorrhoea", 
+      "Cancer of uterus; burning pain in uterus and vagina"
+    ], 
+    "Extremities": [
+      "Removes inflammatory products in veins of lower extremities", 
+      "Weariness and lameness of lower limbs"
+    ]
+  }, 
+  "name": "Calcarea arsenica", 
+  "dosage": "Third trituration."
+}

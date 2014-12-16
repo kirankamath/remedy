@@ -1,0 +1,47 @@
+{
+  "name": "Drosera", 
+  "Relationship": "Antidote: CAMPH.Compare; FLUOROFORM (2 per cent. watery solution, 2-4 drops, after paroxysms, considered specific for whooping-cough.) OUABAIN from leaves of Carissa schimperi - arrow poison. (Respiratory spasm - Whooping cough is cut short in first stage and reduced in frequency of attacks and hastens convalescence.) CHELID.; CORAL.; CUPR.; CASTANEA; ARGENT.; MENYANTH.", 
+  "symptoms": {
+    "Head": [
+      "Vertigo when walking in open air, with inclination to fall to the LEFT side", 
+      "Coldness of left half of face, with stinging pains and dry heat of RIGHT HALF"
+    ], 
+    "Fever": [
+      "Internal chilliness; shivering, with hot face, cold hands, no thirst", 
+      "Is always too cold, even in bed"
+    ], 
+    "Stomach": [
+      "Nausea", 
+      "Aversion to and bad effects from acids", 
+      "Respiratory Organs", 
+      "Spasmodic, dry irritative cough, like whooping-cough, the PAROXYSMS FOLLOWING EACH OTHER VERY RAPIDLY; can scarcely breathe; chokes", 
+      "Cough very deep and hoarse; worse, after midnight; yellow expectoration, WITH BLEEDING FROM NOSE and mouth; RETCHING", 
+      "DEEP, HOARSE VOICE; HOARSENESS; laryngitis", 
+      "Rough, scraping sensation deep in the fauces and soft palate", 
+      "Sensation as if crumbs were in the throat, of feather in larynx", 
+      "Laryngeal phthisis, with rapid emaciation", 
+      "Harassing and titillating cough in children - not at all through the day, but commences as soon as the head touches the pillow at night", 
+      "Clergyman's sore throat, with rough, scraping, dry sensation deep in the fauces; voice hoarse, deep, toneless, cracked, requires exertion to speak", 
+      "ASTHMA WHEN TALKING, with contraction of the throat at every word uttered"
+    ], 
+    "Modalities": [
+      "Worse: after midnight", 
+      "Worse: lying down", 
+      "Worse: on getting warm in bed", 
+      "Worse: drinking", 
+      "Worse: singing", 
+      "Worse: laughing"
+    ], 
+    "Extremities": [
+      "Paralytic pains in the coxofemoral joint and thighs", 
+      "Stiffness in joints of feet", 
+      "All limbs feel lame", 
+      "Bed feels too hard"
+    ]
+  }, 
+  "details": "Affects markedly the respiratory organs and was pointed out by Hahnemann as the principal remedy for whooping-cough. Drosera can break down resistance to tubercle and should therefore be capable of raising it (Dr. Tyler). Laryngeal phthisis is benefited by it. Phthisis pulmonum; vomiting of food from coughing with gastric irritation and profuse expectoration. Pains about hip-joint. Tubercular glands.", 
+  "Natural History": [
+    "Sundew"
+  ], 
+  "dosage": "First to twelfth attenuation."
+}

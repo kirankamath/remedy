@@ -1,0 +1,37 @@
+{
+  "name": "Viola tricolor", 
+  "Relationship": "Compare: RHUS; CALC.; SEPIA.", 
+  "symptoms": {
+    "Head": [
+      "Heavy, pressing-outward pain", 
+      "Eczema of scalp, with swollen glands", 
+      "Face hot and sweating after eating"
+    ], 
+    "Skin": [
+      "IMPETIGO", 
+      "Intolerable itching", 
+      "Eruptions, particularly over face and head, with burning, itching; worse at night", 
+      "Thick scabs, which crack and exude a tenacious yellow pus", 
+      "Eczema impetigenoides of the face", 
+      "Sycosis", 
+      "Modalities", 
+      "WORSE, winter; eleven AM Compare: LYCOP"
+    ], 
+    "Throat": [
+      "Much phlegm, causing hawking; worse in the air", 
+      "Swallowing difficult", 
+      "Urinary Organs", 
+      "Copious; disagreeable, cat-like odor"
+    ], 
+    "Male": [
+      "Swelling of prepuce, burning in glans", 
+      "Itching", 
+      "Involuntary, seminal emissions at stool"
+    ]
+  }, 
+  "details": "The principal uses of this remedy are for eczema in childhood and nocturnal emission accompanied by very vivid dreams.", 
+  "Natural History": [
+    "Pansy"
+  ], 
+  "dosage": "Lower potencies."
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Petroleum", 
+  "Relationship": "Compare: CARBO; GRAPH.; SULPH.; PHOS.Complementary: SEPIA.Antidotes: NUX; COCCUL.", 
+  "symptoms": {
+    "Heart": [
+      "Sensation of coldness", 
+      "Fainting, with ebullitions, heat, and palpitation"
+    ], 
+    "Eyes": [
+      "Loss of eyelashes", 
+      "Dim sight; far-sighted; cannot read fine print without glasses; blennorrhoea of lachrymal sac; MARGINAL BLEPHARITIS", 
+      "Canthi fissured", 
+      "Skin around eyes dry and scurfy"
+    ], 
+    "Fever": [
+      "Chilliness, followed by sweat", 
+      "Flushes of heat, particularly of the face and head; worse at night", 
+      "Perspiration on feet and axillae"
+    ], 
+    "Stomach": [
+      "Heartburn; hot, sharp, sour eructation", 
+      "Distension", 
+      "Feeling of great emptiness", 
+      "Strong aversion to fat food, meat; worse, eating cabbage", 
+      "HUNGER, immediately after stool", 
+      "NAUSEA, with accumulation of water in mouth", 
+      "Gastralgia when stomach is empty; relieved by constant eating", 
+      "Ravenous hunger", 
+      "Must rise at night and eat", 
+      "Odor of garlic"
+    ], 
+    "Modalities": [
+      "Worse: DAMPNESS", 
+      "Worse: before and during a thunderstorm", 
+      "Worse: from riding in cars", 
+      "Worse: PASSIVE MOTION; IN WINTER", 
+      "Worse: eating", 
+      "Worse: from mental states", 
+      "Better: warm air; lying with head high; dry weather"
+    ], 
+    "Mind": [
+      "Marked aggravation from mental emotions", 
+      "Loses his way in streets", 
+      "Thinks he is double, or someone else lying alongside", 
+      "FEELS THAT DEATH IS NEAR, AND MUST HURRY TO SETTLE AFFAIRS", 
+      "Irritable, easily offended, vexed at everything", 
+      "LOW-SPIRITED, WITH DIMNESS OF SIGHT"
+    ], 
+    "Back": [
+      "Pain in nape of neck, stiff and painful", 
+      "Weakness in small of back", 
+      "Coccyx painful"
+    ], 
+    "Face": [
+      "Dry; feels constricted, as if covered with albumin"
+    ], 
+    "Respiratory": [
+      "Hoarseness", 
+      "Dry cough and oppression of chest at night", 
+      "Cough produces headache", 
+      "Oppression of chest; worse, cold air", 
+      "Dry cough at night, coming deep from chest", 
+      "Croup and laryngeal diphtheria"
+    ], 
+    "Female": [
+      "Before menses, throbbing in head", 
+      "Leucorrhoea, profuse, albuminous", 
+      "Genitals sore and moist", 
+      "Sensation of moisture", 
+      "Itching and mealy coating of nipple"
+    ], 
+    "Nose": [
+      "NOSTRILS ULCERATED, CRACKED, BURN; tip of nose itches", 
+      "Epistaxis", 
+      "Ozaena, with scabs and mucopurulent discharge"
+    ], 
+    "Head": [
+      "Sensitive, AS OF A COLD BREEZE BLOWING ON IT", 
+      "Feels numb, as if made of wood; OCCIPUT HEAVY, AS OF LEAD", 
+      "VERTIGO ON RISING, felt in occiput, as if intoxicated, or like sea-sickness", 
+      "MOIST ERUPTION ON SCALP; worse, back and ears", 
+      "Scalp sore to touch, followed by numbness", 
+      "Headache, must hold temples to relieve; provoked by shaking while coughing", 
+      "Use thirtieth"
+    ], 
+    "Skin": [
+      "Itching at night", 
+      "Chilblains, moist, itch and burn", 
+      "Bed-sores", 
+      "SKIN DRY, CONSTRICTED, VERY SENSITIVE, ROUGH AND CRACKED, LEATHERY", 
+      "Herpes", 
+      "Slightest scratch makes skin suppurate", 
+      "Intertrigo; psoriasis of hands", 
+      "THICK, GREENISH CRUSTS, BURNING AND ITCHING; REDNESS, RAW; CRACKS BLEED EASILY", 
+      "Eczema", 
+      "Rhagades WORSE IN WINTER"
+    ], 
+    "Abdomen": [
+      "DIARRHOEA ONLY IN THE DAYTIME; watery, gushing and ITCHING OF ANUS", 
+      "After cabbage; with empty feeling of stomach"
+    ], 
+    "Extremities": [
+      "Chronic sprains", 
+      "Fetid sweat in axillae", 
+      "Knees stiff", 
+      "TIPS OF FINGERS ROUGH, CRACKED, FISSURED EVERY WINTER", 
+      "Scalding sensation in knee", 
+      "Cracking in joints"
+    ], 
+    "Male": [
+      "Herpetic eruption on perineum", 
+      "Prostate inflamed and swollen", 
+      "Itching in urethra"
+    ], 
+    "Ears": [
+      "Noise unbearable, especially from several people talking together", 
+      "Eczema, intertrigo, etc", 
+      ", in and behind ears, with intense itching", 
+      "Parts sore to touch", 
+      "Fissures in meatus", 
+      "Dry catarrh, with deafness and noises", 
+      "Ringing and cracking in ears", 
+      "Chronic Eustachian catarrh", 
+      "Diminished hearing"
+    ]
+  }, 
+  "details": "Strumous diathesis, especially the dark type, who suffer from catarrhal conditions of the mucous membranes, gastric acidity and cutaneous eruptions.Very marked skin symptoms, acting on sweat and oil glands. Ailments are worse during the winter season. Ailments from riding in cars, carriages, or ships; lingering gastric and lung troubles; chronic diarrhoea. LONG-LASTING COMPLAINTS follow mental states - fright, vexation, etc. Chlorosis in young girls with or without ulceration of the stomach.", 
+  "Natural History": [
+    "Crude Rock-oil"
+  ], 
+  "dosage": "Third to thirtieth and higher potencies. Material doses often better."
+}

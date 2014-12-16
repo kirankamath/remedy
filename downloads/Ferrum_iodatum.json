@@ -1,0 +1,42 @@
+{
+  "Natural History": [
+    "Iodide of Iron"
+  ], 
+  "details": "Scrofulous affections, glandular enlargements, and tumors call for this remedy. Crops of boils. Acute nephritis following eruptive diseases. Uterine displacements. Body emaciated. Anemia. Exophthalmic goitre following suppression of menses. Debility following drain upon vital forces. Impetigo of the cheek.", 
+  "symptoms": {
+    "Respiratory": [
+      "Coryza; discharge of mucus from nose, trachea, and larynx", 
+      "Pressure beneath sternum", 
+      "Scrofulous swelling of nose", 
+      "Chest feels oppressed", 
+      "Hemoptysis", 
+      "Urinary Organs", 
+      "Urine dark", 
+      "Sweet smelling", 
+      "CRAWLING SENSATION IN URETHRA AND RECTUM", 
+      "Sensation as if urine were stopped at fossa navicularis", 
+      "Difficulty in retaining urine", 
+      "Incontinence in anemic children"
+    ], 
+    "Stomach": [
+      "Food seems to push up into throat, as if it had not been swallowed"
+    ], 
+    "Abdomen": [
+      "Fullness, even after a little food; stuffed feeling, as if she could not lean forward"
+    ], 
+    "Female": [
+      "On sitting, FEELING AS IF SOMETHING PRESSED UPWARD IN VAGINA", 
+      "Much bearing down", 
+      "Retroversion and prolapse of uterus", 
+      "Leucorrhoea like boiled starch", 
+      "Menses suppressed or scanty", 
+      "Itching and soreness of vulva and vagina"
+    ], 
+    "Throat": [
+      "Sore, as if of a splinter, shooting in different directions", 
+      "Hoarse"
+    ]
+  }, 
+  "name": "Ferrum iodatum", 
+  "dosage": "Third trituration. Does not keep long."
+}

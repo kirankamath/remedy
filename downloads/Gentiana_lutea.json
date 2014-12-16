@@ -1,0 +1,27 @@
+{
+  "name": "Gentiana lutea", 
+  "Relationship": "Compare: GENTIANA QUINQUE FLORA (intermittent fever; dyspepsia, cholera infantum, weakness); GENTIANA CRUCIATA (throat symptoms in addition to similar stomach symptoms; dysphagia; vertigo with headache; pressing inward sensation in eyes; constricted throat and head and abdomen. Distention, fullness and tightness in abdomen. Creeping over body as from fleas. HYDRAS.; NUX.", 
+  "symptoms": {
+    "Head": [
+      "Vertigo, worse, rising or motion; better open air", 
+      "Frontal headache, better eating and open air", 
+      "Brain feels loose, head tender", 
+      "Aching in eyes"
+    ], 
+    "Stomach": [
+      "Acid risings, ravenous hunger, nausea, weight and aching in stomach", 
+      "Inflation and tension of stomach and abdomen", 
+      "Colic, umbilical region sensitive to touch", 
+      "Flatulence"
+    ], 
+    "Throat": [
+      "Dry", 
+      "Thick saliva"
+    ]
+  }, 
+  "details": "Stomach symptoms marked. Acts as a tonic, increasing appetite.", 
+  "Natural History": [
+    "Yellow Gentian"
+  ], 
+  "dosage": "First to third attenuation."
+}

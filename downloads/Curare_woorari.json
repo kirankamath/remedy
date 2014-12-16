@@ -1,0 +1,77 @@
+{
+  "name": "Curare woorari", 
+  "Relationship": "Compare: CYSTISIN (motor paralysis); CONIUM; CAUSTICUM; CROTALUS; NUX. Curare antidotes STRYCHNIN.", 
+  "symptoms": {
+    "Eyes": [
+      "Sharp, stitching pains over right eye", 
+      "Black spots before vision", 
+      "Ptosis of right side"
+    ], 
+    "Respiratory": [
+      "THREATENED PARALYSIS OF RESPIRATION on falling asleep", 
+      "Short breath", 
+      "Short dry cough; provokes vomiting, followed by fainting", 
+      "CHEST SORE TO PRESSURE", 
+      "VERY DISTRESSING DYSPNOEA"
+    ], 
+    "Modalities": [
+      "Worse: dampness", 
+      "Worse: cold weather", 
+      "Worse: cold wind; two AM; right side"
+    ], 
+    "Mind": [
+      "Indecision; no longer wishes to think, or act for herself"
+    ], 
+    "Head": [
+      "Lancinating pains all over head", 
+      "Head drawn backward", 
+      "Falling out of hair", 
+      "Brain feels full of fluid"
+    ], 
+    "Face": [
+      "Facial and buccal paralysis", 
+      "Tongue and mouth drawn", 
+      "Red face", 
+      "Tongue and mouth drawn to right"
+    ], 
+    "Nose": [
+      "Ozaena", 
+      "Tubercles on nose; fetid lumps of pus"
+    ], 
+    "Female": [
+      "Dysmenorrhoea", 
+      "Menses too early, during menses, colic, headache, kidney pain", 
+      "Leucorrhoea, thick, purulent, offensive"
+    ], 
+    "Skin": [
+      "Leprosy", 
+      "Dirty-looking skin", 
+      "Boils", 
+      "Tubercles on nose", 
+      "Liver spots", 
+      "Blood oozes through", 
+      "Itching"
+    ], 
+    "Extremities": [
+      "Tired pain up and down spine", 
+      "ARMS WEAK, HEAVY", 
+      "Cannot lift the fingers", 
+      "Weakness of hands and fingers in pianists", 
+      "Legs tremble; give way in walking", 
+      "Debility; paralysis", 
+      "Catalepsy", 
+      "Favors development of corns", 
+      "Reflexes lessened or abolished"
+    ], 
+    "Ears": [
+      "Noises; unbearable earache", 
+      "Lancinating pains start from ears; extending down to legs", 
+      "Swelling of lobes of ear"
+    ]
+  }, 
+  "details": "Muscular paralysis without impairing sensation and consciousness. Paralysis of respiratory muscles. REFLEX ACTION DIMINISHED. Debility of the aged (BARYTA) and from loss of fluids. Catalepsy. Nervous debility. Trismus. Glycosuria with motor paralysis. Curare decreases the output of adrenaline. Vomiting of bile in cirrhosis of liver. Diabetes mellitus, 4th dilution (Dr. Bark hard).", 
+  "Natural History": [
+    "Arrow-poison"
+  ], 
+  "dosage": "Sixth to thirtieth potency."
+}

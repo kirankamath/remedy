@@ -1,0 +1,23 @@
+{
+  "Natural History": [
+    "Acetate of Barium"
+  ], 
+  "details": "Produces paralysis beginning at the extremities and spreading upward. Pruritus of aged.", 
+  "symptoms": {
+    "Mind": [
+      "Forgetful; wavering long between opposite resolutions", 
+      "Lack of self confidence"
+    ], 
+    "Face": [
+      "Feeling of cobweb in face"
+    ], 
+    "Extremities": [
+      "Drawing pain down whole left leg", 
+      "Crawling, with burning stitches", 
+      "PARALYSIS", 
+      "Lumbago and rheumatic pain in muscles and joints"
+    ]
+  }, 
+  "name": "Baryta acetica", 
+  "dosage": "Second and third trituration in repeated dosage."
+}

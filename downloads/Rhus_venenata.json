@@ -1,0 +1,39 @@
+{
+  "name": "Rhus venenata", 
+  "Relationship": "Antidote: CLEMATIS. The California Poison-oak (Rhus diversiloba) is identical with it. It antidotes RADIUM and follows it well. Compare: ANACARD.", 
+  "symptoms": {
+    "Head": [
+      "Heavy, frontal headache; worse, walking or stooping", 
+      "Eyes nearly closed with great swelling", 
+      "Vesicular inflammation of ears", 
+      "Nose red and shiny", 
+      "Face swollen"
+    ], 
+    "Mind": [
+      "Great melancholy; no desire to live, gloomy"
+    ], 
+    "Abdomen": [
+      "Profuse, watery, white stools in morning, four AM, with colicky pains; expelled with force", 
+      "Pain in hypogastrium before every stool"
+    ], 
+    "Mouth": [
+      "Tongue red at tip", 
+      "Fissured in middle", 
+      "Vesicles on under side"
+    ], 
+    "Skin": [
+      "Itching; relieved by hot water", 
+      "VESICLES", 
+      "ERYSIPELAS; SKIN DARK RED", 
+      "Erythema nodosum, with nightly itching and pains in long bones"
+    ], 
+    "Extremities": [
+      "Paralytic drawing in right arm, especially wrist, and extending to fingers"
+    ]
+  }, 
+  "details": "The skin symptoms of this species of Rhus are most severe.", 
+  "Natural History": [
+    "Poison-elder"
+  ], 
+  "dosage": "Sixth to thirtieth potency."
+}

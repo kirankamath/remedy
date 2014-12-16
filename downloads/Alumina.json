@@ -1,0 +1,152 @@
+{
+  "name": "Alumina", 
+  "Relationship": "Compare: ALUMINUM CHLORIDUM. (Pains of loco-motor ataxia. Lower trit. in water. SLAG SILICO-SULPHOCALCITE OF ALUMINA 3x (anal itching, piles, constipation, flatulent distention); SECALE; LATHYR.; PLUMB. ALUMINUM ACETATE solution. (Externally a lotion for putrid wounds and skin infections. Arrests hemorrhage from inertia of uterus. Parenchymatous hemorrhage from various organs 2-3% solution. Hemorrhage following tonsillectomy is controlled by rinsing out nasopharynx with a 10% sol.Complementary: Bryonia.Antidotes: Ipecac.; Chamomile.", 
+  "symptoms": {
+    "Stool": [
+      "HARD, DRY, KNOTTY; NO DESIRE", 
+      "Rectum sore, dry, inflamed, bleeding", 
+      "Itching and burning at anus", 
+      "EVEN A SOFT IS PASSED WITH DIFFICULTY", 
+      "GREAT STRAINING", 
+      "Constipation of infants  and old people from inactive rectum, and in women of very sedentary habit", 
+      "Diarrhoea on urinating", 
+      "EVACUATION PRECEDED BY PAINFUL URGING LONG BEFORE STOOL, AND THEN STRAINING AT STOOL", 
+      "Urine Section", 
+      "Muscles of bladder paretic, MUST STRAIN AT STOOL IN ORDER TO URINATE", 
+      "Pain in kidneys, with mental confusion", 
+      "Frequent desire to urinate in old people", 
+      "Difficult starting"
+    ], 
+    "Head": [
+      "Stitching, burning pain in head, with vertigo, worse in morning, but relieved by food", 
+      "Pressure in forehead as from a tight hat", 
+      "Inability to walk except with eyes open", 
+      "Throbbing headache, with constipation", 
+      "Vertigo, with nausea; better after breakfast", 
+      "Falling out of hair; scalp itches and is numb"
+    ], 
+    "Stomach": [
+      "Abnormal cravings - chalk, charcoal, dry food, tea-grounds", 
+      "Heartburn; feels constricted", 
+      "Aversion to meat", 
+      "POTATOES DISAGREE", 
+      "No desire to eat", 
+      "CAN SWALLOW BUT SMALL MORSELS AT A TIME", 
+      "Constriction of oesophagus"
+    ], 
+    "Abdomen": [
+      "Colic, like painter's colic", 
+      "Pressing in both groins toward sexual organs", 
+      "LEFT-SIDED ABDOMINAL COMPLAINTS"
+    ], 
+    "Mouth": [
+      "Sore", 
+      "Bad odor from it", 
+      "Teeth covered with sordes", 
+      "Gums sore, bleeding", 
+      "Tensive pain in articulation of jaw when opening mouth or chewing"
+    ], 
+    "Respiratory": [
+      "Cough soon after waking in the morning", 
+      "Hoarse, aphonia, tickling in larynx; wheezing, rattling respiration", 
+      "Cough on talking or singing, IN THE MORNING", 
+      "Chest feels constricted", 
+      "Condiments produce cough", 
+      "Talking aggravates soreness of chest"
+    ], 
+    "Eyes": [
+      "Objects look yellow", 
+      "Eyes feel cold", 
+      "Lids dry, burn, smart, thickened, aggravated in morning; chronic conjunctivitis", 
+      "Ptosis", 
+      "Strabismus"
+    ], 
+    "Face": [
+      "Feels as if albuminous substance had dried on it", 
+      "Blood-boils and pimples", 
+      "Twitching of lower jaw", 
+      "Rush of blood to face after eating"
+    ], 
+    "Nose": [
+      "Pain at root of nose", 
+      "Sense of smell diminished", 
+      "Fluent coryza", 
+      "Point of nose CRACKED, nostrils sore, RED; worse touch", 
+      "SCABS WITH THICK YELLOW MUCUS", 
+      "Tettery redness", 
+      "OXAENA ATROPHICA SICCA", 
+      "Membranes distended and boggy"
+    ], 
+    "Male": [
+      "Excessive desire", 
+      "Involuntary emissions when straining at stool", 
+      "Prostatic discharge"
+    ], 
+    "Ears": [
+      "Humming; roaring", 
+      "Eustachian tube feels plugged"
+    ], 
+    "Modalities": [
+      "Worse: periodically; in afternoon; from potatoes", 
+      "Worse: in morning on awakening; warm room", 
+      "Better: in open air; from cold washing; in evening and on alternate days", 
+      "Better: damp weather"
+    ], 
+    "Mind": [
+      "Low-spirited; fears loss of reason", 
+      "Confused as to personal identity", 
+      "HASTY, HURRIED", 
+      "Time passes slowly", 
+      "VARIABLE MOOD", 
+      "Better as day advances", 
+      "Suicidal tendency when seeing knife or blood"
+    ], 
+    "Back": [
+      "Stitches", 
+      "Gnawing pain, as if from hot iron", 
+      "Pain along cord, with paralytic weakness"
+    ], 
+    "Female": [
+      "Menses too early, short, SCANTY, PALE, FOLLOWED BY GREAT EXHAUSTION", 
+      "Leucorrhoea ACRID, PROFUSE, transparent, ROPY, with burning; worse during daytime, and after menses", 
+      "Relieved by washing with cold water"
+    ], 
+    "Skin": [
+      "Chapped and dry tettery", 
+      "Brittle nails", 
+      "INTOLERABLE ITCHING WHEN GETTING WARM IN BED", 
+      "Must scratch until it bleeds; then becomes painful", 
+      "Brittle skin on fingers"
+    ], 
+    "Throat": [
+      "DRY, sore; food cannot pass, oesophagus contracted", 
+      "Feels as if splinter or plug were in throat", 
+      "Irritable, and relaxed throat", 
+      "Looks parched and glazed", 
+      "Clergyman's sore throat in thin subjects", 
+      "Thick, tenacious mucus drops from posterior nares", 
+      "Constant inclination to clear the throat"
+    ], 
+    "Extremities": [
+      "Pain in arms and fingers, as if hot iron penetrated", 
+      "Arms feel paralyzed", 
+      "Legs feel asleep, ESPECIALLY WHEN SITTING WITH LEGS CROSSED", 
+      "STAGGERS ON WALKING", 
+      "HEELS FEEL NUMB", 
+      "Soles tender; on stepping, feel soft and swollen", 
+      "Pain in shoulder and upper arm", 
+      "Gnawing beneath finger nails", 
+      "BRITTLE NAILS", 
+      "Inability to walk, except when eyes are open or in daytime", 
+      "Spinal degeneration and paralysis of lower limbs", 
+      "Sleep", 
+      "Restless; anxious and confused dreams", 
+      "Sleepy in morning"
+    ]
+  }, 
+  "details": "A very general condition corresponding to this drug is DRYNESS of mucous membranes and skin, and TENDENCY TO PARETIC MUSCULAR STATES. Old people, with lack of vital heat, or prematurely old, with debility. Sluggish functions, heaviness, numbness, and staggering, and the characteristic constipation find an excellent remedy in Alumina. Disposition to colds in the head, and eructations in spare, dry, thin subjects. Delicate children, products of artificial baby foods.", 
+  "Natural History": [
+    "Oxide of Aluminum - Argilla"
+  ], 
+  "dosage": "Sixth to thirtieth and higher. Action slow in developing."
+}

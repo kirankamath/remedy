@@ -1,0 +1,33 @@
+{
+  "Natural History": [
+    "(Golden Sulfuret of Antimony"
+  ], 
+  "details": "A remarkable remedy for many forms of chronic nasal and bronchial catarrh. Acne. Amaurosis.", 
+  "symptoms": {
+    "Respiratory": [
+      "Tickling in larynx", 
+      "INCREASED MUCUS with fullness in bronchi", 
+      "Respiration difficult, pressure in bronchi, with constriction", 
+      "Tough mucus in bronchi and larynx", 
+      "Dry hard cough", 
+      "Congestion of upper lobe of left lung", 
+      "Winter coughs, patient is sore all over", 
+      "Pneumonia, when hepatization occurred and resolution failed to take place"
+    ], 
+    "Nose": [
+      "NOSEBLEED ON WASHING", 
+      "Increased secretion in nose and throat", 
+      "Loss of smell"
+    ], 
+    "Skin": [
+      "Acne", 
+      "Itching on hands and feet"
+    ], 
+    "Throat": [
+      "Rough and scrappy feeling", 
+      "Metallic styptic taste"
+    ]
+  }, 
+  "name": "Antimonium sulphuratum auratum", 
+  "dosage": "Second or third trituration."
+}

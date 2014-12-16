@@ -1,0 +1,40 @@
+{
+  "Natural History": [
+    "Plant-lice from Chenopodium"
+  ], 
+  "symptoms": {
+    "Head": [
+      "Sad; aching, worse from motion", 
+      "Brain seems swished hither and thither", 
+      "Coryza, with burning or biting in nostrils", 
+      "Noise in ears, as of cannon", 
+      "Yellow face", 
+      "Orbital right neuralgia, with profuse lachrymation", 
+      "TOOTHACHE, RELIEVED BY GENERAL WARM SWEAT  Toothache extends to ear, temple, and cheek-bone"
+    ], 
+    "Fever": [
+      "Shuddering all over; burning in palms; hot sweat in bed", 
+      "RelationshipCompare: Nat-sulph", 
+      "; Nux"
+    ], 
+    "Stomach": [
+      "No appetite for meat and bread", 
+      "Vesicles at end of tongue", 
+      "Much mucus", 
+      "Colic with much rumbling and ineffectual urging to stool", 
+      "Stools", 
+      "Hard and knotty", 
+      "Diarrhoea in morning, with painful urging and burning in anus, and pressure in rectum and bladder", 
+      "Urinary Organs", 
+      "Voluptuous feeling in glans", 
+      "Burning in urethra", 
+      "Urination frequent, copious, frothy"
+    ], 
+    "Back": [
+      "Severe pains in region of LOWER INNER ANGLE OF LEFT SHOULDER-BLADE, running into chest"
+    ], 
+    "dosage": ""
+  }, 
+  "name": "Chenopodi glauci aphis", 
+  "details": "Partakes largely of the properties of the plant upon which the insect lives."
+}

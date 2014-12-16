@@ -1,0 +1,88 @@
+{
+  "name": "Strychninum", 
+  "Relationship": "Compare: EUCALYPTUS (neutralizes ill effects of STRYCHNINE). STRYCHN. ARS. (Paresis in the aged, relaxed musculature. Prostration. Psoriasis; chronic diarrhoea with paralytic symptoms; compensatory hypertrophy of heart with beginning fatty degeneration; marked dyspnoea when lying down; oedema of lower extremities, urine scanty, high specific gravity, heavily loaded with glucose. Diabetes. 6X trit.). STRYCHN. ET. FERR. CIT. (chlorotic and paralytic conditions; dyspepsia, with vomiting of ingesta; 2x and 3X trit.); STRYCHNINE NIT. (2x and 3X. Said to remove craving for alcohol. Use for two weeks); STRYCHNINE. SULPH. (Gastric atony); STRYCHN. VALERIN. (exhaustion of brain-power; women of high nervous erethism; 2x trit.). Compare: CICUTA; ARNICA (tetanus).", 
+  "symptoms": {
+    "Rectum": [
+      "Feces discharged involuntarily during spasms", 
+      "Very obstinate constipation"
+    ], 
+    "Eyes": [
+      "Hot, painful, protruding, staring", 
+      "Pupils dilated", 
+      "Sparks before eyes", 
+      "Spasmodic contraction of ocular muscles; twitching and trembling of lids"
+    ], 
+    "Fever": [
+      "Cold chills down spine", 
+      "Perspiration in a stream down head and chest", 
+      "Lower extremities cold"
+    ], 
+    "Stomach": [
+      "Constant retching", 
+      "Violent vomiting", 
+      "Nausea of pregnancy"
+    ], 
+    "Female": [
+      "Desire for coitus", 
+      "Any touch on body excites a voluptuous sensation"
+    ], 
+    "Modalities": [
+      "Worse: morning; touch; noise; motion; after meals", 
+      "Better: lying on back"
+    ], 
+    "Back": [
+      "RIGIDITY OF CERVICAL MUSCLES", 
+      "Sharp pain in nape and down spine", 
+      "BACK STIFF; violent jerks in spinal column", 
+      "ICY SENSATION DOWN SPINE"
+    ], 
+    "Face": [
+      "Pale, anxious, livid", 
+      "Jaws stiffened; lower jaw spasmodically closed"
+    ], 
+    "Respiratory": [
+      "SPASM OF MUSCLES about larynx", 
+      "Excessive dyspnoea", 
+      "Sharp, contractive pains in muscles of chest", 
+      "Persistent cough, recurring after influenza"
+    ], 
+    "Head": [
+      "Restless", 
+      "OVER-IRRITABILITY", 
+      "Full and bursting headache, with heat in eyes", 
+      "Vertigo, with roaring in ears", 
+      "Jerking of head forwards", 
+      "Scalp sore", 
+      "Itching of scalp and nape"
+    ], 
+    "Skin": [
+      "Itching of whole body, especially nose", 
+      "Icy sensation down the spine"
+    ], 
+    "Throat": [
+      "Dry, contracted; feeling of a lump", 
+      "Deglutition impossible", 
+      "Burning along and spasms of oesophagus", 
+      "Violent itching in roof of mouth"
+    ], 
+    "Abdomen": [
+      "Sharp pain in abdominal muscles, griping pain in bowels"
+    ], 
+    "Extremities": [
+      "Limbs stiff", 
+      "Rheumatism with stiff joints", 
+      "VIOLENT JERKING, TWITCHING, AND TREMBLING", 
+      "Tetanic convulsions and opisthotonos; spasms provoked by slightest touch and attempt to move", 
+      "Shocks in the muscles", 
+      "CRAMP-LIKE PAINS"
+    ], 
+    "Ears": [
+      "Hearing very acute; burning, itching, and roaring in ears"
+    ]
+  }, 
+  "details": "Its primary function is to stimulate the motor centers and the reflex action of the spinal cord. Homeopathic to spasms of muscles, cramps from an undue reflex excitability of the cord, spasms of the bladder, etc. Strychnine stimulates the central nervous system, mental activities, special senses rendered more acute. Respiration increased. All reflexes are made more active. Stiffness in muscles and face and neck. Opisthotonos. Tetanic convulsions with opisthotonos. The muscles relax between paroxysms; worse slightest touch, sound, odor. Influences more directly the spinal cord and is less appropriate in visceral derangements than Nux. TETANUS. Explosive nervousness. The pains and sensations come SUDDENLY and return at INTERVALS.Gastric atony; STRYCHN. VALERIN. Exhaustion of brain-power; women of high nervous erethism; 2x trit.", 
+  "Natural History": [
+    "Alkaloid of Nux Vomica"
+  ], 
+  "dosage": "Third to thirtieth potency. For non-homeopathic use, to produce its direct physiological effects in paralysis the dose will range from one-fiftieth to one-twentieth of a grain, repeated three times a day. Under twelve years of age, one-fiftieth to one-hundredth of a grain. STRYCHN., hypodermically, is capable of arresting progressive muscular atrophy, and is a certain stimulant to the respiratory centers, and is useful in embarrassed breathing, in the course of pneumonia especially. Is an antidote to Chloral, used in asphyxia from gas and chloroform and early stages of Opium"
+}

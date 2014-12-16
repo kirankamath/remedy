@@ -1,0 +1,82 @@
+{
+  "name": "Oxalicum acidum", 
+  "Relationship": "Compare: ARS.; COLCH.; ARG.; PIC-AC.; CICER ARIETINUM - Chick-pea - (Lithiasis, jaundice, liver affections; diuretic). SCOLOPENDRA - Centipede - (terrible pains in back and loins, extending down limbs; return periodically, commencing in head, to toes. Angina pectoris. Inflammation, pain and gangrene. Pustules and abscesses). CAESIUM - (Pain in lumbar region and testicle. Headache, darting through temples. Diarrhoea and colic. Languor.)LIME WATER - Antidote to poisoning of Oxal. acid.", 
+  "symptoms": {
+    "Heart": [
+      "Palpitation and dyspnoea in organic heart disease; WORSE, when thinking of it", 
+      "Pulse feeble", 
+      "Heart symptoms alternate with aphonia, ANGINA PECTORIS; SHARP, LANCINATING PAIN IN LEFT LUNG COMING ON SUDDENLY, DEPRIVING OF BREATH", 
+      "Precordial pains which dart to the left shoulder", 
+      "Aortic insufficiency"
+    ], 
+    "Eyes": [
+      "Severe pain in eyes; feel expanded", 
+      "HYPERAESTHESIA OF RETINA"
+    ], 
+    "Respiratory": [
+      "Nervous aphonia with cardiac derangement", 
+      "Burning sensation from throat down", 
+      "Breathing spasmodic, with constriction of larynx and chest", 
+      "HOARSENESS", 
+      "LEFT LUNG PAINFUL", 
+      "APHONIA", 
+      "Paralysis of the tensors of vocal cord", 
+      "DYSPNOEA; SHORT, JERKING INSPIRATIONS", 
+      "Sharp pain through lower region of left lung, extending down to epigastrium"
+    ], 
+    "Stomach": [
+      "Violent pain in epigastrium discharge of flatus relieves", 
+      "Gastralgia, pyrosis, sensation of coldness below epigastrium", 
+      "Burning pain, extending upwards; slightest touch causes excruciating pain", 
+      "Bitter and sour eructation, worse at night", 
+      "Cannot eat strawberries"
+    ], 
+    "Modalities": [
+      "Worse: LEFT side; slightest touch; light; shaving"
+    ], 
+    "Abdomen": [
+      "Pain in upper part and region of navel two hours after eating, with much flatulence", 
+      "Stitches in liver", 
+      "Colic", 
+      "Burning in small spots in abdomen", 
+      "Diarrhoea from coffee"
+    ], 
+    "Head": [
+      "Sense of heat", 
+      "Confusion and vertigo", 
+      "Headache, before and during stool"
+    ], 
+    "Skin": [
+      "Sensitive, smarting and soreness, worse shaving; mottled, marbled in circular patches", 
+      "Perspires easily"
+    ], 
+    "Extremities": [
+      "Numb, weak, tingling", 
+      "Pains start from spine and extend through extremities", 
+      "Drawing and LANCINATING PAINS shooting down extremities", 
+      "BACKACHE; numb, weak", 
+      "Myelitis", 
+      "Muscular prostration", 
+      "Wrist painful, as if sprained", 
+      "Lower extremities blue, cold, insensible", 
+      "Sensation of numbness", 
+      "Multiple cerebral and posterior spinal sclerosis", 
+      "Lancinating pains in various parts; jerking pains"
+    ], 
+    "Male": [
+      "TERRIBLE NEURALGIC PAINS IN SPERMATIC CORD", 
+      "Testicles feel contused and heavy", 
+      "Seminal vesiculitis", 
+      "Urinary Organs", 
+      "Frequent and copious", 
+      "Burning in urethra and pain in glans when urinating", 
+      "Must urinate when thinking of it", 
+      "Urine contains oxalates"
+    ]
+  }, 
+  "details": "Although certain oxalates are constant constituents of vegetable food and of the human body, the acid itself is a violent poison when taken internally, producing gastroenteritis, motor paralysis, collapse, stupor and death.Influences the spinal cord, and produces motor paralysis. Pains very violent, IN SPOTS (KALI. BICH.) WORSE, motion, and THINKING OF THEM. PERIODICAL REMISSIONS. Spasmodic symptoms of throat and chest. RHEUMATISM OF LEFT SIDE. NEURASTHENIA. Tuberculosis.", 
+  "Natural History": [
+    "Sorrel Acid"
+  ], 
+  "dosage": "Sixth to thirtieth potency."
+}

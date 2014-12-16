@@ -1,0 +1,26 @@
+{
+  "symptoms": {
+    "Stomach": [
+      "ICY COLDNESS in stomach"
+    ], 
+    "Natural History": [], 
+    "Extremities": [
+      "Violent pain in wrist", 
+      "Paralysis of wrists", 
+      "SPRAINED SENSATION IN WRIST", 
+      "Great weakness of hands and fingers", 
+      "Weakness in joints of feet, knee, and soles", 
+      "CHOREA", 
+      "Much weakness after growing too fast"
+    ], 
+    "Male": [
+      "Sexual desire increased", 
+      "Prostatitis", 
+      "Drawing pain in testicles"
+    ]
+  }, 
+  "details": "The old famous Aphrodisiacum of the Greek authors.", 
+  "name": "Hippomanes", 
+  "Relationship": "Compare: CAUSTIC.", 
+  "dosage": "Sixth to thirtieth potency."
+}

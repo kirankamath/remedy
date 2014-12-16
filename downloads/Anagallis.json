@@ -1,0 +1,31 @@
+{
+  "name": "Anagallis", 
+  "Relationship": "Anagallis contains Saponin, q.v.Compare: Cyclamen; Primula obcon.", 
+  "symptoms": {
+    "Head": [
+      "Great hilarity; headache over supraorbital ridges, with rumbling in bowels and eructations; better from coffee", 
+      "Sick headache", 
+      "Pain in facial muscles"
+    ], 
+    "Skin": [
+      "ITCHING; dry, bran-like eruption, especially ON HANDS AND FINGERS", 
+      "Palms especially affected", 
+      "Vesicles in groups", 
+      "Ulcers and swellings on joints"
+    ], 
+    "Extremities": [
+      "Rheumatic and gouty pains", 
+      "Pain in shoulder and arm", 
+      "Cramp in ball of thumbs and fingers", 
+      "Urine Section", 
+      "More or less irritation in urethra, inclining to coition", 
+      "Burning pain on urinating, with agglutination of orifice", 
+      "Urine passes in several streams; must press before it passes"
+    ]
+  }, 
+  "details": "Marked action on skin, characterized by great itching and tingling everywhere. Favors expulsion of splinters. An old medicine for hydrophobia and dropsy. Possesses power of softening flesh and destroying warts.", 
+  "Natural History": [
+    "Scarlet Pimpernel"
+  ], 
+  "dosage": "First to third potency."
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Stramonium", 
+  "Relationship": "Compare especially: HYOSCY. and BELL. It has less fever than BELL., but more than HYOS. It causes more functional excitement of the brain, but never approaches the true inflammatory condition of BELL.Antidotes: BELL.; TABAC.; NUX.", 
+  "symptoms": {
+    "Eyes": [
+      "Seem prominent, STARING WIDE OPEN; pupils dilated", 
+      "Loss of vision; complains that it is dark, AND CALLS FOR LIGHT", 
+      "SMALL OBJECTS LOOK LARGE", 
+      "Parts of the body seem enormously swollen", 
+      "Strabismus", 
+      "All objects look black"
+    ], 
+    "Fever": [
+      "Profuse sweat, which does not relieve", 
+      "Violent fever"
+    ], 
+    "Stomach": [
+      "Food tastes like straw", 
+      "Violent thirst", 
+      "Vomiting of mucus and GREEN bile", 
+      "Urine Section", 
+      "SUPPRESSION, bladder empty"
+    ], 
+    "Modalities": [
+      "Worse: in dark room", 
+      "Worse: when alone", 
+      "Worse: looking at bright or shining objects", 
+      "Worse: after sleep", 
+      "Worse: on swallowing", 
+      "Better: from bright light", 
+      "Better: company", 
+      "Better: warmth"
+    ], 
+    "Mind": [
+      "DEVOUT, EARNEST, BESEECHING AND CEASELESS TALKING", 
+      "Loquacious, garrulous, laughing, singing, swearing, praying, rhyming", 
+      "Sees ghosts, hears voices, talks with spirits", 
+      "Rapid changes from joy to sadness", 
+      "Violent and lewd", 
+      "Delusions about his identity; thinks himself tall, double, a part missing", 
+      "Religious mania", 
+      "Cannot bear solitude or darkness; MUST HAVE LIGHT AND COMPANY", 
+      "Sight of water or anything glittering brings on spasms", 
+      "Delirium, with desire to escape"
+    ], 
+    "Head": [
+      "RAISES HEAD FREQUENTLY FROM THE PILLOW", 
+      "Pain in forehead and over eyebrows, beginning at nine AM; worse until noon", 
+      "Boring pain, preceded by obscure vision", 
+      "Rush of blood to head; staggers, with tendency to fall forward and to the left", 
+      "Auditory hallucinations"
+    ], 
+    "Face": [
+      "Hot, red; circumscribed redness of cheeks", 
+      "Blood rushes to face; distorted", 
+      "EXPRESSION OF TERROR", 
+      "Pale face"
+    ], 
+    "Mouth": [
+      "Dry; dribbling of viscid saliva", 
+      "Aversion to water", 
+      "STAMMERING", 
+      "Risus sardonicus", 
+      "Cannot swallow on account of spasm", 
+      "Chewing motion"
+    ], 
+    "Female": [
+      "METRORRHAGIA, with LOQUACITY, SINGING, praying", 
+      "Puerperal mania, with characteristic mental symptoms and profuse sweatings", 
+      "Convulsions after labor", 
+      "Sleep", 
+      "Awakens terrified; screams with fright", 
+      "Deep snoring sleep", 
+      "Sleepy, but cannot sleep"
+    ], 
+    "Skin": [
+      "Shining red flash", 
+      "EFFECTS OF SUPPRESSED ERUPTION IN SCARLATINA, with delirium, etc"
+    ], 
+    "Extremities": [
+      "GRACEFUL, RHYTHMIC MOTIONS", 
+      "Convulsions of upper extremities and of isolated groups of muscles", 
+      "CHOREA; spasms partial, constantly changing", 
+      "VIOLENT PAIN IN LEFT HIP", 
+      "Trembling, twitching of tendons, staggering gait"
+    ], 
+    "Male": [
+      "SEXUAL ERETHISM, with indecent speech and action", 
+      "Hands constantly kept on genitals"
+    ]
+  }, 
+  "details": "The entire force of this drug seems to be expended on the brain, though the skin and throat show some disturbance. Suppressed secretions and excretions. Sensation as if limbs were separated from body. Delirium tremens. Absence of pain and muscular mobility especially of muscles of expression and of locomotion. Gyratory and graceful motions. Parkinsonism.", 
+  "Natural History": [
+    "Thorn-apple"
+  ], 
+  "dosage": "Thirtieth potency and lower."
+}

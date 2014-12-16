@@ -1,0 +1,32 @@
+{
+  "name": "Haematoxylon", 
+  "Relationship": "Compare: CACTUS; COLOCY.; NAJA.", 
+  "symptoms": {
+    "Head": [
+      "Feels constricted; heavy, hot", 
+      "Eyelids heavy"
+    ], 
+    "Stomach": [
+      "Painful digging from abdomen to throat, causing pain in region of heart with oppression", 
+      "Colic, tympanitis", 
+      "Borborygmi and diarrhoea", 
+      "Swollen, painful"
+    ], 
+    "Chest": [
+      "Constriction, extending to epigastrium", 
+      "Sensation of a bar across chest", 
+      "Convulsive pain in heart region with oppression", 
+      "Great soreness in region of heart", 
+      "Palpitation"
+    ], 
+    "Female": [
+      "Pain in hypogastrium, attended with slimy, whitish leucorrhoea", 
+      "WEAK FEELING, WITH PAINFUL BEARING DOWN SENSATION AT MENSTRUAL PERIOD"
+    ]
+  }, 
+  "details": "Sense of constriction is characteristic. SENSATION AS IF A BAR LAY ACROSS CHEST. Angina pectoris.", 
+  "Natural History": [
+    "Log wood"
+  ], 
+  "dosage": "Third potency."
+}

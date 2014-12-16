@@ -1,0 +1,31 @@
+{
+  "name": "Lemna minor", 
+  "Relationship": "Compare: DULC. (damp surroundings and foggy weather). CALC.; TEUCR.; CALEN.; NAT-SULPH.", 
+  "symptoms": {
+    "Modalities": [
+      "Worse: in damp", 
+      "Worse: rainy weather", 
+      "Worse: especially HEAVY RAINS"
+    ], 
+    "Abdomen": [
+      "Disposition to noisy diarrhoea"
+    ], 
+    "Mouth": [
+      "PUTRID TASTE on rising in the morning", 
+      "Dry pharynx and larynx"
+    ], 
+    "Nose": [
+      "PUTRID SMELL; loss of smell", 
+      "Crusts and mucopurulent discharge very abundant", 
+      "Post-nasal dropping", 
+      "Pain like a string from nostrils to ear", 
+      "Reduces nasal obstruction when it is an edematous condition", 
+      "Dryness of nasopharynx"
+    ]
+  }, 
+  "details": "A catarrhal remedy. Acts especially upon the nostrils. NASAL POLYPI; SWOLLEN TURBINATES. ATROPHIC RHINITIS. Asthma from nasal obstruction; worse in wet weather.", 
+  "Natural History": [
+    "Duckweed"
+  ], 
+  "dosage": "Third to thirtieth potency."
+}

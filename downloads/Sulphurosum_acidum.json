@@ -1,0 +1,33 @@
+{
+  "Natural History": [
+    "Sulphurous Acid, H2SO3"
+  ], 
+  "details": "SULPHUROUS ACID, (tonsillitis (as a spray), acne rosacea, ULCERATIVE STOMATITIS, pityriasis versicolor).", 
+  "symptoms": {
+    "Head": [
+      "Anxious, furious, disposed to fight", 
+      "Headache better by vomiting", 
+      "Ringing in ears"
+    ], 
+    "Respiratory": [
+      "Persistent choking cough with copious expectoration", 
+      "Hoarseness, constriction of chest", 
+      "Difficult breathing"
+    ], 
+    "Stomach": [
+      "Loss of appetite", 
+      "Obstinate constipation"
+    ], 
+    "Mouth": [
+      "Ulcerative inflammation of mouth", 
+      "Tongue red or bluish-red", 
+      "Coated"
+    ], 
+    "Female": [
+      "Fluor albus", 
+      "Debility"
+    ]
+  }, 
+  "name": "Sulphurosum acidum", 
+  "dosage": "As a spray in tonsillitis. According to Ringer, ten to fifteen minims taken ten minutes before each meal will remedy pyrosis and prevent fermentation and flatulence. It also removes thrus. Homeopathically, third attenuation."
+}

@@ -1,0 +1,58 @@
+{
+  "Natural History": [
+    "Ginger"
+  ], 
+  "symptoms": {
+    "Head": [
+      "Hemicrania; sudden glimmering before eyes; feels confused and empty", 
+      "Pain over eyebrows"
+    ], 
+    "Respiratory": [
+      "Hoarseness", 
+      "SMARTING BELOW LARYNX; breathing difficult", 
+      "ASTHMA, without anxiety, WORSE toward morning", 
+      "Scratching sensation in throat; stitches in chest", 
+      "Cough dry, hacking; copious morning sputa"
+    ], 
+    "Stomach": [
+      "Taste of food remains long, especially of bread and toast", 
+      "Feels heavy, like from a stone", 
+      "COMPLAINTS FROM EATING MELONS AND DRINKING IMPURE WATER", 
+      "ACIDITY", 
+      "Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness", 
+      "Pain from pit to under sternum, worse eating"
+    ], 
+    "Abdomen": [
+      "Colic, diarrhoea, extremely loose bowels", 
+      "Diarrhoea from drinking bad water, with much flatulence, cutting pain, relaxation of sphincter", 
+      "Hot, sore, painful anus during pregnancy", 
+      "Chronic intestinal catarrh", 
+      "Anus red and inflamed", 
+      "Hemorrhoids hot, painful, sore", 
+      "Urinary Organs", 
+      "Frequent desire to urinate", 
+      "Stinging, burning in orifice", 
+      "Yellow discharge from urethra", 
+      "Urine thick, turbid, of strong odor, suppressed", 
+      "Complete suppression after typhoid", 
+      "After urinating, continues to ooze in drops"
+    ], 
+    "Nose": [
+      "Feels obstructed and dry", 
+      "Intolerable itching; red pimples"
+    ], 
+    "Extremities": [
+      "Very weak in all joints", 
+      "Back lame", 
+      "Cramps in soles and palms"
+    ], 
+    "Male": [
+      "Itching of prepuce", 
+      "Sexual desire excited; painful erections", 
+      "Emissions"
+    ]
+  }, 
+  "name": "Zingiber", 
+  "Relationship": "Compare: CALAD.", 
+  "details": "States of debility in the digestive tract, and sexual system and respiratory troubles, call for this remedy. Complete cessation of function of kidneys."
+}

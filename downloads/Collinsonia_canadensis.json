@@ -1,0 +1,52 @@
+{
+  "name": "Collinsonia canadensis", 
+  "Relationship": "Antidote: NUX.Compare: AeSCUL.; ALOES; HAMA.; LYCOPUS; NEGUNDO; SULPH.; NUX.", 
+  "symptoms": {
+    "Heart": [
+      "Palpitation; rapid but weak", 
+      "Dropsy After heart symptoms relieved, piles or menses return", 
+      "Chest-pains alternate with hemorrhoids", 
+      "Oppression, faintness, and dyspnoea"
+    ], 
+    "Head": [
+      "Dull frontal headache; from suppressed hemorrhoids", 
+      "Chronic catarrh", 
+      "Yellow-coated tongue", 
+      "Bitter taste"
+    ], 
+    "Respiratory": [
+      "COUGH FROM EXCESSIVE USE OF VOICE; \"minister's sore throat;\" sharp pain in larynx", 
+      "Hoarseness", 
+      "Harassing, dry cough"
+    ], 
+    "Modalities": [
+      "Worse: from the slightest mental emotion or excitement; cold", 
+      "Better: heat"
+    ], 
+    "Female": [
+      "Dysmenorrhoea; PRURITUS OF VULVA; prolapse of womb; swelling and dark redness of genitals; pain on sitting down", 
+      "Membranous dysmenorrhoea, with constipation", 
+      "Pruritis", 
+      "Cold feeling in thighs after menstruation", 
+      "Sensation of swelling of labia and of clitoris"
+    ], 
+    "Rectum": [
+      "SENSATION OF SHARP STICKS IN RECTUM", 
+      "SENSE OF CONSTRICTION", 
+      "Vascular engorgement of rectum", 
+      "Dry faeces", 
+      "MOST OBSTINATE CONSTIPATION, with protruding hemorrhoids", 
+      "Aching in anus and hypogastrium", 
+      "Constipation during pregnancy; with membranous dysmenorrhoea, following labor", 
+      "Painful bleeding piles", 
+      "Dysentery, with tenesmus", 
+      "ALTERNATE CONSTIPATION AND DIARRHOEA, and great flatulence", 
+      "ITCHING OF ANUS"
+    ]
+  }, 
+  "details": "Pelvic and portal congestion, resulting hemorrhoids and constipation, especially in females. Depressed arterial tension, general atony of muscular fiber. CHRONIC NASAL, GASTRIC, AND PHARYNGEAL CATARRH, due to portal obstruction. Dropsy from cardiac disease. Pruritus in pregnancy, with piles. CONSTIPATION OF CHILDREN FROM INTESTINAL ATONY. Said to be of special value when given before operations, for rectal diseases. Sense of weight and constriction. Venous engorgement.", 
+  "Natural History": [
+    "Stone-Root"
+  ], 
+  "dosage": "Tincture, to third attenuation. Higher potencies where there is organic heart affection."
+}

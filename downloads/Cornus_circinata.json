@@ -1,0 +1,23 @@
+{
+  "name": "Cornus circinata", 
+  "Relationship": "Compare: CORNUS ALTERNIFOLIA - Swamp Walnut - (Weak and tired; disturbed sleep, fever, restlessness, eczema; SKIN CRACKED; chest feels cold, as if full of ice); CORNUS FLORIDA (chronic malaria; indigestion and distressing acid heartburn; general debility from loss of fluids and night sweats; neuralgic pains in arms, chest, and trunk, and sensation as if broken in two; intermittent fever, WITH DROWSINESS; feels cold, but is warm to touch; great exhaustion in intervals; general clammy sweat. Chill is preceded by drowsiness; heat is associated with drowsiness. Headache after quinine.)", 
+  "symptoms": {
+    "Stool": [
+      "Loose, windy, dark stool, immediately after dinner", 
+      "Burning in anus", 
+      "Dark, bilious, offensive diarrhoea, with sallow complexion"
+    ], 
+    "Mouth": [
+      "Ulceration of tongue, gums and mouth; aphthae", 
+      "Burning in mouth, throat and stomach"
+    ], 
+    "Skin": [
+      "Vesicular eczema of face in infants, with nursing sore mouth"
+    ]
+  }, 
+  "details": "Chronic malaria, hepatitis, jaundice. Weakness in morning. Pain in pit of stomach, with distended abdomen. Vesicular eruption associated with chronic liver disease or aphthous stomatitis.", 
+  "Natural History": [
+    "Round-leaved Dogwood"
+  ], 
+  "dosage": "Tincture to sixth attenuation."
+}

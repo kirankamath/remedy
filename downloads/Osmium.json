@@ -1,0 +1,42 @@
+{
+  "name": "Osmium", 
+  "Relationship": "Compare: ARGENT.; IRIDIUM; SELEN.; MANGAN.", 
+  "symptoms": {
+    "Eyes": [
+      "GLAUCOMA; with iridescent vision", 
+      "Violent supra and infra-orbital neuralgia; violent pains and lachrymation", 
+      "GREEN COLORS SURROUND CANDLE-LIGHT", 
+      "Conjunctivitis", 
+      "Increase in intraocular tension, dim sight, photophobia"
+    ], 
+    "Respiratory": [
+      "Acute laryngitis; cough and expectoration of tough, stringy mucus", 
+      "Convulsive cough; feels as though membrane were torn from larynx", 
+      "Noisy, DRY, HARD, COUGH, in violent short bursts, coming from low down, shaking the whole body", 
+      "Talking causes pain in larynx", 
+      "Hoarse; PAIN IN LARYNX; sore sternum", 
+      "Twitching of fingers, with spasmodic cough"
+    ], 
+    "Head": [
+      "Feels as if a band around head", 
+      "Falling off of hair"
+    ], 
+    "Nose": [
+      "Coryza, with full feeling in nose", 
+      "Nose and larynx sensitive to air", 
+      "Small lumps of phlegm from posterior nares"
+    ], 
+    "Skin": [
+      "Eczema, with pruritus", 
+      "Irritated skin", 
+      "Itching pimples", 
+      "Bromidrosis, sweat in axilla smelling of garlic, worse evening and night", 
+      "Fold remains attached to growing nail"
+    ]
+  }, 
+  "details": "Irritation and catarrh of respiratory organs. Eczema. Albuminuria. PAIN IN TRACHEA. Increases and gives odor to local perspiration. Causes ADHESION OF THE NAIL FOLD.", 
+  "Natural History": [
+    "The Element"
+  ], 
+  "dosage": "Sixth potency."
+}

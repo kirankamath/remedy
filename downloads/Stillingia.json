@@ -1,0 +1,41 @@
+{
+  "name": "Stillingia", 
+  "Relationship": "Compare: STAPHIS.; MERC.; SYPHIL.; AUR.; CORYDALIS (syphilitic nodes).", 
+  "symptoms": {
+    "Respiratory": [
+      "Dry, spasmodic cough", 
+      "Larynx constricted, with stinging in fauces", 
+      "Trachea feels sore when pressed", 
+      "HOARSENESS and chronic laryngeal affections of public speakers", 
+      "Urinary Organs", 
+      "Urine colorless", 
+      "DEPOSITS WHITE SEDIMENT; urine milky and thick"
+    ], 
+    "Modalities": [
+      "Worse: in afternoon", 
+      "Worse: damp air", 
+      "Worse: motion", 
+      "Better: in morning", 
+      "Better: dry air"
+    ], 
+    "Mind": [
+      "GLOOMY FOREBODINGS; depressed"
+    ], 
+    "Skin": [
+      "Ulcers; chronic eruptions on hands and fingers", 
+      "ENLARGED CERVICAL GLANDS", 
+      "Burning, itching of legs; worse, exposure to air", 
+      "Exostosis", 
+      "Scrofuloderma; syphilis, secondary eruption and later stitches", 
+      "Valuable for intercurrent use"
+    ], 
+    "Extremities": [
+      "Aching pains in BONES of extremities and back"
+    ]
+  }, 
+  "details": "Chronic periosteal rheumatism, syphilitic and scrofulous affections. Respiratory symptoms well marked. Torpor of lymphatics; torpid liver, with jaundice and constipation.", 
+  "Natural History": [
+    "Queen's Root"
+  ], 
+  "dosage": "Tincture and first potency."
+}

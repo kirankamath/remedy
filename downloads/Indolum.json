@@ -1,0 +1,28 @@
+{
+  "symptoms": {
+    "Head": [
+      "Dull occipital and frontal headache in afternoon", 
+      "Dull sensation over eyes", 
+      "Eyeballs hot and hurt when moved", 
+      "Pupils dilated with headache"
+    ], 
+    "Stomach": [
+      "Bloated feeling", 
+      "Hungry sensation after full meal", 
+      "Great thirst", 
+      "Constipation"
+    ], 
+    "Natural History": [], 
+    "Extremities": [
+      "Very tired and sore in lower limbs", 
+      "Feet burn", 
+      "Knee-joints sore", 
+      "Sleep", 
+      "SLEEPINESS", 
+      "Continuous dreaming"
+    ]
+  }, 
+  "details": "Primary action is to increase the elimination of Indican. Auto-intoxication. Compare: SKATOL.Persistent desire to sleep, dull, discontented mental state, hideous delusions and nervousness, constant motion of fingers and feet. Intestinal putrefaction.", 
+  "name": "Indolum", 
+  "dosage": "Sixth attenuation."
+}

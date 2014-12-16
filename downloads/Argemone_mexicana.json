@@ -1,0 +1,33 @@
+{
+  "Natural History": [
+    "Prickly Poppy"
+  ], 
+  "details": "Colicky cramp and spasm of bowels. Painful neuromuscular conditions, preventing sleep. Rheumatic disease associated with Bright's disease. (D. MacFarlan.)", 
+  "symptoms": {
+    "Head": [
+      "Throbbing headache in eyes and temples", 
+      "Head hot", 
+      "Throat very dry, pain on swallowing"
+    ], 
+    "Stomach": [
+      "Feels sick, like vomiting", 
+      "Griping in pit of stomach", 
+      "No appetite", 
+      "Belching and passing gas", 
+      "Urinary Organs", 
+      "Passes less urine", 
+      "Changing color"
+    ], 
+    "Modalities": [], 
+    "Female": [
+      "Menses suppressed", 
+      "Diminished sexual desire with weakness"
+    ], 
+    "Extremities": [
+      "Left knee stiff and painful", 
+      "Feet swollen"
+    ]
+  }, 
+  "name": "Argemone mexicana", 
+  "dosage": "Sixth potency. Fresh juice is applied to ulcers and warts."
+}

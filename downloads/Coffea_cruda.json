@@ -1,0 +1,69 @@
+{
+  "name": "Coffea cruda", 
+  "Relationship": "Incompatible: CAMPH.; COCCUL. Complementary: ACON.Compare: COFFEA TOSTA. (Roasting develops certain vitamin-like substances (P. T. Matte). Pigeons which have developed \"deficiency\" neuritis and paralysis on diet of polished rice lost their disabilities on the addition of 8 cc to a 5% infusion of coffee to their food. Non-roasted coffee was useless.) CAFFEINE. - (A crystalline alkaloid - is a direct heart stimulant and diuretic. Dropsy depending on cardiac insufficiency. Myocardial degeneration. Cardiac insufficiency in pneumonia and other infectious diseases. Raises the blood pressure, increases pulse rate and stimulates the heart muscle; hence, a support in extreme feebleness or threatened failure. Stimulates the respiratory center, nerve centers and INCREASES DIURESIS. One of the best stimulants of the vasomotor centers. Acute pulmonary edema. Brachialgia and other neuralgias characterized by NOCTURNAL EXACERBATIONS. Jousset uses equal parts of caffeine and sachar. lac. 3 grains taken in divided doses every other day. Hypodermically, 1/4 grain. Excruciating facial neuralgia from decayed teeth; ACON.; CHAM.; NUX; CYP.; CAFFEINE and plants containing it, as KOLA, THEA, etc.Strong black coffee, drunk as hot as possible, is indispensable as an antidote in a large number of poisons, especially narcotics. Hot coffee by rectum in cases of extreme collapse.Antidotes: Nux.; Tab ac.", 
+  "symptoms": {
+    "Heart": [
+      "Violent irregular palpitation especially after excessive joy or surprise", 
+      "Rapid high tension pulse and urinary suppression"
+    ], 
+    "Head": [
+      "Tight pain, worse from noise, smell, narcotics", 
+      "Seems as if brain were torn to pieces, AS IF NAIL WERE DRIVEN IN HEAD", 
+      "Worse in open air", 
+      "SENSITIVE HEARING"
+    ], 
+    "Respiratory": [
+      "Short, dry cough of measles in nervous, delicate children"
+    ], 
+    "Stomach": [
+      "Excessive hunger", 
+      "Intolerance of tight clothing", 
+      "After wine and liquor", 
+      "Female", 
+      "Menses too early and long lasting", 
+      "Dysmenorrhoea, large clots of black blood", 
+      "HYPERSENSITIVE VULVA AND VAGINA", 
+      "Voluptuous itching", 
+      "Sleep", 
+      "Wakeful; on a constant move", 
+      "Sleeps till three AM, after which only dozing", 
+      "Wakes with a start, sleep disturbed by dreams", 
+      "SLEEPLESS, ON ACCOUNT MENTAL ACTIVITY; flow of ideas, with nervous excitability", 
+      "Disturbed by itching of anus"
+    ], 
+    "Modalities": [
+      "Worse: excessive emotions", 
+      "Worse: narcotics", 
+      "Worse: strong odors", 
+      "Worse: noise", 
+      "Worse: open air", 
+      "Worse: cold", 
+      "Worse: night", 
+      "Better: warmth", 
+      "Better: from lying down; holding ice in mouth"
+    ], 
+    "Mind": [
+      "Gaiety, easy comprehension, irritability, excited; senses acute", 
+      "Impressionable, especially to pleasurable impressions", 
+      "Full of ideas, quick to act", 
+      "Tossing about in anguish"
+    ], 
+    "Face": [
+      "Dry heat, with red cheeks", 
+      "Prosopalgia extending to molar teeth, ears, forehead, and scalp"
+    ], 
+    "Mouth": [
+      "Toothache; temporarily relieved by holding ice-water in the mouth", 
+      "Hasty eating and drinking", 
+      "Delicate taste"
+    ], 
+    "Extremities": [
+      "Crural neuralgia; worse, motion, afternoon and night; better, by pressure"
+    ]
+  }, 
+  "details": "Stimulates the functional activity of all organs, increasing the nervous and vascular activity. The drinking of coffee by the aged is likely to increase production of uric acid, causing irritation of kidneys; muscle and joint pains, and with the increased susceptibility of old people to the stimulating action of coffee and tea, their use should be curtailed or carefully watched. Great nervous agitation and restlessness. Extreme sensitiveness characterizes this remedy. Neuralgia in various parts; always with great nervous excitability and INTOLERANCE OF PAIN, driving to despair. UNUSUAL ACTIVITY OF MIND AND BODY. Bad effects of sudden emotions, surprises, joy, etc. Nervous palpitation. Coffea is specially suited to tall, lean, stooping persons with dark complexions, temperament choleric and sanguine. Skin hypersensitive.", 
+  "Natural History": [
+    "Non-roasted Coffee"
+  ], 
+  "dosage": "Third to two hundredth potency."
+}

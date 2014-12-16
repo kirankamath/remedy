@@ -1,0 +1,32 @@
+{
+  "Natural History": [
+    "Nitrate of Sodium"
+  ], 
+  "details": "A Rademacherian remedy for INFLAMMATIONS. Hemoptysis. Hematuria. Purpura hemorrhagica. Hemorrhagic Variola. Drowsiness. Pains of tabes INFLUENZA. Hemorrhages from mucous membranes, particularly nasal. Hemoglobinuria. Uric acid diathesis. Asthma with urine supersaturated with solids. Anemia and hydraemia. Exhaustion, must rest frequently when walking.", 
+  "symptoms": {
+    "Heart": [
+      "Pain in region of heart", 
+      "Pulse slower and softer"
+    ], 
+    "Head": [
+      "Dull", 
+      "Indisposed to mental and bodily exertion", 
+      "Pressing inward pain", 
+      "Otalgia", 
+      "Inward pressing in malar bones", 
+      "NOSEBLEED"
+    ], 
+    "Stomach": [
+      "Sour risings", 
+      "Aversions to coffee", 
+      "Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation"
+    ], 
+    "Abdomen": [
+      "Abdominal muscles painfully contracted towards the spine", 
+      "Distended", 
+      "Difficult stool; feels as if more remained to pass"
+    ]
+  }, 
+  "name": "Natrum nitricum", 
+  "dosage": "Second trituration, also watery solution; 1 dram of salt to 8 oz. water. Dram doses."
+}

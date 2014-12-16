@@ -1,0 +1,28 @@
+{
+  "Natural History": [
+    "Yew"
+  ], 
+  "details": "In pustular diseases of skin and night-sweats. Also in gout and chronic rheumatism.", 
+  "symptoms": {
+    "Head": [
+      "Supraorbital and temporal pain on right side, with lachrymation", 
+      "Pupils dilated", 
+      "Face puffy and pale"
+    ], 
+    "Stomach": [
+      "SALIVA HOT, acrid", 
+      "Nausea", 
+      "Pain in pit of stomach and region of navel", 
+      "After eating, cough", 
+      "Feeling of pins and needles at pit of stomach, of EMPTINESS, must eat frequently"
+    ], 
+    "Skin": [
+      "Large, flat, itching pustules", 
+      "Badly smelling night-sweats", 
+      "Podagra", 
+      "Erysipelas"
+    ]
+  }, 
+  "name": "Taxus baccata", 
+  "dosage": "Tincture, to third potency."
+}

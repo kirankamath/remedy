@@ -1,0 +1,50 @@
+{
+  "Natural History": [
+    "Arsenite of Copper - Scheele's Green"
+  ], 
+  "details": "A remedy for symptoms depending on deficient kidney action, various intestinal affections, cholera morbus and infantum; enterocolitis, diarrhoea, and dysentery. Gastrointestinal disturbances of influenza and typhoid. URAEMIC CONVULSIONS, headache, vertigo and unconscious conditions resulting from brain oedema. Nephritis of pregnancy. Convulsions preceded by gastrointestinal symptoms. Chlorosis. Bronchial asthma and with emphysema. Purulent endocarditis (Royal). Painful neuroses, enteroptosis. Delirium and tremor cordis.", 
+  "symptoms": {
+    "Heart": [
+      "Cardiac rhythm and force altered due to defective elimination"
+    ], 
+    "Back": [
+      "Persistent lameness", 
+      "Pain in lumbar region and in lower left shoulder-blade; chest feels tight", 
+      "Urinary Organs", 
+      "Renal inefficiency and uraemia", 
+      "GARLICKY ODOR", 
+      "Diabetes", 
+      "Urine of high specific gravity; increased, acetones and diacetic acid"
+    ], 
+    "Abdomen": [
+      "Gastroenteritis", 
+      "Violent abdominal pain", 
+      "Diarrhoea in phthisis", 
+      "Cholera", 
+      "Rumbling and sharp cutting pain", 
+      "Dark liquid stools"
+    ], 
+    "Mouth": [
+      "Tongue thickly coated, dirty brown, white, metallic taste; thirst", 
+      "Dry mouth"
+    ], 
+    "Skin": [
+      "Icy cold", 
+      "Sweat, and skin even when dry", 
+      "Cold, clammy perspiration of an intermittent nature", 
+      "Acne, pustules on face and in the crura-genital region; ulcers look like chancre", 
+      "Gangrene; carbuncles"
+    ], 
+    "Extremities": [
+      "CRAMPS IN CALVES OF LEGS, worse after midnight, only relieved by getting out of bed and standing", 
+      "Ulcers; gangrene"
+    ], 
+    "Male": [
+      "Perspiration of scrotum; is constantly damp and moist", 
+      "Boils on scrotum", 
+      "Purulent discharge of a WHITE color from urethra; tingling and burning in urethra; pain in prostate; pains in penis"
+    ]
+  }, 
+  "name": "Cuprum arsenitum", 
+  "dosage": "Third trituration."
+}

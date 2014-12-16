@@ -1,0 +1,124 @@
+{
+  "Natural History": [
+    "An Alkaloid of Opium"
+  ], 
+  "details": "Morphine bears the same relation to Opium as Atropine to Belladonna - i.e., represents its nervous side. It is less stimulating, less convulsant, and more decidedly hypnotic. Constipates less and affects contractility of the bladder more. It is less diaphoretic and more pruritic.Extreme susceptibility to pain; twitching; tympanites; much itching", 
+  "symptoms": {
+    "Heart": [
+      "ALTERNATION OF TACHYCARDIA AND BRADYCARDIA", 
+      "Cardiac muscular tissue is intact, even if severely exhausted", 
+      "Pulse small, weak, dicrotic"
+    ], 
+    "Eyes": [
+      "Bluish, drooping lids", 
+      "ITCHING of eyes", 
+      "Delusion of vision on closing eyes", 
+      "Staring, injected; diverging strabismus", 
+      "Pupils unequally contracted", 
+      "LOOK UNSTEADY", 
+      "Ptosis", 
+      "PARESIS OF RECTI INTERNI"
+    ], 
+    "Respiratory": [
+      "Faint and struggling for breath; DIAPHRAGMATIC PARALYSIS; hiccough; dyspnoea, paroxysmal, on first falling asleep", 
+      "Cheyne-Stokes respiration", 
+      "Chest tight", 
+      "Pain in middle of sternum", 
+      "Dry, hard, TEASING, exhausting cough, worse at night", 
+      "Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant"
+    ], 
+    "Stomach": [
+      "Nausea INCESSANT AND DEATHLY, faintness, constant retching", 
+      "Vomiting of green fluid", 
+      "NAUSEA AND VOMITING ON RISING UP"
+    ], 
+    "Rectum": [
+      "Diarrhoea watery, brown, or black with horrible tenesmus", 
+      "Constipation; stools large, dry, knotty, with tendency to bruise and fissure", 
+      "Urinary Organs", 
+      "Paresis of bladder", 
+      "STRANGURY", 
+      "SLOW AND DIFFICULT URINATION", 
+      "Retention of prostatic hypertrophy", 
+      "URAEMIA, acute and chronic"
+    ], 
+    "Head": [
+      "VERTIGO FROM THE LEAST MOVEMENT OF THE HEAD", 
+      "Headache, with sensation of being \"wound-up", 
+      "\" Bursting pain; head drawn back"
+    ], 
+    "Mind": [
+      "PROFOUND DEPRESSION", 
+      "Irritable, fault-finding, hysterical", 
+      "SHOCK INDUCED BY TERROR", 
+      "DREAM-LIKE STATE"
+    ], 
+    "Back": [
+      "Pain along spine", 
+      "Weakness of loins", 
+      "Aching across lumbosacral region; cannot walk erect"
+    ], 
+    "Face": [
+      "DUSKY RED OR PALLID LIVIDITY OF FACE, LIPS, TONGUE, MOUTH OR THROAT"
+    ], 
+    "Fever": [
+      "Chills", 
+      "Icy coldness", 
+      "Burning heat; profuse sweat"
+    ], 
+    "Mouth": [
+      "VERY DRY", 
+      "Tongue dry, brown violet in middle", 
+      "THIRST", 
+      "Loss of appetite, WITH AVERSION TO MEAT"
+    ], 
+    "Nose": [
+      "Sneezing in paroxysms", 
+      "ITCHING and tingling on end of nose"
+    ], 
+    "Skin": [
+      "LIVID; purple spots; zoster-like herpes", 
+      "ITCHING", 
+      "Skin lost its elasticity", 
+      "Urticaria appearing at climaxis", 
+      "Nervous", 
+      "Restlessness and hyperaesthesia; trembling, twitching, jerking, convulsions", 
+      "EXTREMELY SUSCEPTIBLE TO PAIN", 
+      "Pain causes twitching and jerking of limbs", 
+      "Violent and SUDDEN neuralgic pains and sudden fainting", 
+      "DELIRIUM, MELANCHOLIC IN CHARACTER", 
+      "Neuralgias INTENSELY PAINFUL; left supraorbital; right intercostal, better from heat; MULTIPLE NEURITIS", 
+      "Sore feeling all over", 
+      "BED FEELS TOO HARD", 
+      "Aggravation after sleep", 
+      "Neuralgia after zoster", 
+      "Sleep", 
+      "Yawning, DROWSY; prolonged, deep sleep", 
+      "Sleepless; restless sleep, with frequent startings", 
+      "Sleepy, but cannot sleep"
+    ], 
+    "Throat": [
+      "Dry and constricted", 
+      "Pharynx paralyzed, swallowing almost impossible; better hot drinks, worse solids"
+    ], 
+    "Abdomen": [
+      "Distended", 
+      "Acute pain in abdomen and along spinal column", 
+      "TYMPANITIS"
+    ], 
+    "Extremities": [
+      "Staggering gait", 
+      "NUMBNESS"
+    ], 
+    "Male": [
+      "Impotency", 
+      "Pain in right spermatic cord"
+    ], 
+    "Ears": [
+      "Left ear throbs painfully; better, heat", 
+      "SEEMS TO HEAR CIRCULATION ALL OVER BODY"
+    ]
+  }, 
+  "name": "Morphinum", 
+  "dosage": "Third to sixth trituration."
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Natrum sulphuricum", 
+  "Relationship": "Compare: NATRUM SUCCINATE (5 gr. every 3 hours. Catarrhal jaundice). MALARIA OFFICINALIS - decomposed vegetable matter - (Has evident power to cause the disappearance of the plasmodium of malaria. Malarial cachexia. General sense of weariness. Spleen affections. Malaria and rheumatism. Functional hepatic diseases. Sixth potency and higher.) NATRUM CHOLEINICUM - Fel Tauri Depuratum - (constipation; chronic gastric and intestinal catarrh; cirrhotic liver; diabetes; NAPE OF NECK PAINS; TENDENCY TO SLEEP AFTER EATING; much flatus; ascites); MOMORDICA - Balsam Apple - (Colic, dysmenorrhoea with gushes of blood.) PULMO VULPIS - Wolf;'s lung (persistent shortness of breath causing a paroxysm of asthma on the slightest motion. Strong, sonorous bubbling rales. 1x trit.). PEUMUS BOLDUS - BOLDO - (atonic states of stomach and intestinal canal; liver states following malaria. Burning weight in region of liver and stomach, bitter taste, languor; abscess of liver; asthma, bronchitis, catarrh, oedema of lungs); NATRUM JODAT. (Incipient rheumatic endocarditis; chronic bronchitis, rheumatism and tertiary syphilis. Chronic catarrhal affections, arteriosclerosis. Here various symptoms, as ANGINA PECTORIS, vertigo, dyspnoea become less marked after continued use of 5-10 grs., 3 times a day.) NATRUM HYDROSULPH. (liver-spots, locally and internally); SULPH.; THUJA; MERC.; STILLING.Complementary: ARS.; THUJA.", 
+  "symptoms": {
+    "Eyes": [
+      "Conjunctiva yellow", 
+      "Granular lids", 
+      "PHOTOPHOBIA"
+    ], 
+    "Respiratory": [
+      "Dyspnoea, during damp weather", 
+      "MUST HOLD CHEST WHEN COUGHING", 
+      "Humid asthma; rattling in chest, at 4 and five AM COUGH, with thick, ropy, greenish expectoration; chest feels all gone", 
+      "Constant desire to take deep, long breath", 
+      "ASTHMA IN CHILDREN, as a constitutional remedy", 
+      "Delayed resolution in pneumonia", 
+      "Springs up in the bed the cough hurts so; holds painful side", 
+      "Pain through LOWER LEFT CHEST", 
+      "Every fresh cold brings on attack of asthma"
+    ], 
+    "Stomach": [
+      "Vomits sour", 
+      "BROWN, BITTER COATING ON TONGUE", 
+      "Yellow complexion", 
+      "Thirst for something cold", 
+      "Bilious vomiting, ACID dyspepsia, with heartburn and flatulence"
+    ], 
+    "Female": [
+      "Nosebleed during menses, which are acrid and profuse", 
+      "Burning in pharynx during menstruation", 
+      "Herpetic vulvitis", 
+      "LEUCORRHOEA yellowish-green, FOLLOWING GONORRHOEA IN FEMALE", 
+      "Leucorrhoea with hoarseness"
+    ], 
+    "Modalities": [
+      "Worse: music ; lying on left side; dampness of basement", 
+      "Worse: damp weather", 
+      "Better: dry weather", 
+      "Better: pressure", 
+      "Better: changing position"
+    ], 
+    "Mind": [
+      "Lively music saddens", 
+      "Melancholy, with periodical attacks of mania", 
+      "Suicidal tendency; MUST EXERCISE RESTRAINT", 
+      "Inability to think", 
+      "Dislikes to speak, or to be spoken to"
+    ], 
+    "Back": [
+      "Itching when undressing", 
+      "Violent pains in back of neck, AND AT BASE OF BRAIN", 
+      "Piercing pain between scapulae", 
+      "Spinal meningitis; opisthotonos"
+    ], 
+    "Abdomen": [
+      "Duodenal catarrh; hepatitis; icterus and vomiting of bile; liver sore to touch, with sharp, stitching pains; cannot bear tight clothing around waist, worse, lying on left side", 
+      "FLATULENCY; wind colic in ascending colon; worse, before breakfast", 
+      "Burning in abdomen and anus", 
+      "Bruised pain and urging to stool", 
+      "Diarrhoea yellow, watery stools", 
+      "LOOSE MORNING STOOLS; worse, after spell of wet weather", 
+      "Stools involuntary, when passing flatus", 
+      "GREAT SIZE OF THE FAECAL MASS", 
+      "Urine Section", 
+      "Loaded with bile", 
+      "Brick-dust sediment", 
+      "Excessive secretion", 
+      "Diabetes"
+    ], 
+    "Mouth": [
+      "Slimy, thick, tenacious, white mucus", 
+      "BITTER TASTE, blisters on palate"
+    ], 
+    "Nose": [
+      "Nasal catarrh, with thick, yellow discharge and salty mucus", 
+      "Coryza", 
+      "Epistaxis", 
+      "Ethmoiditis"
+    ], 
+    "Head": [
+      "Occipital pain", 
+      "Piercing stitches in ears", 
+      "Vertigo; relieved by sweat on head", 
+      "Bursting feeling on coughing", 
+      "Hot feeling on top of head", 
+      "Boring in right temple, preceded by burning in stomach", 
+      "Ill-effects of falls and injuries to the head, and mental troubles arising therefrom", 
+      "Dreams of running water"
+    ], 
+    "Skin": [
+      "Itching while undressing", 
+      "Jaundiced, watery blisters", 
+      "Sycotic excrescences; wart-like red lumps all over body"
+    ], 
+    "Throat": [
+      "Thick, yellow mucus, drops from posterior nares"
+    ], 
+    "Extremities": [
+      "Swelling of axillary glands", 
+      "Inflammation around root of nails", 
+      "Burning in soles; oedema of feet; itching between toes", 
+      "Gout", 
+      "Pain in limbs, compels frequent change in position", 
+      "Run-arounds", 
+      "Pain in hip-joints, worse left, worse, stooping", 
+      "Stiffness of knees, cracking of joints", 
+      "Rheumatism, worse in damp cold weather"
+    ], 
+    "Male": [
+      "Condylomata; soft, fleshy excresences; greenish discharges", 
+      "Gonorrhea; discharge thick, greenish; little pain"
+    ], 
+    "Ears": [
+      "Sticking pain, earache, lightning-like stitches in damp weather"
+    ]
+  }, 
+  "details": "A liver remedy, especially indicated for the so-called hydrogenoid constitution, where the complaints are such as are due to living in damp houses, basements, cellars. They are worse in rainy weather, water in any form. FEELS EVERY CHANGE FROM DRY TO WET; cannot even eat plans growing near water, nor fish. Always feels best in warm, dry air. Clinically, it has been found a valuable remedy for SPINAL MENINGITIS, head symptoms FROM INJURIES TO HEAD, mental troubles therefrom. Every spring, return of skin affections. Tendency to warts. Fingers and toes affected. Chronic gout. (LYCOP.)", 
+  "Natural History": [
+    "Sulphate of Sodium - Glauber's Salt"
+  ], 
+  "dosage": "First to twelfth trituration."
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Carbo vegetabilis", 
+  "Relationship": "Antidotes: Spirits Nitre; Camph.; Ambra; Arsenic.Compare: Carboneum - Lamp black. (Spasms commencing in tongue, down trachea and extremities. Tingling sensation.) Lycop.; Ars.; China.Complementary: Kali-carb.; Dros.", 
+  "symptoms": {
+    "Eyes": [
+      "Vision of black floating spots", 
+      "Asthenopia", 
+      "Burning in eyes", 
+      "Muscles pain"
+    ], 
+    "Fever": [
+      "Coldness, with thirst", 
+      "Chill begins in forearm", 
+      "Burning in various places", 
+      "Perspiration on eating", 
+      "Hectic fever, exhausting sweats"
+    ], 
+    "Stomach": [
+      "ERUCTATIONS, HEAVINESS, FULLNESS, AND SLEEPINESS; tense from flatulence, with pain; worse lying down", 
+      "Eructations after eating and drinking", 
+      "Temporary relief from belching", 
+      "Rancid, sour, or putrid eructations", 
+      "Water brash, asthmatic breathing from flatulence", 
+      "Nausea in the morning", 
+      "Burning in stomach, extending to back and along spine", 
+      "CONTRACTIVE PAIN EXTENDING TO CHEST, WITH DISTENTION OF ABDOMEN", 
+      "Faint gone feeling in stomach, not relieved by eating", 
+      "Crampy pains forcing patient to bend double", 
+      "Distress comes on a half-hour after eating", 
+      "Sensitiveness of epigastric region", 
+      "DIGESTION SLOW; FOOD PUTREFIES before it digests", 
+      "Gastralgia of nursing women, with excessive flatulence", 
+      "Sour, rancid belching", 
+      "Aversion to milk, meat, and FAT THINGS", 
+      "THE SIMPLEST FOOD DISTRESSES", 
+      "Epigastric region very sensitive"
+    ], 
+    "Female": [
+      "Premature and too copious menses; pale blood", 
+      "Vulva swollen; aphthae; varies on pudenda", 
+      "Leucorrhoea before menses, thick, greenish, milky, excoriating", 
+      "During menstruation, burning in hands and soles"
+    ], 
+    "Modalities": [
+      "Worse: evening; night and open air; cold; from fat food", 
+      "Worse: butter", 
+      "Worse: coffee", 
+      "Worse: milk", 
+      "Worse: warm damp weather; WINE", 
+      "Better: from eructation", 
+      "Better: FROM FANNING", 
+      "Better: cold"
+    ], 
+    "Mind": [
+      "Aversion to darkness", 
+      "Fear of ghosts", 
+      "Sudden loss of memory"
+    ], 
+    "Abdomen": [
+      "Pain as from lifting a weight; colic from riding in a carriage; excessive discharge of fetid flatus", 
+      "Cannot bear tight clothing around waist and abdomen", 
+      "Ailments accompanying intestinal fistulae", 
+      "ABDOMEN GREATLY DISTENDED; better, passing wind", 
+      "FLATULENT COLIC", 
+      "Pain in liver", 
+      "Stool and Rectum", 
+      "Flatus hot, moist, offensive", 
+      "Itching, gnawing and burning in rectum", 
+      "ACRID, CORROSIVE MOISTURE FROM RECTUM", 
+      "A musty, glutinous moisture exudes", 
+      "Soreness, itching, moisture of perineum at night", 
+      "Discharge of blood from rectum", 
+      "Burning at anus, burning varices", 
+      "Painful diarrhoea of old people", 
+      "Frequent, involuntary cadaverous-smelling stools, followed by burning", 
+      "White hemorrhoids; excoriation of anus", 
+      "BLUISH, burning piles, PAIN after stool"
+    ], 
+    "Face": [
+      "Puffy, cyanotic", 
+      "Pale, hippocratic, cold with cold sweat; blue", 
+      "Mottled cheeks and red nose"
+    ], 
+    "Respiratory": [
+      "Cough with itching in larynx; spasmodic with gagging and vomiting of mucus", 
+      "Whooping cough, especially in beginning", 
+      "Deep, rough voice, falling on slight exertion", 
+      "HOARSENESS; WORSE, EVENINGS, talking; evening oppression of breathing, sore and raw chest", 
+      "Wheezing and rattling of mucus in chest", 
+      "Occasional spells of long coughing attacks", 
+      "COUGH, WITH BURNING IN CHEST; worse in evening, in open air, after eating and talking", 
+      "Spasmodic cough, bluish face, offensive expectoration, neglected pneumonia", 
+      "Breath cold; MUST BE FANNED", 
+      "Hemorrhage from lungs", 
+      "ASTHMA IN AGED WITH BLUE SKIN"
+    ], 
+    "Mouth": [
+      "Tongue coated white or yellow brown, COVERED WITH APHTHAE", 
+      "Teeth very sensitive where chewing; gums retracted and bleed easily", 
+      "Blood oozing from gums when cleaning teeth", 
+      "Pyorrhoea"
+    ], 
+    "Nose": [
+      "EPISTAXIS IN DAILY ATTACKS, WITH PALE FACE", 
+      "Bleeding after straining, with pale face; tip of nose red and scabby, itching around nostrils", 
+      "Varicose veins on nose", 
+      "Eruption in corner of alae nasi", 
+      "Coryza with cough, especially in moist, warm weather", 
+      "Ineffectual efforts to sneeze"
+    ], 
+    "Head": [
+      "ACHES FROM ANY OVER-INDULGENCE", 
+      "Hair feels sore, FALLS OFF EASILY; scalp itches when getting warm in bed", 
+      "Hat pressed upon head like a heavy weight", 
+      "Head feels heavy, constricted", 
+      "Vertigo with nausea and tinnitus", 
+      "Pimples on forehead and face"
+    ], 
+    "Skin": [
+      "BLUE, COLD ECCHYMOSED", 
+      "Marbled with venous over distension", 
+      "Itching; worse on evening, when warm in bed", 
+      "Moist skin; HOT PERSPIRATION; senile gangrene beginning in toes; bed sores; bleed easily", 
+      "Falling out of hair, from a general weakened condition", 
+      "Indolent ulcers, burning pain", 
+      "Ichorous, offensive discharge; tendency to gangrene of the margins", 
+      "Purpura", 
+      "VARICOSE ULCERS, carbuncles"
+    ], 
+    "Extremities": [
+      "Heavy, stiff; feel paralyzed; LIMBS, GO TO SLEEP; want of muscular energy; joints weak", 
+      "Pain in shins", 
+      "Cramp in soles; feet numb and sweaty", 
+      "COLD FROM KNEES DOWN", 
+      "Toes red, swollen", 
+      "Burning pain in bones and limbs"
+    ], 
+    "Male": [
+      "Discharge of prostatic fluid at stool", 
+      "Itching and moisture at thigh near scrotum"
+    ], 
+    "Ears": [
+      "Otorrhoea following exanthematous diseases", 
+      "Ears dry", 
+      "Malformation of cerumen with exfoliation of dermoid layer of meatus"
+    ]
+  }, 
+  "details": "Disintegration and IMPERFECT OXIDATION is the keynote of this remedy. The typical Carbo patient is sluggish, fat and lazy and has a tendency to chronicity in his complaints. Blood seems to stagnate in the capillaries, causing blueness, coldness, and ecchymosis. Body becomes blue, icy-cold. Bacteria find a rich soil in the nearly lifeless blood stream and sepsis and typhoidal state ensues. A lowered vital power from loss of fluids, after drugging; after other diseases; in old people with venous congestions; states of collapse in cholera, typhoid; these are some of the conditions offering special inducements to the action of Carbo veg. The patient may be almost lifeless, but the head is hot; coldness, breath cool, pulse imperceptible, oppressed and quickened respiration, and must have air, must be fanned hard, must have all the windows open. This is a typical state for Carbo veg. The patient faints easily, is worn out, and must have fresh air. Hemorrhage from any mucous surface. Very debilitated. Patient seems to be too weak to hold out. PERSONS WHO HAVE NEVER FULLY RECOVERED FROM THE EFFECTS OF SOME PREVIOUS ILLNESS. Sense of weight, as in the head (occiput), eyes and eyelids, before the ears, in the stomach, and elsewhere in the body; putrid (septic) condition of all its affections, coupled with a burning sensation. General venous stasis, bluish skin, limbs cold.", 
+  "Natural History": [
+    "Vegetable Charcoal"
+  ], 
+  "dosage": "First to third trituration in stomach disorders. Thirtieth potency and higher in chronic conditions, and in collapse."
+}

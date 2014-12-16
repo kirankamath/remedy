@@ -1,0 +1,83 @@
+{
+  "name": "Syphilinum", 
+  "Relationship": "Compare: MERC.; KAL. HYD.; NIT-AC.; AUR.; ALUM", 
+  "symptoms": {
+    "Eyes": [
+      "CHRONIC, RECURRENT, PHLYCTENULAR INFLAMMATION OF CORNEA; successive crops of phlyctenules and abrasions of epithelial layer of cornea; photophobia intense, lachrymation, profuse", 
+      "Lids swollen; PAIN INTENSE AT NIGHT; ptosis", 
+      "Tubercular iritis", 
+      "Diplopia; one image seen below the other", 
+      "Feeling of cold air blowing on eye"
+    ], 
+    "Respiratory": [
+      "Aphonia; chronic asthma in summer, wheezing and rattling", 
+      "Cough dry, hard; worse at night; windpipe sensitive to touch", 
+      "Lancinating pains from base of heart to apex at night"
+    ], 
+    "Stomach": [
+      "CRAVES ALCOHOL"
+    ], 
+    "Modalities": [
+      "Worse: at night", 
+      "Worse: sundown to sunrise", 
+      "Worse: seashore", 
+      "Worse: in summer", 
+      "Better: inland and mountains", 
+      "Better: during day", 
+      "Better: moving about slowly"
+    ], 
+    "Mind": [
+      "Loss of memory; remembers everything previous to his illness", 
+      "Apathetic; FEELS AS IF GOING INSANE OR BEING PARALYZED", 
+      "FEARS THE NIGHT, and the suffering from exhaustion on awakening", 
+      "Hopeless; DESPAIRS OF RECOVERY"
+    ], 
+    "Head": [
+      "Linear pains from temples across, or from eyes backward; cause sleeplessness and delirium at night", 
+      "FALLING OF THE HAIR", 
+      "Pain in bones of head", 
+      "Top of head feels as if coming off", 
+      "Stupefying cephalgia"
+    ], 
+    "Mouth": [
+      "Teeth decay at gum; edges serrated, dwarfed", 
+      "Tongue coated, teeth-indented; deep longitudinal cracks", 
+      "Ulcers smart and burn", 
+      "EXCESSIVE FLOW OF SALIVA; IT RUNS OUT OF MOUTH WHEN SLEEPING"
+    ], 
+    "Nose": [
+      "Caries of nasal bones, hard palate and septum, with perforation; ozaena"
+    ], 
+    "Female": [
+      "Ulcers on labia", 
+      "Leucorrhoea PROFUSE, THIN, WATERY, ACRID, with sharp, knife-like pain in ovaries"
+    ], 
+    "Skin": [
+      "Reddish-brown eruption, with a disagreeable odor", 
+      "Extreme emaciation"
+    ], 
+    "Rectum": [
+      "Feels tied up with strictures", 
+      "Enemas very painful", 
+      "Fissures, prolapse"
+    ], 
+    "Extremities": [
+      "Sciatica; worse at night; better about daybreak", 
+      "Rheumatism of shoulder-joint, at insertion of deltoid", 
+      "Run-around", 
+      "Severe pain in long bones", 
+      "Redness and rawness between toes  Rheumatism, muscles are caked in hard knot or lumps", 
+      "ALWAYS WASHING THE HANDS", 
+      "Indolent ulcers", 
+      "Muscles contracted in hard knots"
+    ], 
+    "Ears": [
+      "Caries of ossicles in ear of syphilitic origin"
+    ]
+  }, 
+  "details": "Utter prostration and debility in the morning.Shifting rheumatic pains. Chronic eruptions and rheumatism.Ichthyosis. Syphilitic affections. Pains from darkness to daylight; decrease and increase gradually. Hereditary tendency to alcoholism. ULCERATION OF mouth, nose, genitals, skin. SUCCESSION OF ABSCESSES.", 
+  "Natural History": [
+    "The Syphilitic Virus - A Nosode"
+  ], 
+  "dosage": "The highest potencies only, and in"
+}

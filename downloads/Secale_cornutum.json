@@ -1,0 +1,118 @@
+{
+  "name": "Secale cornutum", 
+  "Relationship": "Compare: ERGOTIN. (Beginning arteriosclerosis progressing rather rapidly. Increased blood pressure: 2x trit. Edema, gangrene and purpura hemorrhagia; when Secale, though indicated, fails); PEDICULARIS CANADENSIS (symptoms of locomotor ataxia; spinal irritation); BRASSICA NAPUS - Rape-seed - (dropsical swellings, scorbutic mouth, voracious appetite, tympanitis, dropping of nails, gangrene); CINNAMON.; COLCH.; ARS.; AURUM MUR. 2x (locomotor ataxia); AGROSTEMA - Corn cockle - active constituent is SAPONIN, which causes violent sneezing and sharp burning taste; burning in stomach, extends to oesophagus, neck and breast; (vertigo, headache, difficult locomotion, burning sensation); USTILAGO; CARBO; PITUTRIN (dilated os, little pain, no progress. Dose, 1/2 c. c., repeat in half hour, if necessary. Hypodermically contraindicated in first stage of labor, valvular lesions or deformed pelvis).Antidotes: CAMPH.; OPIUM.", 
+  "symptoms": {
+    "Eyes": [
+      "Pupils dilated", 
+      "Incipient cataract, senile especially in women", 
+      "EYES SUNKEN AND SURROUNDED BY A BLUE MARGIN"
+    ], 
+    "Fever": [
+      "COLDNESS; cold, dry skin; cold, clammy sweat; excessive thirst", 
+      "Sense of internal heat"
+    ], 
+    "Stomach": [
+      "UNNATURAL RAVENOUS APPETITE; CRAVES acids", 
+      "THIRST unquenchable", 
+      "Singultus, nausea; vomiting of blood and coffee-grounds fluid", 
+      "Burning in stomach and abdomen; tympanites", 
+      "Eructations of bad odor"
+    ], 
+    "Female": [
+      "Menstrual colic, with coldness and intolerance of heat", 
+      "Passive hemorrhages in feeble, cachetic women", 
+      "Burning pains in uterus", 
+      "BROWNISH, OFFENSIVE LEUCORRHOEA", 
+      "Menses irregular, copious, dark; CONTINUOUS OOZING OF WATERY BLOOD until next period", 
+      "Threatened abortion about the THIRD month", 
+      "During labor no expulsive action, though everything is relaxed", 
+      "After-pains", 
+      "Suppression of milk; breasts do not fill properly", 
+      "Dark, offensive lochia", 
+      "Puerperal fever, putrid discharges, tympanitis, coldness, suppressed urine"
+    ], 
+    "Modalities": [
+      "Worse: heat", 
+      "Worse: WARM COVERING", 
+      "Better: cold", 
+      "Better: UNCOVERING", 
+      "Better: rubbing", 
+      "Better: stretching out limbs"
+    ], 
+    "Stool": [
+      "Cholera-like stools, with coldness and cramps", 
+      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION", 
+      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
+      "Urine Section", 
+      "Paralysis of bladder", 
+      "Retention, with unsuccessful urging", 
+      "Discharge of black blood from bladder", 
+      "Enuresis in old people"
+    ], 
+    "Back": [
+      "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
+      "LOCOMOTOR ATAXIA", 
+      "Formication and numbness", 
+      "Myelitis"
+    ], 
+    "Face": [
+      "PALE, PINCHED, SUNKEN", 
+      "Cramps commence in face and spread over whole body", 
+      "Livid spots on face", 
+      "SPASMODIC DISTORTION"
+    ], 
+    "Chest": [
+      "Angina pectoris", 
+      "Dyspnoea and oppression, with cramp in diaphragm", 
+      "Boring pain in chest", 
+      "Precordial tenderness", 
+      "Palpitation, with contracted and intermittent pulse", 
+      "Sleep", 
+      "Profound and long", 
+      "Insomnia with restlessness, fever, anxious dreams", 
+      "INSOMNIA OF DRUG AND LIQUOR HABITUES"
+    ], 
+    "Mouth": [
+      "Tongue dry, CRACKED; BLOOD LIKE INK EXUDES, coated thick; viscid, yellowish, cold livid", 
+      "TINGLING OF TIP OF TONGUE, WHICH IS STIFF", 
+      "Tongue swollen, paralyzed"
+    ], 
+    "Head": [
+      "Passive, congestive pain , with pale face", 
+      "Head drawn back", 
+      "Falling of hair; dry and gray", 
+      "NOSEBLEED, dark, oozing"
+    ], 
+    "Skin": [
+      "Shriveled, numb; mottled dusky-blue tinge", 
+      "Scleraema and oedema neonatorum", 
+      "Raynaud's disease", 
+      "Blue color", 
+      "DRY GANGRENE, developing slowly", 
+      "VARICOSE ULCERS", 
+      "BURNING SENSATION; better by cold; WANTS PARTS UNCOVERED, though cold to touch", 
+      "Formication; petechiae", 
+      "Slight wounds continue to bleed", 
+      "Livid spots", 
+      "Boils, small, painful, with green contents; mature slowly", 
+      "SKIN FEELS COLD TO TOUCH, yet covering is not tolerated", 
+      "GREAT AVERSION TO HEAT", 
+      "FORMICATION UNDER SKIN"
+    ], 
+    "Extremities": [
+      "Cold, dry hands and feet of excessive smokers with feeling of fuzziness in fingers", 
+      "Trembling, staggering gait", 
+      "Formication, pain and spasmodic movements", 
+      "Numbness", 
+      "Fingers and feet bluish, shriveled, SPREAD APART OR BENT BACKWARDS, numb", 
+      "VIOLENT CRAMPS", 
+      "ICY COLDNESS OF EXTREMITIES", 
+      "Violent pain in finger-tips, tingling in toes"
+    ]
+  }, 
+  "details": "Produces contraction of the un striped muscular fibers; hence a constringent feeling throughout the whole body. This produces an anaemic condition, coldness, numbness, petechiae, mortification, gangrene. A useful remedy for old people with shriveled skin - thin, scrawny old women. All the Secale conditions are BETTER FROM COLD; the whole body is pervaded by a sense of great heat. Hemorrhages; continued oozing; THIN, fetid, watery black blood. DEBILITY, ANXIETY, EMACIATION, THOUGH APPETITE AND THIRST MAY BE EXCESSIVE. Facial and abdominal muscles twitch. Secale decreases the flow of pancreatic juice by raising the blood pressure. (Hinsdale).", 
+  "Natural History": [
+    "Claviceps PurpureaErgot"
+  ], 
+  "dosage": "First to thirtieth potency. NON-HOMEOPATHIC USE. If hemorrhages of the puerperium, after the uterus is entirely emptied, when it fails to contract satisfactorily and in secondary puerperal hemorrhage the result of incomplete involution of the uterus, give one-half to one dram of the fluid extract. Remember Pagot's law, \"As long as the uterus contains anything, be it child, placenta, membranes, clots, never administer Ergot.\""
+}

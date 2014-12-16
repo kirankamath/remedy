@@ -1,0 +1,105 @@
+{
+  "name": "Hyoscyamus", 
+  "Relationship": "Antidotes: BELL.; CAMPH.Compare: BELLAD.; STRAM.; AGARIC.; GELS.; HYOS. HYDROBROM. SCOPOLAMINE HYDROBROMIDE. (Paralysis agitans; TREMORS OF DISSEMINATED SCLEROSIS. Sleeplessness and nervous agitation. Dry cough in phthisis. Similar in its effects to alcohol, both recent and remote. Corresponds to the effects of strong poisons introduced into or generated within the body. Symptoms of uraemia and acute nervous exhaustion. A remedy for shock. Third and fourth Dec. trituration. In physiological dosage (1-200 gr.) mania and chorea; insomnia. SCOPOLA (Japanese Belladonna) - chemically identical with Hyoscine. (Joyous delirium, licking of lips and smacking of mouth; sleepless; tries to get out of bed; sees cats, picks imaginary hairs, warms hands before imaginary fire, etc.)", 
+  "symptoms": {
+    "Eyes": [
+      "Pupils dilated, sparkling, fixed", 
+      "Eyes open, but does not pay attention; downcast and dull, fixed", 
+      "Strabismus", 
+      "Spasmodic closing of lids", 
+      "Diplopia", 
+      "Objects have colored borders"
+    ], 
+    "Stomach": [
+      "Hiccough, eructations empty, bitter", 
+      "Nausea, with vertigo", 
+      "Vomiting, with convulsions; hematemesis; violent cramps, relieved by vomiting; burning in stomach; epigastrium tender", 
+      "AFTER IRRITATING FOOD"
+    ], 
+    "Female": [
+      "Before menses, hysterical spasms", 
+      "Excited sexual desire", 
+      "During menses, convulsive movements, urinary flux and sweat", 
+      "Lochia suppressed", 
+      "Spasms of pregnant women", 
+      "Puerperal mania"
+    ], 
+    "Modalities": [
+      "Worse: at night", 
+      "Worse: during menses", 
+      "Worse: after eating", 
+      "Worse: when lying down", 
+      "Better: STOOPING"
+    ], 
+    "Mind": [
+      "VERY SUSPICIOUS", 
+      "Talkative, obscene, lascivious mania, uncovers body; jealous, FOOLISH", 
+      "Great hilarity; INCLINED TO LAUGH AT EVERYTHING", 
+      "Delirium, with attempt to run away", 
+      "Low, muttering speech; CONSTANT CARPHOLOGIA, DEEP STUPOR"
+    ], 
+    "Stool": [
+      "Diarrhoea, colicky, pains; INVOLUNTARY, aggravated by mental excitement or during sleep", 
+      "Diarrhoea during the lying-in period", 
+      "Involuntary defecation", 
+      "Urine Section", 
+      "INVOLUNTARY micturition", 
+      "Bladder paralyzed", 
+      "Has no will to urinate"
+    ], 
+    "Abdomen": [
+      "Colic, as if abdomen would burst", 
+      "Distention", 
+      "Colic, with vomiting, belching, hiccough screaming", 
+      "Tympanites", 
+      "Red spots on abdomen"
+    ], 
+    "Throat": [
+      "Stinging dryness", 
+      "Constriction", 
+      "Cannot swallow liquids", 
+      "UVULA ELONGATED"
+    ], 
+    "Chest": [
+      "Suffocating fits", 
+      "Spasm, forcing bending forward", 
+      "DRY, SPASMODIC COUGH AT NIGHT , from itching in the throat, as if uvula were too long", 
+      "Hemoptysis"
+    ], 
+    "Mouth": [
+      "Tongue dry, red, cracked, stiff and immovable, protruded with difficulty; speech impaired", 
+      "Foams at mouth", 
+      "Teeth covered with sordes", 
+      "Lower jaw drops"
+    ], 
+    "Head": [
+      "Feels light and confused", 
+      "Vertigo as if intoxicated", 
+      "Brain feels loose, fluctuating", 
+      "Inflammation of brain, with unconsciousness; head is shaken to and fro"
+    ], 
+    "Extremities": [
+      "PICKING AT BED-CLOTHES; plays with hands; reaches out for things", 
+      "Epileptic attacks ending in deep sleep", 
+      "Spasms and convulsions", 
+      "Cramps in calves and toes", 
+      "Child sobs and cries without waking", 
+      "Sleep", 
+      "Intense sleeplessness", 
+      "Sopor, with convulsions", 
+      "STARTS UP FRIGHTENED", 
+      "Coma vigilNerves", 
+      "Great restlessness; EVERY MUSCLE TWITCHES", 
+      "Will not be covered"
+    ], 
+    "Male": [
+      "Impotence", 
+      "Lascivious; exposes his person; plays with genitals during fever"
+    ]
+  }, 
+  "details": "Disturbs the nervous system profoundly. It is as if some diabolical force took possession of the brain and prevented its functions. It causes a perfect picture of MANIA OF A QUARRELSOME AND OBSCENE CHARACTER. Inclined to be unseemly and immodest in acts, gestures and expressions. Very talkative, and persists in stripping herself, or uncovering genitals. Is jealous, afraid of being poisoned, etc. Its symptoms also point to weakness and NERVOUS AGITATION; hence typhoid and other infections with COMA VIGIL. TREMULOUS WEAKNESS AND TWITCHING OF TENDONS. Subsultus tendinum. Muscular twitchings, spasmodic affections, generally with delirium. Non-inflammatory cerebral activity. TOXIC GASTRITIS.", 
+  "Natural History": [
+    "Henbane"
+  ], 
+  "dosage": "Sixth, to 200th potency."
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Hydrocyanic acid", 
+  "Relationship": "Antidotes: AMMON.; CAMPH.; OPIUM.Compare: CICUTA; OENANTHE; CAMPH.; LAUROC.", 
+  "symptoms": {
+    "Heart": [
+      "Violent palpitation", 
+      "Pulse, WEAK, IRREGULAR", 
+      "Cold extremities", 
+      "Torturing pain in chest", 
+      "Angina pectoris", 
+      "Sleep", 
+      "Yawning, with shivering", 
+      "Irresistible drowsiness", 
+      "Vivid, incoherent dreams"
+    ], 
+    "Head": [
+      "Violent stupefying headache", 
+      "Brain feels on fire", 
+      "Pupils motionless or dilated", 
+      "Supraorbital neuralgia, with flushing on same side of face"
+    ], 
+    "Respiratory": [
+      "Noisy and agitated breathing", 
+      "Dry, spasmodic, suffocative cough", 
+      "Asthma, with contraction of throat", 
+      "Whooping-cough", 
+      "Paralysis of lungs", 
+      "Marked cyanosis; venously congested lung"
+    ], 
+    "Stomach": [
+      "Tongue cold", 
+      "DRINK RUMBLES THROUGH THROAT AND STOMACH", 
+      "GASTRALGIA; worse when stomach is empty", 
+      "GREAT SINKING AT PIT OF STOMACH", 
+      "Pulsative pain in precordial region"
+    ], 
+    "Mind": [
+      "Unconscious", 
+      "Wild delirium", 
+      "Fear of imaginary troubles", 
+      "FEARS everything - horses, wagons, houses falling, etc"
+    ], 
+    "Face": [
+      "Jaws clenched in rigid spasm", 
+      "Froths at mouth", 
+      "Pale, bluish lips"
+    ]
+  }, 
+  "details": "One of the most toxic agents known. Convulsions and paralysis express the action of this remedy. Spasmodic constriction in larynx, feeling of suffocation, pain and tightness in chest, palpitation; pulse weak, irregular. SINGING SENSATION AT THE EPIGASTRIUM. Hysterical and epileptic convulsions. Cyanosis. Collapse, due to some pulmonary condition not a cardiac collapse. Catalepsy. Cholera. Stage of collapse. (ARS.; VERAT.) Coldness. Tetanus narcolepsy.", 
+  "Natural History": [
+    "Prussic Acid"
+  ], 
+  "dosage": "Sixth and higher potencies."
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Cuprum aceticum", 
+  "Relationship": "Acts similarly to CUPRUM MET. but is more violent in action.", 
+  "symptoms": {
+    "Head": [
+      "Violent throbbing and lancinating pains in forehead", 
+      "Left-sided brow ague", 
+      "Brain seems void", 
+      "Inclined to gape and cry", 
+      "Loses consciousness; HEAD REELS WHEN IN HIGH-CEILING ROOM", 
+      "Constant protrusion and retraction of tongue", 
+      "Neuralgia with heaviness of head, burning, stinging and stitching in temples and forehead"
+    ], 
+    "Respiratory": [
+      "Attacks of angina pectoris coming on when excited", 
+      "Violent spasmodic cough", 
+      "Short, difficult respiration", 
+      "Spasmodic constriction of chest", 
+      "Dyspnoea"
+    ], 
+    "Stomach": [
+      "Violent spasmodic pains in stomach and abdomen", 
+      "Vomiting", 
+      "Slimy brown diarrhoea", 
+      "Violent tenesmus", 
+      "Cholera"
+    ], 
+    "Modalities": [
+      "Worse: mental emotions", 
+      "Worse: touch", 
+      "Better: chewing", 
+      "Better: pressure", 
+      "Better: night", 
+      "Better: lying on affected side", 
+      "Better: and warmth"
+    ], 
+    "Face": [
+      "Collapsed, hippocratic", 
+      "Facial neuralgia in cheek-bone, upper jaw, and behind right ear", 
+      "Better by chewing, pressure, and external warmth"
+    ], 
+    "Skin": [
+      "Leprous-like eruption, without itching, over whole body, in spots of various sizes"
+    ]
+  }, 
+  "details": "Hay-fever, with burning excoriation, paroxysmal cough; tough, tenacious mucus, and fear of suffocation. PROTRACTED LABOR. Chronic psoriasis and lepra.", 
+  "Natural History": [
+    "Acetate of Copper"
+  ], 
+  "dosage": "Third to sixth trituration."
+}

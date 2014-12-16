@@ -1,0 +1,64 @@
+{
+  "Natural History": [
+    "Elder"
+  ], 
+  "details": "Acts especially on the respiratory organs. Dry coryza of infants, snuffles, edematous swellings. PROFUSE SWEAT accompanies many affections.", 
+  "symptoms": {
+    "Respiratory": [
+      "Chest oppressed with pressure in stomach, and nausea", 
+      "Hoarseness with tenacious mucus in larynx", 
+      "Paroxysmal, SUFFOCATIVE COUGH, COMING ON ABOUT MIDNIGHT, with crying and dyspnoea", 
+      "Spasmodic croup", 
+      "Dry coryza", 
+      "SNIFFLES OF INFANTS; nose dry and obstructed", 
+      "Loose choking cough", 
+      "When nursing child must let go of nipple, nose blocked up, cannot breathe", 
+      "CHILD AWAKES SUDDENLY, NEARLY SUFFOCATING, SITS UP, TURNS BLUE", 
+      "CANNOT EXPIRE", 
+      "Miller's asthma"
+    ], 
+    "Modalities": [
+      "Worse: sleep", 
+      "Worse: during rest", 
+      "Worse: after eating fruit", 
+      "Better: sitting up in bed", 
+      "Better: motion"
+    ], 
+    "Mind": [
+      "Sees images when shutting eyes", 
+      "CONSTANT FRETFULNESS", 
+      "Very easily frightened", 
+      "Fright followed by suffocative attacks"
+    ], 
+    "Abdomen": [
+      "Colic, with nausea and flatulence; frequent watery, slimy stools", 
+      "Urine Section", 
+      "Profuse urine with dry heat of skin", 
+      "Frequent micturition, with scanty urine", 
+      "Acute nephritis; dropsical symptoms, with vomiting"
+    ], 
+    "Face": [
+      "Turns blue with cough", 
+      "Red, burning spots on cheeks", 
+      "Heat and perspiration of face"
+    ], 
+    "Fever": [
+      "Dry heat while sleeping", 
+      "DREADS UNCOVERING", 
+      "PROFUSE SWEAT OVER ENTIRE BODY DURING WAKING HOURS", 
+      "Dry, deep cough precedes the fever paroxysm"
+    ], 
+    "Skin": [
+      "Dry heat of skin during sleep", 
+      "Bloated and swollen; general dropsy; PROFUSE SWEAT ON WAKING"
+    ], 
+    "Extremities": [
+      "Hands turn blue", 
+      "Edematous swelling in legs, insteps, and feet", 
+      "Feet icy cold", 
+      "Debilitating night-sweats"
+    ]
+  }, 
+  "name": "Sambucus nigra", 
+  "dosage": "Tincture, to sixth potency."
+}

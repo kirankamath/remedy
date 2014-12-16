@@ -1,0 +1,224 @@
+{
+  "name": "Lycopodium", 
+  "Relationship": "Complementary: LYCOP. acts with special benefit AFTER CALCAR. and SULPHUR. IOD.; GRAPHITES; LACH.; CHELIDON.Antidotes: CAMPH.; PULS.; CAUST.Compare: Carbo-nitrogenoid Constitution: SULPHUR; RHUS; URTICA; MERCUR.; HEPAR. ALUMINA. (Lycop. is the only vegetable that takes up aluminum. T. F. Allen.) ANT. C.; NAT-M.; BRY.; NUX; BOTHROPS (Day-blindness; can scarcely see after sunrise; pain in right great toe). PLUMBAGO LITTORALIS - A Brazilian plant - (Costive with red urine, pain in kidneys and joints and body generally; milky saliva, ulcerated mouth). HYDRAST. follows LYCOP. in indigestion.", 
+  "symptoms": {
+    "Stool": [
+      "Diarrhoea", 
+      "Inactive intestinal canal", 
+      "Ineffectual urging", 
+      "Stool HARD, DIFFICULT, SMALL, incomplete", 
+      "HEMORRHOIDS; VERY PAINFUL TO TOUCH, ACHING", 
+      "Urine Section", 
+      "Pain in back before urinating; ceases after flow; SLOW IN COMING, must strain", 
+      "Retention", 
+      "POLYURIA DURING THE NIGHT", 
+      "HEAVY RED SEDIMENT", 
+      "Child cries before urinating"
+    ], 
+    "Head": [
+      "Shakes head without apparent cause", 
+      "Twists face and mouth", 
+      "Pressing headache on vertex; worse from 4 to eight PM and from lying down or stooping, if not eating regularly", 
+      "Throbbing headache after every paroxysm of coughing", 
+      "Headaches over eyes in severe colds; BETTER, UNCOVERING", 
+      "Vertigo in morning on rising", 
+      "Pain in temples, as if they were screwed toward each other", 
+      "Tearing pain in occiput; better, fresh air", 
+      "Great falling out of hair", 
+      "Eczema; moist oozing behind ears", 
+      "Deep furrows on forehead", 
+      "Premature baldness and gray hair"
+    ], 
+    "Fever": [
+      "Chill between 3 and four PM, followed by sweat", 
+      "Icy coldness", 
+      "Feels as if lying on ice", 
+      "One chill is followed by another", 
+      "Sleep", 
+      "Drowsy during day", 
+      "Starting in sleep", 
+      "Dreams of accidents"
+    ], 
+    "Stomach": [
+      "Dyspepsia due to farinaceous and fermentable food, cabbage, beans, etc", 
+      "Excessive hunger", 
+      "Aversion to bread, etc", 
+      "Desire for sweet things", 
+      "FOOD TASTES SOUR", 
+      "Sour eructations", 
+      "Great weakness of digestion", 
+      "Bulimia, with much bloating", 
+      "After eating, pressure in stomach, with bitter taste in mouth", 
+      "EATING EVER SO LITTLE CREATES FULLNESS", 
+      "Cannot eat oysters", 
+      "Rolling of flatulence", 
+      "Wakes at night feeling hungry", 
+      "Hiccough", 
+      "INCOMPLETE BURNING ERUCTATIONS RISE ONLY TO PHARYNX, THERE BURN FOR HOURS", 
+      "Likes to take food and drink hot", 
+      "Sinking sensation; worse night"
+    ], 
+    "Abdomen": [
+      "Immediately after a light meal, abdomen is BLOATED, FULL", 
+      "Constant sense of fermentation in abdomen, like yeast working; upper left side", 
+      "Hernia, right side", 
+      "Liver sensitive", 
+      "Brown spots on abdomen", 
+      "Dropsy, due to hepatic disease", 
+      "Hepatitis, atrophic form of nutmeg liver", 
+      "Pain shooting across lower abdomen from right to left"
+    ], 
+    "Mouth": [
+      "Teeth excessively painful to touch", 
+      "Toothache, with swelling of cheeks; relieved by warm application", 
+      "Dryness of mouth and tongue, without thirst", 
+      "Tongue dry, black, cracked, swollen; oscillates to and from", 
+      "Mouth waters", 
+      "BLISTERS ON TONGUE", 
+      "Bad odor from mouth"
+    ], 
+    "Respiratory": [
+      "Tickling cough", 
+      "Dyspnoea", 
+      "Tensive, constrictive, burning pain in chest", 
+      "Cough worse going down hill", 
+      "Cough deep, hollow", 
+      "Expectorations gray, thick, bloody, purulent, SALTY", 
+      "Night cough, tickling as from Sulphur fumes", 
+      "Catarrh of the chest in infants, seems full of mucus rattling", 
+      "Neglected pneumonia, with great dyspnoea, flying of alae nasei and presence of mucous rales"
+    ], 
+    "Eyes": [
+      "Styes on lids near internal canthus", 
+      "Day-blindness", 
+      "Night-blindness more characteristic", 
+      "Sees only one-half of an object", 
+      "Ulceration and redness of lids", 
+      "Eyes half open during sleep"
+    ], 
+    "Face": [
+      "Grayish-yellow color of face, with blue circles around eyes", 
+      "Withered, shriveled, and emaciated; copper-colored eruption", 
+      "DROPPING OF LOWER JAW, in typhoid fever", 
+      "Itching; scaly herpes in face and corner of mouth"
+    ], 
+    "Nose": [
+      "Sense of smell very acute", 
+      "Feeling of dryness posteriorly", 
+      "Scanty excoriating, discharge anteriorly", 
+      "Ulcerated nostrils", 
+      "Crusts and elastic plugs", 
+      "Fluent coryza", 
+      "NOSE STOPPED UP", 
+      "Snuffles; child starts from sleep rubbing nose", 
+      "FAN-LIKE MOTION OF ALAE NASI"
+    ], 
+    "Male": [
+      "No erectile power; IMPOTENCE", 
+      "Premature emission", 
+      "Enlarged prostate", 
+      "Condylomata"
+    ], 
+    "Ears": [
+      "Thick, yellow, offensive discharge", 
+      "Eczema about and behind ears", 
+      "Otorrhoea and deafness with or without tinnitus; after scarlatina", 
+      "HUMMING AND ROARING WITH HARDNESS OF HEARING; every noise causes peculiar echo in ear"
+    ], 
+    "Heart": [
+      "ANEURISM", 
+      "Aortic disease", 
+      "Palpitation at night", 
+      "Cannot lie on left side"
+    ], 
+    "Modalities": [
+      "Worse: right side", 
+      "Worse: from right to left", 
+      "Worse: from above downward", 
+      "Worse: 4 to eight PM; from heat or warm room", 
+      "Worse: hot air", 
+      "Worse: bed", 
+      "Better: BY MOTION", 
+      "Better: after midnight", 
+      "Better: from warm food and drink", 
+      "Better: on getting cold", 
+      "Better: from being uncovered"
+    ], 
+    "Mind": [
+      "MELANCHOLY, AFRAID TO BE ALONE", 
+      "Little things annoy", 
+      "Extremely sensitive", 
+      "Averse to undertaking new things", 
+      "Headstrong and haughty when sick", 
+      "Loss of self-confidence", 
+      "Hurried when eating", 
+      "Constant fear of breaking down under stress", 
+      "APPREHENSIVE", 
+      "Weak memory, confused thoughts; SPELLS OR WRITES WRONG WORDS and syllables", 
+      "Failing brain-power", 
+      "Cannot bear to see anything new", 
+      "Cannot read what he writes", 
+      "Sadness in morning on awaking"
+    ], 
+    "Back": [
+      "BURNING between scapulae as of hot coals", 
+      "Pain in small of back"
+    ], 
+    "Female": [
+      "Menses too late; last too long, too profuse", 
+      "Vagina dry", 
+      "Coition painful", 
+      "Right ovarian pain", 
+      "Varicose veins of pudenda", 
+      "Leucorrhoea, acrid, with burning in vagina", 
+      "Discharge of blood from genitals during stool"
+    ], 
+    "Skin": [
+      "Ulcerates", 
+      "Abscesses beneath skin; worse warm applications", 
+      "Hives; worse, warmth", 
+      "Violent itching; fissured eruptions", 
+      "ACNE", 
+      "Chronic eczema associated with urinary, gastric and hepatic disorders; bleeds easily", 
+      "Skin becomes thick and indurated", 
+      "Varicose veins, naevi, erectile tumors", 
+      "Brown spots, freckles worse on left side of face and nose", 
+      "DRY, shrunken, especially palms; hair becomes prematurely gray", 
+      "Dropsies", 
+      "Offensive secretions; VISCID AND OFFENSIVE PERSPIRATION, especially of feet and axilla", 
+      "Psoriasis"
+    ], 
+    "Throat": [
+      "Dryness of throat, without thirst", 
+      "Food and drink regurgitates through nose", 
+      "Inflammation of throat, with stitches on swallowing; BETTER, WARM DRINKS", 
+      "Swelling and suppuration of tonsils", 
+      "Ulceration of tonsils, BEGINNING ON RIGHT SIDE", 
+      "Diphtheria; DEPOSITS SPREAD FROM RIGHT TO LEFT; WORSE, COLD DRINKS", 
+      "Ulceration of vocal bands", 
+      "Tubercular laryngitis, especially when ulceration commences"
+    ], 
+    "Extremities": [
+      "Numbness, also drawing and tearing in limbs, especially while at rest or at night", 
+      "Heaviness of arms", 
+      "Tearing in shoulder and elbow joints", 
+      "One foot hot, the other cold", 
+      "Chronic gout, with chalky deposits in joints", 
+      "Profuse sweat of the feet", 
+      "Pain in heel on treading as from a pebble", 
+      "Painful callosities on soles; toes and fingers contracted", 
+      "SCIATICA, WORSE RIGHT SIDE", 
+      "CANNOT LIE ON PAINFUL SIDE", 
+      "Hands and feet numb", 
+      "Right foot hot, left cold", 
+      "Cramps in calves and toes at night in bed", 
+      "Limbs go to sleep", 
+      "Twitching and jerking"
+    ]
+  }, 
+  "details": "This drug is inert until the spores are crushed. Its wonderful medicinal properties are only disclosed by trituration and succussion.In nearly all cases where Lycopodium is the remedy, some evidence of urinary or digestive disturbance will be found. Corresponds to Grauvogle's carbo-nitrogenoid constitution, the non-eliminative lithemic. Lycopodium is adapted more especially to ailments gradually developing, functional power weakening, with failures of the digestive powers, where the function of the liver is seriously disturbed. ATONY. MALNUTRITION. Mild temperaments of lymphatic constitutions, with catarrhal tendencies; older persons, where the skin shows yellowish spots, earthy complexion, uric acid diathesis, etc.; also precocious, weakly children. Symptoms characteristically run from right to left, acts especially on RIGHT side of body, and are worse from about 4 to eight PM In kidney affections, RED SAND IN URINE, backache, in renal region; worse before urination. Intolerant of cold drinks; CRAVES EVERYTHING WARM. Best adapted to persons intellectually keen, but of weak, muscular power. Deep-seated, progressive, chronic diseases. Carcinoma. EMACIATION. Debility in morning. Marked regulating influence upon the glandular (sebaceous) secretions. PRE-SENILITY. Ascites, in liver disease. Lycop. patient is thin, withered, full of gas and dry. Lacks vital heat; has poor circulation, cold extremities. Pains come and go suddenly. Sensitive to noise and odors.", 
+  "Natural History": [
+    "Club Moss"
+  ], 
+  "dosage": "Both the lower and the highest potencies are credited with excellent results. For purposes of aiding elimination the second and third attenuation of the TINCTURE, a few drops, 3 times a day, have proved efficacious, otherwise the 6th to 200th potency, and higher, in not too frequent doses."
+}

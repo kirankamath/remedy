@@ -1,0 +1,208 @@
+{
+  "name": "Silicea", 
+  "Relationship": "Complementary: THUJA; SANIC.; PULS.; FLUOR-AC. Mercurius and Silica do not follow each other well.Compare: BLACK GUNPOWDER 3X. (Abscesses, boils, carbuncles, limb purple. Wounds that refuse to heal; accident from bad food or water. Clarke.) HEP.; KALI-PHOS.; PIC-AC.; CALC.; PHOS.; TABASHEER; NATRUM SILICUM (tumors, hemophilia, arthritis; dose, three drops three times daily, in milk); FERRUM CYANATUM (epilepsy; neuroses, with irritable weakness and hypersensitiveness, especially of a periodical character). SILICA MARINA - Sea-sand - (Silica and Natrum mur. symptoms. INFLAMED GLANDS and commencing suppuration. Constipation. Use for some time 3X trit.) VITRUM - CROWN GLASS - (Potts; disease, after Silica, necrosis, discharge thin, watery, fetid. Much pain, fine GRINDING AND GRATING like grit.) ARUNDO DONAX (acts on excretory and generative organs; suppuration, especially chronic, and where the ulceration is fistulous, especially in long bones. Itching eruption on chest, upper extremities and behind ears).", 
+  "symptoms": {
+    "Head": [
+      "Aches from fasting", 
+      "Vertigo from looking up; BETTER, WRAPPING UP WARMLY; WHEN LYING ON LEFT SIDE", 
+      "PROFUSE SWEAT OF HEAD, offensive, and extends to neck", 
+      "Pain begins at occiput, and spreads over head and settles over eyes", 
+      "Swelling in the glabella"
+    ], 
+    "Fever": [
+      "Chilliness; very sensitive to cold air", 
+      "Creeping, shivering over the whole body", 
+      "Cold extremities, even in a warm room", 
+      "Sweat at night; worse towards morning", 
+      "SUFFERING PARTS FEEL COLD"
+    ], 
+    "Stomach": [
+      "Disgust for meat and WARM FOOD", 
+      "On swallowing food, it easily gets into posterior nares", 
+      "Want of appetite; thirst excessive", 
+      "Sour eructations after eating", 
+      "Pit of stomach painful to pressure", 
+      "Vomiting after drinking"
+    ], 
+    "Abdomen": [
+      "Pain or painful cold feeling in abdomen, better external heat", 
+      "Hard, bloated", 
+      "Colic; cutting pain, with constipation; yellow hands and blue nails", 
+      "Much rumbling in bowels", 
+      "Inguinal glands swollen and painful", 
+      "Hepatic abscess"
+    ], 
+    "Mouth": [
+      "SENSATION OF A HAIR ON TONGUE", 
+      "Gums sensitive to cold air", 
+      "Boils on gums", 
+      "Abscess at root of teeth", 
+      "Pyorrhoea", 
+      "Sensitive to cold water"
+    ], 
+    "Rectum": [
+      "Feels paralyzed", 
+      "FISTULA IN ANO", 
+      "Fissures and hemorrhoids, PAINFUL, WITH SPASM OF SPHINCTER", 
+      "STOOL COMES DOWN WITH DIFFICULTY; WHEN PARTLY EXPELLED, RECEDES AGAIN", 
+      "Great straining; rectum stings; closes upon stool", 
+      "Feces remain a long time in rectum", 
+      "CONSTIPATION ALWAYS BEFORE AND DURING MENSES; with irritable sphincter ani", 
+      "Diarrhoea of cadaverous odor", 
+      "Urinary Organs", 
+      "Bloody, involuntary, with red or yellow sediment", 
+      "Prostatic fluid discharged when straining at stool", 
+      "Nocturnal enuresis in children with worms"
+    ], 
+    "Respiratory": [
+      "Colds fail to yield; sputum persistently mucopurulent and profuse", 
+      "Slow recovery after pneumonia", 
+      "Cough and sore throat, with expectoration of little granules like shot, which, when broken, smell very offensive", 
+      "Cough with expectoration in day, bloody or purulent", 
+      "Stitches in chest through to back", 
+      "VIOLENT COUGH WHEN LYING DOWN, WITH THICK, YELLOW LUMPY EXPECTORATION; suppurative stage of expectoration"
+    ], 
+    "Eyes": [
+      "Angles of eyes affected", 
+      "SWELLING OF LACHRYMAL DUCT", 
+      "Aversion to light, especially daylight; it produces dazzling, sharp pain through eyes; eyes tender to touch; worse when closed", 
+      "Vision confused; letters run together on reading", 
+      "STYES", 
+      "Iritis and iridochoroiditis, with pus in anterior chamber", 
+      "PERFORATING or sloughing ulcer of cornea", 
+      "Abscess in cornea after traumatic injury", 
+      "Cataract in office workers", 
+      "After-effects of keratitis and ulcus cornea, clearing the opacity", 
+      "Use 30th potency for months"
+    ], 
+    "Face": [
+      "Skin cracked on margin of lips", 
+      "Eruption on chin", 
+      "Facial neuralgia, throbbing, tearing, face red; worse, cold damp"
+    ], 
+    "Nose": [
+      "Itching at point of nose", 
+      "Dry, hard crusts form, BLEEDING WHEN LOOSENED", 
+      "Nasal bones sensitive", 
+      "Sneezing in morning", 
+      "Obstructed and loss of smell", 
+      "Perforation of septum"
+    ], 
+    "Male": [
+      "Burning and soreness of genitals, with eruption on inner surface of thighs", 
+      "Chronic gonorrhea, with thick, fetid discharge", 
+      "Elephantiasis of scrotum", 
+      "Sexual erethism; nocturnal emissions", 
+      "Hydrocele"
+    ], 
+    "Ears": [
+      "Fetid discharge", 
+      "Caries of mastoid", 
+      "Loud pistol-like report", 
+      "Sensitive to noise", 
+      "ROARING IN EARS"
+    ], 
+    "Modalities": [
+      "Worse: new moon", 
+      "Worse: in morning", 
+      "Worse: from washing", 
+      "Worse: during menses", 
+      "Worse: uncovering", 
+      "Worse: lying down", 
+      "Worse: damp", 
+      "Worse: lying on left side", 
+      "Worse: cold", 
+      "Better: warmth", 
+      "Better: wrapping up head", 
+      "Better: summer; in wet or humid weather"
+    ], 
+    "Mind": [
+      "Yielding, FAINT-HEARTED, ANXIOUS", 
+      "Nervous and excitable", 
+      "SENSITIVE to all impressions", 
+      "Brain-fag", 
+      "Obstinate, headstrong children", 
+      "Abstracted", 
+      "Fixed ideas; thinks only of PINS, fears them, searches and counts them"
+    ], 
+    "Back": [
+      "Weak spine; very susceptible to drafts on back", 
+      "Pain in coccyx", 
+      "Spinal irritation after injuries to spine; diseases of bones of spine", 
+      "Potts' disease", 
+      "Sleep", 
+      "NIGHT-WALKING; gets up while asleep", 
+      "Sleeplessness, with great orgasm of blood and heat in head", 
+      "Frequent starts in sleep", 
+      "Anxious dreams", 
+      "Excessive gaping"
+    ], 
+    "Female": [
+      "A milky  Acrid leucorrhoea, during urination", 
+      "Itching of vulva and vagina; very sensitive", 
+      "Discharge of blood between menstrual periods", 
+      "Increased menses, with paroxysms of ICY COLDNESS OVER WHOLE BODY", 
+      "Nipples very sore; ulcerated easily; drawn in", 
+      "Fistulous ulcers of breast", 
+      "Abscess of labia", 
+      "Discharge of blood from vagina every time child is nursed", 
+      "Vaginal cysts", 
+      "Hard lumps in breast"
+    ], 
+    "Skin": [
+      "FELONS, ABSCESSES, BOILS, OLD FISTULOUS ULCERS", 
+      "Delicate, pale, waxy", 
+      "Cracks at ends of fingers", 
+      "Painless swelling of glands", 
+      "Rose-colored blotches", 
+      "Scars suddenly become painful", 
+      "Pus offensive", 
+      "PROMOTES EXPULSION OF FOREIGN BODIES FROM TISSUES", 
+      "Every little injury suppurates", 
+      "Long lasting suppuration and fistulous tracts", 
+      "Dry finger tips", 
+      "Eruptions itch only in daytime and evening", 
+      "CRIPPLED NAILS", 
+      "Indurated tumors", 
+      "Abscesses of joints", 
+      "After impure vaccination", 
+      "Bursa", 
+      "Lepra, nodes, and coppery spots", 
+      "KELOID GROWTHS"
+    ], 
+    "Throat": [
+      "Periodical quinsy", 
+      "PRICKING AS OF A PIN IN TONSIL", 
+      "Colds settle in throat", 
+      "PAROTID GLANDS SWOLLEN", 
+      "Stinging pain on swallowing", 
+      "Hard, cold swelling of cervical glands"
+    ], 
+    "Extremities": [
+      "Sciatica, pains through the hips, legs and feet", 
+      "Cramp in calves and soles", 
+      "Loss of power in legs", 
+      "Tremulous hands when using them", 
+      "Paralytic weakness of forearm", 
+      "AFFECTIONS OF FINGER NAILS, especially if white spots on nails", 
+      "Ingrowing toe-nails", 
+      "ICY COLD AND SWEATY FEET", 
+      "THE PARTS LAIN ON GO TO SLEEP", 
+      "OFFENSIVE SWEAT ON FEET, hand, and axillae", 
+      "Sensation in tips of fingers, as if suppurating", 
+      "Panaritium", 
+      "Pain in knee, as if tightly bound", 
+      "Calves tense and contacted", 
+      "Pain beneath toes", 
+      "Soles sore", 
+      "SORENESS IN FEET FROM INSTEP THROUGH TO THE SOLE", 
+      "SUPPURATES"
+    ]
+  }, 
+  "details": "Imperfect assimilation and consequent defective nutrition. It goes further and produces neurasthenic states in consequence, and increased susceptibility to nervous stimuli and exaggerated reflexes. Diseases of bones, caries and necrosis. Silica can stimulate the organism to re-absorb fibrotic conditions and scar-tissue. In phthisis must be used with care, for here it may cause the absorption of scar-tissue, liberate the disease, walled in, to new activities. (J. Weir.) Organic changes; it is deep and slow in action. Periodical states; abscesses, quinsy, headaches, spasms, epilepsy, feeling of coldness before an attack. Keloid growth. Scrofulous, rachitic children, with large head, open fontanelles and sutures, distended abdomen, slow in walking. ILL EFFECTS OF VACCINATION. SUPPURATIVE PROCESSES. It is related to all pustulous burrowings. Ripens abscesses since it promotes suppuration. Silica patient is cold, chilly, hugs the fire, wants plenty warm clothing, hates drafts, hands and feet cold, worse in winter. Lack of vital heat. Prostration of mind and body. Great sensitiveness to taking cold. INTOLERANCE OF ALCOHOLIC STIMULANTS. Ailments attended with PUS FORMATION. Epilepsy. WANT OF GRIT, moral or physical.", 
+  "Natural History": [
+    "Silica", 
+    "Pure Flint"
+  ], 
+  "dosage": "Sixth to thirtieth potency. The 200th and higher of unquestioned activity. In malignant affections, the lowest potencies needed at times."
+}

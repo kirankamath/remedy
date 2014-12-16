@@ -1,0 +1,173 @@
+{
+  "name": "Sepia", 
+  "Relationship": "Complementary: NAT-MUR.; PHOS. NUX intensifies action. GUAIACUM often beneficial after SEPIA.Inimical: LACH.; PULS.Compare: LIL; MUREX; SILICA; SULPH.; ASPERATA-Nacent oxygen. Distilled water charged with the gas - (leucorrhoea of young girls and uterine catarrh); OZONUM (SACRAL pain; tired feeling through pelvic viscera and perineum); DICTAMNUS Burning Bush - (Soothes labor pains); (metrorrhagia, leucorrhoea, and constipation; also somnambulism). LAPATHUM. (Leucorrhoea with constriction and expulsive effort through womb and pain in kidneys).", 
+  "symptoms": {
+    "Head": [
+      "Vertigo, with sensation of something rolling round in head", 
+      "Prodromal symptoms of apoplexy", 
+      "Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side", 
+      "Jerking of head backwards and forwards", 
+      "Coldness of vertex", 
+      "Headache in TERRIBLE SHOCKS at menstrual nisus, with scanty flow", 
+      "Hair falls out", 
+      "Open fontanelles", 
+      "Roots of hair sensitive", 
+      "Pimples on forehead near hair"
+    ], 
+    "Fever": [
+      "Frequent flushes of heat; sweat from least motion", 
+      "General lack of warmth of body", 
+      "Feet cold and wet", 
+      "Shivering, with thirst; worse, toward evening"
+    ], 
+    "Stomach": [
+      "FEELING OF GONENESS; NOT RELIEVED BY EATING", 
+      "Nausea at smell or sight of food", 
+      "Nausea worse lying on side", 
+      "TOBACCO DYSPEPSIA", 
+      "Everything tastes too salty", 
+      "Band of pain about four inches wide encircling hypochondria", 
+      "NAUSEA IN MORNING BEFORE EATING", 
+      "Disposition to vomit after eating", 
+      "Burning in pit of stomach", 
+      "Longing for VINEGAR, acids, and pickles", 
+      "Worse, after milk, especially when boiled", 
+      "Acid dyspepsia with bloated abdomen, sour eructations", 
+      "Loathes fat"
+    ], 
+    "Abdomen": [
+      "FLATULENT, with headache", 
+      "LIVER SORE AND PAINFUL; RELIEVED BY LYING ON RIGHT SIDE", 
+      "Many brown spots on abdomen", 
+      "Feeling of relaxation and bearing-down in abdomen"
+    ], 
+    "Mouth": [
+      "Tongue white", 
+      "Taste salty, putrid", 
+      "Tongue foul, but clears during menses", 
+      "Swelling and cracking of lower lip", 
+      "Pain in teeth from six PM until midnight; worse on lying"
+    ], 
+    "Rectum": [
+      "Bleeding at stool and fullness of rectum", 
+      "Constipation; large, hard stools; FEELING OF A BALL IN RECTUM; cannot strain; with great tenesmus and pains shooting UPWARD", 
+      "Dark-brown, round balls glued together with mucus", 
+      "Soft stool, difficult", 
+      "Prolapsus ani", 
+      "ALMOST CONSTANT OOZING FROM ANUS", 
+      "Infantile diarrhoea, WORSE FROM BOILED MILK, and rapid exhaustion", 
+      "PAINS SHOOT UP in rectum and vagina", 
+      "Urinary Organs", 
+      "Red, ADHESIVE, sand in urine", 
+      "Involuntary urination, DURING FIRST SLEEP", 
+      "Chronic cystitis, slow micturition, with bearing-down sensation above pubis"
+    ], 
+    "Respiratory": [
+      "Dry, fatiguing cough, apparently coming from stomach", 
+      "Rotten-egg taste with coughing", 
+      "Oppression of chest morning and evening", 
+      "Dyspnoea; worse, after sleep; better, rapid motion", 
+      "Cough in morning, with profuse expectoration, tasting salty", 
+      "Hypostatic pleuritis", 
+      "Whooping-cough that drags on", 
+      "Cough excited by tickling in larynx or chest"
+    ], 
+    "Eyes": [
+      "Muscular asthenopia; black spots in the field of vision; asthenic inflammations, and in connection with uterine trouble", 
+      "Aggravation of eye troubles morning and evening", 
+      "Tarsal tumors", 
+      "Ptosis, ciliary irritation", 
+      "Venous congestion of the fundus"
+    ], 
+    "Face": [
+      "Yellow blotches; pale or sallow; yellow about mouth", 
+      "Rosacea; saddle-like brownish distribution on nose and cheeks"
+    ], 
+    "Nose": [
+      "THICK, GREENISH DISCHARGE; thick plugs and crusts", 
+      "YELLOWISH SADDLE ACROSS NOSE", 
+      "Atrophic catarrh with greenish crusts from anterior nose and pain at root of nose", 
+      "Chronic nasal catarrh, especially post-nasal, dropping of heavy, lumpy discharge; must be hawked through the mouth"
+    ], 
+    "Male": [
+      "Organs cold", 
+      "Offensive perspiration", 
+      "Gleet; discharge from urethra only during night; no pain", 
+      "Condylomata surround head of penis", 
+      "Complaints from coition"
+    ], 
+    "Ears": [
+      "HERPES BEHIND EARS ON NAPE OF NECK", 
+      "Pain as if from sub-cutaneous ulceration", 
+      "Swelling and eruption of external ear"
+    ], 
+    "Heart": [
+      "Violent, intermittent palpitation", 
+      "Beating in all arteries", 
+      "Tremulous feeling with flushes"
+    ], 
+    "Modalities": [
+      "Worse: forenoons and evenings; washing", 
+      "Worse: laundry-work", 
+      "Worse: dampness", 
+      "Worse: left side", 
+      "Worse: after sweat; cold air", 
+      "Worse: before thunder-storm", 
+      "Better: BY EXERCISE", 
+      "Better: pressure", 
+      "Better: warmth of bed", 
+      "Better: hot applications", 
+      "Better: drawing limbs up", 
+      "Better: cold bathing", 
+      "Better: after sleep"
+    ], 
+    "Mind": [
+      "INDIFFERENT to those loved best", 
+      "Averse to occupation, to FAMILY", 
+      "Irritable; easily offended", 
+      "Dreads to be alone", 
+      "VERY SAD", 
+      "Weeps when telling symptoms", 
+      "Miserly", 
+      "Anxious toward evening; indolent"
+    ], 
+    "Back": [
+      "WEAKNESS IN SMALL OF BACK", 
+      "PAINS EXTEND INTO BACK", 
+      "Coldness between shoulders"
+    ], 
+    "Female": [
+      "Pelvic organs relaxed", 
+      "BEARING-DOWN SENSATION AS IF EVERYTHING WOULD ESCAPE THROUGH VULVA ; must cross limbs to prevent protrusion, or press against vulva", 
+      "Leucorrhoea, yellow, greenish; with much itching", 
+      "Menses TOO LATE AND SCANTY, irregular; EARLY AND PROFUSE; sharp clutching pains", 
+      "Violent stitches upward in the vagina, from uterus to umbilicus", 
+      "PROLAPSE of uterus and vagina", 
+      "Morning sickness", 
+      "Vagina painful, especially on coition"
+    ], 
+    "Skin": [
+      "Herpes circinatus in isolated spots", 
+      "Itching; not relieved by scratching; worse in bends of elbows and knees", 
+      "Chloasma; herpetic eruption on lips, about mouth and nose", 
+      "Ringworm-like eruption every spring", 
+      "Urticaria on going in open air; better in warm room", 
+      "Hyperidrosis and bromidrosis", 
+      "Sweat on feet, worse on toes; intolerable odor", 
+      "Lentigo in young women", 
+      "Ichthyosis with offensive odor of skin"
+    ], 
+    "Extremities": [
+      "Lower extremities lame and stiff, tension as if too short", 
+      "Heaviness and bruised feeling", 
+      "RESTLESSNESS IN ALL LIMBS, twitching and jerkings night and day", 
+      "Pain in heel", 
+      "Coldness of legs and feet"
+    ]
+  }, 
+  "details": "Acts specially on the portal system, with venous congestion. Stasis and thereby ptosis of viscera and weariness and misery. Weakness, yellow complexion, bearing-down sensation, especially in women, upon whose organism it has most pronounced effect. Pains extend down to back, chills easily. Tendency to abortion. Hot flashes at menopause with weakness and perspiration. Upward tendency of its symptoms. Easy fainting. \"Ball\" sensation in inner parts. Sepia acts best on brunettes. All pains are from below up. One of the most important uterine remedies. Tubercular patient with chronic hepatic troubles and uterine reflexes. FEELS COLD even in warm room. Pulsating headache in cerebellum.", 
+  "Natural History": [
+    "Inky Juice of Cuttlefish"
+  ], 
+  "dosage": "Twelfth, 30th and 200th potency. Should not be used too low or to be repeated too frequently. On the other hand Dr. Jousset's unique experience is that is should be continued for some time in strong doses. 1x twice a day."
+}

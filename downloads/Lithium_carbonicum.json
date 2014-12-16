@@ -1,0 +1,74 @@
+{
+  "name": "Lithium carbonicum", 
+  "Relationship": "Compare: LYC.; AMMON. PHOS.; BENZ-AC.; CALC.; LITHIUM CHLOR. (symptoms of cinchonism, viz.: DIZZY head, full, BLURRING OF VISION. Ringing in ears; marked tremors; GENERAL WEAKNESS; marked muscular and general prostration; no gastrointestinal effects. Nose sore, heartburn, pain in teeth). LITHIUM LACTICUM (rheumatism of shoulder, and small joints relieved by moving about; worse, resting). LITHIUM BENZOICUM (deep-seated pains in loins; in small of back; uneasiness in bladder. Cystic irritation. Gallstones. Frequent desire. Diminishing uric acid deposit). LITHIUM BROMATUM (cerebral congestion, threatened apoplexy, insomnia and epilepsy).", 
+  "symptoms": {
+    "Heart": [
+      "Rheumatic soreness in cardiac region", 
+      "Sudden shock in heart", 
+      "Throbbing, dull stitch in cardiac region", 
+      "Pains in heart before menses, and associated with pains in bladder, and before urinating; better, after", 
+      "Trembling and fluttering in heart, extending to back", 
+      "Urinary Organs", 
+      "Soreness of bladder; pain in right kidney and ureter", 
+      "Turbid urine with mucus, scanty and dark, acrid; sandy deposits"
+    ], 
+    "Eyes": [
+      "Half vision; invisible right half", 
+      "Photophobia", 
+      "Pain over eyes", 
+      "Dry lids", 
+      "Eyes pain after reading"
+    ], 
+    "Respiratory": [
+      "Constriction of chest", 
+      "Violent cough when lying down", 
+      "Air feels cold when inspired", 
+      "Pain in mammary glands, WHICH EXTEND INTO THE ARMS AND FINGERS"
+    ], 
+    "Stomach": [
+      "Acidity, nausea, GNAWING, RELIEVED BY EATING", 
+      "Cannot endure slightest pressure of clothes", 
+      "Urine Section", 
+      "Tenesmus", 
+      "Turbid urine, with mucus and red deposit", 
+      "Pain in region of right kidney", 
+      "Free and colorless", 
+      "While urinating, pressure in heart", 
+      "Cystitis, subacute and chronic"
+    ], 
+    "Modalities": [
+      "Worse: in morning", 
+      "Worse: right side", 
+      "Better: rising and moving about"
+    ], 
+    "Head": [
+      "Tension, as if bound; better, sitting and going out", 
+      "Externally sensitive", 
+      "HEADACHE CEASES WHILE EATING", 
+      "Trembling and throbbing", 
+      "Pain in heart; extends to head", 
+      "Dizzy states with ringing in ears", 
+      "Both cheeks covered with dry, bran-like scales"
+    ], 
+    "Skin": [
+      "Scabby, tettery eruption on hands, head, and cheeks, preceded by red, raw skin", 
+      "Dull stitch, ending in itching", 
+      "BARBER'S ITCH", 
+      "Rough rash all over body, much loose epithelium, tough, dry, itchy skin"
+    ], 
+    "Extremities": [
+      "Paralytic stiffness all over", 
+      "Itching about joints", 
+      "Rheumatic pains throughout shoulder-joint, arm, and fingers and small joints generally", 
+      "Pain in hollow of foot, extending to knee", 
+      "Swelling and tenderness of finger and toe joints; better, hot water", 
+      "Nodular swellings in joints", 
+      "Ankles pain when walking"
+    ]
+  }, 
+  "details": "Chronic RHEUMATISM CONNECTED WITH HEART LESIONS and asthenopia offer a field for this remedy. Rheumatic nodes. Uric acid diathesis. Whole body is SORE. Gout and tophi.", 
+  "Natural History": [
+    "Carbonate of Lithium"
+  ], 
+  "dosage": "First to third trituration."
+}

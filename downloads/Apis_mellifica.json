@@ -1,0 +1,155 @@
+{
+  "name": "Apis mellifica", 
+  "Relationship": "Complementary; NAT, MUR. The \"chronic,\" APIS.; Also BARYTA CARB., if lymphatics are involved. Inimical. RHUS.Compare: Apium virus (auto-toxaemia, with pus products); Zinc.; Canth.; Vespa; Lachesis.", 
+  "symptoms": {
+    "Eyes": [
+      "Lids SWOLLEN, red, OEDEMATOUS, everted, inflamed; burn and sting", 
+      "Conjunctiva bright red, puffy", 
+      "LACHRYMATION HOT", 
+      "Photophobia", 
+      "SUDDEN PIERCING PAINS", 
+      "Pain around orbits", 
+      "SEROUS EXUDATION, EDEMA, AND SHARP PAINS", 
+      "SUPPURATIVE INFLAMMATION OF EYES", 
+      "Keratitis with INTENSE CHEMOSIS OF OCULAR CONJUNCTION", 
+      "Staphyloma of cornea following suppurative inflammation", 
+      "STYES, also prevents their recurrence"
+    ], 
+    "Fever": [
+      "AFTERNOON CHILL, WITH THIRST; WORSE ON MOTION AND HEAT", 
+      "External heat, with smothering feeling", 
+      "Sweat slight, with sleepiness", 
+      "Perspiration breaks out and dries up frequently", 
+      "Sleeps AFTER the fever paroxysm", 
+      "After perspiration, nettle rash, also with shuddering"
+    ], 
+    "Stomach": [
+      "Sore feeling", 
+      "THIRSTLESS", 
+      "Vomiting of food", 
+      "CRAVING FOR MILK"
+    ], 
+    "Female": [
+      "Oedema of labia; relieved by cold water", 
+      "Soreness and stinging pains; ovaritis; worse in RIGHT ovary", 
+      "Menses suppressed, with cerebral and head symptoms, especially in young girls", 
+      "Dysmenorrhoea, with severe ovarian pains", 
+      "Metrorrhagia profuse, with heavy abdomen, faintness, stinging pain", 
+      "Sense of tightness", 
+      "Bearing-down, as if menses were to appear", 
+      "Ovarian tumors, metritis with stinging pains", 
+      "Great tenderness over abdomen and uterine region"
+    ], 
+    "Modalities": [
+      "Worse: heat in any form; TOUCH; pressure; late in afternoon; after sleeping; in closed and heated rooms", 
+      "Better: In open air", 
+      "Better: uncovering", 
+      "Better: and cold bathing"
+    ], 
+    "Mind": [
+      "Apathy, indifference, and unconsciousness", 
+      "AWKWARD; DROPS THINGS READILY", 
+      "Stupor, with sudden sharp cries and startings", 
+      "Stupor alternating with erotic mania", 
+      "Sensation of dying", 
+      "Listless; cannot think clearly", 
+      "Jealous, fidgety, hard to please", 
+      "Sudden shrill, piercing screams", 
+      "WHINING, TEARFULNESS", 
+      "Jealous, fright, rage, vexation, grief", 
+      "Cannot concentrate mind when attempting to read or study"
+    ], 
+    "Stool": [
+      "Involuntary on every motion; ANUS SEEMS OPEN", 
+      "Bloody, painless", 
+      "Anus feels raw", 
+      "Hemorrhoids, with stinging pain, after confinement", 
+      "Diarrhoea watery, yellow; CHOLERA INFANTUM TYPE", 
+      "Cannot urinate without a stool Dark, fetid, worse after eating", 
+      "Constipation; feels as if something would break on straining", 
+      "Urine Section", 
+      "Burning and soreness when urinating", 
+      "Suppressed, loaded with casts; frequent and involuntary; stinging pain and strangury; SCANTY, HIGH COLORED", 
+      "Incontinence", 
+      "LAST DROPS burn and smart"
+    ], 
+    "Abdomen": [
+      "SORE, BRUISED on pressure, when sneezing", 
+      "EXTREMELY TENDER", 
+      "Dropsy of abdomen", 
+      "Peritonitis", 
+      "Swelling in right groin"
+    ], 
+    "Face": [
+      "Swollen, red, with piercing pain", 
+      "Waxy, pale, oedematous", 
+      "Erysipelas with stinging burning oedema", 
+      "Extends from right to left"
+    ], 
+    "Respiratory": [
+      "Hoarseness; DYSPNEA, breathing hurried and difficult", 
+      "Oedema of larynx", 
+      "Feels AS IF HE COULD NOT DRAW ANOTHER BREATH", 
+      "Suffocation; short, dry cough, suprasternal", 
+      "Hydrothorax"
+    ], 
+    "Mouth": [
+      "Tongue fiery red, swollen, sore, and raw, with vesicles", 
+      "Scalding in mouth and throat", 
+      "Tongue feels scalded, red hot, trembling", 
+      "Gums swollen", 
+      "Lips swollen, especially upper", 
+      "Membrane of mouth and throat glossy, as if varnished", 
+      "RED, SHINING, AND PUFFY, like erysipelas", 
+      "Cancer of the tongue"
+    ], 
+    "Nose": [
+      "Coldness of tip of nose", 
+      "RED, SWOLLEN, inflamed, with sharp pains"
+    ], 
+    "Head": [
+      "Whole brain feels VERY TIRED", 
+      "Vertigo with sneezing, worse on lying or closing eyes", 
+      "Heat, throbbing, distensive pains, better on pressure, and worse on motion", 
+      "Sudden stabbing pains", 
+      "Dull, heavy sensation in occiput, as from a blow, extending to neck , accompanied with sexual excitement", 
+      "Bores head into pillow and screams out"
+    ], 
+    "Skin": [
+      "Swellings after bites; SORE, SENSITIVE", 
+      "Stinging", 
+      "Erysipelas, with sensitiveness and swelling, rosy hue", 
+      "Carbuncles, with burning, stinging pain", 
+      "Sudden puffing up of whole body", 
+      "Sleep", 
+      "Very DROWSY", 
+      "Dreams full of care and toil", 
+      "Screams and SUDDEN STARTLING DURING SLEEP"
+    ], 
+    "Throat": [
+      "Constricted, stinging pains", 
+      "UVULA SWOLLEN, sac-like"
+    ], 
+    "Extremities": [
+      "Oedematous", 
+      "Synovitis", 
+      "Felon in beginning", 
+      "Knee swollen, shiny, sensitive, sore, with stinging pain", 
+      "Feet swollen and stiff", 
+      "Feel too large", 
+      "Rheumatic pain in back and limbs", 
+      "Tired, bruised feeling", 
+      "Numbness of hands and tips of fingers", 
+      "Hives with intolerable itching", 
+      "Oedematous swellings"
+    ], 
+    "Ears": [
+      "External ear red, inflamed, sore; stinging pains"
+    ]
+  }, 
+  "details": "Acts on cellular tissues causing oedema of skin and mucous membranes.The very characteristic effects of the sting of the bee furnish unerring indications for its employment in disease. Swelling or puffing up of various parts, EDEMA, red rosy hue, stinging pains, soreness, intolerance of heat, and slightest touch, and afternoon aggravation are some of the general guiding symptoms. Erysipelatous inflammations, dropsical effusions and anasarca, acute, inflammation of kidneys, and other parenchymatous tissues are characteristic pathological states corresponding to Apis. Apis acts especially on outer parts, skin, coatings of inner organs, serous membranes. It produces serous inflammation with effusion, membranes of brain, heart, pleuritic effusion, etc. Extreme sensitiveness to touch and general soreness is marked. CONSTRICTED sensations. Sensation of stiffness and as of something torn off in the interior of the body. Much prostration.", 
+  "Natural History": [
+    "The Honey-Bee"
+  ], 
+  "dosage": "Tincture to thirtieth potency. In oedematous conditions the LOWER potencies. Sometimes action is slow; so several days elapse before it is seen to act, and then urine is increased. APIUM VIRUS, sixth trituration."
+}

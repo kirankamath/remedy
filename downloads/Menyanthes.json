@@ -1,0 +1,43 @@
+{
+  "name": "Menyanthes", 
+  "Relationship": "Compare: CAPS.; PULS.; CALC.; PHOS-AC.; SANG.Antidote: CAMPH.", 
+  "symptoms": {
+    "Head": [
+      "Pressing in vertex; BETTER, HARD PRESSURE WITH HAND", 
+      "Pressing-together pain", 
+      "Weight pressing on brain with every step on ascending", 
+      "Pain from nape over whole brain; better, stooping, sitting; worse, going upstairs", 
+      "Cracking in jaw and twitching of facial muscles"
+    ], 
+    "Fever": [
+      "Coldness predominates; felt most acutely in abdomen and legs and tip of nose"
+    ], 
+    "Stomach": [
+      "No thirst at any time", 
+      "Ravenous hunger; passing away after eating a little", 
+      "Desire for meat", 
+      "Sensation of coldness extending up to oesophagus"
+    ], 
+    "Modalities": [
+      "Worse: during rest", 
+      "Worse: ascending", 
+      "Better: pressure on affected part", 
+      "Better: stooping", 
+      "Better: motion"
+    ], 
+    "Abdomen": [
+      "Distended and full; increased by smoking tobacco", 
+      "Coldness of abdomen"
+    ], 
+    "Extremities": [
+      "ICY COLDNESS OF HANDS AND FEET", 
+      "Cramp-like pain", 
+      "As soon as patient lies down, LEGS JERK AND TWITCH"
+    ]
+  }, 
+  "details": "A remedy for certain headaches, intermittent fever. Coldness of abdomen. Twitchings. Sensation of tension and compression. Fidgets and urinary difficulties in women. Diabetes.", 
+  "Natural History": [
+    "Buck-bean"
+  ], 
+  "dosage": "Third to thirtieth potency."
+}

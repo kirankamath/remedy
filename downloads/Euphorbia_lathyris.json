@@ -1,0 +1,72 @@
+{
+  "name": "Euphorbia lathyris", 
+  "Relationship": "Antidoted by Rhus tox. (skin symptoms); Veratr. alb. (vomiting, purging, cough and coma).", 
+  "symptoms": {
+    "Heart": [
+      "Weak and fluttering heart-action", 
+      "Pulse 120, full, bounding, somewhat irregular", 
+      "Sleep", 
+      "Restlessness at night", 
+      "Sleep disturbed, anxious dreams"
+    ], 
+    "Eyes": [
+      "Almost closed from OEDEMA OF LIDS"
+    ], 
+    "Respiratory": [
+      "Labored breathing", 
+      "Breath cold, musty odor", 
+      "Cough; first a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhoea and vomiting, with sleepiness between each paroxysm"
+    ], 
+    "Stomach": [
+      "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps"
+    ], 
+    "Modalities": [
+      "Worse: touch and cold air;Amelioration", 
+      "Better: close room and sweet-oil application"
+    ], 
+    "Mind": [
+      "Delirium and hallucinations", 
+      "Stupor, coma"
+    ], 
+    "Stool": [
+      "Drastic purgation from large doses; mild laxative condition from smaller doses; followed several weeks afterwards by obstinate constipation", 
+      "Stools of white, transparent, gelatinous mucus; later mingled with blood", 
+      "Urine Section", 
+      "Copious flow of urine"
+    ], 
+    "Face": [
+      "At first ruddy glow on cheeks, afterwards death-like pallor", 
+      "Cold perspiration in beads on forehead", 
+      "Red, puffed, and in spots suppurating", 
+      "Erythema, beginning on face, gradually extending into the hair parts, and then spreading over whole body, taking eight days to do so; eruption glossy, rough oedematous, with burning and smarting; aggravated by touch and cold air; ameliorated by close room and sweet-oil applications", 
+      "Fine bran-like desquamation", 
+      "Sensation of cobwebs", 
+      "Stinging, smarting, and burning of face when touched"
+    ], 
+    "Fever": [
+      "Temperature increased", 
+      "Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead"
+    ], 
+    "Mouth": [
+      "Tongue coated, slimy; acrid taste", 
+      "Breath cold, musty odor"
+    ], 
+    "Nose": [
+      "End of nose very much inflamed externally", 
+      "Very SENSITIVE AND OEDEMATOUS mucous membranes with ulceration"
+    ], 
+    "Skin": [
+      "Erythema, beginning on uncovered parts, on face, and spreading over whole body; glossy, rough, oedematous, with burning and smarting", 
+      "Fine bran-like desquamation following in the wake of the erythema", 
+      "Eruption rough, scaly, smarting, and burning; when scratched forms deep, ragged ulcers; skin where ulcerated remains red"
+    ], 
+    "Male": [
+      "Inflammation of scrotum, resulting in deep acrid ulcers, with intense itching and burning; worse, touching the parts from washing"
+    ]
+  }, 
+  "details": "The fresh milky juice is exceedingly acrid when applied to the skin and the fruit is highly purgative and poisonous. The juice causes redness, itching, pimples, sometimes gangrene. The symptoms point to its use in erysipelas, Poison Oak, etc. Rheumatic pains during rest. Paralytic, weakness in joints.", 
+  "Natural History": [
+    "Gopher-Plant, Caper Spurge"
+  ], 
+  "dosage": "Third to thirtieth potency."
+}

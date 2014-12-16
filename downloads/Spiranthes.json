@@ -1,0 +1,27 @@
+{
+  "Natural History": [
+    "Lady's Tresses"
+  ], 
+  "details": "Has been used for milk-flow in nursing women, lumbago and rheumatism, colic, with drowsiness and spasmodic yawning. Is an anti-phlogistic remedy akin to Acon. its symptoms showing congestion and inflammation. Acidity and burning in oesophagus with eructation.", 
+  "symptoms": {
+    "Fever": [
+      "Flushes of heat", 
+      "Sweat on palms", 
+      "Hands alternately hot and cold"
+    ], 
+    "Female": [
+      "Pruritis; vulva red; dryness and burning in vagina", 
+      "Burning pain in vagina during coition", 
+      "Leucorrhoea, bloody"
+    ], 
+    "Extremities": [
+      "Sciatic pain, especially right side", 
+      "Pain in shoulders", 
+      "Swelling of veins of hands", 
+      "Pain in all articulation of hands", 
+      "Coldness of feet and toes"
+    ]
+  }, 
+  "name": "Spiranthes", 
+  "dosage": "Third potency."
+}

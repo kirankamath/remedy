@@ -1,0 +1,51 @@
+{
+  "Natural History": [
+    "DandelionFor gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin", 
+    "Cancer of bladder", 
+    "Flatulence", 
+    "HYSTERICAL TYMPANITES"
+  ], 
+  "symptoms": {
+    "Head": [
+      "Sensation of great heat on top of head", 
+      "STERNOMASTOID muscle very painful to touch"
+    ], 
+    "Fever": [
+      "Chilliness after eating, worse drinking; FINGER TIPS COLD", 
+      "BITTER TASTE", 
+      "Heat without thirst, in face, IN TOES", 
+      "Sweat on falling asleep"
+    ], 
+    "Modalities": [
+      "Worse: resting", 
+      "Worse: lying down", 
+      "Worse: sitting", 
+      "Better: touch"
+    ], 
+    "Abdomen": [
+      "Liver enlarged and indurated", 
+      "Sharp stitches in left side", 
+      "Sensation of bubbles bursting in bowels", 
+      "Tympanitis", 
+      "Evacuation difficult"
+    ], 
+    "Mouth": [
+      "Mapped tongue", 
+      "Tongue covered with a white film; feels raw; comes off in patches, leaving RED, SENSITIVE SPOTS", 
+      "Loss of appetite", 
+      "Bitter taste and eructations", 
+      "Salivation"
+    ], 
+    "Skin": [
+      "PROFUSE NIGHT-SWEATS"
+    ], 
+    "Extremities": [
+      "Very restless limbs", 
+      "NEURALGIA OF KNEE; BETTER, PRESSUR", 
+      "Limbs painful to touch"
+    ]
+  }, 
+  "name": "Taraxacum", 
+  "Relationship": "Compare: CHOLINE, a constituent of Taraxacum root, has given encouraging results in the treatment of cancer. Choline is closely related to NEURIN, it is the \"Cancronie\" of Prof. Adamkiewicz (E. Schlegel.) BRY.; HYDRAST.; NUX. TELA ARANEA (nervous asthma and sleeplessness).", 
+  "dosage": "Tincture, to third potency. In cancer 1-2 drams fluid extract."
+}

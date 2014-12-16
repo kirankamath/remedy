@@ -1,0 +1,36 @@
+{
+  "Natural History": [
+    "Silicate of Potash"
+  ], 
+  "details": "A deep-acting remedy. Lassitude is very marked. Desire to lie down all the time. Emaciation.Gouty nodosities", 
+  "symptoms": {
+    "Head": [
+      "Absent-minded, anxious, indolent, timid", 
+      "Feeble will power", 
+      "Head congested, blood surges from body to head", 
+      "Vertigo, coldness of head; photophobia", 
+      "Nasal catarrh, discharge BLOODY, excoriating, offensive nose, swollen, ulcerated", 
+      "Gastric", 
+      "Weight in stomach after eating, nausea, pain, flatulence", 
+      "Pain in liver region", 
+      "Constipation", 
+      "Construction of anus during stool"
+    ], 
+    "Modalities": [
+      "Worse: open air", 
+      "Worse: drafts", 
+      "Worse: cold", 
+      "Worse: exertion", 
+      "Worse: motion uncovering", 
+      "Worse: bathing"
+    ], 
+    "Extremities": [
+      "Stiffness over body and limbs", 
+      "Creeping sensation over limbs", 
+      "Twitching of muscles", 
+      "Weak and weary"
+    ]
+  }, 
+  "name": "Kali silicatum", 
+  "dosage": "Higher potencies."
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Asafoetida", 
+  "Relationship": "Antidotes: China; Mercur.Compare: Moschus; China; Mercur; Aurum", 
+  "symptoms": {
+    "Eyes": [
+      "Orbital neuralgia; better, pressure and rest", 
+      "Iritis and intraocular inflammations, with boring, throbbing pains at night", 
+      "Stitches under left frontal eminences", 
+      "Boring pains in and around eyes", 
+      "Syphilitic iritis", 
+      "Superficial corneal ulcer with digging pains; worse at night"
+    ], 
+    "Stomach": [
+      "Great difficulty in bringing up wind", 
+      "FLATULENCE AND REGURGITATION OF LIQUID", 
+      "Hysterical flatulence", 
+      "Great distention", 
+      "Sensation of emptiness and weakness, with distention and beating in stomach and abdomen", 
+      "Forcible eructation of gas", 
+      "PULSATION IN PIT OF STOMACH", 
+      "Violent gastralgia; cutting and burning in stomach and region of diaphragm", 
+      "Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation"
+    ], 
+    "Modalities": [
+      "Worse: at night; from tough; left side", 
+      "Worse: during rest", 
+      "Worse: warm applications", 
+      "Better: open air; from motion", 
+      "Better: pressure"
+    ], 
+    "Head": [
+      "Irritable; complains of her troubles; sensitive", 
+      "Boring above eyebrows", 
+      "PRESSIVE PAIN FROM WITHIN OUTWARD"
+    ], 
+    "Chest": [
+      "SPASMODIC TIGHTNESS, as if lungs could not be fully expanded", 
+      "Palpitation more like a tremor", 
+      "Bones", 
+      "Darting pain and caries in bones", 
+      "Periosteum painful, swollen, enlarged", 
+      "Ulcers affecting bones; thin, ichorous pus"
+    ], 
+    "Nose": [
+      "Syphilitic ozaena, with very offensive purulent discharge", 
+      "CARIES OF NASAL BONES"
+    ], 
+    "Female": [
+      "Mammae turgid with milk in the nonpregnant", 
+      "DEFICIENT MILK, with over-sensitiveness"
+    ], 
+    "Skin": [
+      "Itching, better scratching; ulcers painful on edges", 
+      "Suppressed skin symptoms produce nervous disorders"
+    ], 
+    "Throat": [
+      "GLOBUS HYSTERICUS", 
+      "Ball rises in throat", 
+      "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat"
+    ], 
+    "Rectum": [
+      "Distended, griping, with hunger", 
+      "Obstinate constipation", 
+      "Pain in perineum, as if something dull pressed out", 
+      "DIARRHEA, EXTREMELY OFFENSIVE, WITH METEORISM, and regurgitation of food"
+    ], 
+    "Ears": [
+      "Offensive otorrhoea, with boring pains in mastoid bone", 
+      "Mastoid disease with pain in temporal region with PUSHING OUT SENSATION", 
+      "Offensive, purulent discharge"
+    ]
+  }, 
+  "details": "The flatulence and spasmodic contraction of stomach and oesophagus with reverse peristalsis are the most marked symptoms. In its selection, its relation to the hysterical and hypochondriacal patients, must be borne in mind. Besides these superficial symptoms, it has been found to affect favorably deep ulcerations, caries of bones, especially in the syphilitic organism; here the EXTREME SENSITIVENESS and terrible throbbing, nightly pains, guiding to its use.", 
+  "Natural History": [
+    "Gum of the Stinkasand"
+  ], 
+  "dosage": "Second to sixth potency."
+}

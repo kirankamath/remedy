@@ -1,0 +1,32 @@
+{
+  "name": "Ammoniacum dorema", 
+  "Relationship": "Antidotes: Bry.; Arnica.Compare: Senega.; Tart. emet.; Balsam Peru.", 
+  "symptoms": {
+    "Eyes": [
+      "Dim sight", 
+      "Stars and fiery points float before eyes", 
+      "Easily fatigued from reading"
+    ], 
+    "Respiratory": [
+      "DIFFICULT BREATHING", 
+      "Chronic bronchial catarrh", 
+      "Large accumulation of purulent matter and feeble expectoration; worse cold weather", 
+      "Mucus tough and hard", 
+      "Heart beats stronger, extends to pit of stomach", 
+      "Coarse rattling of chest in old people"
+    ], 
+    "Head": [
+      "Catarrhal headache due to closure of frontal sinuses"
+    ], 
+    "Throat": [
+      "Throat dry; worse inhaling fresh air", 
+      "Full feeling, burning and scraping sensation", 
+      "Immediately after eating, sensation as if something stuck in oesophagus, causing swallowing"
+    ]
+  }, 
+  "details": "A remedy for the aged and feeble, especially in chronic bronchitis. Ill humor. Sensitive to cold. Sensation of burning and scratching in neck and oesophagus.", 
+  "Natural History": [
+    "Gum Ammoniac"
+  ], 
+  "dosage": "Third trituration."
+}

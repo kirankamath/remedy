@@ -1,0 +1,44 @@
+{
+  "Natural History": [
+    "Lesser Periwinkle"
+  ], 
+  "symptoms": {
+    "Head": [
+      "Tearing pain in vertex, ringing and whistling in ears", 
+      "Whirling vertigo, with flickering before eyes", 
+      "SPOTS ON SCALP, OOZING MOISTURE, MATTING HAIR TOGETHER", 
+      "CORROSIVE ITCHING OF SCALP", 
+      "Bald spots", 
+      "PLICA POLONICA", 
+      "Irresistible desire to scratch"
+    ], 
+    "Nose": [
+      "Tip gets red easily", 
+      "Moist eruption on septum", 
+      "Stoppage of one nostril", 
+      "SORES IN NOSE", 
+      "Seborrhoea upper lip and base of nose"
+    ], 
+    "Female": [
+      "Excessive menstruation with great weakness", 
+      "PASSIVE UTERINE HEMORRHAGES", 
+      "Menorrhagia; continuous flow, particularly at climacteric", 
+      "Hemorrhages from fibroids"
+    ], 
+    "Skin": [
+      "Corrosive itching", 
+      "GREAT SENSITIVENESS OF SKIN, WITH REDNESS AND SORENESS from slight rubbing", 
+      "Eczema of head and face; pustules, itching, burning, and offensive odor", 
+      "Hair matted together"
+    ], 
+    "Throat": [
+      "Difficult swallowing", 
+      "Ulcers", 
+      "Frequent hawking", 
+      "DIPHTHERIA"
+    ]
+  }, 
+  "name": "Vinca minor", 
+  "Relationship": "Compare: OLEAND.; STAPH.", 
+  "details": "A remedy for skin affections, eczema, and especially plica polonica; also for hemorrhages and diphtheria."
+}

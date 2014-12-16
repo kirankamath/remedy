@@ -1,0 +1,190 @@
+{
+  "name": "Natrum muriaticum", 
+  "Relationship": "Complementary to APIS; SEPIA; IGN.Compare: AQUA MARINA - Isotonic plasma. Marine plasma is a sea water taken some miles from shore and some depth below surface, filtered and diluted with twice as much pure fresh water. It acts primarily on the blood, as in intoxications, scrofulous conditions, enteritis. It disintoxicate in cancer (administered subcutaneously in the treatment of diseases of skin, kidneys and intestines, GASTROENTERITIS, AND TUBERCULOSIS). SCROFULOUS AFFECTIONS OF CHILDREN. Lymphadenitis. Lupus, eczema, varicose ulcers. A great \"blood purifier and vitalizer.\" Potentized sea-water in weakness, lack of reaction; symptoms worse seaside. Goitre.) SAL MARINUM sea salt, (indicated in chronic enlargements of glands, especially cervical. Suppurating glands. It appears likely to become a most useful remedy as an auxiliary, if not as a principal, in the treatment of diseases in patients of a strumous diathesis. Also useful in constipation.) NATRUM SELENICUM (laryngeal phthisis with expectoration of small lumps of bloody mucus and slight hoarseness.) NATRUM SILICUM (hemophilia; scrofulous bone affections; given intravenously every 3 days for SENILE PRURITUS); (DOLICHOS. FAGOPYR.) IGNAT.; SEP.; THUJA; GRAPH.; ALUM.Antidotes: ARS.; PHOS.; SPIR. NIT. DULC.", 
+  "symptoms": {
+    "Head": [
+      "Throbs", 
+      "BLINDING headache", 
+      "Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, AFTER MENSTRUATION, from SUNRISE TO SUNSET", 
+      "Feels too large; cold", 
+      "Anaemic headache of school-girls; nervous, discouraged, broken down", 
+      "Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomiting; periodical; from eyestrain; menstrual", 
+      "Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep", 
+      "Frontal sinus inflammation"
+    ], 
+    "Fever": [
+      "Chill between 9 and eleven AM", 
+      "Heat; violent thirst, increases with fever", 
+      "Fever-blisters", 
+      "COLDNESS OF THE BODY, and CONTINUED CHILLINESS very marked", 
+      "Hydraemia in chronic malarial states with weakness, constipation, loss of appetite, etc", 
+      "Sweats on every exertion"
+    ], 
+    "Stomach": [
+      "Hungry, yet lose flesh", 
+      "Heartburn, with palpitation", 
+      "Unquenchable thirst", 
+      "SWEATS WHILE EATING", 
+      "Craving for salt", 
+      "Aversion to bread, to anything slimy, like oysters; fats", 
+      "Throbbing in pit", 
+      "Sticking sensation in cardiac orifice"
+    ], 
+    "Abdomen": [
+      "Cutting pain in abdomen", 
+      "Distended", 
+      "Pain in abdominal ring on coughing"
+    ], 
+    "Mouth": [
+      "Frothy coating on tongue, with bubbles on side", 
+      "Sense of dryness", 
+      "Scorbutic gums", 
+      "NUMBNESS, TINGLING OF TONGUE, lips, and nose", 
+      "Vesicles and burning on tongue, as if there was a hair on it", 
+      "Eruptions around mouth and VESICLES LIKE PEARLS ON LIPS", 
+      "Lips and corners of mouth dry, ulcerated, and cracked", 
+      "Deep crack in middle of lower lip", 
+      "TONGUE MAPPED", 
+      "Loss of taste", 
+      "Large vesicle on lower lip, which is swollen and burns", 
+      "Immoderate thirst"
+    ], 
+    "Rectum": [
+      "Burning pains and stitching after stool", 
+      "Anus contracted, TORN, BLEEDING", 
+      "Constipation; stool dry, crumbling", 
+      "Painless and copious diarrhoea, preceded by pinching pain in abdomen", 
+      "Urine Section", 
+      "Pain just AFTER urinating", 
+      "Increased, involuntary when walking, coughing, etc", 
+      "Has to wait a long time for it to pass IF OTHERS ARE PRESENT"
+    ], 
+    "Respiratory": [
+      "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine", 
+      "Stitches all over chest", 
+      "Cough, with bursting pain in head", 
+      "Shortness of breath, especially on going upstairs", 
+      "Whooping-cough with FLOWS OF TEARS WITH COUGH"
+    ], 
+    "Eyes": [
+      "Feel bruised, WITH HEADACHE IN SCHOOL CHILDREN", 
+      "Eyelids heavy", 
+      "MUSCLES WEAK AND STIFF", 
+      "Letters run together", 
+      "Sees sparks", 
+      "Fiery, zigzag appearance around all objects", 
+      "Burning in eyes", 
+      "Give out on reading or writing", 
+      "Stricture of lachrymal duct with suppuration", 
+      "Escape of mucopus when pressing upon sac", 
+      "Lachrymation, burning and acrid", 
+      "Lids swollen", 
+      "Eyes appear wet with tears", 
+      "TEARS STREAM DOWN FACE ON COUGHING", 
+      "ASTHENOPIA DUE to insufficiency of INTERNAL RECTI MUSCLES", 
+      "PAIN IN EYES WHEN LOOKING DOWN", 
+      "Cataract INCIPIENT"
+    ], 
+    "Face": [
+      "Oily, shiny, as if greased", 
+      "Earthy complexion", 
+      "FEVER-BLISTERS"
+    ], 
+    "Nose": [
+      "VIOLENT, FLUENT CORYZA, lasting from one to three days, then changing into stoppage of nose, making breathing difficult", 
+      "Discharge thin and watery, LIKE RAW WHITE OF EGG", 
+      "Violent sneezing coryza", 
+      "INFALLIBLE FOR STOPPING A COLD COMMENCING WITH SNEEZING", 
+      "Use thirtieth potency", 
+      "LOSS OF SMELL AND TASTE", 
+      "Internal soreness of nose", 
+      "Dryness"
+    ], 
+    "Male": [
+      "Emission, even after coitus", 
+      "Impotence with retarded emission"
+    ], 
+    "Ears": [
+      "Noises; roaring and ringing"
+    ], 
+    "Heart": [
+      "Tachycardia", 
+      "Sensation of coldness of heart", 
+      "Heart and chest feel constricted", 
+      "Fluttering, palpitating; intermittent pulse", 
+      "Heart's pulsations shake body", 
+      "INTERMITS ON LYING DOWN"
+    ], 
+    "Modalities": [
+      "Worse: noise", 
+      "Worse: music", 
+      "Worse: warm room", 
+      "Worse: lying down; about ten AM", 
+      "Worse: at seashore", 
+      "Worse: mental exertion", 
+      "Worse: consolation", 
+      "Worse: HEAT", 
+      "Worse: talking", 
+      "Better: open air", 
+      "Better: cold bathing", 
+      "Better: going without regular meals", 
+      "Better: lying on right side; pressure against back", 
+      "Better: tight clothing"
+    ], 
+    "Mind": [
+      "Psychic causes of disease; ill effects of grief, fright, anger, etc", 
+      "Depressed, particularly in chronic diseases", 
+      "CONSOLATION AGGRAVATES", 
+      "Irritable; gets into a passion about trifles", 
+      "Awkward, hasty", 
+      "Wants to be alone to cry", 
+      "Tears with laughter"
+    ], 
+    "Female": [
+      "Menses irregular; usually profuse", 
+      "Vagina dry", 
+      "Leucorrhoea acrid, watery", 
+      "Bearing-down pains; worse in morning", 
+      "Prolapsus uteri, with cutting in urethra", 
+      "Ineffectual labor-pains", 
+      "Suppressed menses", 
+      "Hot during menses"
+    ], 
+    "Skin": [
+      "Greasy, oily, especially on hairy parts", 
+      "Dry eruptions, especially on margin of hairy scalp and bends of joints", 
+      "Fever blisters", 
+      "Urticaria; itch and burn", 
+      "Crusty eruptions in BENDS OF LIMBS, MARGIN OF SCALP, behind ears", 
+      "Warts on palms of hands", 
+      "Eczema; raw, red, and inflamed; worse, eating salt, at seashore", 
+      "Affects hair follicles", 
+      "Alopecia", 
+      "HIves, itching after exertion", 
+      "GREASY skin"
+    ], 
+    "Extremities": [
+      "Pain in back, WITH DESIRE FOR SOME FIRM SUPPORT", 
+      "Every movement accelerates the circulation", 
+      "PALMS HOT AND PERSPIRING", 
+      "Arms and legs, but especially knees, feel weak", 
+      "HANGNAILS", 
+      "Dryness and cracking about finger-nails", 
+      "NUMBNESS AND TINGLING in fingers and lower extremities", 
+      "Ankles weak and turn easily", 
+      "Painful contraction of hamstring", 
+      "Cracking in joints on motion", 
+      "COLDNESS OF LEGS with congestion to head, chest, and stomach", 
+      "Sleep", 
+      "Sleepy in forenoon", 
+      "Nervous jerking during sleep", 
+      "Dreams of robbers", 
+      "Sleepless from grief"
+    ]
+  }, 
+  "details": "The prolonged taking of excessive salt causes profound nutritive changes to take place in the system, and there arise not only the symptoms of salt retention as evidenced by dropsies and oedemas, but also an alteration in the blood causing a condition of anaemia and leucocytosis. There seems also to be a retention in the tissues of effete materials giving rise to symptoms loosely described as gouty or rheumatic gout. The provings are full of such symptoms. (Dr. Stonham.) A great remedy for certain forms of intermittent fever, anaemia, chlorosis, many disturbances of the alimentary tract and skin. Great debility; most weakness felt in the morning in bed. COLDNESS. Emaciation most notable in neck. Great liability to take cold. DRY MUCOUS MEMBRANES. Constrictive sensation throughout the body. GREAT WEAKNESS AND WEARINESS. Oversensitive to all sorts of influences. Hyperthyroidism. Goitre. Addison's disease. Diabetes.", 
+  "Natural History": [
+    "Chloride of Sodium"
+  ], 
+  "dosage": "Twelfth to thirtieth and higher. The very highest potencies often yield most brilliant results. And in infrequent dosage."
+}

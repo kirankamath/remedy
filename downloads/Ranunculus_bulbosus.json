@@ -1,0 +1,52 @@
+{
+  "name": "Ranunculus bulbosus", 
+  "Relationship": "Incompatible: SULPH.; STAPH.Compare: RANUNC. ACRIS (pain in lumbar muscles and joints by bending and turning body); RANUNC. GLACIALIS - Reindeer flower Carlina - (Pulmonary affections; broncho-pneumonical. Influenza - enormous weight in head with vertigo and sensation as of impending apoplexy; night-sweats - more on thighs); RANUNC. REPENS (crawling sensation in forehead and scalp in evening in bed); RANUNC. FLAMMULA (ulceration; gangrene of arm). Compare, also: BRY.; CROTON; MEZ.; EUPHORB.Antidotes: BRY.; CAMPH.; RHUS.", 
+  "symptoms": {
+    "Eyes": [
+      "Day-blindness; mist before eyes; pressure and smarting in eyes, as from smoke", 
+      "Pain over right eye; better, standing and walking", 
+      "Herpes on cornea", 
+      "Vesicles on cornea, with intense pain, photophobia, and lachrymation"
+    ], 
+    "Modalities": [
+      "Worse: open air", 
+      "Worse: motion", 
+      "Worse: contact", 
+      "Worse: atmospheric changes", 
+      "Worse: wet", 
+      "Worse: stormy weather", 
+      "Worse: evening"
+    ], 
+    "Head": [
+      "Irritable, pains in forehead and eyeballs", 
+      "Creeping sensation in scalp", 
+      "Pressing pain in forehead from within outward"
+    ], 
+    "Chest": [
+      "Various kinds of pains and SORENESS, AS IF BRUISED IN STERNUM, ribs, intercostal spaces, and both hypochondria", 
+      "INTERCOSTAL RHEUMATISM", 
+      "CHILLINESS IN CHEST WHEN WALKING IN OPEN AIR", 
+      "Stitches in chest, between shoulder-blades; worse, inspiring, moving", 
+      "Rheumatic pain in chest, as from subcutaneous ulceration", 
+      "TENDERNESS OF ABDOMEN TO PRESSURE", 
+      "MUSCULAR PAIN ALONG LOWER MARGIN OF THE SHOULDER-BLADE; burning in small spots from sedentary employment"
+    ], 
+    "Skin": [
+      "BURNING AND INTENSE ITCHING; WORSE, CONTACT", 
+      "Hard excrescences", 
+      "HERPETIC ERUPTIONS, with great itching", 
+      "SHINGLES; BLUISH VESICLES", 
+      "Itching in palms", 
+      "Blister-like eruption in palms", 
+      "Corns sensitive", 
+      "Horny skin", 
+      "Finger-tips and palms chapped", 
+      "Vesicular and pustular eruptions"
+    ]
+  }, 
+  "details": "Acts especially upon the muscular tissue and skin, and its most characteristic effects are upon the chest walls, like pleurodynia. BAD EFFECTS OF ALCOHOL; DELIRIUM TREMENS. Spasmodic hiccough. Hydrothorax. Shocks throughout the whole body. Sensitive to air and touch. Chronic sciatica.", 
+  "Natural History": [
+    "Buttercup"
+  ], 
+  "dosage": "Mother tincture, in ten to thirty drop doses in delirium tremens; third to thirtieth potency generally. Chronic sciatica, apply tincture to heel of affected leg (M. Jousset)."
+}

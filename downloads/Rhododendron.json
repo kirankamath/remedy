@@ -1,0 +1,63 @@
+{
+  "name": "Rhododendron", 
+  "Relationship": "Compare: AMPELOPSIS (hydrocele and renal dropsy); DULC.; RHUS; NAT-SULPH.", 
+  "symptoms": {
+    "Eyes": [
+      "Muscular asthenopia; darting pains through eyes from head, worse before a storm"
+    ], 
+    "Modalities": [
+      "Worse: before a storm", 
+      "Better: after the storm breaks", 
+      "Better: warmth", 
+      "Better: and eating"
+    ], 
+    "Mind": [
+      "Dread of a storm; particularly afraid of thunder", 
+      "Forgetful"
+    ], 
+    "Head": [
+      "Aching in temples", 
+      "Tearing pain in bones", 
+      "Headache; worse, wine, wind, cold and wet weather", 
+      "Pain in eyes before a storm", 
+      "CILIARY NEURALGIA, involving eyeball, orbit, and head", 
+      "Heat in eyes when using them"
+    ], 
+    "Face": [
+      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
+      "Toothache in damp weather and before a storm", 
+      "Swollen gums", 
+      "Stumps of teeth are loosened"
+    ], 
+    "Chest": [
+      "Violent pleuritic pains running downward in left anterior chest", 
+      "Breathless and speechless from violent pleuritic pains running down the anterior chest", 
+      "Stitches in spleen from fast walking", 
+      "Crampy pain under short ribs"
+    ], 
+    "Extremities": [
+      "Joints swollen", 
+      "Gouty inflammation of great toe-joint", 
+      "RHEUMATIC TEARING IN ALL LIMBS, especially right side; worse, at rest and in stormy weather", 
+      "Stiffness of neck", 
+      "Pain in shoulders, arms, wrists; worse when at rest", 
+      "Pains in bones in spots, and reappear by change of weather", 
+      "CANNOT SLEEP UNLESS LEGS ARE CROSSED"
+    ], 
+    "Male": [
+      "Testicles, worse left, swollen, painful, drawn up", 
+      "Orchitis; glands feel crushed", 
+      "Induration and swelling of testes after gonorrhea", 
+      "HYDROCELE"
+    ], 
+    "Ears": [
+      "Difficult hearing, with whizzing and ringing in ears", 
+      "Hearing better in the morning; noises come on after patient has been up a few hours"
+    ]
+  }, 
+  "details": "Rheumatic and gouty symptoms well marked. Rheumatism in the hot season. The modality (worse before a storm) is a true guiding symptom.", 
+  "Natural History": [
+    "Snow-rose"
+  ], 
+  "dosage": "First to sixth potency."
+}

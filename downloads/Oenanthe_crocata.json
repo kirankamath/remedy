@@ -1,0 +1,29 @@
+{
+  "name": "Oenanthe crocata", 
+  "Relationship": "Compare: CICUTA; KALI-BROM.", 
+  "symptoms": {
+    "Head": [
+      "Pains all over head, dizzy", 
+      "Sudden and complete unconsciousness", 
+      "Furious delirium, giddiness", 
+      "Countenance livid, eyes fixed, pupils dilated, CONVULSIVE TWITCHING OF FACIAL MUSCLES, trismus, foaming at mouth, locked jaws", 
+      "Much yawning", 
+      "Tendency to cry over little things"
+    ], 
+    "Respiratory": [
+      "Tickling cough, with rattling in the lower part of the chest, and thick, frothy expectoration", 
+      "Heavy, spasmodic, stertorous breathing"
+    ], 
+    "Extremities": [
+      "Convulsions; opisthotonos", 
+      "Pain along crural and sciatic nerves, commencing in back", 
+      "Cold hands and feet", 
+      "Numbness of hand and foot"
+    ]
+  }, 
+  "details": "Epileptiform convulsions; worse, during menstruation and pregnancy. Puerperal eclampsia; uraemic convulsions. Burning in throat and stomach, nausea and vomiting. Red spots in face. Convulsive facial twitching. Skin affections, especially lepra and ichthyosis.", 
+  "Natural History": [
+    "Water Drop wart"
+  ], 
+  "dosage": "First to sixth potency."
+}

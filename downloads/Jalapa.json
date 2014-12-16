@@ -1,0 +1,27 @@
+{
+  "name": "Jalapa", 
+  "Relationship": "Antidotes: ELATER.; CANN. SAT.Compare: CAMPH.; COLCY.", 
+  "symptoms": {
+    "Stomach": [
+      "Tongue, smooth, glazed, dry, smarting", 
+      "Pain in right hypochondrium", 
+      "Flatulence and nausea", 
+      "Pinching and griping", 
+      "Watery diarrhoea; thin, muddy stools", 
+      "Abdomen distended", 
+      "Face cold and blue", 
+      "Anus sore"
+    ], 
+    "Extremities": [
+      "Aching in arms and legs", 
+      "Pain in large joint of great toe", 
+      "Smarting at root of nail", 
+      "Burning of soles"
+    ]
+  }, 
+  "details": "Causes and cures colic and diarrhoea. The child is good all day, but screams and is restless and troublesome at night.", 
+  "Natural History": [
+    "Exogonium PurgaJalap"
+  ], 
+  "dosage": "Third to twelfth potency."
+}

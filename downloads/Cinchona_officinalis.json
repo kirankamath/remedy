@@ -1,0 +1,160 @@
+{
+  "name": "Cinchona officinalis", 
+  "Relationship": "Antidotes: ARN.; ARS.; NUX; IPEC.Compare: QUINIDINE - (Paroxysmal tachycardia and AURICULAR FIBRILLATION. Heart is slowed, and the auriculoventricular conduction time is lengthened. Dose 1/2 grain t.i.d. CEPHALANTHUS - Button Bush - Intermittent fever, sore throat, rheumatic symptoms, vivid dreams). ARS.; CEDRON.; NAT-SULPH. CYDONIA VULGARIS - Quince (supposed to be of use to strengthen the sexual organs and stomach).Complementary: FERRUM; CALC. PHOS.", 
+  "symptoms": {
+    "Stool": [
+      "Undigested, frothy, yellow; PAINLESS; worse at night, after meals, during hot weather, from FRUIT, milk, beer", 
+      "Very weakening, with much flatulence", 
+      "Difficult even when soft"
+    ], 
+    "Head": [
+      "As if skull would burst", 
+      "Sensation as if brain were balancing to and fro, and striking against skull, receiving great pain", 
+      "Intense THROBBING of head and carotids", 
+      "Spasmodic headache in vertex, with subsequent pain, as if bruised in sides of head", 
+      "Face flushed after Hemorrhages, or sexual excesses, or loss of vital fluids", 
+      "Relieved from pressure and warm room", 
+      "Scalp sensitive; worse combing hair", 
+      "Aches worse in open air, from temple to temple", 
+      "Worse by contact, current of air, stepping", 
+      "Dizzy when walking"
+    ], 
+    "Fever": [
+      "Intermittent, paroxysms anticipate; return every week", 
+      "All stages well marked", 
+      "Chill generally in forenoon, commencing in breast; thirst before chill, and little and often", 
+      "Debilitating night-sweats", 
+      "Free perspiration caused by every little exertion, especially on single parts", 
+      "Hay fever, watery coryza, pain in temples"
+    ], 
+    "Stomach": [
+      "Tender, cold", 
+      "Vomiting of undigested food", 
+      "Slow digestion", 
+      "Weight after eating", 
+      "Ill effects of tea", 
+      "Hungry without appetite", 
+      "Flat taste", 
+      "Darting pain crosswise in hypogastric region", 
+      "Milk disagrees", 
+      "Hungry longing for food, which lies undigested", 
+      "FLATULENCE; BELCHING of bitter fluid or regurgitation of food GIVES NO RELIEF; worse eating fruit", 
+      "HICCOUGH", 
+      "Bloatedness better by movement"
+    ], 
+    "Abdomen": [
+      "Much flatulent colic; better bending double", 
+      "TYMPANITIC ABDOMEN", 
+      "Pain in right hypochondrium", 
+      "GALLSTONE COLIC", 
+      "Liver and spleen swollen and enlarged", 
+      "Jaundice", 
+      "Internal coldness of stomach and abdomen", 
+      "Gastroduodenal catarrh"
+    ], 
+    "Mouth": [
+      "Toothache; better pressing teeth firmly together, and by warmth", 
+      "Tongue coated thick, dirty; tip burns, succeeded by ptyalism", 
+      "Bitter taste", 
+      "Food tastes too salty"
+    ], 
+    "Respiratory": [
+      "Influenza, with debility", 
+      "Cannot breathe with head low", 
+      "Labored, slow respiration; constant choking", 
+      "SUFFOCATIVE CATARRH; RATTLING IN CHEST; violent, hacking cough AFTER EVERY MEAL", 
+      "Hemorrhage from lungs", 
+      "Dyspnoea, sharp pain in left lung", 
+      "Asthma; worse damp weather"
+    ], 
+    "Eyes": [
+      "Blue color around eyes", 
+      "Hollow eyes", 
+      "Yellowish sclerotica", 
+      "Black specks, bright dazzling illusions; night blindness in anaemic retina", 
+      "Spots before eyes", 
+      "Photophobia", 
+      "Distortion of eyeballs", 
+      "Intermittent ciliary neuralgia", 
+      "PRESSURE IN EYES", 
+      "Amaurosis; scalding lachrymation"
+    ], 
+    "Face": [
+      "Sallow complexion", 
+      "Face bloated; red"
+    ], 
+    "Nose": [
+      "Checked catarrh", 
+      "Easily bleeding from nose, especially on rising", 
+      "Coryza, sneezing, watery discharge", 
+      "Violent DRY sneezing", 
+      "Cold sweat about nose"
+    ], 
+    "Male": [
+      "Excited lascivious fancy", 
+      "Frequent emissions, followed by great weakness", 
+      "Orchitis"
+    ], 
+    "Ears": [
+      "RINGING in ears", 
+      "External ear sensitive to touch", 
+      "Hearing sensitive to noise", 
+      "Lobules red and swollen"
+    ], 
+    "Heart": [
+      "Irregular with weak rapid beats followed by strong, heart beats", 
+      "Suffocative attacks, syncope; anaemia and dropsy"
+    ], 
+    "Modalities": [
+      "Worse: SLIGHTEST TOUCH", 
+      "Better: bending double; hard pressure; open air; warmth"
+    ], 
+    "Mind": [
+      "Apathetic, indifferent, disobedient, taciturn, despondent", 
+      "Ideas crowd in mind; prevent sleep", 
+      "Disposition to hurt other peoples' feelings", 
+      "Sudden crying and tossing about"
+    ], 
+    "Back": [
+      "Sharp pains across kidneys, worse movement and at night", 
+      "Knife-like pains around back"
+    ], 
+    "Female": [
+      "Menses too early", 
+      "DARK CLOTS AND ABDOMINAL DISTENTION", 
+      "Profuse menses with pain", 
+      "Desire too strong", 
+      "Bloody leucorrhoea", 
+      "Seems to take the place of the usual menstrual discharge", 
+      "Painful heaviness in pelvis"
+    ], 
+    "Skin": [
+      "EXTREME SENSITIVENESS TO TOUCH, but hard pressure RELIEVES", 
+      "COLDNESS; much sweat", 
+      "One hand ice cold, the other warm", 
+      "Anasarca", 
+      "DERMATITIS; erysipelas", 
+      "Indurated glands; scrofulous ulcers and caries", 
+      "Sleep", 
+      "Drowsiness", 
+      "Unrefreshing or constant stupor", 
+      "Wakens early", 
+      "Protracted sleeplessness", 
+      "Anxious, frightful dreams with confused consciousness on waking, so that the dream cannot be rid of and fear of dream remains", 
+      "Snoring, especially with children"
+    ], 
+    "Extremities": [
+      "PAINS IN LIMBS AND JOINTS, as if sprained; WORSE, SLIGHT TOUCH; hard pressure relieves", 
+      "Sensation as of a string around limb", 
+      "Joints swollen; very sensitive, with dread or open air", 
+      "Great debility trembling, with numb sensation", 
+      "Averse to exercise; sensitive to touch", 
+      "Weariness of joints; worse, mornings and when sitting"
+    ]
+  }, 
+  "details": "DEBILITY from exhausting discharges, from loss of vital fluids, together with a NERVOUS ERETHISM, calls for this remedy. Periodicity is most marked. Sensitive to drafts. Seldom indicated in the earlier stages of acute disease. Chronic gout. Chronic suppurative pyelitis. Post operative gas pains, no relief from passing it.", 
+  "Natural History": [
+    "Peruvian Bark - China"
+  ], 
+  "dosage": "Tincture, to thirtieth potency."
+}

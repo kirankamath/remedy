@@ -1,0 +1,62 @@
+{
+  "name": "Iris versicolor", 
+  "Relationship": "Antidote: NUX.Compare: IRIS FLORENTINA - Oris-root - (delirium, convulsions, and paralysis); IRIS FACTISSIMA (headache and hernia); IRIS GERMANICA - Blue Garden Iris - (dropsy and freckles); IRIS TENAX - I. MINOR (dry mouth; deathly sensation at point of stomach, PAIN IN ILEO-CAECAL REGION; appendicitis. Pains from adhesions after). PANCREATINUM - a combination of several enzymes - (Indicated in intestinal indigestion; pain an hour or more after eating. Lienteric diarrhoea. Dose - 3-5 grains, better not given during the active period of stomachic digestion). PEPSINUM - (Imperfect digestion with pain in gastric region. Marasmus of children who are fed on artificial foods. Diarrhoea due to indigestion. Dose - 3-4 grains). (Diseases of pancreas, gout, diabetes); IPEC.; PODOPHY.; SANGUIN.; ARS.; ANT. CR.", 
+  "symptoms": {
+    "Head": [
+      "Frontal headache, with nausea", 
+      "Scalp feels constricted", 
+      "Right temples especially affected", 
+      "Sick headache, worse rest; begins with a blur before eyes, after relaxing from a mental strain", 
+      "Pustular eruption on scalp"
+    ], 
+    "Stomach": [
+      "BURNING OF WHOLE ALIMENTARY CANAL", 
+      "VOMITING, sour, bloody, biliary", 
+      "Nausea", 
+      "Profuse flow of saliva", 
+      "DEFICIENT APPETITE"
+    ], 
+    "Modalities": [
+      "Worse: in evening and at night", 
+      "Worse: from rest", 
+      "Better: from continued motion"
+    ], 
+    "Abdomen": [
+      "Liver sore", 
+      "Cutting pain", 
+      "Flatulent colic", 
+      "Diarrhoea; stools watery, with BURNING AT ANUS and through intestinal canal", 
+      "Periodical night diarrhoea, with pain and green discharges", 
+      "CONSTIPATION"
+    ], 
+    "Face": [
+      "Neuralgia after breakfast, beginning in infra-orbital nerve, and involving whole face", 
+      "Mouth and tongue feel scalded", 
+      "Heat and smarting in throat", 
+      "BURNING", 
+      "Profuse flow of saliva; ropy", 
+      "GOITRE"
+    ], 
+    "Skin": [
+      "Herpes zoster, associated with gastric derangements", 
+      "Pustular eruptions", 
+      "Psoriasis; irregular patches with shining scales", 
+      "Eczema, with nightly itching"
+    ], 
+    "Extremities": [
+      "Shifting pains", 
+      "Sciatica, as if left hip-joint were wrenched", 
+      "Pain extends to popliteal space", 
+      "Gonorrheal rheumatism"
+    ], 
+    "Ears": [
+      "Roaring, buzzing, RINGING in ears, with deafness", 
+      "Aural vertigo, with intense noises in ears"
+    ]
+  }, 
+  "details": "Thyroid, PANCREAS, salivary, intestinal glands, and gastrointestinal mucous membrane, are especially affected. Increases the flow of bile. Sick headaches and cholera morbus are a special therapeutic field for its action.", 
+  "Natural History": [
+    "Blue Flag"
+  ], 
+  "dosage": "Tincture to thirtieth potency. Favorable reports from the very highest potencies."
+}

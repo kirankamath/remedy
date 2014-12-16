@@ -1,0 +1,35 @@
+{
+  "Natural History": [
+    "Bear-grass"
+  ], 
+  "details": "So-called bilious symptoms, with headache. Despondent and irritable.", 
+  "symptoms": {
+    "Head": [
+      "Aches as if top of head would fly off", 
+      "Arteries of forehead throb", 
+      "Nose red"
+    ], 
+    "Abdomen": [
+      "Deep pain in right side over liver, going through back", 
+      "Stool yellowish brown, with bile"
+    ], 
+    "Face": [
+      "Yellow; tongue yellow, coated, taking imprint of teeth"
+    ], 
+    "Mouth": [
+      "Taste as of rotten eggs"
+    ], 
+    "Skin": [
+      "Erythematous redness"
+    ], 
+    "Throat": [
+      "Sensation as if something hung down from posterior nares; cannot get it up or down"
+    ], 
+    "Male": [
+      "Burning and swelling of the prepuce, with redness of meatus", 
+      "Gonorrhea"
+    ]
+  }, 
+  "name": "Yucca filamentosa", 
+  "dosage": "Tincture, to third potency."
+}

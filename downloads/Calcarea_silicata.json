@@ -1,0 +1,44 @@
+{
+  "name": "Calcarea silicata", 
+  "Relationship": "Compare: Arsenic; Tubercul.; Baryt. carb.; Iod.", 
+  "symptoms": {
+    "Head": [
+      "Vertigo, head cold, especially at vertex; catarrh of nose and posterior nares, discharge thick, yellow, hard crusts", 
+      "Corneal exudation"
+    ], 
+    "Respiratory": [
+      "Sensitive to cold air", 
+      "Difficult respiration", 
+      "Chronic irritation of air passages", 
+      "Copious, yellow-green mucus", 
+      "Coughs with coldness, weakness, emaciation, sensitiveness and peevishness, worse from cold air", 
+      "Pain in chest walls"
+    ], 
+    "Stomach": [
+      "Sensation of coldness, especially when empty", 
+      "Sinking sensation at pit", 
+      "Great thirst", 
+      "Flatulence and distention after eating", 
+      "Vomiting and eructations"
+    ], 
+    "Mind": [
+      "Absent-minded, irritable, irresolute, lacks self-confidence", 
+      "FEARFUL"
+    ], 
+    "Female": [
+      "Uterus heavy, prolapsed", 
+      "Leucorrhoea, painful and irregular menses", 
+      "Flow between periods"
+    ], 
+    "Skin": [
+      "Itching, burning, cold and blue, very sensitive", 
+      "Pimples, comedones, wens", 
+      "Psoric eruptions"
+    ]
+  }, 
+  "details": "A deep, long acting medicine for complaints which come on slowly and reach their final development after long periods. Hydrogenoid constitution (Nat-sulph.). Very sensitive to COLD. PATIENT IS WEAK, EMACIATED, COLD AND CHILLY, BUT WORSE FROM BEING OVERHEATED; sensitive generally. Atrophy of children.", 
+  "Natural History": [
+    "Silicate of Lime"
+  ], 
+  "dosage": "All potencies from lowest to high."
+}

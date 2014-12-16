@@ -1,0 +1,164 @@
+{
+  "name": "Lachesis", 
+  "Relationship": "Antidotes: ARS.; MERC.; HEAT; ALCOHOL; SALT.Complementary: CROTALUS CASCAVELLA often completes curative work of Lachesis. (MURE.) LYCOP.; HEP.; SALAMANDRA.Incompatible: ACET-AC.; CARB-AC.Compare: COTYLEDON (climacteric troubles); NAT-M.; NIT-AC.; CROTAL.; Amphisbena - snake lizard - (right jaw swollen and painful, lancinating pains; headaches, lancinating pains. Eruption of vesicles and pimples); NAJA; LEPIDIUM.", 
+  "symptoms": {
+    "Stool": [
+      "Constipated, OFFENSIVE STOOL", 
+      "Anus FEELS TIGHT, as if nothing could go through it", 
+      "Pain darting up the rectum every time he sneezes or coughs", 
+      "Hemorrhage from bowels like charred straw, BLACK PARTICLES", 
+      "Hemorrhoids protrude, become CONSTRICTED, PURPLISH", 
+      "Stitches in them on sneezing or coughing", 
+      "Constant urging in rectum, not for stool"
+    ], 
+    "Head": [
+      "Pain through head on awaking", 
+      "Pain at root of nose", 
+      "Pressure and burning on vertex", 
+      "Waves of pain; worse after moving", 
+      "Sun headaches", 
+      "With headache, flickerings, dim vision, very pale face", 
+      "Vertigo", 
+      "Relieved by onset of a discharge"
+    ], 
+    "Fever": [
+      "Chilly in back; feet icy cold; hot flushes and hot perspiration", 
+      "Paroxysm returns after acids", 
+      "Intermittent fever every spring"
+    ], 
+    "Stomach": [
+      "Craving for alcohol, oysters", 
+      "Any food causes distress", 
+      "Pit of stomach painful to touch", 
+      "Hungry, cannot wait for food", 
+      "Gnawing pressure MADE BETTER BY EATING, but returning in a few hours", 
+      "Perceptible trembling movement in the epigastric region", 
+      "Empty swallowing more painful than swallowing solids"
+    ], 
+    "Abdomen": [
+      "Liver region sensitive, CANNOT BEAR ANYTHING AROUND WAIST", 
+      "Especially suitable to drunkards", 
+      "Abdomen tympanitis, sensitive, painful"
+    ], 
+    "Mouth": [
+      "Gums swollen, spongy, bleed", 
+      "Tongue swollen, burns, trembles, red, dry and cracked at tip, catches on teeth", 
+      "APHTHOUS AND DENUDED SPOTS with burning and rawness", 
+      "Nauseous taste", 
+      "TEETH ACHE, PAIN EXTENDS TO EARS", 
+      "Pain in facial bones"
+    ], 
+    "Respiratory": [
+      "Upper part of windpipe very susceptible to touch", 
+      "Sensation of suffocation and strangulation on lying down, particularly WHEN ANYTHING IS AROUND THROAT; compels patient to spring from bed and rush for open window", 
+      "Spasm of glottis; feels as if something ran from neck to larynx", 
+      "Feels HE MUST TAKE A DEEP BREATH", 
+      "Cramp-like distress in precordial region", 
+      "Cough; dry, suffocative fits, tickling", 
+      "Little secretion and much sensitiveness; worse, pressure on larynx, AFTER SLEEP, open air", 
+      "BREATHING ALMOST STOPS ON FALLING ASLEEP", 
+      "Larynx painful to touch", 
+      "Sensation as of a plug  which moves up and down, with a short cough"
+    ], 
+    "Eyes": [
+      "Defective vision after diphtheria, extrinsic muscles too weak to maintain focus", 
+      "Sensation as if eyes were drawn together by cords which were tied in a knot at root of nose"
+    ], 
+    "Face": [
+      "Pale", 
+      "Trifacial neuralgia, left side, heat running up into head", 
+      "Tearing pain in jaw-bones", 
+      "Purple, mottled, puffed; looks swollen, bloated, jaundiced, chlorotic"
+    ], 
+    "Nose": [
+      "Bleeding, nostrils sensitive", 
+      "Coryza, preceded by headache", 
+      "Hay asthma; paroxysms of sneezing"
+    ], 
+    "Male": [
+      "Intense excitement of sexual organs"
+    ], 
+    "Ears": [
+      "Tearing pain from zygoma into ear; also with sore throat", 
+      "Ear-wax hard, dry"
+    ], 
+    "Heart": [
+      "Palpitation, with fainting spells, especially during climacteric", 
+      "Constricted feeling causing palpitation, with anxiety", 
+      "Cyanosis", 
+      "Irregular beats"
+    ], 
+    "Modalities": [
+      "Worse: after sleep", 
+      "Better: appearance of discharges", 
+      "Better: warm applications"
+    ], 
+    "Mind": [
+      "Great LOQUACITY", 
+      "Amative", 
+      "Sad in the morning; no desire to mix with the world", 
+      "Restless and uneasy; does not wish to attend to business; wants to be off somewhere all the time", 
+      "Jealous", 
+      "Mental labor best performed at night", 
+      "Euthanasia", 
+      "Suspicious; nightly delusion of fire", 
+      "Religious insanity", 
+      "Derangement of the TIME SENSE"
+    ], 
+    "Back": [
+      "Neuralgia of coccyx, WORSE RISING FROM SITTING POSTURE; must sit perfectly still", 
+      "Pain in neck, worse cervical region", 
+      "Sensation of threads stretched from back to arms, legs, eyes, etc"
+    ], 
+    "Female": [
+      "Climacteric troubles, palpitation, flashes of heat, hemorrhages, vertex headache, fainting spells; worse, pressure of clothes", 
+      "Menses too short, too feeble; PAINS ALL RELIEVED BY THE FLOW", 
+      "Left ovary very painful and swollen, indurated", 
+      "Mammae inflamed, bluish", 
+      "Coccyx and sacrum pain, especially on RISING from sitting posture", 
+      "Acts especially well at beginning and close of menstruation"
+    ], 
+    "Skin": [
+      "Hot perspiration, BLUISH, PURPLISH APPEARANCE", 
+      "Boils, carbuncles, ulcers, with bluish, purple surroundings", 
+      "Dark blisters", 
+      "Bed-sores, with black edges", 
+      "Blue-black swellings", 
+      "Pyaemia; dissecting wounds", 
+      "Purpura, with intense prostration", 
+      "SENILE ERYSIPELAS", 
+      "Wens", 
+      "Cellulitis", 
+      "Varicose ulcers"
+    ], 
+    "Throat": [
+      "Sore, WORSE LEFT SIDE, SWALLOWING LIQUIDS", 
+      "QUINSY", 
+      "Septic parotiditis", 
+      "Dry, intensely swollen, externally and internally", 
+      "Diphtheria; membrane dusky, blackish; PAIN AGGRAVATED BY HOT DRINKS; chronic sore throat, with much hawking; mucus sticks, AND CANNOT BE FORCED UP OR DOWN", 
+      "VERY PAINFUL; WORSE SLIGHTEST PRESSURE, TOUCH IS EVEN MORE ANNOYING", 
+      "In diphtheria, etc", 
+      ", the trouble BEGAN on the left side", 
+      "Tonsils purplish", 
+      "Purple, livid color of throat", 
+      "Feeling as if something was swollen which must be swallowed; WORSE, SWALLOWING SALIVA OR LIQUIDS", 
+      "PAIN INTO EAR", 
+      "COLLAR AND NECK-BAND MUST BE VERY LOOSE"
+    ], 
+    "Extremities": [
+      "Sciatica, right side, better lying down", 
+      "PAIN IN TIBIA  Shortening of tendons", 
+      "Sleep", 
+      "Patient SLEEPS INTO AN AGGRAVATION", 
+      "Sudden starting when falling asleep", 
+      "Sleepiness, yet cannot sleep", 
+      "Wide-awake in evening"
+    ]
+  }, 
+  "details": "Like all snake poisons, Lachesis decomposes the blood, rendering it more fluid; hence a hemorrhagic tendency is marked. Purpura, septic states, diphtheria, and other low forms of disease, when the system is thoroughly poisoned and the prostration is profound. The modalities are most important in guiding to the remedy. Delirium tremens with much trembling and confusion. Very important during the climacteric and for patients of a melancholic disposition. Ill effects of suppressed discharges. Diphtheritic paralysis. (BOTULINUM.) Diphtheria carriers. Sensation of tension in various parts. Cannot bear anything tight anywhere.", 
+  "Natural History": [
+    "Bush master or Surucucu"
+  ], 
+  "dosage": "Eighth to 200th potency. Doses ought not be repeated too frequently. If well indicated, a single dose should be allowed to exhaust its action."
+}

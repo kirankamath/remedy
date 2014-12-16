@@ -1,0 +1,31 @@
+{
+  "name": "Phaseolus", 
+  "Relationship": "Compare: CRATAEG; LACH.", 
+  "symptoms": {
+    "Heart": [
+      "Fearful palpitation and feeling that death is approaching"
+    ], 
+    "Head": [
+      "Aches chiefly in forehead or orbits from fullness of brain; worse any movement or mental exertion"
+    ], 
+    "Eyes": [
+      "Pupils dilated, insensible to light", 
+      "Eyeballs painful to touch"
+    ], 
+    "Chest": [
+      "Breathing slow and sighing", 
+      "Pulse rapid", 
+      "PALPITATION", 
+      "Sick feeling about heart, with weak pulse", 
+      "Right ribs sore", 
+      "Dropsical effusion into pleura or pericardium", 
+      "Urinary Organs", 
+      "Diabetic urine"
+    ]
+  }, 
+  "details": "Heart symptoms quite pronounced. Diabetes.", 
+  "Natural History": [
+    "Dwarf-bean"
+  ], 
+  "dosage": "Sixth and higher. A decoction of the shells as a drink for diabetes, but look out for severe headache."
+}

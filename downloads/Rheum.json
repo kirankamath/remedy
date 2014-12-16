@@ -1,0 +1,45 @@
+{
+  "name": "Rheum", 
+  "Relationship": "Compare: MAG. PHOS.; HEP.; POD.; CHAM.; IPEC.Antidotes: CAMPH.; CHAM.Complementary: MAG. CARB.", 
+  "symptoms": {
+    "Head": [
+      "Sweat on hairy scalp; constant and profuse", 
+      "COOL SWEAT ON THE FACE, ESPECIALLY ABOUT MOUTH AND NOSE"
+    ], 
+    "Stomach": [
+      "Desire for various kinds of food, but soon tires of all", 
+      "Throbbing in pit", 
+      "Feels full"
+    ], 
+    "Modalities": [
+      "Worse: uncovering", 
+      "Worse: after eating", 
+      "Worse: moving about"
+    ], 
+    "Mind": [
+      "Impatient and vehement; desires many things and cries"
+    ], 
+    "Abdomen": [
+      "Colicky pain about navel", 
+      "Colic when uncovering", 
+      "Wind seems to rise up to chest"
+    ], 
+    "Mouth": [
+      "Much saliva", 
+      "Sensation of coolness in teeth", 
+      "Difficult teething; restless and irritable", 
+      "Breath smells sour"
+    ], 
+    "Rectum": [
+      "Before stool, unsuccessful urging to urinate", 
+      "STOOLS SMELL SOUR, pasty, with shivering and tenesmus, and burning in anus", 
+      "Sour diarrhoea during dentition", 
+      "Colicky, even ineffectual urging to evacuate altered faecal stools"
+    ]
+  }, 
+  "details": "Of frequent use in children with sour diarrhoea; difficult dentition. WHOLE CHILD SMELLS SOUR.", 
+  "Natural History": [
+    "Rhubarb"
+  ], 
+  "dosage": "Third to sixth potency."
+}

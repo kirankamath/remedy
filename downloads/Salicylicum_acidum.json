@@ -1,0 +1,55 @@
+{
+  "name": "Salicylicum acidum", 
+  "Relationship": "Compare: SALOL (rheumatic pain in joints, with soreness and stiffness, headache over eyes; urine violet-smelling; COLCH.; CHINA; LACT-AC. Spiraea and Gaultheria contain salicyl. acid.", 
+  "symptoms": {
+    "Eyes": [
+      "Retinal hemorrhage", 
+      "Retinitis after influenza, also albuminuric"
+    ], 
+    "Stomach": [
+      "CANKER SORES, with burning soreness and fetid breath", 
+      "FLATULENCE; HOT, SOUR BELCHING", 
+      "Putrid fermentation", 
+      "FERMENTATIVE DYSPEPSIA", 
+      "Tongue purplish, leaden-colored; foul breath", 
+      "Stools", 
+      "Putrid diarrhoea; gastrointestinal derangements, especially in children; stools like green frog's spawn", 
+      "Pruritus ani"
+    ], 
+    "Head": [
+      "Vertigo; tendency to fall to left side", 
+      "Headache; confusion in head on rising suddenly", 
+      "Incipient coryza", 
+      "Piercing pain in temples"
+    ], 
+    "Skin": [
+      "Itching vesicles and pustules; better by scratching", 
+      "Sweat without sleep", 
+      "Urticaria", 
+      "Hot and burning skin", 
+      "Purpura", 
+      "Herpes zoster", 
+      "Necrosis and softening of bones"
+    ], 
+    "Throat": [
+      "Sore, red and swollen", 
+      "Pharyngitis; swallowing difficult"
+    ], 
+    "Extremities": [
+      "Knees swollen and painful", 
+      "Acute articular rheumatism; worse, touch and motion, profuse sweat", 
+      "Pain shifts", 
+      "Sciatica, burning pain; worse at night", 
+      "Copious foot-sweat and ill effects where suppressed"
+    ], 
+    "Ears": [
+      "ROARING AND RINGING IN EARS", 
+      "Deafness, with vertigo"
+    ]
+  }, 
+  "details": "The symptoms point to its use in rheumatism, dyspepsia, and MENIERE'S DISEASE. Prostration after influenza; also tinnitus aurium and deafness. Hematuria.", 
+  "Natural History": [
+    "Salicylic Acid"
+  ], 
+  "dosage": "Third decimal trituration. In acute articular rheumatism, 5 grains very 3 hours. (Old school dose.)"
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Digitalis", 
+  "Relationship": "Antidotes; CAMPH.; SERPENTARIA. Incompatible: CHINA. Compare: NERIUM ODORUM (resembles in heart effects Digitalis, but also has an action like Strychnia on spinal cord. Spasms appear more in upper part of body. Palpitation; weak heart will be strengthened by it. Lock-jaw). ADONIA; Crataegus (a true heart tonic); KALMIA; SPIGEL; LIATRIS; Compare also: DIGITOXINUM (Digitalis dissolved in Chloroform; which has yellow vision very marked, and distressing nausea, AGGRAVATED BY CHAMPAGNE AND AERATED WATERS.) NITRI. SIR. DULC. increases action of Digit. ICHTHYOTOXIN. Eel serum. (Experiments show great analogy between the serum and the venom of Vipera. Indicated whenever the systole of the heart is insufficient, decompensated valvular disease, irregular pulse due to fibrillation of the auricle. Asystole, feeble, frequent, irregular pulse, dyspnoea and scanty urine. Liver enlarged, dyspnoea, albuminuria. No oedema.) CONVALLARIA (heart disease with vertigo and digestive disturbances). QUINIDINE - Isomeric methoxyl compound. - (Restores normal rhythm in auricular fibrillation, often supplements the action of Digitalis. Two doses of 3 grains each, three hours apart - if no symptoms of cinchonism develop, 4 doses 6 grs. each daily. (C. Harlan Wells.) Paroxysmal tachycardia. Establishes normal heart rhythm at least temporarily, less in valvular lesions.)", 
+  "symptoms": {
+    "Heart": [
+      "The least movement causes violent palpitation, and sensation as if it would cease beating, if he moves", 
+      "Frequent stitches in heart", 
+      "IRREGULAR HEART ESPECIALLY OF MITRAL DISEASE", 
+      "VERY SLOW PULSE", 
+      "INTERMITS; WEAK", 
+      "Cyanosis", 
+      "Inequality of pulse; it varies", 
+      "SUDDEN SENSATION AS IF HEART STOOD STILL", 
+      "PULSE WEAK; AND QUICKENED BY LEAST MOVEMENT", 
+      "Pericarditis, copious serous exudation", 
+      "Dilated heart, tired, irregular, with slow and feeble pulse", 
+      "Hypertrophy with dilatation", 
+      "Cardiac failure following fevers", 
+      "Cardiac dropsy"
+    ], 
+    "Eyes": [
+      "Blueness of eyelids", 
+      "Dark bodies, like flies, before eyes", 
+      "CHANGE IN ACUTENESS OF PERCEPTION OF SHADES OF GREEN", 
+      "Objects appear green and yellow", 
+      "Mydriasis; lid margins red, swollen, agglutinated in morning", 
+      "Detachment of retina", 
+      "Dim vision irregular pupils, diplopia"
+    ], 
+    "Respiratory": [
+      "Desire to take a deep breath", 
+      "Breathing irregular, difficult; deep sighing", 
+      "Cough, with raw, sore feeling in chest", 
+      "DYSPNOEA, constant desire to breathe deeply, lungs feel compressed", 
+      "Chronic bronchitis; passive congestion of the lungs, giving bloody sputum due to failing myocardium", 
+      "CANNOT BEAR TO TALK", 
+      "Hemoptysis with weak heart"
+    ], 
+    "Stomach": [
+      "Sweet taste with constant ptyalism", 
+      "EXCESSIVE NAUSEA, not relieved by vomiting", 
+      "Faintness, GREAT WEAKNESS IN STOMACH", 
+      "Burning in stomach extending to oesophagus", 
+      "After cold water or ice-cream, sharp pain in forehead, extending to nose", 
+      "FAINTNESS and vomiting from motion", 
+      "Discomfort, even after a small quantity of food, or from mere sight or smell", 
+      "TENDERNESS OF EPIGASTRIUM", 
+      "Copious salivation", 
+      "NEURALGIC PAIN IN STOMACH, unconnected with taking food"
+    ], 
+    "Female": [
+      "Labor-like pains in abdomen and back before menses", 
+      "Uterine hemorrhage"
+    ], 
+    "Modalities": [
+      "Worse: when sitting erect", 
+      "Worse: after meals and music", 
+      "Better: when stomach is empty; in open air"
+    ], 
+    "Mind": [
+      "Despondency; fearful; ANXIOUS about the future", 
+      "Dullness of sense", 
+      "Every shock strikes in epigastrium", 
+      "Melancholia, dull lethargic with SLOW pulse"
+    ], 
+    "Stool": [
+      "WHITE, CHALK-LIKE, ASHY, PASTY STOOL", 
+      "Diarrhoea during jaundice", 
+      "Urine Section", 
+      "Continued urging, in drops, dark, hot, burning, with sharp cutting or THROBBING pain at neck of bladder, AS IF A STRAW WAS BEING THRUST BACK AND FORTH; worse at night", 
+      "Suppressed", 
+      "Ammoniacal, and turbid", 
+      "URETHRITIS, phimosis, strangury", 
+      "Full feeling after urination", 
+      "Constriction and burning, as if urethra was too small", 
+      "Brick-dust sediment"
+    ], 
+    "Abdomen": [
+      "Pain in left side apparently in descending colon and under false ribs", 
+      "Severe abdominal pains, pulsation in abdominal aorta, and epigastric constriction", 
+      "ENLARGED, SORE, PAINFUL LIVER"
+    ], 
+    "Fever": [
+      "Sudden flushes of heat, followed by great nervous weakness"
+    ], 
+    "Head": [
+      "Vertigo, when walking and on rising, in cardiac and hepatic affections", 
+      "Sharp, shooting frontal pain, extending into nose, after drinking cold water or eating ice-cream", 
+      "Heaviness of head, with sensation as if it would fall backward", 
+      "Face bluish", 
+      "Confusion, fullness and noise in head", 
+      "Cracking sounds during a nap", 
+      "Blue tongue and lips"
+    ], 
+    "Skin": [
+      "Erythema, deep red, worse on back, like measles", 
+      "Blue distended veins on lids, ears, lips and tongue", 
+      "Dropsical", 
+      "Itching and jaundiced"
+    ], 
+    "Extremities": [
+      "Swelling of the feet", 
+      "Fingers go to sleep easily", 
+      "Coldness of hands and feet", 
+      "Rheumatic pain in joints", 
+      "Shining, white swelling of joints", 
+      "Muscular debility", 
+      "Nocturnal swelling of fingers", 
+      "Sensation in legs as IF A RED HOT WIRE suddenly darted through them", 
+      "Sleep", 
+      "STARTS FROM SLEEP IN ALARM that he is falling from a height", 
+      "Continuous sleepiness"
+    ], 
+    "Male": [
+      "Nightly emission , with great weakness of genitals after coitus", 
+      "Hydrocele; scrotum enlarged like a bladder", 
+      "Gonorrhea, balanitis , with oedema of prepuce", 
+      "Dropsical swelling of genitals", 
+      "Enlarged prostate"
+    ]
+  }, 
+  "details": "Comes into play in all diseases where the heart is primarily involved, where the pulse is WEAK, IRREGULAR, INTERMITTENT, ABNORMALLY SLOW, and dropsy of external and internal parts. WEAKNESS AND DILATION OF THE MYOCARDIUM. Its greatest indication is in failure of compensation and especially when AURICULAR FIBRILLATION HAS SET IN. Slow pulse in recumbent posture, but irregular and dicrotic on sitting up. Auricular flutter and fibrillation especially when subsequent to rheumatic fever. Heart block, very slow pulse. Other symptoms of organic heart disease, such as great weakness and sinking of strength, faintness, coldness of skin, and irregular respiration; cardiac irritability and ocular troubles after tobacco; jaundice from induration and HYPERTROPHY OF THE LIVER, frequently call for Digitalis. Jaundice with heart disease. Faint, as if dying. BLUISH appearance of face. CARDIAC MUSCULAR FAILURE when asystole is present. Stimulates the heart's muscles, increases force of systole, increases length. Prostration from slight exertion. Collapse.", 
+  "Natural History": [
+    "Foxglove"
+  ], 
+  "dosage": "The third to thirtieth attenuation will bring about reaction when the drug is homeopathically indicated; but for palliative purposes the physiological dosage is required. For this purpose, the tincture made from the FRESH plant, in doses of five to twenty drops, when the cardiac stimulation is desired, or the infusion of 1 1/2 per cent. Dose, one-half to one ounce if the diuretic action is wanted. The tincture may be given on sugar or bread, and nothing liquid be taken for twenty minutes before or after its administration. Of the powdered leaves, 1/2 to 2 grains in capsules. Digitoxin 1-250 grain. No matter what form of digitalis is given the dose should be reduced as soon as the pulse rate has been lowered to 80 beats a minute and the normal rhythm has been partially or completely restored. Under such conditions a good rule is to cut the dose in half and still more if there be a sudden falling off of the urinary output."
+}

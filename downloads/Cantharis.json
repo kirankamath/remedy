@@ -1,0 +1,135 @@
+{
+  "name": "Cantharis", 
+  "Relationship": "Antidotes: Acon.; Camph.; Puls.Compare: Cantharidin - (Glomerular nephritis). The immediate pharmacological action of Cantharidin is irritability of the capillaries, rendering the passage of nutritive fluids through them less difficult. This is most marked in the capillaries of the kidneys. The increase of blood sugar coincident with the glomerular nephritis appears to be a valuable observation. Vesicaria - (Urinary and kidney remedy. Smarting, burning sensation along urethra and in bladder with frequent desire to void urine often with strangury. Cystitis irritable bladder. Tincture 5-10 drop doses). Fuschina coloring substance used in adulteration of wine. (Cortical nephritis with albuminuria, 6th-thirtieth potency Redness of ears, mouth, swollen gums; deep, red urine; red, profuse diarrhoea, with severe abdominal pains). Androsace lactea (urinary troubles, diuretic; dropsy). Apis; Ars.; Merc. cor.Complementary: Camph.", 
+  "symptoms": {
+    "Stool": [
+      "SHIVERING WITH BURNING", 
+      "Dysentery; mucous stools, LIKE SCRAPPING OF INTESTINES", 
+      "Bloody, with BURNING and TENESMUS AND SHUDDERING AFTER STOOL", 
+      "Urine Section", 
+      "INTOLERABLE URGING and tenesmus", 
+      "Nephritis with bloody urine", 
+      "Violent paroxysms of cutting and burning in whole renal region, with painful urging to urinate; bloody urine, by DROPS", 
+      "Intolerable tenesmus; cutting before, during, and after urine", 
+      "URINE SCALDS HIM, AND IS PASSED DROP BY DROP", 
+      "CONSTANT DESIRE TO URINATE", 
+      "Membranous scales looking like bran in water", 
+      "Urine jelly-like, shreddy"
+    ], 
+    "Chest": [
+      "Pleurisy, as soon as effusion has taken place", 
+      "Intense dyspnoea; palpitation; frequent, dry cough", 
+      "TENDENCY TO SYNCOPE", 
+      "Short, hacking cough, blood-streaked TENACIOUS mucus", 
+      "Burning pains"
+    ], 
+    "Head": [
+      "Burning in brain", 
+      "Sensation as if boiling water in brain", 
+      "Vertigo; worse in open air"
+    ], 
+    "Fever": [
+      "Cold hands and feet; cold sweat", 
+      "Soles burn", 
+      "Chill, as if water were poured over him"
+    ], 
+    "Stomach": [
+      "Burning sensation of oesophagus and stomach", 
+      "Disgust for everything - drink, food, tobacco", 
+      "Burning thirst, with aversion to all fluids", 
+      "Very sensitive, VIOLENT BURNING", 
+      "Vomiting of blood-streaked membrane and violent retching", 
+      "AGGRAVATION FROM DRINKING COFFEE; drinking the smallest quantity increases pain in bladder, and is vomited", 
+      "Thirst unquenchable"
+    ], 
+    "Respiratory": [
+      "Voice low; weak feeling", 
+      "Stitches in chest", 
+      "Pleurisy, WITH EXUDATION"
+    ], 
+    "Eyes": [
+      "Yellow vision", 
+      "FIERY, SPARKLING, STARING LOOK", 
+      "Burning in eyes"
+    ], 
+    "Face": [
+      "Pale, wretched, death-like appearance", 
+      "Itching vesicles on face, burning when touched", 
+      "Erysipelas of face, with burning, biting heat with urinary symptoms", 
+      "Hot and red"
+    ], 
+    "Male": [
+      "STRONG DESIRE; painful erection", 
+      "Pain in glans", 
+      "Priapism in gonorrhea"
+    ], 
+    "Ears": [
+      "Sensation as if wind were coming from ear, or hot air", 
+      "Bones about ear painful"
+    ], 
+    "Heart": [
+      "Palpitation; pulse feeble, irregular; tendency to syncope", 
+      "Pericarditis, with effusion"
+    ], 
+    "Modalities": [
+      "Worse: from touch", 
+      "Worse: or approach", 
+      "Worse: urinating", 
+      "Worse: drinking cold water or coffee", 
+      "Better: rubbing"
+    ], 
+    "Mind": [
+      "Furious delirium", 
+      "Anxious restlessness, ending in rage", 
+      "Crying, barking; worse touching larynx or drinking water", 
+      "Constantly attempts to do something, but accomplishes nothing", 
+      "ACUTE MANIA, generally of a sexual type; amorous frenzy; fiery sexual desire", 
+      "Paroxysms of rage, crying, barking", 
+      "SUDDEN loss of consciousness with red face"
+    ], 
+    "Back": [
+      "Pain in loins, with incessant desire to urinate"
+    ], 
+    "Female": [
+      "Retained placenta , with painful urination", 
+      "Expels moles, dead foetuses, membranes, etc", 
+      "NYMPHOMANIA", 
+      "Puerperal metritis, with inflammation of bladder", 
+      "Menses too early and too profuse; black swelling of vulva with irritation", 
+      "Constant discharge from uterus; worse false step", 
+      "Burning pain in ovaries; extremely sensitive", 
+      "Pain in os coccyx, lancinating and tearing"
+    ], 
+    "Skin": [
+      "Dermatitis venenata with bleb formation", 
+      "Secondary eczema about scrotum and genitals, following excessive perspiration", 
+      "Tendency to gangrene", 
+      "Eruption with mealy scales", 
+      "VESICULAR ERUPTIONS, with burning and itching", 
+      "Sunburn", 
+      "BURNS, SCALDS, with rawness and smarting, relieved by cold applications, followed by undue inflammation", 
+      "ERYSIPELAS, vesicular type, with great restlessness", 
+      "Burning in soles of feet at night"
+    ], 
+    "Throat": [
+      "Tongue covered with vesicles; deeply furred; edges red", 
+      "BURNING IN MOUTH, PHARYNX, AND THROAT; vesicles in mouth", 
+      "GREAT DIFFICULTY IN SWALLOWING LIQUIDS", 
+      "Very TENACIOUS mucus", 
+      "Violent spasms reproduced by touching larynx", 
+      "Inflammation of throat; feels on fire", 
+      "Constriction; aphthous ulceration", 
+      "Scalding feeling", 
+      "Burnt after taking hot food"
+    ], 
+    "Extremities": [
+      "Tearing in limbs", 
+      "Ulcerative pain in soles; cannot step"
+    ]
+  }, 
+  "details": "This powerful drug produces a furious disturbance in the animal economy, attacking the urinary and sexual organs especially, perverting their function, and setting up violent inflammations,and causing a frenzied delirium, simulating hydrophobia symptoms. (Anagallis.) Puerperal convulsions. Produces most violent inflammation of the whole gastrointestinal canal, especially lower bowel. Over-sensitiveness of all parts. Irritation. RAW, BURNING PAINS. Hemorrhages. INTOLERABLE, CONSTANT URGING TO URINATE is most characteristic. Gastric, hepatic and abdominal complaints THAT ARE AGGRAVATED BY DRINKING COFFEE. Gastric derangements of pregnancy. DYSURIA, with other complaints. Increases secretion of mucous membranes, tenacious mucus. The inflammations cantharis produces (bladder, kidneys, ovaries, meninges, pleuritic and pericardial membranes) are usually associated with bladder irritation.", 
+  "Natural History": [
+    "Spanish Fly"
+  ], 
+  "dosage": "Sixth to thirtieth potency. Bears repeated doses well. Locally, in burns and eczema, 1x and 2x, in water, or as cerate."
+}

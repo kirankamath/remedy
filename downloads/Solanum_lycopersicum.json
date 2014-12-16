@@ -1,0 +1,55 @@
+{
+  "Natural History": [
+    "Lycopersicum EsculentumTomato"
+  ], 
+  "symptoms": {
+    "Heart": [
+      "Decided decrease in pulse rate with anxiety and apprehensiveness"
+    ], 
+    "Eyes": [
+      "Dull, heavy; pupils contracted; eyeballs feel contracted; aching in and around eyes", 
+      "Eyes suffused"
+    ], 
+    "Respiratory": [
+      "Voice husky", 
+      "Pain in chest, extending to head", 
+      "Hoarseness; constant desire to clear throat", 
+      "Expulsive cough, deep and harsh", 
+      "Chest oppressed; dry, hacking cough coming on at night and keeping one awake", 
+      "Urine Section", 
+      "Constant dribbling IN OPEN AIR", 
+      "Must rise at night to urinate"
+    ], 
+    "Modalities": [
+      "Worse: right side", 
+      "Worse: open air", 
+      "Worse: continued motion", 
+      "Worse: jar", 
+      "Worse: noises", 
+      "Better: warm room", 
+      "Better: tobacco"
+    ], 
+    "Head": [
+      "Bursting pain, beginning in occiput and spreading all over", 
+      "Whole head and scalp feels sore, bruised, after pain has ceased"
+    ], 
+    "Nose": [
+      "Profuse, watery coryza; drops down throat", 
+      "Itching in anterior chamber; worse, breathing any dust; better, indoors"
+    ], 
+    "Extremities": [
+      "Aching through back", 
+      "Dull pain in lumbar region", 
+      "SHARP PAIN IN RIGHT DELTOID AND PECTORALIS MUSCLES", 
+      "Pain deep in middle of right arm", 
+      "Rheumatic pain in right elbow and wrist, and hands of both sides", 
+      "Intense aching in lower limbs", 
+      "Right crural neuralgia", 
+      "Tingling along right ulnar nerve"
+    ], 
+    "dosage": ""
+  }, 
+  "name": "Solanum lycopersicum", 
+  "Relationship": "Compare: BELL. (follows well); EUP. PERF.; RHUS; SANGUIN.; CAPS.", 
+  "details": "Marked symptoms of rheumatism and influenza. Severe aching pains all over body. PAINS LEFT AFTER INFLUENZA. Head always shows signs of acute congestion. Hay-fever, with marked aggravation from breathing the least dust. Frequent urination and profuse watery diarrhoea."
+}

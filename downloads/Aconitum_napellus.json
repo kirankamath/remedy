@@ -1,0 +1,192 @@
+{
+  "name": "Aconitum napellus", 
+  "Relationship": "Vinegar in large doses is antidotal to poisonous effects.Acids, wine and coffee, lemonade, and acid fruits modify its action.Not indicated in malarial and low fevers or hectic and pyemic conditions, and in inflammations when they localize themselves. SULPHUR often follows it. Compare CHAM. AND COFFEA INTENSE PAIN and sleeplessness.AGROSTIS acts like Acon. in fever and inflammations, also SPIRANTHES.Complementary: COFFEA;' SULPH. Sulphur may be considered a chronic Aconite. Often completes a cure begun with Aconite.Compare: Bell.; Cham.; Coffea; Ferr-p.Aconitine. - (Heavy feeling as of lead; pains in supraorbital nerve; ice-cold sensations creep up; hydrophobia symptoms. Tinnitus aurium 3X.) Tingling sensation.Aconitum Lycoctonum. Great yellow wolfsbane. - (Swelling of glands; Hodgkin's disease. Diarrhoea after eating pork. Itching of nose, eyes, anus and vulva. Skin of nose cracked; taste of blood.)Aconitum Cammarum. - (Headache with vertigo and tinnitus. Cataleptic symptoms. Formication of tongue, lips and face.)Aconitum ferox. Indian Aconite. Rather more violent in its actions than A. napellus. It is more diuretic and less anti-pyretic. It has proved valuable in cardia dyspnoea, neuralgia, and acute gout. Dyspnoea. Must sit up. Rapid respiration. Anxiety, with suffocation from feeling of paralysis in respiratory muscles. Cheyne-Stokes breathing. Quebracho (cardiac dyspnoea). (Achyranthes. A Mexican drug - very similar to Aconite in fevers, but of larger range, being also adapted to typhoidal states and intermittents. Muscular rheumatism. A great diaphoretic. Use 6X.) Eranthis hymnalis - (Winter Aconite - acts on solar plexus and works upwards causing dyspnoea. Pain in occiput and neck.)", 
+  "symptoms": {
+    "Head": [
+      "Fullness; HEAVY, pulsating, HOT, BURSTING, burning, undulating sensation", 
+      "Inter cranial pressure", 
+      "Burning headache, as if brain were moved by boiling water", 
+      "Vertigo; WORSE ON RISING  and shaking head", 
+      "Sensation on vertex as if hair were pulled or stood on end", 
+      "Nocturnal furious delirium"
+    ], 
+    "Fever": [
+      "Cold stage most marked", 
+      "Cold sweat and icy coldness of face", 
+      "Coldness and heat alternate", 
+      "Evening chilliness soon after going to bed", 
+      "COLD WAVES PASS THROUGH HIM", 
+      "THIRST AND RESTLESSNESS always present", 
+      "Chilly if uncovered or touched", 
+      "Dry heat, red face", 
+      "Most valuable febrifuge with mental anguish, restlessness, etc", 
+      "Sweat drenching, on parts lain on; relieving all symptoms"
+    ], 
+    "Stomach": [
+      "VOMITING, WITH FEAR, HEAT, PROFUSE SWEAT AND INCREASED URINATION", 
+      "Thirst for cold water", 
+      "Bitter taste of everything except water", 
+      "INTENSE THIRST", 
+      "Drinks, vomits, and declares he will die", 
+      "Vomiting, bilious, mucous and bloody, greenish", 
+      "Pressure in stomach with dyspnoea", 
+      "Hematemesis", 
+      "Burning from stomach to oesophagus"
+    ], 
+    "Abdomen": [
+      "Hot, tense, tympanitic", 
+      "SENSITIVE TO TOUCH", 
+      "COLIC, no position relieves", 
+      "Abdominal symptoms better after warm soup", 
+      "Burning in umbilical region"
+    ], 
+    "Mouth": [
+      "Numb, DRY, and tingling", 
+      "Tongue swollen; TIP TINGLES", 
+      "Teeth sensitive to cold", 
+      "Constantly moves lower jaw as if chewing", 
+      "GUMS HOT AND INFLAMED", 
+      "TONGUE COATED WHITE"
+    ], 
+    "Rectum": [
+      "Pain with nightly itching and stitching in anus", 
+      "Frequent, small stool with tenesmus; GREEN, LIKE CHOPPED HERBS", 
+      "White with red urine", 
+      "Choleraic discharges with collapse, and restlessness", 
+      "Bleeding hemorrhoids", 
+      "Watery diarrhoea in children", 
+      "They cry and complain much, are sleepless and restless", 
+      "Urine Section", 
+      "SCANTY, RED, HOT, PAINFUL", 
+      "Tenesmus and burning at neck of bladder", 
+      "Burning in urethra", 
+      "Urine suppressed, bloody", 
+      "Anxiety always on beginning to urinate", 
+      "RETENTION, WITH SCREAMING AND RESTLESSNESS, and handling of genitals", 
+      "Renal region sensitive", 
+      "Profuse urination, with profuse perspiration and diarrhoea"
+    ], 
+    "Respiratory": [
+      "Constant pressure in left chest; OPPRESSED BREATHING on least motion", 
+      "HOARSE, DRY, CROUPY COUGH; loud, labored breathing", 
+      "Child grasps at throat every time he coughs", 
+      "Very sensitive to inspired air", 
+      "SHORTNESS OF BREATH", 
+      "Larynx sensitive", 
+      "Stitches through chest", 
+      "Cough, dry, short, hacking; WORSE AT NIGHT AND AFTER MIDNIGHT", 
+      "Hot feeling in lungs", 
+      "Blood comes up with hawking", 
+      "Tingling in chest after cough"
+    ], 
+    "Eyes": [
+      "Red, inflamed", 
+      "Feel DRY AND HOT, as if sand in them", 
+      "LIDS SWOLLEN, HARD AND RED", 
+      "Aversion to light", 
+      "Profuse watering after exposure to dry, cold winds, REFLECTION FROM SNOW, AFTER EXTRACTION OF CINDERS and other foreign bodies"
+    ], 
+    "Face": [
+      "Red, hot, flushed, swollen", 
+      "One cheek red, the other pale", 
+      "ON RISING THE RED FACE BECOMES DEATHLY PALE, OR HE BECOMES DIZZY", 
+      "TINGLING in cheeks and numbness", 
+      "NEURALGIA, ESPECIALLY ON LEFT SIDE, WITH RESTLESSNESS, TINGLING, AND NUMBNESS", 
+      "Pain in jaws"
+    ], 
+    "Nose": [
+      "SMELL ACUTELY SENSITIVE", 
+      "PAIN AT ROOT OF NOSE", 
+      "Coryza; much sneezing; throbbing in nostrils", 
+      "Hemorrhage of bright red blood", 
+      "MUCOUS MEMBRANE DRY, NOSE STOPPED UP; DRY OR WITH BUT SCANTY WATERY CORYZA"
+    ], 
+    "Male": [
+      "Crawling and stinging in glans", 
+      "Bruised pain in testicles, swollen, hard", 
+      "Frequent erections and emissions", 
+      "Painful erections"
+    ], 
+    "Ears": [
+      "Very SENSITIVE TO NOISES; music is unbearable", 
+      "External ear hot, red, painful, swollen", 
+      "Earache", 
+      "Sensation as of drop of water in left ear"
+    ], 
+    "Heart": [
+      "TACHYCARDIA", 
+      "Affections of the heart with pain in LEFT SHOULDER", 
+      "Stitching pain in chest", 
+      "PALPATION, WITH ANXIETY, fainting, and TINGLING in fingers", 
+      "PULSE FULL, HARD; TENSE AND BOUNDING; sometimes intermits", 
+      "Temporal and carotid arteries felt when sitting"
+    ], 
+    "Modalities": [], 
+    "Mind": [
+      "GREAT FEAR, ANXIETY, and worry accompany every ailment, however trivial", 
+      "Delirium is characterized by unhappiness, worry, fear, raving, rarely unconsciousness", 
+      "FOREBODINGS AND FEARS", 
+      "FEARS DEATH but believes that he will soon die; predicts the day", 
+      "FEARS THE FUTURE, a crowd, crossing the street", 
+      "RESTLESSNESS, tossing about", 
+      "Tendency to start", 
+      "Imagination acute, clairvoyance", 
+      "Pains are intolerable; they drive him crazy", 
+      "Music is unbearable; makes her sad", 
+      "Thinks his thoughts come from the stomach - that parts of his body are abnormally thick", 
+      "Feels as if what had just been done was a dream"
+    ], 
+    "Back": [
+      "Numb, stiff, painful", 
+      "Crawling and tingling, as if bruised", 
+      "Stiffness in nape of neck", 
+      "Bruised pain between scapulae"
+    ], 
+    "Female": [
+      "Vagina dry, hot, sensitive", 
+      "Menses too profuse, with nosebleed, too protracted, late", 
+      "Frenzy on appearance of menses", 
+      "SUPPRESSED FROM FRIGHT, COLD, in plethoric subjects", 
+      "Ovaries congested and painful", 
+      "Sharp shooting pains in womb", 
+      "AFTER-PAINS, WITH FEAR AND RESTLESSNESS"
+    ], 
+    "Skin": [
+      "Red, hot, swollen, dry, burning", 
+      "PURPURA MILIARIS", 
+      "Rash like measles", 
+      "Gooseflesh", 
+      "Formication and numbness", 
+      "Chilliness and formication down back", 
+      "Pruritus RELIEVED BY stimulants"
+    ], 
+    "Throat": [
+      "RED, DRY, CONSTRICTED, numb, prickling, burning, stinging", 
+      "Tonsils swollen and dry"
+    ], 
+    "Extremities": [
+      "NUMBNESS AND TINGLING; shooting pains; icy coldness and insensibility of hands and feet", 
+      "Arms feel lame, bruised, heavy, numb", 
+      "Pain down left arm  HOT HANDS AND COLD FEET", 
+      "Rheumatic inflammation of joints; worse at night; red shining swelling, very sensitive", 
+      "Hip-joint and thigh feel lame, especially after lying down", 
+      "Knees unsteady; disposition of foot to turn", 
+      "Weak and lax ligaments of all joints", 
+      "Painless cracking of all joints", 
+      "BRIGHT RED HYPOTHENAR EMINENCES ON BOTH HANDS", 
+      "Sensation as if drops of water trickled down the thigh", 
+      "Sleep", 
+      "Nightmare", 
+      "Nightly ravings", 
+      "ANXIOUS DREAMS", 
+      "Sleeplessness, with restless and tossing about  Starts up in sleep", 
+      "Long dreams, with anxiety in chest", 
+      "Insomnia of the aged"
+    ]
+  }, 
+  "details": "A state of fear, anxiety; anguish of mind and body. PHYSICAL AND MENTAL RESTLESSNESS, fright, is the most characteristic manifestation of ACONITE. ACUTE, SUDDEN, AND VIOLENT INVASION, WITH FEVER, call for it. Does not want to be touched. Sudden and great sinking of strength. Complaints and tension caused by exposure to DRY, COLD WEATHER, draft of cold air, checked perspiration, also complaints from VERY HOT WEATHER, especially gastrointestinal disturbances, etc. First remedy in inflammation, inflammatory fevers. Serous membranes and muscular tissues affected markedly. Burning in internal parts; TINGLING, COLDNESS AND NUMBNESS. Influenza. TENSION of arteries; emotional and physical mental tension explain many symptoms. When prescribing Aconite remember Aconite causes only functional disturbance, no evidence that it can produce tissue change - its action is brief and SHOWS NO PERIODICITY. Its sphere is in the beginning of an acute disease and not to be continued after pathological change comes. In Hyperaemia, congestion not after exudation has set in. INFLUENZA (Influenzin).", 
+  "Natural History": [
+    "Monkshood"
+  ], 
+  "dosage": "Sixth potency for sensory affections; first to third for congestive conditions. Must be repeated frequently in acute diseases. Acon. is a rapid worker. In Neuralgias tincture of the root often preferable, one drop doses (poisonous), or again, the 30th potency according to susceptibility of patient."
+}

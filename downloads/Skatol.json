@@ -1,0 +1,27 @@
+{
+  "symptoms": {
+    "Head": [
+      "Frontal headache, worse over left eye, in the evening, BETTER BY SHORT STEP", 
+      "Gastric", 
+      "Tongue coated, FOUL TASTE", 
+      "Salty taste to all cereals", 
+      "BELCHING", 
+      "Appetite increased", 
+      "Light, yellow, narrow, VERY OFFENSIVE stool", 
+      "Intestinal dyspepsia", 
+      "Urinary Organs", 
+      "Frequent, scanty, burning, difficult", 
+      "Sleep", 
+      "Increased desire to sleep; wakes unrefreshed, half doped feeling"
+    ], 
+    "Mind": [
+      "Lack of concentration; impossible to study; DESPONDENT; desire to be with people", 
+      "Irritable", 
+      "Felt mean towards everyone"
+    ]
+  }, 
+  "details": "Represents the ultimate end of protein decomposition and is a constituent of human feces.Acne with auto-intoxication dependent upon intestinal decomposition. Stomach and abdominal symptoms and frontal headache. Sluggishness with no ambition. Desire to curse and swear.", 
+  "name": "Skatol", 
+  "Relationship": "Compare; INDOL.; BAPTIS.; SULPH.", 
+  "dosage": "Sixty potency."
+}

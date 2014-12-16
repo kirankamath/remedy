@@ -1,0 +1,96 @@
+{
+  "name": "Ipecacuanha", 
+  "Relationship": "Compare: EMETINE - principal alkaloid of Ipecac. (A powerful amebicide, but is not a bactericide. Specific for amebiasis; of remarkable value in treatment of amebic dysentery; also as a remedy in pyorrhoea, 1/2 gr. daily for three days, then less. Emetin, 1/2 gr. hypodermically, in Psoriasis. Emetin hydroch. 2X, diarrhoea with colicky, abdominal pains and nausea. Emetin for endameba dysentery. In physiological doses must be carefully watched. May produce hepatization of lungs, rapid heart action, tendency for the head to fall forward and lobar pneumonia. In hematemesis and other hemorrhages, compare: GELATIN (which has a marked effect on the coagulability of the blood. Hypodermically; or if by mouth, a 10 per cent. Jelly, about 4 oz., three times a day). ARSENIC; CHAM.; PULS.; TART. EM.; SQUILL CONVOLVULUS (colic and diarrhoea.) TYPHA LATIFOLIA - Cat-tail flag (dysentery, diarrhoea) and summer complaint. EUPHORBIA HYPERICIFOLIA - Garden Spurge - (Very similar to Ipecac. Irritation of the respiratory and gastrointestinal tracts and female organs). LIPPIA MEXICANA - (Persistent dry, hard, bronchial cough - asthma and chronic bronchitis).In Asthma, compare: BLATTA ORIENTALIS.Antidotes: ARSENIC; CHINA; TAB AC.Complementary: CUPRUM; ARN.", 
+  "symptoms": {
+    "Eyes": [
+      "Inflamed, red", 
+      "Pain through eyeballs", 
+      "Profuse lachrymation", 
+      "Cornea dim", 
+      "Eyes tire from near vision", 
+      "State of vision constantly changing", 
+      "Spasm of accommodation from irritable weakness of the ciliary muscle", 
+      "Nausea from looking on moving objects"
+    ], 
+    "Respiratory": [
+      "Dyspnoea; constant CONSTRICTION IN CHEST", 
+      "Asthma", 
+      "Yearly attacks of difficult shortness of breathing", 
+      "Continued sneezing; coryza; wheezing cough", 
+      "COUGH INCESSANT AND VIOLENT, WITH EVERY BREATH", 
+      "Chest seems full of phlegm, but does not yield to coughing", 
+      "Bubbling rales", 
+      "Suffocative cough; child becomes stiff, and blue in the face", 
+      "Whooping-cough, with nosebleed, and from mouth", 
+      "Bleeding from lungs, WITH NAUSEA; feeling of constriction; rattling cough", 
+      "Croup", 
+      "Hemoptysis from slightest exertion", 
+      "HOARSENESS, especially at end of a cold", 
+      "Complete aphonia"
+    ], 
+    "Stomach": [
+      "TONGUE USUALLY CLEAN", 
+      "Mouth, moist; MUCH SALIVA", 
+      "CONSTANT NAUSEA and vomiting, with pale, twitching of face", 
+      "Vomits food, bile, blood, mucus", 
+      "Stomach feels relaxed, as if hanging down", 
+      "Hiccough"
+    ], 
+    "Female": [
+      "Uterine hemorrhage, PROFUSE, BRIGHT, GUSHING, WITH NAUSEA", 
+      "Vomiting during pregnancy", 
+      "PAIN FROM NAVEL TO UTERUS", 
+      "Menses too early and too profuse"
+    ], 
+    "Modalities": [
+      "Worse: periodically; from veal", 
+      "Worse: moist warm wind", 
+      "Worse: lying down"
+    ], 
+    "Mind": [
+      "Irritable; holds everything in contempt", 
+      "Full of desires, for what they know not"
+    ], 
+    "Abdomen": [
+      "Amoebic dysentery with tenesmus; while straining pain so great that it nauseates; little thirst", 
+      "Cutting, clutching; WORSE, AROUND THE NAVEL", 
+      "Body rigid; stretched out stiff", 
+      "Stools", 
+      "Pitch-like, green as grass, LIKE FROTHY MOLASSES, with griping at navel", 
+      "Dysenteric, slimy"
+    ], 
+    "Face": [
+      "Blue rings around eyes", 
+      "Periodical orbital neuralgia, with lachrymation, photophobia, and smarting eyelids"
+    ], 
+    "Fever": [
+      "Intermittent fever, irregular cases, after Quinine", 
+      "SLIGHTEST CHILL with MUCH heat, NAUSEA, vomiting, and dyspnoea", 
+      "Relapses with improper diet", 
+      "Sleep", 
+      "With eyes half wide open", 
+      "Shocks in all limbs on going to sleep"
+    ], 
+    "Nose": [
+      "Coryza, with stoppage of nose and nausea", 
+      "Epistaxis"
+    ], 
+    "Head": [
+      "Bones of skull feel crushed or bruised", 
+      "Pain extends to teeth and root of tongue"
+    ], 
+    "Skin": [
+      "Pale, lax", 
+      "Blue around eyes", 
+      "Miliary rash"
+    ], 
+    "Extremities": [
+      "Body stretched stiff, followed by spasmodic jerking of arms towards each other"
+    ]
+  }, 
+  "details": "The chief action is on the ramifications of the pneumogastric nerve, producing spasmodic irritation in chest and stomach. Morphia habit. The principal feature of Ipecacuanha is its PERSISTENT NAUSEA and vomiting, which form the chief guiding symptoms. Indicated after indigestible food, raisins, cakes, etc. Especially indicated in fat children and adults, who are feeble and catch cold in relaxing atmosphere; warm, moist weather. Spasmodic affections. Hemorrhages BRIGHT-RED and PROFUSE.", 
+  "Natural History": [
+    "Ipecac-root"
+  ], 
+  "dosage": "Third to 200th potency."
+}

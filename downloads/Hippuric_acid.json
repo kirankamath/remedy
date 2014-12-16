@@ -1,0 +1,39 @@
+{
+  "name": "Hippuric acid", 
+  "Relationship": "Benzoic acid seems to be an analogue.", 
+  "symptoms": {
+    "Head": [
+      "Pain over right eye, dull, constant, worse in warm room", 
+      "Eyelids inflamed and swollen"
+    ], 
+    "Stomach": [
+      "Acid rising", 
+      "Lump in pit of stomach", 
+      "Soreness and pressure over liver"
+    ], 
+    "Female": [
+      "Menstrual flow for three weeks with complete relief of muscular and joint pains"
+    ], 
+    "Skin": [
+      "Itching, burning", 
+      "Papules looking like goose flesh on chest"
+    ], 
+    "Throat": [
+      "Sore, raw, dry, swallowing difficult, foul odor, gummy exudate; thickness and infiltration of all tissues around throat"
+    ], 
+    "Extremities": [
+      "Backache extending down hips", 
+      "Pain in shoulders and extremities and sore swollen joints", 
+      "Pain in middle of thigh posteriorly shooting down right leg", 
+      "Tired, grating sensation in the joints"
+    ]
+  }, 
+  "details": "Its chief action is on the external tissues of the eyes and nasopharynx, joint surfaces, liver and mucous membranes. Right side especially affected, general muscular soreness.", 
+  "Natural History": [
+    "Proved by Dr", 
+    "W", 
+    "B", 
+    "Griggs"
+  ], 
+  "dosage": "Lower potencies."
+}

@@ -1,0 +1,198 @@
+{
+  "name": "Sulphur", 
+  "Relationship": "Complementary: ALOE; PSOR.; ACON.; PYRARARA (a fish caught in the Amazon, clinically used for various skin affections. Lepra, tuberculides, syphilides, varicosities, etc.Compare: ACON. (Sulph. often follows in acute diseases); MERC. AND CALCAREA are frequently useful AFTER Sulphur, not before. Lyc.; Sep; Sars.; Puls.; SULPHUR HYDROGENISATUM (chronic rheumatic arthritis; chorea); TANNIC ACID (Nasal hemorrhage; elongated uvula; gargle; constipation). MANGES. ARTIFICIALIS (great hunger in evening, profuse sweat on face, bruised pain in joints, rectal constriction after stool).MAGNETIS POLUS ARCTICUS (anxious, COLDNESS OF EYES AS IF A PIECE OF ICE LAY IN ORBIT, increased flow of saliva, constipation, sopor, trembling, abdominal flatulence).MAGNETIS POLUS AUSTRALIS (dryness of lids, easy dislocation of ankle, INGROWING TOE-NAILS, aching in patella, shooting in soles).Compare in adenoids: AGRAPHIS.", 
+  "symptoms": {
+    "Head": [
+      "Constant HEAT ON TOP OF HEAD", 
+      "(CUP", 
+      "SULPH", 
+      "; GRAPH", 
+      "Heaviness and fullness, pressure in temples", 
+      "Beating headache; worse, stooping, and with vertigo", 
+      "Sick headache recurring periodically", 
+      "Tinea capitis, dry form", 
+      "SCALP DRY, falling of hair; worse, washing", 
+      "ITCHING; SCRATCHING CAUSES BURNING"
+    ], 
+    "Fever": [
+      "FREQUENT FLASHES OF HEAT", 
+      "VIOLENT EBULLITIONS OF HEAT THROUGHOUT ENTIRE BODY", 
+      "Dry skin and great thirst", 
+      "Night sweat, on nape and occiput", 
+      "Perspiration of single parts", 
+      "Disgusting sweats", 
+      "Remittent type"
+    ], 
+    "Stomach": [
+      "Complete loss of, or excessive appetite", 
+      "Putrid eructations", 
+      "Food tastes too salty", 
+      "Drinks much, eats little", 
+      "MILK DISAGREES", 
+      "Great desire for sweets", 
+      "GREAT ACIDITY, sour eructation", 
+      "Burning, painful, weight-like pressure", 
+      "VERY WEAK AND FAINT ABOUT eleven AM; must have something to eat", 
+      "Nausea during gestation", 
+      "Water fills the patient up"
+    ], 
+    "Abdomen": [
+      "Very sensitive to pressure; internal feeling of rawness and soreness", 
+      "Movements as of something alive", 
+      "Pain and soreness of liver", 
+      "Colic after drinking"
+    ], 
+    "Mouth": [
+      "Lips dry, BRIGHT RED, burning", 
+      "BITTER TASTE in morning", 
+      "Jerks through teeth", 
+      "Swelling of gums; throbbing pain", 
+      "Tongue white, with red tip and borders"
+    ], 
+    "Rectum": [
+      "Itching and burning of anus; piles dependent upon abdominal plethora", 
+      "Frequent, unsuccessful desire; hard, knotty, insufficient", 
+      "Child afraid on account of pain", 
+      "REDNESS AROUND THE ANUS, with itching", 
+      "MORNING DIARRHOEA, PAINLESS, DRIVES OUT OF BED, with prolapsus recti", 
+      "Hemorrhoids, oozing and belching", 
+      "Urine Section", 
+      "Frequent micturition, especially at night", 
+      "ENURESIS, especially in scrofulous, untidy children", 
+      "Burning in urethra during micturition, lasts long after", 
+      "Mucus and pus in urine; PARTS SORE OVER WHICH IT PASSES", 
+      "MUST HURRY, sudden call to urinate", 
+      "GREAT QUANTITIES OF COLORLESS URINE"
+    ], 
+    "Respiratory": [
+      "Oppression and burning sensation in chest", 
+      "DIFFICULT RESPIRATION; WANTS WINDOWS OPEN", 
+      "Aphonia", 
+      "Heat, throughout chest", 
+      "Red, brown spots all over chest", 
+      "Loose cough; worse talking, morning, greenish, purulent, sweetish expectoration", 
+      "MUCH RATTLING OF MUCUS", 
+      "Chest feels heavy; stitches, with heart feeling too large and palpitating", 
+      "PLEURITIC EXUDATIONS", 
+      "Use Tinctura sulphuris", 
+      "Stitching pains shooting through to the back, worse lying on back or breathing deeply", 
+      "Flushes of heat in chest rising to head", 
+      "OPPRESSION, AS OF A LOAD ON CHEST", 
+      "DYSPNOEA in middle of night, relieved by sitting up", 
+      "PULSE MORE RAPID IN MORNING than in evening"
+    ], 
+    "Eyes": [
+      "BURNING ulceration of margin of lids", 
+      "Halo around lamp-light", 
+      "Heat and BURNING IN EYES", 
+      "Black motes before eyes", 
+      "First stage of ulceration of cornea", 
+      "Chronic ophthalmia, with much burning and itching", 
+      "Parenchymatous keratitis", 
+      "Cornea like ground glass"
+    ], 
+    "Nose": [
+      "Herpes across the nose", 
+      "Nose stuffed indoors", 
+      "Imaginary foul smells", 
+      "ALAE RED AND SCABBY", 
+      "CHRONIC DRY CATARRH; DRY SCABS AND READILY BLEEDING", 
+      "Polypus and adenoids"
+    ], 
+    "Male": [
+      "Stitches in penis", 
+      "Involuntary emissions", 
+      "Itching of genitals when going to bed", 
+      "Organs cold, relaxed and powerless"
+    ], 
+    "Ears": [
+      "Whizzing in ears", 
+      "Bad effects from the suppression of an otorrhoea", 
+      "Oversensitive to odors", 
+      "Deafness, preceded by exceedingly sensitive hearing; catarrhal deafness"
+    ], 
+    "Modalities": [
+      "Worse: at rest", 
+      "Worse: when standing", 
+      "Worse: WARMTH IN BED", 
+      "Worse: washing", 
+      "Worse: bathing", 
+      "Worse: in morning", 
+      "Worse: eleven AM", 
+      "Worse: night", 
+      "Worse: from alcoholic stimulants", 
+      "Worse: periodically", 
+      "Better: DRY", 
+      "Better: WARM WEATHER", 
+      "Better: lying on right side", 
+      "Better: from drawing up affected limbs"
+    ], 
+    "Mind": [
+      "Very forgetful", 
+      "Difficult thinking", 
+      "Delusions; thinks rags beautiful things - that he is immensely wealthy", 
+      "Busy all the time", 
+      "Childish peevishness in grown people", 
+      "Irritable", 
+      "Affections vitiated; VERY SELFISH, no regard for others", 
+      "Religious melancholy", 
+      "Averse to business; loafs - too lazy to arouse himself", 
+      "Imagining giving wrong things to people, causing their death", 
+      "Sulphur subjects are nearly always irritable, depressed, thin and weak, even with good appetite"
+    ], 
+    "Back": [
+      "Drawing pain between shoulders", 
+      "Stiffness of nape", 
+      "Sensation as if vertebrae glided over each other"
+    ], 
+    "Female": [
+      "Pudenda ITCHES", 
+      "VAGINA BURNS", 
+      "Much offensive perspiration", 
+      "Menses too late, short, scanty, and difficult; thick, black, ACRID, MAKING PARTS SORE", 
+      "Menses preceded by headache or suddenly stopped", 
+      "Leucorrhoea, burning, excoriating", 
+      "Nipples cracked; smart and burn"
+    ], 
+    "Skin": [
+      "DRY, SCALY, UNHEALTHY; EVERY LITTLE INJURY SUPPURATES", 
+      "Freckles", 
+      "ITCHING, BURNING; WORSE SCRATCHING AND WASHING", 
+      "Pimply eruption, pustules, rhagades, hang-nails", 
+      "Excoriation, especially in folds", 
+      "Feeling of a band around bones", 
+      "Skin affections after local medication", 
+      "PRURITUS, especially from warmth, in evening, often recurs in spring-time, in damp weather"
+    ], 
+    "Throat": [
+      "Pressure as from a lump, as from a splinter, as of a hair", 
+      "Burning, redness and dryness", 
+      "Ball seems to rise and close pharynx"
+    ], 
+    "Extremities": [
+      "Trembling of hands", 
+      "HOT, SWEATY HANDS", 
+      "Rheumatic pain in left shoulder", 
+      "Heaviness; paretic feeling", 
+      "Rheumatic gout, with itching", 
+      "BURNING IN SOLES AND HANDS AT NIGHT", 
+      "Sweat in armpits, smelling like garlic", 
+      "Drawing and tearing in arms and hands", 
+      "Stiffness of knees and ankles", 
+      "Cannot walk erect; STOOP-SHOULDERED", 
+      "Ganglion", 
+      "Sleep", 
+      "Talks, jerks, and twitches during sleep", 
+      "Vivid dreams", 
+      "Wakes up singing", 
+      "Wakes frequently, and becomes wide awake suddenly", 
+      "CATNAPS; slightest noise awakens", 
+      "Cannot sleep between 2 and five AM"
+    ]
+  }, 
+  "details": "This is the great Hahnemannian anti-psoric. Its action is centrifugal - from within outward - having an elective affinity for the skin, where it produces heat and BURNING, with itching; made worse by heat of bed. Inertia and relaxation of fiber; hence feebleness of tone characterizes its symptoms. EBULLITIONS OF HEAT, DISLIKE OF WATER, DRY AND HARD HAIR AND SKIN, RED ORIFICES, SINKING FEELING AT STOMACH ABOUT eleven AM, AND CAT-NAP SLEEP; always indicate Sulphur homeopathically. STANDING IS the worse position for sulphur patients, it is always uncomfortable. Dirty, filthy people, prone to skin affections. Aversion to being washed. WHEN CAREFULLY-SELECTED REMEDIES FAIL TO ACT, ESPECIALLY IN ACUTE DISEASES; it frequently arouses the reactionary powers of the organism. COMPLAINTS THAT RELAPSE. GENERAL OFFENSIVE CHARACTER OF DISCHARGE AND EXHALATIONS. Very red lips and face, flushing easily. Often great use in beginning the treatment of chronic cases and in finishing acute ones.", 
+  "Natural History": [
+    "Sublimated Sulphur"
+  ], 
+  "dosage": "Acts in all potencies from the lowest to the highest. Some of the best results are obtained from the higher, and not too frequent doses. The twelfth potency is a good one to begin treatment with, going higher or lower according to the susceptibility of the patient. In chronic diseases, 200th and upward. In TORPID eruptions the LOWEST potencies."
+}

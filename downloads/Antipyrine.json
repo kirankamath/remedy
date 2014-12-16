@@ -1,0 +1,83 @@
+{
+  "Natural History": [
+    "Phenazone - A Coal-tar Derivative"
+  ], 
+  "details": "Antipyrine is one of the drugs that induce leucocytosis, similar to Ergotin, salicylates, and tuberculin. Acts especially on the vasomotor centers, causing dilation of capillaries of skin and consequent circumscribed patches of hyperaemia and swelling. In large doses causes profuse perspiration, dizziness, cyanosis, and somnolence, albumen and blood in urine. Acute erythema multiform.", 
+  "symptoms": {
+    "Heart": [
+      "Faintness, with sensation of stoppage of heart", 
+      "Throbbing throughout the body", 
+      "Rapid, weak, irregular pulse", 
+      "Nerves", 
+      "Epileptiform seizures", 
+      "Contractures", 
+      "Trembling and cramps", 
+      "Crawling and numbness", 
+      "GENERAL PROSTRATION"
+    ], 
+    "Eyes": [
+      "Puffiness of lids", 
+      "Conjunctiva red and oedematous, WITH LACHRYMATION", 
+      "Red spots"
+    ], 
+    "Respiratory": [
+      "Fluent coryza", 
+      "Nasal mucous membrane swollen", 
+      "Dull pains in frontal sinus", 
+      "Aphonia", 
+      "Oppression and dyspnoea", 
+      "Cheyne-Stokes respiration"
+    ], 
+    "Stomach": [
+      "Nausea and vomiting; burning and pain", 
+      "Urine Section", 
+      "Diminished", 
+      "Penis black"
+    ], 
+    "Mind": [
+      "Fear of becoming insane; nervous anxiety; HALLUCINATIONS OF SIGHT AND HEARING"
+    ], 
+    "Head": [
+      "Throbbing headache; SENSATION OF CONSTRICTION", 
+      "Flashes of heat", 
+      "HEADACHE UNDER EARS WITH EARACHE"
+    ], 
+    "Face": [
+      "Oedema and puffiness", 
+      "Red and swollen"
+    ], 
+    "Mouth": [
+      "Swelling of lips", 
+      "Burning of mouth and gums", 
+      "Ulceration of lips and tongue; vesicles and bullae", 
+      "Small lump in cheek", 
+      "Tongue swollen", 
+      "Bloody saliva", 
+      "Toothache along lower jaw"
+    ], 
+    "Female": [
+      "Itching and burning in vagina", 
+      "Menses suppressed", 
+      "Watery leucorrhoea"
+    ], 
+    "Skin": [
+      "ERYTHEMA, eczema, pemphigus", 
+      "INTENSE PRURITUS", 
+      "URTICARIA, appearing and disappearing suddenly, with internal coldness", 
+      "Angioneurotic-oedema", 
+      "Dark blotches on skin of penis, sometimes with oedema"
+    ], 
+    "Throat": [
+      "Pain on swallowing", 
+      "Expectoration of fetid pus", 
+      "Abscess, white false membrane", 
+      "Sensation of burning"
+    ], 
+    "Ears": [
+      "Pains and buzzing", 
+      "TINNITUS"
+    ]
+  }, 
+  "name": "Antipyrine", 
+  "dosage": "Second decimal potency."
+}

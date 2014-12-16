@@ -1,0 +1,30 @@
+{
+  "Natural History": [
+    "AcanthiaBedbug"
+  ], 
+  "details": "Of use in intermittent fever, with weariness and inclination to stretch. Hamstrings feel too short. (AMMON. MUR.) Flexors mostly affected. Sensation of retraction of arm tendons. Stretching.", 
+  "symptoms": {
+    "Head": [
+      "Violent headache, caused by drinking", 
+      "Great rage; vehement at beginning of chilly stage", 
+      "Would like to tear everything to pieces", 
+      "Pain under right frontal bone"
+    ], 
+    "Fever": [
+      "Chilliness of whole body", 
+      "Sensation as of wind blowing on knees", 
+      "PAINS IN ALL JOINTS, AS IF TENDONS WERE TOO SHORT, especially knee-joints", 
+      "Chill; worse lying down", 
+      "Thirst during apyrexia, but little during chilly stage; still less during hot stage, and none during sweating", 
+      "Musty, offensive sweat", 
+      "Bowels", 
+      "Constipation, faeces dry and in small balls  and hard", 
+      "Ulcer of rectum"
+    ], 
+    "Female": [
+      "Shooting pain from vagina up towards left ovary"
+    ]
+  }, 
+  "name": "Cimex", 
+  "dosage": "Sixth to two hundredth attenuation."
+}

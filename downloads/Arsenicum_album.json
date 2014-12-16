@@ -1,0 +1,210 @@
+{
+  "name": "Arsenicum album", 
+  "Relationship": "Complementary: Rhus; Carbo; Phos.; Thuja; Secale. Antidotal to lead poison.Antidotes: Opium; Carbo; China; Hepar; Nux. Chemical antidotes: Charcoal; Hydrated Peroxide of Iron; Lime Water.Compare: Arsenic. stibiatum 3x (Chest inflammations of children, restlessness with thirst and prostration, loose mucous cough, oppression, hurried respiration, crepitant rales). Cenchris contortrix; Iod.; Phosph.; China; Verat. alb.; Carbo; Kali-phos. Epilobium (intractable diarrhoea of typhoid). Hoang Nan. Atoxyl. Sodium arseniate 3x, sleeping sickness; commencing optic atrophy. Levico Water - (containing Ars., Iron and Copper of South Tyrol). (Chronic and dyscratic skin diseases, chorea minor and spasms in scrofulous and anaemic children. Favors assimilation and increases nutrition. Debility and skin diseases, especially after the use of higher potencies where progress seems suspended. Dose. Ten drops in wine glass of warm water 3 times a day after meals. (Burnett). Sarcolactic acid (influenza with violent vomiting).", 
+  "symptoms": {
+    "Stool": [
+      "SMALL, OFFENSIVE, DARK, WITH MUCH PROSTRATION", 
+      "WORSE AT NIGHT, AND AFTER EATING AND DRINKING; from chilling stomach, alcoholic abuse, spoiled meat", 
+      "Dysentery dark, bloody, very offensive", 
+      "Cholera, with intense agony, prostration, and burning thirst", 
+      "Body cold as ice", 
+      "Hemorrhoids burn like fire; relieved by heat", 
+      "Skin excoriated about anus", 
+      "Urine Section", 
+      "Scanty, burning, involuntary", 
+      "Bladder as if paralyzed", 
+      "ALBUMINOUS", 
+      "Epithelial cells; cylindrical clots of fibrin and globules of pus and blood", 
+      "After urinating, feeling of weakness in abdomen", 
+      "Bright's disease", 
+      "Diabetes"
+    ], 
+    "Head": [
+      "Headaches relieved by cold, other symptoms worse", 
+      "Periodical burning pains, with RESTLESSNESS; with cold skin", 
+      "Hemicrania, with icy feeling of scalp and great weakness", 
+      "Sensitive head in open air", 
+      "Delirium tremens; cursing and raving; vicious", 
+      "Head is in constant motion", 
+      "Scalp ITCHES intolerably; circular patches of bare spots; rough, dirty, sensitive, and covered with dry scales; nightly burning and itching; dandruff", 
+      "Scalp very sensitive; cannot brush hair"
+    ], 
+    "Fever": [
+      "High temperature", 
+      "PERIODICALLY MARKED WITH ADYNAMIA", 
+      "Septic fevers", 
+      "INTERMITTENT", 
+      "PAROXYSMS INCOMPLETE, WITH MARKED EXHAUSTION", 
+      "HAY FEVER", 
+      "Cold sweats", 
+      "Typhoid, not too early; often after Rhus", 
+      "Complete exhaustion", 
+      "Delirium; worse after midnight", 
+      "Great restlessness", 
+      "Great heat about three AM Sordes"
+    ], 
+    "Stomach": [
+      "CANNOT BEAR THE SIGHT OR SMELL OF FOOD", 
+      "GREAT THIRSTS; DRINKS MUCH, BUT LITTLE AT A TIME", 
+      "Nausea, retching, vomiting, after eating or drinking", 
+      "Anxiety in pit of stomach", 
+      "BURNING PAIN", 
+      "Craves acids and coffee", 
+      "Heartburn; gulping up of acid and bitter substances which seem to excoriate the throat", 
+      "Long-lasting eructations", 
+      "Vomiting of blood, bile, green mucus, or brown-black mixed with blood", 
+      "Stomach extremely irritable; seems raw, as if torn", 
+      "Gastralgia from slightest food or drink", 
+      "Dyspepsia from vinegar, acids, ice-cream, ice-water, tobacco", 
+      "Terrible fear and dyspnoea, with gastralgia; also faintness, icy coldness, great exhaustion", 
+      "Malignant symptoms", 
+      "Everything swallowed seems to lodge in the oesophagus, which seems as if closed and nothing would pass", 
+      "ILL EFFECTS OF VEGETABLE DIET, MELONS, AND WATERY FRUITS GENERALLY", 
+      "Craves milk"
+    ], 
+    "Abdomen": [
+      "Gnawing, burning pains like coals of fire; relieved by heat", 
+      "LIVER AND SPLEEN ENLARGED AND PAINFUL", 
+      "Ascites and anasarca", 
+      "Abdomen swollen and painful", 
+      "Pain as from a wound in abdomen on coughing"
+    ], 
+    "Mouth": [
+      "Unhealthy easily-bleeding gums", 
+      "Ulceration of mouth with dryness and burning heat", 
+      "Epithelioma of lips", 
+      "Tongue dry, clean, and red; stitching and burning pain in tongue, ulcerated with blue color", 
+      "Bloody saliva", 
+      "Neuralgia of teeth; feel long and very sore; worse after midnight; better warmth", 
+      "Metallic taste", 
+      "GULPING UP BURNING WATER"
+    ], 
+    "Rectum": [
+      "Painful, spasmodic protrusion of rectum", 
+      "Tenesmus", 
+      "BURNING pain and pressure in rectum and anus"
+    ], 
+    "Respiratory": [
+      "Unable to lie down; fears suffocation", 
+      "Air-passages constricted", 
+      "Asthma worse midnight", 
+      "Burning in chest", 
+      "Suffocative catarrh", 
+      "Cough worse after midnight; worse lying on back", 
+      "Expectoration scanty, FROTHY", 
+      "DARTING PAIN THROUGH UPPER THIRD OF RIGHT LUNG", 
+      "Wheezing respiration", 
+      "Hemoptysis with pain between shoulders; burning heat all over", 
+      "Cough dry, as from sulphur fumes; AFTER DRINKING"
+    ], 
+    "Eyes": [
+      "BURNING IN EYES, WITH ACRID LACHRYMATION", 
+      "Lids red, ulcerated, scabby, scaly, granulated", 
+      "Oedema around eyes", 
+      "External inflammation, with extreme painfulness; BURNING, HOT, and excoriating lachrymation", 
+      "Corneal ulceration", 
+      "INTENSE PHOTOPHOBIA; better external warmth", 
+      "Ciliary neuralgia, with fine burning pain"
+    ], 
+    "Face": [
+      "Swollen, pale, yellow, CACHETIC, sunken, cold, and covered with sweat", 
+      "Expression of agony", 
+      "Tearing, NEEDLE-LIKE pains; burning", 
+      "Lips black, livid", 
+      "Angry, circumscribed flush of cheeks"
+    ], 
+    "Nose": [
+      "THIN, WATERY, EXCORIATING discharge", 
+      "Nose feels STOPPED UP", 
+      "Sneezing without relief", 
+      "Hay-fever and coryza; worse in open air; better indoors", 
+      "BURNING and bleeding", 
+      "Acne of nose", 
+      "Lupus"
+    ], 
+    "Ears": [
+      "Skin within, raw and burning", 
+      "THIN, EXCORIATING, OFFENSIVE otorrhoea", 
+      "Roaring in ears, during a paroxysm of pain"
+    ], 
+    "Heart": [
+      "Palpitation, pain, dyspnoea, faintness", 
+      "Irritable heart in smokers and tobacco-chewers", 
+      "PULSE MORE RAPID IN MORNING", 
+      "Dilatation", 
+      "Cyanosis", 
+      "Fatty degeneration", 
+      "Angina pectoris, with pain in neck and occiput"
+    ], 
+    "Modalities": [
+      "Worse: wet weather", 
+      "Worse: after midnight; from cold", 
+      "Worse: drinks", 
+      "Worse: or food"
+    ], 
+    "Mind": [
+      "GREAT ANGUISH AND RESTLESSNESS", 
+      "CHANGES PLACE CONTINUALLY", 
+      "FEARS, of death, of being left alone", 
+      "Great fear, with cold sweat", 
+      "Thinks it useless to take medicine", 
+      "Suicidal", 
+      "Hallucinations of smell and sight", 
+      "Despair drives him from place to place", 
+      "Miserly, malicious, selfish, lacks courage", 
+      "General sensibility increased  Sensitive to disorder and confusion"
+    ], 
+    "Back": [
+      "Weakness in small of back", 
+      "Drawing in of shoulders", 
+      "Pain and burning in back"
+    ], 
+    "Female": [
+      "Menses too profuse and too soon", 
+      "Burning in ovarian region", 
+      "Leucorrhoea, acrid, burning, offensive, thin", 
+      "Pain as from red-hot wires; worse least exertion; causes great fatigue; better in warm room", 
+      "MENORRHAGIA", 
+      "Stitching pain in pelvis extending down the thigh"
+    ], 
+    "Skin": [
+      "Itching, burning, swellings; oedema; eruption, papular, DRY, ROUGH, SCALY; WORSE COLD and scratching", 
+      "Malignant pustules", 
+      "Ulcers with offensive discharge", 
+      "Anthrax", 
+      "Poisoned wounds", 
+      "Urticaria, with burning and restlessness", 
+      "Psoriasis", 
+      "Scirrhus", 
+      "Icy coldness of body", 
+      "Epithelioma of the skin", 
+      "Gangrenous inflammations", 
+      "Sleep", 
+      "Disturbed, anxious, restless", 
+      "Must have head raised by pillows", 
+      "Suffocative fits during sleep", 
+      "Sleeps with hands over head", 
+      "Dreams are full of care and fear", 
+      "Drowsy, sleeping sickness"
+    ], 
+    "Throat": [
+      "Swollen, oedematous, constricted, burning; unable to swallow", 
+      "Diphtheritic membrane, looks dry and wrinkled"
+    ], 
+    "Extremities": [
+      "Trembling, twitching, spasms, weakness, heaviness, uneasiness", 
+      "Cramps in calves", 
+      "Swelling of feet", 
+      "Sciatica", 
+      "Burning pains", 
+      "Peripheral neuritis", 
+      "Diabetic gangrene", 
+      "Ulcers on heel  Paralysis of lower limbs with atrophy"
+    ]
+  }, 
+  "details": "A profoundly acting remedy on every organ and tissue. Its clear-cut characteristic symptoms and correspondence to many severe types of disease make its homeopathic employment constant and certain. Its general symptoms often alone lead to its successful application. Among these the all-prevailing debility, exhaustion, and RESTLESSNESS, WITH NIGHTLY AGGRAVATION, are most important. GREAT EXHAUSTION AFTER THE SLIGHTEST EXERTION. This, with the peculiar irritability of fibre, gives the characteristic IRRITABLE WEAKNESS. BURNING PAINS. Unquenchable thirst. Burning relieved by heat. SEASIDE COMPLAINTS (Nat-mur.; Aqua Marina)). Injurious effects of fruits, especially more watery ones. Gives quiet and ease to the last moments of life when given in high potency. FEAR FRIGHT AND WORRY. Green discharges. Infantile Kala-azar. (Dr. Neatby). ARS. should be thought of in ailments from alcoholism, PTOMAINE POISONING, stings, dissecting wounds, chewing tobacco; ill effects from decayed food or animal matter; odor of discharges is PUTRID; in complaints that return annually. Anaemia and chlorosis. Degenerative changes. Gradual loss of weight from impaired nutrition. Reduces the refractive index of blood serum (also China and Ferr. phos.). Maintains the system under the stress of malignancy regardless of location. Malarial cachexia. SEPTIC INFECTIONS AND LOW VITALITY.", 
+  "Natural History": [
+    "- Arsenic Trioxide"
+  ], 
+  "dosage": "Third to thirtieth potency. The very highest potencies often yield brilliant results.Low attenuations in gastric, intestinal, and kidney diseases; higher in neuralgias."
+}

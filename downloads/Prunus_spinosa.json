@@ -1,0 +1,50 @@
+{
+  "name": "Prunus spinosa", 
+  "Relationship": "Compare: LAUROC.; PRUNUS PADUS - Bird-cherry - (sore throat, pressure behind sternum and sticking pain in rectum); PRUNUS VIRGINIANA - Wild Cherry - (HEART TONIC; relieves the flagging and distended ventricle; irritable heart; dilatation of right heart; COUGH, WORSE AT NIGHT ON LYING DOWN; weak digestion, especially in elderly people; chronic bronchitis; increases muscular tone); PYRUS - Mountain Ash - (irritation of eyes; constriction around waist; spasmodic pains in uterus, bladder, heart, cold-water sensation in stomach, coldness extends up oesophagus; neuralgic and gouty pains).", 
+  "symptoms": {
+    "Eyes": [
+      "CILIARY NEURALGIA", 
+      "Bursting pain in right eyeball shooting like lightning through the brain to occiput", 
+      "SUDDEN PAIN IN LEFT EYE AS IF IT WOULD BURST, better by lachrymation", 
+      "Iridochoroiditis", 
+      "Opacity of vitreous humor", 
+      "Eyes feel as if bursting"
+    ], 
+    "Respiratory": [
+      "Wheezing when walking", 
+      "Oppression of chest; anxious, short respiration", 
+      "Angina pectoris", 
+      "Furious beating of heart; worse, slightest motion"
+    ], 
+    "Head": [
+      "Pressing-asunder pain beneath skull", 
+      "SHOOTING FROM RIGHT FRONTAL BONE THROUGH BRAIN TO OCCIPUT", 
+      "PAIN IN RIGHT EYEBALL, AS IF IT WOULD BURST", 
+      "Piercing toothache, as if teeth were pulled out; worse, taking anything warm"
+    ], 
+    "Abdomen": [
+      "Ascites", 
+      "Cramp-like pain in bladder region; worse, walking"
+    ], 
+    "Skin": [
+      "Herpes zoster", 
+      "DROPSY", 
+      "Itching on tips of fingers, as if frozen"
+    ], 
+    "Rectum": [
+      "Hard, nodular stool, with rectal pain, as if angular body were pressed inward", 
+      "Burning in anus after slimy diarrhoea", 
+      "Urine Section", 
+      "Tenesmus of bladder", 
+      "Ineffectual effort to urinate", 
+      "HURRIEDLY IMPELLED TO URINATE; THE URINE SEEMS TO PASS AS FAR AS GLANS, AND THEN RETURNS AND CAUSES PAIN IN URETHRA", 
+      "Neuralgic dysuria", 
+      "MUST PRESS A LONG TIME BEFORE URINE APPEARS"
+    ]
+  }, 
+  "details": "Special action on the urinary organs and head. Very valuable in certain neuralgias, anasarca, and especially oedema pedum. Ankle and foot feel sprained. CILIARY NEURALGIA. (SPIG.)", 
+  "Natural History": [
+    "Black-thorn"
+  ], 
+  "dosage": "Third to sixth potency."
+}

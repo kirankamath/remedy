@@ -1,0 +1,55 @@
+{
+  "name": "Coccus cacti", 
+  "Relationship": "Compare: CANTH.; CACT.; SARS.", 
+  "symptoms": {
+    "Heart": [
+      "Sensation as if everything were pressed toward the heart", 
+      "Urinary Organs", 
+      "Urging to urinate; BRICK-RED SEDIMENT", 
+      "URINARY CALCULI, Hematuria, URATES, and uric acid; lancinating pains from kidney to bladder", 
+      "Deep-colored, thick urine", 
+      "Dysuria"
+    ], 
+    "Head": [
+      "Suboccipital soreness; worse after sleep and exertion", 
+      "Headache, worse from lying on back, better with the head high", 
+      "Dull pain over right eye in morning", 
+      "SENSATION OF A FOREIGN BODY BETWEEN UPPER LID AND EYEBALL", 
+      "Distress from cinders lodged in eye"
+    ], 
+    "Respiratory": [
+      "Constant hawking from enlarged uvula; coryza, with inflamed fauces; ACCUMULATION OF THICK VISCID MUCUS, which is expectorated with great difficulty", 
+      "TICKLING IN LARYNX", 
+      "Sensation of a crumb behind larynx, must swallow continually; brushing teeth causes cough", 
+      "Fauces very sensitive", 
+      "Suffocative cough; worse, first waking, with tough, white mucus, which strangles", 
+      "Spasmodic morning cough", 
+      "WHOOPING COUGH ATTACKS END WITH VOMITING OF THIS TOUGH MUCUS", 
+      "Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated", 
+      "Walking against wind takes breath away"
+    ], 
+    "Modalities": [
+      "Worse: left side", 
+      "Worse: after sleep", 
+      "Worse: touch", 
+      "Worse: pressure of clothing", 
+      "Worse: brushing teeth", 
+      "Worse: slightest exertion", 
+      "Better: walking"
+    ], 
+    "Mind": [
+      "Early morning or afternoon, sadness"
+    ], 
+    "Female": [
+      "Menses too early, profuse, BLACK and thick; DARK CLOTS, with dysuria", 
+      "Intermittent menstruation; flow only in evening and at night", 
+      "LARGE CLOTS escape when passing water", 
+      "LABIA inflamed"
+    ]
+  }, 
+  "details": "The clinical application of the symptoms of this remedy, place it among the medicines for spasmodic and whooping coughs, and catarrhal conditions of the bladder; spasmodic pains in kidneys, with visceral tenesmus. Anuria, anasarca, ascites.", 
+  "Natural History": [
+    "Cochineal"
+  ], 
+  "dosage": "Lower triturations."
+}

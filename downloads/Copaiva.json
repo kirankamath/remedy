@@ -1,0 +1,61 @@
+{
+  "name": "Copaiva", 
+  "Relationship": "Antidote: BELL.; MERC.Compare: SANTALUM - (aching in kidneys); CANNAB.; CANTH.; BAROSMA; CUBEB; APIS; VESPA; ERIG.; SENECIO; SEPIA.", 
+  "symptoms": {
+    "Head": [
+      "Excessive sensitiveness; pain in occiput", 
+      "Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion", 
+      "Scalp sensitive", 
+      "Sensitive to sharp sounds"
+    ], 
+    "Respiratory": [
+      "Cough, with profuse, gray, purulent expectoration", 
+      "Tickling in larynx, trachea, and bronchi", 
+      "Bronchial catarrh, with profuse greenish, offensive discharge"
+    ], 
+    "Stomach": [
+      "Food seems too salty", 
+      "Gastric troubles during menstruation or following urticaria", 
+      "Gas and intestinal flatulence, urging to stool and difficult passage with pain", 
+      "Urinary Organs", 
+      "Burning pressure; painful micturition by drops", 
+      "Retention, with pain in bladder, anus, and rectum", 
+      "CATARRH OF BLADDER; dysuria", 
+      "Swelling of orifice", 
+      "Constant desire to urinate", 
+      "Urine smells of violets", 
+      "Greenish; turbid color; peculiar pungent odor"
+    ], 
+    "Nose": [
+      "Rawness and soreness of nostrils with stopped-up feeling; dryness of posterior nares", 
+      "Profuse, thick, fetid discharge from nasal passages, running down throat at night", 
+      "BURNING AND DRYNESS, crusts on turbinated bones", 
+      "Marked catarrhal condition in upper respiratory tract"
+    ], 
+    "Female": [
+      "Itching of vulva and anus, with bloody purulent discharge", 
+      "Profuse, strong-smelling menstrual discharge, with pains radiating to hip bones, with nausea"
+    ], 
+    "Skin": [
+      "HIVES, with fever and constipation", 
+      "Roseola", 
+      "Erysipelatous inflammation, especially around abdomen", 
+      "Circumscribed, lenticular patches, with itching; mottled appearance", 
+      "Chronic urticaria in children", 
+      "Bullous eruptions"
+    ], 
+    "Rectum": [
+      "MUCOUS COLITIS", 
+      "Stools covered with mucous, with colic and chilliness", 
+      "Burning and itching of anus, caused by piles"
+    ], 
+    "Male": [
+      "Testicles sensitive and swollen"
+    ]
+  }, 
+  "details": "Acts powerfully on mucous membranes, especially that of the urinary tract, the respiratory organs, and the skin, here producing a well-marked nettle-rash. Colds and catarrhs.", 
+  "Natural History": [
+    "Balsam of Copaiva"
+  ], 
+  "dosage": "First to third attenuation."
+}

@@ -1,0 +1,30 @@
+{
+  "Natural History": [
+    "Bitter-broom"
+  ], 
+  "symptoms": {
+    "Head": [
+      "Aches, extending to nose; feels swelled; pain in frontal eminence", 
+      "Eyes heavy; eyeballs ache", 
+      "Ringing in ears", 
+      "Pain at root of nose; feels swollen", 
+      "Aching in teeth", 
+      "TEETH FEEL ON EDGE; too long", 
+      "Disordered vision", 
+      "Tinnitus and pain in ears"
+    ], 
+    "Relationship": "", 
+    "Modalities": [
+      "Worse: after sleep", 
+      "Worse: sudden motion", 
+      "Better: after rising", 
+      "Better: and walking about"
+    ], 
+    "Abdomen": [
+      "Pain in left hypochondrium", 
+      "Spleen affections"
+    ]
+  }, 
+  "name": "Parthenium escoba amargo", 
+  "details": "A Cuban remedy for fevers, especially malarial. Increased flow of milk. Amenorrhoea and general debility. Cheyne-Stokes breathing. After Quinine."
+}

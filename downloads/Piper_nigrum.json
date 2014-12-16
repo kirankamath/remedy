@@ -1,0 +1,44 @@
+{
+  "Natural History": [
+    "Black Pepper"
+  ], 
+  "details": "Sensation of burning and pressure everywhere.", 
+  "symptoms": {
+    "Head": [
+      "Heavy headache, as if temples were pressed in; pressure in nasal and facial bones", 
+      "Eyes inflamed and burning", 
+      "Red burning face", 
+      "Bursting aching in eyeballs", 
+      "Nose itches; sneezing; nosebleed", 
+      "Lips dry and cracked"
+    ], 
+    "Stomach": [
+      "Gastric discomfort", 
+      "Full feeling", 
+      "Great thirst", 
+      "Flatulence", 
+      "Tympanites", 
+      "Colic and cramps"
+    ], 
+    "Mind": [
+      "Sad, apprehensive", 
+      "Unable to concentrate; starts at any noise"
+    ], 
+    "Chest": [
+      "Dyspnoea, cough with pain in chest in spots, feels as if spitting blood", 
+      "Palpitation, cardiac pain, slow intermittent pulse", 
+      "Great flow of milk", 
+      "Urinary Organs", 
+      "Burning in bladder and urethra", 
+      "Difficult micturition", 
+      "Bladder feels full, swollen; frequent inclination without success", 
+      "Priapism"
+    ], 
+    "Throat": [
+      "Sore, feels raw, burns", 
+      "Burning pain in tonsils"
+    ]
+  }, 
+  "name": "Piper nigrum", 
+  "dosage": "Low attenuations."
+}

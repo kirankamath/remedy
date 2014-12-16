@@ -1,0 +1,54 @@
+{
+  "Natural History": [
+    "Common Flea"
+  ], 
+  "details": "Marked urinary and female symptoms.", 
+  "symptoms": {
+    "Head": [
+      "Very impatient, cross, and irritable", 
+      "Frontal headache, with ENLARGED FEELING OF EYES", 
+      "FACE WRINKLED AND OLD-LOOKING"
+    ], 
+    "Fever": [
+      "Feels a glow all over, like being over steam; CHILLY, while sitting beside the fire"
+    ], 
+    "Stomach": [
+      "Breath and taste foul", 
+      "Intense nausea, with vomiting, purging, and faintness", 
+      "Stool very offensive", 
+      "Abdomen bloated", 
+      "Urine Section", 
+      "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
+      "Flow stops suddenly followed by pain Urine foul", 
+      "Cannot retain urine; must attend to the call without delay", 
+      "Irritable bladder before menses"
+    ], 
+    "Modalities": [
+      "Better: sitting or lying down", 
+      "Worse: left side", 
+      "Worse: moving about"
+    ], 
+    "Back": [
+      "Aches, weak; drawing of muscles below scapulae"
+    ], 
+    "Mouth": [
+      "Metallic taste", 
+      "Sensation of a thread in throat", 
+      "Thirsty, especially during headache"
+    ], 
+    "Female": [
+      "Menses delayed", 
+      "Increased flow of saliva during", 
+      "Intense burning in vagina", 
+      "Leucorrhoea, profuse, foul, staining a greenish yellow; stains of menses and leucorrhoea very hard to wash out", 
+      "Backache"
+    ], 
+    "Skin": [
+      "Prickly itching", 
+      "Sore spots all over", 
+      "Skin emits foul odor"
+    ]
+  }, 
+  "name": "Pulex irritans", 
+  "dosage": "The higher potencies."
+}
