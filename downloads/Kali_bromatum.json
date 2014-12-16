@@ -23,6 +23,11 @@
     "Modalities": [
       "Better: when occupied mentally or physically"
     ], 
+    "Urine": [
+      "Sensibility of urethra diminished", 
+      "Diabetes", 
+      "Urine profuse, with thirst"
+    ], 
     "Mind": [
       "Loss of memory", 
       "Amnesic aphasia; can pronounce any word told, but cannot speak otherwise", 
@@ -40,13 +45,9 @@
       "RETRACTION of abdomen", 
       "Green, watery stools", 
       "INTERNAL COLDNESS of abdomen", 
-      "Urine profuse, with thirst", 
       "Diarrhoea, with much blood", 
       "CHOLERA INFANTUM, with reflex cerebral irritation, jerking and twitching of muscles", 
-      "Prostration", 
-      "Diabetes", 
-      "Urinary Organs", 
-      "Sensibility of urethra diminished"
+      "Prostration"
     ], 
     "Sleep": [
       "Horrible dreams", 

@@ -23,12 +23,6 @@
       "DESPONDENT; thinks her disease incurable", 
       "Attacks of rage"
     ], 
-    "Mouth": [
-      "Tongue coated white with bright red edges; profuse salivation", 
-      "CRACKING OF JAW WHILE EATING", 
-      "Putrid taste increased by sweets", 
-      "Drooling in diphtheria"
-    ], 
     "Nose": [
       "Alae nasi and corners of mouth cracked", 
       "Bones of nose sore to pressure", 
@@ -56,8 +50,11 @@
       "Sore throat beginning and ending with menses", 
       "Sensitive to touch"
     ], 
-    "Sleep": [
-      "Dreams of snakes"
+    "Mouth": [
+      "Tongue coated white with bright red edges; profuse salivation", 
+      "CRACKING OF JAW WHILE EATING", 
+      "Putrid taste increased by sweets", 
+      "Drooling in diphtheria"
     ], 
     "Extremities": [
       "Legs feel numb and stiff, cramps in feet", 
@@ -65,6 +62,9 @@
       "Pain in arms to fingers", 
       "Burning in palms and soles", 
       "Sciatica, right-side"
+    ], 
+    "Sleep": [
+      "Dreams of snakes"
     ]
   }, 
   "details": "This remedy is of undoubted value in certain forms of sore throat and diphtheria, and rheumatism. Corresponds to a low-vitiated, non-feverish type of sickness. The keynote symptom is ERRATIC PAINS, ALTERNATING SIDES. Feels as if walking on air, or of not touching the bed when lying down. Great lassitude. Ozaena. Decided effect in drying up milk in women who cannot nurse the baby. GREAT WEAKNESS AND PROSTRATION. Sinking spells every morning. Mastitis.", 

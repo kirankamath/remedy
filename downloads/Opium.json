@@ -2,84 +2,18 @@
   "name": "Opium", 
   "Relationship": "Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).", 
   "symptoms": {
-    "Eyes": [
-      "Ptosis", 
-      "Half-closed, dilated; pupils insensible, CONTRACTED", 
-      "Staring, glassy"
-    ], 
-    "Respiratory": [
-      "Difficult, intermittent, deep, unequal respiration", 
-      "Cough, with dyspnoea and blue face; with bloody expectoration", 
-      "Heat in chest; burning about heart", 
-      "DEEP SNORING; RATTLING, STERTOROUS BREATHING", 
-      "Hoarse", 
-      "Breathing stops on going to sleep; must be shaken to start it again"
-    ], 
-    "Stomach": [
-      "Faecal vomiting", 
-      "Hungry; no desire to eat", 
-      "Vomiting, with colic and convulsions", 
-      "Incarcerated hernia"
-    ], 
-    "Female": [
-      "Suppressed menses from fright", 
-      "Puerperal convulsions; drowsiness or coma between paroxysms", 
-      "Cessation of labor-pains with coma and twitchings", 
-      "Horrible labor-like pains in uterus, with urging to stool", 
-      "Threatened abortion and suppression of lochia, from fright with sopor"
-    ], 
-    "Modalities": [
-      "Better: cold things", 
-      "Better: constant walking", 
-      "Worse: heat", 
-      "Worse: during and after sleep"
-    ], 
-    "Mind": [
-      "Patient wants nothing", 
-      "Thinks he is not at home", 
-      "Delirious talking, with wide open eyes", 
-      "COMPLETE LOSS OF CONSCIOUSNESS; APOPLECTIC STATE", 
-      "Frightful fancies, daring, gay, bright", 
-      "Unable to understand or appreciate his sufferings"
+    "Urine": [
+      "RETAINED or involuntary, after fright", 
+      "Slow to start; feeble stream", 
+      "Loss of power or sensibility of bladder"
     ], 
     "Stool": [
       "Faeces protrude and recede", 
       "ROUND, HARD, BLACK BALLS", 
-      "RETAINED or involuntary, after fright", 
       "Violent pain in rectum, as if pressed asunder", 
-      "Loss of power or sensibility of bladder", 
       "Stools involuntary, black, offensive, frothy", 
       "Spasmodic retention of faeces in small intestines", 
-      "Obstinate constipation; no desire to go to stool", 
-      "Slow to start; feeble stream", 
-      "Urine Section"
-    ], 
-    "Back": [
-      "Opisthotonos", 
-      "Swollen veins of neck"
-    ], 
-    "Face": [
-      "Looks intoxicated, besotted", 
-      "HANGING DOWN OF LOWER JAW", 
-      "Spasmodic facial twitching, especially corners of mouth", 
-      "Red, bloated, SWOLLEN, DARK SUFFUSED, HOT", 
-      "Veins of face distended", 
-      "Distorted"
-    ], 
-    "Fever": [
-      "Fever characterized by stupor, snoring respiration, twitching of limbs, intense thirst and sleepiness", 
-      "General low temperature with inclination to stupor", 
-      "HOT perspiration", 
-      "Heat extending over body", 
-      "Pulse FULL AND SLOW"
-    ], 
-    "Mouth": [
-      "Dry", 
-      "Intense thirst", 
-      "Difficult articulation and swallowing", 
-      "Tongue black, PARALYZED", 
-      "Blubbering of lips", 
-      "Bloody froth"
+      "Obstinate constipation; no desire to go to stool"
     ], 
     "Head": [
       "Vertigo; LIGHTNESS OF HEAD IN OLD PEOPLE", 
@@ -91,10 +25,70 @@
       "Delirium", 
       "Vertigo after fright"
     ], 
-    "Skin": [
-      "Hot, damp, sweating", 
-      "Constant desire to uncover", 
-      "HOT PERSPIRATION OVER WHOLE BODY EXCEPT LOWER LIMBS"
+    "Fever": [
+      "Fever characterized by stupor, snoring respiration, twitching of limbs, intense thirst and sleepiness", 
+      "General low temperature with inclination to stupor", 
+      "HOT perspiration", 
+      "Heat extending over body", 
+      "Pulse FULL AND SLOW"
+    ], 
+    "Stomach": [
+      "Faecal vomiting", 
+      "Hungry; no desire to eat", 
+      "Vomiting, with colic and convulsions", 
+      "Incarcerated hernia"
+    ], 
+    "Abdomen": [
+      "Hard, bloated, tympanitic", 
+      "Lead colic", 
+      "During colic, urging to stool and discharge of hard faeces"
+    ], 
+    "Mouth": [
+      "Dry", 
+      "Intense thirst", 
+      "Difficult articulation and swallowing", 
+      "Tongue black, PARALYZED", 
+      "Blubbering of lips", 
+      "Bloody froth"
+    ], 
+    "Respiratory": [
+      "Difficult, intermittent, deep, unequal respiration", 
+      "Cough, with dyspnoea and blue face; with bloody expectoration", 
+      "Heat in chest; burning about heart", 
+      "DEEP SNORING; RATTLING, STERTOROUS BREATHING", 
+      "Hoarse", 
+      "Breathing stops on going to sleep; must be shaken to start it again"
+    ], 
+    "Eyes": [
+      "Ptosis", 
+      "Half-closed, dilated; pupils insensible, CONTRACTED", 
+      "Staring, glassy"
+    ], 
+    "Face": [
+      "Looks intoxicated, besotted", 
+      "HANGING DOWN OF LOWER JAW", 
+      "Spasmodic facial twitching, especially corners of mouth", 
+      "Red, bloated, SWOLLEN, DARK SUFFUSED, HOT", 
+      "Veins of face distended", 
+      "Distorted"
+    ], 
+    "Modalities": [
+      "Worse: heat", 
+      "Worse: during and after sleep", 
+      "Better: cold things", 
+      "Better: constant walking"
+    ], 
+    "Mind": [
+      "Patient wants nothing", 
+      "Thinks he is not at home", 
+      "Delirious talking, with wide open eyes", 
+      "COMPLETE LOSS OF CONSCIOUSNESS; APOPLECTIC STATE", 
+      "Frightful fancies, daring, gay, bright", 
+      "Unable to understand or appreciate his sufferings"
+    ], 
+    "Back": [
+      "Opisthotonos", 
+      "Swollen veins of neck"
     ], 
     "Sleep": [
       "Profound coma", 
@@ -111,17 +105,24 @@
       "Picking at bedclothes", 
       "Falls into a heavy stupid sleep"
     ], 
+    "Female": [
+      "Suppressed menses from fright", 
+      "Puerperal convulsions; drowsiness or coma between paroxysms", 
+      "Cessation of labor-pains with coma and twitchings", 
+      "Horrible labor-like pains in uterus, with urging to stool", 
+      "Threatened abortion and suppression of lochia, from fright with sopor"
+    ], 
+    "Skin": [
+      "Hot, damp, sweating", 
+      "Constant desire to uncover", 
+      "HOT PERSPIRATION OVER WHOLE BODY EXCEPT LOWER LIMBS"
+    ], 
     "Extremities": [
       "Convulsions; worse from glare of light; coldness of limbs", 
       "Painless paralysis", 
       "TWITCHING OF LIMBS", 
       "Jerks as if flexors were over acting", 
       "Numbness"
-    ], 
-    "Abdomen": [
-      "Hard, bloated, tympanitic", 
-      "Lead colic", 
-      "During colic, urging to stool and discharge of hard faeces"
     ]
   }, 
   "details": "Hahnemann says that it is much more difficult to estimate the action of Opium than of almost any other drug. The effects of Opium as shown in the insensibility of the nervous system, the depression drowsy stupor, painlessness, and torpor, the general sluggishness and lack of vital reaction, constitute the main indications for the drug when used homeopathically. All complaints are characterized by SOPOR. They are PAINLESS, and are accompanied by HEAVY, STUPID SLEEP, STERTOROUS BREATHING. SWEATY SKIN. Dark, mahogany-brown face. Serous apoplexy - venous, passive congestion. Want of sensitiveness to the action of medicines. Reappearance and aggravation from becoming heated. Opium lessens voluntary movements, contracts pupils, depresses higher intellectual powers, lessens self-control and power of concentration, judgement; stimulates the imagination, checks all secretions except that of the skin. Want of susceptibility to remedies even though indicated. Diseases that originate from fright.", 

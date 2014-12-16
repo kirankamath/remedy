@@ -16,13 +16,14 @@
       "Coldness in stomach", 
       "Longing for acids"
     ], 
+    "Urine": [
+      "Red sediment", 
+      "Burning"
+    ], 
     "Stool": [
       "Diarrhoea of nursing children", 
-      "Red sediment", 
-      "Burning", 
       "Burning at anus", 
-      "Greenish", 
-      "Urine Section"
+      "Greenish"
     ], 
     "Abdomen": [
       "Movement as from something alive", 

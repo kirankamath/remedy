@@ -2,18 +2,17 @@
   "name": "Nitricum acidum", 
   "Relationship": "Complementary: ARS.; CALAD.; LAC CAN.; SEPIA.Compare: MERC.; KALI-C.; THUJA; HEPAR; CALC.Inimical: LACH.", 
   "symptoms": {
+    "Mind": [
+      "Hopeless despair", 
+      "Fear of death", 
+      "IRRITABLE, hateful, vindictive, headstrong", 
+      "Sensitive to noise, pain, touch, jar"
+    ], 
     "Eyes": [
       "Gonorrheal ophthalmia, photophobia, constant lachrymation", 
       "Ulceration of cornea", 
       "Syphilitic iritis", 
       "Double vision; SHARP, STICKING PAINS"
-    ], 
-    "Respiratory": [
-      "Hoarseness", 
-      "Soreness at lower end of sternum", 
-      "SHORT BREATH ON GOING UPSTAIRS", 
-      "Cough during sleep", 
-      "Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach"
     ], 
     "Stomach": [
       "Great hunger, with sweetish taste", 
@@ -21,47 +20,19 @@
       "Longing for indigestible things - chalk, earth, etc. Pain in cardiac orifice", 
       "Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression"
     ], 
-    "Female": [
-      "Hair on genitals falls out", 
-      "Leucorrhoea brown, flesh-colored, watery, or stringy, offensive", 
-      "Uterine hemorrhages", 
-      "Metrorrhagia after parturition", 
-      "Stitches through vagina", 
-      "External parts sore, with ulcers", 
-      "Menses early, profuse, like muddy water, with pain in back, hips and thighs"
-    ], 
-    "Modalities": [
-      "Worse: evening and night", 
-      "Worse: cold climate", 
-      "Worse: and also HOT weather", 
-      "Better: while riding in carriage"
-    ], 
-    "Mind": [
-      "Hopeless despair", 
-      "Fear of death", 
-      "IRRITABLE, hateful, vindictive, headstrong", 
-      "Sensitive to noise, pain, touch, jar"
-    ], 
     "Abdomen": [
       "Great straining, but little passes", 
-      "Violent cutting pains AFTER STOOLS, LASTING FOR HOURS", 
       "Hemorrhoids bleed easily", 
-      "Bowels constipated, with fissures in rectum", 
-      "Burning and stinging", 
-      "COLD ON PASSING", 
-      "Diarrhoea, slimy and offensive", 
       "Colic relieved from tightening clothes", 
-      "Hemorrhages from bowels, profuse, bright", 
+      "Diarrhoea, slimy and offensive", 
       "Rectum feels torn", 
-      "Scanty, dark, OFFENSIVE", 
-      "Tearing pains during stools", 
-      "Urine bloody and albuminous", 
-      "Jaundice, aching in liver", 
-      "Alternation of cloudy, phosphatic urine with profuse urinary secretion in old prostatic cases", 
       "Prolapsus ani", 
-      "Smells like horse's urine", 
-      "Urine Section", 
-      "After stools, irritable and exhausted"
+      "Tearing pains during stools", 
+      "After stools, irritable and exhausted", 
+      "Jaundice, aching in liver", 
+      "Hemorrhages from bowels, profuse, bright", 
+      "Bowels constipated, with fissures in rectum", 
+      "Violent cutting pains AFTER STOOLS, LASTING FOR HOURS"
     ], 
     "Mouth": [
       "TONGUE CLEAN, RED AND WET WITH CENTER FURROW", 
@@ -74,6 +45,25 @@
       "BLOODY SALIVA", 
       "Putrid breath"
     ], 
+    "Respiratory": [
+      "Hoarseness", 
+      "Soreness at lower end of sternum", 
+      "SHORT BREATH ON GOING UPSTAIRS", 
+      "Cough during sleep", 
+      "Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach"
+    ], 
+    "Head": [
+      "Hair falls out", 
+      "Scalp sensitive", 
+      "Headaches from pressure of hat; full feeling; worse from street noises", 
+      "Sensation of a BAND AROUND HEAD"
+    ], 
+    "Throat": [
+      "Dry", 
+      "Pain into ears", 
+      "Hawks mucus constantly", 
+      "White patches and SHARP POINTS, AS FROM SPLINTERS, on swallowing"
+    ], 
     "Nose": [
       "Stitches, as of a splinter in nose", 
       "Nasal diphtheria, with watery and exceedingly excoriating discharge", 
@@ -85,29 +75,6 @@
       "Ozaena", 
       "Green casts from nose every morning"
     ], 
-    "Head": [
-      "Hair falls out", 
-      "Scalp sensitive", 
-      "Headaches from pressure of hat; full feeling; worse from street noises", 
-      "Sensation of a BAND AROUND HEAD"
-    ], 
-    "Skin": [
-      "Black pores on face, papules worse on forehead", 
-      "Warts, large jagged; bleed on washing", 
-      "Ulcers bleed easily, sensitive; splinter-like pains; zigzag, irregular edges; base looks like raw flesh", 
-      "Exuberant granulations"
-    ], 
-    "Throat": [
-      "Dry", 
-      "Pain into ears", 
-      "Hawks mucus constantly", 
-      "White patches and SHARP POINTS, AS FROM SPLINTERS, on swallowing"
-    ], 
-    "Extremities": [
-      "Sweating of palms, hands; cold, blue nails", 
-      "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes", 
-      "Offensive sweat in axillae at night"
-    ], 
     "Male": [
       "Ulcers; burn and sting; exude, offensive matter", 
       "Soreness and burning in glans and beneath prepuce"
@@ -116,6 +83,40 @@
       "Cracking in ears when chewing", 
       "Difficult hearing; better by riding in carriage or train", 
       "VERY SENSITIVE TO NOISE, as the rattle of wagons over pavements"
+    ], 
+    "Modalities": [
+      "Worse: evening and night", 
+      "Worse: cold climate", 
+      "Worse: and also HOT weather", 
+      "Better: while riding in carriage"
+    ], 
+    "Urine": [
+      "Scanty, dark, OFFENSIVE", 
+      "Burning and stinging", 
+      "Alternation of cloudy, phosphatic urine with profuse urinary secretion in old prostatic cases", 
+      "Urine bloody and albuminous", 
+      "Smells like horse's urine", 
+      "COLD ON PASSING"
+    ], 
+    "Female": [
+      "Hair on genitals falls out", 
+      "Leucorrhoea brown, flesh-colored, watery, or stringy, offensive", 
+      "Uterine hemorrhages", 
+      "Metrorrhagia after parturition", 
+      "Stitches through vagina", 
+      "External parts sore, with ulcers", 
+      "Menses early, profuse, like muddy water, with pain in back, hips and thighs"
+    ], 
+    "Skin": [
+      "Black pores on face, papules worse on forehead", 
+      "Warts, large jagged; bleed on washing", 
+      "Ulcers bleed easily, sensitive; splinter-like pains; zigzag, irregular edges; base looks like raw flesh", 
+      "Exuberant granulations"
+    ], 
+    "Extremities": [
+      "Sweating of palms, hands; cold, blue nails", 
+      "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes", 
+      "Offensive sweat in axillae at night"
     ]
   }, 
   "details": "Selects for its special seat of action the outlets of the body where the mucous membrane and skin meet; these pain AS FROM SPLINTERS. STICKING PAINS. Marked improvement of all symptoms while riding in a carriage. Acts best on the dark complexioned and past middle life. Syphilis, after abuse of Mercury. Pains appear and disappear quickly. (BELL.) Hydrogenoid constitution. Sycotic remedy.Blisters and ulcers in mouth, tongue, genitals; bleed easily. Fissures, with pain during stool, as if rectum were torn. All discharges very offensive, especially urine, faeces, and perspiration. Persons who have chronic diseases, and take cold easily and disposed to diarrhoea. Excessive physical irritability. Cachexia, due to syphilis, scrofula, intermittent fever with liver involvement and anemia, etc. Gravel; arthritis. Capillary bleeding after curettage.", 

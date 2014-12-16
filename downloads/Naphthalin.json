@@ -3,17 +3,10 @@
   "Relationship": "Compare: DROS.; CORALL.; COCCUS. TERPIN. HYDRAS. (Whooping-cough, hay asthma and bronchial affections. 1-2 grain doses).", 
   "symptoms": {
     "Eyes": [
+      "OPACITY OF THE CORNEA", 
       "It produces detachment of the retina; papillo-retinal infiltration; deposits in patches upon the retina; amblyopia and consecutive amaurosis; sparkling synchysis; soft cataract", 
       "Exudation in the retina, choroid and ciliary body", 
-      "Pain in bladder", 
-      "Meatus red, swollen, and oedema of prepuce", 
-      "Irresistible desire", 
-      "Terribly offensive odor of decomposing ammoniacal urine", 
-      "Cutting pain down penis", 
-      "OPACITY OF THE CORNEA", 
-      "Black urine", 
       "Marked affinity for the eye", 
-      "Urine Section", 
       "Cataract"
     ], 
     "Respiratory": [
@@ -26,6 +19,14 @@
       "WHOOPING-COUGH, long and continued paroxysms of coughing, unable to get a respiration", 
       "Bronchitis when the spasmodic element is associated with tenacious expectoration and oppression", 
       "Soreness in chest and stomach; must loosen clothing"
+    ], 
+    "Urine": [
+      "Black urine", 
+      "Pain in bladder", 
+      "Meatus red, swollen, and oedema of prepuce", 
+      "Irresistible desire", 
+      "Terribly offensive odor of decomposing ammoniacal urine", 
+      "Cutting pain down penis"
     ], 
     "Head": [
       "Face pale yellowish hue", 

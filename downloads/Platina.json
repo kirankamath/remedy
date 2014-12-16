@@ -12,21 +12,11 @@
     "Stomach": [
       "Fermentation, much flatulence; CONSTRICTION; RAVENOUS hunger; persistent nausea, with anxiety and weakness"
     ], 
-    "Female": [
-      "Tingling internally and externally", 
-      "Excessive sexual development; vaginismus", 
-      "Ovaries sensitive and burn", 
-      "Menses too early, too profuse, DARK-CLOTTED, with spasms and painful bearing-down, chilliness, and sensitiveness of parts", 
-      "Vaginismus", 
-      "Nymphomania", 
-      "Pruritus vulvae", 
-      "Parts hypersensitive", 
-      "Ovaritis with sterility", 
-      "Abnormal sexual appetite and melancholia"
-    ], 
-    "Modalities": [
-      "Worse: sitting and standing; evening", 
-      "Better: walking"
+    "Head": [
+      "CRAMP-LIKE, SQUEEZING PAIN", 
+      "Tense, pressing pain, confined to a small spot", 
+      "Constriction about forehead and right temples", 
+      "NUMBNESS, WITH HEADACHE"
     ], 
     "Mind": [
       "Everything seems changed", 
@@ -36,6 +26,10 @@
       "Irresistible impulse to kill", 
       "Physical symptoms disappear as mental symptoms develop", 
       "Mental troubles, associated with suppressed menses"
+    ], 
+    "Modalities": [
+      "Worse: sitting and standing; evening", 
+      "Better: walking"
     ], 
     "Stool": [
       "Stool as if burnt", 
@@ -55,14 +49,20 @@
       "Pains increase and decrease gradually", 
       "Pain at root of nose, as if squeezed in a vise"
     ], 
+    "Female": [
+      "Tingling internally and externally", 
+      "Excessive sexual development; vaginismus", 
+      "Ovaries sensitive and burn", 
+      "Menses too early, too profuse, DARK-CLOTTED, with spasms and painful bearing-down, chilliness, and sensitiveness of parts", 
+      "Vaginismus", 
+      "Nymphomania", 
+      "Pruritus vulvae", 
+      "Parts hypersensitive", 
+      "Ovaritis with sterility", 
+      "Abnormal sexual appetite and melancholia"
+    ], 
     "Sleep": [
       "Sleeps with legs far apart"
-    ], 
-    "Head": [
-      "CRAMP-LIKE, SQUEEZING PAIN", 
-      "Tense, pressing pain, confined to a small spot", 
-      "Constriction about forehead and right temples", 
-      "NUMBNESS, WITH HEADACHE"
     ], 
     "Extremities": [
       "Tightness of thighs, as if too tightly wrapped", 

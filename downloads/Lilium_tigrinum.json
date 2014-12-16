@@ -26,6 +26,40 @@
       "Flatulent; nausea, with sensation of lump in stomach", 
       "Hungry; longs for meat"
     ], 
+    "Urine": [
+      "Urine milky, scanty, HOT", 
+      "Frequent urging"
+    ], 
+    "Head": [
+      "Faint in warm room", 
+      "Hot, dull, heavy", 
+      "Wild feeling in head"
+    ], 
+    "Mind": [
+      "Consolation aggravates", 
+      "Tormented about her salvation", 
+      "Anxious; FEARS SOME ORGANIC AND INCURABLE DISEASE", 
+      "Constant inclination to weep", 
+      "AIMLESS, HURRIED MANNER; must keep busy", 
+      "Disposed to curse, strike, think obscene things", 
+      "PROFOUND DEPRESSION OF SPIRITS"
+    ], 
+    "Modalities": [
+      "Worse: consolation", 
+      "Worse: warm room", 
+      "Better: fresh air"
+    ], 
+    "Stool": [
+      "Early-morning urgent stool", 
+      "Dysentery; mucus and blood, with tenesmus, especially in plethoric and nervous women at change of life", 
+      "Constant desire to defecate; FROM PRESSURE IN RECTUM, worse standing", 
+      "Pressure down the anus"
+    ], 
+    "Abdomen": [
+      "Pressure downwards and backwards against rectum and anus; worse, standing; better, walking in open air", 
+      "Bearing down in lower part of abdomen", 
+      "Abdomen sore, distended; trembling sensation in abdomen"
+    ], 
     "Female": [
       "Sexual instinct awakened", 
       "Constant desire to support parts externally", 
@@ -39,42 +73,9 @@
       "BEARING-DOWN SENSATION WITH URGENT DESIRE FOR STOOL, AS THOUGH ALL ORGANS WOULD ESCAPE", 
       "Acrid, brown leucorrhoea; smarting in labia"
     ], 
-    "Modalities": [
-      "Worse: consolation", 
-      "Worse: warm room", 
-      "Better: fresh air"
-    ], 
-    "Mind": [
-      "Consolation aggravates", 
-      "Tormented about her salvation", 
-      "Anxious; FEARS SOME ORGANIC AND INCURABLE DISEASE", 
-      "Constant inclination to weep", 
-      "AIMLESS, HURRIED MANNER; must keep busy", 
-      "Disposed to curse, strike, think obscene things", 
-      "PROFOUND DEPRESSION OF SPIRITS"
-    ], 
-    "Stool": [
-      "Early-morning urgent stool", 
-      "Dysentery; mucus and blood, with tenesmus, especially in plethoric and nervous women at change of life", 
-      "Constant desire to defecate; FROM PRESSURE IN RECTUM, worse standing", 
-      "Pressure down the anus"
-    ], 
-    "Abdomen": [
-      "Pressure downwards and backwards against rectum and anus; worse, standing; better, walking in open air", 
-      "Bearing down in lower part of abdomen", 
-      "Frequent urging", 
-      "Urinary Organs", 
-      "Urine milky, scanty, HOT", 
-      "Abdomen sore, distended; trembling sensation in abdomen"
-    ], 
     "Sleep": [
       "Unable to sleep, with wild feeling in head", 
       "Unrefreshing, with disagreeable dreams"
-    ], 
-    "Head": [
-      "Faint in warm room", 
-      "Hot, dull, heavy", 
-      "Wild feeling in head"
     ], 
     "Extremities": [
       "Legs ache; cannot keep them still", 

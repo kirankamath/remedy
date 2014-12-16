@@ -2,9 +2,42 @@
   "name": "Phytolacca", 
   "Relationship": "Inimical: MERCUR.Compare: Tincture of PHYTOLACCA BERRY (sore throats and in the treatment of obesity); BRY.; RHUS; KALI-HYD.; MERC.; SANG.; ARUM TRIPH.Antidotes: Milk and salt; BELLAD.; MEZER.", 
   "symptoms": {
-    "Heart": [
-      "Feeling as if heart leaped into throat", 
-      "Shock of pain in cardiac region alternating with pain in right arm"
+    "Urine": [
+      "Nephritis", 
+      "Scanty, suppressed, WITH PAIN IN KIDNEY REGION"
+    ], 
+    "Head": [
+      "Scaly eruption on scalp", 
+      "Pressure in temples and over eyes", 
+      "Brain feels sore", 
+      "Pain from frontal region backward", 
+      "Vertigo on rising", 
+      "Rheumatism of scalp; pains come on every time it rains"
+    ], 
+    "Fever": [
+      "High fever, alternating with chilliness and great prostration"
+    ], 
+    "Abdomen": [
+      "Bruised feeling through epigastrium and abdomen", 
+      "Bleeding from rectum", 
+      "Sore spot in right hypochondrium", 
+      "Constipation of the aged and those with weak heart", 
+      "Burning griping pains", 
+      "Rheumatism of abdominal muscles", 
+      "Colic at navel"
+    ], 
+    "Mouth": [
+      "Teeth clenched; low lip drawn down; lips everted; jaws firmly set; chin drawn down on sternum", 
+      "Teething children with irresistible desire to BITE THE TEETH TOGETHER", 
+      "Mapped, indented, fissured, with yellow patch down center", 
+      "Much stringy saliva", 
+      "Tongue RED TIP, feels rough and scalded; bleeding from mouth; blisters on side"
+    ], 
+    "Respiratory": [
+      "Rheumatism of lower intercostals", 
+      "Aphonia", 
+      "Difficult breathing; dry hacking, tickling cough; worse at night", 
+      "Aching pains in chest, through mid-sternum; with cough"
     ], 
     "Eyes": [
       "ABUNDANT LACHRYMATION, HOT", 
@@ -13,21 +46,16 @@
       "Fistula lachrymalis", 
       "Tarsal edges feel hot"
     ], 
-    "Fever": [
-      "High fever, alternating with chilliness and great prostration"
+    "Nose": [
+      "Coryza; flow of mucus from ONE NOSTRIL AND FROM POSTERIOR NARES"
     ], 
-    "Female": [
-      "Breast is hard, painful and of purple hue", 
-      "Mammary abscess", 
-      "Tumors of the breasts with enlarged axillary glands", 
-      "When child nurses, PAIN GOES FROM NIPPLE ALL OVER BODY", 
-      "Cancer of breast", 
-      "Galactorrhoea", 
-      "Cracks and small ulcers about nipples", 
-      "Menses too copious and frequent", 
-      "Ovarian neuralgia of right side", 
-      "Irritable breasts, before and during menses", 
-      "Mastitis; MAMMAE HARD AND VERY SENSITIVE"
+    "Male": [
+      "Painful induration of testicles", 
+      "SHOOTING ALONG PERINEUM TO PENIS"
+    ], 
+    "Heart": [
+      "Feeling as if heart leaped into throat", 
+      "Shock of pain in cardiac region alternating with pain in right arm"
     ], 
     "Modalities": [
       "Worse: sensitive to electric changes", 
@@ -44,41 +72,18 @@
       "Back stiff, especially in morning on rising and during damp weather", 
       "Weakness and dull pain in region of kidneys"
     ], 
-    "Abdomen": [
-      "Bruised feeling through epigastrium and abdomen", 
-      "Bleeding from rectum", 
-      "Sore spot in right hypochondrium", 
-      "Scanty, suppressed, WITH PAIN IN KIDNEY REGION", 
-      "Constipation of the aged and those with weak heart", 
-      "Burning griping pains", 
-      "Rheumatism of abdominal muscles", 
-      "Nephritis", 
-      "Urine Section", 
-      "Colic at navel"
-    ], 
-    "Respiratory": [
-      "Rheumatism of lower intercostals", 
-      "Aphonia", 
-      "Difficult breathing; dry hacking, tickling cough; worse at night", 
-      "Aching pains in chest, through mid-sternum; with cough"
-    ], 
-    "Mouth": [
-      "Teeth clenched; low lip drawn down; lips everted; jaws firmly set; chin drawn down on sternum", 
-      "Teething children with irresistible desire to BITE THE TEETH TOGETHER", 
-      "Mapped, indented, fissured, with yellow patch down center", 
-      "Much stringy saliva", 
-      "Tongue RED TIP, feels rough and scalded; bleeding from mouth; blisters on side"
-    ], 
-    "Nose": [
-      "Coryza; flow of mucus from ONE NOSTRIL AND FROM POSTERIOR NARES"
-    ], 
-    "Head": [
-      "Scaly eruption on scalp", 
-      "Pressure in temples and over eyes", 
-      "Brain feels sore", 
-      "Pain from frontal region backward", 
-      "Vertigo on rising", 
-      "Rheumatism of scalp; pains come on every time it rains"
+    "Female": [
+      "Breast is hard, painful and of purple hue", 
+      "Mammary abscess", 
+      "Tumors of the breasts with enlarged axillary glands", 
+      "When child nurses, PAIN GOES FROM NIPPLE ALL OVER BODY", 
+      "Cancer of breast", 
+      "Galactorrhoea", 
+      "Cracks and small ulcers about nipples", 
+      "Menses too copious and frequent", 
+      "Ovarian neuralgia of right side", 
+      "Irritable breasts, before and during menses", 
+      "Mastitis; MAMMAE HARD AND VERY SENSITIVE"
     ], 
     "Skin": [
       "Scarlatina-like rash", 
@@ -119,10 +124,6 @@
       "ACHING OF HEELS; relieved by elevating feet", 
       "Neuralgia in toes", 
       "Shooting pain in right shoulder, with stiffness and inability to raise arm"
-    ], 
-    "Male": [
-      "Painful induration of testicles", 
-      "SHOOTING ALONG PERINEUM TO PENIS"
     ]
   }, 
   "details": "Aching, soreness, restlessness, prostration, are general symptoms guiding to Phytolacca. Pre-eminently a glandular remedy. Glandular swellings with heat and inflammation. Has a powerful effect on fibrous and osseous tissues; fasciae and muscle sheaths; acts on scar tissue. Syphilitic bone pains; chronic rheumatism. Sore throat, quinsy, and diphtheria. Tetanus and opisthotonos. Decrease of weight. Retarded dentition.", 

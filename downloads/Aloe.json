@@ -2,32 +2,10 @@
   "name": "Aloe", 
   "Relationship": "Complementary: Sulphur; compare: Kali-bich.; Lycop.; Allium sat.", 
   "symptoms": {
-    "Rectum": [
-      "Hemorrhoids protrude like grapes; very sore and tender; better cold water application", 
-      "Jelly-like stools, with soreness in rectum after stool", 
-      "SENSE OF INSECURITY IN RECTUM, when passing flatus", 
-      "Diarrhoea from beer", 
-      "Scanty and high colored", 
-      "Constipation, with heavy pressure in lower part of abdomen", 
-      "Uncertain whether gas or stool will come", 
-      "Lumpy, watery stool", 
-      "Incontinence in aged, bearing-down sensation and enlarged prostate", 
-      "A LOT OF MUCUS, WITH PAIN IN RECTUM AFTER STOOL", 
-      "Feeling of weakness and loss of power of sphincter ani", 
-      "BURNING IN ANUS and rectum", 
-      "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water", 
-      "Stool passes without effort, almost unnoticed", 
-      "Urinary Organs"
-    ], 
-    "Eyes": [
-      "PAIN DEEP IN ORBITS", 
-      "Compelled to make small during pain in forehead", 
-      "Redness of eyes with YELLOW vision", 
-      "Flickering before eyes"
-    ], 
-    "Respiratory": [
-      "Difficult respiration, with stitches from liver to chest", 
-      "Winter coughs, with itching"
+    "Head": [
+      "Headache alternates with lumbago, with intestinal and uterine affections", 
+      "Disinclination to mental labor", 
+      "ACHES ABOVE FOREHEAD, WITH HEAVINESS IN EYES, MUST PARTIALLY CLOSE THEM"
     ], 
     "Stomach": [
       "Pain in pit when making false step", 
@@ -35,40 +13,6 @@
       "Aversion to meat", 
       "After eating, flatulence, PULSATION IN RECTUM, and sexual irritation", 
       "Nausea, with headache"
-    ], 
-    "Modalities": [
-      "Better: from cold", 
-      "Better: open air", 
-      "Worse: early morning; summer; heat; in hot", 
-      "Worse: dry weather; after eating or drinking"
-    ], 
-    "Back": [
-      "LUMBAGO ALTERNATING WITH HEADACHE AND PILES", 
-      "Stitches through sacrum", 
-      "Pain in small of back; worse moving"
-    ], 
-    "Face": [
-      "Marked redness of lips"
-    ], 
-    "Mouth": [
-      "Taste bitter and sour", 
-      "Lips cracked and dry", 
-      "Tasteless eructations"
-    ], 
-    "Nose": [
-      "Bleeding in morning on awakening", 
-      "Full of crusts", 
-      "Coldness of tip"
-    ], 
-    "Head": [
-      "Headache alternates with lumbago, with intestinal and uterine affections", 
-      "Disinclination to mental labor", 
-      "ACHES ABOVE FOREHEAD, WITH HEAVINESS IN EYES, MUST PARTIALLY CLOSE THEM"
-    ], 
-    "Throat": [
-      "Varicose condition of veins in pharynx", 
-      "Dry, scrappy feeling", 
-      "Thick lumps of tough mucus"
     ], 
     "Abdomen": [
       "Burning, copious flatus", 
@@ -81,10 +25,67 @@
       "Pulsating pain around navel", 
       "Great accumulation of flatus, pressing downwards, causing distress in lower bowels"
     ], 
-    "Extremities": [
-      "Lameness in all limbs", 
-      "Soles pain when walking", 
-      "DRAWING PAINS IN JOINTS"
+    "Mouth": [
+      "Taste bitter and sour", 
+      "Lips cracked and dry", 
+      "Tasteless eructations"
+    ], 
+    "Rectum": [
+      "Hemorrhoids protrude like grapes; very sore and tender; better cold water application", 
+      "Jelly-like stools, with soreness in rectum after stool", 
+      "Uncertain whether gas or stool will come", 
+      "Diarrhoea from beer", 
+      "Stool passes without effort, almost unnoticed", 
+      "Constipation, with heavy pressure in lower part of abdomen", 
+      "Lumpy, watery stool", 
+      "SENSE OF INSECURITY IN RECTUM, when passing flatus", 
+      "Feeling of weakness and loss of power of sphincter ani", 
+      "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water", 
+      "A LOT OF MUCUS, WITH PAIN IN RECTUM AFTER STOOL", 
+      "BURNING IN ANUS and rectum"
+    ], 
+    "Respiratory": [
+      "Difficult respiration, with stitches from liver to chest", 
+      "Winter coughs, with itching"
+    ], 
+    "Eyes": [
+      "PAIN DEEP IN ORBITS", 
+      "Compelled to make small during pain in forehead", 
+      "Redness of eyes with YELLOW vision", 
+      "Flickering before eyes"
+    ], 
+    "Face": [
+      "Marked redness of lips"
+    ], 
+    "Throat": [
+      "Varicose condition of veins in pharynx", 
+      "Dry, scrappy feeling", 
+      "Thick lumps of tough mucus"
+    ], 
+    "Nose": [
+      "Bleeding in morning on awakening", 
+      "Full of crusts", 
+      "Coldness of tip"
+    ], 
+    "Ears": [
+      "Cracking when chewing", 
+      "Sudden explosion and clashing in left ear", 
+      "Tinkling as of some thin, shivered, metallic globe in head"
+    ], 
+    "Modalities": [
+      "Worse: early morning; summer; heat; in hot", 
+      "Worse: dry weather; after eating or drinking", 
+      "Better: from cold", 
+      "Better: open air"
+    ], 
+    "Urine": [
+      "Incontinence in aged, bearing-down sensation and enlarged prostate", 
+      "Scanty and high colored"
+    ], 
+    "Back": [
+      "LUMBAGO ALTERNATING WITH HEADACHE AND PILES", 
+      "Stitches through sacrum", 
+      "Pain in small of back; worse moving"
     ], 
     "Female": [
       "Bearing down in rectum, worse standing and during menses", 
@@ -93,10 +94,10 @@
       "Climacteric hemorrhage", 
       "Menses too early and too profuse"
     ], 
-    "Ears": [
-      "Cracking when chewing", 
-      "Sudden explosion and clashing in left ear", 
-      "Tinkling as of some thin, shivered, metallic globe in head"
+    "Extremities": [
+      "Lameness in all limbs", 
+      "Soles pain when walking", 
+      "DRAWING PAINS IN JOINTS"
     ]
   }, 
   "details": "An excellent remedy to aid in re-establishing physiological equilibrium after much dosing, where disease and drug symptoms are much mixed. There is no remedy richer in symptoms of portal congestion and none that has given better clinical results, both for the primary pathological condition and secondary phenomena. Bad effects from sedentary life or habits. Especially suitable to lymphatic and hypochondriacal patients. The rectal symptoms usually determine the choice. Adapted to weary people, the aged, and phlegmatic, old beer-drinkers. Dissatisfied and angry about himself, alternating with lumbago. Heat internally and externally. Has been used successfully in the treatment of consumption by giving the pure juice.", 

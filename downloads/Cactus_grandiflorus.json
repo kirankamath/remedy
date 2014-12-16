@@ -44,11 +44,11 @@
       "Clots of blood in urethra"
     ], 
     "Modalities": [
-      "Better: open air", 
       "Worse: about noon", 
       "Worse: lying on left side; walking", 
       "Worse: going upstairs", 
-      "Worse: eleven AM and eleven PMAmelioration"
+      "Worse: eleven AM and eleven PM", 
+      "Better: open air"
     ], 
     "Mind": [
       "Melancholy, taciturn, sad, ill-humored", 
@@ -73,10 +73,6 @@
       "Inflammation of diaphragm", 
       "Hemoptysis, with convulsive, spasmodic cough"
     ], 
-    "Sleep": [
-      "Frightful dreams", 
-      "Sleepless on account of pulsation in different parts of body"
-    ], 
     "Nose": [
       "Profuse bleeding from nose", 
       "Fluent coryza"
@@ -92,6 +88,10 @@
       "Suffocative constriction at throat, with full, throbbing carotids in angina pectoris", 
       "Constriction of oesophagus", 
       "Dryness of tongue, as if burnt; needs much liquid to get food down"
+    ], 
+    "Sleep": [
+      "Frightful dreams", 
+      "Sleepless on account of pulsation in different parts of body"
     ], 
     "Extremities": [
       "Icy-cold hands", 

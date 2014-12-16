@@ -22,22 +22,23 @@
       "EXCESSIVELY BLOATED", 
       "Retrocession of gout to stomach"
     ], 
-    "Female": [
-      "Uterine hemorrhage", 
-      "Menses too long, dark, thick", 
-      "Suppression, with persistent fainting attacks and sleepiness", 
-      "Leucorrhoea muddy and bloody", 
-      "VARIABLENESS OF MENSTRUATION, IRREGULARITY OF TIME AND QUANTITY"
+    "Head": [
+      "Pulsating in head", 
+      "Vertigo when walking in open air; aches from eating a little too much", 
+      "Feeling of expansion, WITH SLEEPINESS", 
+      "Cracking sensation in head", 
+      "Sensitive to slightest touch in a draft of air", 
+      "Bursting headache; BETTER HARD PRESSURE"
     ], 
     "Modalities": [
-      "Better: warmth", 
-      "Better: dry weather", 
       "Worse: cold moist wind", 
       "Worse: cold food", 
       "Worse: cold washing", 
       "Worse: lying on painful side", 
       "Worse: motion", 
-      "Worse: jar"
+      "Worse: jar", 
+      "Better: warmth", 
+      "Better: dry weather"
     ], 
     "Mind": [
       "Changeable; laughing and crying", 
@@ -68,13 +69,12 @@
     "Nose": [
       "Oversensitive to smell; nosebleed, dark blood; dry, stopped up"
     ], 
-    "Head": [
-      "Pulsating in head", 
-      "Vertigo when walking in open air; aches from eating a little too much", 
-      "Feeling of expansion, WITH SLEEPINESS", 
-      "Cracking sensation in head", 
-      "Sensitive to slightest touch in a draft of air", 
-      "Bursting headache; BETTER HARD PRESSURE"
+    "Female": [
+      "Uterine hemorrhage", 
+      "Menses too long, dark, thick", 
+      "Suppression, with persistent fainting attacks and sleepiness", 
+      "Leucorrhoea muddy and bloody", 
+      "VARIABLENESS OF MENSTRUATION, IRREGULARITY OF TIME AND QUANTITY"
     ], 
     "Sleep": [
       "Great drowsiness", 

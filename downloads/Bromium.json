@@ -28,14 +28,11 @@
       "LARYNGEAL DIPHTHERIA, membrane begins in larynx and spreads upward"
     ], 
     "Modalities": [
-      "Better: from any motion; exercise", 
-      "Better: at sea", 
       "Worse: from evening", 
       "Worse: until midnight", 
-      "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side"
-    ], 
-    "Sleep": [
-      "Full of dreams and anguish; jerking and starting during sleep, full of fantasy and illusions; difficult to go to sleep at night, cannot sleep enough in morning; trembling and weak on awaking"
+      "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side", 
+      "Better: from any motion; exercise", 
+      "Better: at sea"
     ], 
     "Nose": [
       "Pressure at root of nose", 
@@ -71,6 +68,9 @@
       "Tympanitic distention of abdomen", 
       "Stomach and Abdomen", 
       "Pressure as of stone"
+    ], 
+    "Sleep": [
+      "Full of dreams and anguish; jerking and starting during sleep, full of fantasy and illusions; difficult to go to sleep at night, cannot sleep enough in morning; trembling and weak on awaking"
     ], 
     "Male": [
       "Swelling of testicles", 

@@ -2,23 +2,15 @@
   "name": "Plumbum metallicum", 
   "Relationship": "Antidotes: PLAT.; ALUM.; PETROL.Compare: PLUMB. ACET. (painful cramps in paralyzed limbs; severe pain and muscular cramps in gastric ulcer; locally, as an application (non-homeopathic) in moist eczema, and to dry up secretions from mucous surfaces. Care must be used, as sufficient lead can be absorbed to produce lead poison, one to two drams of the LIQUOR PLUMBI SUBACETATIS to the ounce of water; also in pruritus pudendi, equal parts of the LIQUOR PLUMBI AND GLYCERIN). PLUMB. JODAT. (Has been used empirically in various forms of paralysis, sclerotic degenerations, especially of spinal cord, atrophies, arteriosclerosis, pellagra. INDURATIONS OF MAMMARY GLANDS, ESPECIALLY WHEN A TENDENCY TO BECOME INFLAMED APPEARS; SORE AND PAINFUL. Indurations of great hardness and associated with a very dry skin. Lancinating pains of TABES.) Compare: ALUMINA; PLAT.; OPIUM; PODOPH.; MERC.; THAL. PLECTRANTHUS (paralysis, spastic, spinal form); PLUMB. CHROMICUM (convulsions, with terrible pains; pupils greatly dilated; retracted abdomen); PLUMB. PHOSPH. (loss of sexual power; LOCOMOTOR ATAXIA).", 
   "symptoms": {
-    "Rectum": [
-      "Tenesmus of bladder", 
-      "Albuminous; low specific gravity", 
-      "Obstructed evacuation from impaction of faeces", 
-      "ANUS DRAWN UP WITH CONSTRICTION", 
-      "Frequent, ineffectual tenesmus", 
-      "Neuralgia of rectum", 
-      "CHRONIC INTERSTITIAL NEPHRITIS, with great pain in abdomen", 
-      "Emission drop by drop", 
-      "Constipation; STOOLS HARD, LUMPY, BLACK, WITH URGING AND SPASM OF ANUS", 
-      "Urine scanty", 
-      "Urinary Organs"
-    ], 
-    "Heart": [
-      "Pulse soft and small, dicrotic", 
-      "Cardiac weakness", 
-      "Wiry pulse, cramp-like constriction of peripheral arteries"
+    "Mind": [
+      "Quiet melancholy", 
+      "MENTAL DEPRESSION", 
+      "Slow perception; loss of memory; amnesic aphasia", 
+      "Memory impaired", 
+      "Paretic dementia", 
+      "Hallucinations and delusions", 
+      "Intellectual apathy", 
+      "FEAR OF BEING ASSASSINATED"
     ], 
     "Eyes": [
       "Optic neuritis, central scotoma", 
@@ -35,6 +27,67 @@
       "GASTRALGIA", 
       "Contraction in oesophagus and stomach; pressure and tightness"
     ], 
+    "Abdomen": [
+      "Excessive colic, RADIATING TO ALL PARTS OF BODY", 
+      "Colic alternates with delirium and pain in atrophied limbs", 
+      "Intussusception; strangulated hernia", 
+      "Obstructed flatus, with intense colic", 
+      "ABDOMEN RETRACTED", 
+      "Pain causes desire to stretch", 
+      "ABDOMINAL WALL FEELS DRAWN BY A STRING TO SPINE"
+    ], 
+    "Mouth": [
+      "Gums swollen, pale; DISTINCT BLUE LINES ALONG MARGINS OF GUMS", 
+      "Tongue tremulous, red on margin", 
+      "Cannot put it out, seems paralyzed"
+    ], 
+    "Rectum": [
+      "Neuralgia of rectum", 
+      "ANUS DRAWN UP WITH CONSTRICTION", 
+      "Obstructed evacuation from impaction of faeces", 
+      "Constipation; STOOLS HARD, LUMPY, BLACK, WITH URGING AND SPASM OF ANUS"
+    ], 
+    "Head": [
+      "Delirium alternating with colic", 
+      "TINNITUS", 
+      "Hair very dry", 
+      "Pain as if a ball rose from throat to brain"
+    ], 
+    "Face": [
+      "Tremor of nasolabial muscles", 
+      "Skin of face greasy, shiny", 
+      "PALE AND CACHETIC", 
+      "Yellow, corpse-like; cheeks sunken"
+    ], 
+    "Male": [
+      "LOSS OF SEXUAL POWER", 
+      "Testicles drawn up, feel constricted"
+    ], 
+    "Heart": [
+      "Pulse soft and small, dicrotic", 
+      "Cardiac weakness", 
+      "Wiry pulse, cramp-like constriction of peripheral arteries"
+    ], 
+    "Modalities": [
+      "Worse: at night", 
+      "Worse: motion", 
+      "Better: rubbing", 
+      "Better: hard pressure", 
+      "Better: physical exertion"
+    ], 
+    "Urine": [
+      "CHRONIC INTERSTITIAL NEPHRITIS, with great pain in abdomen", 
+      "Emission drop by drop", 
+      "Tenesmus of bladder", 
+      "Albuminous; low specific gravity", 
+      "Urine scanty", 
+      "Frequent, ineffectual tenesmus"
+    ], 
+    "Back": [
+      "Lightning-like pains; temporarily better by pressure", 
+      "Spinal cord sclerosed", 
+      "Paralysis of lower extremities"
+    ], 
     "Female": [
       "VAGINISMUS, with emaciation and constipation", 
       "Menorrhagia with sensation of string pulling from abdomen to back", 
@@ -44,59 +97,11 @@
       "INDURATION OF MAMMARY GLANDS", 
       "Stitches and burning pains in breasts"
     ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: motion", 
-      "Better: rubbing", 
-      "Better: hard pressure", 
-      "Better: physical exertion"
-    ], 
-    "Mind": [
-      "Quiet melancholy", 
-      "MENTAL DEPRESSION", 
-      "Slow perception; loss of memory; amnesic aphasia", 
-      "Memory impaired", 
-      "Paretic dementia", 
-      "Hallucinations and delusions", 
-      "Intellectual apathy", 
-      "FEAR OF BEING ASSASSINATED"
-    ], 
-    "Back": [
-      "Lightning-like pains; temporarily better by pressure", 
-      "Spinal cord sclerosed", 
-      "Paralysis of lower extremities"
-    ], 
-    "Face": [
-      "Tremor of nasolabial muscles", 
-      "Skin of face greasy, shiny", 
-      "PALE AND CACHETIC", 
-      "Yellow, corpse-like; cheeks sunken"
-    ], 
-    "Mouth": [
-      "Gums swollen, pale; DISTINCT BLUE LINES ALONG MARGINS OF GUMS", 
-      "Tongue tremulous, red on margin", 
-      "Cannot put it out, seems paralyzed"
-    ], 
-    "Head": [
-      "Delirium alternating with colic", 
-      "TINNITUS", 
-      "Hair very dry", 
-      "Pain as if a ball rose from throat to brain"
-    ], 
     "Skin": [
       "Dry", 
       "Dilated veins of forearms and legs", 
       "Jaundice", 
       "Yellow, dark-brown liver spots"
-    ], 
-    "Abdomen": [
-      "Excessive colic, RADIATING TO ALL PARTS OF BODY", 
-      "Colic alternates with delirium and pain in atrophied limbs", 
-      "Intussusception; strangulated hernia", 
-      "Obstructed flatus, with intense colic", 
-      "ABDOMEN RETRACTED", 
-      "Pain causes desire to stretch", 
-      "ABDOMINAL WALL FEELS DRAWN BY A STRING TO SPINE"
     ], 
     "Extremities": [
       "Cramps in calves", 
@@ -113,10 +118,6 @@
       "Hands and feet cold", 
       "Loss of patellar reflex", 
       "WRIST-DROP"
-    ], 
-    "Male": [
-      "LOSS OF SEXUAL POWER", 
-      "Testicles drawn up, feel constricted"
     ]
   }, 
   "details": "Delirium, coma and convulsions. Hypertension and arteriosclerosis. PROGRESSIVE MUSCULAR ATROPHY. Infantile paralysis. Locomotor ataxia. Excessive and rapid emaciation. Bulbar paralysis. Important in peripheral affections. The points of attack for Plumbum are the neuraxons and the anterior horns. Symptoms of multiple sclerosis, posterior spinal sclerosis. Contractions and boring pain. All the symptoms of acute Nephritis with amaurosis and cerebral symptoms. GOUT. (Chronic).The great drug for general sclerotic conditions. Lead paralysis is chiefly of extensors, forearm or upper limb, from center to periphery with partial anesthesia or excessive hyperesthesia, preceded by pain. Localized neuralgic pains, neuritis. The blood, alimentary and nervous systems are the special seats of action of Plumbum. Haematosis is interfered with, rapid reduction in number of red corpuscles; hence pallor, icterus, anaemia. Constrictive sensation in internal organs.", 

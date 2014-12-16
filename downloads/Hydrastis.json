@@ -29,18 +29,15 @@
       "Cannot eat bread or vegetables", 
       "BITTER TASTE"
     ], 
+    "Urine": [
+      "GLEETY DISCHARGE", 
+      "Urine smells decomposed"
+    ], 
     "Mind": [
       "Depressed; sure of death, and desires it"
     ], 
     "Back": [
       "Dull, heavy, dragging pain and stiffness, particularly ACROSS LUMBAR REGION, MUST USE ARMS IN RAISING HIMSELF FROM SEAT"
-    ], 
-    "Abdomen": [
-      "Liver torpid, tender", 
-      "Gallstones", 
-      "Jaundice", 
-      "Dull dragging in right groin with cutting sensation into right testicle", 
-      "Gastroduodenal catarrh"
     ], 
     "Mouth": [
       "Peppery taste", 
@@ -73,16 +70,20 @@
       "Hawking of yellow, tenacious mucus", 
       "Child is aroused suddenly from sleep by this tenacious post-nasal dropping"
     ], 
+    "Abdomen": [
+      "Liver torpid, tender", 
+      "Gallstones", 
+      "Jaundice", 
+      "Dull dragging in right groin with cutting sensation into right testicle", 
+      "Gastroduodenal catarrh"
+    ], 
     "Rectum": [
       "After stool, long-lasting pain", 
-      "Urine smells decomposed", 
       "Contraction and spasm", 
       "During stool, smarting pain in rectum", 
       "Hemorrhoids; even a light flow exhausts", 
-      "GLEETY DISCHARGE", 
       "Prolapsed; anus fissured", 
-      "CONSTIPATION, with sinking feeling in stomach, and dull headache", 
-      "Urine Section"
+      "CONSTIPATION, with sinking feeling in stomach, and dull headache"
     ], 
     "Male": [
       "Gonorrhea, second stage; discharge thick and yellow"

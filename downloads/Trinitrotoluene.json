@@ -14,13 +14,14 @@
     ], 
     "Stomach": [
       "Palpitation, tachycardia, bradycardia, intermittent pulse", 
-      "High colored urine, burning on urination, sudden desire, incontinence and retention", 
       "Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhoea with cramps", 
-      "Urinary Organs", 
       "Heart and Circulation"
     ], 
     "Modalities": [
       "Worse: alcohol"
+    ], 
+    "Urine": [
+      "High colored urine, burning on urination, sudden desire, incontinence and retention"
     ], 
     "Skin": [
       "Dermatitis, nodular erythema, vesicles, itching and burning; puffiness", 

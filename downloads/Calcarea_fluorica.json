@@ -73,10 +73,6 @@
       "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
       "Hypertrophy of Luschka's tonsil"
     ], 
-    "Sleep": [
-      "Unrefreshing sleep", 
-      "Vivid dreams, with sense of impending danger"
-    ], 
     "Extremities": [
       "Gouty enlargements of the joints of the fingers", 
       "Ganglia or encysted tumors at the back of the wrist", 
@@ -103,6 +99,10 @@
       "Calc", 
       "Pain lower part of back, with burning", 
       "When the tuberculous toxins attack the heart and blood-vessels"
+    ], 
+    "Sleep": [
+      "Unrefreshing sleep", 
+      "Vivid dreams, with sense of impending danger"
     ], 
     "Ears": [
       "CHRONIC SUPPURATION OF MIDDLE EAR", 

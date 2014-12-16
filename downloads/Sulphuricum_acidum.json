@@ -2,6 +2,11 @@
   "name": "Sulphuricum acidum", 
   "Relationship": "Complementary: PULS.Compare: ARS.; CALEN.; LED.; SEP.; CALC.", 
   "symptoms": {
+    "Rectum": [
+      "Rectum feels as if it had a big ball", 
+      "Diarrhoea, fetid, black, with sour odor of body, and empty faint feeling in abdomen", 
+      "Piles; oozing dampness"
+    ], 
     "Eyes": [
       "Great chemosis of conjunctiva, with aching and sharp pain", 
       "Intraocular hemorrhage following traumatism"
@@ -22,15 +27,19 @@
       "WATER CAUSES COLDNESS OF STOMACH; must be mixed with liquors", 
       "Averse to smell of coffee"
     ], 
-    "Female": [
-      "Erosion of cervix in the aged; easily bleeding", 
-      "Acrid, burning leucorrhoea, often of bloody mucus", 
-      "Menstruation early and profuse"
+    "Head": [
+      "Compressive pain in side of occiput", 
+      "Concussion of brain where skin is cold, body bathed in cold sweat", 
+      "THRUST IN RIGHT TEMPLE AS IF PLUG WERE PRESSED IN", 
+      "Sensation as if brain was loose in forehead and falling from side to side", 
+      "RELIEVED BY HOLDING THE HANDS NEAR THE HEAD", 
+      "Right-sided neuralgia; painful shocks; skin feels pinched", 
+      "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch"
     ], 
     "Modalities": [
+      "Worse: from excess of heat or cold in forenoon and evening", 
       "Better: from warmth", 
-      "Better: and lying on affected side", 
-      "Worse: from excess of heat or cold in forenoon and evening"
+      "Better: and lying on affected side"
     ], 
     "Mind": [
       "Fretful, impatient", 
@@ -40,19 +49,10 @@
       "Weak feeling, with dragging into the hips and small of back", 
       "FEELING AS IF HERNIA WOULD PROTRUDE, especially left side"
     ], 
-    "Mouth": [
-      "Pyorrhoea", 
-      "Aphthae; gums bleed readily", 
-      "Offensive breath"
-    ], 
-    "Head": [
-      "Compressive pain in side of occiput", 
-      "Concussion of brain where skin is cold, body bathed in cold sweat", 
-      "THRUST IN RIGHT TEMPLE AS IF PLUG WERE PRESSED IN", 
-      "Sensation as if brain was loose in forehead and falling from side to side", 
-      "RELIEVED BY HOLDING THE HANDS NEAR THE HEAD", 
-      "Right-sided neuralgia; painful shocks; skin feels pinched", 
-      "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch"
+    "Female": [
+      "Erosion of cervix in the aged; easily bleeding", 
+      "Acrid, burning leucorrhoea, often of bloody mucus", 
+      "Menstruation early and profuse"
     ], 
     "Skin": [
       "Hemorrhage of black blood from all outlets", 
@@ -65,10 +65,10 @@
       "Cicatrices turn red and blue and become painful", 
       "Petechiae"
     ], 
-    "Rectum": [
-      "Rectum feels as if it had a big ball", 
-      "Diarrhoea, fetid, black, with sour odor of body, and empty faint feeling in abdomen", 
-      "Piles; oozing dampness"
+    "Mouth": [
+      "Pyorrhoea", 
+      "Aphthae; gums bleed readily", 
+      "Offensive breath"
     ], 
     "Extremities": [
       "Cramp-like paralytic contraction in arms, hands; jerking of fingers while writing"

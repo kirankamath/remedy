@@ -2,6 +2,11 @@
   "name": "Sepia", 
   "Relationship": "Complementary: NAT-MUR.; PHOS. NUX intensifies action. GUAIACUM often beneficial after SEPIA.Compare: LIL; MUREX; SILICA; SULPH.; ASPERATA-Nacent oxygen. Distilled water charged with the gas - (leucorrhoea of young girls and uterine catarrh); OZONUM (SACRAL pain; tired feeling through pelvic viscera and perineum); DICTAMNUS Burning Bush - (Soothes labor pains); (metrorrhagia, leucorrhoea, and constipation; also somnambulism). LAPATHUM. (Leucorrhoea with constriction and expulsive effort through womb and pain in kidneys).Inimical: LACH.; PULS.", 
   "symptoms": {
+    "Urine": [
+      "Red, ADHESIVE, sand in urine", 
+      "Chronic cystitis, slow micturition, with bearing-down sensation above pubis", 
+      "Involuntary urination, DURING FIRST SLEEP"
+    ], 
     "Head": [
       "Roots of hair sensitive", 
       "Coldness of vertex", 
@@ -49,18 +54,14 @@
       "Tongue white"
     ], 
     "Rectum": [
-      "Chronic cystitis, slow micturition, with bearing-down sensation above pubis", 
       "Infantile diarrhoea, WORSE FROM BOILED MILK, and rapid exhaustion", 
       "PAINS SHOOT UP in rectum and vagina", 
       "Constipation; large, hard stools; FEELING OF A BALL IN RECTUM; cannot strain; with great tenesmus and pains shooting UPWARD", 
-      "Red, ADHESIVE, sand in urine", 
-      "Involuntary urination, DURING FIRST SLEEP", 
       "Bleeding at stool and fullness of rectum", 
       "Prolapsus ani", 
       "ALMOST CONSTANT OOZING FROM ANUS", 
       "Dark-brown, round balls glued together with mucus", 
-      "Soft stool, difficult", 
-      "Urinary Organs"
+      "Soft stool, difficult"
     ], 
     "Respiratory": [
       "Whooping-cough that drags on", 

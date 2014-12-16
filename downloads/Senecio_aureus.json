@@ -19,6 +19,13 @@
     "Stomach": [
       "Sour eructations; nausea"
     ], 
+    "Urine": [
+      "Nephritis", 
+      "GREAT HEAT AND CONSTANT URGING", 
+      "Irritable bladder of children, with headache", 
+      "Scanty, high-colored, BLOODY, with much mucus and TENESMUS", 
+      "Renal colic"
+    ], 
     "Mind": [
       "Inability to fix mind upon any one subject", 
       "Nervous and irritable", 
@@ -26,14 +33,8 @@
     ], 
     "Abdomen": [
       "Pain around umbilicus; spreads all over abdomen; better, stool", 
-      "Irritable bladder of children, with headache", 
-      "Scanty, high-colored, BLOODY, with much mucus and TENESMUS", 
-      "GREAT HEAT AND CONSTANT URGING", 
-      "Renal colic", 
-      "Thin, watery stool, intermingled with hard lumps of feces", 
-      "Nephritis", 
       "STRAINING AT STOOL; THIN, DARK, BLOODY, WITH TENESMUS", 
-      "Urinary Organs"
+      "Thin, watery stool, intermingled with hard lumps of feces"
     ], 
     "Face": [
       "SHARP, CUTTING PAIN left side", 

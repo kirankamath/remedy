@@ -5,16 +5,6 @@
     "Eyes": [
       "Muscular asthenopia; darting pains through eyes from head, worse before a storm"
     ], 
-    "Modalities": [
-      "Better: after the storm breaks", 
-      "Better: warmth", 
-      "Better: and eating", 
-      "Worse: before a storm"
-    ], 
-    "Mind": [
-      "Forgetful", 
-      "Dread of a storm; particularly afraid of thunder"
-    ], 
     "Head": [
       "Heat in eyes when using them", 
       "Headache; worse, wine, wind, cold and wet weather", 
@@ -23,17 +13,27 @@
       "Pain in eyes before a storm", 
       "CILIARY NEURALGIA, involving eyeball, orbit, and head"
     ], 
-    "Face": [
-      "Swollen gums", 
-      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
-      "Stumps of teeth are loosened", 
-      "Toothache in damp weather and before a storm"
+    "Modalities": [
+      "Worse: before a storm", 
+      "Better: after the storm breaks", 
+      "Better: warmth", 
+      "Better: and eating"
+    ], 
+    "Mind": [
+      "Forgetful", 
+      "Dread of a storm; particularly afraid of thunder"
     ], 
     "Chest": [
       "Crampy pain under short ribs", 
       "Violent pleuritic pains running downward in left anterior chest", 
       "Breathless and speechless from violent pleuritic pains running down the anterior chest", 
       "Stitches in spleen from fast walking"
+    ], 
+    "Face": [
+      "Swollen gums", 
+      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
+      "Stumps of teeth are loosened", 
+      "Toothache in damp weather and before a storm"
     ], 
     "Extremities": [
       "CANNOT SLEEP UNLESS LEGS ARE CROSSED", 

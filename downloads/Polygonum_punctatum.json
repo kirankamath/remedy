@@ -2,6 +2,9 @@
   "name": "Polygonum punctatum", 
   "Relationship": "Compare: CARDUUS MAR. (ulcers); HAMAM.; SENECIO; POLYGONUM PERSICARIA (renal colic and calculi; GANGRENE); POLYGONUM SAGITTATUM - arrow-leaved. Tear-thumb - (2x for PAINS OF NEPHRITIC COLIC; suppurative nephritis; lancinating pains along spine; itching of hard palate; burning inner side of right foot and ankle. C.M. Boger); POLYGONUM AVICULARE - knot-grass - (in material doses of tincture, found useful in phthisis pulmonalis and intermittent fever, and especially in ARTERIOSCLEROSIS. Erythema).", 
   "symptoms": {
+    "Urine": [
+      "Painful constriction at neck of bladder"
+    ], 
     "Abdomen": [
       "FLATULENT COLIC", 
       "Griping pain, with great rumbling, nausea, and liquid faeces"
@@ -17,10 +20,8 @@
       "SUPERFICIAL ULCERS AND SORES ON LOWER EXTREMITIES, especially in females at climacteric"
     ], 
     "Rectum": [
-      "Painful constriction at neck of bladder", 
       "HEMORRHOIDS", 
       "Liquid faeces", 
-      "Urinary Organs", 
       "Interior of anus studded with itching eminence"
     ]
   }, 

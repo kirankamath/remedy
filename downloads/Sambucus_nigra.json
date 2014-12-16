@@ -24,6 +24,11 @@
       "Better: sitting up in bed", 
       "Better: motion"
     ], 
+    "Urine": [
+      "Acute nephritis; dropsical symptoms, with vomiting", 
+      "Profuse urine with dry heat of skin", 
+      "Frequent micturition, with scanty urine"
+    ], 
     "Mind": [
       "Very easily frightened", 
       "Sees images when shutting eyes", 
@@ -31,16 +36,7 @@
       "Fright followed by suffocative attacks"
     ], 
     "Abdomen": [
-      "Acute nephritis; dropsical symptoms, with vomiting", 
-      "Frequent micturition, with scanty urine", 
-      "Urine Section", 
-      "Colic, with nausea and flatulence; frequent watery, slimy stools", 
-      "Profuse urine with dry heat of skin"
-    ], 
-    "Face": [
-      "Heat and perspiration of face", 
-      "Red, burning spots on cheeks", 
-      "Turns blue with cough"
+      "Colic, with nausea and flatulence; frequent watery, slimy stools"
     ], 
     "Fever": [
       "DREADS UNCOVERING", 
@@ -57,6 +53,11 @@
       "Feet icy cold", 
       "Hands turn blue", 
       "Debilitating night-sweats"
+    ], 
+    "Face": [
+      "Heat and perspiration of face", 
+      "Red, burning spots on cheeks", 
+      "Turns blue with cough"
     ]
   }, 
   "name": "Sambucus nigra", 

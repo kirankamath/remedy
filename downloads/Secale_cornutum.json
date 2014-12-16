@@ -2,6 +2,30 @@
   "name": "Secale cornutum", 
   "Relationship": "Compare: ERGOTIN. (Beginning arteriosclerosis progressing rather rapidly. Increased blood pressure: 2x trit. Edema, gangrene and purpura hemorrhagia; when Secale, though indicated, fails); PEDICULARIS CANADENSIS (symptoms of locomotor ataxia; spinal irritation); BRASSICA NAPUS - Rape-seed - (dropsical swellings, scorbutic mouth, voracious appetite, tympanitis, dropping of nails, gangrene); CINNAMON.; COLCH.; ARS.; AURUM MUR. 2x (locomotor ataxia); AGROSTEMA - Corn cockle - active constituent is SAPONIN, which causes violent sneezing and sharp burning taste; burning in stomach, extends to oesophagus, neck and breast; (vertigo, headache, difficult locomotion, burning sensation); USTILAGO; CARBO; PITUTRIN (dilated os, little pain, no progress. Dose, 1/2 c. c., repeat in half hour, if necessary. Hypodermically contraindicated in first stage of labor, valvular lesions or deformed pelvis).Antidotes: CAMPH.; OPIUM.", 
   "symptoms": {
+    "Stool": [
+      "Cholera-like stools, with coldness and cramps", 
+      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
+      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION"
+    ], 
+    "Head": [
+      "Passive, congestive pain , with pale face", 
+      "Head drawn back", 
+      "NOSEBLEED, dark, oozing", 
+      "Falling of hair; dry and gray"
+    ], 
+    "Face": [
+      "SPASMODIC DISTORTION", 
+      "PALE, PINCHED, SUNKEN", 
+      "Livid spots on face", 
+      "Cramps commence in face and spread over whole body"
+    ], 
+    "Chest": [
+      "Boring pain in chest", 
+      "Precordial tenderness", 
+      "Palpitation, with contracted and intermittent pulse", 
+      "Dyspnoea and oppression, with cramp in diaphragm", 
+      "Angina pectoris"
+    ], 
     "Eyes": [
       "Pupils dilated", 
       "Incipient cataract, senile especially in women", 
@@ -18,6 +42,31 @@
       "Eructations of bad odor", 
       "Singultus, nausea; vomiting of blood and coffee-grounds fluid"
     ], 
+    "Modalities": [
+      "Worse: heat", 
+      "Worse: WARM COVERING", 
+      "Better: cold", 
+      "Better: UNCOVERING", 
+      "Better: rubbing", 
+      "Better: stretching out limbs"
+    ], 
+    "Urine": [
+      "Retention, with unsuccessful urging", 
+      "Discharge of black blood from bladder", 
+      "Paralysis of bladder", 
+      "Enuresis in old people"
+    ], 
+    "Back": [
+      "Myelitis", 
+      "LOCOMOTOR ATAXIA", 
+      "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
+      "Formication and numbness"
+    ], 
+    "Mouth": [
+      "Tongue dry, CRACKED; BLOOD LIKE INK EXUDES, coated thick; viscid, yellowish, cold livid", 
+      "TINGLING OF TIP OF TONGUE, WHICH IS STIFF", 
+      "Tongue swollen, paralyzed"
+    ], 
     "Female": [
       "During labor no expulsive action, though everything is relaxed", 
       "Suppression of milk; breasts do not fill properly", 
@@ -30,54 +79,6 @@
       "Threatened abortion about the THIRD month", 
       "Dark, offensive lochia", 
       "Menstrual colic, with coldness and intolerance of heat"
-    ], 
-    "Modalities": [
-      "Better: cold", 
-      "Better: UNCOVERING", 
-      "Better: rubbing", 
-      "Better: stretching out limbs", 
-      "Worse: heat", 
-      "Worse: WARM COVERING"
-    ], 
-    "Stool": [
-      "Retention, with unsuccessful urging", 
-      "Cholera-like stools, with coldness and cramps", 
-      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
-      "Discharge of black blood from bladder", 
-      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION", 
-      "Enuresis in old people", 
-      "Paralysis of bladder", 
-      "Urine Section"
-    ], 
-    "Back": [
-      "Myelitis", 
-      "LOCOMOTOR ATAXIA", 
-      "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
-      "Formication and numbness"
-    ], 
-    "Face": [
-      "SPASMODIC DISTORTION", 
-      "PALE, PINCHED, SUNKEN", 
-      "Livid spots on face", 
-      "Cramps commence in face and spread over whole body"
-    ], 
-    "Chest": [
-      "Boring pain in chest", 
-      "Precordial tenderness", 
-      "Palpitation, with contracted and intermittent pulse", 
-      "Dyspnoea and oppression, with cramp in diaphragm", 
-      "Angina pectoris"
-    ], 
-    "Mouth": [
-      "Tongue dry, CRACKED; BLOOD LIKE INK EXUDES, coated thick; viscid, yellowish, cold livid", 
-      "TINGLING OF TIP OF TONGUE, WHICH IS STIFF", 
-      "Tongue swollen, paralyzed"
-    ], 
-    "Head": [
-      "Passive, congestive pain , with pale face", 
-      "Head drawn back", 
-      "NOSEBLEED, dark, oozing", 
-      "Falling of hair; dry and gray"
     ], 
     "Skin": [
       "FORMICATION UNDER SKIN", 

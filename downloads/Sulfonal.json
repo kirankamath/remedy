@@ -3,21 +3,22 @@
   "Relationship": "TRIONAL; insomnia associated with physical excitement; (vertigo, loss of equilibrium, ataxia, nausea, vomiting, diarrhoea, stertorous breathing, cyanosis, tinnitus, hallucination).", 
   "symptoms": {
     "Head": [
-      "Pink color", 
-      "Scanty", 
-      "Double vision; heavy look about eyes; tinnitus, aphasia; TONGUE AS IF PARALYZED", 
-      "Dropsy, stupid; pain on attempting to raise head", 
-      "Vertigo, unable to rise", 
-      "Haematoporphyrinuria", 
       "EYES BLOODSHOT AND RESTLESS", 
-      "Albuminuria, with casts", 
+      "Double vision; heavy look about eyes; tinnitus, aphasia; TONGUE AS IF PARALYZED", 
       "Double vision; ptosis; tinnitus; dysphagia, difficult speech", 
-      "Urinary Organs", 
-      "Constant desire to urinate; scanty, brownish red"
+      "Dropsy, stupid; pain on attempting to raise head", 
+      "Vertigo, unable to rise"
     ], 
     "Respiratory": [
       "Sighing dyspnoea", 
       "Congestion of lungs; stertorous breathing"
+    ], 
+    "Urine": [
+      "Scanty", 
+      "Pink color", 
+      "Albuminuria, with casts", 
+      "Haematoporphyrinuria", 
+      "Constant desire to urinate; scanty, brownish red"
     ], 
     "Mind": [
       "Extreme irritability", 

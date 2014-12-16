@@ -5,6 +5,10 @@
     "Modalities": [
       "Worse: motion; lying on left side"
     ], 
+    "Urine": [
+      "Constant urging to urinate", 
+      "Green; frothy; contains bile, sugar"
+    ], 
     "Abdomen": [
       "Enormous enlargement of the spleen", 
       "Violent dyspnoea", 
@@ -16,10 +20,7 @@
       "Pain in liver and back"
     ], 
     "Rectum": [
-      "Constant urging to urinate", 
-      "Diarrhoea; bearing down in abdomen and rectum", 
-      "Urine Section", 
-      "Green; frothy; contains bile, sugar"
+      "Diarrhoea; bearing down in abdomen and rectum"
     ]
   }, 
   "details": "This remedy seems to possess a specific relation to the spleen. Ague cake of malaria. A left-sided remedy generally. Anaemic patients where liver and spleen are at fault. Chronic bronchitis with profuse secretion. Marked blood pressure, reducing powers. Active hemostatic, materially reducing the clotting of blood.", 

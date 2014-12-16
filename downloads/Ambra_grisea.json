@@ -27,21 +27,22 @@
       "NERVOUS SPASMODIC COUGH, with hoarseness and eructation, on waking in morning; worse in presence of people"
     ], 
     "Stomach": [
-      "URINE TURBID, EVEN DURING EMISSION, forming a brown sediment", 
-      "FEELING IN URETHRA AS IF A FEW TWO DROPS PASSED OUT", 
       "DISTENSION OF STOMACH AND ABDOMEN after midnight", 
       "Acid eructations, like heartburn", 
-      "Pain in bladder and rectum at the same time", 
-      "Burning in orifice of urethra and anus", 
-      "Burning and itching in urethra while urinating", 
       "Sensation of coldness in abdomen", 
-      "Urinary Organs", 
       "Eructations, with violent, convulsive cough"
     ], 
     "Modalities": [
       "Worse: music; presence of strangers; FROM ANY UNUSUAL THING; morning", 
       "Worse: warm room", 
       "Better: slow motion in open air; lying on painful part; cold drinks"
+    ], 
+    "Urine": [
+      "Pain in bladder and rectum at the same time", 
+      "Burning in orifice of urethra and anus", 
+      "Burning and itching in urethra while urinating", 
+      "FEELING IN URETHRA AS IF A FEW TWO DROPS PASSED OUT", 
+      "URINE TURBID, EVEN DURING EMISSION, forming a brown sediment"
     ], 
     "Mind": [
       "Dwells upon unpleasant things", 
@@ -57,11 +58,6 @@
       "Loss of love of life", 
       "Despair, loathing of life"
     ], 
-    "Sleep": [
-      "Coldness of body and twitching of limbs, during sleep", 
-      "Anxious dreams", 
-      "CANNOT SLEEP FROM WORRY; MUST GET UP"
-    ], 
     "Female": [
       "Worse at night", 
       "Menses too early", 
@@ -73,6 +69,11 @@
       "Numbness of skin", 
       "Itching and soreness, especially around genitals", 
       "Arms go to sleep"
+    ], 
+    "Sleep": [
+      "Coldness of body and twitching of limbs, during sleep", 
+      "Anxious dreams", 
+      "CANNOT SLEEP FROM WORRY; MUST GET UP"
     ], 
     "Extremities": [
       "Cramps in legs", 

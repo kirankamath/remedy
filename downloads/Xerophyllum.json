@@ -2,56 +2,32 @@
   "name": "Xerophyllum", 
   "Relationship": "Compare: RHUS; ANACARD.; GRINDELIA.", 
   "symptoms": {
-    "Rectum": [
-      "Bearing-down pain in rectum", 
-      "Constipation, stools hard, small lumps", 
-      "Much flatus", 
-      "Difficulty of retaining; dribbling when walking", 
-      "Urine Section", 
-      "Frequent urination at night", 
-      "Difficult, soft stools, with much straining"
+    "Mind": [
+      "Dull, cannot concentrate mind for study; forgets names; WRITES LAST LETTERS OF WORDS FIRST; misspells common words"
     ], 
     "Eyes": [
       "Eyes feel sore, burn", 
       "Painful, as of sand, smarting; difficult to focus for close work"
-    ], 
-    "Respiratory": [
-      "Sneezing", 
-      "Trachea sore; lumps feel constricted", 
-      "Posterior nares raw; discharge thick, yellow mucus"
     ], 
     "Stomach": [
       "Eructations sour; offensive, an hour after luncheons and dinner", 
       "Vomiting at two PM", 
       "Feels full and heavy"
     ], 
-    "Female": [
-      "Increased sexual desire, with ovarian and uterine pains and leucorrhoea", 
-      "Bearing-down sensation", 
-      "Vulva inflamed, with furious itching"
+    "Abdomen": [
+      "In morning rumbling in bowels, with desire for stool", 
+      "Intestinal flatulence"
     ], 
-    "Modalities": [
-      "Worse: application of cold water", 
-      "Worse: in afternoon and evening", 
-      "Better: application of hot water", 
-      "Better: in morning", 
-      "Better: moving affected part"
+    "Rectum": [
+      "Constipation, stools hard, small lumps", 
+      "Much flatus", 
+      "Bearing-down pain in rectum", 
+      "Difficult, soft stools, with much straining"
     ], 
-    "Mind": [
-      "Dull, cannot concentrate mind for study; forgets names; WRITES LAST LETTERS OF WORDS FIRST; misspells common words"
-    ], 
-    "Back": [
-      "Backache, extending down legs", 
-      "Pain over kidneys", 
-      "Heat deep in spine", 
-      "Feels hot from sacrum to scapulae"
-    ], 
-    "Face": [
-      "Bloated in morning", 
-      "Puffy under eyes"
-    ], 
-    "Nose": [
-      "Stuffed; tightness at bridge of nose; acute nasal catarrh"
+    "Respiratory": [
+      "Sneezing", 
+      "Trachea sore; lumps feel constricted", 
+      "Posterior nares raw; discharge thick, yellow mucus"
     ], 
     "Head": [
       "Pulsating headache", 
@@ -60,6 +36,38 @@
       "Loss of consciousness", 
       "Great pressure at root of nose"
     ], 
+    "Face": [
+      "Bloated in morning", 
+      "Puffy under eyes"
+    ], 
+    "Throat": [
+      "Stitching pain upon swallowing"
+    ], 
+    "Nose": [
+      "Stuffed; tightness at bridge of nose; acute nasal catarrh"
+    ], 
+    "Modalities": [
+      "Worse: application of cold water", 
+      "Worse: in afternoon and evening", 
+      "Better: application of hot water", 
+      "Better: in morning", 
+      "Better: moving affected part"
+    ], 
+    "Urine": [
+      "Difficulty of retaining; dribbling when walking", 
+      "Frequent urination at night"
+    ], 
+    "Back": [
+      "Backache, extending down legs", 
+      "Pain over kidneys", 
+      "Heat deep in spine", 
+      "Feels hot from sacrum to scapulae"
+    ], 
+    "Female": [
+      "Increased sexual desire, with ovarian and uterine pains and leucorrhoea", 
+      "Bearing-down sensation", 
+      "Vulva inflamed, with furious itching"
+    ], 
     "Skin": [
       "Inguinal glands and behind knees swollen", 
       "Skin rough and cracked; feels like leather", 
@@ -67,13 +75,6 @@
       "Erythema, with vesication and intense itching, stinging, and burning", 
       "Inflammation resembling poison-oak", 
       "Blisters, little lumps"
-    ], 
-    "Throat": [
-      "Stitching pain upon swallowing"
-    ], 
-    "Abdomen": [
-      "In morning rumbling in bowels, with desire for stool", 
-      "Intestinal flatulence"
     ], 
     "Extremities": [
       "Pain in knees", 

@@ -3,12 +3,13 @@
   "Relationship": "Compare: FLUOR-AC.; AUR; MEZ.; STAPH.Antidotes: BRY.; RHUS.", 
   "symptoms": {
     "Head": [
-      "Thick, turbid, yellowish, like rotten eggs", 
-      "Feels as if skull would burst; AS IF HEAD WERE SEPARATED FROM BODY", 
-      "Foul-smelling, ptyalism hot", 
       "TONGUE COATED ON ONE SIDE ONLY", 
       "Heat in head, especially in vertex", 
-      "Urine Section"
+      "Feels as if skull would burst; AS IF HEAD WERE SEPARATED FROM BODY", 
+      "Foul-smelling, ptyalism hot"
+    ], 
+    "Urine": [
+      "Thick, turbid, yellowish, like rotten eggs"
     ], 
     "Sleep": [
       "Starting on falling to sleep with chilliness and clamminess", 

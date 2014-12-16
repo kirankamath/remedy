@@ -7,15 +7,12 @@
       "SORE AND SCROFULOUS; traumatic inflammation of eyes, cataract"
     ], 
     "Respiratory": [
-      "Frequent urination", 
       "Chest painful to touch", 
       "Oedema of lungs", 
-      "Burning and cutting at glans penis before, during, and after urination", 
       "Mucous asthma", 
       "Dry, hacking, laryngeal cough, also post-influenza cough, dry or loose, worse lying down", 
       "Coryza, with hoarseness", 
-      "Throat feels rough and hoarse", 
-      "Urinary Organs"
+      "Throat feels rough and hoarse"
     ], 
     "Stomach": [
       "VIOLENT CRAMP FROM STOMACH THROUGH BOTH SIDES AROUND TO BACK", 
@@ -31,7 +28,10 @@
       "Impaired hearing", 
       "Anxiety, driven to despair by pain"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Burning and cutting at glans penis before, during, and after urination", 
+      "Frequent urination"
+    ], 
     "Back": [
       "Pain in back as from incarcerated flatulence FROM ABDOMEN THROUGH TO BACK AND DOWN INTO SACRUM"
     ]

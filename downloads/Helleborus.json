@@ -14,9 +14,14 @@
       "Chest constricted; gasps for breath", 
       "Hydrothorax"
     ], 
-    "Modalities": [
-      "Worse: from evening until morning", 
-      "Worse: from uncovering"
+    "Head": [
+      "BORES HEAD INTO PILLOW; beats it with hands", 
+      "ROLLS HEAD day and night; moaning, sudden screams", 
+      "Headache culminates in vomiting", 
+      "Forehead wrinkled in folds", 
+      "Cold sweat", 
+      "Dull pain in occiput, with sensation of water swishing inside", 
+      "Stupefying headache"
     ], 
     "Mind": [
       "COMPLETE UNCONSCIOUSNESS", 
@@ -25,17 +30,22 @@
       "PICKS LIPS AND CLOTHES", 
       "Slow in answering"
     ], 
+    "Modalities": [
+      "Worse: from evening until morning", 
+      "Worse: from uncovering"
+    ], 
     "Stool": [
-      "Bladder over distended", 
-      "Suppressed; scanty, dark; coffee-grounds sediment", 
-      "Jelly-like, white mucus; involuntary", 
-      "Child cannot urinate", 
-      "Frequent urging", 
-      "Urine Section"
+      "Jelly-like, white mucus; involuntary"
     ], 
     "Abdomen": [
       "Swollen, painful to touch", 
       "Gurgling, as if bowels were full of water"
+    ], 
+    "Urine": [
+      "Bladder over distended", 
+      "Child cannot urinate", 
+      "Suppressed; scanty, dark; coffee-grounds sediment", 
+      "Frequent urging"
     ], 
     "Face": [
       "Pale, sunken", 
@@ -60,15 +70,6 @@
       "Rubs nose", 
       "Smell diminished", 
       "Dirty, dry nostrils"
-    ], 
-    "Head": [
-      "BORES HEAD INTO PILLOW; beats it with hands", 
-      "ROLLS HEAD day and night; moaning, sudden screams", 
-      "Headache culminates in vomiting", 
-      "Forehead wrinkled in folds", 
-      "Cold sweat", 
-      "Dull pain in occiput, with sensation of water swishing inside", 
-      "Stupefying headache"
     ], 
     "Skin": [
       "Sudden, watery, swelling of skin", 

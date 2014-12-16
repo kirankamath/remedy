@@ -3,12 +3,7 @@
   "Relationship": "Compare: CANTH.; CACT.; SARS.", 
   "symptoms": {
     "Heart": [
-      "URINARY CALCULI, Hematuria, URATES, and uric acid; lancinating pains from kidney to bladder", 
-      "Sensation as if everything were pressed toward the heart", 
-      "Urging to urinate; BRICK-RED SEDIMENT", 
-      "Urinary Organs", 
-      "Dysuria", 
-      "Deep-colored, thick urine"
+      "Sensation as if everything were pressed toward the heart"
     ], 
     "Head": [
       "Headache, worse from lying on back, better with the head high", 
@@ -29,13 +24,19 @@
       "Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated"
     ], 
     "Modalities": [
-      "Better: walking", 
       "Worse: left side", 
       "Worse: after sleep", 
       "Worse: touch", 
       "Worse: pressure of clothing", 
       "Worse: brushing teeth", 
-      "Worse: slightest exertion"
+      "Worse: slightest exertion", 
+      "Better: walking"
+    ], 
+    "Urine": [
+      "URINARY CALCULI, Hematuria, URATES, and uric acid; lancinating pains from kidney to bladder", 
+      "Dysuria", 
+      "Urging to urinate; BRICK-RED SEDIMENT", 
+      "Deep-colored, thick urine"
     ], 
     "Mind": [
       "Early morning or afternoon, sadness"

@@ -2,11 +2,12 @@
   "name": "Chenopodium anthelminticum", 
   "Relationship": "Compare: Opium; China; Chelid.", 
   "symptoms": {
-    "Back": [
-      "INTENSE PAIN BETWEEN ANGLE OF RIGHT SHOULDER-BLADE NEAR SPINE, and through the chest", 
-      "Urine Section", 
+    "Urine": [
       "Copious, yellow, foaming urine, with acrid sensation in urethra", 
       "Yellowish sediment"
+    ], 
+    "Back": [
+      "INTENSE PAIN BETWEEN ANGLE OF RIGHT SHOULDER-BLADE NEAR SPINE, and through the chest"
     ], 
     "Ears": [
       "Comparative deafness to sound of voice, but GREAT SENSITIVENESS TO SOUND, AS OF PASSING VEHICLES and also a shrinking from low tones", 

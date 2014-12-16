@@ -31,8 +31,19 @@
       "Cannot eat strawberries", 
       "Gastralgia, pyrosis, sensation of coldness below epigastrium"
     ], 
+    "Head": [
+      "Sense of heat", 
+      "Headache, before and during stool", 
+      "Confusion and vertigo"
+    ], 
     "Modalities": [
       "Worse: LEFT side; slightest touch; light; shaving"
+    ], 
+    "Urine": [
+      "Burning in urethra and pain in glans when urinating", 
+      "Frequent and copious", 
+      "Must urinate when thinking of it", 
+      "Urine contains oxalates"
     ], 
     "Abdomen": [
       "Diarrhoea from coffee", 
@@ -40,11 +51,6 @@
       "Pain in upper part and region of navel two hours after eating, with much flatulence", 
       "Stitches in liver", 
       "Colic"
-    ], 
-    "Head": [
-      "Sense of heat", 
-      "Headache, before and during stool", 
-      "Confusion and vertigo"
     ], 
     "Skin": [
       "Perspires easily", 
@@ -66,12 +72,7 @@
     "Male": [
       "TERRIBLE NEURALGIC PAINS IN SPERMATIC CORD", 
       "Testicles feel contused and heavy", 
-      "Must urinate when thinking of it", 
-      "Burning in urethra and pain in glans when urinating", 
-      "Frequent and copious", 
-      "Urine contains oxalates", 
-      "Seminal vesiculitis", 
-      "Urinary Organs"
+      "Seminal vesiculitis"
     ]
   }, 
   "details": "Influences the spinal cord, and produces motor paralysis. Pains very violent, IN SPOTS (KALI. BICH.) WORSE, motion, and THINKING OF THEM. PERIODICAL REMISSIONS. Spasmodic symptoms of throat and chest. RHEUMATISM OF LEFT SIDE. NEURASTHENIA. Tuberculosis.Although certain oxalates are constant constituents of vegetable food and of the human body, the acid itself is a violent poison when taken internally, producing gastroenteritis, motor paralysis, collapse, stupor and death.", 

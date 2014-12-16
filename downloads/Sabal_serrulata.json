@@ -13,14 +13,15 @@
       "Chronic bronchitis"
     ], 
     "Stomach": [
-      "Difficult urination", 
-      "ENURESIS; paresis of sphincter vesicae", 
-      "Constant desire to pass water at night", 
-      "Chronic gonorrhea", 
       "Belching and acidity", 
-      "Cystitis with prostatic hypertrophy", 
-      "Urinary Organs", 
       "Desire for milk"
+    ], 
+    "Urine": [
+      "Chronic gonorrhea", 
+      "Cystitis with prostatic hypertrophy", 
+      "Constant desire to pass water at night", 
+      "Difficult urination", 
+      "ENURESIS; paresis of sphincter vesicae"
     ], 
     "Female": [
       "Ovaries tender and enlarged; BREASTS SHRIVEL", 

@@ -4,13 +4,14 @@
   ], 
   "details": "Respiration.This remedy is akin to the ordinary Chamomilla. Gastric disturbances with coldness. Sensitive to cold air and cold things.Coryza with much lachrymation, sneezing, and discharge of clear water from the nose. Symptoms worse indoors. Constriction and rawness of throat. Cough, tickling; worse in warm room.", 
   "symptoms": {
-    "Abdomen": [
+    "Urine": [
       "Frequent urination", 
+      "Bladder feels distended", 
+      "Pain along spermatic cord, which feels full, as if varicosed"
+    ], 
+    "Abdomen": [
       "Itching of anus, with white putty-like stools", 
-      "Pain along spermatic cord, which feels full, as if varicosed", 
-      "Urinary Organs", 
-      "Aching in region of liver; griping and CHILLINESS INSIDE OF ABDOMEN and into legs", 
-      "Bladder feels distended"
+      "Aching in region of liver; griping and CHILLINESS INSIDE OF ABDOMEN and into legs"
     ], 
     "Skin": [
       "Goose-flesh", 

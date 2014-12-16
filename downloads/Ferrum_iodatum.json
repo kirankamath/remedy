@@ -5,21 +5,22 @@
   "details": "Scrofulous affections, glandular enlargements, and tumors call for this remedy. Crops of boils. Acute nephritis following eruptive diseases. Uterine displacements. Body emaciated. Anemia. Exophthalmic goitre following suppression of menses. Debility following drain upon vital forces. Impetigo of the cheek.", 
   "symptoms": {
     "Respiratory": [
-      "Sensation as if urine were stopped at fossa navicularis", 
       "Coryza; discharge of mucus from nose, trachea, and larynx", 
-      "Incontinence in anemic children", 
-      "Sweet smelling", 
-      "Chest feels oppressed", 
-      "Scrofulous swelling of nose", 
-      "Difficulty in retaining urine", 
-      "Urinary Organs", 
       "Pressure beneath sternum", 
-      "Urine dark", 
-      "Hemoptysis", 
-      "CRAWLING SENSATION IN URETHRA AND RECTUM"
+      "Scrofulous swelling of nose", 
+      "Chest feels oppressed", 
+      "Hemoptysis"
     ], 
     "Stomach": [
       "Food seems to push up into throat, as if it had not been swallowed"
+    ], 
+    "Urine": [
+      "Difficulty in retaining urine", 
+      "Sensation as if urine were stopped at fossa navicularis", 
+      "Urine dark", 
+      "Sweet smelling", 
+      "CRAWLING SENSATION IN URETHRA AND RECTUM", 
+      "Incontinence in anemic children"
     ], 
     "Abdomen": [
       "Fullness, even after a little food; stuffed feeling, as if she could not lean forward"

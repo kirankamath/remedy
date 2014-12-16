@@ -28,20 +28,21 @@
       "Malignant disease of stomach with vomiting of blood and sour fluid", 
       "Much fetid gas"
     ], 
-    "Abdomen": [
-      "Hematuria", 
+    "Urine": [
+      "Burning and tenesmus; CATARRH OF BLADDER; diuresis; URETHRAL CARUNCLE", 
+      "Bladder feels loss of expulsive force", 
       "Spasmodic stricture; gonorrhea", 
       "Urine contains pus and is deficient in urea", 
       "Suppurative inflammation of kidneys", 
       "ACUTE NEPHRITIS COMPLICATION INFLUENZA", 
-      "Diarrhoea; stools thin, watery, preceded by sharp pains", 
-      "Bladder feels loss of expulsive force", 
-      "Burning and tenesmus; CATARRH OF BLADDER; diuresis; URETHRAL CARUNCLE", 
+      "Hematuria"
+    ], 
+    "Abdomen": [
       "DYSENTERY, with rectal heat; tenesmus; hemorrhage", 
       "Aching pains in bowels with feeling of impending diarrhoea", 
       "ACUTE DIARRHOEA", 
       "Typhoid diarrhoea", 
-      "Urinary Organs"
+      "Diarrhoea; stools thin, watery, preceded by sharp pains"
     ], 
     "Fever": [
       "Use the tincture", 

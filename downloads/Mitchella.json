@@ -2,12 +2,17 @@
   "name": "Mitchella", 
   "Relationship": "Compare: CHIMAPH.; SENECIO; UVA; GERAN.; GOSSIP.", 
   "symptoms": {
+    "Urine": [
+      "Dysuria", 
+      "Catarrh of bladder", 
+      "Irritation at neck of bladder, with urging to urinate"
+    ], 
     "Female": [
       "Cervix dark red, swollen", 
       "Dysmenorrhoea and uterine hemorrhage; blood bright red"
     ]
   }, 
-  "details": "Irritation at neck of bladder, with urging to urinate. (EUP-PUR.; APIS.) Dysuria. Catarrh of bladder.Urinary Organs.Bladder symptoms accompany complaints, especially uterine congestion.", 
+  "details": "Bladder symptoms accompany complaints, especially uterine congestion.", 
   "Natural History": [
     "Partridge-berry"
   ], 

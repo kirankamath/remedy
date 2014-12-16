@@ -18,17 +18,16 @@
       "Total loss of appetite in morning, but great craving for food at noon and night", 
       "Offensive breath"
     ], 
-    "Modalities": [], 
-    "Back": [
-      "Pain in small of back", 
-      "Rheumatic pains and aching in bones"
-    ], 
     "Chest": [
       "Dyspnea; worse lying down: Sharp, cutting pain in heart; HEART'S ACTION HEAVY AND SLOW; TACHYCARDIA, bradycardia", 
       "Choking sensation in throat", 
       "Worse coughing; water brash succeeds cough", 
       "Painful sensation, as if something were lodged in the chest and had to be coughed up; lungs feel compressed", 
       "Cannot be fully expanded"
+    ], 
+    "Back": [
+      "Pain in small of back", 
+      "Rheumatic pains and aching in bones"
     ], 
     "Sleep": [
       "Bad dreams", 

@@ -2,6 +2,70 @@
   "name": "Digitalis", 
   "Relationship": "Antidotes; CAMPH.; SERPENTARIA. Incompatible: CHINA. Compare: NERIUM ODORUM (resembles in heart effects Digitalis, but also has an action like Strychnia on spinal cord. Spasms appear more in upper part of body. Palpitation; weak heart will be strengthened by it. Lock-jaw). ADONIA; Crataegus (a true heart tonic); KALMIA; SPIGEL; LIATRIS; Compare also: DIGITOXINUM (Digitalis dissolved in Chloroform; which has yellow vision very marked, and distressing nausea, AGGRAVATED BY CHAMPAGNE AND AERATED WATERS.) NITRI. SIR. DULC. increases action of Digit. ICHTHYOTOXIN. Eel serum. (Experiments show great analogy between the serum and the venom of Vipera. Indicated whenever the systole of the heart is insufficient, decompensated valvular disease, irregular pulse due to fibrillation of the auricle. Asystole, feeble, frequent, irregular pulse, dyspnoea and scanty urine. Liver enlarged, dyspnoea, albuminuria. No oedema.) CONVALLARIA (heart disease with vertigo and digestive disturbances). QUINIDINE - Isomeric methoxyl compound. - (Restores normal rhythm in auricular fibrillation, often supplements the action of Digitalis. Two doses of 3 grains each, three hours apart - if no symptoms of cinchonism develop, 4 doses 6 grs. each daily. (C. Harlan Wells.) Paroxysmal tachycardia. Establishes normal heart rhythm at least temporarily, less in valvular lesions.)", 
   "symptoms": {
+    "Mind": [
+      "Dullness of sense", 
+      "Despondency; fearful; ANXIOUS about the future", 
+      "Melancholia, dull lethargic with SLOW pulse", 
+      "Every shock strikes in epigastrium"
+    ], 
+    "Stool": [
+      "Diarrhoea during jaundice", 
+      "WHITE, CHALK-LIKE, ASHY, PASTY STOOL"
+    ], 
+    "Eyes": [
+      "Mydriasis; lid margins red, swollen, agglutinated in morning", 
+      "Objects appear green and yellow", 
+      "Dim vision irregular pupils, diplopia", 
+      "Blueness of eyelids", 
+      "CHANGE IN ACUTENESS OF PERCEPTION OF SHADES OF GREEN", 
+      "Dark bodies, like flies, before eyes", 
+      "Detachment of retina"
+    ], 
+    "Fever": [
+      "Sudden flushes of heat, followed by great nervous weakness"
+    ], 
+    "Stomach": [
+      "Burning in stomach extending to oesophagus", 
+      "EXCESSIVE NAUSEA, not relieved by vomiting", 
+      "Faintness, GREAT WEAKNESS IN STOMACH", 
+      "TENDERNESS OF EPIGASTRIUM", 
+      "FAINTNESS and vomiting from motion", 
+      "Discomfort, even after a small quantity of food, or from mere sight or smell", 
+      "Copious salivation", 
+      "After cold water or ice-cream, sharp pain in forehead, extending to nose", 
+      "Sweet taste with constant ptyalism", 
+      "NEURALGIC PAIN IN STOMACH, unconnected with taking food"
+    ], 
+    "Abdomen": [
+      "Pain in left side apparently in descending colon and under false ribs", 
+      "ENLARGED, SORE, PAINFUL LIVER", 
+      "Severe abdominal pains, pulsation in abdominal aorta, and epigastric constriction"
+    ], 
+    "Respiratory": [
+      "Chronic bronchitis; passive congestion of the lungs, giving bloody sputum due to failing myocardium", 
+      "Desire to take a deep breath", 
+      "CANNOT BEAR TO TALK", 
+      "Breathing irregular, difficult; deep sighing", 
+      "Hemoptysis with weak heart", 
+      "Cough, with raw, sore feeling in chest", 
+      "DYSPNOEA, constant desire to breathe deeply, lungs feel compressed"
+    ], 
+    "Head": [
+      "Vertigo, when walking and on rising, in cardiac and hepatic affections", 
+      "Blue tongue and lips", 
+      "Confusion, fullness and noise in head", 
+      "Cracking sounds during a nap", 
+      "Face bluish", 
+      "Sharp, shooting frontal pain, extending into nose, after drinking cold water or eating ice-cream", 
+      "Heaviness of head, with sensation as if it would fall backward"
+    ], 
+    "Male": [
+      "Nightly emission , with great weakness of genitals after coitus", 
+      "Enlarged prostate", 
+      "Gonorrhea, balanitis , with oedema of prepuce", 
+      "Dropsical swelling of genitals", 
+      "Hydrocele; scrotum enlarged like a bladder"
+    ], 
     "Heart": [
       "Cardiac dropsy", 
       "VERY SLOW PULSE", 
@@ -18,83 +82,27 @@
       "PULSE WEAK; AND QUICKENED BY LEAST MOVEMENT", 
       "Hypertrophy with dilatation"
     ], 
-    "Eyes": [
-      "Mydriasis; lid margins red, swollen, agglutinated in morning", 
-      "Objects appear green and yellow", 
-      "Dim vision irregular pupils, diplopia", 
-      "Blueness of eyelids", 
-      "CHANGE IN ACUTENESS OF PERCEPTION OF SHADES OF GREEN", 
-      "Dark bodies, like flies, before eyes", 
-      "Detachment of retina"
-    ], 
-    "Respiratory": [
-      "Chronic bronchitis; passive congestion of the lungs, giving bloody sputum due to failing myocardium", 
-      "Desire to take a deep breath", 
-      "CANNOT BEAR TO TALK", 
-      "Breathing irregular, difficult; deep sighing", 
-      "Hemoptysis with weak heart", 
-      "Cough, with raw, sore feeling in chest", 
-      "DYSPNOEA, constant desire to breathe deeply, lungs feel compressed"
-    ], 
-    "Stomach": [
-      "Burning in stomach extending to oesophagus", 
-      "EXCESSIVE NAUSEA, not relieved by vomiting", 
-      "Faintness, GREAT WEAKNESS IN STOMACH", 
-      "TENDERNESS OF EPIGASTRIUM", 
-      "FAINTNESS and vomiting from motion", 
-      "Discomfort, even after a small quantity of food, or from mere sight or smell", 
-      "Copious salivation", 
-      "After cold water or ice-cream, sharp pain in forehead, extending to nose", 
-      "Sweet taste with constant ptyalism", 
-      "NEURALGIC PAIN IN STOMACH, unconnected with taking food"
-    ], 
-    "Female": [
-      "Labor-like pains in abdomen and back before menses", 
-      "Uterine hemorrhage"
-    ], 
     "Modalities": [
       "Worse: when sitting erect", 
       "Worse: after meals and music", 
       "Better: when stomach is empty; in open air"
     ], 
-    "Mind": [
-      "Dullness of sense", 
-      "Despondency; fearful; ANXIOUS about the future", 
-      "Melancholia, dull lethargic with SLOW pulse", 
-      "Every shock strikes in epigastrium"
-    ], 
-    "Stool": [
+    "Urine": [
       "Continued urging, in drops, dark, hot, burning, with sharp cutting or THROBBING pain at neck of bladder, AS IF A STRAW WAS BEING THRUST BACK AND FORTH; worse at night", 
-      "Diarrhoea during jaundice", 
-      "Full feeling after urination", 
-      "Brick-dust sediment", 
       "Ammoniacal, and turbid", 
       "URETHRITIS, phimosis, strangury", 
+      "Full feeling after urination", 
       "Suppressed", 
-      "Urine Section", 
-      "Constriction and burning, as if urethra was too small", 
-      "WHITE, CHALK-LIKE, ASHY, PASTY STOOL"
-    ], 
-    "Abdomen": [
-      "Pain in left side apparently in descending colon and under false ribs", 
-      "ENLARGED, SORE, PAINFUL LIVER", 
-      "Severe abdominal pains, pulsation in abdominal aorta, and epigastric constriction"
-    ], 
-    "Fever": [
-      "Sudden flushes of heat, followed by great nervous weakness"
+      "Brick-dust sediment", 
+      "Constriction and burning, as if urethra was too small"
     ], 
     "Sleep": [
       "STARTS FROM SLEEP IN ALARM that he is falling from a height", 
       "Continuous sleepiness"
     ], 
-    "Head": [
-      "Vertigo, when walking and on rising, in cardiac and hepatic affections", 
-      "Blue tongue and lips", 
-      "Confusion, fullness and noise in head", 
-      "Cracking sounds during a nap", 
-      "Face bluish", 
-      "Sharp, shooting frontal pain, extending into nose, after drinking cold water or eating ice-cream", 
-      "Heaviness of head, with sensation as if it would fall backward"
+    "Female": [
+      "Labor-like pains in abdomen and back before menses", 
+      "Uterine hemorrhage"
     ], 
     "Skin": [
       "Dropsical", 
@@ -111,13 +119,6 @@
       "Coldness of hands and feet", 
       "Sensation in legs as IF A RED HOT WIRE suddenly darted through them", 
       "Muscular debility"
-    ], 
-    "Male": [
-      "Nightly emission , with great weakness of genitals after coitus", 
-      "Enlarged prostate", 
-      "Gonorrhea, balanitis , with oedema of prepuce", 
-      "Dropsical swelling of genitals", 
-      "Hydrocele; scrotum enlarged like a bladder"
     ]
   }, 
   "details": "Comes into play in all diseases where the heart is primarily involved, where the pulse is WEAK, IRREGULAR, INTERMITTENT, ABNORMALLY SLOW, and dropsy of external and internal parts. WEAKNESS AND DILATION OF THE MYOCARDIUM. Its greatest indication is in failure of compensation and especially when AURICULAR FIBRILLATION HAS SET IN. Slow pulse in recumbent posture, but irregular and dicrotic on sitting up. Auricular flutter and fibrillation especially when subsequent to rheumatic fever. Heart block, very slow pulse. Other symptoms of organic heart disease, such as great weakness and sinking of strength, faintness, coldness of skin, and irregular respiration; cardiac irritability and ocular troubles after tobacco; jaundice from induration and HYPERTROPHY OF THE LIVER, frequently call for Digitalis. Jaundice with heart disease. Faint, as if dying. BLUISH appearance of face. CARDIAC MUSCULAR FAILURE when asystole is present. Stimulates the heart's muscles, increases force of systole, increases length. Prostration from slight exertion. Collapse.", 

@@ -28,8 +28,16 @@
       "Nausea, vomiting; BETTER, VERY HOT WATER", 
       "Bad odor from mouth"
     ], 
-    "Female": [
-      "Menses too late and too profuse"
+    "Head": [
+      "Right-sided headache down behind ears and shoulder-blade", 
+      "Icy coldness of occiput from the nape of neck; FEELS HEAVY AS LEAD", 
+      "Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance", 
+      "Inclination to fall forward", 
+      "NEURALGIA OVER RIGHT EYE, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver"
+    ], 
+    "Urine": [
+      "Dark, turbid", 
+      "Profuse, foaming, yellow urine, like beer"
     ], 
     "Modalities": [
       "Better: after dinner", 
@@ -52,12 +60,8 @@
     "Nose": [
       "Flapping of alae nasi"
     ], 
-    "Head": [
-      "Right-sided headache down behind ears and shoulder-blade", 
-      "Icy coldness of occiput from the nape of neck; FEELS HEAVY AS LEAD", 
-      "Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance", 
-      "Inclination to fall forward", 
-      "NEURALGIA OVER RIGHT EYE, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver"
+    "Female": [
+      "Menses too late and too profuse"
     ], 
     "Skin": [
       "Painful red pimples and pustules", 
@@ -72,10 +76,7 @@
       "Distention", 
       "Gallstones", 
       "Jaundice due to hepatic and gall-bladder obstruction", 
-      "Profuse, foaming, yellow urine, like beer", 
       "Constriction across, as by a string", 
-      "Urine Section", 
-      "Dark, turbid", 
       "Gall-colic"
     ], 
     "Extremities": [

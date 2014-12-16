@@ -21,9 +21,15 @@
       "Much thirst", 
       "Lancinating pain in pit of stomach extending to vertebra and scapula"
     ], 
-    "Female": [
-      "Metrorrhagia; worse at night, with feeling of enlargement of head", 
-      "Cancer of breast"
+    "Head": [
+      "Slight sounds are greatly accentuated", 
+      "Dull, dizzy feeling in head", 
+      "CORYZA, sneezing, watery discharge, with asthmatic breathing and suffocative cough", 
+      "Pain in forehead and temple, EXTENDING TO EYEBALLS, worse in afternoon", 
+      "Blueness under eyes", 
+      "Influenza", 
+      "DANDRUFF; scale sore, dry, tetter-like", 
+      "Sensation of enlargement and fullness"
     ], 
     "Modalities": [
       "Better: by heat"
@@ -34,15 +40,9 @@
       "MUSCLES AND SKIN SORE, as if beaten", 
       "Pain in small of back, hips and lower limbs"
     ], 
-    "Head": [
-      "Slight sounds are greatly accentuated", 
-      "Dull, dizzy feeling in head", 
-      "CORYZA, sneezing, watery discharge, with asthmatic breathing and suffocative cough", 
-      "Pain in forehead and temple, EXTENDING TO EYEBALLS, worse in afternoon", 
-      "Blueness under eyes", 
-      "Influenza", 
-      "DANDRUFF; scale sore, dry, tetter-like", 
-      "Sensation of enlargement and fullness"
+    "Female": [
+      "Metrorrhagia; worse at night, with feeling of enlargement of head", 
+      "Cancer of breast"
     ], 
     "Skin": [
       "FRECKLES", 

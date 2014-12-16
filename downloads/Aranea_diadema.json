@@ -21,6 +21,10 @@
       "Worse: and at midnight", 
       "Better: smoking tobacco"
     ], 
+    "Chest": [
+      "Pain in intercostal nerve from nerve endings to spine", 
+      "Bright red hemorrhage from lungs"
+    ], 
     "Abdomen": [
       "Enlarged spleen", 
       "Arms and legs feel as if asleep", 
@@ -28,17 +32,13 @@
       "Diarrhoea", 
       "Colic returns same hours"
     ], 
-    "Chest": [
-      "Pain in intercostal nerve from nerve endings to spine", 
-      "Bright red hemorrhage from lungs"
-    ], 
-    "Sleep": [
-      "Restless and waking, as if hands and forearms were swollen and heavy"
-    ], 
     "Female": [
       "Distention of abdomen", 
       "MENSES TOO EARLY, TOO COPIOUS", 
       "Lumbo-abdominal neuralgia"
+    ], 
+    "Sleep": [
+      "Restless and waking, as if hands and forearms were swollen and heavy"
     ], 
     "Extremities": [
       "Bone-pains in extremities", 

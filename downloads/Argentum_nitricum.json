@@ -2,19 +2,20 @@
   "name": "Argentum nitricum", 
   "Relationship": "Antidote: Nat-mur.Compare: Ars.; Merc.; Phos.; Pulsat.; Argent. cyanatum (angina pectoris; asthma, spasm of oesophagus); Argent - JODAT. (Throat disorders, hoarseness, gland affected.) Protargol (gonorrhea after acute stage 2 per cent. solution; syphilitic mucous patches, chancres and chancroids, 10 per cent solution applied twice a day; ophthalmia neonatorum, 2 drops of 10 per cent. solution).; Argent. phosph. (An excellent diuretic in dropsy.); Argent. Oxyd. Chlorosis with menorrhagia and diarrhoea.).", 
   "symptoms": {
-    "Stool": [
-      "After any emotion with flatulence", 
+    "Urine": [
+      "Emission of a few drops after having finished", 
       "Early stage of gonorrhea; profuse discharge and terrible cutting pains; bloody urine", 
       "Urine passes unconsciously, day and night", 
-      "Watery, noisy, flatulent; GREEN, LIKE CHOPPED SPINACH, with shreddy mucus and enormous distention of abdomen; very offensive", 
-      "Divided stream", 
-      "Urine scanty and dark", 
-      "Itching of anus", 
-      "Diarrhoea immediately after eating or drinking", 
-      "Emission of a few drops after having finished", 
-      "FLUIDS GO RIGHT THROUGH HIM; after sweets", 
       "Urethra inflamed, with pain, burning, itching; pain as from a splinter", 
-      "Urine Section"
+      "Divided stream", 
+      "Urine scanty and dark"
+    ], 
+    "Stool": [
+      "Watery, noisy, flatulent; GREEN, LIKE CHOPPED SPINACH, with shreddy mucus and enormous distention of abdomen; very offensive", 
+      "After any emotion with flatulence", 
+      "FLUIDS GO RIGHT THROUGH HIM; after sweets", 
+      "Diarrhoea immediately after eating or drinking", 
+      "Itching of anus"
     ], 
     "Head": [
       "Itching of scalp", 

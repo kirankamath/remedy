@@ -3,18 +3,10 @@
   "Relationship": "Antidotes: ARS.; LACH.Compare: TART. EMET.; BROM.; HEPAR; IND.; CALC.;' ANT. CR. In the production of false membranes compare: BROM.; AMMON. CAUST.; SULPH-AC.; IPECAC.", 
   "symptoms": {
     "Stool": [
-      "HEMATOCHYLURIA", 
-      "AFTER URINATING A DROP SEEMS TO REMAIN WHICH CANNOT BE EXPELLED", 
-      "Burning in urethra", 
-      "Congestion of kidney; nephritis, with scanty, albuminous urine and casts", 
       "Dysentery; tenesmus, stools brown, frothy", 
-      "Urethra becomes clogged up", 
-      "Jelly-like, gelatinous; WORSE, MORNINGS", 
-      "Pyelitis; urine mixed with epithelial cells, mucus, pus or blood", 
-      "Ropy mucus in urine", 
       "Sensation of a plug in anus", 
-      "Periodic constipation, with pain across the loins, and brown urine", 
-      "Urinary Organs"
+      "Jelly-like, gelatinous; WORSE, MORNINGS", 
+      "Periodic constipation, with pain across the loins, and brown urine"
     ], 
     "Head": [
       "Vertigo with nausea when rising from seat", 
@@ -115,6 +107,15 @@
       "Worse: hot weather", 
       "Worse: undressing", 
       "Better: from heat"
+    ], 
+    "Urine": [
+      "HEMATOCHYLURIA", 
+      "Congestion of kidney; nephritis, with scanty, albuminous urine and casts", 
+      "Urethra becomes clogged up", 
+      "Ropy mucus in urine", 
+      "AFTER URINATING A DROP SEEMS TO REMAIN WHICH CANNOT BE EXPELLED", 
+      "Burning in urethra", 
+      "Pyelitis; urine mixed with epithelial cells, mucus, pus or blood"
     ], 
     "Back": [
       "CUTTING THROUGH LOINS; cannot walk; extends to groins", 

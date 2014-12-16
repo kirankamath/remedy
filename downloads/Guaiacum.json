@@ -21,17 +21,25 @@
       "DESIRE FROM APPLES and other fruits", 
       "Aversion to milk"
     ], 
-    "Female": [
-      "Ovaritis in rheumatic patients, with irregular menstruation and dysmenorrhoea, and irritable bladder"
+    "Head": [
+      "Aching in left ear", 
+      "Tearing pain in skull; worse, cold, wet weather", 
+      "Feels swollen, and blood-vessels distended", 
+      "GOUTY AND RHEUMATIC PAIN IN HEAD and face, EXTENDING TO NECK", 
+      "PAINS OFTEN END IN A STITCH, especially in head"
+    ], 
+    "Urine": [
+      "Constant desire", 
+      "Sharp stitches after urinating"
     ], 
     "Modalities": [
-      "Better: external pressure", 
       "Worse: from motion", 
       "Worse: heat", 
       "Worse: cold", 
       "Worse: wet weather; pressure", 
       "Worse: touch", 
-      "Worse: from six PM to four AM"
+      "Worse: from six PM to four AM", 
+      "Better: external pressure"
     ], 
     "Mind": [
       "Forgetful; thoughtless; staring", 
@@ -45,19 +53,12 @@
       "STIFF NECK AND SORE SHOULDERS"
     ], 
     "Abdomen": [
-      "Sharp stitches after urinating", 
-      "Intestinal fermentation", 
-      "Much wind in bowels", 
       "Diarrhoea, cholera infantum", 
-      "Constant desire", 
-      "Urinary Organs"
+      "Intestinal fermentation", 
+      "Much wind in bowels"
     ], 
-    "Head": [
-      "Aching in left ear", 
-      "Tearing pain in skull; worse, cold, wet weather", 
-      "Feels swollen, and blood-vessels distended", 
-      "GOUTY AND RHEUMATIC PAIN IN HEAD and face, EXTENDING TO NECK", 
-      "PAINS OFTEN END IN A STITCH, especially in head"
+    "Female": [
+      "Ovaritis in rheumatic patients, with irregular menstruation and dysmenorrhoea, and irritable bladder"
     ], 
     "Throat": [
       "ACUTE TONSILLITIS", 

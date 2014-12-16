@@ -2,14 +2,36 @@
   "name": "Fluoricum acidum", 
   "Relationship": "Compare: THIOSINAMINUM (action on cicatricial tissues; adhesions, strictures, tumors); CALC. FLUOR.; SILICA. Complementary: SILICA.", 
   "symptoms": {
+    "Respiratory": [
+      "Hydrothorax", 
+      "Oppression of chest, difficult breathing, great dyspnoea"
+    ], 
+    "Mind": [
+      "Mentally elated and gay", 
+      "Indifference towards those loved bets; inability to realize responsibility; buoyancy"
+    ], 
+    "Stool": [
+      "Bilious diarrhoea, with aversion to coffee"
+    ], 
+    "Head": [
+      "Alopecia", 
+      "Caries of skin", 
+      "Exostosis", 
+      "Pressure on sides of head from within outward", 
+      "Caries of ossicles and mastoid, with copious discharge; worse warmth"
+    ], 
+    "Nose": [
+      "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
+    ], 
+    "Male": [
+      "SWOLLEN SCROTUM", 
+      "Burning in urethra", 
+      "Sexual passion and desire increased, with erections at night, during sleep"
+    ], 
     "Eyes": [
       "Violent itching of inner canthus", 
       "SENSATION AS OF WIND BLOWING THROUGH EYES", 
       "Lachrymal fistula"
-    ], 
-    "Respiratory": [
-      "Hydrothorax", 
-      "Oppression of chest, difficult breathing, great dyspnoea"
     ], 
     "Stomach": [
       "Desire for highly seasoned food", 
@@ -21,12 +43,6 @@
       "Heaviness and weight in stomach", 
       "Averse to coffee, wants fancy dishes"
     ], 
-    "Female": [
-      "Nymphomania", 
-      "Ulceration of uterus and os", 
-      "Copious and excoriating leucorrhoea", 
-      "Menses copious, frequent, too long"
-    ], 
     "Modalities": [
       "Worse: warmth", 
       "Worse: morning", 
@@ -34,12 +50,9 @@
       "Better: cold", 
       "Better: while walking"
     ], 
-    "Mind": [
-      "Mentally elated and gay", 
-      "Indifference towards those loved bets; inability to realize responsibility; buoyancy"
-    ], 
-    "Stool": [
-      "Bilious diarrhoea, with aversion to coffee"
+    "Urine": [
+      "Scanty, dark", 
+      "In dropsy, produces frequent and free discharge, with great relief"
     ], 
     "Abdomen": [
       "Flatus and eructations", 
@@ -51,15 +64,11 @@
       "Teeth feel warm", 
       "Syphilitic ulceration of throat, which is very sensitive to cold"
     ], 
-    "Nose": [
-      "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
-    ], 
-    "Head": [
-      "Alopecia", 
-      "Caries of skin", 
-      "Exostosis", 
-      "Pressure on sides of head from within outward", 
-      "Caries of ossicles and mastoid, with copious discharge; worse warmth"
+    "Female": [
+      "Nymphomania", 
+      "Ulceration of uterus and os", 
+      "Copious and excoriating leucorrhoea", 
+      "Menses copious, frequent, too long"
     ], 
     "Skin": [
       "VARICOSE VEINS", 
@@ -85,14 +94,6 @@
       "Nails crumble", 
       "Inflammation of joints of fingers", 
       "Coccygodynia"
-    ], 
-    "Male": [
-      "Scanty, dark", 
-      "Burning in urethra", 
-      "Sexual passion and desire increased, with erections at night, during sleep", 
-      "In dropsy, produces frequent and free discharge, with great relief", 
-      "SWOLLEN SCROTUM", 
-      "Urine Section"
     ]
   }, 
   "details": "Especially adapted to chronic diseases with syphilitic and mercurial history. GLABELLA REGION BLOATED. Acts especially upon lower tissues, and indicated in deep, destructive processes, bedsores, ulcerations, varicose veins, and ulcers. Patient is compelled to move about energetically. Complaints of old age, or the prematurely aged, with weak, distended blood vessels. Hobnailed liver of alcoholics. GOITRE (Dr. Woakes) (Kali-fluoride produced bronchocele in dogs). Early decay of teeth. Old cases of nightly fevers, coming on periodically.", 

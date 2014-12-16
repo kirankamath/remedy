@@ -11,14 +11,11 @@
       "Eyes suffused"
     ], 
     "Respiratory": [
-      "Expulsive cough, deep and harsh", 
-      "Pain in chest, extending to head", 
-      "Constant dribbling IN OPEN AIR", 
-      "Hoarseness; constant desire to clear throat", 
       "Voice husky", 
       "Chest oppressed; dry, hacking cough coming on at night and keeping one awake", 
-      "Must rise at night to urinate", 
-      "Urine Section"
+      "Pain in chest, extending to head", 
+      "Expulsive cough, deep and harsh", 
+      "Hoarseness; constant desire to clear throat"
     ], 
     "Modalities": [
       "Worse: right side", 
@@ -28,6 +25,10 @@
       "Worse: noises", 
       "Better: warm room", 
       "Better: tobacco"
+    ], 
+    "Urine": [
+      "Must rise at night to urinate", 
+      "Constant dribbling IN OPEN AIR"
     ], 
     "Head": [
       "Bursting pain, beginning in occiput and spreading all over", 

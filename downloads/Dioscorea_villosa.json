@@ -24,11 +24,15 @@
       "Neuralgia of stomach", 
       "Mouth dry and bitter in morning, tongue coated, no thirst"
     ], 
+    "Rectum": [
+      "Diarrhoea , yellowish, followed by exhaustion, as if flatus and feces were hot", 
+      "Hemorrhoids, with darting pains to liver; look like bunches of grapes or red cherries; protrude after stool, with pain in anus"
+    ], 
     "Modalities": [
-      "Better: standing erect", 
-      "Better: motion in open air; pressure", 
       "Worse: evening and night; LYING DOWN", 
-      "Worse: and DOUBLING UP"
+      "Worse: and DOUBLING UP", 
+      "Better: standing erect", 
+      "Better: motion in open air; pressure"
     ], 
     "Mind": [
       "Calls things by the wrong name"
@@ -46,10 +50,6 @@
     "Female": [
       "Vivid dreams", 
       "Uterine colic; pains radiate from uterus"
-    ], 
-    "Rectum": [
-      "Diarrhoea , yellowish, followed by exhaustion, as if flatus and feces were hot", 
-      "Hemorrhoids, with darting pains to liver; look like bunches of grapes or red cherries; protrude after stool, with pain in anus"
     ], 
     "Extremities": [
       "Sciatica; pains shoot down thigh; worse, right side; better, when perfectly still", 

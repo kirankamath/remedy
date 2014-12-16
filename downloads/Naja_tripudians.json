@@ -30,8 +30,8 @@
       "IRRITATING, DRY COUGH, DEPENDENT ON CARDIAC LESIONS"
     ], 
     "Modalities": [
-      "Better: from walking or riding in open air", 
-      "Worse: from use of stimulants;"
+      "Worse: from use of stimulants;", 
+      "Better: from walking or riding in open air"
     ], 
     "Mind": [
       "Suicidal insanity", 
@@ -43,11 +43,11 @@
       "Blurred speech", 
       "Fear of rain"
     ], 
-    "Sleep": [
-      "Profound, like a log, with stertorous breathing, a typical reptilian state"
-    ], 
     "Female": [
       "Neuralgia of left ovary; often serviceable in obscure pain in left groin, especially in post-operative cases; SEEMS TO BE DRAWN TO HEART"
+    ], 
+    "Sleep": [
+      "Profound, like a log, with stertorous breathing, a typical reptilian state"
     ], 
     "Ears": [
       "Illusions of hearing; otalgia; chronic otorrhoea, black discharges; smells like herring brine"

@@ -2,13 +2,38 @@
   "name": "Causticum", 
   "Relationship": "According to the careful investigations of Dr. Wagner of Basel, Causticum corresponds to Ammon. causticum 4X. Causticum does not agree with Phosphorus; the remedies should not be used after each other. Diphtherotoxin follows, causticum in chronic bronchitis.Complementary: Carbo; Petrosel.Compare: Rhus; Arsenic; Am. phos. (facial paralysis).Antidote: Paralysis from lead-poisoning.", 
   "symptoms": {
-    "Eyes": [
-      "Sparks and dark spots before eyes", 
-      "Ptosis", 
-      "Cataract with motor disturbances", 
-      "Vision impaired, as if film were before eyes", 
-      "Paralysis of ocular muscles after exposure to cold", 
-      "Inflammation of eyelids; ulceration"
+    "Urine": [
+      "Expelled very slowly, and sometimes retained", 
+      "RETENTION after surgical operations", 
+      "Loss of sensibility on passing urine", 
+      "Involuntary when coughing, sneezing", 
+      "Involuntary during first sleep at night; also from slightest excitement"
+    ], 
+    "Stool": [
+      "Fistula and large piles", 
+      "Soft and small, size of goose-quill", 
+      "Hard, tough, covered with mucus; shines like grease; small-shaped; expelled with much straining, or only on standing up", 
+      "Rectum sore and burns", 
+      "Partial paralysis of rectum", 
+      "Pruritis"
+    ], 
+    "Head": [
+      "Pain in right frontal eminence", 
+      "Sensation of empty space between forehead and brain"
+    ], 
+    "Stomach": [
+      "Worse after eating fresh meat; smoked meat agrees", 
+      "Sensation of ball rising in throat", 
+      "Greasy taste", 
+      "Acid dyspepsia", 
+      "Feels as if lime were burned in stomach", 
+      "Aversion to sweets"
+    ], 
+    "Mouth": [
+      "Bites inside of cheek from chewing", 
+      "Gums bleed easily", 
+      "Rheumatism of articulation of lower jaw", 
+      "Paralysis of tongue, with indistinct speech"
     ], 
     "Respiratory": [
       "COUGH WITH RAW SORENESS OF CHEST", 
@@ -24,13 +49,29 @@
       "HOARSENESS with pain in chest; APHONIA", 
       "Cannot lie down at night"
     ], 
-    "Stomach": [
-      "Worse after eating fresh meat; smoked meat agrees", 
-      "Sensation of ball rising in throat", 
-      "Greasy taste", 
-      "Acid dyspepsia", 
-      "Feels as if lime were burned in stomach", 
-      "Aversion to sweets"
+    "Eyes": [
+      "Sparks and dark spots before eyes", 
+      "Ptosis", 
+      "Cataract with motor disturbances", 
+      "Vision impaired, as if film were before eyes", 
+      "Paralysis of ocular muscles after exposure to cold", 
+      "Inflammation of eyelids; ulceration"
+    ], 
+    "Face": [
+      "Pain in jaws, with difficulty in opening mouth", 
+      "Dental fistula", 
+      "Pain in facial bones", 
+      "Warts", 
+      "Paralysis of right side"
+    ], 
+    "Nose": [
+      "Scaly nose", 
+      "Nostrils ulcerated", 
+      "CORYZA, WITH HOARSENESS", 
+      "PIMPLES AND WARTS"
+    ], 
+    "Ears": [
+      "Ringing, roaring, pulsating, with deafness; words and steps re-echo; chronic middle-ear catarrh; accumulation of ear-wax"
     ], 
     "Modalities": [
       "Worse: dry", 
@@ -48,46 +89,19 @@
       "Sad, hopeless", 
       "Ailments from long-lasting grief, sudden emotions"
     ], 
-    "Stool": [
-      "RETENTION after surgical operations", 
-      "Fistula and large piles", 
-      "Soft and small, size of goose-quill", 
-      "Hard, tough, covered with mucus; shines like grease; small-shaped; expelled with much straining, or only on standing up", 
-      "Rectum sore and burns", 
-      "Partial paralysis of rectum", 
-      "Loss of sensibility on passing urine", 
-      "Involuntary when coughing, sneezing", 
-      "Involuntary during first sleep at night; also from slightest excitement", 
-      "Expelled very slowly, and sometimes retained", 
-      "Pruritis", 
-      "Urine Section"
-    ], 
     "Back": [
       "Dull pain in nape of neck", 
       "Stiffness between shoulders"
     ], 
-    "Face": [
-      "Pain in jaws, with difficulty in opening mouth", 
-      "Dental fistula", 
-      "Pain in facial bones", 
-      "Warts", 
-      "Paralysis of right side"
+    "Sleep": [
+      "Very drowsy; can hardly keep awake", 
+      "Nocturnal sleeplessness, with dry heat, inquietude"
     ], 
-    "Mouth": [
-      "Bites inside of cheek from chewing", 
-      "Gums bleed easily", 
-      "Rheumatism of articulation of lower jaw", 
-      "Paralysis of tongue, with indistinct speech"
-    ], 
-    "Nose": [
-      "Scaly nose", 
-      "Nostrils ulcerated", 
-      "CORYZA, WITH HOARSENESS", 
-      "PIMPLES AND WARTS"
-    ], 
-    "Head": [
-      "Pain in right frontal eminence", 
-      "Sensation of empty space between forehead and brain"
+    "Female": [
+      "Menses delay, late", 
+      "UTERINE INERTIA DURING LABOR", 
+      "Leucorrhoea at night, with great weakness", 
+      "Menses cease at night; FLOW ONLY DURING DAY"
     ], 
     "Skin": [
       "Old burns that do not get well, and ill effects from burns", 
@@ -96,10 +110,6 @@
       "Soreness in folds of skin, back of ears, between thighs", 
       "Skin prone to intertrigo during dentition", 
       "Pains of burns"
-    ], 
-    "Sleep": [
-      "Very drowsy; can hardly keep awake", 
-      "Nocturnal sleeplessness, with dry heat, inquietude"
     ], 
     "Extremities": [
       "Slow in learning to walk", 
@@ -119,15 +129,6 @@
       "Cannot walk without suffering", 
       "Heaviness and weakness", 
       "Tearing joints"
-    ], 
-    "Female": [
-      "Menses delay, late", 
-      "UTERINE INERTIA DURING LABOR", 
-      "Leucorrhoea at night, with great weakness", 
-      "Menses cease at night; FLOW ONLY DURING DAY"
-    ], 
-    "Ears": [
-      "Ringing, roaring, pulsating, with deafness; words and steps re-echo; chronic middle-ear catarrh; accumulation of ear-wax"
     ]
   }, 
   "details": "Manifests its action mainly in chronic rheumatic, arthritic and paralytic affections, indicated by the tearing, drawing pains in the muscular and fibrous tissues, with deformities about the joints; progressive loss of muscular strength, tendinous contractures. Broken down seniles. In catarrhal affections of the air passages, and seems to choose preferable dark-complexioned and rigid-fibered persons. Restlessness at night, with tearing pains in joints and bones, and faint-like sinking of strength. This weakness progresses until we have gradually appearing paralysis. Local paralysis, vocal cords, muscles of deglutition, of tongue, eyelids, face, bladder and extremities. Children are slow to walk. The skin of a Caucasian person is of a DIRTY WHITE sallow, with warts, especially on the face. Emaciation due to disease, worry, etc., and of long standing. BURNING, RAWNESS, AND SORENESS are characteristic.", 

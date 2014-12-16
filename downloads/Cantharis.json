@@ -2,19 +2,20 @@
   "name": "Cantharis", 
   "Relationship": "Complementary: Camph.Compare: Cantharidin - (Glomerular nephritis). The immediate pharmacological action of Cantharidin is irritability of the capillaries, rendering the passage of nutritive fluids through them less difficult. This is most marked in the capillaries of the kidneys. The increase of blood sugar coincident with the glomerular nephritis appears to be a valuable observation. Vesicaria - (Urinary and kidney remedy. Smarting, burning sensation along urethra and in bladder with frequent desire to void urine often with strangury. Cystitis irritable bladder. Tincture 5-10 drop doses). Fuschina coloring substance used in adulteration of wine. (Cortical nephritis with albuminuria, 6th-thirtieth potency Redness of ears, mouth, swollen gums; deep, red urine; red, profuse diarrhoea, with severe abdominal pains). Androsace lactea (urinary troubles, diuretic; dropsy). Apis; Ars.; Merc. cor.Antidotes: Acon.; Camph.; Puls.", 
   "symptoms": {
-    "Stool": [
-      "SHIVERING WITH BURNING", 
-      "Nephritis with bloody urine", 
+    "Urine": [
+      "INTOLERABLE URGING and tenesmus", 
       "Intolerable tenesmus; cutting before, during, and after urine", 
-      "Bloody, with BURNING and TENESMUS AND SHUDDERING AFTER STOOL", 
       "CONSTANT DESIRE TO URINATE", 
-      "Dysentery; mucous stools, LIKE SCRAPPING OF INTESTINES", 
       "Membranous scales looking like bran in water", 
       "Violent paroxysms of cutting and burning in whole renal region, with painful urging to urinate; bloody urine, by DROPS", 
-      "INTOLERABLE URGING and tenesmus", 
+      "Nephritis with bloody urine", 
       "Urine jelly-like, shreddy", 
-      "URINE SCALDS HIM, AND IS PASSED DROP BY DROP", 
-      "Urine Section"
+      "URINE SCALDS HIM, AND IS PASSED DROP BY DROP"
+    ], 
+    "Stool": [
+      "SHIVERING WITH BURNING", 
+      "Bloody, with BURNING and TENESMUS AND SHUDDERING AFTER STOOL", 
+      "Dysentery; mucous stools, LIKE SCRAPPING OF INTESTINES"
     ], 
     "Chest": [
       "Short, hacking cough, blood-streaked TENACIOUS mucus", 
@@ -72,11 +73,11 @@
       "Pericarditis, with effusion"
     ], 
     "Modalities": [
-      "Better: rubbing", 
       "Worse: from touch", 
       "Worse: or approach", 
       "Worse: urinating", 
-      "Worse: drinking cold water or coffee"
+      "Worse: drinking cold water or coffee", 
+      "Better: rubbing"
     ], 
     "Mind": [
       "Paroxysms of rage, crying, barking", 

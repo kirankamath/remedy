@@ -15,10 +15,10 @@
     ], 
     "Relationship": "", 
     "Modalities": [
-      "Better: after rising", 
-      "Better: and walking about", 
       "Worse: after sleep", 
-      "Worse: sudden motion"
+      "Worse: sudden motion", 
+      "Better: after rising", 
+      "Better: and walking about"
     ], 
     "Abdomen": [
       "Spleen affections", 

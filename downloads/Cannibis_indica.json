@@ -3,32 +3,6 @@
     "Hashish"
   ], 
   "symptoms": {
-    "Heart": [
-      "Piercing pain, with great oppression", 
-      "Palpitation awakes him", 
-      "PULSE VERY SLOW"
-    ], 
-    "Eyes": [
-      "Fixed", 
-      "Spectral illusions without terror", 
-      "Clairvoyance", 
-      "Letters run together when reading"
-    ], 
-    "Respiratory": [
-      "Chest oppressed with deep, labored breathing", 
-      "Humid asthma"
-    ], 
-    "Stomach": [
-      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
-      "Pain at cardiac orifice; better, pressure", 
-      "Pyloric spasm", 
-      "Increased appetite", 
-      "Distention"
-    ], 
-    "Modalities": [
-      "Worse: morning; from coffee", 
-      "Worse: liquor and tobacco; lying on right side"
-    ], 
     "Mind": [
       "Mania, must constantly move", 
       "Cannot realize her identity, chronic vertigo as of floating off", 
@@ -42,6 +16,26 @@
       "TIME SEEMS TOO LONG; SECONDS SEEM AGES; A FEW RODS AN IMMENSE DISTANCE", 
       "Delirium tremens", 
       "Emotional excitement; rapid change of mood"
+    ], 
+    "Eyes": [
+      "Fixed", 
+      "Spectral illusions without terror", 
+      "Clairvoyance", 
+      "Letters run together when reading"
+    ], 
+    "Stomach": [
+      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
+      "Pain at cardiac orifice; better, pressure", 
+      "Pyloric spasm", 
+      "Increased appetite", 
+      "Distention"
+    ], 
+    "Rectum": [
+      "Sensation in anus as if sitting on a ball"
+    ], 
+    "Respiratory": [
+      "Chest oppressed with deep, labored breathing", 
+      "Humid asthma"
     ], 
     "Head": [
       "Shocks through brain", 
@@ -59,6 +53,34 @@
       "Mouth and lips dry", 
       "Expression drowsy and stupid"
     ], 
+    "Male": [
+      "Chordee", 
+      "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
+      "Satyriasis", 
+      "Oozing of white, glairy mucus from glans", 
+      "After sexual intercourse, BACKACHE", 
+      "Prolonged thrill"
+    ], 
+    "Ears": [
+      "Extreme sensitiveness to noise", 
+      "Noise like boiling water", 
+      "Throbbing, buzzing, and ringing"
+    ], 
+    "Heart": [
+      "Piercing pain, with great oppression", 
+      "Palpitation awakes him", 
+      "PULSE VERY SLOW"
+    ], 
+    "Modalities": [
+      "Worse: morning; from coffee", 
+      "Worse: liquor and tobacco; lying on right side"
+    ], 
+    "Urine": [
+      "Urine loaded with slimy mucus", 
+      "Stitches and burning in urethra", 
+      "Dull pain in region of right kidney", 
+      "Must strain; DRIBBLING; has to wait some time before the urine flows"
+    ], 
     "Sleep": [
       "Obstinate and intractable forms of insomnia", 
       "Nightmare", 
@@ -73,34 +95,13 @@
       "Uterine colic, with great nervous agitation and sleeplessness", 
       "Sterility"
     ], 
-    "Rectum": [
-      "Stitches and burning in urethra", 
-      "Dull pain in region of right kidney", 
-      "Urine loaded with slimy mucus", 
-      "Must strain; DRIBBLING; has to wait some time before the urine flows", 
-      "Sensation in anus as if sitting on a ball", 
-      "Urinary Organs"
-    ], 
     "Extremities": [
       "Pain in soles and calves; sharp pains in knees and ankles; VERY EXHAUSTED AFTER A SHORT WALK", 
       "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
       "Thrilling through arms and hands, and from knees down", 
       "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT"
     ], 
-    "Male": [
-      "Chordee", 
-      "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
-      "Satyriasis", 
-      "Oozing of white, glairy mucus from glans", 
-      "After sexual intercourse, BACKACHE", 
-      "Prolonged thrill"
-    ], 
-    "dosage": "", 
-    "Ears": [
-      "Extreme sensitiveness to noise", 
-      "Noise like boiling water", 
-      "Throbbing, buzzing, and ringing"
-    ]
+    "dosage": ""
   }, 
   "name": "Cannibis indica", 
   "Relationship": "Bellad.; Hyoscy.; Stram.; Laches.; Agaric.; Anhalonium (time sense disordered; time periods enormously overestimated; thus, minutes seem hours, etc.).", 

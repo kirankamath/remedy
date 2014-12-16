@@ -2,6 +2,10 @@
   "name": "Lathyrus", 
   "Relationship": "Compare: OXYTROP.; SECALE; PETIVERIA, a South American plant. (Paralysis; paraplegia with numbness. Sensation of internal coldness.) AGROSTEMA GITHAGO - Corn-cockle - (Burning sensation in stomach, through oesophagus into throat, in lower abdomen and anus; nausea, bitter vomiting, impaired locomotion; difficulty in remaining erect; vertigo and HEADACHE, BURNING FROM LOWER JAW TO VERTEX).", 
   "symptoms": {
+    "Urine": [
+      "Frequent, must hurry, else voided involuntarily", 
+      "Increased bladder reflex"
+    ], 
     "Mind": [
       "Depressed; hypochondriacal", 
       "Vertigo when standing with eyes closed"
@@ -13,18 +17,15 @@
       "Legs blue; swollen, if hanging down", 
       "Rheumatic paralysis", 
       "Gluteal muscles and lower limbs emaciated", 
-      "Frequent, must hurry, else voided involuntarily", 
+      "Knees knock against each other when walking", 
       "Myelitis, with marked spastic symptoms", 
       "Tips of fingers numbs", 
       "Muscles of calves very tense", 
       "Cramps in legs worse cold, and cold feet", 
       "Patient sits bent forward, straightens up with difficulty", 
       "Excessive rigidity of legs; spastic gait", 
-      "Stiffness and lameness of ankles and knees, toes do not leave the floor, heels do not touch floor", 
       "Tremulous, tottering gait", 
-      "Increased bladder reflex", 
-      "Urine Section", 
-      "Knees knock against each other when walking", 
+      "Stiffness and lameness of ankles and knees, toes do not leave the floor, heels do not touch floor", 
       "Cannot extend or cross legs when sitting"
     ]
   }, 

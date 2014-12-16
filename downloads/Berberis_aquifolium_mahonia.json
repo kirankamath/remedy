@@ -9,16 +9,12 @@
       "Scald head"
     ], 
     "Stomach": [
-      "Stitching, crampy pains; thick mucus, and bright-red, mealy sediment", 
       "Tongue thickly coated, yellowish-brown; feels blistered", 
       "Nausea and hunger after eating", 
-      "Urine Section", 
       "Burning in stomach"
     ], 
-    "Face": [
-      "Clears the complexion", 
-      "Acne", 
-      "Blotches and pimples"
+    "Urine": [
+      "Stitching, crampy pains; thick mucus, and bright-red, mealy sediment"
     ], 
     "Skin": [
       "Psoriasis", 
@@ -29,6 +25,11 @@
       "Tumor of breast, with pain", 
       "PIMPLY, DRY, ROUGH, SCALY", 
       "Pruritis"
+    ], 
+    "Face": [
+      "Clears the complexion", 
+      "Acne", 
+      "Blotches and pimples"
     ]
   }, 
   "details": "A remedy for the skins, chronic catarrhal affections, secondary syphilis. Hepatic torpor, lassitude and other evidences of incomplete metamorphosis; stimulates all glands and improves nutrition.", 

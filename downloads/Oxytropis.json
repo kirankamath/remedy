@@ -10,10 +10,19 @@
       "Epigastrium tender", 
       "Eructations with colicky pains"
     ], 
+    "Rectum": [
+      "Sphincter seems relaxed", 
+      "Stools slip from anus, like LUMPS OF JELLY, mushy"
+    ], 
+    "Urine": [
+      "Urging to urinate when thinking of it", 
+      "Pain in kidneys", 
+      "PROFUSE FLOW"
+    ], 
     "Modalities": [
       "Worse: thinking of symptoms", 
-      "Better: after sleep", 
-      "Worse: every other day"
+      "Worse: every other day", 
+      "Better: after sleep"
     ], 
     "Mind": [
       "Disinclined to work or talk", 
@@ -31,14 +40,6 @@
     ], 
     "Sleep": [
       "Restless, dreams of quarrel"
-    ], 
-    "Rectum": [
-      "Sphincter seems relaxed", 
-      "Urine Section", 
-      "Urging to urinate when thinking of it", 
-      "Pain in kidneys", 
-      "PROFUSE FLOW", 
-      "Stools slip from anus, like LUMPS OF JELLY, mushy"
     ], 
     "Extremities": [
       "Pain along ulnar nerve", 

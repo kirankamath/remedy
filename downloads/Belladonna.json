@@ -2,6 +2,17 @@
   "name": "Belladonna", 
   "Relationship": "Antidotes to Belladonna: Camph.; Coff.; Opium, Acon.Complementary: Calc. Bellad. (Contains lime). Especially in semi-chronic and constitutional diseases.Compare: Sanguisorba officinalis 2x - 6x, a member of the Rosaceae family, (Profuse, long-lasting menses, especially in nervous patients with congestive symptoms to head and limbs. Passive Hemorrhages at climacteric. Chronic metritis. Hemorrhage from lungs. Varices and ulcers). Mandragora - (Mandrake). A narcotic of the ancients - Restless excitability and bodily weakness. Desire for sleep. Has antiperiodic properties like China and Aranea. Useful in epilepsy and hydrophobia, also Cetonia (A. E. alvine). Hyos. (less fever, more agitation); Stram. (more sensorial excitement, frenzy); Hoitzia - A Mexican drug, similar in action to Bellad. (Useful in fever, scarlatinal eruption, measles, urticaria, etc. High fever with eruptive fevers. Dry mouth and throat, red face, injected eyes, delirium.) Calcar is often required after Bell.; Atropia. Alkaloid of Belladonna covers more the neurotic sphere of the Belladonna action. (Great dryness of throat, almost impossible to swallow. Chronic stomach affections, with great pain and vomiting of all food. Peritonitis. All kinds of illusions of sight. Everything appears large. Platina opposite.) Hypochlorhydria; pyrosis. Motes over everything. On reading, words run together; double vision, all objects seem to be elongated. Eustachian tube and tympanic congestion. Affinity for the pancreas. Hyperacidity of stomach. Paroxysms of gastric pain; ovarian neuralgia.Incompatible: Acet-ac.", 
   "symptoms": {
+    "Urine": [
+      "Incontinence, continuous dropping", 
+      "Sensation of motion in bladder as of a worm", 
+      "Vesical region sensitive", 
+      "Acute urinary infections", 
+      "FREQUENT AND PROFUSE", 
+      "Hematuria where no pathological condition can be found", 
+      "Prostatic hypertrophy", 
+      "Urine scanty, with tenesmus; DARK AND TURBID, loaded with phosphates", 
+      "RETENTION"
+    ], 
     "Head": [
       "Boring of head into pillow; drawn backward and rolls from side to side", 
       "Constant moaning", 
@@ -40,25 +51,15 @@
     ], 
     "Abdomen": [
       "Tender, swollen", 
-      "Incontinence, continuous dropping", 
+      "Shuddering during stool", 
       "Cutting pain across; stitches in left side of abdomen, when coughing, sneezing, or touching it", 
       "Piles more sensitive with backache", 
-      "Prostatic hypertrophy", 
-      "Sensation of motion in bladder as of a worm", 
-      "Acute urinary infections", 
-      "Vesical region sensitive", 
-      "Extreme sensitiveness to touch, bed-clothes, etc. RETENTION", 
-      "Shuddering during stool", 
       "Stools", 
       "Distended, hot", 
-      "FREQUENT AND PROFUSE", 
-      "Thin, green, dysenteric; in lumps like chalk", 
-      "Hematuria where no pathological condition can be found", 
-      "Transverse colon protrudes like a pad", 
       "Stinging pain in rectum; spasmodic stricture", 
-      "Urine scanty, with tenesmus; DARK AND TURBID, loaded with phosphates", 
       "Prolapsus ani", 
-      "Urine Section", 
+      "Extreme sensitiveness to touch, bed-clothes, etc. Thin, green, dysenteric; in lumps like chalk", 
+      "Transverse colon protrudes like a pad", 
       "Pain as if clutched by a hand; worse, jar, pressure"
     ], 
     "Mouth": [

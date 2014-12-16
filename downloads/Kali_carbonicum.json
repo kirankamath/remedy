@@ -2,14 +2,15 @@
   "name": "Kali carbonicum", 
   "Relationship": "Antidotes: CAMPH.; COFFEA.Complementary: CARBO; (Lowness of vitality may suggest a preliminary course of Carbo to nurse up recuperation to the point that Kali-carb. would come in helpfully.) Follows NUX often in stomach and bladder troubles.Compare: KALI SALICYLICUM (vomiting, especially of pregnancy; arteriosclerosis, with chronic rheumatism); KALI SILICUM (gouty nodosities); KALI ACETICUM (diabetes, diarrhoea, dropsy, alkaline urine, very much increased in quantity); KALI CITRICUM (Bright's disease - 1 gr. to wine-glass of water); KALI FERROCYANATUM - Prussian blue - (physical and mental prostration following infection. Inability to sustained routine work. Neuralgic affections depending on impoverished blood and exhausted nerve centers, especially spinal. Fatty and functional heart troubles. Pulse weak, small, irregular. Uterine symptoms, like Sepia, bearing-down sensation and gastric sinking; profuse, pus-like leucorrhoea and passive hemorrhage); use 6x); KALI OXALICUM (lumbago, convulsions); KALI PICRO-NITRICUM and KALI PICRICUM (jaundice, violent eructations); KALI TARTARICUM (paraplegia); KALI TELLURICUM (garlicky odor of breath, salivation, swollen tongue). Also compare: CALC.; AMMON. PHOS.; LYCOP.; BRY.; NATRUM; STANN.; SEPIA.", 
   "symptoms": {
-    "Stool": [
-      "Hematuria; diuresis", 
-      "Nucleo-albumin and bile, high Phosphoric acid, with low total solids", 
-      "Involuntary urination when coughing, sneezing, etc.Diarrhoea; profuse, greenish mucus", 
-      "Obliged to rise several times at night to urinate", 
+    "Urine": [
       "Pressure on bladder long before urine comes", 
-      "Albuminuria, scanty, suppressed", 
-      "Urine Section"
+      "Nucleo-albumin and bile, high Phosphoric acid, with low total solids", 
+      "Involuntary urination when coughing, sneezing, etc.Albuminuria, scanty, suppressed", 
+      "Hematuria; diuresis", 
+      "Obliged to rise several times at night to urinate"
+    ], 
+    "Stool": [
+      "Diarrhoea; profuse, greenish mucus"
     ], 
     "Head": [
       "Headache FROM RIDING IN COLD WIND", 

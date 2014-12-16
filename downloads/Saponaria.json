@@ -7,14 +7,14 @@
       "Palpitation with anxiety", 
       "Impulse weak; pulse less frequent"
     ], 
-    "Eyes": [
-      "Ciliary neuralgia; worse, left side", 
-      "Photophobia", 
-      "Glaucoma", 
-      "Increased intraocular pressure", 
-      "Violent eye pains", 
-      "Hot stitches deep in eyeball", 
-      "Exophthalmos, worse reading and writing"
+    "Head": [
+      "Throbbing over orbits", 
+      "Congestions to head; tired feeling in nape", 
+      "Left-sided trigeminal neuralgia, especially supraorbital", 
+      "Stitching pain, SUPRAORBITAL; worse, left side, evening, motion", 
+      "Stopped up feeling in nose, also itching and sneezing", 
+      "CORYZA", 
+      "Sensation of drunkenness with constant endeavor to go left-wards"
     ], 
     "Stomach": [
       "Difficult swallowing", 
@@ -29,14 +29,14 @@
       "Apathetic, DEPRESSED, WITH SLEEPINESS", 
       "Utter indifference to pain or possible death"
     ], 
-    "Head": [
-      "Throbbing over orbits", 
-      "Congestions to head; tired feeling in nape", 
-      "Left-sided trigeminal neuralgia, especially supraorbital", 
-      "Stitching pain, SUPRAORBITAL; worse, left side, evening, motion", 
-      "Stopped up feeling in nose, also itching and sneezing", 
-      "CORYZA", 
-      "Sensation of drunkenness with constant endeavor to go left-wards"
+    "Eyes": [
+      "Ciliary neuralgia; worse, left side", 
+      "Photophobia", 
+      "Glaucoma", 
+      "Increased intraocular pressure", 
+      "Violent eye pains", 
+      "Hot stitches deep in eyeball", 
+      "Exophthalmos, worse reading and writing"
     ]
   }, 
   "name": "Saponaria", 

@@ -18,24 +18,28 @@
     "Stomach": [
       "Sensation AS IF WATER WERE IN STOMACH; of coldness, of constriction, and of burning; better, eructations"
     ], 
-    "Female": [
-      "EARLY AND SCANT MENSTRUATION; flow black"
+    "Head": [
+      "Malar bones feel pulled forcibly upward", 
+      "Itching, burning vesicles; better, friction", 
+      "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing", 
+      "Migraine with polyuria"
     ], 
     "Modalities": [
       "Worse: after eating", 
-      "Worse: from 2 to nine PMBETTER", 
-      "Worse: by rubbing", 
-      "Worse: eructation", 
-      "Worse: open air"
+      "Worse: from 2 to nine PM", 
+      "Better: by rubbing", 
+      "Better: eructation", 
+      "Better: open air"
+    ], 
+    "Urine": [
+      "Itching in urethra", 
+      "POLYURIA", 
+      "Greenish urine, frequent and urgent want to urinate, with tenesmus and scanty emission"
     ], 
     "Abdomen": [
-      "Itching in urethra", 
       "After stool, bruised pain in abdomen", 
       "Ineffectual urging to stool, with burning in anus", 
-      "Flatulence and rumbling", 
-      "POLYURIA", 
-      "Greenish urine, frequent and urgent want to urinate, with tenesmus and scanty emission", 
-      "Urine Section"
+      "Flatulence and rumbling"
     ], 
     "Face": [
       "Feels drawn", 
@@ -44,23 +48,20 @@
       "Malar bone feels pulled upward", 
       "Toothache, BETTER PRESSING TEETH TOGETHER"
     ], 
-    "Mouth": [
-      "Greasy feeling in mouth", 
-      "Tongue feels sore", 
-      "Bites cheek while eating"
-    ], 
     "Nose": [
       "Watery, excoriating discharge; worse in open air"
     ], 
-    "Head": [
-      "Malar bones feel pulled forcibly upward", 
-      "Itching, burning vesicles; better, friction", 
-      "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing", 
-      "Migraine with polyuria"
+    "Female": [
+      "EARLY AND SCANT MENSTRUATION; flow black"
     ], 
     "Throat": [
       "Air feels cold", 
       "Sore, dry, constricted"
+    ], 
+    "Mouth": [
+      "Greasy feeling in mouth", 
+      "Tongue feels sore", 
+      "Bites cheek while eating"
     ], 
     "Extremities": [
       "Restlessness", 

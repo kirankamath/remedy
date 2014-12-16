@@ -2,11 +2,6 @@
   "name": "Benzoicum  acidum", 
   "Relationship": "Useful after Colchic. fails in gout; after Copaiva in gonorrhea.Compare: Nitric acid; Ammon. benz.; Sabina; Tropoeleum - Garden Nasturtium - (fetid urine).Antidote: Copaiva.Incompatible: Wine.", 
   "symptoms": {
-    "Rectum": [
-      "Puckering constriction of rectum", 
-      "Itching and watery elevations around anus", 
-      "Stitches and CONSTRICTED feeling"
-    ], 
     "Head": [
       "Ulceration of tongue", 
       "Noises when swallowing", 
@@ -25,22 +20,28 @@
     "Stomach": [
       "Sweat while eating; pressure in stomach, sensation of a lump"
     ], 
-    "Modalities": [
-      "Worse: in open air; by uncovering"
+    "Urine": [
+      "Vesical catarrh from suppressed gonorrhea", 
+      "Excess of uric acid", 
+      "Cystitis", 
+      "REPULSIVE ODOR; changeable color; brown, acid", 
+      "ENURESIS; dribbling, OFFENSIVE URINE OF OLD MEN"
+    ], 
+    "Rectum": [
+      "Puckering constriction of rectum", 
+      "Itching and watery elevations around anus", 
+      "Stitches and CONSTRICTED feeling"
     ], 
     "Mind": [
       "Omits words in writing", 
       "Prone to dwell on unpleasant things in the past", 
       "Depression"
     ], 
+    "Modalities": [
+      "Worse: in open air; by uncovering"
+    ], 
     "Stool": [
-      "Vesical catarrh from suppressed gonorrhea", 
-      "REPULSIVE ODOR; changeable color; brown, acid", 
-      "Frothy, OFFENSIVE, LIQUID, light-colored, like soapsuds, bowel movements mostly windy", 
-      "ENURESIS; dribbling, OFFENSIVE URINE OF OLD MEN", 
-      "Cystitis", 
-      "Excess of uric acid", 
-      "Urine Section"
+      "Frothy, OFFENSIVE, LIQUID, light-colored, like soapsuds, bowel movements mostly windy"
     ], 
     "Back": [
       "Pressure on spinal column", 

@@ -12,11 +12,19 @@
       "Constant nausea; relieved by eating", 
       "NO appetite"
     ], 
+    "Rectum": [
+      "Stools large and hard, with cutting in rectum and soreness of anus"
+    ], 
     "Modalities": [
       "Worse: lying on affected side", 
       "Worse: in warm room", 
       "Worse: evening and night", 
       "Better: in open air and resting"
+    ], 
+    "Urine": [
+      "Copious, pale, light-colored urine", 
+      "Cannot hold water on coughing or walking", 
+      "Frequent urging"
     ], 
     "Abdomen": [
       "Tender to pressure about umbilicus", 
@@ -24,21 +32,14 @@
     ], 
     "Female": [
       "Bearing-down pains before", 
-      "Cannot hold water on coughing or walking", 
       "Leucorrhoea, excoriating", 
       "Pains from back to loins and womb worse early morning", 
-      "Copious, pale, light-colored urine", 
       "Faint on attempting to sit up", 
       "Menses TOO LATE, SCANTY, LASTING A FEW HOURS, offensive in odor, with crampy pains, cramps extend down thighs", 
       "Ovarian region feels heavy and congested", 
-      "Urinary Organs", 
       "Smarting and itching of genitals", 
       "Aching in sacrum and pubes, with pain in anterior muscles of thighs ; SPASMODIC AND MEMBRANOUS DYSMENORRHEA", 
-      "FREQUENT AND VERY EARLY MISCARRIAGE, causing seeming sterility", 
-      "Frequent urging"
-    ], 
-    "Rectum": [
-      "Stools large and hard, with cutting in rectum and soreness of anus"
+      "FREQUENT AND VERY EARLY MISCARRIAGE, causing seeming sterility"
     ], 
     "Extremities": [
       "Lower extremities weak and heavy", 

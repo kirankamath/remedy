@@ -12,11 +12,12 @@
       "Persistent pressure in cardiac orifice", 
       "Vomiting"
     ], 
-    "Abdomen": [
+    "Urine": [
       "TENESMUS OF BLADDER AND RECTUM, with absence of stool and urine", 
-      "Cutting, burning in urethra", 
-      "Distended; METEORISM; VERY SEVERE COLIC", 
-      "Urine Section"
+      "Cutting, burning in urethra"
+    ], 
+    "Abdomen": [
+      "Distended; METEORISM; VERY SEVERE COLIC"
     ], 
     "dosage": ""
   }, 

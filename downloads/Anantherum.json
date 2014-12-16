@@ -3,20 +3,21 @@
   "Relationship": "Compare: Staphisag.; Mercur.; Thuja.", 
   "symptoms": {
     "Head": [
-      "Pains pierce brain like pointed arrows; worse in afternoon", 
       "Boils and tumors on tip of nose", 
-      "Involuntary", 
-      "Tongue fissured, as if cut on edges; copious salivation", 
-      "Bladder cannot hold smallest quantity", 
-      "Herpes, ulcers, and tumors on scalp", 
+      "Pains pierce brain like pointed arrows; worse in afternoon", 
       "Wart like growth on eyebrows", 
+      "Tongue fissured, as if cut on edges; copious salivation", 
+      "Herpes, ulcers, and tumors on scalp"
+    ], 
+    "Urine": [
+      "Involuntary", 
+      "Sexual organs", 
+      "Bladder cannot hold smallest quantity", 
       "Scirrhus-like swelling of cervix", 
       "CONSTANT URGING", 
       "Turbid, thick, full of mucus", 
       "Chancre-like sores", 
-      "Sexual organs", 
       "Breasts swollen, indurated, nipples excoriated", 
-      "Urine Section", 
       "Cystitis"
     ], 
     "Skin": [

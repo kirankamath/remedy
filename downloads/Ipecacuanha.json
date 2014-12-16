@@ -36,11 +36,9 @@
       "Mouth, moist; MUCH SALIVA", 
       "Stomach feels relaxed, as if hanging down"
     ], 
-    "Female": [
-      "Uterine hemorrhage, PROFUSE, BRIGHT, GUSHING, WITH NAUSEA", 
-      "PAIN FROM NAVEL TO UTERUS", 
-      "Vomiting during pregnancy", 
-      "Menses too early and too profuse"
+    "Head": [
+      "Pain extends to teeth and root of tongue", 
+      "Bones of skull feel crushed or bruised"
     ], 
     "Modalities": [
       "Worse: periodically; from veal", 
@@ -76,9 +74,11 @@
       "Epistaxis", 
       "Coryza, with stoppage of nose and nausea"
     ], 
-    "Head": [
-      "Pain extends to teeth and root of tongue", 
-      "Bones of skull feel crushed or bruised"
+    "Female": [
+      "Uterine hemorrhage, PROFUSE, BRIGHT, GUSHING, WITH NAUSEA", 
+      "PAIN FROM NAVEL TO UTERUS", 
+      "Vomiting during pregnancy", 
+      "Menses too early and too profuse"
     ], 
     "Skin": [
       "Pale, lax", 

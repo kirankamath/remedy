@@ -13,6 +13,11 @@
       "Increased thirst", 
       "He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon"
     ], 
+    "Urine": [
+      "Polyuria", 
+      "Increased elimination of urea, indican and phosphates", 
+      "Kidneys inactive; frequent urging to urinate"
+    ], 
     "Mind": [
       "e", 
       "Dull, drowsy, stupid ; gloomy and irritable, worse during evening", 
@@ -21,12 +26,8 @@
     ], 
     "Abdomen": [
       "Chronic appendicitis", 
-      "Shifting, flatulent pain along colon several hours after meals", 
-      "Kidneys inactive; frequent urging to urinate", 
-      "Increased elimination of urea, indican and phosphates", 
-      "Polyuria", 
       "Flatulence with distention", 
-      "Urine Section", 
+      "Shifting, flatulent pain along colon several hours after meals", 
       "Frequent loose, yellow, painful stools, with burning of flatulence"
     ], 
     "Sleep": [

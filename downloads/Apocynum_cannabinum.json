@@ -22,21 +22,21 @@
       "Sensation of sinking in stomach", 
       "Oppression in epigastrium and chest, impeding breathing"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Dribbling", 
+      "Bladder much distended", 
+      "Strangury", 
+      "Little expulsive power", 
+      "Turbid, hot urine, with thick mucus and burning in urethra, after urinating", 
+      "RENAL DROPSY"
+    ], 
     "Mind": [
       "Bewildered", 
       "Low spirited"
     ], 
     "Stool": [
       "Feeling as if sphincter were open and stools ran right out", 
-      "Dribbling", 
-      "RENAL DROPSY", 
-      "Strangury", 
-      "WATERY, flatulent, with soreness in anus; worse after eating", 
-      "Bladder much distended", 
-      "Turbid, hot urine, with thick mucus and burning in urethra, after urinating", 
-      "Little expulsive power", 
-      "Urine Section"
+      "WATERY, flatulent, with soreness in anus; worse after eating"
     ], 
     "Sleep": [
       "Great restlessness and little sleep"

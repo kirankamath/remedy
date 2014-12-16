@@ -18,6 +18,33 @@
       "Tongue feels burnt", 
       "Thirst"
     ], 
+    "Head": [
+      "Feeling as of a bolt from temple to temple", 
+      "Fullness, followed by epistaxis", 
+      "Numbness over frontal bone", 
+      "Wants the respect due to me shown"
+    ], 
+    "Urine": [
+      "Hematuria, with increased desire"
+    ], 
+    "Modalities": [
+      "Worse: warm", 
+      "Worse: moist air"
+    ], 
+    "Stool": [
+      "Anus feels sore and raw", 
+      "Dysentery", 
+      "HEMORRHOIDS, BLEEDING PROFUSELY, WITH SORENESS", 
+      "Pulsation in rectum"
+    ], 
+    "Back": [
+      "Sore pain down cervical vertebrae", 
+      "Severe pain in lumbar and hypogastric region, extending down legs"
+    ], 
+    "Nose": [
+      "Bad odor from nose", 
+      "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose"
+    ], 
     "Female": [
       "METRORRHAGIA, OCCURRING MIDWAY BETWEEN MENSTRUAL PERIODS", 
       "Menses DARK, PROFUSE, WITH SORENESS IN ABDOMEN", 
@@ -32,32 +59,6 @@
       "Metrorrhagia; passive flow", 
       "Phlegmasia alba", 
       "Intermenstrual pain"
-    ], 
-    "Modalities": [
-      "Worse: warm", 
-      "Worse: moist air"
-    ], 
-    "Stool": [
-      "Hematuria, with increased desire", 
-      "Pulsation in rectum", 
-      "Dysentery", 
-      "Anus feels sore and raw", 
-      "HEMORRHOIDS, BLEEDING PROFUSELY, WITH SORENESS", 
-      "Urine Section"
-    ], 
-    "Back": [
-      "Sore pain down cervical vertebrae", 
-      "Severe pain in lumbar and hypogastric region, extending down legs"
-    ], 
-    "Nose": [
-      "Bad odor from nose", 
-      "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose"
-    ], 
-    "Head": [
-      "Feeling as of a bolt from temple to temple", 
-      "Fullness, followed by epistaxis", 
-      "Numbness over frontal bone", 
-      "Wants the respect due to me shown"
     ], 
     "Skin": [
       "Ecchymosis", 

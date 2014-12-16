@@ -3,21 +3,27 @@
   "Relationship": "Compare: RHUS AROM.; CAUST.; PLATIN.; SPHINGURUS (pain in zygoma).", 
   "symptoms": {
     "Respiratory": [
-      "Burning urination", 
+      "Cough; worse at night", 
       "Asthma", 
       "HOARSE; voice deep, harsh; sounds like a trumpet; basso profundo", 
-      "Soreness in pharynx, cough during sleep", 
-      "Increase with pressure in bladder", 
-      "Cough; worse at night", 
-      "ENURESIS", 
-      "Constant dribbling", 
-      "Urinary Organs"
+      "Soreness in pharynx, cough during sleep"
+    ], 
+    "Rectum": [
+      "Inflamed and painful piles", 
+      "Hemorrhoids, with obstructed, hardened stool", 
+      "Many movements a day, with twisting about navel"
     ], 
     "Modalities": [
       "Worse: change of temperature", 
       "Worse: talking", 
       "Worse: sneezing", 
       "Worse: biting hard ; from nine AM to four PM"
+    ], 
+    "Urine": [
+      "Increase with pressure in bladder", 
+      "Burning urination", 
+      "ENURESIS", 
+      "Constant dribbling"
     ], 
     "Abdomen": [
       "Pain extends deep down, causing contraction of sphincter ani"
@@ -26,11 +32,6 @@
       "Neuralgia affecting zygoma, temporomaxillary joint, and ear , particularly of left side, with lachrymation, coryza, and sensation AS IF PARTS WERE CRUSHED WITH TONGS", 
       "Pains seem to come in flashes, excited by least movement, occurring periodically at same hour in morning and afternoon each day", 
       "Talking, sneezing, and change of temperature aggravate the pains; also, pressing teeth together"
-    ], 
-    "Rectum": [
-      "Inflamed and painful piles", 
-      "Hemorrhoids, with obstructed, hardened stool", 
-      "Many movements a day, with twisting about navel"
     ], 
     "Extremities": [
       "Cramp-like pain in soles, right foot, and knee", 

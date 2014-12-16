@@ -3,14 +3,15 @@
     "Pukapuka"
   ], 
   "symptoms": {
-    "Abdomen": [
-      "Feeling as if something rolling about", 
-      "Sense of swishing in bladder", 
+    "Urine": [
       "Soreness in urethra; feeling as if urine could not be retained", 
       "Pressure in neck of bladder; urging to urinate", 
-      "Urinary Organs", 
-      "Fluttering in region of ovary", 
+      "Sense of swishing in bladder", 
       "Urine contains mucous corpuscles and epithelium, albumen and casts"
+    ], 
+    "Abdomen": [
+      "Feeling as if something rolling about", 
+      "Fluttering in region of ovary"
     ], 
     "Extremities": [
       "Cramp in fingers, thumb, and wrist when writing - soreness extending along flexor carpi ulnaris"

@@ -2,6 +2,16 @@
   "name": "Cina", 
   "Relationship": "Antidote; CAMPH.; CAPS.Compare: SANTONIN - (often preferable in worm affections; same symptoms as Cina; corresponding to the pain in shocks produced by Cina. Visual illusions, YELLOW sight; violent light not recognized, colors not distinguishable. Urine deep saffron color. Spasms and twitchings, chronic gastric and intestinal troubles sometimes removed by a single dose (physiological) of Santonin. (Dahlke.) HELMINTHOCHORTOS - Worm-moss (acts very powerfully on intestinal worms, especially the lumbricoid.) TEUCRIUM; IGNAT.; CHAM.; SPIG.", 
   "symptoms": {
+    "Mind": [
+      "Ill-humor", 
+      "Desires many things, but rejects everything offered", 
+      "Abnormal consciousness, as if having committed some evil deed", 
+      "Child VERY CROSS; does not want to be touched, or crossed, or carried"
+    ], 
+    "Stool": [
+      "ITCHING OF ANUS  Worms", 
+      "White mucus, like small pieces of popped corn, preceded by pinching colic"
+    ], 
     "Eyes": [
       "Eyestrain, especially when presbyopia sets in", 
       "Weak sight from masturbation", 
@@ -25,40 +35,9 @@
       "Epigastric pain; worse, first waking in morning and before meals", 
       "HUNGRY, digging, gnawing sensation"
     ], 
-    "Female": [
-      "Uterine hemorrhage before puberty"
-    ], 
-    "Modalities": [
-      "Worse: looking fixedly at an object", 
-      "Worse: from worms", 
-      "Worse: at night", 
-      "Worse: in sun", 
-      "Worse: in summer"
-    ], 
-    "Mind": [
-      "Ill-humor", 
-      "Desires many things, but rejects everything offered", 
-      "Abnormal consciousness, as if having committed some evil deed", 
-      "Child VERY CROSS; does not want to be touched, or crossed, or carried"
-    ], 
-    "Stool": [
-      "ITCHING OF ANUS  Worms", 
-      "Involuntary at night", 
-      "White mucus, like small pieces of popped corn, preceded by pinching colic", 
-      "Urine Section", 
-      "Turbid, white; turns milky on standing"
-    ], 
     "Abdomen": [
       "Bloated and hard abdomen", 
       "TWISTING PAIN ABOUT NAVEL"
-    ], 
-    "Face": [
-      "WHITE AND BLUISH ABOUT THE MOUTH", 
-      "Grits teeth during sleep", 
-      "PALE, hot, WITH DARK RINGS AROUND EYES", 
-      "Intense, circumscribed redness of cheeks", 
-      "Cold perspiration", 
-      "CHOREIC MOVEMENTS OF FACE and hands"
     ], 
     "Respiratory": [
       "Child is afraid to speak of move for fear of bringing on paroxysm of coughing", 
@@ -72,6 +51,38 @@
       "Violent recurring paroxysms, as of down in throat", 
       "Whooping-cough"
     ], 
+    "Head": [
+      "Headache, alternating with pain in abdomen", 
+      "Pain in head when using eyes", 
+      "Relieved by stooping"
+    ], 
+    "Face": [
+      "WHITE AND BLUISH ABOUT THE MOUTH", 
+      "Grits teeth during sleep", 
+      "PALE, hot, WITH DARK RINGS AROUND EYES", 
+      "Intense, circumscribed redness of cheeks", 
+      "Cold perspiration", 
+      "CHOREIC MOVEMENTS OF FACE and hands"
+    ], 
+    "Nose": [
+      "WANTS TO RUB IT and pick at it", 
+      "Itching of nose all the time", 
+      "BORES AT NOSE till it bleeds"
+    ], 
+    "Ears": [
+      "Digging and scratching in ears"
+    ], 
+    "Modalities": [
+      "Worse: looking fixedly at an object", 
+      "Worse: from worms", 
+      "Worse: at night", 
+      "Worse: in sun", 
+      "Worse: in summer"
+    ], 
+    "Urine": [
+      "Involuntary at night", 
+      "Turbid, white; turns milky on standing"
+    ], 
     "Sleep": [
       "Night terrors of children; cries out, screams, wakes frightened", 
       "Screams and talks in sleep", 
@@ -79,15 +90,8 @@
       "TROUBLES WHILE YAWNING", 
       "Grits teeth"
     ], 
-    "Nose": [
-      "WANTS TO RUB IT and pick at it", 
-      "Itching of nose all the time", 
-      "BORES AT NOSE till it bleeds"
-    ], 
-    "Head": [
-      "Headache, alternating with pain in abdomen", 
-      "Pain in head when using eyes", 
-      "Relieved by stooping"
+    "Female": [
+      "Uterine hemorrhage before puberty"
     ], 
     "Extremities": [
       "Paralyzed shocks; patient will jump suddenly, as though in pain", 
@@ -97,9 +101,6 @@
       "SUDDEN INWARD JERKING OF FINGERS OF RIGHT HAND", 
       "Child throws arms from side to side", 
       "TWITCHING and jerking distortion of limbs, trembling"
-    ], 
-    "Ears": [
-      "Digging and scratching in ears"
     ]
   }, 
   "details": "This is a children's remedy, - big, fat, rosy, scrofulous, corresponding to many conditions that may be referred to intestinal irritation, such as worms and accompanying complaints. An irritability of temper, variable appetite, grinding of teeth, and even convulsions, with screams and violent jerkings of the hands and feet, are all within its range of action. The Cina patient is hungry, cross, ugly, and wants to be rocked. PAIN IN SHOCKS. Skin sensitive to touch.", 

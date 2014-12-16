@@ -20,21 +20,22 @@
       "Nausea after abdominal operations", 
       "Stomach feels relaxed"
     ], 
-    "Female": [
+    "Head": [
+      "Brain feels squeezed", 
+      "Itching eruption above and behind ears", 
+      "Stupefying headache; passes off with yawning", 
+      "Sensation of a ball of lead in forehead"
+    ], 
+    "Urine": [
       "Pressure upon bladder; feels as if it did not empty", 
       "Cystitis in lying-in patients", 
       "SENSATION AS IF A DROP OF URINE WERE ROLLING CONTINUOUSLY ALONG THE CHANNEL", 
       "CYSTOCELE", 
-      "Prolapsus, with sinking in the abdomen; aching around the hips", 
       "Burning in urethra during micturition", 
       "Pain after lithotomy", 
-      "Prostatic troubles; frequent urination, burning in urethra WHEN NOT URINATING", 
       "Urging and pain AFTER urinating", 
-      "PARTS VERY SENSITIVE, worse sitting down", 
-      "IRRITABLE BLADDER IN YOUNG MARRIED WOMEN", 
-      "Ineffectual urging to urinate in NEWLY MARRIED women", 
-      "Leucorrhoea", 
-      "Urinary Organs"
+      "Prostatic troubles; frequent urination, burning in urethra WHEN NOT URINATING", 
+      "Ineffectual urging to urinate in NEWLY MARRIED women"
     ], 
     "Modalities": [
       "Better: after breakfast", 
@@ -58,19 +59,11 @@
       "Colic, with pelvic tenesmus", 
       "Incarcerated flatus"
     ], 
-    "Mouth": [
-      "TEETH BLACK AND CRUMBLING", 
-      "Toothache during menses", 
-      "Pyorrhoea", 
-      "Submaxillary glands swollen", 
-      "Salivation, spongy gums, bleed easily", 
-      "After eating feels sleepy"
-    ], 
-    "Head": [
-      "Brain feels squeezed", 
-      "Itching eruption above and behind ears", 
-      "Stupefying headache; passes off with yawning", 
-      "Sensation of a ball of lead in forehead"
+    "Female": [
+      "Leucorrhoea", 
+      "Prolapsus, with sinking in the abdomen; aching around the hips", 
+      "PARTS VERY SENSITIVE, worse sitting down", 
+      "IRRITABLE BLADDER IN YOUNG MARRIED WOMEN"
     ], 
     "Skin": [
       "Fig-warts pedunculated", 
@@ -81,6 +74,14 @@
     ], 
     "Throat": [
       "STITCHES FLYING TO THE EAR ON SWALLOWING, ESPECIALLY LEFT"
+    ], 
+    "Mouth": [
+      "TEETH BLACK AND CRUMBLING", 
+      "Toothache during menses", 
+      "Pyorrhoea", 
+      "Submaxillary glands swollen", 
+      "Salivation, spongy gums, bleed easily", 
+      "After eating feels sleepy"
     ], 
     "Extremities": [
       "Dull aching of nates extending to hip-joint and small of back", 

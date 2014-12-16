@@ -11,6 +11,10 @@
       "Canker, COPIOUS SALIVATION AND WATER-BRASH", 
       "NAUSEA, better, EATING"
     ], 
+    "Urine": [
+      "Large quantities passed, frequently", 
+      "Saccharine"
+    ], 
     "Chest": [
       "Pain in breasts, WITH ENLARGEMENT OF AXILLARY GLANDS, AND PAIN EXTENDS INTO HAND"
     ], 
@@ -20,11 +24,8 @@
       "Constricted low down"
     ], 
     "Extremities": [
-      "Large quantities passed, frequently", 
       "Limbs feel chilly", 
       "Rheumatic pain in joints and shoulders, wrists, KNEES, with much weakness", 
-      "Saccharine", 
-      "Urine Section", 
       "Trembling of whole body while walking"
     ]
   }, 

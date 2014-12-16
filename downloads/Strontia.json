@@ -15,13 +15,6 @@
       "Loss of appetite, aversion to meat, craves bread and beer", 
       "Eructations after eating"
     ], 
-    "Modalities": [], 
-    "Abdomen": [
-      "Sticking in abdominal ring", 
-      "Uncomfortable fullness and swelling of abdomen", 
-      "Diarrhoea; WORSE AT NIGHT; CONTINUOUS URGING; better towards morning", 
-      "Burning in anus lasts a long time after stool"
-    ], 
     "Head": [
       "Face red; burns, itches", 
       "Bloody crusts in nose", 
@@ -31,6 +24,12 @@
       "VERTIGO WITH HEADACHE AND NAUSEA", 
       "Itching, redness and burning of nose", 
       "Distensive pressure"
+    ], 
+    "Abdomen": [
+      "Sticking in abdominal ring", 
+      "Uncomfortable fullness and swelling of abdomen", 
+      "Diarrhoea; WORSE AT NIGHT; CONTINUOUS URGING; better towards morning", 
+      "Burning in anus lasts a long time after stool"
     ], 
     "Skin": [
       "SPRAINS OF ANKLE-JOINT, WITH EDEMA", 

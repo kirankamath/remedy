@@ -11,10 +11,11 @@
       "Fear of falling when standing up"
     ], 
     "Respiratory": [
-      "Urine smells strongly of violets", 
       "Weak voice", 
-      "Cough, with burning and prickling in respiratory tracts", 
-      "Urinary Organs"
+      "Cough, with burning and prickling in respiratory tracts"
+    ], 
+    "Urine": [
+      "Urine smells strongly of violets"
     ], 
     "Extremities": [
       "Burning in hollow of right hand", 

@@ -2,21 +2,21 @@
   "name": "Tilia europa", 
   "Relationship": "Compare: LILIUM; BELLAD.", 
   "symptoms": {
+    "Eyes": [
+      "Sensation as of gauze before eyes", 
+      "Binocular vision imperfect"
+    ], 
+    "Modalities": [
+      "Worse: in afternoon and evening; in warm room", 
+      "Worse: heat of bed", 
+      "Better: cool room", 
+      "Better: motion"
+    ], 
     "Head": [
       "Bleeding from nose", 
       "NEURALGIA , WITH VEIL BEFORE EYES", 
       "Much sneezing, with fluent coryza", 
       "Confusion, with dimness of vision"
-    ], 
-    "Modalities": [
-      "Better: cool room", 
-      "Better: motion", 
-      "Worse: in afternoon and evening; in warm room", 
-      "Worse: heat of bed"
-    ], 
-    "Eyes": [
-      "Sensation as of gauze before eyes", 
-      "Binocular vision imperfect"
     ], 
     "Female": [
       "Much slimy Leucorrhoea when walking", 

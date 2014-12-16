@@ -22,13 +22,18 @@
       "Constant retching", 
       "Nausea of pregnancy"
     ], 
-    "Female": [
-      "Desire for coitus", 
-      "Any touch on body excites a voluptuous sensation"
+    "Head": [
+      "Vertigo, with roaring in ears", 
+      "OVER-IRRITABILITY", 
+      "Restless", 
+      "Full and bursting headache, with heat in eyes", 
+      "Itching of scalp and nape", 
+      "Jerking of head forwards", 
+      "Scalp sore"
     ], 
     "Modalities": [
-      "Better: lying on back", 
-      "Worse: morning; touch; noise; motion; after meals"
+      "Worse: morning; touch; noise; motion; after meals", 
+      "Better: lying on back"
     ], 
     "Back": [
       "ICY SENSATION DOWN SPINE", 
@@ -46,14 +51,9 @@
       "Excessive dyspnoea", 
       "SPASM OF MUSCLES about larynx"
     ], 
-    "Head": [
-      "Vertigo, with roaring in ears", 
-      "OVER-IRRITABILITY", 
-      "Restless", 
-      "Full and bursting headache, with heat in eyes", 
-      "Itching of scalp and nape", 
-      "Jerking of head forwards", 
-      "Scalp sore"
+    "Female": [
+      "Desire for coitus", 
+      "Any touch on body excites a voluptuous sensation"
     ], 
     "Skin": [
       "Itching of whole body, especially nose", 

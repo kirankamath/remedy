@@ -2,6 +2,10 @@
   "name": "Natrum muriaticum", 
   "Relationship": "Antidotes: ARS.; PHOS.; SPIR. NIT. DULC.Compare: AQUA MARINA - Isotonic plasma. Marine plasma is a sea water taken some miles from shore and some depth below surface, filtered and diluted with twice as much pure fresh water. It acts primarily on the blood, as in intoxications, scrofulous conditions, enteritis. It disintoxicate in cancer (administered subcutaneously in the treatment of diseases of skin, kidneys and intestines, GASTROENTERITIS, AND TUBERCULOSIS). SCROFULOUS AFFECTIONS OF CHILDREN. Lymphadenitis. Lupus, eczema, varicose ulcers. A great blood purifier and vitalizer. Potentized sea-water in weakness, lack of reaction; symptoms worse seaside. Goitre.) SAL MARINUM sea salt, (indicated in chronic enlargements of glands, especially cervical. Suppurating glands. It appears likely to become a most useful remedy as an auxiliary, if not as a principal, in the treatment of diseases in patients of a strumous diathesis. Also useful in constipation.) NATRUM SELENICUM (laryngeal phthisis with expectoration of small lumps of bloody mucus and slight hoarseness.) NATRUM SILICUM (hemophilia; scrofulous bone affections; given intravenously every 3 days for SENILE PRURITUS); (DOLICHOS. FAGOPYR.) IGNAT.; SEP.; THUJA; GRAPH.; ALUM.Complementary to APIS; SEPIA; IGN.", 
   "symptoms": {
+    "Urine": [
+      "Increased, involuntary when walking, coughing, etc. Has to wait a long time for it to pass IF OTHERS ARE PRESENT", 
+      "Pain just AFTER urinating"
+    ], 
     "Head": [
       "Frontal sinus inflammation", 
       "Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep", 
@@ -49,13 +53,10 @@
       "Loss of taste"
     ], 
     "Rectum": [
-      "Burning pains and stitching after stool", 
       "Constipation; stool dry, crumbling", 
-      "Painless and copious diarrhoea, preceded by pinching pain in abdomen", 
       "Anus contracted, TORN, BLEEDING", 
-      "Increased, involuntary when walking, coughing, etc. Has to wait a long time for it to pass IF OTHERS ARE PRESENT", 
-      "Pain just AFTER urinating", 
-      "Urine Section"
+      "Burning pains and stitching after stool", 
+      "Painless and copious diarrhoea, preceded by pinching pain in abdomen"
     ], 
     "Respiratory": [
       "Cough from a tickling in the pit of stomach, accompanied by stitches in liver and spurting of urine", 

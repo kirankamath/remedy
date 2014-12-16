@@ -23,6 +23,38 @@
       "Great hunger with thirst, flatulence temporarily relieved by sour eructations", 
       "Infant wants to nurse all the time and vomits easily"
     ], 
+    "Urine": [
+      "Increased, with sensation of weakness", 
+      "Pain in region of kidneys when lifting or blowing the nose"
+    ], 
+    "Head": [
+      "Fontanelles remain open too long", 
+      "Cranial bones soft and thin", 
+      "Headache, with abdominal flatulence", 
+      "Defective hearing", 
+      "Head hot, with smarting of roots of hair", 
+      "Headache, WORSE NEAR THE REGION OF SUTURES, FROM CHANGE OF WEATHER, of school children about puberty"
+    ], 
+    "Mind": [
+      "Peevish, forgetful; after grief and vexation", 
+      "Always wants to go somewhere"
+    ], 
+    "Modalities": [
+      "Worse: exposure to damp", 
+      "Worse: cold weather", 
+      "Worse: melting snow"
+    ], 
+    "Stool": [
+      "Fistula in anus, alternating with chest symptoms", 
+      "Diarrhoea from juicy fruits or cider; during dentition", 
+      "Bleeding after hard stool", 
+      "Green, slimy, HOT, sputtering, undigested, WITH FETID FLATUS"
+    ], 
+    "Abdomen": [
+      "AT EVERY ATTEMPT to eat, colicky pain in abdomen", 
+      "SUNKEN AND FLABBY", 
+      "Colic, soreness and burning around navel"
+    ], 
     "Female": [
       "If late, blood is dark; sometimes, first bright, then dark, with VIOLENT BACKACHE", 
       "Menses too early, excessive and bright in girls", 
@@ -34,41 +66,10 @@
       "Prolapsus in debilitated persons", 
       "Worse morning"
     ], 
-    "Modalities": [
-      "Worse: exposure to damp", 
-      "Worse: cold weather", 
-      "Worse: melting snow"
-    ], 
-    "Mind": [
-      "Peevish, forgetful; after grief and vexation", 
-      "Always wants to go somewhere"
-    ], 
-    "Stool": [
-      "Bleeding after hard stool", 
-      "Green, slimy, HOT, sputtering, undigested, WITH FETID FLATUS", 
-      "Diarrhoea from juicy fruits or cider; during dentition", 
-      "Pain in region of kidneys when lifting or blowing the nose", 
-      "Increased, with sensation of weakness", 
-      "Fistula in anus, alternating with chest symptoms", 
-      "Urine Section"
-    ], 
-    "Abdomen": [
-      "AT EVERY ATTEMPT to eat, colicky pain in abdomen", 
-      "SUNKEN AND FLABBY", 
-      "Colic, soreness and burning around navel"
-    ], 
     "Mouth": [
       "ADENOID GROWTHS", 
       "Swollen tonsils; cannot open mouth without pain", 
       "Complaints during teething; teeth develop slowly; rapid decay of teeth"
-    ], 
-    "Head": [
-      "Fontanelles remain open too long", 
-      "Cranial bones soft and thin", 
-      "Headache, with abdominal flatulence", 
-      "Defective hearing", 
-      "Head hot, with smarting of roots of hair", 
-      "Headache, WORSE NEAR THE REGION OF SUTURES, FROM CHANGE OF WEATHER, of school children about puberty"
     ], 
     "Extremities": [
       "Weary when going upstairs", 

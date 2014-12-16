@@ -15,11 +15,9 @@
       "Profuse sweat, which does not relieve"
     ], 
     "Stomach": [
-      "SUPPRESSION, bladder empty", 
-      "Vomiting of mucus and GREEN bile", 
-      "Urine Section", 
+      "Violent thirst", 
       "Food tastes like straw", 
-      "Violent thirst"
+      "Vomiting of mucus and GREEN bile"
     ], 
     "Modalities": [
       "Worse: in dark room", 
@@ -30,6 +28,9 @@
       "Better: from bright light", 
       "Better: company", 
       "Better: warmth"
+    ], 
+    "Urine": [
+      "SUPPRESSION, bladder empty"
     ], 
     "Mind": [
       "Rapid changes from joy to sadness", 
@@ -56,14 +57,6 @@
       "Blood rushes to face; distorted", 
       "Hot, red; circumscribed redness of cheeks"
     ], 
-    "Mouth": [
-      "Cannot swallow on account of spasm", 
-      "STAMMERING", 
-      "Chewing motion", 
-      "Dry; dribbling of viscid saliva", 
-      "Risus sardonicus", 
-      "Aversion to water"
-    ], 
     "Female": [
       "Puerperal mania, with characteristic mental symptoms and profuse sweatings", 
       "Convulsions after labor", 
@@ -73,10 +66,13 @@
       "Shining red flash", 
       "EFFECTS OF SUPPRESSED ERUPTION IN SCARLATINA, with delirium, etc."
     ], 
-    "Sleep": [
-      "Deep snoring sleep", 
-      "Awakens terrified; screams with fright", 
-      "Sleepy, but cannot sleep"
+    "Mouth": [
+      "Cannot swallow on account of spasm", 
+      "STAMMERING", 
+      "Chewing motion", 
+      "Dry; dribbling of viscid saliva", 
+      "Risus sardonicus", 
+      "Aversion to water"
     ], 
     "Extremities": [
       "CHOREA; spasms partial, constantly changing", 
@@ -88,6 +84,11 @@
     "Male": [
       "Hands constantly kept on genitals", 
       "SEXUAL ERETHISM, with indecent speech and action"
+    ], 
+    "Sleep": [
+      "Deep snoring sleep", 
+      "Awakens terrified; screams with fright", 
+      "Sleepy, but cannot sleep"
     ]
   }, 
   "details": "The entire force of this drug seems to be expended on the brain, though the skin and throat show some disturbance. Suppressed secretions and excretions. Sensation as if limbs were separated from body. Delirium tremens. Absence of pain and muscular mobility especially of muscles of expression and of locomotion. Gyratory and graceful motions. Parkinsonism.", 

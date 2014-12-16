@@ -9,12 +9,13 @@
       "Flatulence", 
       "Vomiting of greenish black matter"
     ], 
-    "Stool": [
-      "Diarrhea, profuse, greenish mucus", 
+    "Urine": [
       "Hematuria, diuresis", 
-      "Urine Section", 
       "Necleo-albumin and bile, high phosphoric acid, with toatl solids", 
       "Albuminous, scanty, suppressed"
+    ], 
+    "Stool": [
+      "Diarrhea, profuse, greenish mucus"
     ], 
     "Mouth": [
       "Profuse secretion of acid saliva", 

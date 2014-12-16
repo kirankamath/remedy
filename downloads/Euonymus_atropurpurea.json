@@ -13,7 +13,9 @@
     "Stomach": [
       "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Urine scanty, high-colored; acidity increased, poured out rapidly"
+    ], 
     "Mind": [
       "Mental confusion, despondent, irritable; loss of memory, unable to recall familiar names"
     ], 
@@ -22,17 +24,13 @@
     ], 
     "Abdomen": [
       "Anus very sore and burning", 
-      "Urine scanty, high-colored; acidity increased, poured out rapidly", 
       "Diarrhoea; stools variable and profuse, bloody", 
       "Pain about umbilical region", 
       "Flatus and pain", 
-      "Urinary Organs", 
       "Constipation with hemorrhoids and severe backache"
     ], 
     "Extremities": [
       "Feet feel swollen and tired", 
-      "Amelioration", 
-      "Better cool draft, pressure", 
       "Aching in all joints, especially ankles"
     ]
   }, 

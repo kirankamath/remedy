@@ -6,14 +6,15 @@
       "Vomiting of food and mucus", 
       "Catarrh of stomach"
     ], 
-    "Chest": [
+    "Urine": [
       "Scanty; much mucus sediment", 
-      "Catarrh of bladder", 
-      "Loud rales in chest", 
-      "Bronchitis, and phthisis, WITH MUCOPURULENT, THICK, CREAMY EXPECTORATION", 
+      "Catarrh of bladder"
+    ], 
+    "Chest": [
       "Very loose cough", 
+      "Bronchitis, and phthisis, WITH MUCOPURULENT, THICK, CREAMY EXPECTORATION", 
       "Hectic fever and night-sweats, with irritating, short cough and scanty expectoration", 
-      "Urine Section"
+      "Loud rales in chest"
     ], 
     "Nose": [
       "Profuse, thick discharge", 

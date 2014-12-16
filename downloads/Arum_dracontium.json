@@ -10,14 +10,15 @@
       "Hoarseness; excess of mucus in larynx", 
       "Asthmatic at night"
     ], 
+    "Urine": [
+      "Irresistible desire to pass urine, burns and smarts"
+    ], 
     "Throat": [
-      "Loose cough worse at night on lying down", 
-      "Irresistible desire to pass urine, burns and smarts", 
       "Dry, sore, worse swallowing", 
-      "Raw and tender", 
       "Continued disposition to clear throat", 
+      "Loose cough worse at night on lying down", 
       "Croupy, hoarse cough with sore throat", 
-      "Urinary Organs"
+      "Raw and tender"
     ]
   }, 
   "details": "A remedy for Pharyngitis with sore, raw and tender throat.", 

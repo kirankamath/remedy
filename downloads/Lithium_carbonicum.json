@@ -3,13 +3,10 @@
   "Relationship": "Compare: LYC.; AMMON. PHOS.; BENZ-AC.; CALC.; LITHIUM CHLOR. (symptoms of cinchonism, viz.: DIZZY head, full, BLURRING OF VISION. Ringing in ears; marked tremors; GENERAL WEAKNESS; marked muscular and general prostration; no gastrointestinal effects. Nose sore, heartburn, pain in teeth). LITHIUM LACTICUM (rheumatism of shoulder, and small joints relieved by moving about; worse, resting). LITHIUM BENZOICUM (deep-seated pains in loins; in small of back; uneasiness in bladder. Cystic irritation. Gallstones. Frequent desire. Diminishing uric acid deposit). LITHIUM BROMATUM (cerebral congestion, threatened apoplexy, insomnia and epilepsy).", 
   "symptoms": {
     "Heart": [
-      "Turbid urine with mucus, scanty and dark, acrid; sandy deposits", 
-      "Pains in heart before menses, and associated with pains in bladder, and before urinating; better, after", 
-      "Rheumatic soreness in cardiac region", 
-      "Trembling and fluttering in heart, extending to back", 
       "Sudden shock in heart", 
-      "Soreness of bladder; pain in right kidney and ureter", 
-      "Urinary Organs", 
+      "Rheumatic soreness in cardiac region", 
+      "Pains in heart before menses, and associated with pains in bladder, and before urinating; better, after", 
+      "Trembling and fluttering in heart, extending to back", 
       "Throbbing, dull stitch in cardiac region"
     ], 
     "Eyes": [
@@ -26,20 +23,23 @@
       "Violent cough when lying down"
     ], 
     "Stomach": [
-      "Cannot endure slightest pressure of clothes", 
-      "While urinating, pressure in heart", 
-      "Turbid urine, with mucus and red deposit", 
-      "Pain in region of right kidney", 
-      "Free and colorless", 
       "Acidity, nausea, GNAWING, RELIEVED BY EATING", 
-      "Tenesmus", 
-      "Cystitis, subacute and chronic", 
-      "Urine Section"
+      "Cannot endure slightest pressure of clothes"
     ], 
     "Modalities": [
       "Worse: in morning", 
       "Worse: right side", 
       "Better: rising and moving about"
+    ], 
+    "Urine": [
+      "Pain in region of right kidney", 
+      "Turbid urine, with mucus and red deposit", 
+      "While urinating, pressure in heart", 
+      "Soreness of bladder; pain in right kidney and ureter", 
+      "Tenesmus", 
+      "Cystitis, subacute and chronic", 
+      "Free and colorless", 
+      "Turbid urine with mucus, scanty and dark, acrid; sandy deposits"
     ], 
     "Head": [
       "Externally sensitive", 

@@ -2,8 +2,13 @@
   "name": "Cadmium sulphuricum", 
   "Relationship": "Compare: Cadmium oxide; Cad. brom. (pain and burning in stomach and vomiting); Cadmium jodat. (Itching of anus and rectum felt during the day only; constipation, frequent desire, tenesmus, abdomen bloated); Zinc.; Ars.; Carbo; Verat.", 
   "symptoms": {
-    "Heart": [
-      "Palpitation, with constriction of chest"
+    "Mind": [
+      "Vertigo; room and bed seem to spin around", 
+      "Unconscious"
+    ], 
+    "Stool": [
+      "Gelatinous, yellowish green; semi-fluid, with urinary suppression", 
+      "Bloody, black, and offensive"
     ], 
     "Eyes": [
       "Blue circle around eyes", 
@@ -23,21 +28,6 @@
       "Violent NAUSEA, retching", 
       "Soreness in pit of stomach on pressure"
     ], 
-    "Modalities": [
-      "Better: eating and rest", 
-      "Worse: walking or carrying burdens; after sleep; from open air", 
-      "Worse: stimulants"
-    ], 
-    "Mind": [
-      "Vertigo; room and bed seem to spin around", 
-      "Unconscious"
-    ], 
-    "Stool": [
-      "Gelatinous, yellowish green; semi-fluid, with urinary suppression", 
-      "Rawness and soreness in urethra, urine mixed with pus and blood", 
-      "Bloody, black, and offensive", 
-      "Urine Section"
-    ], 
     "Abdomen": [
       "Region of liver sore", 
       "Pain in abdomen, with vomiting", 
@@ -45,11 +35,6 @@
       "Tenderness and tympanites", 
       "Coldness", 
       "Sore, tender, tympanitic"
-    ], 
-    "Face": [
-      "FACIAL PARALYSIS; more left side", 
-      "Distortion of mouth", 
-      "Trembling of jaw"
     ], 
     "Mouth": [
       "Difficult swallowing", 
@@ -59,6 +44,18 @@
       "Salty taste", 
       "Oesophagus constricted"
     ], 
+    "Head": [
+      "Hammering in head", 
+      "Heat in head"
+    ], 
+    "Face": [
+      "FACIAL PARALYSIS; more left side", 
+      "Distortion of mouth", 
+      "Trembling of jaw"
+    ], 
+    "Throat": [
+      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
+    ], 
     "Nose": [
       "Tightness at root", 
       "Nostrils ulcerated", 
@@ -67,24 +64,28 @@
       "Caries of nasal bones", 
       "OZOENA"
     ], 
-    "Head": [
-      "Hammering in head", 
-      "Heat in head"
+    "Heart": [
+      "Palpitation, with constriction of chest"
     ], 
-    "Skin": [
-      "Chilblains", 
-      "Itching; better scratching", 
-      "Chloasma, yellowish stains on nose and cheeks; worse exposure to sun and wind", 
-      "Blue, yellow, sallow, scaly, cracking"
+    "Modalities": [
+      "Worse: walking or carrying burdens; after sleep; from open air", 
+      "Worse: stimulants", 
+      "Better: eating and rest"
     ], 
-    "Throat": [
-      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
+    "Urine": [
+      "Rawness and soreness in urethra, urine mixed with pus and blood"
     ], 
     "Sleep": [
       "Stops breathing on going to sleep", 
       "Wakes up suffocating", 
       "Fears to go to sleep again", 
       "Protracted sleeplessness"
+    ], 
+    "Skin": [
+      "Chilblains", 
+      "Itching; better scratching", 
+      "Chloasma, yellowish stains on nose and cheeks; worse exposure to sun and wind", 
+      "Blue, yellow, sallow, scaly, cracking"
     ]
   }, 
   "details": "Its pathogenesis gives symptoms corresponding to very low forms of disease, as in cholera, YELLOW FEVER, where, with exhaustion, vomiting, and EXTREME PROSTRATION, the disease runs death ward. Important gastric symptoms. Carcinoma ventriculi; persistent vomiting. The attack is upon the stomach more especially. Patients must keep quiet. CHILLINESS AND COLDNESS even when near the fire.", 

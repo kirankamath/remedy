@@ -20,7 +20,16 @@
       "Vomiting of milk", 
       "Hot, sour belching; nausea and vomiting"
     ], 
-    "Modalities": [], 
+    "Rectum": [
+      "PROLAPSE OF RECTUM before or with stool", 
+      "Constipation alternating with diarrhoea", 
+      "Diarrhoea of long standing; EARLY IN MORNING; DURING TEETHING, WITH HOT, GLOWING CHEEKS while being bathed or washed; in hot weather after acid fruits", 
+      "Internal and external piles", 
+      "Green, water, FETID, PROFUSE, gushing", 
+      "Cholera infantum and morbus", 
+      "Constipation; clay-colored, hard, dry, difficult", 
+      "Morning, painless diarrhoea when not due to venous stasis or intestinal ulceration"
+    ], 
     "Mind": [
       "Loquacity and delirium from eating acid fruits", 
       "Depression of spirits"
@@ -45,16 +54,6 @@
       "Prolapsus from over-lifting or straining; during pregnancy", 
       "Hemorrhoids, with prolapsus ani during pregnancy", 
       "PROLAPSED UTERI, especially after parturition"
-    ], 
-    "Rectum": [
-      "PROLAPSE OF RECTUM before or with stool", 
-      "Constipation alternating with diarrhoea", 
-      "Diarrhoea of long standing; EARLY IN MORNING; DURING TEETHING, WITH HOT, GLOWING CHEEKS while being bathed or washed; in hot weather after acid fruits", 
-      "Internal and external piles", 
-      "Green, water, FETID, PROFUSE, gushing", 
-      "Cholera infantum and morbus", 
-      "Constipation; clay-colored, hard, dry, difficult", 
-      "Morning, painless diarrhoea when not due to venous stasis or intestinal ulceration"
     ], 
     "Extremities": [
       "Paralytic weakness on left side", 

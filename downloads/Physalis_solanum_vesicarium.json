@@ -19,16 +19,17 @@
     "Modalities": [
       "Worse: cold camp evening"
     ], 
-    "Respiratory": [
-      "Nocturnal incontinence", 
-      "Hoarse voice; throat irritated; chest oppressed, causing insomnia", 
-      "Sudden inability to hold it in women", 
-      "Acrid, foul, retained, abundant", 
-      "Stabbing in chest", 
+    "Urine": [
       "Polyuria", 
-      "Cough", 
+      "Nocturnal incontinence", 
+      "Sudden inability to hold it in women", 
       "ENURESIS", 
-      "Urinary Organs"
+      "Acrid, foul, retained, abundant"
+    ], 
+    "Respiratory": [
+      "Stabbing in chest", 
+      "Cough", 
+      "Hoarse voice; throat irritated; chest oppressed, causing insomnia"
     ], 
     "Skin": [
       "Excoriation between fingers and toes; pustules on thighs; nodes on forehead"

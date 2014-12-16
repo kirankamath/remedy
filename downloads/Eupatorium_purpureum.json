@@ -3,25 +3,26 @@
   "Relationship": "Compare: Senecio; Cannab. sat.; Helon.; Phos-ac.; Triticum; Epigea.", 
   "symptoms": {
     "Head": [
-      "Sick headache beginning in morning, worse afternoon and evening, worse in cold air", 
-      "Strangury", 
-      "VESICAL IRRITABILITY IN WOMEN", 
       "LEFT-SIDED HEADACHE WITH VERTIGO", 
-      "Burning in bladder and urethra on urinating", 
-      "Insufficient flow; milky", 
-      "Urinary Organs", 
-      "Pain from left shoulder to occiput", 
-      "Dysuria", 
-      "Hematuria", 
-      "DIABETES INSIPIDUS", 
-      "Constant desire; bladder feels dull", 
-      "Deep, dull pain in kidneys"
+      "Sick headache beginning in morning, worse afternoon and evening, worse in cold air", 
+      "Pain from left shoulder to occiput"
     ], 
     "Fever": [
       "Bone-pains", 
       "NO THIRST during chill, but much frontal ache", 
       "Violent shaking, with comparatively little coldness", 
       "CHILL COMMENCES IN BACK"
+    ], 
+    "Urine": [
+      "Strangury", 
+      "VESICAL IRRITABILITY IN WOMEN", 
+      "Burning in bladder and urethra on urinating", 
+      "Insufficient flow; milky", 
+      "Dysuria", 
+      "Hematuria", 
+      "DIABETES INSIPIDUS", 
+      "Constant desire; bladder feels dull", 
+      "Deep, dull pain in kidneys"
     ], 
     "Back": [
       "Weight and heaviness in loins and back"

@@ -27,8 +27,8 @@
       "Dyspnoea so great that breath cannot be held long enough to drink, though thirsty"
     ], 
     "Modalities": [
-      "Better: drinking sips of water", 
-      "Worse: eating veal; towards morning and in afternoon"
+      "Worse: eating veal; towards morning and in afternoon", 
+      "Better: drinking sips of water"
     ], 
     "Stool": [
       "Membranous shreds, with tenesmus", 
@@ -40,10 +40,6 @@
       "Scalp very sensitive", 
       "Ennui"
     ], 
-    "Mouth": [
-      "Throat constricted and sore", 
-      "Tongue red, with burning pimples; burns at tip"
-    ], 
     "Nose": [
       "Swollen feeling; WORSE, RIGHT NOSTRIL", 
       "Sneezing", 
@@ -54,6 +50,10 @@
       "Leucorrhoea", 
       "Menses too early, profuse, BLACK; preceded and with violent backache", 
       "Burning pains in the ovarian region only during menses"
+    ], 
+    "Mouth": [
+      "Throat constricted and sore", 
+      "Tongue red, with burning pimples; burns at tip"
     ], 
     "Extremities": [
       "Tearing and sticking in shoulders and joints", 

@@ -29,10 +29,6 @@
       "Vomiting from hawking mucus"
     ], 
     "Modalities": [
-      "Worse: in evening", 
-      "Worse: indoors", 
-      "Worse: warmth; south winds", 
-      "Worse: from light", 
       "Better: from coffee", 
       "Better: in dark"
     ], 
@@ -48,10 +44,6 @@
       "Chilly and cold", 
       "Sear mostly on chest, at night during sleep"
     ], 
-    "Sleep": [
-      "Sleepy during day", 
-      "Yawning when walking in open air"
-    ], 
     "Female": [
       "Menses PAINFUL; FLOW LASTS ONLY AN HOUR OR DAY; late, scanty, short", 
       "AMENORRHOEA, WITH OPHTHALMIA"
@@ -59,6 +51,10 @@
     "Skin": [
       "Consequence of external injuries", 
       "First stage of measles; eye symptoms marked"
+    ], 
+    "Sleep": [
+      "Sleepy during day", 
+      "Yawning when walking in open air"
     ], 
     "Rectum": [
       "CONSTIPATION", 

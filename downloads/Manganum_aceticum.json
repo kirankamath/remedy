@@ -20,15 +20,9 @@
       "CHRONIC HOARSENESS"
     ], 
     "Modalities": [
-      "Better: lying down", 
       "Worse: cold wet weather", 
-      "Worse: change of weather"
-    ], 
-    "Mouth": [
-      "Nodes on palate", 
-      "Toothache; WORSE, anything cold", 
-      "Low, monotonous voice", 
-      "Hemming all the time"
+      "Worse: change of weather", 
+      "Better: lying down"
     ], 
     "Nose": [
       "Dry, obstructed", 
@@ -46,10 +40,11 @@
       "CHRONIC ECZEMA associated with amenorrhoea, worse at menstrual period or at menopause", 
       "Deep cracks in bends of elbows, etc. Psoriasis and pityriasis"
     ], 
-    "Sleep": [
-      "Sleepy very early in evening", 
-      "Languor and sleepiness", 
-      "Vivid dreams"
+    "Mouth": [
+      "Nodes on palate", 
+      "Toothache; WORSE, anything cold", 
+      "Low, monotonous voice", 
+      "Hemming all the time"
     ], 
     "Extremities": [
       "Cannot walk backwards without falling", 
@@ -73,6 +68,11 @@
       "Peculiar slapping gait, walks on metacarpophalangeal joint; walks backwards", 
       "EVERY PART OF BODY FEELS SORE WHEN TOUCHED", 
       "Bones very sensitive"
+    ], 
+    "Sleep": [
+      "Sleepy very early in evening", 
+      "Languor and sleepiness", 
+      "Vivid dreams"
     ], 
     "Ears": [
       "Whistling tinnitus", 

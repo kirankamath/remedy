@@ -27,14 +27,6 @@
       "Nausea and vomiting caused by pressure on spine and cervical region", 
       "GNAWING PAIN"
     ], 
-    "Modalities": [
-      "Better: warmth", 
-      "Better: eating", 
-      "Worse: morning", 
-      "Worse: cold", 
-      "Worse: during menses; the more profuse the flow", 
-      "Worse: the greater the suffering"
-    ], 
     "Head": [
       "Wild feeling in brain", 
       "Shooting and throbbing pains in head after mental worry, over-study, or reflex of uterine disease", 
@@ -44,6 +36,14 @@
       "Brain feels too large", 
       "Waving sensation or OPENING AND SHUTTING SENSATION IN BRAIN"
     ], 
+    "Modalities": [
+      "Worse: morning", 
+      "Worse: cold", 
+      "Worse: during menses; the more profuse the flow", 
+      "Worse: the greater the suffering", 
+      "Better: warmth", 
+      "Better: eating"
+    ], 
     "Back": [
       "STIFFNESS AND CONTRACTION IN NECK AND BACK", 
       "Rheumatic pains in muscles of back and neck", 
@@ -51,10 +51,6 @@
       "Pain in lumbar and sacral region, down thighs, and through hips", 
       "Spine very sensitive, especially upper part", 
       "Intercostal rheumatism"
-    ], 
-    "Sleep": [
-      "Sleeplessness", 
-      "Brain irritation of children during dentition"
     ], 
     "Female": [
       "Pain immediately before menses", 
@@ -69,6 +65,10 @@
     ], 
     "Skin": [
       "Locally and internally for ivy poisoning"
+    ], 
+    "Sleep": [
+      "Sleeplessness", 
+      "Brain irritation of children during dentition"
     ], 
     "Extremities": [
       "Jerking of limbs", 

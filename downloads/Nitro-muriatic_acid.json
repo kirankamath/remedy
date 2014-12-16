@@ -3,24 +3,25 @@
     "Aqua Regia"
   ], 
   "symptoms": {
+    "Stomach": [
+      "Sour eructations, with empty hungry feeling in stomach; not relieved by eating", 
+      "SALIVATION; WORSE AT NIGHT"
+    ], 
+    "Urine": [
+      "Burning in urethra", 
+      "Cloudy"
+    ], 
+    "Stool": [
+      "Anus moist and sore", 
+      "Constipated, with ineffectual urging", 
+      "Sphincter constricted"
+    ], 
     "Mouth": [
       "Cankers' small, superficial ulceration over inside of mouth and tongue", 
       "Gums bleed easily", 
       "Ptyalism", 
       "Metallic taste", 
       "CONSTANT DROOLING AT NIGHT"
-    ], 
-    "Stool": [
-      "Constipated, with ineffectual urging", 
-      "Sphincter constricted", 
-      "Burning in urethra", 
-      "Cloudy", 
-      "Anus moist and sore", 
-      "Urine Section"
-    ], 
-    "Stomach": [
-      "Sour eructations, with empty hungry feeling in stomach; not relieved by eating", 
-      "SALIVATION; WORSE AT NIGHT"
     ]
   }, 
   "name": "Nitro-muriatic acid", 

@@ -26,12 +26,13 @@
       "Worse: cold air", 
       "Better: warmth"
     ], 
-    "Stool": [
+    "Urine": [
       "Retention with full bladder", 
-      "Burning and STRANGURY, with tenesmus of the neck of the bladder", 
-      "ASIATIC CHOLERA, with cramps in calves, coldness of body, anguish, great weakness, COLLAPSE, tongue and mouth cold", 
-      "Urine Section", 
-      "Blackish; involuntary"
+      "Burning and STRANGURY, with tenesmus of the neck of the bladder"
+    ], 
+    "Stool": [
+      "Blackish; involuntary", 
+      "ASIATIC CHOLERA, with cramps in calves, coldness of body, anguish, great weakness, COLLAPSE, tongue and mouth cold"
     ], 
     "Head": [
       "Tongue cold, flabby, trembling", 
@@ -54,10 +55,6 @@
       "Pulse small, weak, slow", 
       "CONGESTIVE CHILL"
     ], 
-    "Sleep": [
-      "Subsultus and extreme restlessness", 
-      "INSOMNIA, with cold limbs"
-    ], 
     "Nose": [
       "PERSISTENT EPISTAXIS, especially with goose-flesh state of skin", 
       "Fluent coryza on sudden change of weather", 
@@ -67,6 +64,10 @@
     "Skin": [
       "Cannot bear to be covered", 
       "COLD, pale, blue, livid"
+    ], 
+    "Sleep": [
+      "Subsultus and extreme restlessness", 
+      "INSOMNIA, with cold limbs"
     ], 
     "Extremities": [
       "Icy cold feet, ache as if sprained", 

@@ -28,11 +28,12 @@
     "Stomach": [
       "Gnawing hunger", 
       "Better out of doors", 
-      "Oily pellicle on urine", 
-      "Heavy weight", 
       "Faint feeling in epigastrium", 
+      "Heavy weight"
+    ], 
+    "Urine": [
       "Scanty, albuminous", 
-      "Urine Section"
+      "Oily pellicle on urine"
     ], 
     "Mouth": [
       "Tongue dirty yellow, sore, feels scalded", 

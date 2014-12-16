@@ -2,6 +2,45 @@
   "name": "Mercurius corrosivus", 
   "Relationship": "Compare: ARS.; LACH.; LEONURUS - MOTHER-WORT (Influences pelvic organs, allays spasm and nervous irritability, promotes secretion and reduces febrile excitement. Valuable in suppressed menses and LOCHIA; dysentery; vomiting, frightful pains in abdomen, violent thirst. Tongue dry and cracked). MONSONIA - An African plant belonging to the Geraniaceae - (Used for dysentery in material doses).Antidote: CALCIUM SULPHIDE is antidotal to Bichloride poisoning. Use intravenous injection of 7 1/2 grains in 7 1/2 oz. boiled water.", 
   "symptoms": {
+    "Respiratory": [
+      "Cough, with bloody expectoration", 
+      "Pulse rapid and intermittent", 
+      "Aphonia", 
+      "Pain in larynx as cut with knife", 
+      "Stitches through side of chest"
+    ], 
+    "Stool": [
+      "Stool hot, bloody, slimy, offensive, with cutting pains and shreds of mucous membranes", 
+      "Dysentery; tenesmus, not relieved by stool; incessant"
+    ], 
+    "Head": [
+      "Delirium, stupor", 
+      "Drawing pain in periosteum of skull", 
+      "Frontal pain, congestion of head, with burning in cheeks"
+    ], 
+    "Face": [
+      "Lips black, swollen", 
+      "Red, puffy", 
+      "Facial neuralgia within the bones", 
+      "Sordes", 
+      "Swollen"
+    ], 
+    "Nose": [
+      "Ozaena, with perforation of septum nasi", 
+      "Excessive coryza", 
+      "Rawness and smarting in nostrils", 
+      "Post-nasal swelling, mucous membrane dry, red, and covered with bloody mucus"
+    ], 
+    "Male": [
+      "Penis and testes enormously swollen", 
+      "GONORRHOEA; urethra orifice red, swollen; glans sore and hot", 
+      "Chancres assume phagedenic appearance", 
+      "Discharge greenish, thick"
+    ], 
+    "Ears": [
+      "Fetid pus", 
+      "Violent pulsations"
+    ], 
     "Eyes": [
       "Retinitis albuminuric, ophthalmia neonatorum", 
       "IRITIS, ordinary or syphilitic", 
@@ -29,34 +68,17 @@
       "Worse: acids", 
       "Better: while at rest"
     ], 
-    "Stool": [
-      "Stool hot, bloody, slimy, offensive, with cutting pains and shreds of mucous membranes", 
-      "Dysentery; tenesmus, not relieved by stool; incessant"
+    "Urine": [
+      "Perspiration after urinating", 
+      "TENESMUS OF BLADDER", 
+      "ALBUMINOUS", 
+      "Intense burning in urethra", 
+      "Urine hot, burning, scanty or SUPPRESSED; bloody, GREENISH DISCHARGE", 
+      "Stabbing pain extending up urethra into bladder"
     ], 
     "Abdomen": [
       "Bruised sensation; caecal region and transverse colon painful", 
       "Bloated; very painful to least touch"
-    ], 
-    "Face": [
-      "Lips black, swollen", 
-      "Red, puffy", 
-      "Facial neuralgia within the bones", 
-      "Sordes", 
-      "Swollen"
-    ], 
-    "Respiratory": [
-      "Cough, with bloody expectoration", 
-      "Stabbing pain extending up urethra into bladder", 
-      "Pain in larynx as cut with knife", 
-      "Stitches through side of chest", 
-      "Perspiration after urinating", 
-      "Pulse rapid and intermittent", 
-      "Aphonia", 
-      "ALBUMINOUS", 
-      "Intense burning in urethra", 
-      "TENESMUS OF BLADDER", 
-      "Urine hot, burning, scanty or SUPPRESSED; bloody, GREENISH DISCHARGE", 
-      "Urine Section"
     ], 
     "Mouth": [
       "Tongue swollen and inflamed", 
@@ -67,17 +89,6 @@
       "Teeth loose", 
       "Salivation"
     ], 
-    "Nose": [
-      "Ozaena, with perforation of septum nasi", 
-      "Excessive coryza", 
-      "Rawness and smarting in nostrils", 
-      "Post-nasal swelling, mucous membrane dry, red, and covered with bloody mucus"
-    ], 
-    "Head": [
-      "Delirium, stupor", 
-      "Drawing pain in periosteum of skull", 
-      "Frontal pain, congestion of head, with burning in cheeks"
-    ], 
     "Throat": [
       "RED, SWOLLEN, PAINFUL, INTENSELY INFLAMED", 
       "BURNING PAIN, WITH GREAT SWELLING; WORSE, SLIGHT EXTERNAL PRESSURE", 
@@ -85,16 +96,6 @@
       "SWALLOWING PAINFUL", 
       "Most pain is POST-NASAL WITH SHARP PAINS TO EARS", 
       "All glands about thorax swollen"
-    ], 
-    "Male": [
-      "Penis and testes enormously swollen", 
-      "GONORRHOEA; urethra orifice red, swollen; glans sore and hot", 
-      "Chancres assume phagedenic appearance", 
-      "Discharge greenish, thick"
-    ], 
-    "Ears": [
-      "Fetid pus", 
-      "Violent pulsations"
     ]
   }, 
   "details": "This salt leads all other remedies in tenesmus of the rectum, which is incessant, and is not relieved by the stool. The tenesmus often involves the bladder as well. Bright's disease. Gonorrhea; second stage, with continuous tenesmus. Destroys the secreting portions of the kidneys. This process is slow, but sure. Albuminuria in early pregnancy. (PHOSPH. later and at full term).", 

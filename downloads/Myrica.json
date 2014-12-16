@@ -15,6 +15,9 @@
       "Taste bitter and nauseous, with offensive breath", 
       "Strong desire for acids"
     ], 
+    "Urine": [
+      "Dark, frothy, scanty, high-colored, biliary"
+    ], 
     "Mind": [
       "DESPONDENT, IRRITABLE, indifferent", 
       "GLOOMY"
@@ -22,9 +25,7 @@
     "Stool": [
       "Constant discharge of flatus when walking", 
       "Urging to stool, with no other results than the expulsion of a great amount of flatus", 
-      "Loose, light-colored stool; ash-colored and destitute of bile", 
-      "Dark, frothy, scanty, high-colored, biliary", 
-      "Urinary Organs"
+      "Loose, light-colored stool; ash-colored and destitute of bile"
     ], 
     "Abdomen": [
       "Fullness in the stomach and abdomen", 

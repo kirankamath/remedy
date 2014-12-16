@@ -2,21 +2,14 @@
   "name": "Ignatia", 
   "Relationship": "Complementary: COFFEA; NUX; TAB AC.Antidotes: PULS.; CHAM.; COCC.Compare: ZINC.; KALI-PHOS.; SEP.; CIMICIF. PANACEA ARVENSIS - Poor man's Mercury - (Sensitiveness over gastric region with hunger but an aversion to food).", 
   "symptoms": {
-    "Rectum": [
-      "Stitches from anus deep into rectum", 
-      "Hemorrhage and pain; worse when stool is loose", 
-      "Stitches in hemorrhoids during cough", 
-      "Itching and stitching up the rectum", 
-      "Stools pass with difficulty; PAINFUL CONSTRICTION OF ANUS AFTER STOOL", 
-      "PROLAPSE", 
-      "Diarrhoea from fright", 
-      "Profuse, watery", 
-      "PRESSURE AS OF A SHARP INSTRUMENT FROM WITHIN OUTWARD", 
-      "Urine Section"
+    "Urine": [
+      "Profuse, watery"
     ], 
-    "Eyes": [
-      "ASTHENOPIA, with spasms of lids and neuralgic pain about eyes", 
-      "Flickering zigzags"
+    "Head": [
+      "Cramp-like pain over root of nose", 
+      "Congestive headaches following anger or grief; WORSE, SMOKING OR SMELLING TOBACCO, inclines head forward", 
+      "Headache as if a nail were driven out through the side", 
+      "Feels hollow, heavy; WORSE, STOOPING"
     ], 
     "Fever": [
       "Chill, with thirst; not relieved by external heat", 
@@ -30,39 +23,27 @@
       "Sour eructation", 
       "Cramps in stomach; worse slightest contact"
     ], 
-    "Female": [
-      "Suppression from grief", 
-      "Menses, BLACK, too early, too profuse, or scanty", 
-      "Feminine sexual frigidity", 
-      "During menses great languor, with spasmodic pains in stomach and abdomen"
-    ], 
-    "Modalities": [
-      "Better: while eating", 
-      "Better: change of position", 
-      "Worse: in the morning", 
-      "Worse: open air", 
-      "Worse: after meals", 
-      "Worse: COFFEE", 
-      "Worse: smoking", 
-      "Worse: liquids", 
-      "Worse: external warmth"
-    ], 
-    "Mind": [
-      "After shocks, grief, disappointment", 
-      "Changeable mood; introspective; silently brooding", 
-      "Not communicative", 
-      "Melancholic, sad, tearful", 
-      "SIGHING AND SOBBING"
-    ], 
     "Abdomen": [
       "Throbbing in abdomen", 
       "Rumbling in bowels", 
       "Weak feeling in upper abdomen", 
       "Colicky, griping pains in one or both sides of abdomen"
     ], 
-    "Face": [
-      "TWITCHING OF MUSCLES of face and lips", 
-      "Changes color when at rest"
+    "Mouth": [
+      "SOUR TASTE", 
+      "Easily bites inside of cheeks", 
+      "Toothache; worse after drinking coffee and smoking", 
+      "Constantly full of saliva"
+    ], 
+    "Rectum": [
+      "Stitches from anus deep into rectum", 
+      "Hemorrhage and pain; worse when stool is loose", 
+      "Stitches in hemorrhoids during cough", 
+      "Itching and stitching up the rectum", 
+      "Stools pass with difficulty; PAINFUL CONSTRICTION OF ANUS AFTER STOOL", 
+      "PROLAPSE", 
+      "Diarrhoea from fright", 
+      "PRESSURE AS OF A SHARP INSTRUMENT FROM WITHIN OUTWARD"
     ], 
     "Respiratory": [
       "Dry, spasmodic cough in quick successive shocks", 
@@ -71,17 +52,43 @@
       "Coughing increases the desire to cough", 
       "Spasm of glottis  Reflex coughs"
     ], 
-    "Mouth": [
-      "SOUR TASTE", 
-      "Easily bites inside of cheeks", 
-      "Toothache; worse after drinking coffee and smoking", 
-      "Constantly full of saliva"
+    "Eyes": [
+      "ASTHENOPIA, with spasms of lids and neuralgic pain about eyes", 
+      "Flickering zigzags"
     ], 
-    "Head": [
-      "Cramp-like pain over root of nose", 
-      "Congestive headaches following anger or grief; WORSE, SMOKING OR SMELLING TOBACCO, inclines head forward", 
-      "Headache as if a nail were driven out through the side", 
-      "Feels hollow, heavy; WORSE, STOOPING"
+    "Face": [
+      "TWITCHING OF MUSCLES of face and lips", 
+      "Changes color when at rest"
+    ], 
+    "Modalities": [
+      "Worse: in the morning", 
+      "Worse: open air", 
+      "Worse: after meals", 
+      "Worse: COFFEE", 
+      "Worse: smoking", 
+      "Worse: liquids", 
+      "Worse: external warmth", 
+      "Better: while eating", 
+      "Better: change of position"
+    ], 
+    "Mind": [
+      "After shocks, grief, disappointment", 
+      "Changeable mood; introspective; silently brooding", 
+      "Not communicative", 
+      "Melancholic, sad, tearful", 
+      "SIGHING AND SOBBING"
+    ], 
+    "Sleep": [
+      "Very light", 
+      "Dreams continuing a long time; troubling him", 
+      "Jerking of limbs on going to sleep", 
+      "Insomnia from grief, cares, with itching of arms and violent yawning"
+    ], 
+    "Female": [
+      "Suppression from grief", 
+      "Menses, BLACK, too early, too profuse, or scanty", 
+      "Feminine sexual frigidity", 
+      "During menses great languor, with spasmodic pains in stomach and abdomen"
     ], 
     "Skin": [
       "Very sensitive to draft of air", 
@@ -96,12 +103,6 @@
       "Feeling of a lump in throat that cannot be swallowed", 
       "Tonsils inflamed, swollen, WITH SMALL ULCERS", 
       "Tendency to choke, globus hystericus"
-    ], 
-    "Sleep": [
-      "Very light", 
-      "Dreams continuing a long time; troubling him", 
-      "Jerking of limbs on going to sleep", 
-      "Insomnia from grief, cares, with itching of arms and violent yawning"
     ], 
     "Extremities": [
       "Ulcerative pain in soles", 

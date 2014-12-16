@@ -2,6 +2,16 @@
   "name": "Aconitum napellus", 
   "Relationship": "Not indicated in malarial and low fevers or hectic and pyemic conditions, and in inflammations when they localize themselves. SULPHUR often follows it. Compare CHAM. AND COFFEA INTENSE PAIN and sleeplessness.Aconitine. - (Heavy feeling as of lead; pains in supraorbital nerve; ice-cold sensations creep up; hydrophobia symptoms. Tinnitus aurium 3X.) Tingling sensation.Acids, wine and coffee, lemonade, and acid fruits modify its action.Aconitum ferox. Indian Aconite. Rather more violent in its actions than A. napellus. It is more diuretic and less anti-pyretic. It has proved valuable in cardia dyspnoea, neuralgia, and acute gout. Dyspnoea. Must sit up. Rapid respiration. Anxiety, with suffocation from feeling of paralysis in respiratory muscles. Cheyne-Stokes breathing. Quebracho (cardiac dyspnoea). (Achyranthes. A Mexican drug - very similar to Aconite in fevers, but of larger range, being also adapted to typhoidal states and intermittents. Muscular rheumatism. A great diaphoretic. Use 6X.) Eranthis hymnalis - (Winter Aconite - acts on solar plexus and works upwards causing dyspnoea. Pain in occiput and neck.)Aconitum Lycoctonum. Great yellow wolfsbane. - (Swelling of glands; Hodgkin's disease. Diarrhoea after eating pork. Itching of nose, eyes, anus and vulva. Skin of nose cracked; taste of blood.)Aconitum Cammarum. - (Headache with vertigo and tinnitus. Cataleptic symptoms. Formication of tongue, lips and face.)Vinegar in large doses is antidotal to poisonous effects.Compare: Bell.; Cham.; Coffea; Ferr-p.Complementary: COFFEA;' SULPH. Sulphur may be considered a chronic Aconite. Often completes a cure begun with Aconite.AGROSTIS acts like Acon. in fever and inflammations, also SPIRANTHES.", 
   "symptoms": {
+    "Urine": [
+      "Anxiety always on beginning to urinate", 
+      "Renal region sensitive", 
+      "SCANTY, RED, HOT, PAINFUL", 
+      "Burning in urethra", 
+      "Profuse urination, with profuse perspiration and diarrhoea", 
+      "Tenesmus and burning at neck of bladder", 
+      "Urine suppressed, bloody", 
+      "RETENTION, WITH SCREAMING AND RESTLESSNESS, and handling of genitals"
+    ], 
     "Head": [
       "Vertigo; WORSE ON RISING  and shaking head", 
       "Fullness; HEAVY, pulsating, HOT, BURSTING, burning, undulating sensation", 
@@ -49,20 +59,11 @@
     ], 
     "Rectum": [
       "Bleeding hemorrhoids", 
-      "Frequent, small stool with tenesmus; GREEN, LIKE CHOPPED HERBS", 
-      "SCANTY, RED, HOT, PAINFUL", 
-      "Renal region sensitive", 
-      "They cry and complain much, are sleepless and restless", 
-      "Anxiety always on beginning to urinate", 
-      "Burning in urethra", 
-      "Profuse urination, with profuse perspiration and diarrhoea", 
-      "Tenesmus and burning at neck of bladder", 
       "Pain with nightly itching and stitching in anus", 
       "White with red urine", 
-      "Urine suppressed, bloody", 
+      "Frequent, small stool with tenesmus; GREEN, LIKE CHOPPED HERBS", 
+      "They cry and complain much, are sleepless and restless", 
       "Choleraic discharges with collapse, and restlessness", 
-      "RETENTION, WITH SCREAMING AND RESTLESSNESS, and handling of genitals", 
-      "Urine Section", 
       "Watery diarrhoea in children"
     ], 
     "Respiratory": [
@@ -120,7 +121,6 @@
       "PULSE FULL, HARD; TENSE AND BOUNDING; sometimes intermits", 
       "TACHYCARDIA"
     ], 
-    "Modalities": [], 
     "Mind": [
       "Thinks his thoughts come from the stomach - that parts of his body are abnormally thick", 
       "Music is unbearable; makes her sad", 

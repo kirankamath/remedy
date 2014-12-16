@@ -7,6 +7,11 @@
       "Sick headache", 
       "Pain in facial muscles"
     ], 
+    "Urine": [
+      "Urine passes in several streams; must press before it passes", 
+      "More or less irritation in urethra, inclining to coition", 
+      "Burning pain on urinating, with agglutination of orifice"
+    ], 
     "Skin": [
       "Ulcers and swellings on joints", 
       "ITCHING; dry, bran-like eruption, especially ON HANDS AND FINGERS", 
@@ -14,13 +19,9 @@
       "Vesicles in groups"
     ], 
     "Extremities": [
-      "Urine passes in several streams; must press before it passes", 
       "Rheumatic and gouty pains", 
-      "Burning pain on urinating, with agglutination of orifice", 
-      "More or less irritation in urethra, inclining to coition", 
-      "Cramp in ball of thumbs and fingers", 
-      "Urine Section", 
-      "Pain in shoulder and arm"
+      "Pain in shoulder and arm", 
+      "Cramp in ball of thumbs and fingers"
     ]
   }, 
   "details": "Marked action on skin, characterized by great itching and tingling everywhere. Favors expulsion of splinters. An old medicine for hydrophobia and dropsy. Possesses power of softening flesh and destroying warts.", 

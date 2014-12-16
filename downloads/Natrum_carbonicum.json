@@ -50,11 +50,6 @@
       "Pale, with blue rings around eyes and swollen lids", 
       "Freckles, YELLOW SPOTS, PIMPLES"
     ], 
-    "Sleep": [
-      "Drowsy during day", 
-      "Amorous dreams", 
-      "Wakes too early in morning"
-    ], 
     "Nose": [
       "HAWKING MUCH MUCUS FROM THROAT; WORSE, SLIGHT DRAFT", 
       "POSTERIOR NASAL CATARRH", 
@@ -77,6 +72,11 @@
       "Veins full", 
       "Inclination to perspire easily, or dry, rough, cracked skin", 
       "Soles of feet raw and sore"
+    ], 
+    "Sleep": [
+      "Drowsy during day", 
+      "Amorous dreams", 
+      "Wakes too early in morning"
     ], 
     "Extremities": [
       "Icy cold up to knees", 

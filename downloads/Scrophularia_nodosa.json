@@ -15,7 +15,11 @@
       "Violent dyspnoea, oppression of chest with trembling", 
       "Pain about bifurcation of trachea"
     ], 
-    "Modalities": [], 
+    "Head": [
+      "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head", 
+      "Crusta lactea", 
+      "Eczema behind ear"
+    ], 
     "Abdomen": [
       "PAIN IN LIVER on pressure", 
       "Colic below navel", 
@@ -24,11 +28,6 @@
     ], 
     "Sleep": [
       "GREAT DROWSINESS; in morning and before and after meals with weariness"
-    ], 
-    "Head": [
-      "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head", 
-      "Crusta lactea", 
-      "Eczema behind ear"
     ], 
     "Skin": [
       "Prickling, itching, worse back of hand"

@@ -18,21 +18,18 @@
     ], 
     "Respiratory": [
       "EXUDATIONS IN PLEURA", 
-      "BACK, bursting distending pain in kidney region", 
       "Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema", 
       "Old asthmatics with congestive attacks", 
       "Hacking cough", 
       "Bronchial catarrh, WITH SORE CHEST WALLS; much mucus; sensation of oppression and weight of chest", 
       "Thorax feels too narrow", 
       "Voice unsteady, vocal cords partially paralyzed", 
-      "DIFFICULT RAISING OF TOUGH, PROFUSE MUCUS, in the aged", 
       "COUGH OFTEN ENDS IN A SNEEZE", 
-      "Pressure on chest as though lungs were forced back to spine", 
       "Hoarseness", 
       "Chest oppressed on ascending", 
       "Loss of voice", 
-      "Urinary Organs", 
-      "Greatly diminished; loaded with shreds and mucus; scalding before and after urinating", 
+      "Pressure on chest as though lungs were forced back to spine", 
+      "DIFFICULT RAISING OF TOUGH, PROFUSE MUCUS, in the aged", 
       "Hurts to talk", 
       "Hydrothorax", 
       "RATTLING IN CHEST", 
@@ -40,9 +37,13 @@
       "Catarrh of larynx"
     ], 
     "Modalities": [
-      "Better: from sweat; BENDING HEAD BACKWARDS", 
       "Worse: walking in open air", 
-      "Worse: during rest"
+      "Worse: during rest", 
+      "Better: from sweat; BENDING HEAD BACKWARDS"
+    ], 
+    "Urine": [
+      "BACK, bursting distending pain in kidney region", 
+      "Greatly diminished; loaded with shreds and mucus; scalding before and after urinating"
     ], 
     "Mind": [
       "Inclined to quarrel", 

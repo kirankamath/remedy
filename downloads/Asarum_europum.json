@@ -21,10 +21,10 @@
       "Loss of appetite, flatulence, eructation, and vomiting", 
       "DESIRE FOR ALCOHOLIC DRINKS"
     ], 
-    "Female": [
-      "Violent pain in small of back", 
-      "Tenacious, yellow leucorrhoea", 
-      "Menses too early, long lasting, black"
+    "Head": [
+      "Coryza, with sneezing", 
+      "Tension of scalp; hair painful", 
+      "Compressive pain"
     ], 
     "Modalities": [
       "Worse: in cold dry weather; penetrating sounds", 
@@ -42,10 +42,10 @@
       "Short respiration", 
       "Nervous, hacking cough"
     ], 
-    "Head": [
-      "Coryza, with sneezing", 
-      "Tension of scalp; hair painful", 
-      "Compressive pain"
+    "Female": [
+      "Violent pain in small of back", 
+      "Tenacious, yellow leucorrhoea", 
+      "Menses too early, long lasting, black"
     ], 
     "Rectum": [
       "Prolapse", 

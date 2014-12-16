@@ -13,14 +13,15 @@
       "Nausea", 
       "Gastritis"
     ], 
-    "Abdomen": [
+    "Urine": [
       "Dull burning pain over left kidney", 
-      "Burning irritation at neck of bladder causing frequent intense desire to urinate and inability to retain urine for more than a few minutes, better urinating", 
       "Frequent urging, cutting pains", 
+      "Burning irritation at neck of bladder causing frequent intense desire to urinate and inability to retain urine for more than a few minutes, better urinating", 
       "Dragging pain from kidney to bladder", 
-      "Pain along left ureter", 
-      "Distended, sore, and sensitive", 
-      "Urine Section"
+      "Pain along left ureter"
+    ], 
+    "Abdomen": [
+      "Distended, sore, and sensitive"
     ], 
     "Female": [
       "Ovaries congested and painful; bearing-down spasmodic contractions", 

@@ -2,6 +2,31 @@
   "name": "Ammonium muriaticum", 
   "Relationship": "Antidotes: Coffea; Nux; Caust.", 
   "symptoms": {
+    "Eyes": [
+      "Mist before eyes, optical illusions in incipient cataract; capsular cataract"
+    ], 
+    "Fever": [
+      "CHILLINESS EVENINGS AFTER LYING DOWN and on awakening, without thirst", 
+      "Sub acute, low fevers due to unhealthy climate", 
+      "Lowest potencies", 
+      "Heat in palms and soles"
+    ], 
+    "Stomach": [
+      "Thirst for lemonade, regurgitation of food, bitter water brash", 
+      "Gnawing in stomach", 
+      "Cancer of stomach", 
+      "Epigastric pain immediately after eating", 
+      "Nausea"
+    ], 
+    "Abdomen": [
+      "Much flatus", 
+      "Chronic congestion of liver", 
+      "Splenic stitches, especially in the morning, with difficult breathing", 
+      "Pain around navel", 
+      "Abdominal symptoms appear during pregnancy", 
+      "Strained feeling in groin", 
+      "Excessive fatty deposit around abdomen"
+    ], 
     "Rectum": [
       "Hard, CRUMBLY stool, or covered with glairy mucus", 
       "During and after stool, burning and smarting in rectum", 
@@ -9,9 +34,6 @@
       "Hemorrhoids after suppressed leucorrhoea", 
       "Stinging in perinaeum", 
       "Green mucus stools alternate with constipation"
-    ], 
-    "Eyes": [
-      "Mist before eyes, optical illusions in incipient cataract; capsular cataract"
     ], 
     "Respiratory": [
       "Burning at small spots in chest", 
@@ -23,18 +45,21 @@
       "Scanty secretion", 
       "Cough with profuse salivation"
     ], 
-    "Stomach": [
-      "Thirst for lemonade, regurgitation of food, bitter water brash", 
-      "Gnawing in stomach", 
-      "Cancer of stomach", 
-      "Epigastric pain immediately after eating", 
-      "Nausea"
+    "Head": [
+      "Feels full, compressed; worse mornings", 
+      "Hair falls out, with itchiness and dandruff"
     ], 
-    "Female": [
-      "Menses too early, too free, dark, clotted; FLOW MORE AT NIGHT", 
-      "Diarrhoea, greenish mucous stools, and navel pain DURING MENSES", 
-      "Pain as if sprained in left side of abdomen during pregnancy", 
-      "Leucorrhoea, like white of an egg ; with pain about the navel; brown, slimy AFTER EVERY URINATION"
+    "Face": [
+      "Inflammatory face ache", 
+      "Mouth and lips sore and excoriated"
+    ], 
+    "Nose": [
+      "OBSTRUCTED, STUFFY FEELING; constant and unavailing efforts to blow it out", 
+      "Free ACRID, HOT WATERY DISCHARGE corroding the lip", 
+      "Itching", 
+      "Sneezing", 
+      "LOSS OF SMELL", 
+      "Nose sore to touch; ulcerative pain in nostrils"
     ], 
     "Modalities": [
       "Worse: head and chest symptoms in the morning; abdominal symptoms in the afternoon"
@@ -49,27 +74,11 @@
       "ICY COLD BETWEEN SHOULDERS; not relieved by warm covering, followed by itching", 
       "Backache, as if in a vise when sitting"
     ], 
-    "Face": [
-      "Inflammatory face ache", 
-      "Mouth and lips sore and excoriated"
-    ], 
-    "Fever": [
-      "CHILLINESS EVENINGS AFTER LYING DOWN and on awakening, without thirst", 
-      "Sub acute, low fevers due to unhealthy climate", 
-      "Lowest potencies", 
-      "Heat in palms and soles"
-    ], 
-    "Nose": [
-      "OBSTRUCTED, STUFFY FEELING; constant and unavailing efforts to blow it out", 
-      "Free ACRID, HOT WATERY DISCHARGE corroding the lip", 
-      "Itching", 
-      "Sneezing", 
-      "LOSS OF SMELL", 
-      "Nose sore to touch; ulcerative pain in nostrils"
-    ], 
-    "Head": [
-      "Feels full, compressed; worse mornings", 
-      "Hair falls out, with itchiness and dandruff"
+    "Female": [
+      "Menses too early, too free, dark, clotted; FLOW MORE AT NIGHT", 
+      "Diarrhoea, greenish mucous stools, and navel pain DURING MENSES", 
+      "Pain as if sprained in left side of abdomen during pregnancy", 
+      "Leucorrhoea, like white of an egg ; with pain about the navel; brown, slimy AFTER EVERY URINATION"
     ], 
     "Skin": [
       "Blisters on various parts", 
@@ -83,15 +92,6 @@
       "Throbbing in, and swelling of tonsils, can scarcely swallow", 
       "Stricture of oesophagus", 
       "TONSILLITIS"
-    ], 
-    "Abdomen": [
-      "Much flatus", 
-      "Chronic congestion of liver", 
-      "Splenic stitches, especially in the morning, with difficult breathing", 
-      "Pain around navel", 
-      "Abdominal symptoms appear during pregnancy", 
-      "Strained feeling in groin", 
-      "Excessive fatty deposit around abdomen"
     ], 
     "Extremities": [
       "Shooting and tearing IN TIPS OF FINGERS AND TOES", 

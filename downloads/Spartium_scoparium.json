@@ -16,10 +16,11 @@
       "Myocardial degeneration, failing compensation"
     ], 
     "Stomach": [
-      "Burning along urinary tract or in pudendum", 
-      "PROFUSE FLOW OF URINE", 
-      "Urinary Organs", 
       "Great accumulation of gas in gastrointestinal canal, with mental depression"
+    ], 
+    "Urine": [
+      "Burning along urinary tract or in pudendum", 
+      "PROFUSE FLOW OF URINE"
     ]
   }, 
   "name": "Spartium scoparium", 

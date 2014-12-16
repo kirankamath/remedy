@@ -4,15 +4,16 @@
   ], 
   "symptoms": {
     "Respiratory": [
+      "Smarting in throat and larynx", 
+      "Cough, with sense of constriction"
+    ], 
+    "Urine": [
       "Difficult and frequent micturition", 
       "RENAL COLIC  Congestion of kidneys with dull pain in back, running down the ureters and limbs", 
-      "Cough, with sense of constriction", 
-      "Irritable bladder from enlarged prostate gland, or from pressure of uterus", 
-      "Tenesmus of bladder and urethra", 
-      "Smarting in throat and larynx", 
       "Pain behind pubes", 
       "Spasmodic stricture", 
-      "Urinary Organs"
+      "Irritable bladder from enlarged prostate gland, or from pressure of uterus", 
+      "Tenesmus of bladder and urethra"
     ], 
     "Male": [
       "Discharge of prostatic fluid from slight causes", 

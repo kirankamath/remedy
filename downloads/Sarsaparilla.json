@@ -21,26 +21,27 @@
       "Worse: in spring", 
       "Worse: before menses"
     ], 
+    "Urine": [
+      "Bladder distended and tender", 
+      "Sand on diaper", 
+      "Tenesmus of bladder; urine passes in thin, feeble stream", 
+      "PAIN FROM RIGHT KIDNEY DOWNWARD", 
+      "Urine scanty, slimy, flaky, sandy, BLOODY", 
+      "Renal colic and dysuria in infants", 
+      "URINE DRIBBLES WHILE SITTING", 
+      "Renal colic", 
+      "Pain at meatus", 
+      "SEVERE PAIN AT CONCLUSION OF URINATION", 
+      "Gravel", 
+      "CHILD SCREAMS BEFORE AND WHILE PASSING URINE"
+    ], 
     "Mind": [
       "Despondent, sensitive, easily offended, ill humored and taciturn"
     ], 
     "Abdomen": [
-      "Bladder distended and tender", 
-      "Sand on diaper", 
-      "Rumbling and fermentation", 
-      "URINE DRIBBLES WHILE SITTING", 
       "COLIC AND BACKACHE AT THE SAME TIME", 
-      "PAIN FROM RIGHT KIDNEY DOWNWARD", 
-      "Much flatus; cholera infantum", 
-      "Urine scanty, slimy, flaky, sandy, BLOODY", 
-      "Renal colic and dysuria in infants", 
-      "Tenesmus of bladder; urine passes in thin, feeble stream", 
-      "Renal colic", 
-      "Pain at meatus", 
-      "CHILD SCREAMS BEFORE AND WHILE PASSING URINE", 
-      "SEVERE PAIN AT CONCLUSION OF URINATION", 
-      "Gravel", 
-      "Urinary Organs"
+      "Rumbling and fermentation", 
+      "Much flatus; cholera infantum"
     ], 
     "Mouth": [
       "Fetid breath", 

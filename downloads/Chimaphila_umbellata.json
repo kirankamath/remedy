@@ -11,19 +11,20 @@
     "Modalities": [
       "Worse: in damp weather; from sitting on cold stones or pavements; left side"
     ], 
-    "Mouth": [
+    "Urine": [
       "SUGAR IN URINE", 
       "MUST STRAIN before flow comes", 
+      "Burning and scalding during micturition, and straining afterwards", 
       "Urine turbid, offensive, containing ropy or bloody mucus, and depositing a copious sediment", 
-      "Acute prostatitis, retention, and FEELING OF A BALL IN PERINEUM", 
       "Urging to urinate", 
-      "Toothache, worse after eating and exertion, better cool water", 
       "Fluttering in region of kidney", 
       "Scanty urine", 
       "Unable to urinate without standing with feet wide apart and body inclined forward", 
-      "Pain as if tooth was being gently pulled", 
-      "Burning and scalding during micturition, and straining afterwards", 
-      "Urinary Organs"
+      "Acute prostatitis, retention, and FEELING OF A BALL IN PERINEUM"
+    ], 
+    "Mouth": [
+      "Toothache, worse after eating and exertion, better cool water", 
+      "Pain as if tooth was being gently pulled"
     ], 
     "Female": [
       "Hot flashes", 

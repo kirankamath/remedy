@@ -2,18 +2,19 @@
   "name": "Alumina", 
   "Relationship": "Compare: ALUMINUM CHLORIDUM. (Pains of loco-motor ataxia. Lower trit. in water. SLAG SILICO-SULPHOCALCITE OF ALUMINA 3x (anal itching, piles, constipation, flatulent distention); SECALE; LATHYR.; PLUMB. ALUMINUM ACETATE solution. (Externally a lotion for putrid wounds and skin infections. Arrests hemorrhage from inertia of uterus. Parenchymatous hemorrhage from various organs 2-3% solution. Hemorrhage following tonsillectomy is controlled by rinsing out nasopharynx with a 10% sol.Antidotes: Ipecac.; Chamomile.Complementary: Bryonia.", 
   "symptoms": {
-    "Stool": [
-      "Muscles of bladder paretic, MUST STRAIN AT STOOL IN ORDER TO URINATE", 
-      "EVEN A SOFT IS PASSED WITH DIFFICULTY", 
-      "Pain in kidneys, with mental confusion", 
-      "Constipation of infants  and old people from inactive rectum, and in women of very sedentary habit", 
+    "Urine": [
       "Frequent desire to urinate in old people", 
+      "Muscles of bladder paretic, MUST STRAIN AT STOOL IN ORDER TO URINATE", 
+      "Difficult starting", 
+      "Pain in kidneys, with mental confusion"
+    ], 
+    "Stool": [
       "Itching and burning at anus", 
+      "EVEN A SOFT IS PASSED WITH DIFFICULTY", 
+      "Constipation of infants  and old people from inactive rectum, and in women of very sedentary habit", 
       "GREAT STRAINING", 
       "HARD, DRY, KNOTTY; NO DESIRE", 
       "EVACUATION PRECEDED BY PAINFUL URGING LONG BEFORE STOOL, AND THEN STRAINING AT STOOL", 
-      "Difficult starting", 
-      "Urine Section", 
       "Rectum sore, dry, inflamed, bleeding", 
       "Diarrhoea on urinating"
     ], 
@@ -87,9 +88,9 @@
       "Eustachian tube feels plugged"
     ], 
     "Modalities": [
-      "Better: in open air; from cold washing; in evening and on alternate days", 
       "Worse: periodically; in afternoon; from potatoes", 
       "Worse: in morning on awakening; warm room", 
+      "Better: in open air; from cold washing; in evening and on alternate days", 
       "Better: damp weather"
     ], 
     "Mind": [

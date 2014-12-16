@@ -17,11 +17,12 @@
     ], 
     "Respiratory": [
       "Cough, with HEMOPTYSIS, bleeding small but frequent", 
-      "Bladder feels distended when empty", 
+      "Wheezing"
+    ], 
+    "Urine": [
       "PAIN IN TESTICLES", 
       "Profuse flow of liquid, watery urine, especially when the heart is most irritable; also scanty urine", 
-      "Wheezing", 
-      "Urine Section", 
+      "Bladder feels distended when empty", 
       "Diabetes"
     ], 
     "Head": [

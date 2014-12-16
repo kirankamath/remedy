@@ -27,14 +27,14 @@
       "Pain in left lower ribs", 
       "Raw, sore feeling when coughing"
     ], 
-    "Modalities": [], 
-    "Back": [
+    "Urine": [
       "Diuresis", 
-      "Frequent urination", 
-      "Urine PROFUSE, TURBID, sweet odor", 
-      "Severe backache; must walk bent, with oppression of chest", 
       "Polyuria", 
-      "Urine Section"
+      "Urine PROFUSE, TURBID, sweet odor", 
+      "Frequent urination"
+    ], 
+    "Back": [
+      "Severe backache; must walk bent, with oppression of chest"
     ], 
     "Female": [
       "Bearing-down pain", 

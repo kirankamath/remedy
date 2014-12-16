@@ -3,9 +3,6 @@
   "Relationship": "Compare: DIGIT.; STROPHANT.; APOCYN. CAN.; BRY.; KALI-CARB. Squilla follows DIGITALIS, if this fails to relieve water-logged cases.", 
   "symptoms": {
     "Heart": [
-      "INVOLUNTARY spurting of urine when coughing", 
-      "Great urging; MUCH WATERY URINE", 
-      "Urinary Organs", 
       "A cardiac stimulant affecting the peripheral vessels and coronary arteries"
     ], 
     "Eyes": [
@@ -29,6 +26,10 @@
     "Modalities": [
       "Better: rest; WORSE", 
       "Better: motion"
+    ], 
+    "Urine": [
+      "INVOLUNTARY spurting of urine when coughing", 
+      "Great urging; MUCH WATERY URINE"
     ], 
     "Skin": [
       "Small, red spots over body, with prickling pain"

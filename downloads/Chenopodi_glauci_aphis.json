@@ -17,16 +17,17 @@
     ], 
     "Stomach": [
       "Hard and knotty", 
-      "Voluptuous feeling in glans", 
       "No appetite for meat and bread", 
       "Much mucus", 
-      "Urination frequent, copious, frothy", 
-      "Burning in urethra", 
-      "Stools", 
-      "Diarrhoea in morning, with painful urging and burning in anus, and pressure in rectum and bladder", 
       "Vesicles at end of tongue", 
-      "Colic with much rumbling and ineffectual urging to stool", 
-      "Urinary Organs"
+      "Diarrhoea in morning, with painful urging and burning in anus, and pressure in rectum and bladder", 
+      "Stools", 
+      "Colic with much rumbling and ineffectual urging to stool"
+    ], 
+    "Urine": [
+      "Voluptuous feeling in glans", 
+      "Urination frequent, copious, frothy", 
+      "Burning in urethra"
     ], 
     "Back": [
       "Severe pains in region of LOWER INNER ANGLE OF LEFT SHOULDER-BLADE, running into chest"

@@ -6,11 +6,25 @@
       "Worse: right side; movement", 
       "Worse: pressure", 
       "Worse: touch", 
-      "Worse: sitting down;BETTER", 
-      "Worse: in afternoon from lying down"
+      "Worse: sitting down;", 
+      "Better: in afternoon from lying down"
+    ], 
+    "Urine": [
+      "Involuntary urination", 
+      "Severe, dull pain and feeling of fullness in bladder, not relieved by urinating", 
+      "Much mucus in urine", 
+      "Sharp, BURNING, cutting pain in urethra while urinating", 
+      "Retention and dysuria during pregnancy and after delivery", 
+      "Urine flows only drop by drop", 
+      "Incontinence in old women, also with involuntary stools", 
+      "Deep pain in region of right kidney, extending to lower abdomen, with urgent desire to micturate", 
+      "Albuminuria", 
+      "Frequent urging with severe pain AT THE CLOSE OF URINATION", 
+      "Incontinence in children, with dreams or night-mares when passing urine", 
+      "Right lumbar region painful"
     ]
   }, 
-  "details": "Deep pain in region of right kidney, extending to lower abdomen, with urgent desire to micturate. Right lumbar region painful.Principal action on the bladder. A remedy for enuresis and dysuria.Incontinence in children, with dreams or night-mares when passing urine. Incontinence in old women, also with involuntary stools. Retention and dysuria during pregnancy and after delivery. Much mucus in urine. Albuminuria. Involuntary urination.Severe, dull pain and feeling of fullness in bladder, not relieved by urinating. Frequent urging with severe pain AT THE CLOSE OF URINATION. Urine flows only drop by drop. Sharp, BURNING, cutting pain in urethra while urinating.Urinary Organs.", 
+  "details": "Principal action on the bladder. A remedy for enuresis and dysuria.", 
   "Natural History": [
     "Scouring-rush"
   ], 

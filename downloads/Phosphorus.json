@@ -2,20 +2,21 @@
   "name": "Phosphorus", 
   "Relationship": "Antidote: Antidote to Phosph. Poisoning: TURPENTINE with which it forms an insoluble mass. Also POTASS PERMANG. NUX. PHOS. antidotes the nausea and vomiting of CHLOROFORM and ether.Complementary: ARS.; CEPA; LYC.; SILICA. SANGUISUGA 30 - Leech - (PERSISTENT HEMORRHAGES; effects of use of leeches.) PHOSPH. PENTACHLORIDE (great soreness of mucous membrane of EYES and nose, throat and chest sore).Compare: TUBERCULINUM follows PHOSPHOR well and complements its action. PHOSPHORUS HYDROGENATUS (crumbling teeth; hyperesthesia; locomotor ataxia); AMPHISBAENA (right jaw swollen and painful). THYMOL (Typical sexual neurasthenia; irritable stomach; aching throughout lumbar region; worse, mental and physical exertion); CALC.; CHIN.; ANTIM.; SEP.; LYC.; SULPH. In Pneumonia, Pneumococin 200 and Pneumotoxin (Cahis) taken from the Diplococcus lanceolatus of Fraenkel. Pneumonia and paralytic phenomena; pleuritic pain and pain in ilio-coecal region (Cartier).Incompatible: CAUST.", 
   "symptoms": {
+    "Urine": [
+      "Hematuria, especially in acute Bright's disease", 
+      "Turbid, brown, with red sediment"
+    ], 
     "Stool": [
       "Long, narrow, hard, like a dog's", 
       "Discharge of blood from rectum, during stool", 
       "WHITE, hard stools", 
       "Desire for stool on lying on left side", 
-      "Turbid, brown, with red sediment", 
       "Bleeding hemorrhoids", 
       "GREAT WEAKNESS AFTER STOOL", 
-      "Difficult to expel", 
       "Involuntary; seems as if anus remained open", 
       "PAINLESS, copious DEBILITATING diarrhoea", 
-      "Hematuria, especially in acute Bright's disease", 
       "Green mucus, with grains like sago", 
-      "Urine Section", 
+      "Difficult to expel", 
       "VERY FETID STOOLS AND FLATUS"
     ], 
     "Head": [

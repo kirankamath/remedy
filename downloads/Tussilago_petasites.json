@@ -3,6 +3,9 @@
     "Butter-burr"
   ], 
   "symptoms": {
+    "Urine": [
+      "Crawling in urethra"
+    ], 
     "Male": [
       "Erections, with urethral crawling", 
       "Gonorrhea; yellowish, thick discharge", 
@@ -12,5 +15,5 @@
   }, 
   "name": "Tussilago petasites", 
   "Relationship": "Compare: TUSSILAGO FRAGRANS (pylorus pain, plethora and corpulency); TUSSILAGO FARFARA (coughs); as an intercurrent medicine in phthisis pulmonalis. (See Tuberculinum.)", 
-  "details": "Urinary Organs.Has some action on the urinary organs, and found useful in gonorrhea. Affections of pylorus.Crawling in urethra."
+  "details": "Has some action on the urinary organs, and found useful in gonorrhea. Affections of pylorus."
 }

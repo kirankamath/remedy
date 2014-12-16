@@ -2,48 +2,10 @@
   "name": "Mezereum", 
   "Relationship": "Antidotes: KALI-HYD.; MERC.Compare: DIRCA PALUSTRIS - Leather wood - (a gastrointestinal irritant inducing salivation, emesis and purgation; cerebral hyperaemia; neuralgic pains, with depression, palpitation, and dyspnoea); MERC.; PHYT.; RHUS; GUAIAC.; SYPH.", 
   "symptoms": {
-    "Eyes": [
-      "CILIARY NEURALGIA AFTER OPERATIONS", 
-      "Pains radiate and shoot downward, WITH COLD FEELING AND STIFFNESS OF BONE", 
-      "Especially after removal of eyeball"
-    ], 
     "Respiratory": [
       "Constriction across chest", 
       "Soreness and burning in bones of thorax", 
       "Cough; worse, eating, irritation lower than can be reached, on taking a warm drink"
-    ], 
-    "Stomach": [
-      "Desire for ham-fat", 
-      "GASTRIC ULCER with much burning", 
-      "Burning in tongue, extending to stomach", 
-      "MOUTH WATERS", 
-      "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
-      "Nausea felt in throat; better, eating"
-    ], 
-    "Modalities": [
-      "Better: open air", 
-      "Worse: cold air; night", 
-      "Worse: evening until midnight", 
-      "Worse: warm food", 
-      "Worse: touch", 
-      "Worse: motion"
-    ], 
-    "Abdomen": [
-      "Swelling of glands with large abdomen in children", 
-      "Flatulent colic, with shivering and difficult respiration", 
-      "Pressure in inguinal ring"
-    ], 
-    "Face": [
-      "Eruption around mouth, with coryza", 
-      "Red"
-    ], 
-    "Female": [
-      "Menses too frequent, soon, profuse", 
-      "Leucorrhoea like albumen; very corroding"
-    ], 
-    "Nose": [
-      "Sneezing, coryza, interior of nose, excoriated", 
-      "Post-nasal adenoids"
     ], 
     "Head": [
       "Stupefying headache in right side", 
@@ -55,6 +17,66 @@
       "Teeth feel elongated", 
       "Affections of external head; scaly eruption, white scabs"
     ], 
+    "Face": [
+      "Eruption around mouth, with coryza", 
+      "Red"
+    ], 
+    "Nose": [
+      "Sneezing, coryza, interior of nose, excoriated", 
+      "Post-nasal adenoids"
+    ], 
+    "Male": [
+      "Violent sexual desire", 
+      "Gonorrhea, with hematuria", 
+      "ENLARGEMENT OF TESTICLES"
+    ], 
+    "Extremities": [
+      "PAIN and burning in tibia and long bones", 
+      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
+      "Legs and feet go to sleep", 
+      "Pain in hip and knee"
+    ], 
+    "Ears": [
+      "Feel too much open, AS IF TYMPANUM WAS EXPOSED TO THE COLD AIR AND IT BLEW INTO THE EAR", 
+      "Desire to bore fingers in"
+    ], 
+    "Eyes": [
+      "CILIARY NEURALGIA AFTER OPERATIONS", 
+      "Pains radiate and shoot downward, WITH COLD FEELING AND STIFFNESS OF BONE", 
+      "Especially after removal of eyeball"
+    ], 
+    "Stomach": [
+      "Desire for ham-fat", 
+      "GASTRIC ULCER with much burning", 
+      "Burning in tongue, extending to stomach", 
+      "MOUTH WATERS", 
+      "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
+      "Nausea felt in throat; better, eating"
+    ], 
+    "Modalities": [
+      "Worse: cold air; night", 
+      "Worse: evening until midnight", 
+      "Worse: warm food", 
+      "Worse: touch", 
+      "Worse: motion", 
+      "Better: open air"
+    ], 
+    "Urine": [
+      "Biting, burning in forepart of urethra at the close of micturition", 
+      "After urinating, a few drops of blood are passed", 
+      "Hot, bloody", 
+      "Hematuria preceded by cramp pain in the bladder", 
+      "Red flakes float on top of urine"
+    ], 
+    "Abdomen": [
+      "Swelling of glands with large abdomen in children", 
+      "Flatulent colic, with shivering and difficult respiration", 
+      "Pressure in inguinal ring"
+    ], 
+    "Female": [
+      "Menses too frequent, soon, profuse", 
+      "Leucorrhoea like albumen; very corroding"
+    ], 
     "Skin": [
       "Eczema; INTOLERABLE ITCHING; chilliness with pruritus; worse in bed", 
       "Zona, with burning pain", 
@@ -64,32 +86,11 @@
     ], 
     "Rectum": [
       "Constipation after confinement", 
-      "Constriction of anus; stitches and prolapse of rectum", 
-      "GREEN DISCHARGES", 
-      "Biting, burning in forepart of urethra at the close of micturition", 
-      "Red flakes float on top of urine", 
-      "Diarrhoea, with small, white particles", 
-      "After urinating, a few drops of blood are passed", 
-      "Hematuria preceded by cramp pain in the bladder", 
       "Constipation, with hepatic and uterine inertia", 
-      "Hot, bloody", 
-      "Urine Section", 
+      "GREEN DISCHARGES", 
+      "Diarrhoea, with small, white particles", 
+      "Constriction of anus; stitches and prolapse of rectum", 
       "Prolapse of rectum"
-    ], 
-    "Extremities": [
-      "PAIN and burning in tibia and long bones", 
-      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
-      "Legs and feet go to sleep", 
-      "Pain in hip and knee"
-    ], 
-    "Male": [
-      "Violent sexual desire", 
-      "Gonorrhea, with hematuria", 
-      "ENLARGEMENT OF TESTICLES"
-    ], 
-    "Ears": [
-      "Feel too much open, AS IF TYMPANUM WAS EXPOSED TO THE COLD AIR AND IT BLEW INTO THE EAR", 
-      "Desire to bore fingers in"
     ]
   }, 
   "details": "Skin symptoms, affections of bones, and neuralgias most important, especially about teeth and face. Bruised, weary feeling in joints, with drawing and stiffness. PAINS OF VARIOUS KINDS, WITH CHILLINESS AND SENSITIVENESS TO COLD AIR. Bone pains. Eruptions after vaccination. Burning, darting sensation in the muscles, subsultus tendinum. Pains shoot upward and seem to draw patient up out of bed. Semi-lateral complaints. PATIENT IS VERY SENSITIVE TO COLD AIR.", 

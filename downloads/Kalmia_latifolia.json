@@ -24,22 +24,24 @@
       "Vision impaired"
     ], 
     "Stomach": [
-      "Sensation of something being pressed under the epigastrium", 
-      "NAUSEA; vomiting", 
-      "Post-scarlatinal nephritis", 
-      "Frequent, with sharp pains in lumbar region", 
-      "Warm, glowing sensation in epigastrium", 
       "Bilious attacks, with nausea, vertigo, and headache", 
+      "NAUSEA; vomiting", 
       "PAIN IN PIT OF STOMACH; WORSE BY BENDING FORWARD; RELIEVED BY SITTING ERECT", 
-      "Urinary Organs"
+      "Sensation of something being pressed under the epigastrium", 
+      "Warm, glowing sensation in epigastrium"
     ], 
-    "Female": [
-      "Menses too early, or suppressed, with pain in limbs and back and inside of thighs", 
-      "Leucorrhoea follows menses"
+    "Head": [
+      "Confusion of brain", 
+      "VERTIGO; worse stooping", 
+      "Pain in front and temporal region from head to nape and to teeth; from cardiac origin"
     ], 
     "Modalities": [
       "Worse: leaning forward ; looking down; motion", 
       "Worse: open air"
+    ], 
+    "Urine": [
+      "Frequent, with sharp pains in lumbar region", 
+      "Post-scarlatinal nephritis"
     ], 
     "Back": [
       "LUMBAR PAINS, OF NERVOUS ORIGIN", 
@@ -54,10 +56,9 @@
     "Sleep": [
       "Sleepless, WAKES VERY EARLY IN MORNING"
     ], 
-    "Head": [
-      "Confusion of brain", 
-      "VERTIGO; worse stooping", 
-      "Pain in front and temporal region from head to nape and to teeth; from cardiac origin"
+    "Female": [
+      "Menses too early, or suppressed, with pain in limbs and back and inside of thighs", 
+      "Leucorrhoea follows menses"
     ], 
     "Extremities": [
       "PAINS ALONG ULNAR NERVE, index finger", 

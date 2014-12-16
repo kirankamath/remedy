@@ -24,13 +24,13 @@
       "Chilliness on the slightest motion"
     ], 
     "Modalities": [
-      "Better: lying on right side with head high; inspiring", 
       "Worse: from touch", 
       "Worse: motion", 
       "Worse: noise", 
       "Worse: turning", 
       "Worse: washing", 
-      "Worse: concussion"
+      "Worse: concussion", 
+      "Better: lying on right side with head high; inspiring"
     ], 
     "Mind": [
       "Afraid of sharp, pointed things, pins, needles, etc."
@@ -44,15 +44,15 @@
     "Face": [
       "PROSOPALGIA, INVOLVING EYE, ZYGOMA, CHEEK, TEETH, TEMPLE, worse, stooping, touch, from morning until sunset"
     ], 
+    "Nose": [
+      "CHRONIC CATARRH, with post-nasal dropping of bland mucus", 
+      "Forepart of nose always dry; DISCHARGE THROUGH POSTERIOR NARES"
+    ], 
     "Mouth": [
       "Tongue fissured, painful", 
       "Tearing toothache; worse, after eating and cold", 
       "Offensive taste", 
       "FOUL ODOR FROM MOUTH"
-    ], 
-    "Nose": [
-      "CHRONIC CATARRH, with post-nasal dropping of bland mucus", 
-      "Forepart of nose always dry; DISCHARGE THROUGH POSTERIOR NARES"
     ], 
     "Rectum": [
       "Frequent ineffectual urging to stool", 

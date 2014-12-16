@@ -20,19 +20,20 @@
       "Full feeling", 
       "Gastric discomfort"
     ], 
+    "Urine": [
+      "Priapism", 
+      "Burning in bladder and urethra", 
+      "Difficult micturition", 
+      "Bladder feels full, swollen; frequent inclination without success"
+    ], 
     "Mind": [
       "Sad, apprehensive", 
       "Unable to concentrate; starts at any noise"
     ], 
     "Chest": [
-      "Priapism", 
-      "Burning in bladder and urethra", 
-      "Palpitation, cardiac pain, slow intermittent pulse", 
-      "Great flow of milk", 
-      "Difficult micturition", 
       "Dyspnoea, cough with pain in chest in spots, feels as if spitting blood", 
-      "Urinary Organs", 
-      "Bladder feels full, swollen; frequent inclination without success"
+      "Palpitation, cardiac pain, slow intermittent pulse", 
+      "Great flow of milk"
     ], 
     "Throat": [
       "Sore, feels raw, burns", 

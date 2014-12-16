@@ -7,11 +7,12 @@
       "Eyes pain; are inflamed and watery", 
       "Coryza with heavy head"
     ], 
+    "Urine": [
+      "Urethra inflamed; discharge of yellow matter"
+    ], 
     "Throat": [
-      "Urethra inflamed; discharge of yellow matter", 
       "Vesicles in pharynx", 
-      "Sore, dry, constricted", 
-      "Urinary Organs"
+      "Sore, dry, constricted"
     ], 
     "Extremities": [
       "Morning soreness and stiffness of muscles", 

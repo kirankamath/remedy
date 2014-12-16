@@ -2,10 +2,16 @@
   "name": "Bryonia", 
   "Relationship": "Complementary: Upas when Bryonia fails. Rhus; Alumina. Illecebrum. A Mexican drug. - (Fever with catarrhal symptoms, gastric and typhoid fever symptoms.)Compare: Asclep. tub.; Kali-mur.; Ptelea.Antidotes: Acon.; Cham.; Nux.", 
   "symptoms": {
-    "Eyes": [
-      "Glaucoma", 
-      "Sore to touch and when moving them", 
-      "Pressing, crushing, aching pain"
+    "Urine": [
+      "Red, brown, like beer; scanty, hot"
+    ], 
+    "Head": [
+      "Headache becomes seated in occiput", 
+      "Drawing in bones towards zygoma", 
+      "Vertigo, nausea, faintness on rising, confusion", 
+      "Frontal headache, frontal sinuses involved", 
+      "Headache; worse on motion, even of eyeballs", 
+      "BURSTING, SPLITTING HEADACHE, as if everything would be pressed out; as if hit by a hammer from within; wore from motion, stooping, opening eyes"
     ], 
     "Fever": [
       "Sour sweat after slight exertion", 
@@ -27,31 +33,20 @@
       "Abnormal hunger, loss of taste", 
       "Thirst for large drafts"
     ], 
-    "Modalities": [
-      "Better: lying on PAINFUL SIDE", 
-      "Better: PRESSURE", 
-      "Better: REST", 
-      "Better: COLD THINGS", 
-      "Worse: warmth", 
-      "Worse: any motion", 
-      "Worse: morning", 
-      "Worse: eating", 
-      "Worse: hot weather", 
-      "Worse: exertion", 
-      "Worse: touch"
-    ], 
-    "Mind": [
-      "Exceedingly IRRITABLE; everything puts him out of humor", 
-      "Delirium; wants to go home; TALKS OF BUSINESS"
-    ], 
     "Abdomen": [
-      "Constipation; stools hard, dry, as if burnt; seem too large", 
-      "Red, brown, like beer; scanty, hot", 
+      "Tenderness of abdominal walls", 
       "Burning pain, STITCHES; WORSE, PRESSURE, COUGHING, BREATHING", 
       "Stools brown, thick, bloody; WORSE IN MORNING, FROM MOVING, in hot weather, after being heated, from cold drinks, every spell of hot weather", 
-      "Liver region swollen, sore, tensive", 
-      "Tenderness of abdominal walls", 
-      "Urine Section"
+      "Constipation; stools hard, dry, as if burnt; seem too large", 
+      "Liver region swollen, sore, tensive"
+    ], 
+    "Mouth": [
+      "DRYNESS OF MOUTH, TONGUE, AND THROAT, WITH EXCESSIVE THIRST", 
+      "LIPS PARCHED, DRY, CRACKED", 
+      "Burning in lower lip in old smokers", 
+      "Lip swollen, dry, black and cracked", 
+      "Tongue coated yellowish, dark brown; heavily white in gastric derangement", 
+      "Bitter taste"
     ], 
     "Respiratory": [
       "COMING INTO WARM ROOM EXCITES COUGH", 
@@ -73,13 +68,10 @@
       "Cough worse by going into warm room", 
       "Dry, hacking cough from irritation in upper trachea"
     ], 
-    "Mouth": [
-      "DRYNESS OF MOUTH, TONGUE, AND THROAT, WITH EXCESSIVE THIRST", 
-      "LIPS PARCHED, DRY, CRACKED", 
-      "Burning in lower lip in old smokers", 
-      "Lip swollen, dry, black and cracked", 
-      "Tongue coated yellowish, dark brown; heavily white in gastric derangement", 
-      "Bitter taste"
+    "Eyes": [
+      "Glaucoma", 
+      "Sore to touch and when moving them", 
+      "Pressing, crushing, aching pain"
     ], 
     "Nose": [
       "Coryza with shooting and aching in the forehead", 
@@ -87,33 +79,30 @@
       "FREQUENT BLEEDING OF NOSE WHEN MENSES SHOULD APPEAR", 
       "Swelling of tip of nose, feels as if it would ulcerate when touched"
     ], 
-    "Head": [
-      "Headache becomes seated in occiput", 
-      "Drawing in bones towards zygoma", 
-      "Vertigo, nausea, faintness on rising, confusion", 
-      "Frontal headache, frontal sinuses involved", 
-      "Headache; worse on motion, even of eyeballs", 
-      "BURSTING, SPLITTING HEADACHE, as if everything would be pressed out; as if hit by a hammer from within; wore from motion, stooping, opening eyes"
+    "Ears": [
+      "Aural vertigo", 
+      "Roaring, buzzing"
     ], 
-    "Skin": [
-      "HAIR VERY GREASY", 
-      "Yellow, pale, swollen, dropsical; hot and painful", 
-      "Seborrhoea"
+    "Modalities": [
+      "Worse: warmth", 
+      "Worse: any motion", 
+      "Worse: morning", 
+      "Worse: eating", 
+      "Worse: hot weather", 
+      "Worse: exertion", 
+      "Worse: touch", 
+      "Better: lying on PAINFUL SIDE", 
+      "Better: PRESSURE", 
+      "Better: REST", 
+      "Better: COLD THINGS"
     ], 
-    "Throat": [
-      "Tough mucus in larynx and trachea, loosened only after much hawking; worse coming into warm room", 
-      "Dryness, sticking on swallowing, scraped and constricted"
+    "Mind": [
+      "Exceedingly IRRITABLE; everything puts him out of humor", 
+      "Delirium; wants to go home; TALKS OF BUSINESS"
     ], 
     "Sleep": [
       "Drowsy; starting when falling asleep", 
       "Delirium; busy with business matters and what he had read"
-    ], 
-    "Extremities": [
-      "Every spot is painful on pressure", 
-      "Constant motion of left arm and leg", 
-      "Hot swelling of feet", 
-      "JOINTS RED, SWOLLEN, HOT, with stitches and tearing; worse on least movement", 
-      "Knees stiff and painful"
     ], 
     "Female": [
       "BREASTS HOT AND PAINFUL, HARD", 
@@ -128,9 +117,21 @@
       "Stitching pains in ovaries on taking a deep inspiration; very sensitive to touch", 
       "Milk fever"
     ], 
-    "Ears": [
-      "Aural vertigo", 
-      "Roaring, buzzing"
+    "Skin": [
+      "HAIR VERY GREASY", 
+      "Yellow, pale, swollen, dropsical; hot and painful", 
+      "Seborrhoea"
+    ], 
+    "Throat": [
+      "Tough mucus in larynx and trachea, loosened only after much hawking; worse coming into warm room", 
+      "Dryness, sticking on swallowing, scraped and constricted"
+    ], 
+    "Extremities": [
+      "Every spot is painful on pressure", 
+      "Constant motion of left arm and leg", 
+      "Hot swelling of feet", 
+      "JOINTS RED, SWOLLEN, HOT, with stitches and tearing; worse on least movement", 
+      "Knees stiff and painful"
     ]
   }, 
   "details": "Bryonia affects especially the constitution of a robust, firm fiber and dark complexion, with tendency to leanness and irritability. It prefers the right side, the evening, and open air, warm weather after cold days, to manifest its action most markedly.Children dislike to be carried or raised. PHYSICAL WEAKNESS, all-pervading apathy. Complaints apt to develop slowly.Acts on all serous membranes and the viscera they contain. Aching in every muscle. The general character OF THE PAIN HERE PRODUCED IS A STITCHING, TEARING; WORSE BY MOTION, BETTER REST. These characteristic stitching pains, greatly aggravated by any motion, are found everywhere, but especially in the chest; worse pressure. MUCOUS MEMBRANES ARE ALL DRY. The Bryonia patient is irritable; has vertigo from raising the head, pressive headache; dry, parched lips, mouth; excessive thirst, bitter taste, sensitive epigastrium, and feeling of a stone in the stomach; stools large, dry, hard; dry cough; rheumatic pains and swellings; dropsical effusions into synovial and serous membranes.", 

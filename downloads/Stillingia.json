@@ -3,13 +3,10 @@
   "Relationship": "Compare: STAPHIS.; MERC.; SYPHIL.; AUR.; CORYDALIS (syphilitic nodes).", 
   "symptoms": {
     "Respiratory": [
-      "Urine colorless", 
+      "HOARSENESS and chronic laryngeal affections of public speakers", 
       "Dry, spasmodic cough", 
       "Trachea feels sore when pressed", 
-      "HOARSENESS and chronic laryngeal affections of public speakers", 
-      "Larynx constricted, with stinging in fauces", 
-      "DEPOSITS WHITE SEDIMENT; urine milky and thick", 
-      "Urinary Organs"
+      "Larynx constricted, with stinging in fauces"
     ], 
     "Modalities": [
       "Worse: in afternoon", 
@@ -17,6 +14,10 @@
       "Worse: motion", 
       "Better: in morning", 
       "Better: dry air"
+    ], 
+    "Urine": [
+      "Urine colorless", 
+      "DEPOSITS WHITE SEDIMENT; urine milky and thick"
     ], 
     "Mind": [
       "GLOOMY FOREBODINGS; depressed"

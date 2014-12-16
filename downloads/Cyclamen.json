@@ -18,15 +18,18 @@
       "Satiety after a few mouthfuls", 
       "Desire for lemonade"
     ], 
+    "Rectum": [
+      "PAIN ABOUT ANUS AND PERINEUM, as if a spot were suppurating, when walking or sitting"
+    ], 
     "Modalities": [
-      "Better: during menstrual flow", 
-      "Better: by moving about", 
-      "Better: rubbing parts; in warm room", 
-      "Better: lemonade", 
       "Worse: open air", 
       "Worse: evenings", 
       "Worse: sitting", 
-      "Worse: standing and cold water"
+      "Worse: standing and cold water", 
+      "Better: during menstrual flow", 
+      "Better: by moving about", 
+      "Better: rubbing parts; in warm room", 
+      "Better: lemonade"
     ], 
     "Head": [
       "Terrors of conscience", 
@@ -47,9 +50,6 @@
     ], 
     "Skin": [
       "Acne in young women, pruritus better scratching and appearance of menses"
-    ], 
-    "Rectum": [
-      "PAIN ABOUT ANUS AND PERINEUM, as if a spot were suppurating, when walking or sitting"
     ], 
     "Extremities": [
       "Pains in periosteum", 

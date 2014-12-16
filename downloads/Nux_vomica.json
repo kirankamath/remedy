@@ -2,25 +2,26 @@
   "name": "Nux vomica", 
   "Relationship": "NUX seeds contain copper, notice the cramp-causing proclivities of both Complementary: SULPHUR; SEPIA.Compare: STRYCHNIAInimical: ZINC.Antidotes: COFF.; IGNAT.; COCC.Compare: KALI-CARB.; HYDR.; BRY.; LYC.; GRAPH.", 
   "symptoms": {
-    "Stool": [
+    "Urine": [
       "Irritable bladder; from spasmodic sphincter", 
       "Ineffectual urging, spasmodic and strangury", 
+      "Renal colic extending to genitals, with dribbling urine", 
+      "Frequent calls; little and often", 
+      "Hematuria", 
+      "While urinating, itching in urethra and pain in neck of bladder"
+    ], 
+    "Stool": [
       "Diarrhoea, with jaundice", 
       "ITCHING, BLIND HEMORRHOIDS, with ineffectual urging to stool; very painful; after drastic drugs", 
       "CONSTANT UNEASINESS IN RECTUM", 
       "Irregular, peristaltic action; hence FREQUENT INEFFECTUAL DESIRE, OR PASSING BUT SMALL QUANTITIES AT EACH ATTEMPT", 
-      "Hematuria", 
-      "While urinating, itching in urethra and pain in neck of bladder", 
       "ABSENCE OF ALL DESIRE FOR DEFECATION IS A CONTRAINDICATION", 
       "Constipation, with FREQUENT INEFFECTUAL URGING, incomplete and unsatisfactory; FEELING AS IF PART REMAINED UN EXPELLED", 
       "Dysentery; stools RELIEVE PAINS FOR A TIME", 
       "Frequent small evacuations", 
-      "Renal colic extending to genitals, with dribbling urine", 
       "Scanty stool, with much urging", 
       "Alternate constipation and diarrhoea - after abuse of purgatives", 
-      "Frequent calls; little and often", 
       "Constriction of rectum", 
-      "Urine Section", 
       "Diarrhoea after a debauch; worse, morning", 
       "Urging to stool felt throughout abdomen"
     ], 

@@ -10,25 +10,26 @@
       "Sour or salty taste", 
       "Offensive smell from mouth", 
       "Heartburn", 
-      "Stream WEAK AND SLOW; only passed by pressing abdominal muscles", 
       "Tongue coated white", 
       "Furry sensation", 
-      "Urine Section", 
       "Hiccough and yawning"
+    ], 
+    "Urine": [
+      "Stream WEAK AND SLOW; only passed by pressing abdominal muscles"
     ], 
     "Mind": [
       "Discouraged and anxious about domestic duties"
     ], 
-    "Face": [
-      "Yellow, sallow; red and hot; pain in zygomatic process; feels as if cobwebs were on it"
-    ], 
+    "dosage": "", 
     "Rectum": [
       "Burning in rectum and anus", 
       "Stool slow, and only passed by much abdominal pressure", 
       "FAECES HELD BACK", 
       "Bleeding piles"
     ], 
-    "dosage": ""
+    "Face": [
+      "Yellow, sallow; red and hot; pain in zygomatic process; feels as if cobwebs were on it"
+    ]
   }, 
   "name": "Carlsbad", 
   "Relationship": "Compare: Nat-sulph.; Nux.", 

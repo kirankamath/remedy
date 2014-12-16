@@ -6,11 +6,12 @@
       "Appetite increased", 
       "Tongue coated, FOUL TASTE", 
       "Light, yellow, narrow, VERY OFFENSIVE stool", 
-      "Frequent, scanty, burning, difficult", 
       "Frontal headache, worse over left eye, in the evening, BETTER BY SHORT STEP", 
       "BELCHING", 
-      "Intestinal dyspepsia", 
-      "Urinary Organs"
+      "Intestinal dyspepsia"
+    ], 
+    "Urine": [
+      "Frequent, scanty, burning, difficult"
     ], 
     "Mind": [
       "Felt mean towards everyone", 

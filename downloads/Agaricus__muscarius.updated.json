@@ -2,6 +2,11 @@
   "name": "Agaricus  muscarius",
   "Relationship": "Compare: MUSCARINE, the alkaloid of Agaricus (has much power over secretions, increasing lachrymal, salivary, hepatic, etc., but diminishing renal; probably neurotic in origin, stimulating the terminal fibres of the secretory nerves of all these structures, hence SALIVATION, LACHRYMATION AND EXCESSIVE PERSPIRATION. ATROPIA exactly opposes MUSCARINE. Resembles Pilocarpine in action.) AMANITA VERNUS - spring mushroom - a variety of AGARICUS PHALLOIDES - Death cup - active principle is PHALLIN active like Muscarine. AMANITA PHALLOIDES (Death Cup - Deadly Agaric.) The poison is a toxalbumin, resembling the poison in the rattle snake and the poison excreted by the cholera and diphtheria germs. It acts on the red blood corpuscles, dissolving them so that blood escapes into the alimentary canal and the whole system is drained. The amount of this toxic principle is small, even handling of specimens and breathing of spores affects some people unpleasantly. The poison is slow in development. Even 12 to 20 hours after taking it the patient feels all right, but vertigo violent choleraic symptoms with rapid loss of strength with death the second or third day, preceded by stupor and spasms. Fatty degeneration of liver, heart and kidneys, hemorrhages in lungs, pleura and skin (Dr. J. Schier). Vomiting and purging. Continuous urging to stool, but no gastric, abdominal or rectal PAIN. Intense thirst for cold water, dry skin. Lethargic but mentally clear. SHARP CHANGES from rapid to slow and from slow to rapid breathing, extreme collapse, suppressed urine, but NO cold extremities or cramps.) AGARIC. EMET. (severe vertigo; all symptoms BETTER, COLD WATER; LONGING FOR ICE-WATER; gastritis cold sweat, vomiting sensation as if stomach was suspended on a string. TAMUS (chilblains and freckles). CIMIC.; CANN-I.; HYOS.; TARANTULA.Antidote: ABSINTH.; COFFEA; CAMPHOR.",
   "symptoms": {
+    "Urine": [
+      "Sudden and violent urging to urinate",
+      "Frequent urination",
+      "Stitches in urethra"
+    ],
     "Head": [
       "Head in constant motion",
       "Desire to cover head warmly",
@@ -29,14 +34,10 @@
       "Nervous disturbances, with spasmodic contractions, hiccough"
     ],
     "Abdomen": [
-      "Frequent urination",
-      "Stitches in urethra",
-      "Stitching pains in liver, SPLEEN  and abdomen",
-      "Diarrhoea with much fetid flatus",
-      "Sudden and violent urging to urinate",
       "Stitches under short ribs, left side",
+      "Stitching pains in liver, SPLEEN  and abdomen",
       "Fetid stools",
-      "Urinary Organs"
+      "Diarrhoea with much fetid flatus"
     ],
     "Mouth": [
       "Splinter like pains in tongue",
@@ -82,10 +83,8 @@
       "Pulse intermittent and irregular",
       "Palpitation with redness of face"
     ],
-    "Modalities": [],
     "Mind": [
       "FEARLESSNESS",
-      "Begins with paroxysm of yawning",
       "Sings, talks, but does not answer",
       "Perception of relative size of objects is lost, takes long steps and jumps over small objects as if they were trunks of trees - a small hole appears as a frightful chasm, a spoonful of water an immense lake",
       "LOQUACITY",

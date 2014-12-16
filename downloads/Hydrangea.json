@@ -1,8 +1,19 @@
 {
   "name": "Hydrangea", 
   "Relationship": "Compare; LYCOPOD.; CHIMAPHIL.; BERBERIS; PAREIRA; UVA; SABAL; OXYDENDRON; GEUM - Water Avens - (Severe jerking pains from deep in the abdomen to end of urethra; affections of bladder, with pains in penis; worse, eating; relaxed mucous membranes, with excessive and depraved secretions; imperfect digestion and assimilation.) POLYCTRICHUM - Hair cap moss - (according to Dr. AM Cushing in mother tincture or infusion for enlarged prostate - prostatitis.)", 
-  "symptoms": {}, 
-  "details": "Urine Section.A remedy for gravel, profuse deposit of white amorphous salts in urine. Calculus, renal colic, bloody urine. Acts on ureter. Pain in lumbar region. Dizziness. Oppression of chest.Burning in urethra and frequent desire. Urine hard to start. Heavy deposit of mucus. SHARP PAIN IN LOINS, especially left. Great thirst, with abdominal symptoms and ENLARGED PROSTATE. (FERR. PIC.; SABAL.) Gravelly deposits. Spasmodic stricture. Profuse deposit of white amorphous salts.", 
+  "symptoms": {
+    "Urine": [
+      "Urine hard to start", 
+      "SHARP PAIN IN LOINS, especially left", 
+      "Gravelly deposits", 
+      "Heavy deposit of mucus", 
+      "Burning in urethra and frequent desire", 
+      "Profuse deposit of white amorphous salts", 
+      "Spasmodic stricture", 
+      "Great thirst, with abdominal symptoms and ENLARGED PROSTATE"
+    ]
+  }, 
+  "details": "A remedy for gravel, profuse deposit of white amorphous salts in urine. Calculus, renal colic, bloody urine. Acts on ureter. Pain in lumbar region. Dizziness. Oppression of chest.", 
   "Natural History": [
     "Seven-barks"
   ], 

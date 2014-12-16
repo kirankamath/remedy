@@ -28,6 +28,17 @@
       "Indigestion, with insensibility, frothing at mouth", 
       "Desire for unnatural things, LIKE COAL"
     ], 
+    "Head": [
+      "Vertigo, with gastralgia, and muscular spasms", 
+      "Sudden, violent shocks through head", 
+      "Thick, yellow scabs on head", 
+      "Stares persistently at objects", 
+      "CERVICAL MUSCLES CONTRACTED", 
+      "CEREBROSPINAL MENINGITIS", 
+      "Head symptoms relieved by emission of flatus", 
+      "CONVULSIONS from concussion of brain", 
+      "HEAD TURNED OR TWISTED TO ONE SIDE"
+    ], 
     "Modalities": [
       "Worse: from touch", 
       "Worse: drafts", 
@@ -54,17 +65,6 @@
       "RED FACE", 
       "Trismus; disposition to grind teeth", 
       "Pustules which run together forming thick, yellow scabs on face and head, corners of mouth and chin, with burning pain"
-    ], 
-    "Head": [
-      "Vertigo, with gastralgia, and muscular spasms", 
-      "Sudden, violent shocks through head", 
-      "Thick, yellow scabs on head", 
-      "Stares persistently at objects", 
-      "CERVICAL MUSCLES CONTRACTED", 
-      "CEREBROSPINAL MENINGITIS", 
-      "Head symptoms relieved by emission of flatus", 
-      "CONVULSIONS from concussion of brain", 
-      "HEAD TURNED OR TWISTED TO ONE SIDE"
     ], 
     "Skin": [
       "Elevated eruptions, as large as peas", 

@@ -2,19 +2,31 @@
   "name": "Kreosotum", 
   "Relationship": "GUAIACOL (is the principal constituent of Kreosote, and similar in action. Used in pulmonary tuberculosis. Dose 1 to 5M.Antidote: NUX. Inimical: CARBO.Compare also: FULIGO LIGNI; CARBOL-AC.; IOD.; LACHES.MATICO - Artanthe or Piper augustifolia, (Gonorrhea, hemorrhage from lungs; catarrhal condition of genitourinary organs and gastrointestinal tract. Topically a hemostatic. Difficult, dry, deep, winter cough. Use tincture.)Complementary in malignant diseases: ARS.; PHOS.; SULPH.", 
   "symptoms": {
+    "Head": [
+      "Occipital pain", 
+      "Menstrual headache", 
+      "Dull pain, as from a board pressing against forehead"
+    ], 
+    "Stomach": [
+      "Bitter taste after a swallow of water", 
+      "Soreness; better eating", 
+      "Nausea; vomiting of food several hours after eating; of sweetish water in the morning", 
+      "Painful hard spot", 
+      "Hematemesis", 
+      "Feeling of coldness, as of ice water in stomach"
+    ], 
     "Abdomen": [
-      "Violent itching of vulva and vagina, worse when urinating", 
+      "CHOLERA INFANTUM in connection with painful dentition, green stools, nausea, dry skin, exhaustion, etc.", 
       "Bloody, fetid stools", 
-      "Enuresis in the first part of night", 
-      "Burning hemorrhoids", 
-      "MUST HURRY WHEN DESIRE COMES TO URINATE", 
-      "OFFENSIVE", 
-      "Diarrhoea; very offensive; dark brown", 
-      "Can urinate only when lying; cannot get out of bed quick enough during first sleep", 
       "Distended", 
-      "Dreams of urinating", 
-      "Urine Section", 
-      "CHOLERA INFANTUM in connection with painful dentition, green stools, nausea, dry skin, exhaustion, etc."
+      "Burning hemorrhoids", 
+      "Diarrhoea; very offensive; dark brown"
+    ], 
+    "Mouth": [
+      "Putrid odor and bitter taste", 
+      "Lips red, bleeding", 
+      "VERY RAPID DECAY OF TEETH, WITH SPONGY, BLEEDING GUMS; teeth dark and crumbly", 
+      "VERY PAINFUL DENTITION; child will not sleep"
     ], 
     "Respiratory": [
       "Hemoptysis; periodic attacks", 
@@ -27,13 +39,22 @@
       "Gangrene of lungs", 
       "Sternum feels pressed in"
     ], 
-    "Stomach": [
-      "Bitter taste after a swallow of water", 
-      "Soreness; better eating", 
-      "Nausea; vomiting of food several hours after eating; of sweetish water in the morning", 
-      "Painful hard spot", 
-      "Hematemesis", 
-      "Feeling of coldness, as of ice water in stomach"
+    "Eyes": [
+      "Lids red and swollen", 
+      "Salty lachrymation"
+    ], 
+    "Face": [
+      "Sick, suffering expression; hot, cheeks red"
+    ], 
+    "Nose": [
+      "Lupus", 
+      "Acrid rawness", 
+      "Chronic catarrh of old people", 
+      "Offensive smell and discharge"
+    ], 
+    "Ears": [
+      "Eruption around and pimples within", 
+      "Difficult hearing and buzzing"
     ], 
     "Modalities": [
       "Worse: in open air", 
@@ -44,55 +65,22 @@
       "Better: motion", 
       "Better: warm diet"
     ], 
+    "Urine": [
+      "Violent itching of vulva and vagina, worse when urinating", 
+      "Enuresis in the first part of night", 
+      "Dreams of urinating", 
+      "MUST HURRY WHEN DESIRE COMES TO URINATE", 
+      "Can urinate only when lying; cannot get out of bed quick enough during first sleep", 
+      "OFFENSIVE"
+    ], 
     "Back": [
       "Dragging backache, extending to genitals and down thighs", 
       "Great debility"
-    ], 
-    "Eyes": [
-      "Lids red and swollen", 
-      "Salty lachrymation"
-    ], 
-    "Face": [
-      "Sick, suffering expression; hot, cheeks red"
-    ], 
-    "Mouth": [
-      "Putrid odor and bitter taste", 
-      "Lips red, bleeding", 
-      "VERY RAPID DECAY OF TEETH, WITH SPONGY, BLEEDING GUMS; teeth dark and crumbly", 
-      "VERY PAINFUL DENTITION; child will not sleep"
-    ], 
-    "Nose": [
-      "Lupus", 
-      "Acrid rawness", 
-      "Chronic catarrh of old people", 
-      "Offensive smell and discharge"
-    ], 
-    "Head": [
-      "Occipital pain", 
-      "Menstrual headache", 
-      "Dull pain, as from a board pressing against forehead"
-    ], 
-    "Skin": [
-      "Itching, worse towards evening", 
-      "Pustules and herpes", 
-      "Senile gangrene", 
-      "Burning in soles", 
-      "Ecchymosis; dorsal surface of fingers and hands eczematous", 
-      "Small wounds bleed freely"
-    ], 
-    "Throat": [
-      "PUTRID ODOR", 
-      "Burning, choking sensation"
     ], 
     "Sleep": [
       "Paralytic sensation in limbs on waking", 
       "Anxious dreams of pursuit, fire, erections, etc.", 
       "Disturbed with tossing"
-    ], 
-    "Extremities": [
-      "Scapulae sore", 
-      "Boring pain in hip-joints", 
-      "Pain in joints, hip and knee"
     ], 
     "Female": [
       "Hemorrhage after coition", 
@@ -106,9 +94,22 @@
       "Lochia offensive; INTERMITS", 
       "Menses too early, prolonged"
     ], 
-    "Ears": [
-      "Eruption around and pimples within", 
-      "Difficult hearing and buzzing"
+    "Skin": [
+      "Itching, worse towards evening", 
+      "Pustules and herpes", 
+      "Senile gangrene", 
+      "Burning in soles", 
+      "Ecchymosis; dorsal surface of fingers and hands eczematous", 
+      "Small wounds bleed freely"
+    ], 
+    "Throat": [
+      "PUTRID ODOR", 
+      "Burning, choking sensation"
+    ], 
+    "Extremities": [
+      "Scapulae sore", 
+      "Boring pain in hip-joints", 
+      "Pain in joints, hip and knee"
     ]
   }, 
   "details": "Mental.Music causes weeping and palpitation. Vanishing of thought; stupid, forgetful, peevish, irritable. Child wants everything but throws it away when given.Pulsations all over the body, and profuse bleeding from small wounds. Very severe, old neuralgic affections; pains rather aggravated by rest. EXCORIATING, burning, and offensive discharges. Hemorrhages, ulcerations, cancerous affections. Rapid decomposition of fluids and secretions, and burning pains. Overgrown, poorly developed children. Post-climacteric diseases. Tumefaction, puffiness, gangrene. Ailings of teething children.Kreosotum is a mixture of phenol obtained from this distillation.", 

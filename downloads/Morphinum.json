@@ -4,6 +4,13 @@
   ], 
   "details": "Morphine bears the same relation to Opium as Atropine to Belladonna - i.e., represents its nervous side. It is less stimulating, less convulsant, and more decidedly hypnotic. Constipates less and affects contractility of the bladder more. It is less diaphoretic and more pruritic.Extreme susceptibility to pain; twitching; tympanites; much itching", 
   "symptoms": {
+    "Urine": [
+      "Paresis of bladder", 
+      "Retention of prostatic hypertrophy", 
+      "STRANGURY", 
+      "SLOW AND DIFFICULT URINATION", 
+      "URAEMIA, acute and chronic"
+    ], 
     "Head": [
       "Bursting pain; head drawn back", 
       "VERTIGO FROM THE LEAST MOVEMENT OF THE HEAD", 
@@ -31,14 +38,8 @@
       "VERY DRY"
     ], 
     "Rectum": [
-      "Retention of prostatic hypertrophy", 
-      "URAEMIA, acute and chronic", 
-      "STRANGURY", 
-      "Paresis of bladder", 
-      "SLOW AND DIFFICULT URINATION", 
-      "Diarrhoea watery, brown, or black with horrible tenesmus", 
       "Constipation; stools large, dry, knotty, with tendency to bruise and fissure", 
-      "Urinary Organs"
+      "Diarrhoea watery, brown, or black with horrible tenesmus"
     ], 
     "Respiratory": [
       "Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant", 

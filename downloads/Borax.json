@@ -16,6 +16,12 @@
       "Out of breath on going up stairs", 
       "Pleurodynia; worse upper part of right chest"
     ], 
+    "Urine": [
+      "Child afraid to urinate, screams before urinating", 
+      "Pungent smell", 
+      "Small red particles on diaper", 
+      "Hot, smarting pain in orifice"
+    ], 
     "Modalities": [
       "Worse: downward motion", 
       "Worse: noise", 
@@ -35,13 +41,8 @@
       "Violent fright from report of a gun, even at a distance"
     ], 
     "Stool": [
-      "Pungent smell", 
-      "Child afraid to urinate, screams before urinating", 
-      "Small red particles on diaper", 
-      "Hot, smarting pain in orifice", 
       "Diarrhoea, offensive, preceded by colic; stools mucous, with aphthous sore mouth", 
-      "LOOSE, PAPPY, OFFENSIVE STOOLS IN CHILDREN", 
-      "Urine Section"
+      "LOOSE, PAPPY, OFFENSIVE STOOLS IN CHILDREN"
     ], 
     "Head": [
       "Aches, with nausea and trembling of whole body", 

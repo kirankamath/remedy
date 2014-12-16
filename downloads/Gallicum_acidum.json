@@ -7,12 +7,13 @@
       "Pain in back of head and neck"
     ], 
     "Respiratory": [
-      "Pain in lungs; PULMONARY Hemorrhage; excessive expectoration", 
       "Dry at night", 
       "Much mucus in throat in the morning", 
+      "Pain in lungs; PULMONARY Hemorrhage; excessive expectoration"
+    ], 
+    "Urine": [
       "Dull heavy pain in bladder, directly over pubis", 
       "Kidneys painful, distress along ureters into bladder", 
-      "Urinary Organs", 
       "Urine loaded with thick, cream-colored mucus"
     ], 
     "Mind": [

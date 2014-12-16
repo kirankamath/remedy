@@ -1,8 +1,18 @@
 {
   "name": "Stigmata maydis", 
   "Relationship": "SHUCKS (as a decoction used for chronic malaria, teaspoonful doses freely. Dr. E. C. Lowe, England).", 
-  "symptoms": {}, 
-  "details": "Urinary Organs.Suppression and RETENTION. Dysuria. Renal lithiasis; nephritic colic; blood and red sand in urine. Tenesmus after urinating. Vesical catarrh. Gonorrhea. Cystitis.Has marked urinary symptoms, and has been used with success in organic heart disease, with much oedema of lower extremities and scanty urination. Enlarged prostate and retention of urine. Uric and phosphatic Gonorrhea. Cystitis.", 
+  "symptoms": {
+    "Urine": [
+      "Vesical catarrh", 
+      "Suppression and RETENTION", 
+      "Cystitis", 
+      "Gonorrhea", 
+      "Dysuria", 
+      "Tenesmus after urinating", 
+      "Renal lithiasis; nephritic colic; blood and red sand in urine"
+    ]
+  }, 
+  "details": "Has marked urinary symptoms, and has been used with success in organic heart disease, with much oedema of lower extremities and scanty urination. Enlarged prostate and retention of urine. Uric and phosphatic Gonorrhea. Cystitis.", 
   "Natural History": [
     "ZeaCorn-silk"
   ], 

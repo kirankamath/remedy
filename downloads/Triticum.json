@@ -2,16 +2,17 @@
   "name": "Triticum", 
   "Relationship": "Compare: TRADESCANTIA; (Hemorrhage from ear and upper air passages; painful urination, urethral discharge; scrotum inflamed). CHIMAPH.; SENECIO; POPULUS TREM.; BUCHU; UVA.POLYTRICHUM JUNIPERINUM - Ground Moss - (Painful urination of old people; dropsy, urinary obstruction and suppression).", 
   "symptoms": {
-    "Nose": [
+    "Urine": [
       "Strangury, pyelitis; enlarged prostate", 
       "Catarrhal and purulent discharges", 
       "Incontinence; constant desire", 
       "Chronic cystic irritability", 
-      "Urine is dense and causes irritation of the mucous surfaces", 
-      "Gravelly deposits", 
-      "Always blowing nose", 
       "Frequent, DIFFICULT, and painful urination", 
-      "Urinary Organs"
+      "Urine is dense and causes irritation of the mucous surfaces", 
+      "Gravelly deposits"
+    ], 
+    "Nose": [
+      "Always blowing nose"
     ]
   }, 
   "details": "An excellent remedy in excessive irritability of the bladder, dysuria, cystitis, gonorrhea.", 

@@ -2,18 +2,17 @@
   "name": "Chamomilla", 
   "Relationship": "Compare: Cypriped; Anthemis; Aconite; Puls.; Coffea; Bellad.; Staphis.; gnat. Follows Belladonna in diseases of children and abuse of opium. Rubus villosus - Blackberry - (diarrhoea of infancy; stools watery and clay colored).Antidotes: Camph.; Nux; Puls.Complementary: Bell.; Mag. c.", 
   "symptoms": {
-    "Abdomen": [
-      "Hepatic colic", 
-      "Flatulent colic, after anger, WITH RED CHEEKS AND HOT PERSPIRATION", 
-      ")", 
-      "Acute duodenitis", 
-      "Griping in region of navel, and pain in small of back", 
-      "Distended"
+    "Stool": [
+      "Hemorrhoids, with painful fissures", 
+      "Soreness of anus", 
+      "Hot, GREEN, watery, fetid, SLIMY, with colic", 
+      "Diarrhoea during dentition", 
+      "Chopped white and yellow mucus like chopped eggs and spinach"
     ], 
-    "Respiratory": [
-      "Hoarseness, hawking, RAWNESS of LARYNX", 
-      "IRRITABLE, DRY TICKLING COUGH; suffocative tightness of chest, with bitter expectoration in daytime", 
-      "Rattling of mucus in child's chest"
+    "Head": [
+      "Throbbing headache in one-half of the brain", 
+      "Inclined to bend head backward", 
+      "Hot, clammy sweat on forehead and scalp"
     ], 
     "Stomach": [
       "Nausea after coffee", 
@@ -25,6 +24,46 @@
       "Bitter, bilious vomiting", 
       "Aversion to warm drinks", 
       "Bilious vomiting"
+    ], 
+    "Abdomen": [
+      "Hepatic colic", 
+      "Flatulent colic, after anger, WITH RED CHEEKS AND HOT PERSPIRATION", 
+      ")", 
+      "Acute duodenitis", 
+      "Griping in region of navel, and pain in small of back", 
+      "Distended"
+    ], 
+    "Mouth": [
+      "Toothache, if anything warm is taken, from coffee, during pregnancy", 
+      "Nightly salivation"
+    ], 
+    "Respiratory": [
+      "Hoarseness, hawking, RAWNESS of LARYNX", 
+      "IRRITABLE, DRY TICKLING COUGH; suffocative tightness of chest, with bitter expectoration in daytime", 
+      "Rattling of mucus in child's chest"
+    ], 
+    "Eyes": [
+      "Spasmodic closing of lids", 
+      "Yellow sclerotic", 
+      "Lids smart"
+    ], 
+    "Face": [
+      "Stitches in jaw extending to inner ear and teeth", 
+      "Jerking of tongue and facial muscles", 
+      "TEETH ACHE WORSE AFTER WARM DRINK; worse, coffee, at night", 
+      "ONE CHEEK RED and hot; the other pale and cold", 
+      "Distress of teething children", 
+      "Drives to distraction"
+    ], 
+    "Nose": [
+      "Coryza, with inability to sleep", 
+      "Sensitive to all smells"
+    ], 
+    "Ears": [
+      "Ringing in ears", 
+      "EARACHE, with soreness; SWELLING AND HEAT DRIVING PATIENT FRANTIC", 
+      "Ears feel stopped", 
+      "Stitching pain"
     ], 
     "Modalities": [
       "Worse: by HEAT", 
@@ -45,55 +84,13 @@
       "MENTAL CALMNESS CONTRAINDICATE CHAMOM", 
       "Piteous moaning because he cannot have what he wants"
     ], 
-    "Stool": [
-      "Hemorrhoids, with painful fissures", 
-      "Soreness of anus", 
-      "Hot, GREEN, watery, fetid, SLIMY, with colic", 
-      "Diarrhoea during dentition", 
-      "Chopped white and yellow mucus like chopped eggs and spinach"
-    ], 
     "Back": [
       "Insupportable pain in loins and hips", 
       "Lumbago", 
       "Stiffness of neck muscles"
     ], 
-    "Eyes": [
-      "Spasmodic closing of lids", 
-      "Yellow sclerotic", 
-      "Lids smart"
-    ], 
-    "Face": [
-      "Stitches in jaw extending to inner ear and teeth", 
-      "Jerking of tongue and facial muscles", 
-      "TEETH ACHE WORSE AFTER WARM DRINK; worse, coffee, at night", 
-      "ONE CHEEK RED and hot; the other pale and cold", 
-      "Distress of teething children", 
-      "Drives to distraction"
-    ], 
-    "Mouth": [
-      "Toothache, if anything warm is taken, from coffee, during pregnancy", 
-      "Nightly salivation"
-    ], 
-    "Nose": [
-      "Coryza, with inability to sleep", 
-      "Sensitive to all smells"
-    ], 
-    "Head": [
-      "Throbbing headache in one-half of the brain", 
-      "Inclined to bend head backward", 
-      "Hot, clammy sweat on forehead and scalp"
-    ], 
-    "Throat": [
-      "Constriction and pain as from a plug", 
-      "Parotid and submaxillary glands swollen"
-    ], 
     "Sleep": [
       "Drowsiness with moaning, weeping and wailing during sleep; anxious, frightened dreams, with half-open eyes"
-    ], 
-    "Extremities": [
-      "Burning of soles at night", 
-      "ANKLES GIVE WAY IN THE AFTERNOON Nightly paralytic loss of power in the feet, unable to step on them", 
-      "Violent rheumatic pains drive him out of bed at night; compelled to walk about"
     ], 
     "Female": [
       "Yellow, acrid leucorrhoea", 
@@ -104,11 +101,14 @@
       "Labor pains spasmodic; press upward", 
       "Patient intolerant of pain"
     ], 
-    "Ears": [
-      "Ringing in ears", 
-      "EARACHE, with soreness; SWELLING AND HEAT DRIVING PATIENT FRANTIC", 
-      "Ears feel stopped", 
-      "Stitching pain"
+    "Throat": [
+      "Constriction and pain as from a plug", 
+      "Parotid and submaxillary glands swollen"
+    ], 
+    "Extremities": [
+      "Burning of soles at night", 
+      "ANKLES GIVE WAY IN THE AFTERNOON Nightly paralytic loss of power in the feet, unable to step on them", 
+      "Violent rheumatic pains drive him out of bed at night; compelled to walk about"
     ]
   }, 
   "details": "Chamomilla is SENSITIVE, IRRITABLE, THIRSTY, HOT, AND NUMB. Over-sensitiveness from abuse of coffee and narcotics. PAINS UNENDURABLE, associated with numbness. Night-sweats.The chief guiding symptoms belong to the mental and emotional group, which lead to this remedy in many forms of disease. Especially of frequent employment in diseases of children, where peevishness, restlessness, and colic give the needful indications. A disposition that is mild, calm and gentle; sluggish and constipated bowels contraindicate Chamomilla.", 

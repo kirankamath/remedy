@@ -11,6 +11,13 @@
       "Retinal congestion; optic disc pale", 
       "Vision greatly impaired"
     ], 
+    "Head": [
+      "Aches as from a tight cap", 
+      "Ears feel obstructed", 
+      "Ulceration of the lips, anaesthesia of mouth and tongue", 
+      "Headache and dizziness", 
+      "NOISES IN HEAD"
+    ], 
     "Modalities": [
       "Worse: after breakfast; bathing", 
       "Better: in open air"
@@ -28,13 +35,6 @@
     ], 
     "Sleep": [
       "Deep morning sleep with anxious, vexatious dreams"
-    ], 
-    "Head": [
-      "Aches as from a tight cap", 
-      "Ears feel obstructed", 
-      "Ulceration of the lips, anaesthesia of mouth and tongue", 
-      "Headache and dizziness", 
-      "NOISES IN HEAD"
     ], 
     "Skin": [
       "Furunculosis", 

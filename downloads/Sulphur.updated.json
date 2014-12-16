@@ -2,6 +2,14 @@
   "name": "Sulphur",
   "Relationship": "Compare in adenoids: AGRAPHIS.MAGNETIS POLUS ARCTICUS (anxious, COLDNESS OF EYES AS IF A PIECE OF ICE LAY IN ORBIT, increased flow of saliva, constipation, sopor, trembling, abdominal flatulence).Compare: ACON. (Sulph. often follows in acute diseases); MERC. AND CALCAREA are frequently useful AFTER Sulphur, not before. Lyc.; Sep; Sars.; Puls.; SULPHUR HYDROGENISATUM (chronic rheumatic arthritis; chorea); TANNIC ACID (Nasal hemorrhage; elongated uvula; gargle; constipation). MANGES. ARTIFICIALIS (great hunger in evening, profuse sweat on face, bruised pain in joints, rectal constriction after stool).Complementary: ALOE; PSOR.; ACON.; PYRARARA (a fish caught in the Amazon, clinically used for various skin affections. Lepra, tuberculides, syphilides, varicosities, etc.MAGNETIS POLUS AUSTRALIS (dryness of lids, easy dislocation of ankle, INGROWING TOE-NAILS, aching in patella, shooting in soles).",
   "symptoms": {
+    "Urine": [
+      "Frequent micturition, especially at night",
+      "ENURESIS, especially in scrofulous, untidy children",
+      "MUST HURRY, sudden call to urinate",
+      "Burning in urethra during micturition, lasts long after",
+      "Mucus and pus in urine; PARTS SORE OVER WHICH IT PASSES",
+      "GREAT QUANTITIES OF COLORLESS URINE"
+    ],
     "Head": [
       "Sick headache recurring periodically",
       "Tinea capitis, dry form",
@@ -47,17 +55,10 @@
       "BITTER TASTE in morning"
     ],
     "Rectum": [
-      "Frequent micturition, especially at night",
-      "ENURESIS, especially in scrofulous, untidy children",
+      "Frequent, unsuccessful desire; hard, knotty, insufficient",
       "Itching and burning of anus; piles dependent upon abdominal plethora",
       "MORNING DIARRHOEA, PAINLESS, DRIVES OUT OF BED, with prolapsus recti",
-      "Mucus and pus in urine; PARTS SORE OVER WHICH IT PASSES",
-      "GREAT QUANTITIES OF COLORLESS URINE",
       "REDNESS AROUND THE ANUS, with itching",
-      "Burning in urethra during micturition, lasts long after",
-      "MUST HURRY, sudden call to urinate",
-      "Frequent, unsuccessful desire; hard, knotty, insufficient",
-      "Urine Section",
       "Hemorrhoids, oozing and belching",
       "Child afraid on account of pain"
     ],
@@ -109,10 +110,6 @@
       "Oversensitive to odors"
     ],
     "Modalities": [
-      "Better: DRY",
-      "Better: WARM WEATHER",
-      "Better: lying on right side",
-      "Better: from drawing up affected limbs",
       "Worse: at rest",
       "Worse: when standing",
       "Worse: WARMTH IN BED",
@@ -122,7 +119,11 @@
       "Worse: eleven AM",
       "Worse: night",
       "Worse: from alcoholic stimulants",
-      "Worse: periodically"
+      "Worse: periodically",
+      "Better: DRY",
+      "Better: WARM WEATHER",
+      "Better: lying on right side",
+      "Better: from drawing up affected limbs"
     ],
     "Mind": [
       "Difficult thinking",

@@ -13,20 +13,21 @@
       "Feels a glow all over, like being over steam; CHILLY, while sitting beside the fire"
     ], 
     "Stomach": [
-      "Cannot retain urine; must attend to the call without delay", 
+      "Abdomen bloated", 
       "Stool very offensive", 
       "Breath and taste foul", 
-      "Irritable bladder before menses", 
-      "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
-      "Abdomen bloated", 
-      "Flow stops suddenly followed by pain Urine foul", 
-      "Intense nausea, with vomiting, purging, and faintness", 
-      "Urine Section"
+      "Intense nausea, with vomiting, purging, and faintness"
     ], 
     "Modalities": [
       "Worse: left side", 
       "Worse: moving about", 
       "Better: sitting or lying down"
+    ], 
+    "Urine": [
+      "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
+      "Cannot retain urine; must attend to the call without delay", 
+      "Flow stops suddenly followed by pain Urine foul", 
+      "Irritable bladder before menses"
     ], 
     "Back": [
       "Aches, weak; drawing of muscles below scapulae"

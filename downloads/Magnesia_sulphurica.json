@@ -10,13 +10,14 @@
       "Chill from 9 to ten AM Shuddering in back; heat in one part and chill in another"
     ], 
     "Stomach": [
-      "The urine is greenish as passed; is of a clear color, and in a large quantity", 
-      "Frequent eructations, tasting like bad eggs", 
-      "Stream intermits and dribbles", 
       "Rising of water in mouth", 
+      "Frequent eructations, tasting like bad eggs"
+    ], 
+    "Urine": [
+      "Stream intermits and dribbles", 
       "The urine passed in the morning copious, bright yellow, soon becomes turbid, and deposits a copious red sediment", 
+      "The urine is greenish as passed; is of a clear color, and in a large quantity", 
       "Stitches and burning the orifice of the urethra after urinating", 
-      "Urinary Organs", 
       "Diabetes"
     ], 
     "Back": [

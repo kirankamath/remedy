@@ -9,40 +9,41 @@
       "Sensation as if drops were falling from the heart"
     ], 
     "Eyes": [
-      "Sexual overexcitement", 
-      "Scrofulous eye troubles", 
-      "Pressure from back of eyes, forward", 
-      "Gonorrhea, acute stage; urethra very sensitive", 
-      "Walks with legs apart", 
-      "BURNING WHILE URINATING, EXTENDING TO BLADDER", 
-      "Misty sight", 
-      "Urine Section", 
-      "Painful urging", 
-      "Dragging in testicles", 
-      "Urethral caruncle , phimosis", 
-      "Zigzag pain along urethra", 
-      "Urine scalding, with spasmodic closure of sphincter", 
-      "Eyeballs ache", 
-      "Inflamed sensation, with soreness to touch", 
       "Gonorrheal ophthalmia", 
       "Cataract from nervous disturbances, abuse of alcohol and tobacco; patient feels deeply approaching blindness", 
-      "Micturition in split stream", 
-      "Stitches in urethra", 
-      "Retained, with obstinate constipation", 
+      "Scrofulous eye troubles", 
+      "Pressure from back of eyes, forward", 
+      "Eyeballs ache", 
       "OPACITY OF CORNEA", 
-      "Stoppage of urethra by mucus and pus"
+      "Misty sight"
     ], 
     "Respiratory": [
       "Weight on chest; rattling wheezing breathing", 
       "Cough, with green viscid, also bloody, expectoration", 
       "Oppression of breathing and palpitation; MUST STAND UP"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Dragging in testicles", 
+      "Inflamed sensation, with soreness to touch", 
+      "Painful urging", 
+      "Urethral caruncle , phimosis", 
+      "Micturition in split stream", 
+      "Zigzag pain along urethra", 
+      "Sexual overexcitement", 
+      "Stitches in urethra", 
+      "Gonorrhea, acute stage; urethra very sensitive", 
+      "Urine scalding, with spasmodic closure of sphincter", 
+      "Walks with legs apart", 
+      "Stoppage of urethra by mucus and pus", 
+      "BURNING WHILE URINATING, EXTENDING TO BLADDER", 
+      "Retained, with obstinate constipation"
+    ], 
     "Head": [
       "Pressure on root of nose", 
       "Lectophobia", 
       "Vertigo; sensation of dropping water on head"
     ], 
+    "dosage": "", 
     "Sleep": [
       "Sleepy during day", 
       "Frightful dreams", 
@@ -57,8 +58,7 @@
       "Feet feel heavy on going upstairs", 
       "Dislocation of patella on going upstairs", 
       "Affections of the ball of the foot and under part of toes"
-    ], 
-    "dosage": ""
+    ]
   }, 
   "name": "Cannibis sativa", 
   "Relationship": "Compare: Hedysarum - Brazilian Burdock - (Gonorrhea and inflammation of penis); Canth.; Apis; Copaiva; Thuj.; Kal. nit.Antidotes: Camph.; Lemon juice.", 

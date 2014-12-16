@@ -2,17 +2,18 @@
   "name": "Arnica", 
   "Relationship": "Antidotes: Camph.Complementary: Acon.; Ipec.Vitex trifolia - Indian Arnica. (Sprains and pains, headache in temples, pain in joints; pain in abdomen; pain in testicles.)Compare: Acon.; Bapt.; Bellis; Hemamellis; Rhus; Hypericum.", 
   "symptoms": {
+    "Urine": [
+      "Dark brick-red sediment", 
+      "Retained from over-exertion", 
+      "Vesical tenesmus with very painful micturition"
+    ], 
     "Stool": [
       "Dysenteric stools with muscular pains", 
-      "Vesical tenesmus with very painful micturition", 
       "STRAINING OF TENESMUS IN DIARRHEA", 
       "Diarrhoea of consumption; worse lying on left side", 
       "OFFENSIVE, brown, BLOODY, putrid, involuntary", 
-      "Retained from over-exertion", 
       "Must lie down after every stool", 
-      "Looks like brown yeast", 
-      "Dark brick-red sediment", 
-      "Urine Section"
+      "Looks like brown yeast"
     ], 
     "Head": [
       "Scalp feels contracted", 
@@ -99,9 +100,9 @@
       "Cardiac dropsy with distressing dyspnoea"
     ], 
     "Modalities": [
+      "Worse: least touch; motion; rest; wine; damp cold", 
       "Better: LYING DOWN", 
-      "Better: OR WITH HEAD LOW", 
-      "Worse: least touch; motion; rest; wine; damp cold"
+      "Better: OR WITH HEAD LOW"
     ], 
     "Mind": [
       "Unconscious; when spoken to answers correctly, but relapses", 

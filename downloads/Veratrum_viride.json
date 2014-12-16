@@ -31,11 +31,9 @@
     "Respiratory": [
       "Difficult breathing", 
       "Sensation of a heavy load on chest", 
-      "Scanty with cloudy sediment", 
-      "Pneumonia, with faint feeling in stomach and violent congestion", 
       "Congestion of lungs", 
+      "Pneumonia, with faint feeling in stomach and violent congestion", 
       "CROUP", 
-      "Urine Section", 
       "Menstrual colic before the appearance of the discharge with strangury"
     ], 
     "Stomach": [
@@ -45,6 +43,9 @@
       "HICCOUGH; excessive and painful, with SPASMS OF ESOPHAGUS", 
       "Nausea and vomiting", 
       "Constrictive pain; increased by warm drinks"
+    ], 
+    "Urine": [
+      "Scanty with cloudy sediment"
     ], 
     "Mind": [
       "Quarrelsome and delirious"

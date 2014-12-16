@@ -2,6 +2,11 @@
   "name": "Baryta  carb", 
   "Relationship": "Compare: Digitalis; Radium; Aragallus; Oxtrop; Astrag. Complementary: Dulc.; Silica; Psorin. Incompatible: Calc. Antidote for poisonous doses: Epsom salts.", 
   "symptoms": {
+    "Urine": [
+      "Every time patient urinates, his piles come down", 
+      "Burning in urethra on urinating", 
+      "Urging to urinate"
+    ], 
     "Head": [
       "Hair falls out", 
       "Confusion", 
@@ -34,14 +39,10 @@
       "Paralysis of tongue"
     ], 
     "Rectum": [
-      "Every time patient urinates, his piles come down", 
+      "Crawling in rectum", 
       "Constipation, with hard, knotty stools", 
       "Hemorrhoids protrude on urinating", 
-      "Crawling in rectum", 
-      "Urging to urinate", 
-      "Oozing at anus", 
-      "Burning in urethra on urinating", 
-      "Urinary Organs"
+      "Oozing at anus"
     ], 
     "Respiratory": [
       "Lungs feel full of smoke", 
@@ -86,8 +87,8 @@
       "Palpitation when lying on left side, when thinking of it especially; pulse full and hard"
     ], 
     "Modalities": [
-      "Better: walking in open air", 
-      "Worse: while thinking of symptoms; from washing; lying on painful side"
+      "Worse: while thinking of symptoms; from washing; lying on painful side", 
+      "Better: walking in open air"
     ], 
     "Mind": [
       "Lost confidence in himself", 

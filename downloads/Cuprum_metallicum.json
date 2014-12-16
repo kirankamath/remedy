@@ -31,13 +31,16 @@
       "Craves cool drink", 
       "NAUSEA"
     ], 
-    "Female": [
-      "Ebullition of blood; palpitation", 
-      "Cramps, extending into chest, before, during, or after suppression of menses", 
-      "AFTER-PAINS", 
-      "Also, from suppressed foot sweats", 
-      "Menses too late, protracted", 
-      "Chlorosis"
+    "Head": [
+      "Fixed ideas, malicious and morose", 
+      "Empty feeling", 
+      "Fearful", 
+      "Bruised pain in brain and eyes on turning them", 
+      "Purple, red swelling of head, with convulsions", 
+      "Uses words not intended", 
+      "Giddiness accompanies many ailments, head falls forward on chest", 
+      "Sensation as if water were poured over head", 
+      "Meningitis"
     ], 
     "Modalities": [
       "Worse: before menses; from vomiting", 
@@ -68,16 +71,13 @@
     "Nose": [
       "Sensation of violent congestion of blood to nose"
     ], 
-    "Head": [
-      "Fixed ideas, malicious and morose", 
-      "Empty feeling", 
-      "Fearful", 
-      "Bruised pain in brain and eyes on turning them", 
-      "Purple, red swelling of head, with convulsions", 
-      "Uses words not intended", 
-      "Giddiness accompanies many ailments, head falls forward on chest", 
-      "Sensation as if water were poured over head", 
-      "Meningitis"
+    "Female": [
+      "Ebullition of blood; palpitation", 
+      "Cramps, extending into chest, before, during, or after suppression of menses", 
+      "AFTER-PAINS", 
+      "Also, from suppressed foot sweats", 
+      "Menses too late, protracted", 
+      "Chlorosis"
     ], 
     "Skin": [
       "BLUISH, marbled", 

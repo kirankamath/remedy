@@ -3,15 +3,35 @@
     "Carbonate of Ammonia"
   ], 
   "symptoms": {
-    "Heart": [
-      "Audible palpitation with fear, cold sweat, lachrymation, inability to speak, loud breathing and trembling hands", 
-      "HEART WEAK, wakes with difficult breathing and palpitation"
+    "Urine": [
+      "Urine white, sandy, bloody, copious, turbid and fetid", 
+      "Tenesmus of bladder", 
+      "Frequent desire; involuntary at night"
     ], 
-    "Eyes": [
-      "Asthenopia", 
-      "Burning of eyes with aversion to light", 
-      "Sore canthi", 
-      "Eye-strain"
+    "Head": [
+      "Pulsating forehead; better, pressure and in warm room", 
+      "Shocks through head"
+    ], 
+    "Stomach": [
+      "Great appetite, but easily satisfied", 
+      "Flatulent dyspepsia", 
+      "Pain at pit of stomach, with heartburn, nausea, water brash, and chilliness"
+    ], 
+    "Abdomen": [
+      "Itching at anus", 
+      "Protruding piles, worse after stool, better lying down", 
+      "Stools difficult, hard, and knotty", 
+      "BLEEDING PILES; WORSE DURING MENSES", 
+      "Flatulent hernia", 
+      "Noise and pain in abdomen"
+    ], 
+    "Mouth": [
+      "Vesicles on tongue", 
+      "Great dryness of mouth and throat", 
+      "PRESSING TEETH TOGETHER SENDS SHOCKS THROUGH HEAD, EYES, AND EARS", 
+      "Taste sour; metallic", 
+      "Toothache", 
+      "Cracking of jaws on chewing"
     ], 
     "Respiratory": [
       "Winter catarrh, with slimy sputum and specks of blood", 
@@ -24,52 +44,11 @@
       "Pulmonary oedema", 
       "Asthenic PNEUMONIA"
     ], 
-    "Stomach": [
-      "Great appetite, but easily satisfied", 
-      "Flatulent dyspepsia", 
-      "Pain at pit of stomach, with heartburn, nausea, water brash, and chilliness"
-    ], 
-    "Female": [
-      "Aversion to the other sex", 
-      "Menses too FREQUENT, PROFUSE, early, copious, clotted, black; colicky pains, and hard, difficult stool, with FATIGUE, especially of thighs; yawning and chilliness", 
-      "Itching, swelling and burning of pudendum", 
-      "Leucorrhoea burning, acrid, watery"
-    ], 
-    "Modalities": [
-      "Better: lying on painful side and on stomach; in dry weather", 
-      "Worse: evenings", 
-      "Worse: from cold", 
-      "Worse: wet weather", 
-      "Worse: wet applications", 
-      "Worse: washing", 
-      "Worse: and during 3 to four AM", 
-      "Worse: during menses"
-    ], 
-    "Mind": [
-      "Sad, weepy, unreasonable", 
-      "Talking and hearing others talk affects greatly", 
-      "Forgetful, ill-humored, gloomy during STORMY WEATHER", 
-      "UNCLEANLINESS"
-    ], 
-    "Abdomen": [
-      "Urine white, sandy, bloody, copious, turbid and fetid", 
-      "Frequent desire; involuntary at night", 
-      "Itching at anus", 
-      "Protruding piles, worse after stool, better lying down", 
-      "Stools difficult, hard, and knotty", 
-      "BLEEDING PILES; WORSE DURING MENSES", 
-      "Flatulent hernia", 
-      "Tenesmus of bladder", 
-      "Urine Section", 
-      "Noise and pain in abdomen"
-    ], 
-    "Mouth": [
-      "Vesicles on tongue", 
-      "Great dryness of mouth and throat", 
-      "PRESSING TEETH TOGETHER SENDS SHOCKS THROUGH HEAD, EYES, AND EARS", 
-      "Taste sour; metallic", 
-      "Toothache", 
-      "Cracking of jaws on chewing"
+    "Eyes": [
+      "Asthenopia", 
+      "Burning of eyes with aversion to light", 
+      "Sore canthi", 
+      "Eye-strain"
     ], 
     "Nose": [
       "SNUFFLES of children", 
@@ -80,9 +59,44 @@
       "CANNOT BREATHE THROUGH NOSE", 
       "Ozaena, blows bloody mucus from nose"
     ], 
-    "Head": [
-      "Pulsating forehead; better, pressure and in warm room", 
-      "Shocks through head"
+    "Male": [
+      "Erection without desire", 
+      "Seminal emissions", 
+      "Itching and pain of scrotum and spermatic cords"
+    ], 
+    "Ears": [
+      "Shocks through ears, eyes, and nose, when gnashing teeth", 
+      "Hardness of hearing"
+    ], 
+    "Heart": [
+      "Audible palpitation with fear, cold sweat, lachrymation, inability to speak, loud breathing and trembling hands", 
+      "HEART WEAK, wakes with difficult breathing and palpitation"
+    ], 
+    "Modalities": [
+      "Worse: evenings", 
+      "Worse: from cold", 
+      "Worse: wet weather", 
+      "Worse: wet applications", 
+      "Worse: washing", 
+      "Worse: and during 3 to four AM", 
+      "Worse: during menses", 
+      "Better: lying on painful side and on stomach; in dry weather"
+    ], 
+    "Mind": [
+      "Sad, weepy, unreasonable", 
+      "Talking and hearing others talk affects greatly", 
+      "Forgetful, ill-humored, gloomy during STORMY WEATHER", 
+      "UNCLEANLINESS"
+    ], 
+    "Sleep": [
+      "Starts from sleep strangling", 
+      "SLEEPINESS during the day"
+    ], 
+    "Female": [
+      "Aversion to the other sex", 
+      "Menses too FREQUENT, PROFUSE, early, copious, clotted, black; colicky pains, and hard, difficult stool, with FATIGUE, especially of thighs; yawning and chilliness", 
+      "Itching, swelling and burning of pudendum", 
+      "Leucorrhoea burning, acrid, watery"
     ], 
     "Skin": [
       "Faintly developed eruptions from defective vitality", 
@@ -99,10 +113,6 @@
       "Burning pain all down throat", 
       "Diphtheria WHEN NOSE IS STOPPED UP"
     ], 
-    "Sleep": [
-      "Starts from sleep strangling", 
-      "SLEEPINESS during the day"
-    ], 
     "Extremities": [
       "Hands cold and blue; distended veins", 
       "Fingers swell when arm is hanging down", 
@@ -113,15 +123,6 @@
       "Heel painful on standing", 
       "Cramps in calves and soles", 
       "Big toe painful and swollen"
-    ], 
-    "Male": [
-      "Erection without desire", 
-      "Seminal emissions", 
-      "Itching and pain of scrotum and spermatic cords"
-    ], 
-    "Ears": [
-      "Shocks through ears, eyes, and nose, when gnashing teeth", 
-      "Hardness of hearing"
     ]
   }, 
   "name": "Ammonium carb", 

@@ -2,13 +2,14 @@
   "name": "Senna", 
   "Relationship": "Compare: KALI-CARB.; JALAPA.Antidotes: NUX; CHAM.", 
   "symptoms": {
+    "Urine": [
+      "Specific gravity and density increased; hyperazoturia, oxaluria, phosphaturia, and acetonuria"
+    ], 
     "Stool": [
       "Greenish mucus; never-get-done sensation", 
-      "Specific gravity and density increased; hyperazoturia, oxaluria, phosphaturia, and acetonuria", 
       "CONSTIPATION, with colic and flatulence", 
       "Liver enlarged and tender, stools hard and dark, with loss of appetite, coated tongue, bad taste, and WEAKNESS", 
       "Burning in rectum, with strangury of bladder", 
-      "Urine Section", 
       "Fluid yellowish, with pinching pains before"
     ]
   }, 

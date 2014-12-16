@@ -2,16 +2,17 @@
   "name": "Apis mellifica", 
   "Relationship": "Complementary; NAT, MUR. The chronic, APIS.; Also BARYTA CARB., if lymphatics are involved. Inimical. RHUS.Compare: Apium virus (auto-toxaemia, with pus products); Zinc.; Canth.; Vespa; Lachesis.", 
   "symptoms": {
-    "Stool": [
+    "Urine": [
+      "Burning and soreness when urinating", 
       "Incontinence", 
-      "LAST DROPS burn and smart", 
+      "Suppressed, loaded with casts; frequent and involuntary; stinging pain and strangury; SCANTY, HIGH COLORED", 
+      "LAST DROPS burn and smart"
+    ], 
+    "Stool": [
       "Cannot urinate without a stool Dark, fetid, worse after eating", 
       "Bloody, painless", 
       "Hemorrhoids, with stinging pain, after confinement", 
       "Anus feels raw", 
-      "Urine Section", 
-      "Suppressed, loaded with casts; frequent and involuntary; stinging pain and strangury; SCANTY, HIGH COLORED", 
-      "Burning and soreness when urinating", 
       "Involuntary on every motion; ANUS SEEMS OPEN", 
       "Diarrhoea watery, yellow; CHOLERA INFANTUM TYPE", 
       "Constipation; feels as if something would break on straining"
@@ -89,10 +90,10 @@
       "External ear red, inflamed, sore; stinging pains"
     ], 
     "Modalities": [
+      "Worse: heat in any form; TOUCH; pressure; late in afternoon; after sleeping; in closed and heated rooms", 
       "Better: In open air", 
       "Better: uncovering", 
-      "Better: and cold bathing", 
-      "Worse: heat in any form; TOUCH; pressure; late in afternoon; after sleeping; in closed and heated rooms"
+      "Better: and cold bathing"
     ], 
     "Mind": [
       "Jealous, fidgety, hard to please", 

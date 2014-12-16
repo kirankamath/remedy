@@ -12,6 +12,11 @@
     "Stomach": [
       "Nausea, vomiting, bilious, bloody; hiccough; abdomen painful, tender to pressure"
     ], 
+    "Urine": [
+      "Amber color, painful, albuminous, scanty", 
+      "Suppression of urine", 
+      "Nephritis with great debility and chilliness"
+    ], 
     "Mouth": [
       "Astringent taste", 
       "Free salivation", 
@@ -36,15 +41,11 @@
       "NECROTIC DESTRUCTION OF SOFT PARTS OF PALATE AND FAUCES"
     ], 
     "Rectum": [
-      "Nephritis with great debility and chilliness", 
-      "Redness around anus", 
       "Intolerable pain", 
-      "Frequent hemorrhage; stools with tenesmus", 
-      "Suppression of urine", 
-      "Black stools", 
-      "Amber color, painful, albuminous, scanty", 
       "Discharge of fetid liquid with gangrenous odor", 
-      "Urinary Organs"
+      "Frequent hemorrhage; stools with tenesmus", 
+      "Black stools", 
+      "Redness around anus"
     ]
   }, 
   "name": "Mercurius cyanatus", 

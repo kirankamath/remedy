@@ -4,14 +4,15 @@
   ], 
   "details": "The characteristic symptoms relate mainly to the brain and nervous system, connected with gastrointestinal disturbance. Anguish, crying, and expression of uneasiness and discontent, lead to this remedy most frequently in disease in children, during dentition, summer complaint, when, with the diarrhoea, there is MARKED INABILITY TO DIGEST MILK, and poor circulation. Symptoms set in with VIOLENCE.", 
   "symptoms": {
+    "Urine": [
+      "Cutting pain in bladder, with frequent urging", 
+      "Pain in kidneys"
+    ], 
     "Stool": [
-      "Choleraic affections in old age", 
-      "Cholera infantum; child cold, clammy, stupid, with staring eyes and dilated pupils", 
       "UNDIGESTED, THIN, GREENISH, preceded by colic, with tenesmus, and followed by exhaustion and drowsiness", 
       "Obstinate constipation; feels as if all bowel action is lost", 
-      "Cutting pain in bladder, with frequent urging", 
-      "Pain in kidneys", 
-      "Urinary Organs"
+      "Choleraic affections in old age", 
+      "Cholera infantum; child cold, clammy, stupid, with staring eyes and dilated pupils"
     ], 
     "Head": [
       "OCCIPITAL PAIN extending down spine; better lying down and by pressure", 

@@ -3,22 +3,22 @@
     "Rattlesnake"
   ], 
   "symptoms": {
-    "Heart": [
-      "Palpitation, especially at menstrual period", 
-      "Trembling feeling of heart", 
-      "Action feeble, pulse tremulous"
+    "Urine": [
+      "Casts", 
+      "Dark, bloody urine", 
+      "Inflamed kidney", 
+      "Albuminous, dark, scanty"
     ], 
-    "Eyes": [
-      "CILIARY NEURALGIA; tearing, boring pain, as if a cut had been made around eyes", 
-      "Diplopia", 
-      "Auditory vertigo", 
-      "FOR ABSORPTION OF INTRAOCULAR HEMORRHAGES, into the vitreous, but particularly for non-inflammatory retinal Hemorrhages", 
-      "Illusions; blue colors", 
-      "Feeling of stoppage in right ear", 
-      "Very sensitive to light, especially LAMP LIGHT", 
-      "Yellow color of eyes", 
-      "Blood oozes from ears", 
-      "Ears"
+    "Stool": [
+      "Black, thin, offensive, like coffee-grounds", 
+      "Intestinal hemorrhage; blood dark, fluid, non-coagulable", 
+      "Blood oozes from rectum when standing or walking"
+    ], 
+    "Head": [
+      "Vertigo, with weakness and trembling", 
+      "Dull heavy occipital pain, on right side and right eye", 
+      "Headache with pain in heart on lying on left side", 
+      "Headache; must walk on tip-toe to avoid jarring"
     ], 
     "Fever": [
       "Malignant fevers of a HEMORRHAGIC OR PUTRESCINE CHARACTER", 
@@ -43,20 +43,48 @@
       "Faintness and sinking at stomach", 
       "Constant nausea and vomiting every month, after menstruation"
     ], 
-    "Female": [
-      "Dark, bloody urine", 
-      "Puerperal fever; offensive lochia", 
-      "Albuminous, dark, scanty", 
-      "Phlegmasia alba dolens", 
-      "Casts", 
-      "Dysmenorrhoea; pain extends down thighs, with aching in region of heart", 
-      "Uterine hemorrhage with faintness at stomach", 
-      "Cannot keep legs still", 
-      "Painful drawing in uterine ligaments", 
-      "Prolonged menses", 
-      "Sensation as though uterus would drop out", 
-      "Inflamed kidney", 
-      "Urinary Organs"
+    "Abdomen": [
+      "Pain in region of liver", 
+      "Distended, hot, and tender"
+    ], 
+    "Mouth": [
+      "Cancer of tongue with hemorrhage", 
+      "Mouldy smell of breath", 
+      "Tongue fiery red, dry in center, smooth and polished", 
+      "Fills up with saliva", 
+      "Tongue red and small, but feels swollen", 
+      "Spasmodic grinding of teeth at night", 
+      "Tongue when protruding goes to right"
+    ], 
+    "Respiratory": [
+      "Cough, with bloody expectoration", 
+      "Tickling from a dry spot in larynx"
+    ], 
+    "Eyes": [
+      "CILIARY NEURALGIA; tearing, boring pain, as if a cut had been made around eyes", 
+      "Diplopia", 
+      "Auditory vertigo", 
+      "FOR ABSORPTION OF INTRAOCULAR HEMORRHAGES, into the vitreous, but particularly for non-inflammatory retinal Hemorrhages", 
+      "Illusions; blue colors", 
+      "Feeling of stoppage in right ear", 
+      "Very sensitive to light, especially LAMP LIGHT", 
+      "Yellow color of eyes", 
+      "Blood oozes from ears", 
+      "Ears"
+    ], 
+    "Face": [
+      "Leaden-colored and yellow face", 
+      "Lockjaw", 
+      "Acne", 
+      "Lips swollen and numb"
+    ], 
+    "Nose": [
+      "Epistaxis, BLOOD BLACK AND STRINGY, ozaena, after exanthemata or syphilis"
+    ], 
+    "Heart": [
+      "Palpitation, especially at menstrual period", 
+      "Trembling feeling of heart", 
+      "Action feeble, pulse tremulous"
     ], 
     "Modalities": [
       "Worse: right side; open air; evening and morning; in spring", 
@@ -68,42 +96,21 @@
       "Delusions of cerebral decay", 
       "Weeping mood; clouded perception and memory; impatient"
     ], 
-    "Stool": [
-      "Black, thin, offensive, like coffee-grounds", 
-      "Intestinal hemorrhage; blood dark, fluid, non-coagulable", 
-      "Blood oozes from rectum when standing or walking"
+    "Sleep": [
+      "Dreams of the dead", 
+      "Yawning", 
+      "Starting in sleep", 
+      "Smothering sensation when awaking"
     ], 
-    "Abdomen": [
-      "Pain in region of liver", 
-      "Distended, hot, and tender"
-    ], 
-    "Face": [
-      "Leaden-colored and yellow face", 
-      "Lockjaw", 
-      "Acne", 
-      "Lips swollen and numb"
-    ], 
-    "Respiratory": [
-      "Cough, with bloody expectoration", 
-      "Tickling from a dry spot in larynx"
-    ], 
-    "Mouth": [
-      "Cancer of tongue with hemorrhage", 
-      "Mouldy smell of breath", 
-      "Tongue fiery red, dry in center, smooth and polished", 
-      "Fills up with saliva", 
-      "Tongue red and small, but feels swollen", 
-      "Spasmodic grinding of teeth at night", 
-      "Tongue when protruding goes to right"
-    ], 
-    "Nose": [
-      "Epistaxis, BLOOD BLACK AND STRINGY, ozaena, after exanthemata or syphilis"
-    ], 
-    "Head": [
-      "Vertigo, with weakness and trembling", 
-      "Dull heavy occipital pain, on right side and right eye", 
-      "Headache with pain in heart on lying on left side", 
-      "Headache; must walk on tip-toe to avoid jarring"
+    "Female": [
+      "Puerperal fever; offensive lochia", 
+      "Phlegmasia alba dolens", 
+      "Dysmenorrhoea; pain extends down thighs, with aching in region of heart", 
+      "Cannot keep legs still", 
+      "Painful drawing in uterine ligaments", 
+      "Prolonged menses", 
+      "Sensation as though uterus would drop out", 
+      "Uterine hemorrhage with faintness at stomach"
     ], 
     "Skin": [
       "Lymphangitis and septicaemia", 
@@ -130,12 +137,6 @@
       "Spasm of oesophagus; cannot swallow any solid substance", 
       "Gangrenous, with much swelling", 
       "Tight constriction"
-    ], 
-    "Sleep": [
-      "Dreams of the dead", 
-      "Yawning", 
-      "Starting in sleep", 
-      "Smothering sensation when awaking"
     ], 
     "Extremities": [
       "Hands tremble, swollen", 

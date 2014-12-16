@@ -2,12 +2,13 @@
   "name": "Vespa crabro", 
   "Relationship": "Compare: SCORPIO (salivation; strabismus; tetanus); APIS.Antidote: SEMPERVIVUM TECTOR., locally.", 
   "symptoms": {
+    "Urine": [
+      "BURNING with micturition; also itching"
+    ], 
     "Face": [
       "Swelling of mouth and throat, with violent burning pains", 
       "CHEMOSIS OF CONJUNCTIVA", 
       "Erysipelatous inflammation of lids", 
-      "Urinary Organs", 
-      "BURNING with micturition; also itching", 
       "Painful and swollen"
     ], 
     "Female": [

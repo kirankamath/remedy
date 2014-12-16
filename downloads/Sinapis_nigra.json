@@ -12,13 +12,14 @@
       "Cough is relieved by lying down"
     ], 
     "Stomach": [
-      "Sweat better when nausea comes on", 
       "Burning in stomach, extending up oesophagus, throat, and mouth, which is full of canker sores", 
       "OFFENSIVE BREATH, smelling like onions", 
-      "Hot sour eructations", 
-      "Pain in bladder, frequent COPIOUS flow day and night", 
       "COLIC; PAINS COME ON WHILE BENT FORWARD; BETTER, SITTING UP STRAIGHT", 
-      "Urinary Organs"
+      "Hot sour eructations", 
+      "Sweat better when nausea comes on"
+    ], 
+    "Urine": [
+      "Pain in bladder, frequent COPIOUS flow day and night"
     ], 
     "Back": [
       "Rheumatic pain in intercostal and lumbar muscles; sleeplessness from pain in back and hips"

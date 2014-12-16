@@ -22,20 +22,21 @@
       "Taste of food remains long, especially of bread and toast", 
       "Pain from pit to under sternum, worse eating"
     ], 
-    "Abdomen": [
+    "Urine": [
       "After urinating, continues to ooze in drops", 
       "Urine thick, turbid, of strong odor, suppressed", 
-      "Hemorrhoids hot, painful, sore", 
-      "Colic, diarrhoea, extremely loose bowels", 
+      "Stinging, burning in orifice", 
       "Complete suppression after typhoid", 
       "Yellow discharge from urethra", 
-      "Frequent desire to urinate", 
+      "Frequent desire to urinate"
+    ], 
+    "Abdomen": [
+      "Hemorrhoids hot, painful, sore", 
+      "Colic, diarrhoea, extremely loose bowels", 
       "Hot, sore, painful anus during pregnancy", 
       "Anus red and inflamed", 
-      "Stinging, burning in orifice", 
       "Chronic intestinal catarrh", 
-      "Diarrhoea from drinking bad water, with much flatulence, cutting pain, relaxation of sphincter", 
-      "Urinary Organs"
+      "Diarrhoea from drinking bad water, with much flatulence, cutting pain, relaxation of sphincter"
     ], 
     "Nose": [
       "Feels obstructed and dry", 

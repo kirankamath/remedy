@@ -20,22 +20,23 @@
       "Abdomen and Stool", 
       "Gas cannot be passed", 
       "In the morning, difficult passages of small quantities of flatus; afterwards diarrhoea-like urging in the rectum", 
-      "Constant pressure at the cardiac end of the stomach, and a burning pain there", 
-      "Urine Section", 
       "Nausea, with headache, and vomiting of a yellowish bitter mucus", 
       "Pain in bowels before stool, with shuddering chilliness", 
-      "Bloody, albuminous, with much urging; quantities of urates", 
+      "Constant pressure at the cardiac end of the stomach, and a burning pain there", 
       "Drawing pain AROUND NAVEL before stool", 
       "Constriction in the anus", 
       "Pain shift from stomach to vertex"
     ], 
     "Modalities": [
-      "Better: warmth", 
-      "Better: PRESSURE", 
-      "Better: rubbing", 
       "Worse: cold and cold washing", 
       "Worse: dampness", 
-      "Worse: before a snowstorm"
+      "Worse: before a snowstorm", 
+      "Better: warmth", 
+      "Better: PRESSURE", 
+      "Better: rubbing"
+    ], 
+    "Urine": [
+      "Bloody, albuminous, with much urging; quantities of urates"
     ], 
     "Skin": [
       "Profuse sweat without relief", 

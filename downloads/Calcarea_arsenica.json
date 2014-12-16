@@ -14,15 +14,15 @@
       "Violent rush of blood to head with vertigo"
     ], 
     "Stomach": [
-      "Pancreatic disease; relieves burning pain in cancer of pancreas", 
-      "Belching with saliva and beating of heart", 
-      "Albuminuria, passes urine every hour", 
-      "KIDNEY REGION SENSITIVE TO PRESSURE", 
       "Enlarged liver and spleen in children", 
-      "Urinary Organs", 
+      "Belching with saliva and beating of heart", 
+      "Pancreatic disease; relieves burning pain in cancer of pancreas", 
       "Region of stomach distended"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Albuminuria, passes urine every hour", 
+      "KIDNEY REGION SENSITIVE TO PRESSURE"
+    ], 
     "Mind": [
       "Desire for company", 
       "Great depression", 

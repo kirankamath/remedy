@@ -24,6 +24,10 @@
       "Worse: in warm room", 
       "Better: in open air"
     ], 
+    "Urine": [
+      "Frequent urination; offensive; scanty urine", 
+      "Aching in bladder; feels distended"
+    ], 
     "Mind": [
       "Irritability", 
       "Dull intellect", 
@@ -33,14 +37,11 @@
       "Hysterical manifestations"
     ], 
     "Abdomen": [
-      "Frequent urination; offensive; scanty urine", 
-      "Gurgling and pain on taking deep breath", 
-      "Aching in bladder; feels distended", 
-      "Clothes feel too tight", 
       "Sensitive", 
       "Colicky pains", 
-      "Movement in abdomen like fist of a child", 
-      "Urinary Organs"
+      "Gurgling and pain on taking deep breath", 
+      "Clothes feel too tight", 
+      "Movement in abdomen like fist of a child"
     ], 
     "Face": [
       "Sees imaginary gray spot about three inches square", 

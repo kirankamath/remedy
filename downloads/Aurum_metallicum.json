@@ -3,6 +3,10 @@
     "Metallic Gold"
   ], 
   "symptoms": {
+    "Urine": [
+      "Painful retention", 
+      "Turbid, like buttermilk, with thick sediment"
+    ], 
     "Head": [
       "Roaring in head", 
       "Vertigo", 
@@ -20,9 +24,6 @@
     "Abdomen": [
       "Swelling and suppuration of inguinal glands", 
       "Incarcerated flatus", 
-      "Turbid, like buttermilk, with thick sediment", 
-      "Urine Section", 
-      "Painful retention", 
       "Right hypochondrium hot and painful"
     ], 
     "Mouth": [

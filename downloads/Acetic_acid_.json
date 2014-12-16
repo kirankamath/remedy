@@ -30,21 +30,15 @@
       "SALIVATION", 
       "Intense burning thirst"
     ], 
+    "Urine": [
+      "Large quantities of pale urine", 
+      "Diabetes, with great thirst and debility"
+    ], 
     "Mind": [
       "Irritable, worried about business affairs"
     ], 
     "Back": [
       "Pain in back, RELIEVED ONLY BY LYING ON ABDOMEN"
-    ], 
-    "Abdomen": [
-      "Feels as if abdomen was sinking in", 
-      "Ascites", 
-      "Frequent watery stools, worse in morning", 
-      "TYMPANITIC", 
-      "Diabetes, with great thirst and debility", 
-      "Hemorrhage from bowels", 
-      "Large quantities of pale urine", 
-      "Urine Section"
     ], 
     "Fever": [
       "HECTIC, WITH DRENCHING NIGHT-SWEATS", 
@@ -68,6 +62,13 @@
       "Bruises; sprains", 
       "Useful after stings, bites, etc. Varicose swellings", 
       "Diminished sensibility of the surface of body"
+    ], 
+    "Abdomen": [
+      "Hemorrhage from bowels", 
+      "Frequent watery stools, worse in morning", 
+      "TYMPANITIC", 
+      "Feels as if abdomen was sinking in", 
+      "Ascites"
     ], 
     "Extremities": [
       "Emaciation", 

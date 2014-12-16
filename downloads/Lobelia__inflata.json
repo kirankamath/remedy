@@ -29,30 +29,31 @@
       "Profuse sweat and prostration"
     ], 
     "Modalities": [
-      "Better: by rapid walking;", 
-      "Better: toward evening", 
-      "Better: and from warmth", 
       "Worse: tobacco", 
       "Worse: afternoon", 
       "Worse: slightest motion", 
       "Worse: cold", 
-      "Worse: especially cold washing"
+      "Worse: especially cold washing", 
+      "Better: by rapid walking;", 
+      "Better: toward evening", 
+      "Better: and from warmth"
+    ], 
+    "Urine": [
+      "Deep red color and copious red sediment"
     ], 
     "Back": [
       "Sits leaning forward", 
-      "Pain in sacrum; cannot bear slightest touch", 
-      "Deep red color and copious red sediment", 
-      "Urinary Organs"
+      "Pain in sacrum; cannot bear slightest touch"
     ], 
     "Face": [
       "Sudden pallor", 
       "Bathed in cold sweat"
     ], 
-    "Mouth": [
-      "Profuse flow of saliva; acrid burning taste; MERCURIAL TASTE; tenacious mucus, tongue coated white"
-    ], 
     "Skin": [
       "Prickling, itching with intense nausea"
+    ], 
+    "Mouth": [
+      "Profuse flow of saliva; acrid burning taste; MERCURIAL TASTE; tenacious mucus, tongue coated white"
     ], 
     "Ears": [
       "DEAFNESS DUE TO SUPPRESSED DISCHARGES or eczema", 

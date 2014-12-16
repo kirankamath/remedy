@@ -10,15 +10,15 @@
       "Throbbing headache in eyes and temples"
     ], 
     "Stomach": [
-      "Belching and passing gas", 
-      "Passes less urine", 
       "Feels sick, like vomiting", 
-      "Griping in pit of stomach", 
-      "Urinary Organs", 
-      "Changing color", 
-      "No appetite"
+      "Belching and passing gas", 
+      "No appetite", 
+      "Griping in pit of stomach"
     ], 
-    "Modalities": [], 
+    "Urine": [
+      "Changing color", 
+      "Passes less urine"
+    ], 
     "Female": [
       "Diminished sexual desire with weakness", 
       "Menses suppressed"

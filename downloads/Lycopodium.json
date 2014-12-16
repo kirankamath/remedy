@@ -2,18 +2,19 @@
   "name": "Lycopodium", 
   "Relationship": "Compare: Carbo-nitrogenoid Constitution: SULPHUR; RHUS; URTICA; MERCUR.; HEPAR. ALUMINA. (Lycop. is the only vegetable that takes up aluminum. T. F. Allen.) ANT. C.; NAT-M.; BRY.; NUX; BOTHROPS (Day-blindness; can scarcely see after sunrise; pain in right great toe). PLUMBAGO LITTORALIS - A Brazilian plant - (Costive with red urine, pain in kidneys and joints and body generally; milky saliva, ulcerated mouth). HYDRAST. follows LYCOP. in indigestion.Antidotes: CAMPH.; PULS.; CAUST.Complementary: LYCOP. acts with special benefit AFTER CALCAR. and SULPHUR. IOD.; GRAPHITES; LACH.; CHELIDON.", 
   "symptoms": {
-    "Stool": [
+    "Urine": [
       "Child cries before urinating", 
-      "Ineffectual urging", 
-      "POLYURIA DURING THE NIGHT", 
-      "Inactive intestinal canal", 
-      "Stool HARD, DIFFICULT, SMALL, incomplete", 
-      "HEMORRHOIDS; VERY PAINFUL TO TOUCH, ACHING", 
-      "Pain in back before urinating; ceases after flow; SLOW IN COMING, must strain", 
       "HEAVY RED SEDIMENT", 
-      "Urine Section", 
-      "Diarrhoea", 
+      "Pain in back before urinating; ceases after flow; SLOW IN COMING, must strain", 
+      "POLYURIA DURING THE NIGHT", 
       "Retention"
+    ], 
+    "Stool": [
+      "HEMORRHOIDS; VERY PAINFUL TO TOUCH, ACHING", 
+      "Ineffectual urging", 
+      "Inactive intestinal canal", 
+      "Diarrhoea", 
+      "Stool HARD, DIFFICULT, SMALL, incomplete"
     ], 
     "Head": [
       "Great falling out of hair", 

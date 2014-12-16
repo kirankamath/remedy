@@ -19,22 +19,19 @@
       "Dull frontal and supraorbital headache; worse moving eyes, cold air; better, warmth", 
       "Dull, aching; better cold, pressure"
     ], 
+    "Urine": [
+      "Uric acid deposits", 
+      "Increased in quantity and frequency", 
+      "Burning pain in meatus"
+    ], 
     "Mind": [
       "Forgetful, lack of concentration", 
       "Irritable and depressed"
     ], 
     "Abdomen": [
-      "Uric acid deposits", 
-      "Disposition to soft, shapeless stools", 
-      "Griping in umbilical and left hypogastric region", 
-      "Increased in quantity and frequency", 
-      "Burning pain in meatus", 
       "Early morning diarrhoea", 
-      "Urine Section"
-    ], 
-    "Face": [
-      "Skin feels dry and itches", 
-      "Acne on chin"
+      "Disposition to soft, shapeless stools", 
+      "Griping in umbilical and left hypogastric region"
     ], 
     "Nose": [
       "Irresistible desire to sneeze", 
@@ -56,6 +53,10 @@
     ], 
     "Extremities": [
       "Lameness in right shoulder and right lower extremity"
+    ], 
+    "Face": [
+      "Skin feels dry and itches", 
+      "Acne on chin"
     ]
   }, 
   "details": "Its action on skin, mucous membranes, and kidneys is prompt and useful. It is strongly antiparasitic; redness, pain and inflammation; decreases tension. Excellent in winter coughs of old people. Polyarthritis. Chronic rheumatism. URIC ACID DIATHESIS. Hay-fever. CHRONIC HIVES. TUBERCULOSIS, AIDS NUTRITION. Alcoholism when nothing will stay on stomach.", 

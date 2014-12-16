@@ -8,9 +8,10 @@
       "Sneezing with excessive running from nose and eyes, ONLY IN MORNING"
     ], 
     "Respiratory": [
-      "Rose-colored sediment", 
-      "Deep rough cough with greenish expectoration", 
-      "Urine Section"
+      "Deep rough cough with greenish expectoration"
+    ], 
+    "Urine": [
+      "Rose-colored sediment"
     ]
   }, 
   "name": "Ammonium phosphoricum", 

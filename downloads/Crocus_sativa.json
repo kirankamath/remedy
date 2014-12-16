@@ -21,23 +21,18 @@
       "Wheezy cough, with frothy expectoration, containing threads like fine twine; worse, lying down", 
       "Breath has offensive, sickly smell"
     ], 
-    "Female": [
-      "Threatened abortion, especially when hemorrhage is DARK AND STRINGY", 
-      "Menses dark, viscid, too frequent and copious, BLACK AND SLIMY", 
-      "A bounding feeling, as if something alive in right breast", 
-      "Jerking pain in interior of left breast, as if drawn toward back by means of thread", 
-      "Uterine hemorrhage; CLOTS WITH LONG STRINGS; worse from least movement", 
-      "Urging of blood to genitals"
+    "Head": [
+      "Throbs, pulsates, during climacteric; worse during menses"
     ], 
     "Modalities": [
-      "Better: in open air", 
       "Worse: lying down", 
       "Worse: hot weather", 
       "Worse: warm room", 
       "Worse: in morning", 
       "Worse: fasting", 
       "Worse: before breakfast", 
-      "Worse: looking fixedly at an object"
+      "Worse: looking fixedly at an object", 
+      "Better: in open air"
     ], 
     "Mind": [
       "Vivid recollection from music heard", 
@@ -61,8 +56,13 @@
       "STRINGS OF DARK BLOOD hanging down the nose", 
       "Epistaxis"
     ], 
-    "Head": [
-      "Throbs, pulsates, during climacteric; worse during menses"
+    "Female": [
+      "Threatened abortion, especially when hemorrhage is DARK AND STRINGY", 
+      "Menses dark, viscid, too frequent and copious, BLACK AND SLIMY", 
+      "A bounding feeling, as if something alive in right breast", 
+      "Jerking pain in interior of left breast, as if drawn toward back by means of thread", 
+      "Uterine hemorrhage; CLOTS WITH LONG STRINGS; worse from least movement", 
+      "Urging of blood to genitals"
     ], 
     "Extremities": [
       "Chorea and hysteria, with great alteration of feeling", 

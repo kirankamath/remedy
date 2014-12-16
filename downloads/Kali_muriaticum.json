@@ -14,16 +14,11 @@
       "Pain in the stomach, with constipation", 
       "Bulimia; hunger disappears by drinking water"
     ], 
-    "Female": [
-      "Respiratory Organs", 
-      "Leucorrhoea; discharge of milky-white mucus, thick, non-irritating, bland", 
-      "Morning sickness, with vomiting of white phlegm", 
-      "Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white", 
-      "Loss of voice; hoarseness", 
-      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up", 
-      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
-      "Asthma, with gastric derangements; mucus white and hard to cough up", 
-      "Bunches in breast feel quite soft and are TENDER"
+    "Head": [
+      "Imagine he must starve", 
+      "Dandruff", 
+      "Crusta lactea", 
+      "Headache, with vomiting"
     ], 
     "Modalities": [
       "Worse: rich food", 
@@ -55,11 +50,16 @@
       "Stuffy cold", 
       "Catarrh; phlegm white, thick"
     ], 
-    "Head": [
-      "Imagine he must starve", 
-      "Dandruff", 
-      "Crusta lactea", 
-      "Headache, with vomiting"
+    "Female": [
+      "Respiratory Organs", 
+      "Leucorrhoea; discharge of milky-white mucus, thick, non-irritating, bland", 
+      "Morning sickness, with vomiting of white phlegm", 
+      "Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white", 
+      "Loss of voice; hoarseness", 
+      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up", 
+      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
+      "Asthma, with gastric derangements; mucus white and hard to cough up", 
+      "Bunches in breast feel quite soft and are TENDER"
     ], 
     "Skin": [
       "Dry, flour-like scales on the skin", 

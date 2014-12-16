@@ -17,22 +17,16 @@
     "Stool": [
       "Diarrhoea from coffee and fruit, thin, yellow, urgent; worse in morning"
     ], 
-    "Face": [
-      "Tip of nose painful", 
-      "Itching, burning, and crusts on right zygoma", 
-      "Lupus, caries; open, bleeding cancer"
-    ], 
     "Chest": [
       "Hemorrhage from lungs", 
       "The neck is studded with tumors", 
       "Induration of mammae", 
       "Coldness in chest"
     ], 
-    "Mouth": [
-      "PYORRHOEA", 
-      "MOUTH FEELS COLD; putrid, impure breath", 
-      "Scorbutic swollen gums", 
-      "HURTS TO PROTRUDE THE TONGUE"
+    "Face": [
+      "Tip of nose painful", 
+      "Itching, burning, and crusts on right zygoma", 
+      "Lupus, caries; open, bleeding cancer"
     ], 
     "Female": [
       "Induration and inflammation of mammae", 
@@ -59,8 +53,11 @@
       "A small, dry spot in throat; must sip water frequently", 
       "Swelling and suppuration of glands of throat"
     ], 
-    "Sleep": [
-      "Cannot sleep from coldness in throat"
+    "Mouth": [
+      "PYORRHOEA", 
+      "MOUTH FEELS COLD; putrid, impure breath", 
+      "Scorbutic swollen gums", 
+      "HURTS TO PROTRUDE THE TONGUE"
     ], 
     "Extremities": [
       "White swelling", 
@@ -69,6 +66,9 @@
       "Cold feet", 
       "Tips of fingers sensitive to cold", 
       "Syphilitic ulcers on lower limbs, with hard swelling around"
+    ], 
+    "Sleep": [
+      "Cannot sleep from coldness in throat"
     ], 
     "Ears": [
       "Tetter on and around ears, extending to external meatus", 

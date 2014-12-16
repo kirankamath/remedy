@@ -2,19 +2,19 @@
   "name": "Iodium", 
   "Relationship": "Complementary: LYCOPOD.; BADIAGA.Compare: BROM.; HEPAR; MERCUR.; PHOSPH.; ABROT; NAT-MUR.; SANIC.; TUBER.Yatren. Iod. pathogenesis is similar to that of CARBOL. ACID. Antidotes: HEPAR; SULPH.; GRATIOLA.", 
   "symptoms": {
-    "Heart": [
-      "Feels as if squeezed by an iron hand  followed by great weakness and faintness", 
-      "Heart feels squeezed", 
-      "Tachycardia", 
-      "Palpitation from least exertion", 
-      "Myocarditis, painful compression around heart"
+    "Urine": [
+      ", thick, acrid with cuticle on surface", 
+      "Frequent and copious, DARK YELLOW-GREEN"
     ], 
-    "Eyes": [
-      "ACUTE DACRYOCYSTITIS", 
-      "Pupil dilated", 
-      "Violent lachrymation", 
-      "Pain in eyes", 
-      "Constant motion of eyeballs"
+    "Stool": [
+      "Diarrhoea, whitish, frothy, fatty", 
+      "Hemorrhage at every stool", 
+      "Constipation alternating with diarrhoea", 
+      "Constipation, with ineffectual urging; better by drinking cold milk"
+    ], 
+    "Head": [
+      "Throbbing; RUSH OF BLOOD, and feeling of a tight band", 
+      "Vertigo; worse from stooping, worse in warm room Chronic, congestive headache of old people"
     ], 
     "Fever": [
       "Marked fever, restlessness, red cheeks, apathetic", 
@@ -28,49 +28,19 @@
       "RAVENOUS HUNGER and much thirst", 
       "Throbbing at pit of stomach"
     ], 
-    "Female": [
-      "Uterine hemorrhage", 
-      "WEDGE-LIKE PAIN IN THE RIGHT OVARIAN REGION", 
-      "Menstruation irregular", 
-      "DWINDLING OF MAMMARY GLANDS", 
-      "Acrid leucorrhoea, thick, slimy, corroding the linen", 
-      "WEDGE-LIKE PAIN FROM OVARY TO UTERUS", 
-      "Great weakness during menses", 
-      "Nodosities in skin of mammae", 
-      "OVARITIS"
-    ], 
-    "Modalities": [
-      "Better: walking about", 
-      "Better: in open air", 
-      "Worse: when quiet", 
-      "Worse: in warm room", 
-      "Worse: right side"
-    ], 
-    "Mind": [
-      "PRESENT anxiety and depression, no reference to the future", 
-      "Melancholy", 
-      "Sudden impulse to run and do violence", 
-      "Forgetful", 
-      "Fear of people, shuns every one", 
-      "Suicidal tendency", 
-      "Must be busy", 
-      "Anxiety WHEN QUIET"
-    ], 
-    "Stool": [
-      "Hemorrhage at every stool", 
-      ", thick, acrid with cuticle on surface", 
-      "Constipation, with ineffectual urging; better by drinking cold milk", 
-      "Diarrhoea, whitish, frothy, fatty", 
-      "Constipation alternating with diarrhoea", 
-      "Frequent and copious, DARK YELLOW-GREEN", 
-      "Urine Section"
-    ], 
     "Abdomen": [
       "Pancreatic disease", 
       "Cutting pain in abdomen", 
       "Liver and spleen sore and enlarged", 
       "Jaundice", 
       "Mesenteric glands enlarged"
+    ], 
+    "Mouth": [
+      "Tongue thickly coated", 
+      "Foul ulcers and salivation", 
+      "Profuse, fetid ptyalism", 
+      "Offensive odor from mouth", 
+      "Gums loose and bleed easily"
     ], 
     "Respiratory": [
       "Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air", 
@@ -95,12 +65,12 @@
       "Pneumonia", 
       "Croup in scrofulous children with dark hair and eyes"
     ], 
-    "Mouth": [
-      "Tongue thickly coated", 
-      "Foul ulcers and salivation", 
-      "Profuse, fetid ptyalism", 
-      "Offensive odor from mouth", 
-      "Gums loose and bleed easily"
+    "Eyes": [
+      "ACUTE DACRYOCYSTITIS", 
+      "Pupil dilated", 
+      "Violent lachrymation", 
+      "Pain in eyes", 
+      "Constant motion of eyeballs"
     ], 
     "Nose": [
       "Sneezing", 
@@ -112,9 +82,45 @@
       "Sudden violent influenza", 
       "Nose stopped up"
     ], 
-    "Head": [
-      "Throbbing; RUSH OF BLOOD, and feeling of a tight band", 
-      "Vertigo; worse from stooping, worse in warm room Chronic, congestive headache of old people"
+    "Male": [
+      "Loss of sexual power, with atrophied testes", 
+      "Hydrocele", 
+      "Testicles swollen and indurated"
+    ], 
+    "Heart": [
+      "Feels as if squeezed by an iron hand  followed by great weakness and faintness", 
+      "Heart feels squeezed", 
+      "Tachycardia", 
+      "Palpitation from least exertion", 
+      "Myocarditis, painful compression around heart"
+    ], 
+    "Modalities": [
+      "Worse: when quiet", 
+      "Worse: in warm room", 
+      "Worse: right side", 
+      "Better: walking about", 
+      "Better: in open air"
+    ], 
+    "Mind": [
+      "PRESENT anxiety and depression, no reference to the future", 
+      "Melancholy", 
+      "Sudden impulse to run and do violence", 
+      "Forgetful", 
+      "Fear of people, shuns every one", 
+      "Suicidal tendency", 
+      "Must be busy", 
+      "Anxiety WHEN QUIET"
+    ], 
+    "Female": [
+      "Uterine hemorrhage", 
+      "WEDGE-LIKE PAIN IN THE RIGHT OVARIAN REGION", 
+      "Menstruation irregular", 
+      "DWINDLING OF MAMMARY GLANDS", 
+      "Acrid leucorrhoea, thick, slimy, corroding the linen", 
+      "WEDGE-LIKE PAIN FROM OVARY TO UTERUS", 
+      "Great weakness during menses", 
+      "Nodosities in skin of mammae", 
+      "OVARITIS"
     ], 
     "Skin": [
       "Nodosities", 
@@ -140,11 +146,6 @@
       "Rheumatism of nape and upper extremities", 
       "Gonorrheal rheumatism", 
       "Acrid sweat of feet"
-    ], 
-    "Male": [
-      "Loss of sexual power, with atrophied testes", 
-      "Hydrocele", 
-      "Testicles swollen and indurated"
     ]
   }, 
   "details": "ACUTE EXACERBATION OF CHRONIC INFLAMMATION. Arthritis deformans. ACTS PROMINENTLY ON CONNECTIVE TISSUE. THE PLAGUE. GOITRE. Abnormal vasoconstriction, capillary congestion followed by oedema, ecchymosis, hemorrhages, and nutritive disturbances are the pathological conditions at the basis of its symptomatology. Sluggish vital reaction, hence chronicity in many of its aspects. Acute catarrh of all mucous membranes, rapid emaciation, notwithstanding good appetite, and glandular atrophy call for this remedy, in numerous wasting diseases and in scrofulous patients. Acute affections of the respiratory organs. PNEUMONIA, rapid extension. Iodine is warm, and wants cool surroundings. Weakness and loss of breath going upstairs. ADENOID VEGETATIONS. Tincture internally and locally to swollen glands and rattlesnake bites.Rapid metabolism: LOSS OF FLESH with great appetite. Hungry with much thirst. Better after eating. GREAT DEBILITY, THE SLIGHTEST EFFORT INDUCES PERSPIRATION. Iod. individual is exceedingly thin, dark complexioned, with enlarged lymphatic glands, has voracious appetite but gets thin. Tubercular type.All glandular structures, respiratory organs, circulatory system are especially affected; they atrophy. Iodine arouses the defensive apparatus of the system by assembling the mononuclear leucocytoses whose phagocytic action is marked, at a given point. Lead poisoning. Tremor. Iodine craves cold air.", 

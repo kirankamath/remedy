@@ -25,25 +25,26 @@
       "Tired and difficult concentration of thoughts", 
       "Vertigo, with vanishing of vision"
     ], 
+    "Urine": [
+      "STRANGURY, WITH BLOODY URINE", 
+      "Constant tenesmus", 
+      "Inflamed kidneys following any acute disease", 
+      "Scanty, suppressed, ODOR OF VIOLETS", 
+      "Urethritis, with painful excretions"
+    ], 
     "Back": [
       "BURNING PAIN IN REGION OF KIDNEYS", 
       "Drawing in right kidney extending to hip"
     ], 
     "Abdomen": [
-      "Scanty, suppressed, ODOR OF VIOLETS", 
-      "Constant tenesmus", 
-      "STRANGURY, WITH BLOODY URINE", 
-      "Fainting after every stool", 
       "Diarrhoea; stools watery, greenish, fetid, bloody", 
       "Pain before flatus with and relief after stool", 
+      "Fainting after every stool", 
       "Abdominal dropsy; pelvic peritonitis", 
-      "Inflamed kidneys following any acute disease", 
       "Enterocolitis, with hemorrhage and ulceration of bowels", 
       "ENORMOUS DISTENTION", 
-      "Urethritis, with painful excretions", 
       "Hemorrhage from bowels", 
-      "Worms; lumbrici", 
-      "Urinary Organs"
+      "Worms; lumbrici"
     ], 
     "Respiratory": [
       "Difficult breathing; lungs feel distended; hemoptysis", 

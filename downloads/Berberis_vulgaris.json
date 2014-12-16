@@ -23,19 +23,20 @@
       "Worse: motion", 
       "Worse: STANDING"
     ], 
-    "Stool": [
+    "Urine": [
       "PAIN IN THE THIGHS AND LOINS ON URINATING", 
       "Urine with thick MUCUS AND BRIGHT-RED, mealy sediment", 
-      "Diarrhoea painless, clay-colored, burning, and smarting in anus and perineum", 
-      "Tearing around anus", 
-      "Sensation as if some urine remained after urinating", 
-      "Pain in bladder region", 
-      "Constant urging to stool", 
       "Bubbling, sore sensation in kidneys", 
+      "Burning pains", 
       "Frequent urination; urethra burns when not urinating", 
+      "Sensation as if some urine remained after urinating", 
+      "Pain in bladder region"
+    ], 
+    "Stool": [
       "Fistula in anus", 
-      "Urinary Organs", 
-      "Burning pains"
+      "Constant urging to stool", 
+      "Diarrhoea painless, clay-colored, burning, and smarting in anus and perineum", 
+      "Tearing around anus"
     ], 
     "Back": [
       "Stitches from kidneys into bladder", 

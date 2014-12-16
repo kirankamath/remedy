@@ -22,23 +22,20 @@
       "Hiccough, with retching day and night", 
       "Thirst for very cold drinks"
     ], 
-    "Female": [
-      "Ovarian neuralgia", 
-      "Vaginismus", 
-      "MEMBRANOUS DYSMENORRHOEA", 
-      "MENSTRUAL COLIC", 
-      "Swelling of external parts", 
-      "Menses too early, dark, stringy"
+    "Head": [
+      "Vertigo on moving, falls forward on closing eyes, better walking in open air", 
+      "Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head", 
+      "Aches after mental labor, with chilliness; always better warmth"
     ], 
     "Modalities": [
-      "Better: warmth", 
-      "Better: bending double", 
-      "Better: pressure", 
-      "Better: friction", 
       "Worse: right side", 
       "Worse: COLD", 
       "Worse: touch", 
-      "Worse: night"
+      "Worse: night", 
+      "Better: warmth", 
+      "Better: bending double", 
+      "Better: pressure", 
+      "Better: friction"
     ], 
     "Mind": [
       "Laments all the time about the pain", 
@@ -59,19 +56,22 @@
       "SPASMODIC COUGH, with difficulty in lying down", 
       "WHOOPING-COUGH"
     ], 
+    "Female": [
+      "Ovarian neuralgia", 
+      "Vaginismus", 
+      "MEMBRANOUS DYSMENORRHOEA", 
+      "MENSTRUAL COLIC", 
+      "Swelling of external parts", 
+      "Menses too early, dark, stringy"
+    ], 
+    "Throat": [
+      "Soreness and stiffness, especially right side; parts seem puffy, WITH CHILLINESS, and aching all over"
+    ], 
     "Mouth": [
       "Spasms without febrile symptoms", 
       "COMPLAINTS OF TEETHING CHILDREN", 
       "Ulceration of teeth, with swelling of glands of face, throat and neck, AND SWELLING of tongue", 
       "TOOTHACHE; BETTER BY HEAT AND HOT LIQUIDS"
-    ], 
-    "Head": [
-      "Vertigo on moving, falls forward on closing eyes, better walking in open air", 
-      "Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head", 
-      "Aches after mental labor, with chilliness; always better warmth"
-    ], 
-    "Throat": [
-      "Soreness and stiffness, especially right side; parts seem puffy, WITH CHILLINESS, and aching all over"
     ], 
     "Extremities": [
       "CHORES", 

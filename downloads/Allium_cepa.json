@@ -25,26 +25,26 @@
       "Thirst", 
       "Nausea"
     ], 
+    "Head": [
+      "Headache ceases during menses; returns when flow disappears", 
+      "Thread-like pains in face", 
+      "Catarrhal headache, mostly in forehead; WORSE IN WARM ROOM towards evening"
+    ], 
     "Modalities": [
       "Worse: in the evening", 
       "Worse: in warm room", 
       "Better: in open air", 
       "Better: and in cold room"
     ], 
+    "Urine": [
+      "Urine red with much pressure and burning in urethra", 
+      "Increased secretion of urine with coryza", 
+      "Sensation of weakness in bladder and urethra"
+    ], 
     "Abdomen": [
       "Colic sitting, moving about", 
-      "Urine red with much pressure and burning in urethra", 
-      "Sensation of weakness in bladder and urethra", 
-      "Rumbling, offensive flatus", 
       "Pains in left hypogastrium", 
-      "Increased secretion of urine with coryza", 
-      "Urinary Organs"
-    ], 
-    "Sleep": [
-      "Gaping in deep sleep", 
-      "Wakes at two AM", 
-      "Yawning with headache and drowsiness", 
-      "Dreams"
+      "Rumbling, offensive flatus"
     ], 
     "Nose": [
       "Fluent coryza with headache, cough, and hoarseness", 
@@ -54,10 +54,11 @@
       "Feeling of a lump at root of nose", 
       "Sneezing, especially when entering a warm room"
     ], 
-    "Head": [
-      "Headache ceases during menses; returns when flow disappears", 
-      "Thread-like pains in face", 
-      "Catarrhal headache, mostly in forehead; WORSE IN WARM ROOM towards evening"
+    "Sleep": [
+      "Gaping in deep sleep", 
+      "Wakes at two AM", 
+      "Yawning with headache and drowsiness", 
+      "Dreams"
     ], 
     "Extremities": [
       "Bad effects from getting feet wet", 

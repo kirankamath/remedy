@@ -27,19 +27,18 @@
       "Pain in transverse colon", 
       "THIRST; pain in stomach and flatulence"
     ], 
-    "Female": [
-      "Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar", 
-      "Sensation of swelling in vulva and clitoris", 
-      "Pruritis of genitals", 
-      "Urine Section", 
-      "Cold feeling in thigh after period"
+    "Head": [
+      "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening"
+    ], 
+    "Urine": [
+      "Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar"
     ], 
     "Modalities": [
-      "Better: stooping", 
       "Worse: sundown to sunrise; motion", 
       "Worse: loss of sleep", 
       "Worse: smell of food in evening", 
-      "Worse: mental exertion"
+      "Worse: mental exertion", 
+      "Better: stooping"
     ], 
     "Stool": [
       "Ineffectual pressing; feels faeces in rectum, but cannot expel them", 
@@ -56,8 +55,10 @@
       "Very irritable with the pains  Pain behind angle of right lower jaw", 
       "Pain in facial muscles, moving about"
     ], 
-    "Head": [
-      "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening"
+    "Female": [
+      "Sensation of swelling in vulva and clitoris", 
+      "Pruritis of genitals", 
+      "Cold feeling in thigh after period"
     ], 
     "Skin": [
       "Pink spots on back, chest and abdomen", 

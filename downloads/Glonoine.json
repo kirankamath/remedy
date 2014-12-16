@@ -21,9 +21,24 @@
       "Faint, gnawing, and empty feeling at pit of stomach", 
       "Nausea and vomiting"
     ], 
-    "Female": [
-      "Climacteric flushing", 
-      "Menses delayed, or sudden cessation with congestion to head"
+    "Head": [
+      "Effects of sunstroke; heat on head, as in type-setters and workers under gas and electric light", 
+      "Meningitis", 
+      "Headache in place of menses", 
+      "Angiospastic neuralgia of head and face", 
+      "Sun headaches; increases and decreases with the sun", 
+      "Cerebral congestion", 
+      "HEAD HEAVY, BUT CANNOT LAY IT ON PILLOW", 
+      "Rush of blood to head in pregnant women", 
+      "THROBBING headache", 
+      "Better from uncovering head", 
+      "Head feels enormously large, as if skull were too small for brain", 
+      "Shocks in head, synchronous with pulse", 
+      "CANNOT BEAR ANY HEAT ABOUT HEAD", 
+      "Vertigo on assuming upright position", 
+      "Threatened apoplexy", 
+      "Very irritable", 
+      "CONFUSION, with dizziness"
     ], 
     "Modalities": [
       "Worse: in sun; exposure to sun-rays", 
@@ -45,24 +60,9 @@
     "Mouth": [
       "Pulsating toothache"
     ], 
-    "Head": [
-      "Effects of sunstroke; heat on head, as in type-setters and workers under gas and electric light", 
-      "Meningitis", 
-      "Headache in place of menses", 
-      "Angiospastic neuralgia of head and face", 
-      "Sun headaches; increases and decreases with the sun", 
-      "Cerebral congestion", 
-      "HEAD HEAVY, BUT CANNOT LAY IT ON PILLOW", 
-      "Rush of blood to head in pregnant women", 
-      "THROBBING headache", 
-      "Better from uncovering head", 
-      "Head feels enormously large, as if skull were too small for brain", 
-      "Shocks in head, synchronous with pulse", 
-      "CANNOT BEAR ANY HEAT ABOUT HEAD", 
-      "Vertigo on assuming upright position", 
-      "Threatened apoplexy", 
-      "Very irritable", 
-      "CONFUSION, with dizziness"
+    "Female": [
+      "Climacteric flushing", 
+      "Menses delayed, or sudden cessation with congestion to head"
     ], 
     "Throat": [
       "Chokes and swells up under ear", 

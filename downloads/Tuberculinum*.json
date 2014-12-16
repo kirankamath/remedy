@@ -57,11 +57,6 @@
       "Hard, hacking cough; profuse sweating and loss of weight, rales all over chest", 
       "Longs for cold air"
     ], 
-    "Sleep": [
-      "Poor; wakes early", 
-      "Dreams vivid and distressing", 
-      "Overpowering sleepiness in daytime"
-    ], 
     "Female": [
       "PAINS INCREASE WITH THE ESTABLISHMENT OF THE FLOW", 
       "Menses too early, too profuse, long-lasting", 
@@ -72,6 +67,11 @@
       "Chronic eczema; itching intense; worse at night", 
       "ACNE in tuberculous children", 
       "Measles; psoriasis"
+    ], 
+    "Sleep": [
+      "Poor; wakes early", 
+      "Dreams vivid and distressing", 
+      "Overpowering sleepiness in daytime"
     ], 
     "Ears": [
       "PERFORATION IN MEMBRANA TYMPANI, WITH RAGGED EDGES", 

@@ -15,32 +15,6 @@
       "Thirst", 
       "Throbbing in pit"
     ], 
-    "Modalities": [
-      "Worse: undressing", 
-      "Worse: rest", 
-      "Worse: friction of clothes"
-    ], 
-    "Mind": [
-      "Melancholy, with obstinate constipation", 
-      "Memory weak; slow perception"
-    ], 
-    "Abdomen": [
-      "Gnawing around navel", 
-      "Burning pain in anus", 
-      "UNDIGESTED FECES", 
-      "Ineffectual urging", 
-      "STOOL PASSES WHEN EMITTING FLATUS", 
-      "Borborygmus, with profuse, fetid flatus"
-    ], 
-    "Face": [
-      "Pale, sunken, with blue rings around eyes"
-    ], 
-    "Chest": [
-      "Obtuse stitches in chest", 
-      "Dyspnoea", 
-      "PALPITATION, with weakness and empty feeling in chest", 
-      "Oppression as from a weight; asthmatic when lying down"
-    ], 
     "Head": [
       "and occiput, with red, rough, herpetic spots in front", 
       "Numb feeling", 
@@ -53,12 +27,38 @@
       "Humid, fetid spots BEHIND EARS", 
       "CORROSIVE ITCHING ON FOREHEAD AND EDGE OF HAIR; worse, heat"
     ], 
+    "Modalities": [
+      "Worse: undressing", 
+      "Worse: rest", 
+      "Worse: friction of clothes"
+    ], 
+    "Mind": [
+      "Melancholy, with obstinate constipation", 
+      "Memory weak; slow perception"
+    ], 
+    "Chest": [
+      "Obtuse stitches in chest", 
+      "Dyspnoea", 
+      "PALPITATION, with weakness and empty feeling in chest", 
+      "Oppression as from a weight; asthmatic when lying down"
+    ], 
+    "Face": [
+      "Pale, sunken, with blue rings around eyes"
+    ], 
     "Skin": [
       "VERY SENSITIVE SKIN; slightest friction causes soreness and chapping", 
       "VIOLENT ITCHING ERUPTION, BLEEDING, OOZING; want of perspiration", 
       "Pruritus, especially of scalp, which is sensitive", 
       "Nocturnal burning", 
       "Itching, scurfy pimples; herpes; sensitive and numb"
+    ], 
+    "Abdomen": [
+      "Gnawing around navel", 
+      "Burning pain in anus", 
+      "UNDIGESTED FECES", 
+      "Ineffectual urging", 
+      "STOOL PASSES WHEN EMITTING FLATUS", 
+      "Borborygmus, with profuse, fetid flatus"
     ], 
     "Extremities": [
       "WEAKNESS OF LOWER LIMBS", 

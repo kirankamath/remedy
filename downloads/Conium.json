@@ -2,6 +2,17 @@
   "name": "Conium", 
   "Relationship": "Compare: SCIRRHINUM - Cancer nosode - (cancerous diathesis; enlarged glands; cancer of breast; worms); BARYT.; HYDRAST.; IOD.; KALI-PHOS.; HYOS.; CURARE.", 
   "symptoms": {
+    "Urine": [
+      "INTERRUPTED DISCHARGE", 
+      "IT FLOWS AND STOPS AGAIN", 
+      "Dribbling in old men", 
+      "Much difficulty in voiding"
+    ], 
+    "Stool": [
+      "TREMULOUS WEAKNESS AFTER EVERY STOOL", 
+      "Heat and burning in rectum during stool", 
+      "Frequent urging; hard, with tenesmus"
+    ], 
     "Eyes": [
       "Dim-sighted; worse, artificial light", 
       "Paralysis of ocular muscles", 
@@ -11,31 +22,43 @@
       "THE SLIGHTEST ULCERATION OR ABRASION WILL CAUSE THE MOST INTENSE PHOTOPHOBIA", 
       "Corneal pustules"
     ], 
-    "Respiratory": [
-      "Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest", 
-      "Expectoration only after long coughing", 
-      "Dry cough, almost continuous, hacking; worse, evening and at night; CAUSED BY DRY SPOT IN LARYNX WITH ITCHING in chest and throat, WHEN LYING DOWN, talking or laughing, and during pregnancy"
-    ], 
     "Stomach": [
       "Painful spasms of the stomach", 
       "Terrible nausea, acrid HEARTBURN, and acid eructations; WORSE ON GOING TO BED", 
       "Soreness about the root of tongue", 
       "Amelioration from eating and aggravation a few hours after meals; acidity and burning; painful spot the level of the sternum"
     ], 
-    "Female": [
-      "Itching around pudenda", 
-      "Dysmenorrhoea, with drawing-down thighs", 
-      "Wants to press breast hard with hand", 
-      "Induration of os and cervix", 
-      "Mammae lax and shrunken, HARD, painful to touch", 
-      "Ill effects of REPRESSED SEXUAL desire or suppressed menses, or from excessive indulgence", 
-      "Ovaritis; ovary enlarged, indurated; lancinating pain", 
-      "Rash before menses", 
-      "STITCHES IN NIPPLES", 
-      "Leucorrhoea after micturition", 
-      "Unready conception", 
-      "BREASTS ENLARGE AND BECOME PAINFUL before and during menses", 
-      "Menses delayed and scanty; parts sensitive"
+    "Abdomen": [
+      "Sensitive, bruised, swollen, knife-like pains", 
+      "Painful tightness", 
+      "Severe aching in and around the liver", 
+      "Chronic jaundice, and pains in right hypochondrium"
+    ], 
+    "Respiratory": [
+      "Want of breath on taking the least exercise; oppressed breathing, constriction of chest; pains in chest", 
+      "Expectoration only after long coughing", 
+      "Dry cough, almost continuous, hacking; worse, evening and at night; CAUSED BY DRY SPOT IN LARYNX WITH ITCHING in chest and throat, WHEN LYING DOWN, talking or laughing, and during pregnancy"
+    ], 
+    "Head": [
+      "Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull", 
+      "Dull occipital pain on rising in morning", 
+      "VERTIGO, WHEN LYING DOWN, AND WHEN TURNING OVER IN BED, when turning head SIDEWISE, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left", 
+      "Tightness as if both temples were compressed; worse AFTER A MEAL", 
+      "Scorched feeling of top", 
+      "Bruised, semi lateral pains"
+    ], 
+    "Nose": [
+      "Polypus", 
+      "Bleeds easily - becomes sore"
+    ], 
+    "Male": [
+      "EFFECTS OF SUPPRESSED SEXUAL APPETITE", 
+      "Sexual nervousness, with feeble erection", 
+      "Testicles hard and enlarged", 
+      "Desire increased; power decreased"
+    ], 
+    "Ears": [
+      "Defective hearing; discharge from ear blood colored"
     ], 
     "Modalities": [
       "Worse: lying down", 
@@ -53,39 +76,26 @@
       "No inclination for business or study; takes no interest in anything", 
       "Depressed, timid, averse to society, and afraid of being alone"
     ], 
-    "Stool": [
-      "TREMULOUS WEAKNESS AFTER EVERY STOOL", 
-      "INTERRUPTED DISCHARGE", 
-      "Heat and burning in rectum during stool", 
-      "Frequent urging; hard, with tenesmus", 
-      "Dribbling in old men", 
-      "IT FLOWS AND STOPS AGAIN", 
-      "Urine Section", 
-      "Much difficulty in voiding"
-    ], 
     "Back": [
       "Dull aching in lumbar and sacral region", 
       "Dorsal pain between shoulders", 
       "Coccydynia", 
       "Ill effects of bruises and shocks to spine"
     ], 
-    "Abdomen": [
-      "Sensitive, bruised, swollen, knife-like pains", 
-      "Painful tightness", 
-      "Severe aching in and around the liver", 
-      "Chronic jaundice, and pains in right hypochondrium"
-    ], 
-    "Nose": [
-      "Polypus", 
-      "Bleeds easily - becomes sore"
-    ], 
-    "Head": [
-      "Headache, stupefying, with nausea and vomiting of mucus, with a feeling as of foreign body under the skull", 
-      "Dull occipital pain on rising in morning", 
-      "VERTIGO, WHEN LYING DOWN, AND WHEN TURNING OVER IN BED, when turning head SIDEWISE, or turning eyes; worse, shaking head, slight noise or conversation of others, especially towards the left", 
-      "Tightness as if both temples were compressed; worse AFTER A MEAL", 
-      "Scorched feeling of top", 
-      "Bruised, semi lateral pains"
+    "Female": [
+      "Itching around pudenda", 
+      "Dysmenorrhoea, with drawing-down thighs", 
+      "Wants to press breast hard with hand", 
+      "Induration of os and cervix", 
+      "Mammae lax and shrunken, HARD, painful to touch", 
+      "Ill effects of REPRESSED SEXUAL desire or suppressed menses, or from excessive indulgence", 
+      "Ovaritis; ovary enlarged, indurated; lancinating pain", 
+      "Rash before menses", 
+      "STITCHES IN NIPPLES", 
+      "Leucorrhoea after micturition", 
+      "Unready conception", 
+      "BREASTS ENLARGE AND BECOME PAINFUL before and during menses", 
+      "Menses delayed and scanty; parts sensitive"
     ], 
     "Skin": [
       "SWEAT AS SOON AS ONE SLEEPS, or even when closing eyes", 
@@ -103,15 +113,6 @@
       "PERSPIRATION OF HANDS", 
       "MUSCULAR WEAKNESS, especially of lower extremities", 
       "PUTTING FEET ON CHAIR RELIEVES PAIN"
-    ], 
-    "Male": [
-      "EFFECTS OF SUPPRESSED SEXUAL APPETITE", 
-      "Sexual nervousness, with feeble erection", 
-      "Testicles hard and enlarged", 
-      "Desire increased; power decreased"
-    ], 
-    "Ears": [
-      "Defective hearing; discharge from ear blood colored"
     ]
   }, 
   "details": "An old remedy, rendered classical by Plato's graphic description of its employment in the death of Socrates. The ASCENDING PARALYSIS it produces, ending in death by failure of respiration, show the ultimate tendency of many symptoms produced in the provings, for which Conium is an excellent remedy, such as difficult gait, trembling, sudden loss of strength while walking, painful stiffness of legs, etc. Such a condition is often found in old age, a time of weakness, languor, local congestions, and sluggishness. This is the special environment that Conium chooses to manifest its action. It corresponds to the debility, hypochondriasis, urinary troubles, weakened memory, sexual debility found here. Troubles at the change of life, old maids and bachelors. Growth of tumors invite it also. General feeling as if bruised by blows. Great debility in the morning in bed. WEAKNESS OF BODY AND MIND TREMBLING, and palpitation. Cancerous diathesis. Arteriosclerosis. Caries of sternum. Enlarged glands. Acts on the glandular system, engorging and indurating it, altering its structure like scrofulous and cancerous conditions. Tonic after grippe. Insomnia of multiple neuritis.", 

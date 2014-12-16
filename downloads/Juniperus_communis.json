@@ -4,9 +4,15 @@
   "symptoms": {
     "Respiratory": [
       "Cough with scanty, loaded urine"
+    ], 
+    "Urine": [
+      "Prostatic discharge", 
+      "Strangury; bloody, scanty urine, violet odor", 
+      "Weight in kidney region", 
+      "Renal hyperaemia"
     ]
   }, 
-  "details": "Strangury; bloody, scanty urine, violet odor. (TEREBE.) Weight in kidney region. Prostatic discharge. Renal hyperaemia. (EUCALYPTOL.)Urinary Organs.Catarrhal inflammation of kidneys. Dropsy, with suppression of urine. Old persons, with poor digestion and scanty secretion of urine. Chronic pyelitis.", 
+  "details": "Catarrhal inflammation of kidneys. Dropsy, with suppression of urine. Old persons, with poor digestion and scanty secretion of urine. Chronic pyelitis.", 
   "Natural History": [
     "Juniper Berries"
   ], 

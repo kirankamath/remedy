@@ -5,12 +5,6 @@
     ], 
     "Stomach": [
       "Aversion to food", 
-      "Nightly urging", 
-      "SCANTY; complete anuria", 
-      "Urine contains much indican, granular cylinders and fatty degenerated epithelium", 
-      "Dribbling micturition", 
-      "Inflammation of kidneys with profound weakness, dark, bloody, scanty urine", 
-      "Urinary Organs", 
       "Bitter taste"
     ], 
     "Modalities": [
@@ -21,6 +15,13 @@
       "Better: from cold air", 
       "Better: cold water", 
       "Better: tight pressure"
+    ], 
+    "Urine": [
+      "Inflammation of kidneys with profound weakness, dark, bloody, scanty urine", 
+      "Nightly urging", 
+      "Dribbling micturition", 
+      "SCANTY; complete anuria", 
+      "Urine contains much indican, granular cylinders and fatty degenerated epithelium"
     ], 
     "Mind": [
       "Cerebral softening", 

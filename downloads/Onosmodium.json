@@ -9,6 +9,31 @@
       "Strained feeling in eyes; worse, using eyes", 
       "Internal eye muscles paretic"
     ], 
+    "Head": [
+      "Occipitofrontal pain in morning on waking, CHIEFLY LEFT SIDE", 
+      "Dull, heavy, dizzy, pressing upward in occiput", 
+      "Confused", 
+      "Pain in temples and mastoid", 
+      "Nose feels dry", 
+      "Loss of memory"
+    ], 
+    "Modalities": [
+      "Worse: from motion", 
+      "Worse: jar", 
+      "Worse: and tight clothing", 
+      "Better: when undressed", 
+      "Better: when lying down on back", 
+      "Better: from cold drinks", 
+      "Better: and eating"
+    ], 
+    "Chest": [
+      "Pain in heart; pulse, rapid, irregular, weak", 
+      "Sore, aching in breasts; feels swollen and sore"
+    ], 
+    "Back": [
+      "Numbness and tingling in feet and legs", 
+      "Pain in dorsal and lumbar regions"
+    ], 
     "Female": [
       "Nipples itch", 
       "Aching in breasts", 
@@ -19,41 +44,16 @@
       "Soreness in uterine region", 
       "Feels as if menses would appear"
     ], 
-    "Modalities": [
-      "Better: when undressed", 
-      "Better: when lying down on back", 
-      "Better: from cold drinks", 
-      "Better: and eating", 
-      "Worse: from motion", 
-      "Worse: jar", 
-      "Worse: and tight clothing"
-    ], 
-    "Back": [
-      "Numbness and tingling in feet and legs", 
-      "Pain in dorsal and lumbar regions"
-    ], 
-    "Abdomen": [
-      "Abdomen feels bloated", 
-      "Craving for ice-water and cold drinks; wants to drink often"
-    ], 
-    "Chest": [
-      "Pain in heart; pulse, rapid, irregular, weak", 
-      "Sore, aching in breasts; feels swollen and sore"
-    ], 
-    "Head": [
-      "Occipitofrontal pain in morning on waking, CHIEFLY LEFT SIDE", 
-      "Dull, heavy, dizzy, pressing upward in occiput", 
-      "Confused", 
-      "Pain in temples and mastoid", 
-      "Nose feels dry", 
-      "Loss of memory"
-    ], 
     "Throat": [
       "Severe dryness", 
       "Symptoms worse by cold drinks", 
       "Discharge from posterior nares", 
       "Stuffed feeling in posterior nares", 
       "Raw, scraping"
+    ], 
+    "Abdomen": [
+      "Abdomen feels bloated", 
+      "Craving for ice-water and cold drinks; wants to drink often"
     ], 
     "Extremities": [
       "Pain in left scapular region", 

@@ -17,25 +17,26 @@
       "Cough with copious, thick, yellow expectoration; chest feels weak"
     ], 
     "Stomach": [
-      "Pressure in neck of bladder after urinating; painful closure", 
-      "Constant urging to urinate, feels bladder full", 
-      "Urinary Organs", 
       "Gastralgia of aching, gnawing character"
+    ], 
+    "Head": [
+      "Epistaxis", 
+      "Pain as from a nail; after excessive intoxicating drinks", 
+      "Periosteum sore"
     ], 
     "Modalities": [
       "Worse: lying down", 
       "Worse: from cold", 
       "Worse: wet weather"
     ], 
+    "Urine": [
+      "Pressure in neck of bladder after urinating; painful closure", 
+      "Constant urging to urinate, feels bladder full"
+    ], 
     "Back": [
       "Lumbago worse morning before rising", 
       "Pain in nape, back and loins", 
       "Backache better pressure and lying on back"
-    ], 
-    "Head": [
-      "Epistaxis", 
-      "Pain as from a nail; after excessive intoxicating drinks", 
-      "Periosteum sore"
     ], 
     "Rectum": [
       "PROLAPSUS ANI every time the bowels move, after confinement", 
