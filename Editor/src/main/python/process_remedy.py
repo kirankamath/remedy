@@ -142,7 +142,6 @@ def process_one_remedy(file_name):
     merge_sections(symptom_list, "Urinary Organs", "Urine")
     merge_sections(symptom_list, "Urinary organs", "Urine")
 
-
     # Some items move from symptoms to remedy main section.
     main_items = ["dosage", "details", "Relationship", "Natural History"]
     for item in main_items:
