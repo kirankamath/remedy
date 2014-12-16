@@ -40,7 +40,12 @@ keywords = set(["General",
                 "Sexual",
                 "Dose",
                 "Relationship",
-                "Aggravation"])
+                "Aggravation",
+                "Amelioration",
+                "Urinary Organs",
+                "Spine",
+                "Teeth",
+                "Urine Section"])
 
 # Some remedy can have the categories with dots at the end too.
 for k in list(keywords):
@@ -99,7 +104,7 @@ def process_one_remedy(file_name):
 
     special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose"])
     symptom_list = {}
-    rename_pairs = {"Aggravation" : "Modalities", "Dose" : "dosage", "General" : "details"}
+    rename_pairs = {"Dose" : "dosage", "General" : "details"}
     for k, v in category_map.iteritems():
         value = "".join(v)
         value = value.replace("\n", "").replace('"', "")
@@ -131,6 +136,20 @@ def process_one_remedy(file_name):
         symptom_list[symptom_name] = symptoms
     remedy = {"name": name}
 
+    # Merge Urine Section with Urine.
+    urine_section = symptom_list.get("Urine Section")
+    if urine_section:
+        urine = symptom_list.get("Urine", set())
+        symptom_list["Urine"] = list(urine.union(set(urine_section)))
+        del symptom_list["Urine Section"]
+
+    # Merge Urinary organs with Urine too.
+    urinary_organs = symptom_list.get("Urinary Organs")
+    if urinary_organs:
+        urine = symptom_list.get("Urine", set())
+        symptom_list["Urine"] = list(urine.union(set(urinary_organs)))
+        del symptom_list["Urinary Organs"]
+
     # Some items move from symptoms to remedy main section.
     main_items = ["dosage", "details", "Relationship", "Natural History"]
     for item in main_items:
@@ -140,22 +159,21 @@ def process_one_remedy(file_name):
             del symptom_list[item]
 
     # Modalities needs special casing.
-    modalities = symptom_list.get("Modalities")
+    aggravation = symptom_list.get("Aggravation")
+    modalities = []
+    if aggravation:
+        result = format_modalities(aggravation)
+        if result:
+            modalities.extend(result)
+        del symptom_list["Aggravation"]
+    amelioration = symptom_list.get("Amelioration")
+    if amelioration:
+        result = format_modalities(amelioration)
+        if result:
+            modalities.extend(result)
+        del symptom_list["Amelioration"]
     if modalities:
-        readable_modalities = []
-        for mod in modalities:
-            if mod.startswith("BETTER,"):
-                mod = mod[7:]
-                chunks = mod.split(",")
-                for chunk in chunks:
-                    readable_modalities.append("Better: %s" % chunk.strip())
-            elif mod.startswith("WORSE,"):
-                mod = mod[6:]
-                chunks = mod.split(",")
-                for chunk in chunks:
-                    readable_modalities.append("Worse: %s" % chunk.strip())
-        symptom_list["Modalities"] = readable_modalities
-
+        symptom_list["Modalities"] = modalities
 
     # Rest of the items go to symptoms of the remedy.
     remedy["symptoms"] = symptom_list
@@ -163,6 +181,21 @@ def process_one_remedy(file_name):
     # Replace any spaces in the filename with underscores.
     with open(name.replace(" ", "_") + ".json", "w") as file_handle:
         file_handle.write(json.dumps(remedy, indent=2))
+
+def format_modalities(modalities):
+    readable_modalities = []
+    for mod in modalities:
+        if mod.startswith("BETTER,"):
+            mod = mod[7:]
+            chunks = mod.split(",")
+            for chunk in chunks:
+                readable_modalities.append("Better: %s" % chunk.strip())
+        elif mod.startswith("WORSE,"):
+            mod = mod[6:]
+            chunks = mod.split(",")
+            for chunk in chunks:
+                readable_modalities.append("Worse: %s" % chunk.strip())
+    return readable_modalities
 
 def main():
     file_name = sys.argv[1]
