@@ -146,7 +146,7 @@ def process_one_remedy(file_name):
     # Merge Urinary organs with Urine too.
     urinary_organs = symptom_list.get("Urinary Organs")
     if urinary_organs:
-        urine = symptom_list.get("Urine", set())
+        urine = set(symptom_list.get("Urine", set()))
         symptom_list["Urine"] = list(urine.union(set(urinary_organs)))
         del symptom_list["Urinary Organs"]
 
