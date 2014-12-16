@@ -1,0 +1,379 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="https://www.homeopathiclaboratories.com/hlabs.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Camphora</title>
+
+<script language="JavaScript">
+<!--
+function submitSearch() {
+  if(document.searchForm["search[query]"].value.length == 0) alert("Please enter a search string.");
+  else document.searchForm.submit();
+}
+//-->
+</script>
+<script type="text/javascript">
+
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, ""]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=0 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddtabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddtabs(){
+var tabobj=document.getElementById("ddtabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddtabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script>
+
+</head>
+<div align="center">
+	<table cellpadding="0" style="border-collapse: collapse; " width="754" id="table1" bgcolor="#FFFFFF">
+		<tr>
+			<td>
+			<p align="center"><span style="background-color: #FFFFFF">
+			<a href="https://www.homeopathiclaboratories.com">
+			<img border="0" src="../images/top-home_01.gif" width="754" height="114"></a></span></td>
+			
+		</tr>
+	</table>
+	<div align="center">
+		<table cellpadding="0" style="border-collapse: collapse; border-left: 1px solid #B6CB8C; border-right: 1px solid #B6CB8C" width="754" id="table2" bgcolor="#FFFFFF">
+			<tr>
+				<td>
+				<div id="ddtabs" class="basictab">
+<ul>
+<li><a href="https://www.homeopathiclaboratories.com/shop/categories.htm" onMouseover="expandcontent('sc1', this)">Products</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/index2.html" onMouseover="expandcontent('sc2', this)">Search</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/articles/headlines.php" onMouseover="expandcontent('sc3', this)">Library</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php" onMouseover="expandcontent('sc4', this)">Tools</span></a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/videocast/videocast1.php" onMouseover="expandcontent('sc5', this)">Education</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/customerservice.php" onMouseover="expandcontent('sc6', this)">Customer Service</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/basket.html" onMouseover="expandcontent('sc7', this)">Shopping Cart</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/my" onMouseover="expandcontent('sc8', this)">Customer Login</a></li>
+</ul>
+</div>
+
+<DIV id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/sleep2.php">Stress/Sleep</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/children2.php">Children</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/colds2.php">Cough/Cold</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/pain2.php">Pain</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/women2.php">Women</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/digestion2.php">Digestion</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/firstaid2.php">First Aid</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/topicals2.php">Topicals</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/kits2.php">Kits</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/cellsalts2.php">Cell Salts</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/singles.php">Single Remedies</a> 
+
+</div>
+
+<div id="sc2" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/index2.html">Product Database</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/articlesearch.php">Article Content</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/searchmatmed.php">Materia Medica</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/home.php">All Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/feature.php">Feature Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/technical.php">Technical Bulletins</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/headlines.php">Headlines</a> 
+</div>
+
+<div id="sc4" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/remedyfinder.htm">Remedy Finder</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php">Materia Medica Online</a> 
+</div>
+
+<div id="sc5" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/faq.htm">Frequently Asked Questions</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/videocast/videocast1.php">Video Casts</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/formats.php">How to Order Single Remedies?</a> 
+</div>
+
+<div id="sc6" class="tabcontent">
+</div>
+
+<div id="sc7" class="tabcontent">
+</div>
+
+<div id="sc8" class="tabcontent">
+</div>
+
+</DIV>
+				</td>
+			</tr>
+			</table>
+		<div align="center">
+			<table cellpadding="0" style="border-collapse: collapse" width="754" id="table3" bgcolor="#FFFFFF">
+				<tr>
+					<td width="754">
+					<img border="0" src="../images/toplines_02.gif" width="752" height="7"></div></td></div></div></div>
+				</tr>
+		<tr>
+
+    		<td valign="top" width="500">
+
+	        	
+	            <div align="center">
+
+    	        
+<meta http-quiv=Content-Type content="text/html; charset=us-ascii">
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="754" id="table1" height="273">
+		<tr>
+			<td height="273">
+
+
+
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center"><b>
+<font face="Arial">Materia Medica (Boericke)</font></b></p>
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center">
+<b><font face="Arial">Camphora</font></b></p>
+			<font SIZE="2">
+<p style="margin: 0 35px"><font face="Arial"><b>Camphora [Camph.] </b>
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=CAMP">
+Buy Now</a></font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Natural History.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Camphor</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">General.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Hahnemann says: &quot;The action of this substance is very puzzling and difficult 
+of investigation, even in the healthy organism because its PRIMARY ACTION, more 
+frequently than with any other remedy, alternates and becomes intermixed with 
+the vital reactions (after effects) of the organism. On this account it is often 
+difficult to determine what belongs to the vital reactions of the body and WHAT 
+TO THE ALTERNATING EFFECTS DUE TO THE PRIMARY ACTION OF THE CAMPHOR.&quot; Pictures a 
+state of collapse. ICY COLDNESS of the whole body; sudden sinking of strength; 
+pulse small and weak. After operations, if temperature is subnormal, low blood 
+pressure, 3 doses Camph. 1x, 15-minute intervals. This condition is met with in 
+cholera, and here it is that Camphor has achieved classical fame. FIRST STAGES 
+OF A COLD, WITH CHILLINESS AND SNEEZING. Subsultus and extreme restlessness. 
+Cracking of joints. Epileptiform convulsions. Camphor has a direct relationship 
+to muscles and fascia. In local rheumatic affections in cold climates necessary. 
+Distention of veins. As a heart stimulant for emergency use of Camphor is the 
+most satisfactory remedy. Drop doses on sugar as often as every five minutes. It 
+is characteristic of Camphor that the patient WILL NOT BE COVERED, 
+notwithstanding the icy coldness of the body. One of the main remedies in shock. 
+PAIN BETTER WHILE THINKING OF IT. Very sensitive to cold and to touch. Sequelae 
+of measles. VIOLENT CONVULSION, with wandering and hysterical excitement. 
+Tetanic spasms. Scrofulous children and irritable, weakly blondes especially 
+affected.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Head.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Vertigo, tendency to unconsciousness, feeling as if he would die. Influenza; 
+headache, with catarrhal symptoms, sneezing, etc. Beating pain in cerebellum. 
+Cold sweat. NOSE COLD AND PINCHED. Tongue cold, flabby, trembling. FLEETING 
+STITCHES IN TEMPORAL REGION AND ORBITS. Head sore. OCCIPITAL THROBBING, 
+SYNCHRONOUS WITH THE PULSE.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Eyes.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Fixed, staring; pupils dilated. Sensation as if all objects were too bright 
+and glittering.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Nose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Stopped; sneezing. Fluent coryza on sudden change of weather. Cold and 
+pinched. PERSISTENT EPISTAXIS, especially with goose-flesh state of skin.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Face.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pale, haggard, ANXIOUS, distorted; BLUISH, cold. Cold sweat.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stomach.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pressive pain in pit of stomach. COLDNESS, followed by burning.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stool.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Blackish; involuntary. ASIATIC CHOLERA, with cramps in calves, coldness of 
+body, anguish, great weakness, COLLAPSE, tongue and mouth cold.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Urine Section.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Burning and STRANGURY, with tenesmus of the neck of the bladder. Retention 
+with full bladder.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Male.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Desired increased. Chordee. PRIAPISM. Nightly emissions.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Respiratory.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Precordial distress. Suffocative dyspnoea. Asthma. Violent, dry, hacking 
+cough. Palpitation. BREATH COLD. Suspended respiration.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Sleep.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">INSOMNIA, with cold limbs. Subsultus and extreme restlessness.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Extremities.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Rheumatic pain between shoulders. Difficult motion. Numbness, tingling and 
+COLDNESS. Cracking in joints. Cramps in calves. Icy cold feet, ache as if 
+sprained.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Fever.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pulse small, weak, slow. ICY COLDNESS OF THE WHOLE BODY. Cold perspiration. 
+CONGESTIVE CHILL. TONGUE COLD, flabby, trembling.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Skin.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">COLD, pale, blue, livid. Cannot bear to be covered. (Secale.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Aggravation.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">WORSE, motion, night, contact, cold air.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Amelioration.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">BETTER, warmth.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Relationship.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Camphor antidotes or modifies the action of nearly every vegetable medicine - 
+tobacco, opium, worm medicines, etc. Luffa actangula (whole body ice-cold, with 
+a restlessness and anxiety; burning thirst). Camphoric acid - (a prophylactic 
+against catheter fever; cystitis 15 grains three times a day; also for 
+prevention of night sweats).</font></p>
+<p style="margin: 0 35px"><font face="Arial">Incompatible: Kali-nit.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Complementary: Canth.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Antidotes: Opium; Nit. sp. Dulc.; Phos.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Compare: Carbo; Cuprum; Arsenic; Verat.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Dose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Tincture, in drop doses, repeated frequently, or smelling of Spirits of 
+Camphor. Potencies are equally effective.</font><p style="margin: 0 35px"><font face="Arial">
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=CAMP">
+Buy Now</a></font></font></td>
+		</tr>
+		</table>
+</div>
+
+                        </div>
+                        </td>
+                </tr>
+
+               </td></tr><tr><td><div align="center">
+			<table cellpadding="0" cellspacing="0" width="754" id="table1" >
+				<tr>
+					<td style="border-left:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-left: 20px"><script src=https://seal.verisign.com/getseal?host_name=www.homeopathiclaboratories.com&size=S&use_flash=YES&use_transparent=YES&lang=en></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="text-decoration:none; letter-spacing:.5px; text-align:center; margin:20px; padding:10px; font-style:normal; font-variant:normal; font-weight:bold; font-size:7px; font-family:verdana, sans-serif">ABOUT SSL CERTIFICATES</a></td>
+					<td style="border-right:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-right: 10px; margin-top: 10px; margin-bottom: 10px"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.homeopathiclaboratories.com">
+					<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.homeopathiclaboratories.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="right"></a>
+<!-- END SCANALERT CODE --> </td>
+          </tr></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+        <center>
+        <table border="0" cellpadding="0" style="border-collapse: collapse" width="750" id="AutoNumber1" bgcolor="#FFFFFF">
+          <tr>
+            <td bgcolor="#E4ECD8" height="45">
+            <p class="head" align="center" style="margin-top: 5; margin-bottom: 5; ">
+      <a class="btm" href="http://www.homeopathiclaboratories.com/my">My Account </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/customerservice.php"> </font>Customer Service </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/newssignup.html">Newsletter</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/catalogue.html">Request Catalogue</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/basket.html">Shopping Basket</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/index2.html">Search</a></td>
+          </tr>
+	  <tr>
+	    <td valign="top" bgcolor="#F1F1F2" height="45">
+		<img src="spacer.gif" height=1 width=1>
+	    </td>
+	  </tr>
+        </table>
+        </center>
+</div>
+</td></tr></table>
+</div>
+<!-- /matmed/camphora.php-->
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2237&dtm_cmagic=b166b5&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "12";
+dtmTag.dtmc_url = location.href;
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!-- End Dotomi Tag -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2678290-1";
+urchinTracker();
+</script>
+</body>
+
+</html>

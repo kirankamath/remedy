@@ -1,0 +1,399 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="https://www.homeopathiclaboratories.com/hlabs.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Hydrastis</title>
+
+<script language="JavaScript">
+<!--
+function submitSearch() {
+  if(document.searchForm["search[query]"].value.length == 0) alert("Please enter a search string.");
+  else document.searchForm.submit();
+}
+//-->
+</script>
+<script type="text/javascript">
+
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, ""]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=0 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddtabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddtabs(){
+var tabobj=document.getElementById("ddtabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddtabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script>
+
+</head>
+<div align="center">
+	<table cellpadding="0" style="border-collapse: collapse; " width="754" id="table1" bgcolor="#FFFFFF">
+		<tr>
+			<td>
+			<p align="center"><span style="background-color: #FFFFFF">
+			<a href="https://www.homeopathiclaboratories.com">
+			<img border="0" src="../images/top-home_01.gif" width="754" height="114"></a></span></td>
+			
+		</tr>
+	</table>
+	<div align="center">
+		<table cellpadding="0" style="border-collapse: collapse; border-left: 1px solid #B6CB8C; border-right: 1px solid #B6CB8C" width="754" id="table2" bgcolor="#FFFFFF">
+			<tr>
+				<td>
+				<div id="ddtabs" class="basictab">
+<ul>
+<li><a href="https://www.homeopathiclaboratories.com/shop/categories.htm" onMouseover="expandcontent('sc1', this)">Products</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/index2.html" onMouseover="expandcontent('sc2', this)">Search</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/articles/headlines.php" onMouseover="expandcontent('sc3', this)">Library</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php" onMouseover="expandcontent('sc4', this)">Tools</span></a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/videocast/videocast1.php" onMouseover="expandcontent('sc5', this)">Education</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/customerservice.php" onMouseover="expandcontent('sc6', this)">Customer Service</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/basket.html" onMouseover="expandcontent('sc7', this)">Shopping Cart</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/my" onMouseover="expandcontent('sc8', this)">Customer Login</a></li>
+</ul>
+</div>
+
+<DIV id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/sleep2.php">Stress/Sleep</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/children2.php">Children</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/colds2.php">Cough/Cold</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/pain2.php">Pain</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/women2.php">Women</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/digestion2.php">Digestion</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/firstaid2.php">First Aid</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/topicals2.php">Topicals</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/kits2.php">Kits</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/cellsalts2.php">Cell Salts</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/singles.php">Single Remedies</a> 
+
+</div>
+
+<div id="sc2" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/index2.html">Product Database</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/articlesearch.php">Article Content</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/searchmatmed.php">Materia Medica</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/home.php">All Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/feature.php">Feature Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/technical.php">Technical Bulletins</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/headlines.php">Headlines</a> 
+</div>
+
+<div id="sc4" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/remedyfinder.htm">Remedy Finder</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php">Materia Medica Online</a> 
+</div>
+
+<div id="sc5" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/faq.htm">Frequently Asked Questions</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/videocast/videocast1.php">Video Casts</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/formats.php">How to Order Single Remedies?</a> 
+</div>
+
+<div id="sc6" class="tabcontent">
+</div>
+
+<div id="sc7" class="tabcontent">
+</div>
+
+<div id="sc8" class="tabcontent">
+</div>
+
+</DIV>
+				</td>
+			</tr>
+			</table>
+		<div align="center">
+			<table cellpadding="0" style="border-collapse: collapse" width="754" id="table3" bgcolor="#FFFFFF">
+				<tr>
+					<td width="754">
+					<img border="0" src="../images/toplines_02.gif" width="752" height="7"></div></td></div></div></div>
+				</tr>
+		<tr>
+
+    		<td valign="top" width="500">
+
+	        	
+	            <div align="center">
+
+    	        
+<meta http-quiv=Content-Type content="text/html; charset=us-ascii">
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="754" id="table1" height="257">
+		<tr>
+			<td height="257">
+
+
+
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center"><b>
+<font face="Arial">Materia Medica (Boericke)</font></b></p>
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center">
+<b><font face="Arial">Hydrastis</font></b></p>
+			<font SIZE="2">
+<p style="margin: 0 35px"><font face="Arial"><b>Hydrastis [Hydr.] </b>
+<a class="buy now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=HYDR">
+Buy Now</a></font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Natural History.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Golden Seal</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">General.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Acts especially on mucous 
+membranes, relaxing them and producing a THICK, YELLOWISH, ROPY secretion. The 
+catarrh may be anywhere, - throat, stomach, uterus, urethra, - it is always 
+characterized by this peculiar mucous discharge. Hydrastis is especially active 
+in old, easily-tired people, cachectic individuals, with great debility. 
+Cerebral effects prominent, feels his wits sharpened, head cleared, facile 
+expression. Weak muscular power, poor digestion and obstinate constipation. 
+Lumbago. Emaciation and prostration. Its action on the liver is marked. Cancer 
+and cancerous state, before ulceration, when pain in principal symptom. GOITRE 
+of puberty and pregnancy. SMALLPOX internally and locally. The power of 
+Hydrastis over smallpox seen in modifying the disease, abolishing its 
+distressing symptoms, shortening its course, lessening its danger and greatly 
+mitigating its consequences. (J.J. Garth Wilkinson.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mind.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Depressed; sure of death, and 
+desires it.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Head.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Dull, pressing frontal pain, 
+especially connected with constipation. Myalgic pain in scalp and muscles of 
+neck. (CIMICIF.) Eczema on forehead along line of hair. SINUSITIS, after coryza.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Ears.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Roaring. Mucopurulent discharge. 
+Deafness. EUSTACHIAN CATARRH, with high-pitched voice.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Nose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">THICK, TENACIOUS SECRETION FROM 
+POSTERIOR NARES TO throat. Watery, EXCORIATING discharge. Ozaena, with 
+ulceration of septum. Tends to blow nose all the time.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mouth.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Peppery taste. Tongue white, 
+swollen, large, flabby, slimy; SHOWS IMPRINT OF TEETH (MERC.); as if scalded; 
+stomatitis. Ulceration of tongue, fissures toward the edges.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Throat.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Follicular pharyngitis. Raw, 
+smarting, excoriating sensation. Hawking of yellow, tenacious mucus. 
+(KALI-BICH.) Child is aroused suddenly from sleep by this tenacious post-nasal 
+dropping. Goitre of puberty and pregnancy.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stomach.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Sore feeling in stomach more or 
+less constant. Weak digestion. BITTER TASTE. Pain as from a hard-cornered 
+substance. Gone feeling. Pulsation in epigastrium. Cannot eat bread or 
+vegetables. Atonic dyspepsia. Ulcers and cancer. Gastritis.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Abdomen.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Gastroduodenal catarrh. Liver 
+torpid, tender. Jaundice. Gallstones. Dull dragging in right groin with cutting 
+sensation into right testicle.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Back.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Dull, heavy, dragging pain and 
+stiffness, particularly ACROSS LUMBAR REGION, MUST USE ARMS IN RAISING HIMSELF 
+FROM SEAT.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Rectum.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Prolapsed; anus fissured. 
+CONSTIPATION, with sinking feeling in stomach, and dull headache. During stool, 
+smarting pain in rectum. After stool, long-lasting pain. (NIT-AC.) Hemorrhoids; 
+even a light flow exhausts. Contraction and spasm.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Urine Section.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">GLEETY DISCHARGE. Urine smells 
+decomposed.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Male.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Gonorrhea, second stage; discharge 
+thick and yellow.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Female.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Erosion and excoriation of cervix. 
+Leucorrhoea, worse after menses (BOV.; CALC. C.); acrid and corroding, shreddy, 
+tenacious. Menorrhagia. Pruritus vulvae, with profuse leucorrhoea. (CALC. C.; 
+KREOS.; SEP.) Sexual excitement. Tumor of breast; nipple retracted.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Respiratory.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Chest raw, sore, burning. Dry, 
+harsh cough. Bronchial catarrh, later stages. Bronchitis in old, exhausted 
+persons, WITH THICK, YELLOW, TENACIOUS EXPECTORATION. Frequent fainting spells, 
+with cold sweat all over. Feels suffocating when lying on left side. Pain from 
+chest to left shoulder.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Skin.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Eruption like variola. Lupus; 
+ULCERS, cancerous formations. General tendency to profuse perspiration and 
+unhealthy skin. (HEPAR.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Relationship.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Antidote: SULPH.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Useful after too much Chlorate of 
+Potash for sore throat.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Compare: XANTHORRHIZA APIFOLIA; 
+KALI-BICH.; CONIUM; ARS. IOD.; PHYTOL.; GALIUM (cancer - nodulated tumor of the 
+tongue); ASTERIAS; STANN.; PULS. Also MANZANITA (diarrhoea, gonorrhea, gleet, 
+leucorrhoea, catarrhal conditions). HYDRASTINUM MURIATICUM - Muriate of 
+Hydrastis. (Locally, in aphthous sore mouth, ulcers, ulcerated sore throat, 
+ozaena, etc. Internally, third Dec. trit. Is a uterine hemostatic and 
+vasoconstrictor; metrorrhagia, especially from fibroid tumors; hemorrhages, IN 
+DILATATION OF THE STOMACH, and chronic digestive disorders). HYDRASTIN SULPH 1x 
+(hemorrhage of bowels in typhoid).</font></p>
+<p style="margin: 0 35px"><font face="Arial">MARRUBIUM - Hoar hound - (a 
+stimulant to mucous membranes, especially laryngeal and bronchial; chronic 
+bronchitis, dyspepsia, and hepatic disorders; colds and coughs).</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Dose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Tincture, to thirtieth attenuation. 
+Locally colorless Hydrastis, mother tincture, or fluid extract.</font></p>
+<p style="margin: 0 35px"><font face="Arial">
+<a class="buy now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=HYDR">
+Buy Now</a></font></p>
+<p>&nbsp;</font></td>
+		</tr>
+		</table>
+</div>
+
+                        </div>
+                        </td>
+                </tr>
+
+               </td></tr><tr><td><div align="center">
+			<table cellpadding="0" cellspacing="0" width="754" id="table1" >
+				<tr>
+					<td style="border-left:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-left: 20px"><script src=https://seal.verisign.com/getseal?host_name=www.homeopathiclaboratories.com&size=S&use_flash=YES&use_transparent=YES&lang=en></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="text-decoration:none; letter-spacing:.5px; text-align:center; margin:20px; padding:10px; font-style:normal; font-variant:normal; font-weight:bold; font-size:7px; font-family:verdana, sans-serif">ABOUT SSL CERTIFICATES</a></td>
+					<td style="border-right:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-right: 10px; margin-top: 10px; margin-bottom: 10px"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.homeopathiclaboratories.com">
+					<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.homeopathiclaboratories.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="right"></a>
+<!-- END SCANALERT CODE --> </td>
+          </tr></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+        <center>
+        <table border="0" cellpadding="0" style="border-collapse: collapse" width="750" id="AutoNumber1" bgcolor="#FFFFFF">
+          <tr>
+            <td bgcolor="#E4ECD8" height="45">
+            <p class="head" align="center" style="margin-top: 5; margin-bottom: 5; ">
+      <a class="btm" href="http://www.homeopathiclaboratories.com/my">My Account </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/customerservice.php"> </font>Customer Service </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/newssignup.html">Newsletter</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/catalogue.html">Request Catalogue</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/basket.html">Shopping Basket</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/index2.html">Search</a></td>
+          </tr>
+	  <tr>
+	    <td valign="top" bgcolor="#F1F1F2" height="45">
+		<img src="spacer.gif" height=1 width=1>
+	    </td>
+	  </tr>
+        </table>
+        </center>
+</div>
+</td></tr></table>
+</div>
+<!-- /matmed/hydrastis.php-->
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2237&dtm_cmagic=b166b5&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "12";
+dtmTag.dtmc_url = location.href;
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!-- End Dotomi Tag -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2678290-1";
+urchinTracker();
+</script>
+</body>
+
+</html>

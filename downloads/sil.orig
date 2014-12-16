@@ -1,0 +1,448 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="https://www.homeopathiclaboratories.com/hlabs.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Silicea</title>
+
+<script language="JavaScript">
+<!--
+function submitSearch() {
+  if(document.searchForm["search[query]"].value.length == 0) alert("Please enter a search string.");
+  else document.searchForm.submit();
+}
+//-->
+</script>
+<script type="text/javascript">
+
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, ""]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=0 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddtabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddtabs(){
+var tabobj=document.getElementById("ddtabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddtabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script>
+
+</head>
+<div align="center">
+	<table cellpadding="0" style="border-collapse: collapse; " width="754" id="table1" bgcolor="#FFFFFF">
+		<tr>
+			<td>
+			<p align="center"><span style="background-color: #FFFFFF">
+			<a href="https://www.homeopathiclaboratories.com">
+			<img border="0" src="../images/top-home_01.gif" width="754" height="114"></a></span></td>
+			
+		</tr>
+	</table>
+	<div align="center">
+		<table cellpadding="0" style="border-collapse: collapse; border-left: 1px solid #B6CB8C; border-right: 1px solid #B6CB8C" width="754" id="table2" bgcolor="#FFFFFF">
+			<tr>
+				<td>
+				<div id="ddtabs" class="basictab">
+<ul>
+<li><a href="https://www.homeopathiclaboratories.com/shop/categories.htm" onMouseover="expandcontent('sc1', this)">Products</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/index2.html" onMouseover="expandcontent('sc2', this)">Search</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/articles/headlines.php" onMouseover="expandcontent('sc3', this)">Library</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php" onMouseover="expandcontent('sc4', this)">Tools</span></a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/videocast/videocast1.php" onMouseover="expandcontent('sc5', this)">Education</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/customerservice.php" onMouseover="expandcontent('sc6', this)">Customer Service</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/basket.html" onMouseover="expandcontent('sc7', this)">Shopping Cart</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/my" onMouseover="expandcontent('sc8', this)">Customer Login</a></li>
+</ul>
+</div>
+
+<DIV id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/sleep2.php">Stress/Sleep</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/children2.php">Children</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/colds2.php">Cough/Cold</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/pain2.php">Pain</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/women2.php">Women</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/digestion2.php">Digestion</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/firstaid2.php">First Aid</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/topicals2.php">Topicals</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/kits2.php">Kits</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/cellsalts2.php">Cell Salts</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/singles.php">Single Remedies</a> 
+
+</div>
+
+<div id="sc2" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/index2.html">Product Database</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/articlesearch.php">Article Content</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/searchmatmed.php">Materia Medica</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/home.php">All Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/feature.php">Feature Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/technical.php">Technical Bulletins</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/headlines.php">Headlines</a> 
+</div>
+
+<div id="sc4" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/remedyfinder.htm">Remedy Finder</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php">Materia Medica Online</a> 
+</div>
+
+<div id="sc5" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/faq.htm">Frequently Asked Questions</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/videocast/videocast1.php">Video Casts</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/formats.php">How to Order Single Remedies?</a> 
+</div>
+
+<div id="sc6" class="tabcontent">
+</div>
+
+<div id="sc7" class="tabcontent">
+</div>
+
+<div id="sc8" class="tabcontent">
+</div>
+
+</DIV>
+				</td>
+			</tr>
+			</table>
+		<div align="center">
+			<table cellpadding="0" style="border-collapse: collapse" width="754" id="table3" bgcolor="#FFFFFF">
+				<tr>
+					<td width="754">
+					<img border="0" src="../images/toplines_02.gif" width="752" height="7"></div></td></div></div></div>
+				</tr>
+		<tr>
+
+    		<td valign="top" width="500">
+
+	        	
+	            <div align="center">
+
+    	        
+<meta http-quiv=Content-Type content="text/html; charset=us-ascii">
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="754" id="table1" height="271">
+		<tr>
+			<td height="271">
+
+
+
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center"><b>
+<font face="Arial">Materia Medica (Boericke)</font></b></p>
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center">
+<b><font face="Arial">Silicea</font></b></p>
+			<font SIZE="2">
+<p style="margin: 0 35px"><font face="Arial"><b>Silicea [Sil.] </b>
+<a class="buy now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=SILI">
+Buy Now</a></font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Natural History.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Silica. Pure Flint</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">General.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Imperfect assimilation and consequent defective nutrition. It goes further 
+and produces neurasthenic states in consequence, and increased susceptibility to 
+nervous stimuli and exaggerated reflexes. Diseases of bones, caries and 
+necrosis. Silica can stimulate the organism to re-absorb fibrotic conditions and 
+scar-tissue. In phthisis must be used with care, for here it may cause the 
+absorption of scar-tissue, liberate the disease, walled in, to new activities. 
+(J. Weir.) Organic changes; it is deep and slow in action. Periodical states; 
+abscesses, quinsy, headaches, spasms, epilepsy, feeling of coldness before an 
+attack. Keloid growth. Scrofulous, rachitic children, with large head, open 
+fontanelles and sutures, distended abdomen, slow in walking. ILL EFFECTS OF 
+VACCINATION. SUPPURATIVE PROCESSES. It is related to all pustulous burrowings. 
+Ripens abscesses since it promotes suppuration. Silica patient is cold, chilly, 
+hugs the fire, wants plenty warm clothing, hates drafts, hands and feet cold, 
+worse in winter. Lack of vital heat. Prostration of mind and body. Great 
+sensitiveness to taking cold. INTOLERANCE OF ALCOHOLIC STIMULANTS. Ailments 
+attended with PUS FORMATION. Epilepsy. WANT OF GRIT, moral or physical.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mind.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Yielding, FAINT-HEARTED, ANXIOUS. Nervous and excitable. SENSITIVE to all 
+impressions. Brain-fag. Obstinate, headstrong children. Abstracted. Fixed ideas; 
+thinks only of PINS, fears them, searches and counts them.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Head.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Aches from fasting. Vertigo from looking up; BETTER, WRAPPING UP WARMLY; WHEN 
+LYING ON LEFT SIDE. (MAGNES. MUR.; STRONTIA.) PROFUSE SWEAT OF HEAD, offensive, 
+and extends to neck. Pain begins at occiput, and spreads over head and settles 
+over eyes. Swelling in the glabella.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Eyes.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Angles of eyes affected. SWELLING OF LACHRYMAL DUCT. Aversion to light, 
+especially daylight; it produces dazzling, sharp pain through eyes; eyes tender 
+to touch; worse when closed. Vision confused; letters run together on reading. 
+STYES. Iritis and iridochoroiditis, with pus in anterior chamber. PERFORATING or 
+sloughing ulcer of cornea. Abscess in cornea after traumatic injury. Cataract in 
+office workers. After-effects of keratitis and ulcus cornea, clearing the 
+opacity. Use 30th potency for months.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Ears.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Fetid discharge. Caries of mastoid. Loud pistol-like report. Sensitive to 
+noise. ROARING IN EARS.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Nose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Itching at point of nose. Dry, hard crusts form, BLEEDING WHEN LOOSENED. 
+Nasal bones sensitive. Sneezing in morning. Obstructed and loss of smell. 
+Perforation of septum.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Face.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Skin cracked on margin of lips. Eruption on chin. Facial neuralgia, 
+throbbing, tearing, face red; worse, cold damp.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mouth.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">SENSATION OF A HAIR ON TONGUE. Gums sensitive to cold air. Boils on gums. 
+Abscess at root of teeth. Pyorrhoea. (MERC. COR.) Sensitive to cold water.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Throat.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Periodical quinsy. PRICKING AS OF A PIN IN TONSIL. Colds settle in throat. 
+PAROTID GLANDS SWOLLEN. (BELL.; RHUS; CALC.) Stinging pain on swallowing. Hard, 
+cold swelling of cervical glands.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stomach.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Disgust for meat and WARM FOOD. On swallowing food, it easily gets into 
+posterior nares. Want of appetite; thirst excessive. Sour eructations after 
+eating. (SEPIA; CALC.) Pit of stomach painful to pressure. Vomiting after 
+drinking. (ARS.; VERAT.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Abdomen.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pain or painful cold feeling in abdomen, better external heat. Hard, bloated. 
+Colic; cutting pain, with constipation; yellow hands and blue nails. Much 
+rumbling in bowels. Inguinal glands swollen and painful. Hepatic abscess.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Rectum.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Feels paralyzed. FISTULA IN ANO. (BERB.; LACH.) Fissures and hemorrhoids, 
+PAINFUL, WITH SPASM OF SPHINCTER. STOOL COMES DOWN WITH DIFFICULTY; WHEN PARTLY 
+EXPELLED, RECEDES AGAIN. Great straining; rectum stings; closes upon stool. 
+Feces remain a long time in rectum. CONSTIPATION ALWAYS BEFORE AND DURING 
+MENSES; with irritable sphincter ani. Diarrhoea of cadaverous odor.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Urinary Organs.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Bloody, involuntary, with red or yellow sediment. Prostatic fluid discharged 
+when straining at stool. Nocturnal enuresis in children with worms.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Male.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Burning and soreness of genitals, with eruption on inner surface of thighs. 
+Chronic gonorrhea, with thick, fetid discharge. Elephantiasis of scrotum. Sexual 
+erethism; nocturnal emissions. Hydrocele.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Female.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">A milky (CALC.; PULS.; SEP.) Acrid leucorrhoea, during urination. Itching of 
+vulva and vagina; very sensitive. Discharge of blood between menstrual periods. 
+Increased menses, with paroxysms of ICY COLDNESS OVER WHOLE BODY. Nipples very 
+sore; ulcerated easily; drawn in. Fistulous ulcers of breast. (PHOS.) Abscess of 
+labia. Discharge of blood from vagina every time child is nursed. Vaginal cysts. 
+(LYC.; PULS.; RHOD.) Hard lumps in breast. (CONIUM.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Respiratory.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Colds fail to yield; sputum persistently mucopurulent and profuse. Slow 
+recovery after pneumonia. Cough and sore throat, with expectoration of little 
+granules like shot, which, when broken, smell very offensive. Cough with 
+expectoration in day, bloody or purulent. Stitches in chest through to back. 
+VIOLENT COUGH WHEN LYING DOWN, WITH THICK, YELLOW LUMPY EXPECTORATION; 
+suppurative stage of expectoration. (BALS. PERU.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Back.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Weak spine; very susceptible to drafts on back. Pain in coccyx. Spinal 
+irritation after injuries to spine; diseases of bones of spine. Potts' disease.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Sleep.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">NIGHT-WALKING; gets up while asleep. Sleeplessness, with great orgasm of 
+blood and heat in head. Frequent starts in sleep. Anxious dreams. Excessive 
+gaping.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Extremities.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Sciatica, pains through the hips, legs and feet. Cramp in calves and soles. 
+Loss of power in legs. Tremulous hands when using them. Paralytic weakness of 
+forearm. AFFECTIONS OF FINGER NAILS, especially if white spots on nails. 
+Ingrowing toe-nails. ICY COLD AND SWEATY FEET. THE PARTS LAIN ON GO TO SLEEP. 
+OFFENSIVE SWEAT ON FEET, hand, and axillae. Sensation in tips of fingers, as if 
+suppurating. Panaritium. Pain in knee, as if tightly bound. Calves tense and 
+contacted. Pain beneath toes. Soles sore. (RUTA.) SORENESS IN FEET FROM INSTEP 
+THROUGH TO THE SOLE. SUPPURATES.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Skin.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">FELONS, ABSCESSES, BOILS, OLD FISTULOUS ULCERS. Delicate, pale, waxy. Cracks 
+at ends of fingers. Painless swelling of glands. Rose-colored blotches. Scars 
+suddenly become painful. Pus offensive. PROMOTES EXPULSION OF FOREIGN BODIES 
+FROM TISSUES. Every little injury suppurates. Long lasting suppuration and 
+fistulous tracts. Dry finger tips. Eruptions itch only in daytime and evening. 
+CRIPPLED NAILS. Indurated tumors. Abscesses of joints. After impure vaccination. 
+Bursa. Lepra, nodes, and coppery spots. KELOID GROWTHS.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Fever.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Chilliness; very sensitive to cold air. Creeping, shivering over the whole 
+body. Cold extremities, even in a warm room. Sweat at night; worse towards 
+morning. SUFFERING PARTS FEEL COLD.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Aggravation.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">WORSE, new moon, in morning, from washing, during menses, uncovering, lying 
+down, damp, lying on left side, cold.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Amelioration.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">BETTER, warmth, wrapping up head, summer; in wet or humid weather.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Relationship.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Complementary: THUJA; SANIC.; PULS.; FLUOR-AC. Mercurius and Silica do not 
+follow each other well.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Compare: BLACK GUNPOWDER 3X. (Abscesses, boils, carbuncles, limb purple. 
+Wounds that refuse to heal; accident from bad food or water. Clarke.) HEP.; 
+KALI-PHOS.; PIC-AC.; CALC.; PHOS.; TABASHEER; NATRUM SILICUM (tumors, 
+hemophilia, arthritis; dose, three drops three times daily, in milk); FERRUM 
+CYANATUM (epilepsy; neuroses, with irritable weakness and hypersensitiveness, 
+especially of a periodical character). SILICA MARINA - Sea-sand - (Silica and 
+Natrum mur. symptoms. INFLAMED GLANDS and commencing suppuration. Constipation. 
+Use for some time 3X trit.) VITRUM - CROWN GLASS - (Potts; disease, after 
+Silica, necrosis, discharge thin, watery, fetid. Much pain, fine GRINDING AND 
+GRATING like grit.) ARUNDO DONAX (acts on excretory and generative organs; 
+suppuration, especially chronic, and where the ulceration is fistulous, 
+especially in long bones. Itching eruption on chest, upper extremities and 
+behind ears).</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Dose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Sixth to thirtieth potency. The 200th and higher of unquestioned activity. In 
+malignant affections, the lowest potencies needed at times.</font><p style="margin: 0 35px"><font face="Arial">
+<a class="buy now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=SILI">
+Buy Now</a></font></font></td>
+		</tr>
+		</table>
+</div>
+
+                        </div>
+                        </td>
+                </tr>
+
+               </td></tr><tr><td><div align="center">
+			<table cellpadding="0" cellspacing="0" width="754" id="table1" >
+				<tr>
+					<td style="border-left:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-left: 20px"><script src=https://seal.verisign.com/getseal?host_name=www.homeopathiclaboratories.com&size=S&use_flash=YES&use_transparent=YES&lang=en></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="text-decoration:none; letter-spacing:.5px; text-align:center; margin:20px; padding:10px; font-style:normal; font-variant:normal; font-weight:bold; font-size:7px; font-family:verdana, sans-serif">ABOUT SSL CERTIFICATES</a></td>
+					<td style="border-right:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-right: 10px; margin-top: 10px; margin-bottom: 10px"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.homeopathiclaboratories.com">
+					<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.homeopathiclaboratories.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="right"></a>
+<!-- END SCANALERT CODE --> </td>
+          </tr></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+        <center>
+        <table border="0" cellpadding="0" style="border-collapse: collapse" width="750" id="AutoNumber1" bgcolor="#FFFFFF">
+          <tr>
+            <td bgcolor="#E4ECD8" height="45">
+            <p class="head" align="center" style="margin-top: 5; margin-bottom: 5; ">
+      <a class="btm" href="http://www.homeopathiclaboratories.com/my">My Account </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/customerservice.php"> </font>Customer Service </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/newssignup.html">Newsletter</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/catalogue.html">Request Catalogue</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/basket.html">Shopping Basket</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/index2.html">Search</a></td>
+          </tr>
+	  <tr>
+	    <td valign="top" bgcolor="#F1F1F2" height="45">
+		<img src="spacer.gif" height=1 width=1>
+	    </td>
+	  </tr>
+        </table>
+        </center>
+</div>
+</td></tr></table>
+</div>
+<!-- /matmed/sil.php-->
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2237&dtm_cmagic=b166b5&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "12";
+dtmTag.dtmc_url = location.href;
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!-- End Dotomi Tag -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2678290-1";
+urchinTracker();
+</script>
+</body>
+
+</html>

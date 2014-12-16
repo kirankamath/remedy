@@ -1,0 +1,497 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="https://www.homeopathiclaboratories.com/hlabs.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Aconitum napellus</title>
+
+<script language="JavaScript">
+<!--
+function submitSearch() {
+  if(document.searchForm["search[query]"].value.length == 0) alert("Please enter a search string.");
+  else document.searchForm.submit();
+}
+//-->
+</script>
+<script type="text/javascript">
+
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, ""]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=0 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddtabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddtabs(){
+var tabobj=document.getElementById("ddtabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddtabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script>
+
+</head>
+<div align="center">
+	<table cellpadding="0" style="border-collapse: collapse; " width="754" id="table1" bgcolor="#FFFFFF">
+		<tr>
+			<td>
+			<p align="center"><span style="background-color: #FFFFFF">
+			<a href="https://www.homeopathiclaboratories.com">
+			<img border="0" src="../images/top-home_01.gif" width="754" height="114"></a></span></td>
+			
+		</tr>
+	</table>
+	<div align="center">
+		<table cellpadding="0" style="border-collapse: collapse; border-left: 1px solid #B6CB8C; border-right: 1px solid #B6CB8C" width="754" id="table2" bgcolor="#FFFFFF">
+			<tr>
+				<td>
+				<div id="ddtabs" class="basictab">
+<ul>
+<li><a href="https://www.homeopathiclaboratories.com/shop/categories.htm" onMouseover="expandcontent('sc1', this)">Products</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/index2.html" onMouseover="expandcontent('sc2', this)">Search</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/articles/headlines.php" onMouseover="expandcontent('sc3', this)">Library</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php" onMouseover="expandcontent('sc4', this)">Tools</span></a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/videocast/videocast1.php" onMouseover="expandcontent('sc5', this)">Education</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/customerservice.php" onMouseover="expandcontent('sc6', this)">Customer Service</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/basket.html" onMouseover="expandcontent('sc7', this)">Shopping Cart</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/my" onMouseover="expandcontent('sc8', this)">Customer Login</a></li>
+</ul>
+</div>
+
+<DIV id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/sleep2.php">Stress/Sleep</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/children2.php">Children</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/colds2.php">Cough/Cold</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/pain2.php">Pain</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/women2.php">Women</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/digestion2.php">Digestion</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/firstaid2.php">First Aid</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/topicals2.php">Topicals</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/kits2.php">Kits</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/cellsalts2.php">Cell Salts</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/singles.php">Single Remedies</a> 
+
+</div>
+
+<div id="sc2" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/index2.html">Product Database</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/articlesearch.php">Article Content</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/searchmatmed.php">Materia Medica</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/home.php">All Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/feature.php">Feature Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/technical.php">Technical Bulletins</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/headlines.php">Headlines</a> 
+</div>
+
+<div id="sc4" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/remedyfinder.htm">Remedy Finder</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php">Materia Medica Online</a> 
+</div>
+
+<div id="sc5" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/faq.htm">Frequently Asked Questions</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/videocast/videocast1.php">Video Casts</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/formats.php">How to Order Single Remedies?</a> 
+</div>
+
+<div id="sc6" class="tabcontent">
+</div>
+
+<div id="sc7" class="tabcontent">
+</div>
+
+<div id="sc8" class="tabcontent">
+</div>
+
+</DIV>
+				</td>
+			</tr>
+			</table>
+		<div align="center">
+			<table cellpadding="0" style="border-collapse: collapse" width="754" id="table3" bgcolor="#FFFFFF">
+				<tr>
+					<td width="754">
+					<img border="0" src="../images/toplines_02.gif" width="752" height="7"></div></td></div></div></div>
+				</tr>
+		<tr>
+
+    		<td valign="top" width="500">
+
+	        	
+	            <div align="center">
+
+    	        
+<meta http-quiv=Content-Type content="text/html; charset=us-ascii">
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="754" id="table1">
+		<tr>
+			<td>
+
+
+
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center"><b>
+<font face="Arial">Materia Medica (Boericke)</font></b></p>
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center">
+<b><font face="Arial">Aconitum napellus</font></b></p>
+			<font SIZE="2">
+<p style="margin: 0 35px"><font face="Arial"><b>Aconitum napellus [Acon.] </b>
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=ACON">
+Buy Now</a></font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Natural History.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Monkshood</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">General.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">A state of fear, anxiety; anguish 
+of mind and body. PHYSICAL AND MENTAL RESTLESSNESS, fright, is the most 
+characteristic manifestation of ACONITE. ACUTE, SUDDEN, AND VIOLENT INVASION, 
+WITH FEVER, call for it. Does not want to be touched. Sudden and great sinking 
+of strength. Complaints and tension caused by exposure to DRY, COLD WEATHER, 
+draft of cold air, checked perspiration, also complaints from VERY HOT WEATHER, 
+especially gastrointestinal disturbances, etc. First remedy in inflammation, 
+inflammatory fevers. Serous membranes and muscular tissues affected markedly. 
+Burning in internal parts; TINGLING, COLDNESS AND NUMBNESS. Influenza. TENSION 
+of arteries; emotional and physical mental tension explain many symptoms. When 
+prescribing Aconite remember Aconite causes only functional disturbance, no 
+evidence that it can produce tissue change - its action is brief and SHOWS NO 
+PERIODICITY. Its sphere is in the beginning of an acute disease and not to be 
+continued after pathological change comes. In Hyperaemia, congestion not after 
+exudation has set in. INFLUENZA (Influenzin).</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mind.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">GREAT FEAR, ANXIETY, and worry 
+accompany every ailment, however trivial. Delirium is characterized by 
+unhappiness, worry, fear, raving, rarely unconsciousness. FOREBODINGS AND FEARS. 
+FEARS DEATH but believes that he will soon die; predicts the day. FEARS THE 
+FUTURE, a crowd, crossing the street. RESTLESSNESS, tossing about. Tendency to 
+start. Imagination acute, clairvoyance. Pains are intolerable; they drive him 
+crazy. Music is unbearable; makes her sad. (Ambra.) Thinks his thoughts come 
+from the stomach - that parts of his body are abnormally thick. Feels as if what 
+had just been done was a dream.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Head.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Fullness; HEAVY, pulsating, HOT, 
+BURSTING, burning, undulating sensation. Inter cranial pressure. (Hedera Helix.) 
+Burning headache, as if brain were moved by boiling water (Indigo.). Vertigo; 
+WORSE ON RISING (Nux-v. Opium) and shaking head. Sensation on vertex as if hair 
+were pulled or stood on end. Nocturnal furious delirium.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Eyes.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Red, inflamed. Feel DRY AND HOT, as 
+if sand in them. LIDS SWOLLEN, HARD AND RED. Aversion to light. Profuse watering 
+after exposure to dry, cold winds, REFLECTION FROM SNOW, AFTER EXTRACTION OF 
+CINDERS and other foreign bodies.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Ears.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Very SENSITIVE TO NOISES; music is 
+unbearable. External ear hot, red, painful, swollen. Earache. (Cham.) Sensation 
+as of drop of water in left ear.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Nose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">SMELL ACUTELY SENSITIVE. PAIN AT 
+ROOT OF NOSE. Coryza; much sneezing; throbbing in nostrils. Hemorrhage of bright 
+red blood. MUCOUS MEMBRANE DRY, NOSE STOPPED UP; DRY OR WITH BUT SCANTY WATERY 
+CORYZA.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Face.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Red, hot, flushed, swollen. One 
+cheek red, the other pale (Cham., Ip.). ON RISING THE RED FACE BECOMES DEATHLY 
+PALE, OR HE BECOMES DIZZY. TINGLING in cheeks and numbness. NEURALGIA, 
+ESPECIALLY ON LEFT SIDE, WITH RESTLESSNESS, TINGLING, AND NUMBNESS. Pain in 
+jaws.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mouth.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Numb, DRY, and tingling. Tongue 
+swollen; TIP TINGLES. Teeth sensitive to cold. Constantly moves lower jaw as if 
+chewing. GUMS HOT AND INFLAMED. TONGUE COATED WHITE. (Ant-c.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Throat.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">RED, DRY, CONSTRICTED, numb, 
+prickling, burning, stinging. Tonsils swollen and dry.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stomach.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">VOMITING, WITH FEAR, HEAT, PROFUSE 
+SWEAT AND INCREASED URINATION. Thirst for cold water. Bitter taste of everything 
+except water. INTENSE THIRST. Drinks, vomits, and declares he will die. 
+Vomiting, bilious, mucous and bloody, greenish. Pressure in stomach with 
+dyspnoea. Hematemesis. Burning from stomach to oesophagus.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Abdomen.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Hot, tense, tympanitic. SENSITIVE 
+TO TOUCH. COLIC, no position relieves. Abdominal symptoms better after warm 
+soup. Burning in umbilical region.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Rectum.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pain with nightly itching and 
+stitching in anus. Frequent, small stool with tenesmus; GREEN, LIKE CHOPPED 
+HERBS. White with red urine. Choleraic discharges with collapse, and 
+restlessness. Bleeding hemorrhoids. (Ham) Watery diarrhoea in children. They cry 
+and complain much, are sleepless and restless.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Urine Section.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">SCANTY, RED, HOT, PAINFUL. Tenesmus 
+and burning at neck of bladder. Burning in urethra. Urine suppressed, bloody. 
+Anxiety always on beginning to urinate. RETENTION, WITH SCREAMING AND 
+RESTLESSNESS, and handling of genitals. Renal region sensitive. Profuse 
+urination, with profuse perspiration and diarrhoea.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Male.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Crawling and stinging in glans. 
+Bruised pain in testicles, swollen, hard. Frequent erections and emissions. 
+Painful erections.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Female.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Vagina dry, hot, sensitive. Menses 
+too profuse, with nosebleed, too protracted, late. Frenzy on appearance of 
+menses. SUPPRESSED FROM FRIGHT, COLD, in plethoric subjects. Ovaries congested 
+and painful. Sharp shooting pains in womb. AFTER-PAINS, WITH FEAR AND 
+RESTLESSNESS.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Respiratory.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Constant pressure in left chest; 
+OPPRESSED BREATHING on least motion. HOARSE, DRY, CROUPY COUGH; loud, labored 
+breathing. Child grasps at throat every time he coughs. Very sensitive to 
+inspired air. SHORTNESS OF BREATH. Larynx sensitive. Stitches through chest. 
+Cough, dry, short, hacking; WORSE AT NIGHT AND AFTER MIDNIGHT. Hot feeling in 
+lungs. Blood comes up with hawking. Tingling in chest after cough.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Heart.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">TACHYCARDIA. Affections of the 
+heart with pain in LEFT SHOULDER. Stitching pain in chest. PALPATION, WITH 
+ANXIETY, fainting, and TINGLING in fingers. PULSE FULL, HARD; TENSE AND 
+BOUNDING; sometimes intermits. Temporal and carotid arteries felt when sitting.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Back.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Numb, stiff, painful. Crawling and 
+tingling, as if bruised. Stiffness in nape of neck. Bruised pain between 
+scapulae.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Extremities.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">NUMBNESS AND TINGLING; shooting 
+pains; icy coldness and insensibility of hands and feet. Arms feel lame, 
+bruised, heavy, numb. Pain down left arm (Cact. Crotal., Kalmia, Tab.) HOT HANDS 
+AND COLD FEET. Rheumatic inflammation of joints; worse at night; red shining 
+swelling, very sensitive. Hip-joint and thigh feel lame, especially after lying 
+down. Knees unsteady; disposition of foot to turn. (Aesc.) Weak and lax 
+ligaments of all joints. Painless cracking of all joints. BRIGHT RED HYPOTHENAR 
+EMINENCES ON BOTH HANDS. Sensation as if drops of water trickled down the thigh.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Sleep.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Nightmare. Nightly ravings. ANXIOUS 
+DREAMS. Sleeplessness, with restless and tossing about (Use thirtieth potency.) 
+Starts up in sleep. Long dreams, with anxiety in chest. Insomnia of the aged.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Skin.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Red, hot, swollen, dry, burning. 
+PURPURA MILIARIS. Rash like measles. Gooseflesh. Formication and numbness. 
+Chilliness and formication down back. Pruritus RELIEVED BY stimulants.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Fever.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Cold stage most marked. Cold sweat 
+and icy coldness of face. Coldness and heat alternate. Evening chilliness soon 
+after going to bed. COLD WAVES PASS THROUGH HIM. THIRST AND RESTLESSNESS always 
+present. Chilly if uncovered or touched. Dry heat, red face. Most valuable 
+febrifuge with mental anguish, restlessness, etc. Sweat drenching, on parts lain 
+on; relieving all symptoms.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Aggravation.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">WORSE in warm room, in evening and 
+NIGHT; WORSE lying on affected side, from music, from tobacco-smoke, dry, cold 
+winds.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Amelioration.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">BETTER in open air.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Relationship.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Vinegar in large doses is antidotal 
+to poisonous effects.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Acids, wine and coffee, lemonade, 
+and acid fruits modify its action.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Not indicated in malarial and low 
+fevers or hectic and pyemic conditions, and in inflammations when they localize 
+themselves. SULPHUR often follows it. Compare CHAM. AND COFFEA INTENSE PAIN and 
+sleeplessness.</font></p>
+<p style="margin: 0 35px"><font face="Arial">AGROSTIS acts like Acon. in fever 
+and inflammations, also SPIRANTHES.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Complementary: COFFEA;' SULPH. 
+Sulphur may be considered a chronic Aconite. Often completes a cure begun with 
+Aconite.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Compare: Bell.; Cham.; Coffea; 
+Ferr-p.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Aconitine. - (Heavy feeling as of 
+lead; pains in supraorbital nerve; ice-cold sensations creep up; hydrophobia 
+symptoms. Tinnitus aurium 3X.) Tingling sensation.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Aconitum Lycoctonum. Great yellow 
+wolfsbane. - (Swelling of glands; Hodgkin's disease. Diarrhoea after eating 
+pork. Itching of nose, eyes, anus and vulva. Skin of nose cracked; taste of 
+blood.)</font></p>
+<p style="margin: 0 35px"><font face="Arial">Aconitum Cammarum. - (Headache with 
+vertigo and tinnitus. Cataleptic symptoms. Formication of tongue, lips and 
+face.)</font></p>
+<p style="margin: 0 35px"><font face="Arial">Aconitum ferox. Indian Aconite. 
+Rather more violent in its actions than A. napellus. It is more diuretic and 
+less anti-pyretic. It has proved valuable in cardia dyspnoea, neuralgia, and 
+acute gout. Dyspnoea. Must sit up. Rapid respiration. Anxiety, with suffocation 
+from feeling of paralysis in respiratory muscles. Cheyne-Stokes breathing. 
+Quebracho (cardiac dyspnoea). (Achyranthes. A Mexican drug - very similar to 
+Aconite in fevers, but of larger range, being also adapted to typhoidal states 
+and intermittents. Muscular rheumatism. A great diaphoretic. Use 6X.) Eranthis 
+hymnalis - (Winter Aconite - acts on solar plexus and works upwards causing 
+dyspnoea. Pain in occiput and neck.)</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Dose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Sixth potency for sensory 
+affections; first to third for congestive conditions. Must be repeated 
+frequently in acute diseases. Acon. is a rapid worker. In Neuralgias tincture of 
+the root often preferable, one drop doses (poisonous), or again, the 30th 
+potency according to susceptibility of patient.</font></p>
+<p style="margin: 0 35px"><font face="Arial">
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=ACON">
+Buy Now</a></font></p>
+</font>
+
+			<font face="Arial" size="2">
+
+</span>
+
+			</font></td>
+		</tr>
+		</table>
+</div>
+
+                        </div>
+                        </td>
+                </tr>
+
+               </td></tr><tr><td><div align="center">
+			<table cellpadding="0" cellspacing="0" width="754" id="table1" >
+				<tr>
+					<td style="border-left:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-left: 20px"><script src=https://seal.verisign.com/getseal?host_name=www.homeopathiclaboratories.com&size=S&use_flash=YES&use_transparent=YES&lang=en></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="text-decoration:none; letter-spacing:.5px; text-align:center; margin:20px; padding:10px; font-style:normal; font-variant:normal; font-weight:bold; font-size:7px; font-family:verdana, sans-serif">ABOUT SSL CERTIFICATES</a></td>
+					<td style="border-right:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-right: 10px; margin-top: 10px; margin-bottom: 10px"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.homeopathiclaboratories.com">
+					<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.homeopathiclaboratories.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="right"></a>
+<!-- END SCANALERT CODE --> </td>
+          </tr></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+        <center>
+        <table border="0" cellpadding="0" style="border-collapse: collapse" width="750" id="AutoNumber1" bgcolor="#FFFFFF">
+          <tr>
+            <td bgcolor="#E4ECD8" height="45">
+            <p class="head" align="center" style="margin-top: 5; margin-bottom: 5; ">
+      <a class="btm" href="http://www.homeopathiclaboratories.com/my">My Account </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/customerservice.php"> </font>Customer Service </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/newssignup.html">Newsletter</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/catalogue.html">Request Catalogue</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/basket.html">Shopping Basket</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/index2.html">Search</a></td>
+          </tr>
+	  <tr>
+	    <td valign="top" bgcolor="#F1F1F2" height="45">
+		<img src="spacer.gif" height=1 width=1>
+	    </td>
+	  </tr>
+        </table>
+        </center>
+</div>
+</td></tr></table>
+</div>
+<!-- /matmed/aconitumnap.php-->
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2237&dtm_cmagic=b166b5&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "12";
+dtmTag.dtmc_url = location.href;
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!-- End Dotomi Tag -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2678290-1";
+urchinTracker();
+</script>
+</body>
+
+</html>

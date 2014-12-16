@@ -1,0 +1,465 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="stylesheet" type="text/css" href="https://www.homeopathiclaboratories.com/hlabs.css">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Agaricus muscarius</title>
+
+<script language="JavaScript">
+<!--
+function submitSearch() {
+  if(document.searchForm["search[query]"].value.length == 0) alert("Please enter a search string.");
+  else document.searchForm.submit();
+}
+//-->
+</script>
+<script type="text/javascript">
+
+
+//Set tab to intially be selected when page loads:
+//[which tab (1=first tab), ID of tab content to display (or "" if no corresponding tab content)]:
+var initialtab=[1, ""]
+
+//Turn menu into single level image tabs (completely hides 2nd level)?
+var turntosingle=0 //0 for no (default), 1 for yes
+
+//Disable hyperlinks in 1st level tab images?
+var disabletablinks=0 //0 for no (default), 1 for yes
+
+
+////////Stop editting////////////////
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById && turntosingle==0){
+highlighttab(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+if (cid!=""){
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collectddtabs()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collectddtabs(){
+var tabobj=document.getElementById("ddtabs")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collectddtabs()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+</script>
+
+</head>
+<div align="center">
+	<table cellpadding="0" style="border-collapse: collapse; " width="754" id="table1" bgcolor="#FFFFFF">
+		<tr>
+			<td>
+			<p align="center"><span style="background-color: #FFFFFF">
+			<a href="https://www.homeopathiclaboratories.com">
+			<img border="0" src="../images/top-home_01.gif" width="754" height="114"></a></span></td>
+			
+		</tr>
+	</table>
+	<div align="center">
+		<table cellpadding="0" style="border-collapse: collapse; border-left: 1px solid #B6CB8C; border-right: 1px solid #B6CB8C" width="754" id="table2" bgcolor="#FFFFFF">
+			<tr>
+				<td>
+				<div id="ddtabs" class="basictab">
+<ul>
+<li><a href="https://www.homeopathiclaboratories.com/shop/categories.htm" onMouseover="expandcontent('sc1', this)">Products</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/index2.html" onMouseover="expandcontent('sc2', this)">Search</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/articles/headlines.php" onMouseover="expandcontent('sc3', this)">Library</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php" onMouseover="expandcontent('sc4', this)">Tools</span></a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/videocast/videocast1.php" onMouseover="expandcontent('sc5', this)">Education</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/customerservice.php" onMouseover="expandcontent('sc6', this)">Customer Service</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/shop/basket.html" onMouseover="expandcontent('sc7', this)">Shopping Cart</a></li>|
+<li><a href="https://www.homeopathiclaboratories.com/my" onMouseover="expandcontent('sc8', this)">Customer Login</a></li>
+</ul>
+</div>
+
+<DIV id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/sleep2.php">Stress/Sleep</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/children2.php">Children</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/colds2.php">Cough/Cold</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/pain2.php">Pain</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/women2.php">Women</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/digestion2.php">Digestion</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/firstaid2.php">First Aid</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/topicals2.php">Topicals</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/kits2.php">Kits</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/cellsalts2.php">Cell Salts</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/singles.php">Single Remedies</a> 
+
+</div>
+
+<div id="sc2" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/shop/index2.html">Product Database</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/articlesearch.php">Article Content</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/searchmatmed.php">Materia Medica</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/home.php">All Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/feature.php">Feature Articles</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/technical.php">Technical Bulletins</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/articles/headlines.php">Headlines</a> 
+</div>
+
+<div id="sc4" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/remedyfinder.htm">Remedy Finder</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/matmed/zmatmed.php">Materia Medica Online</a> 
+</div>
+
+<div id="sc5" class="tabcontent">
+<p style="margin-top: 0; margin-bottom: 0">
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/faq.htm">Frequently Asked Questions</a> | 
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/videocast/videocast1.php">Video Casts</a> |
+<a class="menu-sub" href="https://www.homeopathiclaboratories.com/resources/formats.php">How to Order Single Remedies?</a> 
+</div>
+
+<div id="sc6" class="tabcontent">
+</div>
+
+<div id="sc7" class="tabcontent">
+</div>
+
+<div id="sc8" class="tabcontent">
+</div>
+
+</DIV>
+				</td>
+			</tr>
+			</table>
+		<div align="center">
+			<table cellpadding="0" style="border-collapse: collapse" width="754" id="table3" bgcolor="#FFFFFF">
+				<tr>
+					<td width="754">
+					<img border="0" src="../images/toplines_02.gif" width="752" height="7"></div></td></div></div></div>
+				</tr>
+		<tr>
+
+    		<td valign="top" width="500">
+
+	        	
+	            <div align="center">
+
+    	        
+<meta http-quiv=Content-Type content="text/html; charset=us-ascii">
+<div align="center">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="754" id="table1">
+		<tr>
+			<td>
+
+
+
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center"><b>
+<font face="Arial">Materia Medica (Boericke)</font></b></p>
+<p style="margin-left:35px; margin-right:20px; margin-top:10px; margin-bottom:10px" align="center">
+<b><font face="Arial">Agaricus  muscarius</font></b></p>
+			<font SIZE="2">
+<p style="margin: 0 35px"><font face="Arial"><b>Agaricus muscarius [Agar.] </b>
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=AGAR">
+Buy Now</a></font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Natural History.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Amanita</font></p>
+<p style="margin: 0 35px"><font face="Arial">Toad Stool - Bug Agaric</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">General.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">This fungus contains several toxic compounds, the best known of which is 
+MUSCARIN. The symptoms of poisoning do not develop at once, usually twelve to 
+fourteen hours elapse before the initial attack. There is no antidote, 
+treatment, entirely symptomatic. (Schneider). Agaricus acts as an intoxicant to 
+the brain, producing more vertigo and delirium than alcohol, followed by 
+profound sopor with lowered reflexes.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Jerking, twitching, trembling, and itching are strong indications. Incipient 
+phthisis; is related to the tubercular diathesis, anaemia, CHOREA, twitching 
+ceases during sleep. Various forms of neuralgia and spasmodic affections, and 
+neurotic skin troubles are pictured in the symptomatology of this remedy. It 
+corresponds to various forms of cerebral excitement rather than congestion. 
+Thus, in delirium of fevers, alcoholism, etc. General paralysis. SENSATIONS IF 
+PIERCED BY NEEDLES OF ICE. Sensitive to pressure and cold air. VIOLENT 
+BEARING-DOWN PAINS. Symptoms appear diagonally as RIGHT ARM AND LEFT LEG. Pains 
+are accompanied by sensation of cold, numbness and tingling.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mind.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Sings, talks, but does not answer. LOQUACITY. Aversion to work. Indifference. 
+FEARLESSNESS. DELIRIUM characterized by singing, shouting, and muttering; rhymes 
+and prophesies. Begins with paroxysm of yawning.</font></p>
+<p style="margin: 0 35px"><font face="Arial">The provings bring out four phases of cerebral excitement.</font></p>
+<p style="margin: 0 35px"><font face="Arial">1.SLIGHT STIMULATION - shown by increased cheerfulness, courage, loquacity, 
+exalted fancy.</font></p>
+<p style="margin: 0 35px"><font face="Arial">2.MORE DECIDED INTOXICATION - great mental excitement and incoherent talking, 
+immoderate gaiety alternates with melancholy. Perception of relative size of 
+objects is lost, takes long steps and jumps over small objects as if they were 
+trunks of trees - a small hole appears as a frightful chasm, a spoonful of water 
+an immense lake. Physical strength is increased, can lift heavy loads. With it 
+much twitching.</font></p>
+<p style="margin: 0 35px"><font face="Arial">3.THIRD STAGE - produces a condition of furious or raging delirium, 
+screaming, raving, wants to injure himself, etc.</font></p>
+<p style="margin: 0 35px"><font face="Arial">4.FOURTH STAGE - mental depression, languor, indifference, confusion, 
+disinclination to work, etc. We do not get the active cerebral congestion of 
+Belladonna, but a general nervous excitement such as is found in delirium 
+tremens, delirium of fevers, etc.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Head.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">VERTIGO FROM SUNLIGHT, and on walking. Head in constant motion. Falling 
+backward, as if a weight in occiput. Lateral headache, as if from a nail. 
+(Coff.; Ign.) Dull headache from prolonged desk-work. Icy coldness, LIKE ICY 
+NEEDLES, or splinters. Neuralgia with icy cold head. Desire to cover head 
+warmly. (Silica) Headache with NOSE-BLEED or thick mucous discharge.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Eyes.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">READING DIFFICULT, AS TYPE SEEMS TO MOVE, TO SWIM. Vibrating specters. DOUBLE 
+VISION (Gels.), dim and flickering. Asthenopia from prolonged strain, SPASM of 
+accommodation. TWITCHING OF LIDS AND EYEBALLS. (Codein.) Margins of lids red; 
+itch and burn and agglutinate. Inner angles very red.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Ears.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Burn and itch, as if frozen. Twitching of muscles about the ear and noises.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Nose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">NERVOUS nasal disturbances. ITCHING internally and externally. Spasmodic 
+sneezing after coughing; sensitiveness; watery non-inflammatory discharge. Inner 
+angles very red. Fetid, dark, bloody discharge. NOSEBLEED IN OLD PEOPLE. 
+Sensation of soreness in nose and mouth.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Face.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">FACIAL; muscles feel stiff; TWITCH; face itches and burns. Lancinating, 
+tearing pain in cheeks, as of splinters. Neuralgia, as if cold needles ran 
+through nerves or sharp ice touched them.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Mouth.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Burning and smarting on lips. Herpes on lips. Twitching. Taste sweet. Aphthae 
+on roof of mouth. Splinter like pains in tongue. Thirsty all the time. Tremulous 
+tongue. (Lach.) Tongue white.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Throat.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Stitches along eustachian tube to ear. Feels contracted. Small solid balls of 
+phlegm thrown up. Dryness of pharynx, swallowing difficult. Scratching in 
+throat; cannot sing a note.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Stomach.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Empty eructations, tasting of apples. Nervous disturbances, with spasmodic 
+contractions, hiccough. Unnatural hunger. Flatulent distention of stomach and 
+abdomen. Profuse in-odorous flatus. Burning in stomach about three hours after a 
+meal, changing into a dull pressure. GASTRIC DISTURBANCE WITH SHARP PAINS IN 
+LIVER REGION.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Abdomen.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Stitching pains in liver, SPLEEN (Ceanothus) and abdomen. Stitches under 
+short ribs, left side. Diarrhoea with much fetid flatus. Fetid stools.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Urinary Organs.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Stitches in urethra. Sudden and violent urging to urinate. Frequent 
+urination.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Female.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Menses, increased, earlier. Itching and tearing, oppressive pains of genitals 
+and back. Spasmodic dysmenorrhoea. Severe BEARING-DOWN PAINS, ESPECIALLY AFTER 
+MENOPAUSE. Sexual excitement. Nipples itch, burn. Complaints following 
+parturition and coitus. Leucorrhoea, with much itching.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Respiratory Organs.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Violent attacks of coughing that can be suppressed by effort of will, worse 
+eating, pain in head while cough lasts. Spasmodic coughing at night after 
+falling asleep, WITH EXPECTORATION OF LITTLE BALLS OF MUCUS. Labored, oppressed 
+breathing. COUGH ENDS IN A SNEEZE.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Heart.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">IRREGULAR, TUMULTUOUS PALPATION, after tobacco. Pulse intermittent and 
+irregular. Cardiac region oppressed, as if thorax were narrowed. Palpitation 
+with redness of face.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Back.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Pain, WITH SENSITIVENESS OF SPINE TO TOUCH; worse in dorsal region. Lumbago; 
+worse in open air. Crick in back. TWITCHING OF CERVICAL MUSCLES.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Extremities.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Stiff all over. Pain over hips. Rheumatism better motion. Weakness in loins. 
+Uncertain gait. Trembling. ITCHING OF TOES AND FEET AS IF FROZEN. Cramp in soles 
+of feet. Pain in shin-bone. Neuralgia in locomotor ataxia. Paralysis of lower 
+limbs, with spasmodic condition of arms. Numbness of legs on crossing them. 
+Paralytic pain in left arm followed by palpitation. Tearing painful contractions 
+in the calves.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Skin.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">BURNING, ITCHING, REDNESS, AND SWELLING, AS FROM FROSTBITES. Pimples, hard, 
+like flea-bites. Miliary eruption, with intolerable itching and burning. 
+Chilblains. Angioneurotic oedema; rosacea. Swollen veins with cold skin. 
+Circumscribed erythematous, papular and pustular and edematous lesions.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Sleep.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">PAROXYSMS OF YAWNING. Restless from violent itching and burning. On falling 
+asleep, STARTS, TWITCHES, AND AWAKENS OFTEN. Vivid dreams. Drowsy in daytime. 
+Yawning, followed by involuntary laughter.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Fever.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Very sensitive to cool air. Violent attacks of heat in evening. Copious 
+sweat. Burning spots.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Aggravation.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">WORSE: open cold air, after eating, after coitus. In cold weather, before a 
+thunder-storm. Worse, pressure on dorsal spine, which causes involuntary 
+laughter.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Amelioration.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">BETTER: moving about slowly.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Relationship.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Compare: MUSCARINE, the alkaloid of Agaricus (has much power over secretions, 
+increasing lachrymal, salivary, hepatic, etc., but diminishing renal; probably 
+neurotic in origin, stimulating the terminal fibres of the secretory nerves of 
+all these structures, hence SALIVATION, LACHRYMATION AND EXCESSIVE PERSPIRATION. 
+ATROPIA exactly opposes MUSCARINE. Resembles Pilocarpine in action.) AMANITA 
+VERNUS - spring mushroom - a variety of AGARICUS PHALLOIDES - Death cup - active 
+principle is PHALLIN active like Muscarine. AMANITA PHALLOIDES (Death Cup - 
+Deadly Agaric.) The poison is a toxalbumin, resembling the poison in the rattle 
+snake and the poison excreted by the cholera and diphtheria germs. It acts on 
+the red blood corpuscles, dissolving them so that blood escapes into the 
+alimentary canal and the whole system is drained. The amount of this toxic 
+principle is small, even handling of specimens and breathing of spores affects 
+some people unpleasantly. The poison is slow in development. Even 12 to 20 hours 
+after taking it the patient feels all right, but vertigo violent choleraic 
+symptoms with rapid loss of strength with death the second or third day, 
+preceded by stupor and spasms. Fatty degeneration of liver, heart and kidneys, 
+hemorrhages in lungs, pleura and skin (Dr. J. Schier). Vomiting and purging. 
+Continuous urging to stool, but no gastric, abdominal or rectal PAIN. Intense 
+thirst for cold water, dry skin. Lethargic but mentally clear. SHARP CHANGES 
+from rapid to slow and from slow to rapid breathing, extreme collapse, 
+suppressed urine, but NO cold extremities or cramps.) AGARIC. EMET. (severe 
+vertigo; all symptoms BETTER, COLD WATER; LONGING FOR ICE-WATER; gastritis cold 
+sweat, vomiting sensation as if stomach was suspended on a string. TAMUS 
+(chilblains and freckles). CIMIC.; CANN-I.; HYOS.; TARANTULA.</font></p>
+<p style="margin: 0 35px"><font face="Arial">Antidote: ABSINTH.; COFFEA; CAMPHOR.</font></p>
+<p style="margin: 0 35px">&nbsp;</p>
+<p style="margin: 0 35px"><b><font face="Arial">Dose.</font></b></p>
+<p style="margin: 0 35px"><font face="Arial">Third to thirtieth and two hundredth potency. In skin affections and brain 
+exhaustions give the lower attenuations.</font></p>
+<p style="margin: 0 35px"><font face="Arial">
+<a class="Buy Now" href="http://www.homeopathiclaboratories.com/products/details.html?productid=AGAR">
+Buy Now</a></font></p>
+</font>
+
+			<font face="Arial" size="2">
+
+</span>
+
+			</font></td>
+		</tr>
+		</table>
+</div>
+
+                        </div>
+                        </td>
+                </tr>
+
+               </td></tr><tr><td><div align="center">
+			<table cellpadding="0" cellspacing="0" width="754" id="table1" >
+				<tr>
+					<td style="border-left:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-left: 20px"><script src=https://seal.verisign.com/getseal?host_name=www.homeopathiclaboratories.com&size=S&use_flash=YES&use_transparent=YES&lang=en></script>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="text-decoration:none; letter-spacing:.5px; text-align:center; margin:20px; padding:10px; font-style:normal; font-variant:normal; font-weight:bold; font-size:7px; font-family:verdana, sans-serif">ABOUT SSL CERTIFICATES</a></td>
+					<td style="border-right:1px solid #B6CB8C; " bgcolor="#FFFFFF">
+					<p style="margin-right: 10px; margin-top: 10px; margin-bottom: 10px"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.homeopathiclaboratories.com">
+					<img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.homeopathiclaboratories.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="right"></a>
+<!-- END SCANALERT CODE --> </td>
+          </tr></td>
+				</tr>
+			</table>
+		</div>
+<div align="center">
+        <center>
+        <table border="0" cellpadding="0" style="border-collapse: collapse" width="750" id="AutoNumber1" bgcolor="#FFFFFF">
+          <tr>
+            <td bgcolor="#E4ECD8" height="45">
+            <p class="head" align="center" style="margin-top: 5; margin-bottom: 5; ">
+      <a class="btm" href="http://www.homeopathiclaboratories.com/my">My Account </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/customerservice.php"> </font>Customer Service </a>&nbsp;<font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/newssignup.html">Newsletter</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/resources/catalogue.html">Request Catalogue</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/basket.html">Shopping Basket</a>&nbsp;
+      <font face="Arial" color="#666666">|</font>&nbsp;
+      <a class="btm" href="http://www.homeopathiclaboratories.com/shop/index2.html">Search</a></td>
+          </tr>
+	  <tr>
+	    <td valign="top" bgcolor="#F1F1F2" height="45">
+		<img src="spacer.gif" height=1 width=1>
+	    </td>
+	  </tr>
+        </table>
+        </center>
+</div>
+</td></tr></table>
+</div>
+<!-- /matmed/agaricusmusc.php-->
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2237&dtm_cmagic=b166b5&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "12";
+dtmTag.dtmc_url = location.href;
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script>
+<!-- End Dotomi Tag -->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2678290-1";
+urchinTracker();
+</script>
+</body>
+
+</html>
