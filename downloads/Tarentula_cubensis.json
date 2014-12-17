@@ -2,13 +2,14 @@
   "name": "Tarentula cubensis", 
   "Relationship": "Compare: ARS.; PYROG.; CROTAL.; ECHIN.; ANTHRAC.; BELLAD.; APIS.", 
   "symptoms": {
-    "Head": [
-      "Gastric", 
-      "Dull ache on top of head", 
+    "Gastric": [
       "Stomach feels hard, sore", 
+      "Loss of appetite, except for breakfast"
+    ], 
+    "Head": [
+      "Dizziness after heat and hot perspiration", 
       "Shooting pain through left eye across frontal region", 
-      "Loss of appetite, except for breakfast", 
-      "Dizziness after heat and hot perspiration"
+      "Dull ache on top of head"
     ], 
     "Modalities": [
       "Worse: night", 

@@ -4,17 +4,11 @@
   ], 
   "details": "Gouty nodositiesA deep-acting remedy. Lassitude is very marked. Desire to lie down all the time. Emaciation.", 
   "symptoms": {
-    "Head": [
-      "Gastric", 
-      "Feeble will power", 
-      "Constipation", 
+    "Gastric": [
       "Weight in stomach after eating, nausea, pain, flatulence", 
-      "Absent-minded, anxious, indolent, timid", 
-      "Construction of anus during stool", 
       "Pain in liver region", 
-      "Head congested, blood surges from body to head", 
-      "Nasal catarrh, discharge BLOODY, excoriating, offensive nose, swollen, ulcerated", 
-      "Vertigo, coldness of head; photophobia"
+      "Constipation", 
+      "Construction of anus during stool"
     ], 
     "Modalities": [
       "Worse: open air", 
@@ -23,6 +17,13 @@
       "Worse: exertion", 
       "Worse: motion uncovering", 
       "Worse: bathing"
+    ], 
+    "Head": [
+      "Head congested, blood surges from body to head", 
+      "Nasal catarrh, discharge BLOODY, excoriating, offensive nose, swollen, ulcerated", 
+      "Feeble will power", 
+      "Absent-minded, anxious, indolent, timid", 
+      "Vertigo, coldness of head; photophobia"
     ], 
     "Extremities": [
       "Weak and weary", 
