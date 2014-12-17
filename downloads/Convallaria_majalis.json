@@ -3,17 +3,13 @@
   "Relationship": "Compare: DIGIT.; CRATAEG.; LILIUM; ADONIS (feeble heart action due only to functional disturbance).", 
   "symptoms": {
     "Heart": [
-      "Trembling of hands", 
-      "Angina pectoris", 
       "SENSATION AS IF HEART CEASED BEATING, THEN STARTING VERY SUDDENLY", 
-      "Pain and aching in lumbar region; aching of legs; in big toe", 
+      "Angina pectoris", 
       "Tobacco heart, especially when due to cigarettes", 
-      "Back and Extremities", 
       "Endocarditis, with extreme orthopnoea", 
       "Feeling as if heart beat throughout the chest", 
       "Palpitation from the least exertion", 
-      "Extremely rapid and irregular pulse", 
-      "Aching in wrists and ankles"
+      "Extremely rapid and irregular pulse"
     ], 
     "Fever": [
       "Chilly in back and down spine, followed by fever, little sweat", 
@@ -27,6 +23,11 @@
     "Urine": [
       "Frequent urination; offensive; scanty urine", 
       "Aching in bladder; feels distended"
+    ], 
+    "Back and Extremities": [
+      "Pain and aching in lumbar region; aching of legs; in big toe", 
+      "Trembling of hands", 
+      "Aching in wrists and ankles"
     ], 
     "Mind": [
       "Irritability", 

@@ -31,6 +31,13 @@
       "No appetite", 
       "Pain in epigastric region"
     ], 
+    "Back and Extremities": [
+      "SORE AND BRUISED", 
+      "Neck tired", 
+      "Stiffness and pain, aching and drawing in arms and legs", 
+      "Pain in sacrum, around hips and legs", 
+      "Decubitus"
+    ], 
     "Mind": [
       "Perfect indifference", 
       "THINKS HE IS BROKEN OR DOUBLE, AND TOSSES ABOUT THE BED TRYING TO GET PIECES TOGETHER", 
@@ -65,15 +72,9 @@
       "PAINLESS sore throat, and offensive discharge"
     ], 
     "Respiratory": [
-      "Back and Extremities", 
-      "Stiffness and pain, aching and drawing in arms and legs", 
-      "SORE AND BRUISED", 
       "Lungs feel compressed, breathing difficult; seeks open window", 
-      "Fears going to sleep on account of nightmare and SENSE OF SUFFOCATION", 
-      "Pain in sacrum, around hips and legs", 
-      "Neck tired", 
       "Constriction of chest", 
-      "Decubitus"
+      "Fears going to sleep on account of nightmare and SENSE OF SUFFOCATION"
     ], 
     "Sleep": [
       "Nightmare and frightful dreams", 

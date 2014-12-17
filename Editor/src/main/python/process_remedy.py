@@ -48,7 +48,8 @@ keywords = set(["General",
                 "Teeth",
                 "Urine Section",
                 "Gastric",
-                "Bowels"])
+                "Bowels",
+                "Back and Extremities"])
 
 # Some remedy can have the categories with dots at the end too.
 for k in list(keywords):

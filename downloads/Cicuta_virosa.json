@@ -14,13 +14,8 @@
     ], 
     "Respiratory": [
       "Tonic spasm in pectoral muscles", 
-      "Spasms and cramps in muscles of nape of neck, and spasmodic drawing backward of head", 
-      "BACK BENT BACKWARD LIKE AN ARCH", 
-      "Back and Extremities", 
       "Heat in chest", 
-      "Chest feels tight; can hardly breathe", 
-      "Jerking, tearing in coccyx, especially during menses", 
-      "Curved limbs cannot be straightened nor straight ones bent"
+      "Chest feels tight; can hardly breathe"
     ], 
     "Stomach": [
       "Thirst; burning pressure; HICCOUGH", 
@@ -39,11 +34,11 @@
       "CONVULSIONS from concussion of brain", 
       "HEAD TURNED OR TWISTED TO ONE SIDE"
     ], 
-    "Modalities": [
-      "Worse: from touch", 
-      "Worse: drafts", 
-      "Worse: concussion", 
-      "Worse: tobacco smoke"
+    "Back and Extremities": [
+      "Jerking, tearing in coccyx, especially during menses", 
+      "Spasms and cramps in muscles of nape of neck, and spasmodic drawing backward of head", 
+      "BACK BENT BACKWARD LIKE AN ARCH", 
+      "Curved limbs cannot be straightened nor straight ones bent"
     ], 
     "Mind": [
       "Everything appears strange and terrible", 
@@ -81,6 +76,12 @@
     "Rectum": [
       "Itching in rectum", 
       "Diarrhoea in morning, with irresistible desire to urinate"
+    ], 
+    "Modalities": [
+      "Worse: from touch", 
+      "Worse: drafts", 
+      "Worse: concussion", 
+      "Worse: tobacco smoke"
     ], 
     "Ears": [
       "Sudden detonations especially on swallowing", 
