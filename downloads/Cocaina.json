@@ -11,12 +11,8 @@
     ], 
     "Stomach": [
       "HEMORRHAGES from bowels, stomach", 
-      "LIKES SWEETS", 
-      "Local sensory paralysis", 
       "Loss of appetite for solid food", 
-      "Chorea; paralysis agitans; alcoholic tremors and senile trembling", 
-      "Formication and numbness in hands and forearms", 
-      "Nervous System"
+      "LIKES SWEETS"
     ], 
     "Mind": [
       "Thinks he hears unpleasant remarks about himself", 
@@ -42,6 +38,11 @@
     "Throat": [
       "Dry, burning, tickling, constricted, paralysis of muscles of deglutition", 
       "Speech difficult"
+    ], 
+    "Nervous System": [
+      "Formication and numbness in hands and forearms", 
+      "Local sensory paralysis", 
+      "Chorea; paralysis agitans; alcoholic tremors and senile trembling"
     ]
   }, 
   "details": "Besides the great usefulness of Cocaine as a local anaesthetic, it has specific homeopathic uses, though the symptoms are mainly clinical only. Sensation AS IF SMALL FOREIGN BODIES OR WORMS WERE UNDER THE SKIN.", 

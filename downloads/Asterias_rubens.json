@@ -18,12 +18,9 @@
       "CANCER MAMMAE EVEN IN ULCERATIVE STAGE", 
       "Pain under sternum and in muscles of precordial region", 
       "Breasts swollen, indurated", 
-      "Gait unsteady; muscles refuse to obey the will", 
       "Neuralgia of left breast and arm", 
-      "AXILLARY GLANDS SWOLLEN HARD AND KNOTTED", 
-      "Nervous System", 
       "ACUTE, LANCINATING PAIN", 
-      "Epilepsy; preceded by twitching over whole body"
+      "AXILLARY GLANDS SWOLLEN HARD AND KNOTTED"
     ], 
     "Face": [
       "DISPOSITION TO PIMPLES AT ADOLESCENCE", 
@@ -45,6 +42,10 @@
       "Destitute of pliability and elasticity", 
       "Ulcers, with fetid ichor", 
       "Psoriasis and herpes zoster worse left arm and chest"
+    ], 
+    "Nervous System": [
+      "Gait unsteady; muscles refuse to obey the will", 
+      "Epilepsy; preceded by twitching over whole body"
     ]
   }, 
   "details": "A remedy for the sycotic diathesis; flabby, lymphatic constitution, flabby with RED face. Lancinating pains. Nervous disturbances, neuralgias, chorea, and hysteria come within the range of this remedy. Has been used for cancer of the breast, and has an unquestioned influence over cancer disease. Excitement in both sexes.", 

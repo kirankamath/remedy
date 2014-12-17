@@ -2,6 +2,12 @@
   "name": "Calcarea fluorica", 
   "Relationship": "Mangifera indica (varicose veins).Compare: Con.; Lapis; Baryt. mur.; Hecla.; Rhus; Cacodylate of Soda (Tumors).Calc-st-sula. (acts as an hemostatic and absorptive in uterine myoma).", 
   "symptoms": {
+    "Extremities": [
+      "Gouty enlargements of the joints of the fingers", 
+      "Ganglia or encysted tumors at the back of the wrist", 
+      "Chronic synovitis of knee-joint", 
+      "Exostoses on fingers"
+    ], 
     "Eyes": [
       "Flickering and sparks before the eyes, spots on the cornea; conjunctivitis; cataract", 
       "STRUMOUS PHLYCTENULAR KERATITIS", 
@@ -41,13 +47,6 @@
     "Face": [
       "Hard swelling on the cheek, with pain or toothache, hard swelling on jaw bone"
     ], 
-    "Mouth": [
-      "Induration of the tongue, hardening after inflammation", 
-      "Gum-boils, with hard swelling on the jaw", 
-      "Unnatural looseness of the teeth, with or without pain; teeth become loose in their sockets", 
-      "Toothache, with pain if any food touches the tooth", 
-      "Cracked appearance of the tongue, with or without pain"
-    ], 
     "Nose": [
       "Cold in the head; stuffy cold; dry coryza; ozaena", 
       "Copious, offensive, thick, greenish, lumpy, yellow nasal catarrh", 
@@ -73,31 +72,33 @@
       "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
       "Hypertrophy of Luschka's tonsil"
     ], 
-    "Extremities": [
-      "Gouty enlargements of the joints of the fingers", 
-      "Ganglia or encysted tumors at the back of the wrist", 
-      "Chronic synovitis of knee-joint", 
-      "Exostoses on fingers"
+    "Mouth": [
+      "Induration of the tongue, hardening after inflammation", 
+      "Gum-boils, with hard swelling on the jaw", 
+      "Unnatural looseness of the teeth, with or without pain; teeth become loose in their sockets", 
+      "Toothache, with pain if any food touches the tooth", 
+      "Cracked appearance of the tongue, with or without pain"
+    ], 
+    "Neck and Back": [
+      "Osseous tumors", 
+      "Chronic LUMBAGO; aggravated on beginning to move, and ameliorated on continued motion", 
+      "Pain lower part of back, with burning", 
+      "RACHITIC ENLARGEMENT OF FEMUR IN INFANTS"
     ], 
     "Male": [
       "Respiratory Organs", 
-      "Fluor", 
+      "Hydrocele; induration of the testicles", 
       "Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down", 
       "Aneurism", 
       "Valvular disease", 
+      "Fluor", 
       "Heart and Circulation", 
-      "RACHITIC ENLARGEMENT OF FEMUR IN INFANTS", 
-      "Osseous tumors", 
       "removes fibroid deposits about the endocardium and restores normal endocardial structure", 
       "Chief remedy for vascular tumors with dilated blood-vessels, and for VARICOSE OR ENLARGED VEINS", 
       "Hoarseness", 
-      "Hydrocele; induration of the testicles", 
-      "Chronic LUMBAGO; aggravated on beginning to move, and ameliorated on continued motion", 
       "Spasmodic cough", 
       "CROUP", 
-      "Neck and Back", 
       "Calc", 
-      "Pain lower part of back, with burning", 
       "When the tuberculous toxins attack the heart and blood-vessels"
     ], 
     "Sleep": [
