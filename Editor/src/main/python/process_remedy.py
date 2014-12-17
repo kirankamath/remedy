@@ -152,20 +152,22 @@ def process_one_remedy(file_name):
     main_items = ["dosage", "details", "Relationship", "Natural History"]
     for item in main_items:
         item_value = symptom_list.get(item)
-        if item_value:
-            remedy[item] = item_value
+        if item_value != None:
+            if item_value:
+                # Add only if it is non-empty.
+                remedy[item] = item_value
             del symptom_list[item]
 
     # Modalities needs special casing.
     aggravation = symptom_list.get("Aggravation")
     modalities = []
-    if aggravation:
+    if aggravation != None:
         result = format_modalities(aggravation)
         if result:
             modalities.extend(result)
         del symptom_list["Aggravation"]
     amelioration = symptom_list.get("Amelioration")
-    if amelioration:
+    if amelioration != None:
         result = format_modalities(amelioration)
         if result:
             modalities.extend(result)

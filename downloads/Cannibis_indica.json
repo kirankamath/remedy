@@ -3,6 +3,10 @@
     "Hashish"
   ], 
   "symptoms": {
+    "Respiratory": [
+      "Chest oppressed with deep, labored breathing", 
+      "Humid asthma"
+    ], 
     "Mind": [
       "Mania, must constantly move", 
       "Cannot realize her identity, chronic vertigo as of floating off", 
@@ -16,26 +20,6 @@
       "TIME SEEMS TOO LONG; SECONDS SEEM AGES; A FEW RODS AN IMMENSE DISTANCE", 
       "Delirium tremens", 
       "Emotional excitement; rapid change of mood"
-    ], 
-    "Eyes": [
-      "Fixed", 
-      "Spectral illusions without terror", 
-      "Clairvoyance", 
-      "Letters run together when reading"
-    ], 
-    "Stomach": [
-      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
-      "Pain at cardiac orifice; better, pressure", 
-      "Pyloric spasm", 
-      "Increased appetite", 
-      "Distention"
-    ], 
-    "Rectum": [
-      "Sensation in anus as if sitting on a ball"
-    ], 
-    "Respiratory": [
-      "Chest oppressed with deep, labored breathing", 
-      "Humid asthma"
     ], 
     "Head": [
       "Shocks through brain", 
@@ -61,6 +45,12 @@
       "After sexual intercourse, BACKACHE", 
       "Prolonged thrill"
     ], 
+    "Extremities": [
+      "Pain in soles and calves; sharp pains in knees and ankles; VERY EXHAUSTED AFTER A SHORT WALK", 
+      "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
+      "Thrilling through arms and hands, and from knees down", 
+      "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT"
+    ], 
     "Ears": [
       "Extreme sensitiveness to noise", 
       "Noise like boiling water", 
@@ -70,6 +60,19 @@
       "Piercing pain, with great oppression", 
       "Palpitation awakes him", 
       "PULSE VERY SLOW"
+    ], 
+    "Eyes": [
+      "Fixed", 
+      "Spectral illusions without terror", 
+      "Clairvoyance", 
+      "Letters run together when reading"
+    ], 
+    "Stomach": [
+      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
+      "Pain at cardiac orifice; better, pressure", 
+      "Pyloric spasm", 
+      "Increased appetite", 
+      "Distention"
     ], 
     "Modalities": [
       "Worse: morning; from coffee", 
@@ -95,13 +98,9 @@
       "Uterine colic, with great nervous agitation and sleeplessness", 
       "Sterility"
     ], 
-    "Extremities": [
-      "Pain in soles and calves; sharp pains in knees and ankles; VERY EXHAUSTED AFTER A SHORT WALK", 
-      "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
-      "Thrilling through arms and hands, and from knees down", 
-      "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT"
-    ], 
-    "dosage": ""
+    "Rectum": [
+      "Sensation in anus as if sitting on a ball"
+    ]
   }, 
   "name": "Cannibis indica", 
   "Relationship": "Bellad.; Hyoscy.; Stram.; Laches.; Agaric.; Anhalonium (time sense disordered; time periods enormously overestimated; thus, minutes seem hours, etc.).", 

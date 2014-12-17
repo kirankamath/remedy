@@ -2,7 +2,6 @@
   "symptoms": {
     "Mind": [], 
     "Stool": [], 
-    "Amelioration": [], 
     "Head": [], 
     "Fever": [], 
     "Stomach": [], 
@@ -11,7 +10,6 @@
     "Respiratory": [], 
     "Eyes": [], 
     "Face": [], 
-    "Aggravation": [], 
     "Nose": [], 
     "Male": [], 
     "Ears": [], 
@@ -19,8 +17,7 @@
     "Back": [], 
     "Sleep": [], 
     "Skin": [], 
-    "Extremities": [], 
-    "dosage": ""
+    "Extremities": []
   }, 
   "name": "Pulsatilla Pratensis (Wind Flower) ", 
   "Relationship": "Complementary:Compare:"
