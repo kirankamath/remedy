@@ -52,7 +52,8 @@ keywords = set(["General",
                 "Back and Extremities",
                 "Bones",
                 "Neck and Back",
-                "Nervous System"])
+                "Nervous System",
+                "Sexual organs"])
 
 # Some remedy can have the categories with dots at the end too.
 for k in list(keywords):

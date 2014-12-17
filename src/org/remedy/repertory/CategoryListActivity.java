@@ -62,7 +62,6 @@ public class CategoryListActivity extends Activity {
         "Abdomen",
         "Bowels",
         "Urine",
-        "Genetalia",
         "Rectum",
         "Stool",
         "Skin",
@@ -72,6 +71,7 @@ public class CategoryListActivity extends Activity {
         "Male",
         "Modalities",
         "Sexual",
+        "Sexual organs",
     };
 
 	@Override
