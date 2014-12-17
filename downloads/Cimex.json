@@ -13,16 +13,17 @@
     "Fever": [
       "Thirst during apyrexia, but little during chilly stage; still less during hot stage, and none during sweating", 
       "Sensation as of wind blowing on knees", 
-      "Ulcer of rectum", 
       "Chilliness of whole body", 
-      "Constipation, faeces dry and in small balls  and hard", 
       "Chill; worse lying down", 
       "Musty, offensive sweat", 
-      "Bowels", 
       "PAINS IN ALL JOINTS, AS IF TENDONS WERE TOO SHORT, especially knee-joints"
     ], 
     "Female": [
       "Shooting pain from vagina up towards left ovary"
+    ], 
+    "Bowels": [
+      "Constipation, faeces dry and in small balls  and hard", 
+      "Ulcer of rectum"
     ]
   }, 
   "name": "Cimex", 

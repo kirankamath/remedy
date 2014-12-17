@@ -29,9 +29,6 @@
       "Better: except headache"
     ], 
     "Urine": [
-      "Constipation of infants during dentition; only passing small quantity; STOOLS KNOTTY, like sheep's dung, CRUMBLING AT VERGE OF ANUS", 
-      "Bowels", 
-      "Painful smarting hemorrhoids", 
       "Bladder can only be emptied by straining and pressure", 
       "Urine difficult to void"
     ], 
@@ -62,6 +59,10 @@
       "Leucorrhoea with every stool and after exercise", 
       "Menses black, clotted", 
       "Metrorrhagia; worse at night"
+    ], 
+    "Bowels": [
+      "Constipation of infants during dentition; only passing small quantity; STOOLS KNOTTY, like sheep's dung, CRUMBLING AT VERGE OF ANUS", 
+      "Painful smarting hemorrhoids"
     ], 
     "Sleep": [
       "Sleep during day; restless at night on account of heat and shock; anxious dreams"

@@ -14,7 +14,6 @@
       "Cough with coldness of left side of breast"
     ], 
     "Stomach": [
-      "Diarrhoea from milk", 
       "Averse to milk", 
       "Old dyspeptics, always belching, have sour stomach and rheumatism", 
       "Water brash", 
@@ -22,10 +21,6 @@
       "Dyspepsia relieved by soda biscuits", 
       "Depressed after eating", 
       "Ill effects of drinking cold water when overheated", 
-      "Sudden call to stool", 
-      "Escapes with haste and noise", 
-      "Bowels", 
-      "YELLOW SUBSTANCE LIKE PULP OF ORANGE IN DISCHARGE", 
       "Hungry at five AM VERY WEAK DIGESTION, caused by slightest error of diet", 
       "Bitter taste"
     ], 
@@ -72,6 +67,12 @@
       "Veins full", 
       "Inclination to perspire easily, or dry, rough, cracked skin", 
       "Soles of feet raw and sore"
+    ], 
+    "Bowels": [
+      "YELLOW SUBSTANCE LIKE PULP OF ORANGE IN DISCHARGE", 
+      "Sudden call to stool", 
+      "Escapes with haste and noise", 
+      "Diarrhoea from milk"
     ], 
     "Sleep": [
       "Drowsy during day", 

@@ -32,6 +32,10 @@
       "Outward pressure from malar processes", 
       "Flushed, hot and glowing"
     ], 
+    "Throat": [
+      "Dry, rough", 
+      "Soreness on right side and tonsil"
+    ], 
     "Mouth": [
       "Tongue coated, with clean, pink, central patch", 
       "Canker sore between gums and lips"
@@ -39,13 +43,10 @@
     "Female": [
       "Sexual desire increased"
     ], 
-    "Throat": [
-      "Soreness on right side and tonsil", 
-      "CONSTIPATION with some flatus", 
-      "Dry, rough", 
+    "Bowels": [
+      "Flatulent diarrhoea", 
       "Tenesmus and dry stool", 
-      "Bowels", 
-      "Flatulent diarrhoea"
+      "CONSTIPATION with some flatus"
     ], 
     "Extremities": [
       "Walked like a drunken man", 

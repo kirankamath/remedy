@@ -1,12 +1,9 @@
 {
   "symptoms": {
     "Head": [
-      "Stools profuse, bloody, bright green; flakes intermixed; odorless", 
-      "Cholera infantum", 
-      "Sick headache in persons who have used tea and coffee in excess", 
       "Throbbing headache after use of liquor", 
-      "Intellectual excitement", 
-      "Bowels"
+      "Sick headache in persons who have used tea and coffee in excess", 
+      "Intellectual excitement"
     ], 
     "Sleep": [
       "Uncontrollable sleepiness and heaviness of head, with flushed face after eating"
@@ -14,6 +11,10 @@
     "Skin": [
       "Chloasmata on temples and arms", 
       "Urticaria"
+    ], 
+    "Bowels": [
+      "Stools profuse, bloody, bright green; flakes intermixed; odorless", 
+      "Cholera infantum"
     ]
   }, 
   "details": "Contains a large percentage of Caffeine, which may explain its uses as a remedy for certain forms of sick headache. (Also called Guarana).", 
