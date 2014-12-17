@@ -118,14 +118,14 @@ def process_one_remedy(file_name):
             value = paren_remover.sub('', value)
 
             # Before splitting, escape any known patterns.
-            value = value.replace("etc.", "__etc__")
+            value = value.replace("etc.", "__etc__").replace("i.e.", "__i__e__")
             values = value.split(".")
             symptoms = set()
             for x in values:
                 x = x.strip()
                 if not x:
                     continue
-                x = x.replace("__etc__", "etc.")
+                x = x.replace("__etc__", "etc.").replace("__i__e__", "i.e")
                 symptoms.add(x)
             symptoms = list(symptoms)
 
