@@ -55,6 +55,7 @@ public class CategoryListActivity extends Activity {
         "Back",
         "Back and Extremities",
         "Spine",
+        "Bones",
         "Stomach",
         "Abdomen",
         "Bowels",

@@ -7,6 +7,10 @@
       "Painful retention", 
       "Turbid, like buttermilk, with thick sediment"
     ], 
+    "Throat": [
+      "Caries of the palate", 
+      "Stitches when swallowing; pain in glands"
+    ], 
     "Head": [
       "Roaring in head", 
       "Vertigo", 
@@ -37,12 +41,7 @@
     ], 
     "Respiratory": [
       "Frequent, deep breathing; stitches in sternum", 
-      "Destruction of bones, like secondary syphilis", 
-      "Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones", 
-      "Caries of nasal, palatine and mastoid bones", 
-      "Bones", 
-      "Dyspnoea at night", 
-      "Soreness of affected bones, better in open air, worse at night"
+      "Dyspnoea at night"
     ], 
     "Eyes": [
       "Great soreness all about the eyes and into eyeballs", 
@@ -115,9 +114,11 @@
       "Sterility; vaginismus", 
       "Uterus enlarged and prolapsed"
     ], 
-    "Throat": [
-      "Caries of the palate", 
-      "Stitches when swallowing; pain in glands"
+    "Bones": [
+      "Soreness of affected bones, better in open air, worse at night", 
+      "Destruction of bones, like secondary syphilis", 
+      "Caries of nasal, palatine and mastoid bones", 
+      "Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones"
     ], 
     "Extremities": [
       "Knees weak", 

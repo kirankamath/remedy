@@ -35,11 +35,12 @@
     ], 
     "Chest": [
       "Palpitation more like a tremor", 
-      "Ulcers affecting bones; thin, ichorous pus", 
-      "Darting pain and caries in bones", 
-      "Bones", 
-      "Periosteum painful, swollen, enlarged", 
       "SPASMODIC TIGHTNESS, as if lungs could not be fully expanded"
+    ], 
+    "Throat": [
+      "Ball rises in throat", 
+      "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat", 
+      "GLOBUS HYSTERICUS"
     ], 
     "Nose": [
       "Syphilitic ozaena, with very offensive purulent discharge", 
@@ -53,10 +54,10 @@
       "Suppressed skin symptoms produce nervous disorders", 
       "Itching, better scratching; ulcers painful on edges"
     ], 
-    "Throat": [
-      "Ball rises in throat", 
-      "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat", 
-      "GLOBUS HYSTERICUS"
+    "Bones": [
+      "Ulcers affecting bones; thin, ichorous pus", 
+      "Darting pain and caries in bones", 
+      "Periosteum painful, swollen, enlarged"
     ], 
     "Rectum": [
       "Pain in perineum, as if something dull pressed out", 
