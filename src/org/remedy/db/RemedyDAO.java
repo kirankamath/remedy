@@ -69,12 +69,12 @@ public class RemedyDAO {
                     " s.cat_id = c.rowid", // Join from Symptom to Category.
                     selectionArgs);
             boolean notEmpty = cursor.moveToFirst();
-            do {
+            while (notEmpty) {
                 String category = cursor.getString(0);
                 String symptom = cursor.getString(1);
                 remedy.addSymptom(category, symptom);
                 notEmpty = cursor.moveToNext();
-            } while (notEmpty);
+            }
             cursor.close();
         }
 
