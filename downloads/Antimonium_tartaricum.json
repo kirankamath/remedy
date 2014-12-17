@@ -27,28 +27,12 @@
       "Better: from sitting erect; from eructation and expectoration"
     ], 
     "Urine": [
-      "Respiratory Organs", 
-      "Pulse rapid, weak, trembling", 
-      "Burning sensation in chest, which ascends to throat", 
-      "Dizziness, with cough", 
-      "GREAT RATTLING OF MUCUS, BUT VERY LITTLE IS EXPECTORATED", 
-      "Stricture", 
-      "Catarrh of bladder and urethra", 
-      "Orchitis", 
-      "Hoarseness", 
-      "Velvety feeling in chest", 
-      "Cough excited by eating, with pain in chest and larynx", 
-      "Emphysema of the aged", 
-      "EDEMA AND IMPENDING PARALYSIS OF LUNGS", 
-      "Dyspnoea relieved by eructation", 
-      "Bronchial tubes overloaded with mucus", 
-      "Cough and dyspnoea better lying on right side -", 
       "Last drops bloody with pain in bladder", 
-      "Burning in urethra during and after urinating", 
-      "Rapid, short, difficult breathing; seems as if he would suffocate; must sit up", 
-      "COUGHING AND GAPING CONSECUTIVELY", 
       "Urging increased", 
-      "Much palpitation, with uncomfortable hot feeling"
+      "Stricture", 
+      "Burning in urethra during and after urinating", 
+      "Catarrh of bladder and urethra", 
+      "Orchitis"
     ], 
     "Back": [
       "Twitching of muscles; limbs tremulous", 
@@ -60,15 +44,32 @@
       "Cold, blue, PALE; COVERED WITH COLD SWEAT", 
       "INCESSANT QUIVERING OF CHIN AND LOWER JAW"
     ], 
-    "Skin": [
-      "Warts", 
-      "PUSTULAR ERUPTION, leaving a bluish-red mark", 
-      "Smallpox"
+    "Respiratory": [
+      "Cough excited by eating, with pain in chest and larynx", 
+      "Pulse rapid, weak, trembling", 
+      "Burning sensation in chest, which ascends to throat", 
+      "COUGHING AND GAPING CONSECUTIVELY", 
+      "Rapid, short, difficult breathing; seems as if he would suffocate; must sit up", 
+      "Dyspnoea relieved by eructation", 
+      "Hoarseness", 
+      "Velvety feeling in chest", 
+      "Emphysema of the aged", 
+      "Cough and dyspnoea better lying on right side -", 
+      "EDEMA AND IMPENDING PARALYSIS OF LUNGS", 
+      "Much palpitation, with uncomfortable hot feeling", 
+      "Dizziness, with cough", 
+      "Bronchial tubes overloaded with mucus", 
+      "GREAT RATTLING OF MUCUS, BUT VERY LITTLE IS EXPECTORATED"
     ], 
     "Mouth": [
       "Brown", 
       "TONGUE COATED, PASTY, THICK WHITE, with red edges", 
       "Red and dry, especially in the center"
+    ], 
+    "Skin": [
+      "Warts", 
+      "PUSTULAR ERUPTION, leaving a bluish-red mark", 
+      "Smallpox"
     ], 
     "Sleep": [
       "GREAT DROWSINESS", 

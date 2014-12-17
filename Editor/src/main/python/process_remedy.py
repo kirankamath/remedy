@@ -22,6 +22,7 @@ keywords = set(["General",
                 "Tongue",
                 "Throat",
                 "Respiratory",
+                "Respiratory Organs",
                 "Chest",
                 "Heart",
                 "Back",
@@ -148,6 +149,7 @@ def process_one_remedy(file_name):
     merge_sections(symptom_list, "Urine Section", "Urine")
     merge_sections(symptom_list, "Urinary Organs", "Urine")
     merge_sections(symptom_list, "Urinary organs", "Urine")
+    merge_sections(symptom_list, "Respiratory Organs", "Respiratory")
 
     # Some items move from symptoms to remedy main section.
     main_items = ["dosage", "details", "Relationship", "Natural History"]

@@ -8,6 +8,12 @@
       "Corneal opacities", 
       "Superficial ulcer"
     ], 
+    "Respiratory": [
+      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up", 
+      "Asthma, with gastric derangements; mucus white and hard to cough up", 
+      "Loss of voice; hoarseness", 
+      "Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white"
+    ], 
     "Stomach": [
       "Vomiting of white, opaque mucus; water gathers in the mouth", 
       "FATTY OR RICH FOOD CAUSES INDIGESTION", 
@@ -51,14 +57,9 @@
       "Catarrh; phlegm white, thick"
     ], 
     "Female": [
-      "Respiratory Organs", 
+      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
       "Leucorrhoea; discharge of milky-white mucus, thick, non-irritating, bland", 
       "Morning sickness, with vomiting of white phlegm", 
-      "Loud, noisy stomach cough; cough short, acute, and spasmodic, like whooping-cough; expectoration thick and white", 
-      "Loss of voice; hoarseness", 
-      "Rattling sounds of air passing through thick, tenacious mucus in the bronchi; difficult to cough up", 
-      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
-      "Asthma, with gastric derangements; mucus white and hard to cough up", 
       "Bunches in breast feel quite soft and are TENDER"
     ], 
     "Skin": [
