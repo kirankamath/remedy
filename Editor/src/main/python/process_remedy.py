@@ -101,6 +101,10 @@ def process_one_remedy(file_name):
 
     # Name is always in the first font node.
     name =  font_list[0].childNodes[0].nodeValue
+
+    # Cleanup stray whitespace.
+    name = " ".join(name.split())
+
     data = []
     for font in font_list:
         if font.childNodes:
