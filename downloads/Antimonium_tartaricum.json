@@ -1,6 +1,10 @@
 {
   "name": "Antimonium tartaricum", 
   "Relationship": "Antidotes: Puls.; Sepia.", 
+  "Modalities": [
+    "Worse: in evening; from lying down at night; from warmth; in damp cold weather; from all sour things and milk", 
+    "Better: from sitting erect; from eructation and expectoration"
+  ], 
   "symptoms": {
     "Abdomen": [
       "Pressure in abdomen, especially on stooping forward", 
@@ -21,10 +25,6 @@
       "Vomiting in any position, excepting lying on right side", 
       "Thirst for cold water, little and often, and desire for apples, fruits, and acids generally", 
       "Nausea, retching, and vomiting, especially after food, with deathly faintness and prostration"
-    ], 
-    "Modalities": [
-      "Worse: in evening; from lying down at night; from warmth; in damp cold weather; from all sour things and milk", 
-      "Better: from sitting erect; from eructation and expectoration"
     ], 
     "Urine": [
       "Last drops bloody with pain in bladder", 

@@ -1,12 +1,12 @@
 {
   "name": "Lemna minor", 
   "Relationship": "Compare: DULC. (damp surroundings and foggy weather). CALC.; TEUCR.; CALEN.; NAT-SULPH.", 
+  "Modalities": [
+    "Worse: in damp", 
+    "Worse: rainy weather", 
+    "Worse: especially heavy rains"
+  ], 
   "symptoms": {
-    "Modalities": [
-      "Worse: in damp", 
-      "Worse: rainy weather", 
-      "Worse: especially heavy rains"
-    ], 
     "Abdomen": [
       "Disposition to noisy diarrhoea"
     ], 

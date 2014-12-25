@@ -1,6 +1,9 @@
 {
   "name": "Bacillinum", 
   "Relationship": "Complementary: Calc. phos.; Kali-carb.ANTIMON. IOD.; LACH.; ARSENIC. IOD.; MYOSOTIS. LEVICO, 5-10 drops, follows as an intercurrent where much debility is present (Burnett).Compare: Its effects seem to be identical to that of Koch's Tuberculinum. Both are useful in the tubercular diathesis before phthisis has developed. In the EARLY STAGES of tubercular disease of glands, joints, skin and bones. PSORINUM. Seems to be its chronic equivalent. BACILLIN. TESTIUM (acts especially on lower half of the body.", 
+  "Modalities": [
+    "Worse: night and early morning; cold air"
+  ], 
   "symptoms": {
     "Head": [
       "Eczema of eyelids", 
@@ -13,9 +16,6 @@
       "Oppression", 
       "Bubbling rales and mucopurulent expectoration", 
       "Humid asthma"
-    ], 
-    "Modalities": [
-      "Worse: night and early morning; cold air"
     ], 
     "Abdomen": [
       "Obstinate constipation, with offensive flatus", 

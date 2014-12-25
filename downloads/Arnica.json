@@ -1,6 +1,11 @@
 {
   "name": "Arnica", 
   "Relationship": "Antidotes: Camph.Complementary: Acon.; Ipec.Vitex trifolia - Indian Arnica. (Sprains and pains, headache in temples, pain in joints; pain in abdomen; pain in testicles.)Compare: Acon.; Bapt.; Bellis; Hemamellis; Rhus; Hypericum.", 
+  "Modalities": [
+    "Worse: least touch; motion; rest; wine; damp cold", 
+    "Better: lying down", 
+    "Better: or with head low"
+  ], 
   "symptoms": {
     "Urine": [
       "Dark brick-red sediment", 
@@ -98,11 +103,6 @@
       "Fatty heart and hypertrophy", 
       "Angina pectoris; pain especially severe in elbow of left arm", 
       "Cardiac dropsy with distressing dyspnoea"
-    ], 
-    "Modalities": [
-      "Worse: least touch; motion; rest; wine; damp cold", 
-      "Better: lying down", 
-      "Better: or with head low"
     ], 
     "Mind": [
       "Unconscious; when spoken to answers correctly, but relapses", 

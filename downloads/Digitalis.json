@@ -1,6 +1,11 @@
 {
   "name": "Digitalis", 
   "Relationship": "Antidotes; CAMPH.; SERPENTARIA. Incompatible: CHINA. Compare: NERIUM ODORUM (resembles in heart effects Digitalis, but also has an action like Strychnia on spinal cord. Spasms appear more in upper part of body. Palpitation; weak heart will be strengthened by it. Lock-jaw). ADONIA; Crataegus (a true heart tonic); KALMIA; SPIGEL; LIATRIS; Compare also: DIGITOXINUM (Digitalis dissolved in Chloroform; which has yellow vision very marked, and distressing nausea, AGGRAVATED BY CHAMPAGNE AND AERATED WATERS.) NITRI. SIR. DULC. increases action of Digit. ICHTHYOTOXIN. Eel serum. (Experiments show great analogy between the serum and the venom of Vipera. Indicated whenever the systole of the heart is insufficient, decompensated valvular disease, irregular pulse due to fibrillation of the auricle. Asystole, feeble, frequent, irregular pulse, dyspnoea and scanty urine. Liver enlarged, dyspnoea, albuminuria. No oedema.) CONVALLARIA (heart disease with vertigo and digestive disturbances). QUINIDINE - Isomeric methoxyl compound. - (Restores normal rhythm in auricular fibrillation, often supplements the action of Digitalis. Two doses of 3 grains each, three hours apart - if no symptoms of cinchonism develop, 4 doses 6 grs. each daily. (C. Harlan Wells.) Paroxysmal tachycardia. Establishes normal heart rhythm at least temporarily, less in valvular lesions.)", 
+  "Modalities": [
+    "Worse: when sitting erect", 
+    "Worse: after meals and music", 
+    "Better: when stomach is empty; in open air"
+  ], 
   "symptoms": {
     "Mind": [
       "Dullness of sense", 
@@ -81,11 +86,6 @@
       "Frequent stitches in heart", 
       "Pulse weak; and quickened by least movement", 
       "Hypertrophy with dilatation"
-    ], 
-    "Modalities": [
-      "Worse: when sitting erect", 
-      "Worse: after meals and music", 
-      "Better: when stomach is empty; in open air"
     ], 
     "Urine": [
       "Continued urging, in drops, dark, hot, burning, with sharp cutting or throbbing pain at neck of bladder, as if a straw was being thrust back and forth; worse at night", 

@@ -1,6 +1,13 @@
 {
   "name": "Sarsaparilla", 
   "Relationship": "Compare: BERB.; LYCOP.; NAT-M.; PETROL.; SASSAFRAS; SAURURUS - Lizard's tail - (Irritation of kidneys, bladder, prostate and urinary passages. Painful and difficult micturition; cystitis with strangury). CUCURBITA CITRULLUS - Watermelon. Infusion of the seed acts promptly in painful urination with constriction and backache, relieves pain and stimulates flow.Antidote: BELL.Complementary: MERC.; SEP.", 
+  "Modalities": [
+    "Worse: dampness at night", 
+    "Worse: after urinating", 
+    "Worse: when yawning", 
+    "Worse: in spring", 
+    "Worse: before menses"
+  ], 
   "symptoms": {
     "Head": [
       "Influenza", 
@@ -13,13 +20,6 @@
       "Pains from occiput to eyes", 
       "Moist eruption on scalp", 
       "Periosteal pains due to venereal disease"
-    ], 
-    "Modalities": [
-      "Worse: dampness at night", 
-      "Worse: after urinating", 
-      "Worse: when yawning", 
-      "Worse: in spring", 
-      "Worse: before menses"
     ], 
     "Urine": [
       "Bladder distended and tender", 

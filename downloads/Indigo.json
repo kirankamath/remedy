@@ -1,6 +1,12 @@
 {
   "name": "Indigo", 
   "Relationship": "Compare: CUPRUM; OESTRUS CAMELI, an Indian medicine for epilepsy.", 
+  "Modalities": [
+    "Worse: during rest and sitting", 
+    "Better: pressure", 
+    "Better: rubbing", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Head": [
       "Undulating sensation through whole head", 
@@ -22,12 +28,6 @@
     "Rectum": [
       "Falling of rectum", 
       "Aroused at night with horrible itching at anus"
-    ], 
-    "Modalities": [
-      "Worse: during rest and sitting", 
-      "Better: pressure", 
-      "Better: rubbing", 
-      "Better: motion"
     ], 
     "Urine": [
       "Urine turbid", 

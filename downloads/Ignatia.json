@@ -1,6 +1,17 @@
 {
   "name": "Ignatia", 
   "Relationship": "Complementary: COFFEA; NUX; TAB AC.Antidotes: PULS.; CHAM.; COCC.Compare: ZINC.; KALI-PHOS.; SEP.; CIMICIF. PANACEA ARVENSIS - Poor man's Mercury - (Sensitiveness over gastric region with hunger but an aversion to food).", 
+  "Modalities": [
+    "Worse: in the morning", 
+    "Worse: open air", 
+    "Worse: after meals", 
+    "Worse: coffee", 
+    "Worse: smoking", 
+    "Worse: liquids", 
+    "Worse: external warmth", 
+    "Better: while eating", 
+    "Better: change of position"
+  ], 
   "symptoms": {
     "Urine": [
       "Profuse, watery"
@@ -59,17 +70,6 @@
     "Face": [
       "Twitching of muscles of face and lips", 
       "Changes color when at rest"
-    ], 
-    "Modalities": [
-      "Worse: in the morning", 
-      "Worse: open air", 
-      "Worse: after meals", 
-      "Worse: coffee", 
-      "Worse: smoking", 
-      "Worse: liquids", 
-      "Worse: external warmth", 
-      "Better: while eating", 
-      "Better: change of position"
     ], 
     "Mind": [
       "After shocks, grief, disappointment", 

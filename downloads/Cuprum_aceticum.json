@@ -1,6 +1,15 @@
 {
   "name": "Cuprum aceticum", 
   "Relationship": "Acts similarly to CUPRUM MET. but is more violent in action.", 
+  "Modalities": [
+    "Worse: mental emotions", 
+    "Worse: touch", 
+    "Better: chewing", 
+    "Better: pressure", 
+    "Better: night", 
+    "Better: lying on affected side", 
+    "Better: and warmth"
+  ], 
   "symptoms": {
     "Head": [
       "Constant protrusion and retraction of tongue", 
@@ -24,15 +33,6 @@
       "Violent tenesmus", 
       "Violent spasmodic pains in stomach and abdomen", 
       "Vomiting"
-    ], 
-    "Modalities": [
-      "Worse: mental emotions", 
-      "Worse: touch", 
-      "Better: chewing", 
-      "Better: pressure", 
-      "Better: night", 
-      "Better: lying on affected side", 
-      "Better: and warmth"
     ], 
     "Face": [
       "Facial neuralgia in cheek-bone, upper jaw, and behind right ear", 

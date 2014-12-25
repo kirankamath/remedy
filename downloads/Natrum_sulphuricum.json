@@ -1,6 +1,13 @@
 {
   "name": "Natrum sulphuricum", 
   "Relationship": "Complementary: ARS.; THUJA.Compare: NATRUM SUCCINATE (5 gr. every 3 hours. Catarrhal jaundice). MALARIA OFFICINALIS - decomposed vegetable matter - (Has evident power to cause the disappearance of the plasmodium of malaria. Malarial cachexia. General sense of weariness. Spleen affections. Malaria and rheumatism. Functional hepatic diseases. Sixth potency and higher.) NATRUM CHOLEINICUM - Fel Tauri Depuratum - (constipation; chronic gastric and intestinal catarrh; cirrhotic liver; diabetes; NAPE OF NECK PAINS; TENDENCY TO SLEEP AFTER EATING; much flatus; ascites); MOMORDICA - Balsam Apple - (Colic, dysmenorrhoea with gushes of blood.) PULMO VULPIS - Wolf;'s lung (persistent shortness of breath causing a paroxysm of asthma on the slightest motion. Strong, sonorous bubbling rales. 1x trit.). PEUMUS BOLDUS - BOLDO - (atonic states of stomach and intestinal canal; liver states following malaria. Burning weight in region of liver and stomach, bitter taste, languor; abscess of liver; asthma, bronchitis, catarrh, oedema of lungs); NATRUM JODAT. (Incipient rheumatic endocarditis; chronic bronchitis, rheumatism and tertiary syphilis. Chronic catarrhal affections, arteriosclerosis. Here various symptoms, as ANGINA PECTORIS, vertigo, dyspnoea become less marked after continued use of 5-10 grs., 3 times a day.) NATRUM HYDROSULPH. (liver-spots, locally and internally); SULPH.; THUJA; MERC.; STILLING.", 
+  "Modalities": [
+    "Worse: music ; lying on left side; dampness of basement", 
+    "Worse: damp weather", 
+    "Better: dry weather", 
+    "Better: pressure", 
+    "Better: changing position"
+  ], 
   "symptoms": {
     "Urine": [
       "Excessive secretion", 
@@ -67,13 +74,6 @@
     ], 
     "Ears": [
       "Sticking pain, earache, lightning-like stitches in damp weather"
-    ], 
-    "Modalities": [
-      "Worse: music ; lying on left side; dampness of basement", 
-      "Worse: damp weather", 
-      "Better: dry weather", 
-      "Better: pressure", 
-      "Better: changing position"
     ], 
     "Mind": [
       "Dislikes to speak, or to be spoken to", 

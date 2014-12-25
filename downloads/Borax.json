@@ -1,6 +1,16 @@
 {
   "name": "Borax", 
   "Relationship": "Compare: Calc.; Bryon.; Sanicula; Sulph-ac.Antidote: Cham.; Coffea.Acetic acid, vinegar, and wine are incompatible.", 
+  "Modalities": [
+    "Worse: downward motion", 
+    "Worse: noise", 
+    "Worse: smoking", 
+    "Worse: warm weather", 
+    "Worse: after menses", 
+    "Better: pressure", 
+    "Better: evening", 
+    "Better: cold weather"
+  ], 
   "symptoms": {
     "Eyes": [
       "Eyelids inflamed, lids cut against eyeball", 
@@ -21,16 +31,6 @@
       "Pungent smell", 
       "Small red particles on diaper", 
       "Hot, smarting pain in orifice"
-    ], 
-    "Modalities": [
-      "Worse: downward motion", 
-      "Worse: noise", 
-      "Worse: smoking", 
-      "Worse: warm weather", 
-      "Worse: after menses", 
-      "Better: pressure", 
-      "Better: evening", 
-      "Better: cold weather"
     ], 
     "Mind": [
       "Excessively nervous; easily frightened", 

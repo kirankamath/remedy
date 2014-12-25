@@ -1,15 +1,15 @@
 {
   "name": "Chimaphila umbellata", 
   "Relationship": "Compare: Chimaph. maculata (intense gnawing hunger; burning fever; sensation of swelling in arm pits); Uva.; Ledum; Epigea.", 
+  "Modalities": [
+    "Worse: in damp weather; from sitting on cold stones or pavements; left side"
+  ], 
   "symptoms": {
     "Head": [
       "Halo about the light", 
       "Pain in left frontal protuberance", 
       "Itching of eyelids", 
       "Stabbing pain in left eye with lachrymation"
-    ], 
-    "Modalities": [
-      "Worse: in damp weather; from sitting on cold stones or pavements; left side"
     ], 
     "Urine": [
       "Sugar in urine", 

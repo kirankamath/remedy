@@ -1,6 +1,10 @@
 {
   "name": "Berberis vulgaris", 
   "Relationship": "Antidotes: Camphor; Bell.Compare: Ipomea - Convolvulus Duartinus - Morning Glory. - (Pain in left lumbar muscles on stooping. Kidney disorders with pain in back. Much abdominal flatulence. Aching in top of right shoulder renal colic; aching in small of back and extremities), Aloe; Lycopod.; Nux.; Sarsap. Xanthorrhoea arborea (severe pain in kidneys, cystitis and gravel. Pain from ureter to bladder and testicles; pain in small of back returns from least chill or damp). Xanthorrhiza apifolia - Shrub Yellow Root - Contains Berberine. Dilatation of stomach and intestines, atony, enlarged spleen.", 
+  "Modalities": [
+    "Worse: motion", 
+    "Worse: standing"
+  ], 
   "symptoms": {
     "Head": [
       "Sensation of a tight cap pressing upon the whole scalp", 
@@ -18,10 +22,6 @@
     "Stomach": [
       "Nausea before breakfast", 
       "Heartburn"
-    ], 
-    "Modalities": [
-      "Worse: motion", 
-      "Worse: standing"
     ], 
     "Urine": [
       "Pain in the thighs and loins on urinating", 

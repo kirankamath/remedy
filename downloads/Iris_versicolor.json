@@ -1,6 +1,11 @@
 {
   "name": "Iris versicolor", 
   "Relationship": "Antidote: NUX.Compare: IRIS FLORENTINA - Oris-root - (delirium, convulsions, and paralysis); IRIS FACTISSIMA (headache and hernia); IRIS GERMANICA - Blue Garden Iris - (dropsy and freckles); IRIS TENAX - I. MINOR (dry mouth; deathly sensation at point of stomach, PAIN IN ILEO-CAECAL REGION; appendicitis. Pains from adhesions after). PANCREATINUM - a combination of several enzymes - (Indicated in intestinal indigestion; pain an hour or more after eating. Lienteric diarrhoea. Dose - 3-5 grains, better not given during the active period of stomachic digestion). PEPSINUM - (Imperfect digestion with pain in gastric region. Marasmus of children who are fed on artificial foods. Diarrhoea due to indigestion. Dose - 3-4 grains). (Diseases of pancreas, gout, diabetes); IPEC.; PODOPHY.; SANGUIN.; ARS.; ANT. CR.", 
+  "Modalities": [
+    "Worse: in evening and at night", 
+    "Worse: from rest", 
+    "Better: from continued motion"
+  ], 
   "symptoms": {
     "Head": [
       "Scalp feels constricted", 
@@ -15,11 +20,6 @@
       "Vomiting, sour, bloody, biliary", 
       "Burning of whole alimentary canal", 
       "Nausea"
-    ], 
-    "Modalities": [
-      "Worse: in evening and at night", 
-      "Worse: from rest", 
-      "Better: from continued motion"
     ], 
     "Abdomen": [
       "Diarrhoea; stools watery, with burning at anus and through intestinal canal", 

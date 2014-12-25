@@ -1,6 +1,10 @@
 {
   "name": "Ptelea", 
   "Relationship": "Compare: MERCUR.; MAG-MUR.; NUX; CHELID.", 
+  "Modalities": [
+    "Worse: lying on left side; early morning", 
+    "Better: eating sour things"
+  ], 
   "symptoms": {
     "Head": [
       "Temples as if pressed together", 
@@ -19,10 +23,6 @@
       "Stomach and liver symptoms associated with pain in limbs", 
       "Griping in epigastric region, with dryness of mouth", 
       "Weight and fullness"
-    ], 
-    "Modalities": [
-      "Worse: lying on left side; early morning", 
-      "Better: eating sour things"
     ], 
     "Abdomen": [
       "Retraction of abdomen", 

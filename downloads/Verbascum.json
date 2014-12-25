@@ -1,6 +1,12 @@
 {
   "name": "Verbascum", 
   "Relationship": "Compare: RHUS AROM.; CAUST.; PLATIN.; SPHINGURUS (pain in zygoma).", 
+  "Modalities": [
+    "Worse: change of temperature", 
+    "Worse: talking", 
+    "Worse: sneezing", 
+    "Worse: biting hard ; from nine am to four pm"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Cough; worse at night", 
@@ -12,12 +18,6 @@
       "Inflamed and painful piles", 
       "Hemorrhoids, with obstructed, hardened stool", 
       "Many movements a day, with twisting about navel"
-    ], 
-    "Modalities": [
-      "Worse: change of temperature", 
-      "Worse: talking", 
-      "Worse: sneezing", 
-      "Worse: biting hard ; from nine am to four pm"
     ], 
     "Urine": [
       "Increase with pressure in bladder", 

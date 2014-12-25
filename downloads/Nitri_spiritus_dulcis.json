@@ -1,14 +1,14 @@
 {
   "name": "Nitri spiritus dulcis", 
   "Relationship": "Compare: PHOS-AC.; LYCOP.Increases the action of Digitalis.", 
+  "Modalities": [
+    "Worse: from mental disturbance", 
+    "Worse: during winter and spring"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Very rapid breathing by going only a short walk", 
       "Painful constriction behind sternum"
-    ], 
-    "Modalities": [
-      "Worse: from mental disturbance", 
-      "Worse: during winter and spring"
     ], 
     "Face": [
       "Burning in cheeks, and vomiting, followed by lassitude", 

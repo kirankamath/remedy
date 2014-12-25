@@ -1,6 +1,15 @@
 {
   "name": "Kreosotum", 
   "Relationship": "GUAIACOL (is the principal constituent of Kreosote, and similar in action. Used in pulmonary tuberculosis. Dose 1 to 5M.Antidote: NUX. Inimical: CARBO.Compare also: FULIGO LIGNI; CARBOL-AC.; IOD.; LACHES.MATICO - Artanthe or Piper augustifolia, (Gonorrhea, hemorrhage from lungs; catarrhal condition of genitourinary organs and gastrointestinal tract. Topically a hemostatic. Difficult, dry, deep, winter cough. Use tincture.)Complementary in malignant diseases: ARS.; PHOS.; SULPH.", 
+  "Modalities": [
+    "Worse: in open air", 
+    "Worse: cold", 
+    "Worse: rest", 
+    "Worse: when lying; after menstruation", 
+    "Better: from warmth", 
+    "Better: motion", 
+    "Better: warm diet"
+  ], 
   "symptoms": {
     "Head": [
       "Occipital pain", 
@@ -55,15 +64,6 @@
     "Ears": [
       "Eruption around and pimples within", 
       "Difficult hearing and buzzing"
-    ], 
-    "Modalities": [
-      "Worse: in open air", 
-      "Worse: cold", 
-      "Worse: rest", 
-      "Worse: when lying; after menstruation", 
-      "Better: from warmth", 
-      "Better: motion", 
-      "Better: warm diet"
     ], 
     "Urine": [
       "Violent itching of vulva and vagina, worse when urinating", 

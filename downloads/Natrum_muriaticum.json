@@ -1,6 +1,22 @@
 {
   "name": "Natrum muriaticum", 
   "Relationship": "Antidotes: ARS.; PHOS.; SPIR. NIT. DULC.Compare: AQUA MARINA - Isotonic plasma. Marine plasma is a sea water taken some miles from shore and some depth below surface, filtered and diluted with twice as much pure fresh water. It acts primarily on the blood, as in intoxications, scrofulous conditions, enteritis. It disintoxicate in cancer (administered subcutaneously in the treatment of diseases of skin, kidneys and intestines, GASTROENTERITIS, AND TUBERCULOSIS). SCROFULOUS AFFECTIONS OF CHILDREN. Lymphadenitis. Lupus, eczema, varicose ulcers. A great blood purifier and vitalizer. Potentized sea-water in weakness, lack of reaction; symptoms worse seaside. Goitre.) SAL MARINUM sea salt, (indicated in chronic enlargements of glands, especially cervical. Suppurating glands. It appears likely to become a most useful remedy as an auxiliary, if not as a principal, in the treatment of diseases in patients of a strumous diathesis. Also useful in constipation.) NATRUM SELENICUM (laryngeal phthisis with expectoration of small lumps of bloody mucus and slight hoarseness.) NATRUM SILICUM (hemophilia; scrofulous bone affections; given intravenously every 3 days for SENILE PRURITUS); (DOLICHOS. FAGOPYR.) IGNAT.; SEP.; THUJA; GRAPH.; ALUM.Complementary to APIS; SEPIA; IGN.", 
+  "Modalities": [
+    "Worse: noise", 
+    "Worse: music", 
+    "Worse: warm room", 
+    "Worse: lying down; about ten am", 
+    "Worse: at seashore", 
+    "Worse: mental exertion", 
+    "Worse: consolation", 
+    "Worse: heat", 
+    "Worse: talking", 
+    "Better: open air", 
+    "Better: cold bathing", 
+    "Better: going without regular meals", 
+    "Better: lying on right side; pressure against back", 
+    "Better: tight clothing"
+  ], 
   "symptoms": {
     "Urine": [
       "Increased, involuntary when walking, coughing, etc. has to wait a long time for it to pass if others are present", 
@@ -113,22 +129,6 @@
       "Fluttering, palpitating; intermittent pulse", 
       "Heart and chest feel constricted", 
       "Tachycardia"
-    ], 
-    "Modalities": [
-      "Worse: noise", 
-      "Worse: music", 
-      "Worse: warm room", 
-      "Worse: lying down; about ten am", 
-      "Worse: at seashore", 
-      "Worse: mental exertion", 
-      "Worse: consolation", 
-      "Worse: heat", 
-      "Worse: talking", 
-      "Better: open air", 
-      "Better: cold bathing", 
-      "Better: going without regular meals", 
-      "Better: lying on right side; pressure against back", 
-      "Better: tight clothing"
     ], 
     "Mind": [
       "Tears with laughter", 

@@ -1,6 +1,11 @@
 {
   "name": "Cadmium sulphuricum", 
   "Relationship": "Compare: Cadmium oxide; Cad. brom. (pain and burning in stomach and vomiting); Cadmium jodat. (Itching of anus and rectum felt during the day only; constipation, frequent desire, tenesmus, abdomen bloated); Zinc.; Ars.; Carbo; Verat.", 
+  "Modalities": [
+    "Worse: walking or carrying burdens; after sleep; from open air", 
+    "Worse: stimulants", 
+    "Better: eating and rest"
+  ], 
   "symptoms": {
     "Mind": [
       "Vertigo; room and bed seem to spin around", 
@@ -66,11 +71,6 @@
     ], 
     "Heart": [
       "Palpitation, with constriction of chest"
-    ], 
-    "Modalities": [
-      "Worse: walking or carrying burdens; after sleep; from open air", 
-      "Worse: stimulants", 
-      "Better: eating and rest"
     ], 
     "Urine": [
       "Rawness and soreness in urethra, urine mixed with pus and blood"

@@ -1,6 +1,11 @@
 {
   "name": "Caladium seguinum", 
   "Relationship": "Incompatible: Arum triph.Compare: Capsic.; Phosph.; Caust.; Selen.; Lyc. Ikshugandha (sexual weakness, emissions, prostatic enlargement.Complementary: Nit-ac.", 
+  "Modalities": [
+    "Better: after sweat", 
+    "Better: after sleeping in daytime", 
+    "Worse: motion"
+  ], 
   "symptoms": {
     "Head": [
       "Very forgetful, does not know about the occurrence of things", 
@@ -19,11 +24,6 @@
       "Stomach feels full of dry food, sensation of fluttering", 
       "Acrid vomiting, thirstless and tolerates only warm drinks", 
       "Gnawing in orifice of stomach, which prevents deep breathing; and eructations"
-    ], 
-    "Modalities": [
-      "Better: after sweat", 
-      "Better: after sleeping in daytime", 
-      "Worse: motion"
     ], 
     "Female": [
       "Cramp pains in uterus at night", 

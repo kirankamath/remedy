@@ -1,6 +1,11 @@
 {
   "name": "Lachesis", 
   "Relationship": "Antidotes: ARS.; MERC.; HEAT; ALCOHOL; SALT.Compare: COTYLEDON (climacteric troubles); NAT-M.; NIT-AC.; CROTAL.; Amphisbena - snake lizard - (right jaw swollen and painful, lancinating pains; headaches, lancinating pains. Eruption of vesicles and pimples); NAJA; LEPIDIUM.Complementary: CROTALUS CASCAVELLA often completes curative work of Lachesis. (MURE.) LYCOP.; HEP.; SALAMANDRA.Incompatible: ACET-AC.; CARB-AC.", 
+  "Modalities": [
+    "Worse: after sleep", 
+    "Better: appearance of discharges", 
+    "Better: warm applications"
+  ], 
   "symptoms": {
     "Stool": [
       "Hemorrhoids protrude, become constricted, purplish", 
@@ -87,11 +92,6 @@
       "Cyanosis", 
       "Constricted feeling causing palpitation, with anxiety", 
       "Irregular beats"
-    ], 
-    "Modalities": [
-      "Worse: after sleep", 
-      "Better: appearance of discharges", 
-      "Better: warm applications"
     ], 
     "Mind": [
       "Derangement of the time sense", 

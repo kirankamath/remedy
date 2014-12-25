@@ -1,6 +1,15 @@
 {
   "name": "Coccus cacti", 
   "Relationship": "Compare: CANTH.; CACT.; SARS.", 
+  "Modalities": [
+    "Worse: left side", 
+    "Worse: after sleep", 
+    "Worse: touch", 
+    "Worse: pressure of clothing", 
+    "Worse: brushing teeth", 
+    "Worse: slightest exertion", 
+    "Better: walking"
+  ], 
   "symptoms": {
     "Heart": [
       "Sensation as if everything were pressed toward the heart"
@@ -22,15 +31,6 @@
       "Tickling in larynx", 
       "Whooping cough attacks end with vomiting of this tough mucus", 
       "Chronic bronchitis complicated with gravel; large quantities of albuminous, tenacious mucus, are expectorated"
-    ], 
-    "Modalities": [
-      "Worse: left side", 
-      "Worse: after sleep", 
-      "Worse: touch", 
-      "Worse: pressure of clothing", 
-      "Worse: brushing teeth", 
-      "Worse: slightest exertion", 
-      "Better: walking"
     ], 
     "Urine": [
       "Urinary calculi, hematuria, urates, and uric acid; lancinating pains from kidney to bladder", 

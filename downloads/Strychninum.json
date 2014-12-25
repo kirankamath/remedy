@@ -1,6 +1,10 @@
 {
   "name": "Strychninum", 
   "Relationship": "Compare: EUCALYPTUS (neutralizes ill effects of STRYCHNINE). STRYCHN. ARS. (Paresis in the aged, relaxed musculature. Prostration. Psoriasis; chronic diarrhoea with paralytic symptoms; compensatory hypertrophy of heart with beginning fatty degeneration; marked dyspnoea when lying down; oedema of lower extremities, urine scanty, high specific gravity, heavily loaded with glucose. Diabetes. 6X trit.). STRYCHN. ET. FERR. CIT. (chlorotic and paralytic conditions; dyspepsia, with vomiting of ingesta; 2x and 3X trit.); STRYCHNINE NIT. (2x and 3X. Said to remove craving for alcohol. Use for two weeks); STRYCHNINE. SULPH. (Gastric atony); STRYCHN. VALERIN. (exhaustion of brain-power; women of high nervous erethism; 2x trit.). Compare: CICUTA; ARNICA (tetanus).", 
+  "Modalities": [
+    "Worse: morning; touch; noise; motion; after meals", 
+    "Better: lying on back"
+  ], 
   "symptoms": {
     "Rectum": [
       "Feces discharged involuntarily during spasms", 
@@ -30,10 +34,6 @@
       "Itching of scalp and nape", 
       "Jerking of head forwards", 
       "Scalp sore"
-    ], 
-    "Modalities": [
-      "Worse: morning; touch; noise; motion; after meals", 
-      "Better: lying on back"
     ], 
     "Back": [
       "Icy sensation down spine", 

@@ -1,5 +1,10 @@
 {
-  "Natural History": "Mountain Laurel", 
+  "name": "Kalmia latifolia", 
+  "Relationship": "Complementary: BENZ. ACID.Compare: Kalmia contains Arbutin g.v. DERRIS PINUTA (of great service in neuralgic headaches of rheumatic origin).Compare: SPIGELIA; PULSAT.", 
+  "Modalities": [
+    "Worse: leaning forward ; looking down; motion", 
+    "Worse: open air"
+  ], 
   "symptoms": {
     "Heart": [
       "Weak, slow pulse", 
@@ -33,10 +38,6 @@
       "Vertigo; worse stooping", 
       "Pain in front and temporal region from head to nape and to teeth; from cardiac origin"
     ], 
-    "Modalities": [
-      "Worse: leaning forward ; looking down; motion", 
-      "Worse: open air"
-    ], 
     "Urine": [
       "Frequent, with sharp pains in lumbar region", 
       "Post-scarlatinal nephritis"
@@ -68,7 +69,6 @@
       "Joints red, hot, swollen"
     ]
   }, 
-  "name": "Kalmia latifolia", 
-  "Relationship": "Complementary: BENZ. ACID.Compare: Kalmia contains Arbutin g.v. DERRIS PINUTA (of great service in neuralgic headaches of rheumatic origin).Compare: SPIGELIA; PULSAT.", 
-  "details": "A rheumatic remedy. Pains shift rapidly. Nausea and slow pulse frequently accompanying. Has also a prominent action on the heart. In small doses, it accelerates the heart's action; in larger it moderates it greatly. Neuralgia; PAINS SHOOT DOWNWARDS, WITH NUMBNESS. FULGURATING PAINS OF LOCOMOTOR ATAXIA. Protracted and continuous FEVERS, with tympanites. Paralytic sensations; pains and achings in limbs accompany nearly every group of symptoms. ALBUMINURIA."
+  "details": "A rheumatic remedy. Pains shift rapidly. Nausea and slow pulse frequently accompanying. Has also a prominent action on the heart. In small doses, it accelerates the heart's action; in larger it moderates it greatly. Neuralgia; PAINS SHOOT DOWNWARDS, WITH NUMBNESS. FULGURATING PAINS OF LOCOMOTOR ATAXIA. Protracted and continuous FEVERS, with tympanites. Paralytic sensations; pains and achings in limbs accompany nearly every group of symptoms. ALBUMINURIA.", 
+  "Natural History": "Mountain Laurel"
 }

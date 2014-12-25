@@ -1,5 +1,11 @@
 {
-  "Natural History": "Soap Root", 
+  "name": "Saponaria", 
+  "Relationship": "Compare, also: VERBASC.; COCCUL. (both containing Saponin). QUILLAYA; (Anagallis, AGROSTEMA, Helonias, Sarsaparilla, Paris, Cyclamen and others contain Saponin).Compare: SAPONIN - a glucosidal principle found in Quillaya, Yucca, Senega, Dioscorea and other plants. (Tired, indifferent. PAIN IN LEFT TEMPLE, EYE, photophobia, hot stitches deep in eye. Fifth nerve affections. Migraine. Much pain BEFORE the menstrual flow; severe sore throat, worse right side; tonsils swollen, worse in warm room. Sharp burning taste and violent sneezing.", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: mental exertion", 
+    "Worse: left side"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation with anxiety", 
@@ -18,11 +24,6 @@
       "Difficult swallowing", 
       "Nausea, heartburn; full feeling not relieved by eructation"
     ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: mental exertion", 
-      "Worse: left side"
-    ], 
     "Mind": [
       "Apathetic, depressed, with sleepiness", 
       "Utter indifference to pain or possible death"
@@ -37,7 +38,6 @@
       "Exophthalmos, worse reading and writing"
     ]
   }, 
-  "name": "Saponaria", 
-  "Relationship": "Compare, also: VERBASC.; COCCUL. (both containing Saponin). QUILLAYA; (Anagallis, AGROSTEMA, Helonias, Sarsaparilla, Paris, Cyclamen and others contain Saponin).Compare: SAPONIN - a glucosidal principle found in Quillaya, Yucca, Senega, Dioscorea and other plants. (Tired, indifferent. PAIN IN LEFT TEMPLE, EYE, photophobia, hot stitches deep in eye. Fifth nerve affections. Migraine. Much pain BEFORE the menstrual flow; severe sore throat, worse right side; tonsils swollen, worse in warm room. Sharp burning taste and violent sneezing.", 
-  "details": "Of great use in the treatment of acute colds, coryza, sore throat, etc. Will often break up a cold.Sore throat, involuntary urination"
+  "details": "Of great use in the treatment of acute colds, coryza, sore throat, etc. Will often break up a cold.Sore throat, involuntary urination", 
+  "Natural History": "Soap Root"
 }

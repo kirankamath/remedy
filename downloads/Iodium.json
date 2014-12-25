@@ -1,6 +1,13 @@
 {
   "name": "Iodium", 
   "Relationship": "Complementary: LYCOPOD.; BADIAGA.Compare: BROM.; HEPAR; MERCUR.; PHOSPH.; ABROT; NAT-MUR.; SANIC.; TUBER.Yatren. Iod. pathogenesis is similar to that of CARBOL. ACID. Antidotes: HEPAR; SULPH.; GRATIOLA.", 
+  "Modalities": [
+    "Worse: when quiet", 
+    "Worse: in warm room", 
+    "Worse: right side", 
+    "Better: walking about", 
+    "Better: in open air"
+  ], 
   "symptoms": {
     "Urine": [
       "Frequent and copious, dark yellow-green", 
@@ -93,13 +100,6 @@
       "Tachycardia", 
       "Palpitation from least exertion", 
       "Myocarditis, painful compression around heart"
-    ], 
-    "Modalities": [
-      "Worse: when quiet", 
-      "Worse: in warm room", 
-      "Worse: right side", 
-      "Better: walking about", 
-      "Better: in open air"
     ], 
     "Mind": [
       "Melancholy", 

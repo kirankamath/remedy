@@ -1,6 +1,12 @@
 {
   "name": "Arsenicum album", 
   "Relationship": "Antidotes: Opium; Carbo; China; Hepar; Nux. Chemical antidotes: Charcoal; Hydrated Peroxide of Iron; Lime Water.Complementary: Rhus; Carbo; Phos.; Thuja; Secale. Antidotal to lead poison.Compare: Arsenic. stibiatum 3x (Chest inflammations of children, restlessness with thirst and prostration, loose mucous cough, oppression, hurried respiration, crepitant rales). Cenchris contortrix; Iod.; Phosph.; China; Verat. alb.; Carbo; Kali-phos. Epilobium (intractable diarrhoea of typhoid). Hoang Nan. Atoxyl. Sodium arseniate 3x, sleeping sickness; commencing optic atrophy. Levico Water - (containing Ars., Iron and Copper of South Tyrol). (Chronic and dyscratic skin diseases, chorea minor and spasms in scrofulous and anaemic children. Favors assimilation and increases nutrition. Debility and skin diseases, especially after the use of higher potencies where progress seems suspended. Dose. Ten drops in wine glass of warm water 3 times a day after meals. (Burnett). Sarcolactic acid (influenza with violent vomiting).", 
+  "Modalities": [
+    "Worse: wet weather", 
+    "Worse: after midnight; from cold", 
+    "Worse: drinks", 
+    "Worse: or food"
+  ], 
   "symptoms": {
     "Urine": [
       "Bladder as if paralyzed", 
@@ -136,12 +142,6 @@
       "Dilatation", 
       "Pulse more rapid in morning", 
       "Cyanosis"
-    ], 
-    "Modalities": [
-      "Worse: wet weather", 
-      "Worse: after midnight; from cold", 
-      "Worse: drinks", 
-      "Worse: or food"
     ], 
     "Mind": [
       "Great fear, with cold sweat", 

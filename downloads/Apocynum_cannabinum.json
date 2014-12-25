@@ -1,6 +1,9 @@
 {
   "name": "Apocynum cannabinum", 
   "Relationship": "CYMARIN is the active principle of Apocyn., lowers pulse rate and increases blood-pressure. STROPHANTHUS (extreme cardiac depression with intense gastric disturbance; dropsy). ARALIA HISPIDA - Wild Elder - a valuable diuretic, useful in dropsy of the cavities, either due to hepatic or renal disease with constipation. Urinary disorders, especially with dropsy. Scudder advises doses of five to thirty drops in sweetened cream of tartar, Solution). APIS.; ARSENIC; DIGITAL.; HELL.", 
+  "Modalities": [
+    "Worse: cold weather; cold drinks; uncovering"
+  ], 
   "symptoms": {
     "Heart": [
       "Tricuspid regurgitation; rapid and feeble, irregular cardiac action, low arterial tension, pulsating jugulars, general cyanosis and general dropsy"
@@ -29,9 +32,6 @@
       "Little expulsive power", 
       "Turbid, hot urine, with thick mucus and burning in urethra, after urinating", 
       "Renal dropsy"
-    ], 
-    "Modalities": [
-      "Worse: cold weather; cold drinks; uncovering"
     ], 
     "Mind": [
       "Bewildered", 

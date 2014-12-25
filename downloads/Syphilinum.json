@@ -1,6 +1,15 @@
 {
   "name": "Syphilinum", 
   "Relationship": "Compare: MERC.; KAL. HYD.; NIT-AC.; AUR.; ALUM", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: sundown to sunrise", 
+    "Worse: seashore", 
+    "Worse: in summer", 
+    "Better: inland and mountains", 
+    "Better: during day", 
+    "Better: moving about slowly"
+  ], 
   "symptoms": {
     "Eyes": [
       "Feeling of cold air blowing on eye", 
@@ -21,15 +30,6 @@
       "Feels tied up with strictures", 
       "Fissures, prolapse", 
       "Enemas very painful"
-    ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: sundown to sunrise", 
-      "Worse: seashore", 
-      "Worse: in summer", 
-      "Better: inland and mountains", 
-      "Better: during day", 
-      "Better: moving about slowly"
     ], 
     "Mind": [
       "Loss of memory; remembers everything previous to his illness", 

@@ -1,6 +1,9 @@
 {
   "name": "Croton tiglium", 
   "Relationship": "Antidote: ANT. TART.Compare: MOMORDICA CHARANTIA - Hairy mordica - (has marked drastic properties, producing colic, nausea, vomiting, cholera-like symptoms, abdomen seems full of fluid discharged explosively, thin, watery, yellow. Great thirst). RHUS; ANAGALLIS; ANACARD.; SEPIA.", 
+  "Modalities": [
+    "Worse: "
+  ], 
   "symptoms": {
     "Eyes": [
       "Granular lids; pustules of cornea", 
@@ -15,9 +18,6 @@
     "Urine": [
       "Night urine foaming; dark orange color; turbid on standing; greasy particles floating on top", 
       "Day urine is pale, with white sediment"
-    ], 
-    "Modalities": [
-      "Worse: "
     ], 
     "Stool": [
       "Constant urging to stool, followed by sudden evacuation", 

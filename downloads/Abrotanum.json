@@ -1,6 +1,11 @@
 {
   "name": "Abrotanum", 
   "Relationship": "Compare: Scrophularia; Bryonia; Stellaria; Benzoic acid, in gout. Iodine, Nat-m. in marasmus.", 
+  "Modalities": [
+    "Worse: cold air", 
+    "Worse: checked secretions", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Raw feeling", 
@@ -17,11 +22,6 @@
       "Appetite good, but emaciation progresses", 
       "Indigestion, with vomiting of large quantities of offensive fluid", 
       "Stomach feels as if swimming in water; feels cold"
-    ], 
-    "Modalities": [
-      "Worse: cold air", 
-      "Worse: checked secretions", 
-      "Better: motion"
     ], 
     "Mind": [
       "Cross, irritable, anxious, depressed"

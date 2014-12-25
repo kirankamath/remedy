@@ -1,6 +1,19 @@
 {
   "name": "Staphisagria", 
   "Relationship": "Compare: FERRUM PYROPHOS. (tarsal cysts); COLOCY.; CAUST.; IGN.; PHOS-AC.; CALAD.Inimical: RANUNC. BULB.Complementary: CAUST.; COLOCY.Antidote: CAMPH.", 
+  "Modalities": [
+    "Worse: anger", 
+    "Worse: indignation", 
+    "Worse: grief", 
+    "Worse: mortification", 
+    "Worse: loss of fluids", 
+    "Worse: onanism", 
+    "Worse: sexual excesses", 
+    "Worse: tobacco; least touch on affected parts", 
+    "Better: after breakfast", 
+    "Better: warmth", 
+    "Better: rest at night"
+  ], 
   "symptoms": {
     "Eyes": [
       "Heat in eyeballs, dims spectacles", 
@@ -36,19 +49,6 @@
       "Urging and pain after urinating", 
       "Prostatic troubles; frequent urination, burning in urethra when not urinating", 
       "Ineffectual urging to urinate in newly married women"
-    ], 
-    "Modalities": [
-      "Worse: anger", 
-      "Worse: indignation", 
-      "Worse: grief", 
-      "Worse: mortification", 
-      "Worse: loss of fluids", 
-      "Worse: onanism", 
-      "Worse: sexual excesses", 
-      "Worse: tobacco; least touch on affected parts", 
-      "Better: after breakfast", 
-      "Better: warmth", 
-      "Better: rest at night"
     ], 
     "Mind": [
       "Child cries for many things, and refuses them when offered", 

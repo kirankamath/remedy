@@ -1,6 +1,12 @@
 {
   "name": "Aranea diadema", 
   "Relationship": "ARANEA SCINENCIA - Grey Spider - (constant twitching of under eyelids. Sleepiness. Worse in warm room.)TELA ARANEARUM - Spider's web. - (Cardiac sleeplessness, increased muscular energy. Excitement and nervous agitation in febrile states. Dry asthma, harassing coughs; periodic headaches with EXTREME NERVOUS ERETHISM. OBSTINATE INTERMITTENTS. Acts immediately on arterial system, pulse full, strong, compressible. Lowers pulse rate frequency. Masked periodical diseases, hectic, broken down patients. Symptoms come on SUDDENLY with cool, CLAMMY skin. Numbness of hands and legs when at rest. CONTINUED CHILLINESS.", 
+  "Modalities": [
+    "Worse: damp weather", 
+    "Worse: late in afternoon", 
+    "Worse: and at midnight", 
+    "Better: smoking tobacco"
+  ], 
   "symptoms": {
     "Head": [
       "Pain in right trifacial nerve from periphery inwards", 
@@ -14,12 +20,6 @@
     ], 
     "Stomach": [
       "Cramps after eating a little; epigastrium painful to pressure"
-    ], 
-    "Modalities": [
-      "Worse: damp weather", 
-      "Worse: late in afternoon", 
-      "Worse: and at midnight", 
-      "Better: smoking tobacco"
     ], 
     "Chest": [
       "Pain in intercostal nerve from nerve endings to spine", 

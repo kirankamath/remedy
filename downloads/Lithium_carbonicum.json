@@ -1,6 +1,11 @@
 {
   "name": "Lithium carbonicum", 
   "Relationship": "Compare: LYC.; AMMON. PHOS.; BENZ-AC.; CALC.; LITHIUM CHLOR. (symptoms of cinchonism, viz.: DIZZY head, full, BLURRING OF VISION. Ringing in ears; marked tremors; GENERAL WEAKNESS; marked muscular and general prostration; no gastrointestinal effects. Nose sore, heartburn, pain in teeth). LITHIUM LACTICUM (rheumatism of shoulder, and small joints relieved by moving about; worse, resting). LITHIUM BENZOICUM (deep-seated pains in loins; in small of back; uneasiness in bladder. Cystic irritation. Gallstones. Frequent desire. Diminishing uric acid deposit). LITHIUM BROMATUM (cerebral congestion, threatened apoplexy, insomnia and epilepsy).", 
+  "Modalities": [
+    "Worse: in morning", 
+    "Worse: right side", 
+    "Better: rising and moving about"
+  ], 
   "symptoms": {
     "Heart": [
       "Sudden shock in heart", 
@@ -25,11 +30,6 @@
     "Stomach": [
       "Acidity, nausea, gnawing, relieved by eating", 
       "Cannot endure slightest pressure of clothes"
-    ], 
-    "Modalities": [
-      "Worse: in morning", 
-      "Worse: right side", 
-      "Better: rising and moving about"
     ], 
     "Urine": [
       "Pain in region of right kidney", 

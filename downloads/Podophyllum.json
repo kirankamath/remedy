@@ -1,6 +1,11 @@
 {
   "name": "Podophyllum", 
   "Relationship": "Compare: MANDRAGORA - also called mandrake - (must not be confounded with PODOPH. Great desire for sleep; exaggeration of sounds and enlarged vision. Bowels inactive; stools large, white and hard). ALOE; CHELID.; MERC.; NUX; SULPH. PRUNELLA - Self-heal - (Colitis).", 
+  "Modalities": [
+    "Worse: in early morning", 
+    "Worse: in hot weather", 
+    "Worse: during dentition"
+  ], 
   "symptoms": {
     "Head": [
       "Child perspires on head during sleep", 
@@ -29,11 +34,6 @@
       "Cholera infantum and morbus", 
       "Constipation; clay-colored, hard, dry, difficult", 
       "Morning, painless diarrhoea when not due to venous stasis or intestinal ulceration"
-    ], 
-    "Modalities": [
-      "Worse: in early morning", 
-      "Worse: in hot weather", 
-      "Worse: during dentition"
     ], 
     "Mind": [
       "Loquacity and delirium from eating acid fruits", 

@@ -1,6 +1,17 @@
 {
   "name": "Cocculus", 
   "Relationship": "Compare: PICROTOXIN - alkaloid of Cocculus - (epilepsy, attacks in the morning on leaving horizontal position, hernia, locomotor ataxia, night-sweats); SYMPHORICARPUS (morning sickness); PETROL.; PULS.; IGNAT.Antidotes: COFFEE, NUX.", 
+  "Modalities": [
+    "Worse: eating", 
+    "Worse: after loss of sleep", 
+    "Worse: open air", 
+    "Worse: smoking", 
+    "Worse: riding", 
+    "Worse: swimming", 
+    "Worse: touch", 
+    "Worse: noise", 
+    "Worse: jar; afternoon"
+  ], 
   "symptoms": {
     "Head": [
       "Sense of emptiness in head", 
@@ -31,17 +42,6 @@
       "Cramp in stomach during and after meal", 
       "Nausea from riding in cars, boat, etc., or looking at boat in motion; worse on becoming cold or taking cold", 
       "Hiccough and spasmodic yawning"
-    ], 
-    "Modalities": [
-      "Worse: eating", 
-      "Worse: after loss of sleep", 
-      "Worse: open air", 
-      "Worse: smoking", 
-      "Worse: riding", 
-      "Worse: swimming", 
-      "Worse: touch", 
-      "Worse: noise", 
-      "Worse: jar; afternoon"
     ], 
     "Mind": [
       "Very anxious about the health of others", 

@@ -1,6 +1,13 @@
 {
   "name": "Camphora", 
   "Relationship": "Camphor antidotes or modifies the action of nearly every vegetable medicine - tobacco, opium, worm medicines, etc. Luffa actangula (whole body ice-cold, with a restlessness and anxiety; burning thirst). Camphoric acid - (a prophylactic against catheter fever; cystitis 15 grains three times a day; also for prevention of night sweats).Complementary: Canth.Incompatible: Kali-nit.Antidotes: Opium; Nit. sp. Dulc.; Phos.Compare: Carbo; Cuprum; Arsenic; Verat.", 
+  "Modalities": [
+    "Worse: motion", 
+    "Worse: night", 
+    "Worse: contact", 
+    "Worse: cold air", 
+    "Better: warmth"
+  ], 
   "symptoms": {
     "Eyes": [
       "Fixed, staring; pupils dilated", 
@@ -18,13 +25,6 @@
     "Stomach": [
       "Pressive pain in pit of stomach", 
       "Coldness, followed by burning"
-    ], 
-    "Modalities": [
-      "Worse: motion", 
-      "Worse: night", 
-      "Worse: contact", 
-      "Worse: cold air", 
-      "Better: warmth"
     ], 
     "Urine": [
       "Retention with full bladder", 

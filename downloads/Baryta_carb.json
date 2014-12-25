@@ -1,6 +1,10 @@
 {
   "name": "Baryta carb", 
   "Relationship": "Compare: Digitalis; Radium; Aragallus; Oxtrop; Astrag. Complementary: Dulc.; Silica; Psorin. Incompatible: Calc. Antidote for poisonous doses: Epsom salts.", 
+  "Modalities": [
+    "Worse: while thinking of symptoms; from washing; lying on painful side", 
+    "Better: walking in open air"
+  ], 
   "symptoms": {
     "Urine": [
       "Every time patient urinates, his piles come down", 
@@ -85,10 +89,6 @@
       "Cardiac symptoms after suppressed foot-sweat", 
       "Aneurism", 
       "Palpitation when lying on left side, when thinking of it especially; pulse full and hard"
-    ], 
-    "Modalities": [
-      "Worse: while thinking of symptoms; from washing; lying on painful side", 
-      "Better: walking in open air"
     ], 
     "Mind": [
       "Lost confidence in himself", 

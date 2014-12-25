@@ -1,15 +1,15 @@
 {
   "name": "Mygale lasiodora", 
   "Relationship": "Compare: AGAR.; TARENT.; CUPR.; ZIZIA.", 
+  "Modalities": [
+    "Worse: in morning", 
+    "Better: during sleep"
+  ], 
   "symptoms": {
     "Stomach": [
       "Aversion to food", 
       "Excessive thirst", 
       "Nausea, with dim sight"
-    ], 
-    "Modalities": [
-      "Worse: in morning", 
-      "Better: during sleep"
     ], 
     "Mind": [
       "Delirious, restless, sad; fears death; despondent"

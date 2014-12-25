@@ -1,17 +1,17 @@
 {
-  "Natural History": "FleabaneLeptilon Canadense", 
+  "name": "Erigeron", 
+  "Relationship": "Terebinthina similar.", 
+  "Modalities": [
+    "Worse: left side"
+  ], 
   "symptoms": {
     "Female": [
       "Bright-red flow", 
       "Metrorrhagia, with violent irritation of rectum and bladder, and prolapsus uteri", 
       "Menorrhagia; profuse leucorrhoea; bloody lochia returns after least motion, comes in gushes; between periods, leucorrhoea with urinary irritation; pregnant women with weak uterus; a bloody discharge on slight exertion", 
       "Bleeding hemorrhoids; nosebleed instead of menses"
-    ], 
-    "Modalities": [
-      "Worse: left side"
     ]
   }, 
-  "name": "Erigeron", 
-  "Relationship": "Terebinthina similar.", 
-  "details": "Hemorrhages are caused and cured by this remedy. Persistent hemorrhage from the bladder. Hemorrhage from the uterus, with painful micturition. PROFUSE BRIGHT-RED BLOOD. Pain in left ovary and hip. Chronic gonorrhea, with burning micturition; continual dribbling. DYSENTERY, with soreness and burning in bladder. TYMPANITES."
+  "details": "Hemorrhages are caused and cured by this remedy. Persistent hemorrhage from the bladder. Hemorrhage from the uterus, with painful micturition. PROFUSE BRIGHT-RED BLOOD. Pain in left ovary and hip. Chronic gonorrhea, with burning micturition; continual dribbling. DYSENTERY, with soreness and burning in bladder. TYMPANITES.", 
+  "Natural History": "FleabaneLeptilon Canadense"
 }

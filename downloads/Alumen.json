@@ -1,6 +1,9 @@
 {
-  "Natural History": "Common Potash Alum", 
-  "details": "The clinical application of this remedy points to its bowel symptoms, both in obstinate constipation and in hemorrhage from bowels in the course of typhoid - one phase of the PARALYTIC WEAKNESS of the muscles in all parts of the body. Tendency to INDURATION is also marked, a low form of tissue-making is favored. Hardening of tissues of tongue, rectum, uterus, etc.; ulcers with indurated base. Adapted to old people, especially bronchial catarrhs. SENSATION OF DRYNESS AND CONSTRICTION. Mental paresis; dysphagia especially to liquids. Tendency to induration, Scirrhus of the tongue.", 
+  "name": "Alumen", 
+  "Modalities": [
+    "Worse: cold except headache", 
+    "Worse: which is relieved by cold"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation, from lying down on right side"
@@ -26,10 +29,6 @@
       "Long lasting pain and smarting in rectum after stool; also hemorrhoids", 
       "Marble-like masses pass, but rectum still feels full", 
       "No desire to stool for days"
-    ], 
-    "Modalities": [
-      "Worse: cold except headache", 
-      "Worse: which is relieved by cold"
     ], 
     "Female": [
       "Menses watery", 
@@ -62,6 +61,7 @@
       "Weakness of all muscles, especially arms and legs"
     ]
   }, 
-  "name": "Alumen", 
+  "details": "The clinical application of this remedy points to its bowel symptoms, both in obstinate constipation and in hemorrhage from bowels in the course of typhoid - one phase of the PARALYTIC WEAKNESS of the muscles in all parts of the body. Tendency to INDURATION is also marked, a low form of tissue-making is favored. Hardening of tissues of tongue, rectum, uterus, etc.; ulcers with indurated base. Adapted to old people, especially bronchial catarrhs. SENSATION OF DRYNESS AND CONSTRICTION. Mental paresis; dysphagia especially to liquids. Tendency to induration, Scirrhus of the tongue.", 
+  "Natural History": "Common Potash Alum", 
   "dosage": "First to thirtieth potency. The very highest potencies have proved efficacious. Powdered alum, 10 grains, placed on tongue, said to arrest an attack of asthma."
 }

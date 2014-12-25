@@ -1,6 +1,13 @@
 {
   "name": "Bromium", 
   "Relationship": "Antidotes: Ammon. carb.; Camph. Salt inhibits the action of Brom.Compare: Conium; Spongia; Iod.; Aster.; Arg. nit. Avoid milk when taking Brom. Hydrobromic acid. (Throat dry and puckering; constriction in pharynx and chest; waves of heat over face and neck; pulsating tinnitus with great nervous irritability (Houghton); vertigo, palpitation; arms heavy; seemed as if parts did not belong to him. Seems to have a specific effect on the inferior cervical ganglion, increasing the tonic action of the sympathetic, thus promoting vasoconstriction. Relieves headache, tinnitus and vertigo, especially in vasomotor stomach disturbance. Dose, 20 minims.)", 
+  "Modalities": [
+    "Worse: from evening", 
+    "Worse: until midnight", 
+    "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side", 
+    "Better: from any motion; exercise", 
+    "Better: at sea"
+  ], 
   "symptoms": {
     "Head": [
       "Megrim of left side; worse stooping, especially after drinking milk", 
@@ -26,13 +33,6 @@
       "Spasmodic cough, with rattling of mucus in the larynx; suffocative", 
       "Chest pains run upward", 
       "Laryngeal diphtheria, membrane begins in larynx and spreads upward"
-    ], 
-    "Modalities": [
-      "Worse: from evening", 
-      "Worse: until midnight", 
-      "Worse: and when sitting in warm room; warm damp weather when at rest and lying left side", 
-      "Better: from any motion; exercise", 
-      "Better: at sea"
     ], 
     "Nose": [
       "Pressure at root of nose", 

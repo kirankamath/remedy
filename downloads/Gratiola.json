@@ -1,6 +1,9 @@
 {
   "name": "Gratiola", 
   "Relationship": "Compare: DIG.; EUPH.; TAB.; CHAM.; AMMON. PIC.; NUX-VOM.", 
+  "Modalities": [
+    "Worse: drinking too much water"
+  ], 
   "symptoms": {
     "Head": [
       "Eyes dry, burn", 
@@ -15,9 +18,6 @@
       "Dysphagia for liquids", 
       "Cramps and colic after supper and during night, with swelling of abdomen and constipation", 
       "Vertigo during and after meals; hunger and feeling of emptiness after meals"
-    ], 
-    "Modalities": [
-      "Worse: drinking too much water"
     ], 
     "Stool": [
       "Rectum constricted", 

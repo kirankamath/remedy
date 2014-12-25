@@ -1,6 +1,11 @@
 {
   "name": "Eupatorium perfoliatum", 
   "Relationship": "Compare: Bryon.; Sepia.; nat. mur.; Chelidonium. Nyctanthes arbor-tristis (bilious fever; insatiable thirst; bitter vomiting at close of chill; also constipation of children).", 
+  "Modalities": [
+    "Worse: periodically", 
+    "Better: by conversation", 
+    "Better: by getting on hands and knees"
+  ], 
   "symptoms": {
     "Head": [
       "Vertigo; sensation of falling to left", 
@@ -26,11 +31,6 @@
       "Avoids tight clothing", 
       "Vomiting preceded by thirst", 
       "Great thirst"
-    ], 
-    "Modalities": [
-      "Worse: periodically", 
-      "Better: by conversation", 
-      "Better: by getting on hands and knees"
     ], 
     "Stool": [
       "Cramps", 

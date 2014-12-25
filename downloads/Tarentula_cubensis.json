@@ -1,6 +1,10 @@
 {
   "name": "Tarentula cubensis", 
   "Relationship": "Compare: ARS.; PYROG.; CROTAL.; ECHIN.; ANTHRAC.; BELLAD.; APIS.", 
+  "Modalities": [
+    "Worse: night", 
+    "Better: smoking"
+  ], 
   "symptoms": {
     "Gastric": [
       "Stomach feels hard, sore", 
@@ -10,10 +14,6 @@
       "Dizziness after heat and hot perspiration", 
       "Shooting pain through left eye across frontal region", 
       "Dull ache on top of head"
-    ], 
-    "Modalities": [
-      "Worse: night", 
-      "Better: smoking"
     ], 
     "Urine": [
       "Cannot hold urine on coughing", 

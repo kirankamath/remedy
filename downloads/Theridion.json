@@ -1,6 +1,8 @@
 {
-  "Natural History": "Orange-spider", 
-  "details": "Nervous hyperaesthesia. Has affinity for the tubercular diathesis. Vertigo, sick headache, peculiar pain around heart region, phthisis florida, scrofula have all been treated successfully with this remedy. SENSITIVE TO NOISE; IT PENETRATES THE BODY, ESPECIALLY TEETH. Noises seem to strike on painful spots over the body. Rachitis, caries, necrosis. Phthisis, stitch high up in left apex. (ANTHRAX.) Where the indicated remedy does not hold long.", 
+  "name": "Theridion", 
+  "Modalities": [
+    "Worse: touch; pressure; on shipboard; riding in carriage; closing eyes; jar; noise; coitus; left side"
+  ], 
   "symptoms": {
     "Eyes": [
       "Throbbing over left eye", 
@@ -23,9 +25,6 @@
       "Pain worse anyone walking over floor", 
       "Vertigo, with nausea and vomiting on least motion, particularly when closing eyes"
     ], 
-    "Modalities": [
-      "Worse: touch; pressure; on shipboard; riding in carriage; closing eyes; jar; noise; coitus; left side"
-    ], 
     "Mind": [
       "Restless; finds pleasure in nothing", 
       "Time passes too quickly"
@@ -43,6 +42,7 @@
       "Itching sensations"
     ]
   }, 
-  "name": "Theridion", 
+  "details": "Nervous hyperaesthesia. Has affinity for the tubercular diathesis. Vertigo, sick headache, peculiar pain around heart region, phthisis florida, scrofula have all been treated successfully with this remedy. SENSITIVE TO NOISE; IT PENETRATES THE BODY, ESPECIALLY TEETH. Noises seem to strike on painful spots over the body. Rachitis, caries, necrosis. Phthisis, stitch high up in left apex. (ANTHRAX.) Where the indicated remedy does not hold long.", 
+  "Natural History": "Orange-spider", 
   "dosage": "Thirtieth potency."
 }

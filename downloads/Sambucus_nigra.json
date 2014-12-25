@@ -1,6 +1,12 @@
 {
-  "Natural History": "Elder", 
-  "details": "Acts especially on the respiratory organs. Dry coryza of infants, snuffles, edematous swellings. PROFUSE SWEAT accompanies many affections.", 
+  "name": "Sambucus nigra", 
+  "Modalities": [
+    "Worse: sleep", 
+    "Worse: during rest", 
+    "Worse: after eating fruit", 
+    "Better: sitting up in bed", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Child awakes suddenly, nearly suffocating, sits up, turns blue", 
@@ -14,13 +20,6 @@
       "Cannot expire", 
       "Chest oppressed with pressure in stomach, and nausea", 
       "Sniffles of infants; nose dry and obstructed"
-    ], 
-    "Modalities": [
-      "Worse: sleep", 
-      "Worse: during rest", 
-      "Worse: after eating fruit", 
-      "Better: sitting up in bed", 
-      "Better: motion"
     ], 
     "Urine": [
       "Acute nephritis; dropsical symptoms, with vomiting", 
@@ -58,6 +57,7 @@
       "Turns blue with cough"
     ]
   }, 
-  "name": "Sambucus nigra", 
+  "details": "Acts especially on the respiratory organs. Dry coryza of infants, snuffles, edematous swellings. PROFUSE SWEAT accompanies many affections.", 
+  "Natural History": "Elder", 
   "dosage": "Tincture, to sixth potency."
 }

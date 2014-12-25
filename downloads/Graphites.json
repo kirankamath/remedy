@@ -1,6 +1,13 @@
 {
   "name": "Graphites", 
   "Relationship": "Complementary: ARGENT. NIT. (follows well in gastric derangements); CAUSTIC.; HEP.; LYCOP.; ARS.; TUBERC.Compare: PETROL.; SEP.; SULPH.; FLUOR-AC. The associated constipation with mucus-covered stools and gastric flatulency should be taken into consideration and differentiate it from such remedies as PETOL. and LYCOP. (Raue.)Antidote: NUX.; ACON.; ARS.", 
+  "Modalities": [
+    "Worse: warmth", 
+    "Worse: at night", 
+    "Worse: during and after menstruation", 
+    "Better: in the dark", 
+    "Better: from wrapping up"
+  ], 
   "symptoms": {
     "Urine": [
       "Turbid, with sediment", 
@@ -92,13 +99,6 @@
       "Hissing in the ears", 
       "Hardness of hearing", 
       "Fissures in and behind the ear"
-    ], 
-    "Modalities": [
-      "Worse: warmth", 
-      "Worse: at night", 
-      "Worse: during and after menstruation", 
-      "Better: in the dark", 
-      "Better: from wrapping up"
     ], 
     "Mind": [
       "Fidgety while sitting at work", 

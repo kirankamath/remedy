@@ -1,6 +1,12 @@
 {
   "name": "Tuberculinum", 
   "Relationship": "Complementary: CALCAREA; CHINA; BRY.Compare: KOCH'S LYMPH (ACUTE AND CHRONIC PARENCHYMATOUS NEPHRITIS; produces pneumonia, bronchopneumonia, and congestion of the lungs in tuberculous patients, and is a remarkably efficacious remedy in lobular pneumonia - BRONCHOPNEUMONIA); AVIARE - Tuberculin from birds - (acts on the apices of the lungs; has proved an excellent remedy in influenzal bronchitis; symptoms similar to tuberculosis; relieves the debility, diminishes the cough, improves the appetite, and braces up the whole organism; acute bronchopulmonary diseases of children; itching of palms and ears; COUGH, acute, inflammatory, irritating, incessant, and tickling; loss of strength and appetite); HYDRAST. (to fatten patients after Tuberc.); FORMIC ACID (tuberculosis, chronic nephritis, malignant tumors; pulmonary tuberculosis, not in third stage, however; lupus; carcinoma of breast and stomach; Dr. Krull uses injections of solutions corresponding to the third centesimal potency; these must not be repeated before six months). Compare: BACIL.; PSORIN.; LACH. KALAGUA (tuberculosis; garlicky odor of all secretions and breath). TEUCRIUM SCORADONIA. Compare: THUJA. (Vaccinosis may block the way of action of TUBERCULIN until Thuja has been given and then acts brilliantly. (Burnett.)", 
+  "Modalities": [
+    "Worse: motion", 
+    "Worse: music; before a storm; standing; dampness; from draft; early morning", 
+    "Worse: and after sleep", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Head": [
       "Meningitis", 
@@ -22,12 +28,6 @@
       "Desire for cold milk", 
       "Aversion to meat", 
       "All-gone, hungry sensation"
-    ], 
-    "Modalities": [
-      "Worse: motion", 
-      "Worse: music; before a storm; standing; dampness; from draft; early morning", 
-      "Worse: and after sleep", 
-      "Better: open air"
     ], 
     "Mind": [
       "Depressed, melancholy", 

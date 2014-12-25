@@ -1,14 +1,14 @@
 {
   "name": "Equisetum", 
   "Relationship": "Compare: HYDRANGEA; FERR. PHOS.; APIS; CANTH.; LINARIA; CHIMAPH. Equisetum contains silica in appreciable quantity.", 
+  "Modalities": [
+    "Worse: right side; movement", 
+    "Worse: pressure", 
+    "Worse: touch", 
+    "Worse: sitting down;", 
+    "Better: in afternoon from lying down"
+  ], 
   "symptoms": {
-    "Modalities": [
-      "Worse: right side; movement", 
-      "Worse: pressure", 
-      "Worse: touch", 
-      "Worse: sitting down;", 
-      "Better: in afternoon from lying down"
-    ], 
     "Urine": [
       "Involuntary urination", 
       "Severe, dull pain and feeling of fullness in bladder, not relieved by urinating", 

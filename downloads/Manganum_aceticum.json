@@ -1,6 +1,11 @@
 {
   "name": "Manganum aceticum", 
   "Relationship": "Compare: COLLOIDAL MANGANESE (Boils and other staphylococcal infections); MANGAN, MUR. (painful ankles, bone-pains); MANGAN OXYDAT. (pain in tibia, dysmenorrhoea, colic and diarrhoea. Easily fatigued and heated; sleepy. Stolid, mask-like facies; low monotonous voice Economical Speech. Muscular twitching, cramps in calves; stiff leg muscles; occasional uncontrollable laughter. Peculiar slapping gait. Similar symptoms to paralysis agitans, progressive lenticular degenerations and pseudo sclerosis. Workers in Managa. binoxide are frequently affected with bulbar paralysis. Use 3X homeopathically.) MANGAN. SULPH. (liver affections, excess of bile; a powerful intestinal stimulant); ARGENT.; RHUS.; SULPH.Antidotes: COFF.; MERC.", 
+  "Modalities": [
+    "Worse: cold wet weather", 
+    "Worse: change of weather", 
+    "Better: lying down"
+  ], 
   "symptoms": {
     "Head": [
       "Field of vision contracted", 
@@ -18,11 +23,6 @@
       "Larynx dry, rough, constricted", 
       "Cough; worse evening, and better lying down and worse in damp weather", 
       "Chronic hoarseness"
-    ], 
-    "Modalities": [
-      "Worse: cold wet weather", 
-      "Worse: change of weather", 
-      "Better: lying down"
     ], 
     "Nose": [
       "Dry, obstructed", 

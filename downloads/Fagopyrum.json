@@ -1,6 +1,12 @@
 {
   "name": "Fagopyrum", 
   "Relationship": "Compare: DOLICHOS; BOVISTA; URTICA.", 
+  "Modalities": [
+    "Better: cold water", 
+    "Better: coffee; worse", 
+    "Better: in afternoon; from sunlight", 
+    "Better: scratching"
+  ], 
   "symptoms": {
     "Heart": [
       "Pain around heart, better lying on back, extending to left shoulder and arm", 
@@ -17,12 +23,6 @@
       "Eructations of scalding, hot, acid, watery substance; better, coffee", 
       "Drooling", 
       "Bad taste in the morning"
-    ], 
-    "Modalities": [
-      "Better: cold water", 
-      "Better: coffee; worse", 
-      "Better: in afternoon; from sunlight", 
-      "Better: scratching"
     ], 
     "Head": [
       "Inability to study or remember", 

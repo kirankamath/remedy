@@ -1,6 +1,10 @@
 {
   "name": "Cinchona officinalis", 
   "Relationship": "Compare: QUINIDINE - (Paroxysmal tachycardia and AURICULAR FIBRILLATION. Heart is slowed, and the auriculoventricular conduction time is lengthened. Dose 1/2 grain t.i.d. CEPHALANTHUS - Button Bush - Intermittent fever, sore throat, rheumatic symptoms, vivid dreams). ARS.; CEDRON.; NAT-SULPH. CYDONIA VULGARIS - Quince (supposed to be of use to strengthen the sexual organs and stomach).Complementary: FERRUM; CALC. PHOS.Antidotes: ARN.; ARS.; NUX; IPEC.", 
+  "Modalities": [
+    "Worse: slightest touch", 
+    "Better: bending double; hard pressure; open air; warmth"
+  ], 
   "symptoms": {
     "Stool": [
       "Difficult even when soft", 
@@ -104,10 +108,6 @@
     "Heart": [
       "Irregular with weak rapid beats followed by strong, heart beats", 
       "Suffocative attacks, syncope; anaemia and dropsy"
-    ], 
-    "Modalities": [
-      "Worse: slightest touch", 
-      "Better: bending double; hard pressure; open air; warmth"
     ], 
     "Mind": [
       "Disposition to hurt other peoples' feelings", 

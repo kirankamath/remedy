@@ -1,6 +1,12 @@
 {
   "name": "Chloralum", 
   "Relationship": "Antidotes: Ammon.; Atro.; Dig.; Mosch.Compare: Bell.; Opium; Apis; Verona - (a dangerous drug made by the action of alcohol upon urea and contains the same radical that alcohol does. Makes a man just as drunk as pure alcohol. Staggers, cannot stand up. (Dr. Barney.) (Confluent, reddish spots; dermatitis, itching of glans and prepuce; circumscribed dermatitis patch on first metacarpal phalangeal joint.) Luminal - (Sleeplessness with skin symptoms in migraine; lethargy like epidemic encephalitis). (Dr. Royal.)", 
+  "Modalities": [
+    "Worse: after hot drinks", 
+    "Worse: stimulants", 
+    "Worse: eating", 
+    "Worse: night"
+  ], 
   "symptoms": {
     "Eyes": [
       "Eyes blood-shot and watery", 
@@ -12,12 +18,6 @@
     "Respiratory": [
       "Extreme dyspnoea, with sensation of weight and constriction of chest", 
       "Asthma, with sleeplessness"
-    ], 
-    "Modalities": [
-      "Worse: after hot drinks", 
-      "Worse: stimulants", 
-      "Worse: eating", 
-      "Worse: night"
     ], 
     "Head": [
       "Morning headache; worse in forehead, also in occiput, on motion; better in open air", 

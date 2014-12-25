@@ -1,6 +1,11 @@
 {
   "name": "Bufo", 
   "Relationship": "Compare: Baryt. carb.; Asterias; Salamand. (Epilepsy and softening of brain)Complementary: Salamandra.Antidotes: Laches.; Seneg.", 
+  "Modalities": [
+    "Worse: in warm room", 
+    "Worse: on awakening", 
+    "Better: from bathing or cold air; from putting feet in hot water"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation", 
@@ -11,11 +16,6 @@
     "Eyes": [
       "Cannot bear sight of brilliant objects", 
       "Little blisters form on eye"
-    ], 
-    "Modalities": [
-      "Worse: in warm room", 
-      "Worse: on awakening", 
-      "Better: from bathing or cold air; from putting feet in hot water"
     ], 
     "Mind": [
       "Howling; impatient; nervous; imbecile", 

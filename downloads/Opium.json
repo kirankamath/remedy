@@ -1,6 +1,12 @@
 {
   "name": "Opium", 
   "Relationship": "Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).", 
+  "Modalities": [
+    "Worse: heat", 
+    "Worse: during and after sleep", 
+    "Better: cold things", 
+    "Better: constant walking"
+  ], 
   "symptoms": {
     "Urine": [
       "Retained or involuntary, after fright", 
@@ -71,12 +77,6 @@
       "Red, bloated, swollen, dark suffused, hot", 
       "Veins of face distended", 
       "Distorted"
-    ], 
-    "Modalities": [
-      "Worse: heat", 
-      "Worse: during and after sleep", 
-      "Better: cold things", 
-      "Better: constant walking"
     ], 
     "Mind": [
       "Patient wants nothing", 

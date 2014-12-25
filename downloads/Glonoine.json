@@ -1,6 +1,15 @@
 {
   "name": "Glonoine", 
   "Relationship": "Antidote: ACON.Compare: AMYL. NIT.; BELLAD.; OPIUM; STRAM.; VERAT. VIR.", 
+  "Modalities": [
+    "Worse: in sun; exposure to sun-rays", 
+    "Worse: gas", 
+    "Worse: open fire; jar", 
+    "Worse: stooping", 
+    "Worse: having hair cut; peaches", 
+    "Worse: stimulants; lying down; from six am to noon; left side", 
+    "Better: brandy"
+  ], 
   "symptoms": {
     "Heart": [
       "Laborious action", 
@@ -39,15 +48,6 @@
       "Threatened apoplexy", 
       "Very irritable", 
       "Confusion, with dizziness"
-    ], 
-    "Modalities": [
-      "Worse: in sun; exposure to sun-rays", 
-      "Worse: gas", 
-      "Worse: open fire; jar", 
-      "Worse: stooping", 
-      "Worse: having hair cut; peaches", 
-      "Worse: stimulants; lying down; from six am to noon; left side", 
-      "Better: brandy"
     ], 
     "Abdomen": [
       "Diarrhoea; copious blackish, lumpy stools", 

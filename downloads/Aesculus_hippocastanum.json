@@ -1,6 +1,14 @@
 {
   "name": "Aesculus hippocastanum", 
   "Relationship": "AESCULUS GLABRA - Ohio-Buckeye Proctitis. Very painful, dark purple, external hemorrhoids, with constipation and vertigo and portal congestion. Speech thick, tickling in throat, impaired vision, paresis. PHYTOLACCA (throat dry, more often in acute cases.) NEGUNDIUM AMERICANUM - Box-elder - (Engorgements of rectum and piles with great pain, ten-drop dose of tincture every two hours.) Compare also: Aloe, Collinsonia. Nux-v. Sulphur.", 
+  "Modalities": [
+    "Worse: in morning on awaking", 
+    "Worse: and from any motion", 
+    "Worse: walking; from moving bowels; after eating", 
+    "Worse: afternoon", 
+    "Worse: standing", 
+    "Better: cool open air"
+  ], 
   "symptoms": {
     "Chest": [
       "Heart's action full and heavy, can feel pulsations all over", 
@@ -66,14 +74,6 @@
     ], 
     "Male": [
       "Discharge of prostatic fluid at stool"
-    ], 
-    "Modalities": [
-      "Worse: in morning on awaking", 
-      "Worse: and from any motion", 
-      "Worse: walking; from moving bowels; after eating", 
-      "Worse: afternoon", 
-      "Worse: standing", 
-      "Better: cool open air"
     ], 
     "Urine": [
       "Frequent, scant, dark, muddy, hot urine", 

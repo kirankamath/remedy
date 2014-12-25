@@ -1,6 +1,13 @@
 {
   "name": "Phosphorus", 
   "Relationship": "Antidote: Antidote to Phosph. Poisoning: TURPENTINE with which it forms an insoluble mass. Also POTASS PERMANG. NUX. PHOS. antidotes the nausea and vomiting of CHLOROFORM and ether.Complementary: ARS.; CEPA; LYC.; SILICA. SANGUISUGA 30 - Leech - (PERSISTENT HEMORRHAGES; effects of use of leeches.) PHOSPH. PENTACHLORIDE (great soreness of mucous membrane of EYES and nose, throat and chest sore).Compare: TUBERCULINUM follows PHOSPHOR well and complements its action. PHOSPHORUS HYDROGENATUS (crumbling teeth; hyperesthesia; locomotor ataxia); AMPHISBAENA (right jaw swollen and painful). THYMOL (Typical sexual neurasthenia; irritable stomach; aching throughout lumbar region; worse, mental and physical exertion); CALC.; CHIN.; ANTIM.; SEP.; LYC.; SULPH. In Pneumonia, Pneumococin 200 and Pneumotoxin (Cahis) taken from the Diplococcus lanceolatus of Fraenkel. Pneumonia and paralytic phenomena; pleuritic pain and pain in ilio-coecal region (Cartier).Incompatible: CAUST.", 
+  "Modalities": [
+    "Worse: touch; physical or mental exertion; twilight; warm food or drink; change of weather", 
+    "Worse: from getting wet in hot weather; evening; lying on left or painful side; during a thunder-storm; ascending stairs", 
+    "Better: in dark", 
+    "Better: lying on right side", 
+    "Better: cold food; cold; open air; washing with cold water; sleep"
+  ], 
   "symptoms": {
     "Urine": [
       "Hematuria, especially in acute bright's disease", 
@@ -146,13 +153,6 @@
       "Violent palpitation with anxiety, while lying on left side", 
       "Feeling of warmth in heart", 
       "Heart dilated, especially right"
-    ], 
-    "Modalities": [
-      "Worse: touch; physical or mental exertion; twilight; warm food or drink; change of weather", 
-      "Worse: from getting wet in hot weather; evening; lying on left or painful side; during a thunder-storm; ascending stairs", 
-      "Better: in dark", 
-      "Better: lying on right side", 
-      "Better: cold food; cold; open air; washing with cold water; sleep"
     ], 
     "Mind": [
       "Hypo-sensitive, indifferent", 

@@ -1,6 +1,10 @@
 {
   "name": "Carbo animalis", 
   "Relationship": "Antidotes: Ars.; Nux.Compare: Badiaga; Sepia; Sulph.; Plumb. iod.Complementary: Calc. phos.The Carbon group all have putrid discharges and exhalations. All act on the skin, causing intertrigo and excoriations. Glandular enlargements and catarrhal states, flatulency and asphyxiation. Carbon Tetrachloride is said to cause fatty liver. (Phosph.; Rs; Chloroform.) Paralysis of interosseus muscles of feet and hands. Wonderful clinical results in the treatment of Hook worm disease. See Thymol (Relationship).", 
+  "Modalities": [
+    "Worse: after shaving", 
+    "Worse: loss of animal fluids"
+  ], 
   "symptoms": {
     "Head": [
       "Vertigo followed by nose-bleed", 
@@ -26,10 +30,6 @@
       "Pyrosis", 
       "Weak, empty feeling in stomach", 
       "Weak digestion"
-    ], 
-    "Modalities": [
-      "Worse: after shaving", 
-      "Worse: loss of animal fluids"
     ], 
     "Mind": [
       "Desire to be alone, sad and reflective, avoids conversation", 

@@ -15,11 +15,6 @@
       "Stool accompanied by pain and straining", 
       "Bowels irregular"
     ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: fast walking", 
-      "Worse: going upstairs"
-    ], 
     "Back": [
       "Pain low down in back and extremities", 
       "Tired feeling and dull pain in small of back, worse walking", 
@@ -34,6 +29,11 @@
       "Perspiration on slight exertion"
     ]
   }, 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: fast walking", 
+    "Worse: going upstairs"
+  ], 
   "name": "Butyric acid", 
   "dosage": "Third attenuation."
 }

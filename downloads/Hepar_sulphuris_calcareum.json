@@ -1,6 +1,14 @@
 {
   "name": "Hepar sulphuris calcareum", 
   "Relationship": "Compare: ACON.; SPONGIA; STAPHIS.; SILICA; SULPH.; CALC. SULPH.; MYRISTICA. HEPAR antidotes bad effects from MERCURY, IODINE, POTASH, COD-LIVER OIL. Removes the weakening effects of ether.Antidotes: BELLAD.; CHAM.; SIL.", 
+  "Modalities": [
+    "Worse: from dry cold winds; cool air; slightest draft; from mercury", 
+    "Worse: touch; lying on painful side", 
+    "Better: in damp weather", 
+    "Better: from wrapping head up", 
+    "Better: from warmth", 
+    "Better: after eating"
+  ], 
   "symptoms": {
     "Urine": [
       "Bladder difficulties of old men", 
@@ -99,14 +107,6 @@
       "Scurfs on and behind the ears", 
       "Pustules in auditory canal and auricle", 
       "Mastoiditis"
-    ], 
-    "Modalities": [
-      "Worse: from dry cold winds; cool air; slightest draft; from mercury", 
-      "Worse: touch; lying on painful side", 
-      "Better: in damp weather", 
-      "Better: from wrapping head up", 
-      "Better: from warmth", 
-      "Better: after eating"
     ], 
     "Mind": [
       "The slightest cause irritates him", 

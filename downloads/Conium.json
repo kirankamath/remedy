@@ -1,6 +1,16 @@
 {
   "name": "Conium", 
   "Relationship": "Compare: SCIRRHINUM - Cancer nosode - (cancerous diathesis; enlarged glands; cancer of breast; worms); BARYT.; HYDRAST.; IOD.; KALI-PHOS.; HYOS.; CURARE.", 
+  "Modalities": [
+    "Worse: lying down", 
+    "Worse: turning or rising in bed; celibacy; before and during menses", 
+    "Worse: from taking cold", 
+    "Worse: bodily or mental exertion", 
+    "Better: while fasting", 
+    "Better: in the dark", 
+    "Better: from letting limbs hand down", 
+    "Better: motion and pressure"
+  ], 
   "symptoms": {
     "Urine": [
       "Interrupted discharge", 
@@ -59,16 +69,6 @@
     ], 
     "Ears": [
       "Defective hearing; discharge from ear blood colored"
-    ], 
-    "Modalities": [
-      "Worse: lying down", 
-      "Worse: turning or rising in bed; celibacy; before and during menses", 
-      "Worse: from taking cold", 
-      "Worse: bodily or mental exertion", 
-      "Better: while fasting", 
-      "Better: in the dark", 
-      "Better: from letting limbs hand down", 
-      "Better: motion and pressure"
     ], 
     "Mind": [
       "Excitement causes mental depression", 

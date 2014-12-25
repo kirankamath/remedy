@@ -1,6 +1,13 @@
 {
   "name": "Ferrum phosphoricum", 
   "Relationship": "Compare: (Oxygenoid Constitution. ACON.; CHINA; ARSENIC; GRAPHIT.; PETROL.) FERRUM PYROPHOSPH. (congestion of brain and headache following great loss of blood; tarsal cysts); ACON.; GELS.; CHINA.", 
+  "Modalities": [
+    "Worse: at night and 4 to six am; touch", 
+    "Worse: jar", 
+    "Worse: motion", 
+    "Worse: right side", 
+    "Better: cold applications"
+  ], 
   "symptoms": {
     "Eyes": [
       "Hyperaemia of optic disc and retina, with blurred vision", 
@@ -74,13 +81,6 @@
       "Short, quick, soft pulse", 
       "First stage of cardiac diseases", 
       "Palpitation; pulse rapid"
-    ], 
-    "Modalities": [
-      "Worse: at night and 4 to six am; touch", 
-      "Worse: jar", 
-      "Worse: motion", 
-      "Worse: right side", 
-      "Better: cold applications"
     ], 
     "Urine": [
       "Incontinence", 

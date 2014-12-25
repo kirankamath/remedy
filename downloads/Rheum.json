@@ -1,6 +1,11 @@
 {
   "name": "Rheum", 
   "Relationship": "Complementary: MAG. CARB.Antidotes: CAMPH.; CHAM.Compare: MAG. PHOS.; HEP.; POD.; CHAM.; IPEC.", 
+  "Modalities": [
+    "Worse: uncovering", 
+    "Worse: after eating", 
+    "Worse: moving about"
+  ], 
   "symptoms": {
     "Head": [
       "Cool sweat on the face, especially about mouth and nose", 
@@ -10,11 +15,6 @@
       "Feels full", 
       "Desire for various kinds of food, but soon tires of all", 
       "Throbbing in pit"
-    ], 
-    "Modalities": [
-      "Worse: uncovering", 
-      "Worse: after eating", 
-      "Worse: moving about"
     ], 
     "Mind": [
       "Impatient and vehement; desires many things and cries"

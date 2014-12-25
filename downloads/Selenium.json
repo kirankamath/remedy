@@ -1,6 +1,13 @@
 {
   "name": "Selenium", 
   "Relationship": "Antidotes: IGN.; PULS.Incompatible: CHINA; WINE.Compare: AGNUS; CALAD.; SULPHUR; TELLUR.; PHOS. ACID.", 
+  "Modalities": [
+    "Worse: after sleep", 
+    "Worse: in hot weather", 
+    "Worse: from cinchona", 
+    "Worse: draft of air", 
+    "Worse: coition"
+  ], 
   "symptoms": {
     "Head": [
       "Hair falls out", 
@@ -13,13 +20,6 @@
       "Sweetish taste", 
       "After eating, pulsation all over, especially abdomen", 
       "Desire for brandy and other strong drink"
-    ], 
-    "Modalities": [
-      "Worse: after sleep", 
-      "Worse: in hot weather", 
-      "Worse: from cinchona", 
-      "Worse: draft of air", 
-      "Worse: coition"
     ], 
     "Urine": [
       "Involuntary dribbling", 

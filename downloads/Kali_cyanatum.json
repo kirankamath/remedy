@@ -1,12 +1,12 @@
 {
   "name": "Kali cyanatum", 
   "Relationship": "Compare: PLATIN.; STANN.; CEDRON; MEZER.; MUR-AC.", 
+  "Modalities": [
+    "Worse: from four am to four pm"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Cough prevents sleep; respiration weak; cannot take deep breath"
-    ], 
-    "Modalities": [
-      "Worse: from four am to four pm"
     ], 
     "Face": [
       "Pain in orbital and supramaxillary region, with screaming and loss of consciousness", 

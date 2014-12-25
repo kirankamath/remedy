@@ -1,6 +1,13 @@
 {
   "name": "Plumbum metallicum", 
   "Relationship": "Antidotes: PLAT.; ALUM.; PETROL.Compare: PLUMB. ACET. (painful cramps in paralyzed limbs; severe pain and muscular cramps in gastric ulcer; locally, as an application (non-homeopathic) in moist eczema, and to dry up secretions from mucous surfaces. Care must be used, as sufficient lead can be absorbed to produce lead poison, one to two drams of the LIQUOR PLUMBI SUBACETATIS to the ounce of water; also in pruritus pudendi, equal parts of the LIQUOR PLUMBI AND GLYCERIN). PLUMB. JODAT. (Has been used empirically in various forms of paralysis, sclerotic degenerations, especially of spinal cord, atrophies, arteriosclerosis, pellagra. INDURATIONS OF MAMMARY GLANDS, ESPECIALLY WHEN A TENDENCY TO BECOME INFLAMED APPEARS; SORE AND PAINFUL. Indurations of great hardness and associated with a very dry skin. Lancinating pains of TABES.) Compare: ALUMINA; PLAT.; OPIUM; PODOPH.; MERC.; THAL. PLECTRANTHUS (paralysis, spastic, spinal form); PLUMB. CHROMICUM (convulsions, with terrible pains; pupils greatly dilated; retracted abdomen); PLUMB. PHOSPH. (loss of sexual power; LOCOMOTOR ATAXIA).", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: motion", 
+    "Better: rubbing", 
+    "Better: hard pressure", 
+    "Better: physical exertion"
+  ], 
   "symptoms": {
     "Mind": [
       "Quiet melancholy", 
@@ -67,13 +74,6 @@
       "Pulse soft and small, dicrotic", 
       "Cardiac weakness", 
       "Wiry pulse, cramp-like constriction of peripheral arteries"
-    ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: motion", 
-      "Better: rubbing", 
-      "Better: hard pressure", 
-      "Better: physical exertion"
     ], 
     "Urine": [
       "Chronic interstitial nephritis, with great pain in abdomen", 

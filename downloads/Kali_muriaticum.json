@@ -1,6 +1,11 @@
 {
   "name": "Kali muriaticum", 
   "Relationship": "Compare: BELLAD. Which Kali-m. follows well in catarrhal and hypertrophic conditions. KINO (otorrhoea, with stitches in right ear); BRY.; MERCUR.; PULS.; SULPH.", 
+  "Modalities": [
+    "Worse: rich food", 
+    "Worse: fats", 
+    "Worse: motion"
+  ], 
   "symptoms": {
     "Eyes": [
       "White mucus, purulent scabs", 
@@ -25,11 +30,6 @@
       "Dandruff", 
       "Crusta lactea", 
       "Headache, with vomiting"
-    ], 
-    "Modalities": [
-      "Worse: rich food", 
-      "Worse: fats", 
-      "Worse: motion"
     ], 
     "Stool": [
       "Dysentery; purging, with slimy stools", 

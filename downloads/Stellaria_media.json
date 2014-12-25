@@ -1,6 +1,14 @@
 {
   "name": "Stellaria media", 
   "Relationship": "Compare: PULS. (similar in rheumatism, pains shifting, worse, rest, warmth; better cold air).", 
+  "Modalities": [
+    "Worse: mornings", 
+    "Worse: warmth", 
+    "Worse: tobacco", 
+    "Better: evenings", 
+    "Better: cold air", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Head": [
       "Lassitude, indisposition to work", 
@@ -9,14 +17,6 @@
       "Neck muscles stiff and sore", 
       "Eyes feel protruded", 
       "Dull, frontal headache; worse in morning and left side with sleepiness"
-    ], 
-    "Modalities": [
-      "Worse: mornings", 
-      "Worse: warmth", 
-      "Worse: tobacco", 
-      "Better: evenings", 
-      "Better: cold air", 
-      "Better: motion"
     ], 
     "Abdomen": [
       "Hepatic torpor", 

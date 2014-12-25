@@ -1,6 +1,13 @@
 {
   "name": "Magnesia muriatica", 
   "Relationship": "Compare: NAT-M.; PULS.; SEP.; AMM. M.; NASTURTIUM AQUATICUM - Water-cress - (useful in scorbutic affections and constipation, related to strictures of urinary apparatus; supposed to be aphrodisiacal in its action. Is also antidotal to TOBACCO narcosis and sedative in neurotic affections, neurasthenia, hysteria. Cirrhosis of liver and dropsy.Antidotes: CAMPH.; CHAM.", 
+  "Modalities": [
+    "Worse: immediately after eating", 
+    "Worse: lying on right side; from sea bathing", 
+    "Better: from pressure", 
+    "Better: motion; open air", 
+    "Better: except headache"
+  ], 
   "symptoms": {
     "Heart": [
       "Functional cardiac affections with liver enlargement", 
@@ -20,13 +27,6 @@
       "Continued rising of white froth into mouth", 
       "Urine can be passed only by pressing abdominal muscles", 
       "Appetite poor, bad taste in mouth"
-    ], 
-    "Modalities": [
-      "Worse: immediately after eating", 
-      "Worse: lying on right side; from sea bathing", 
-      "Better: from pressure", 
-      "Better: motion; open air", 
-      "Better: except headache"
     ], 
     "Urine": [
       "Bladder can only be emptied by straining and pressure", 

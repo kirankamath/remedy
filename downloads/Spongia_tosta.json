@@ -1,6 +1,13 @@
 {
   "name": "Spongia tosta", 
   "Relationship": "Compare: ACON.; HEP.; BROM.; LACH.; MERC. PROT.; IOD. (Goitre.)", 
+  "Modalities": [
+    "Worse: ascending", 
+    "Worse: wind", 
+    "Worse: before midnight", 
+    "Better: descending", 
+    "Better: lying with head low"
+  ], 
   "symptoms": {
     "Heart": [
       "Awakened suddenly after midnight with pain and suffocation; is flushed, hot, and frightened to death", 
@@ -21,13 +28,6 @@
       "Excessive thirst, great hunger", 
       "Hiccough", 
       "Cannot bear tight clothing around trunk"
-    ], 
-    "Modalities": [
-      "Worse: ascending", 
-      "Worse: wind", 
-      "Worse: before midnight", 
-      "Better: descending", 
-      "Better: lying with head low"
     ], 
     "Mind": [
       "Every excitement increases the cough", 

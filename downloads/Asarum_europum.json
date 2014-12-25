@@ -1,6 +1,10 @@
 {
   "name": "Asarum europum", 
   "Relationship": "Asarum Canadensa - Wild Ginger. (Colds, followed by amenorrhoea and gastroenteritis. Suppressed colds.) Compare: Ipecac., especially in diarrhoea; Silica; Nux; China.", 
+  "Modalities": [
+    "Worse: in cold dry weather; penetrating sounds", 
+    "Better: from washing; in damp and wet weather"
+  ], 
   "symptoms": {
     "Eyes": [
       "Asthenopia", 
@@ -25,10 +29,6 @@
       "Coryza, with sneezing", 
       "Tension of scalp; hair painful", 
       "Compressive pain"
-    ], 
-    "Modalities": [
-      "Worse: in cold dry weather; penetrating sounds", 
-      "Better: from washing; in damp and wet weather"
     ], 
     "Mind": [
       "Sensibility increased, even from mere imagination", 

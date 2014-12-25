@@ -1,6 +1,12 @@
 {
   "name": "Magnolia grandiflora", 
   "Relationship": "Compare: RHUS.; DULCAM.; AURUM.", 
+  "Modalities": [
+    "Worse: damp air", 
+    "Worse: lying on left side; in morning on first rising", 
+    "Better: dry weather", 
+    "Better: motion; intermenstrual flow"
+  ], 
   "symptoms": {
     "Heart": [
       "Crampy pain in heart", 
@@ -13,12 +19,6 @@
       "Oppression of chest with inability to expand the lungs", 
       "Suffocated feeling when walking fast or lying on left side", 
       "Sensation as if heart had stopped beating"
-    ], 
-    "Modalities": [
-      "Worse: damp air", 
-      "Worse: lying on left side; in morning on first rising", 
-      "Better: dry weather", 
-      "Better: motion; intermenstrual flow"
     ], 
     "Extremities": [
       "Rheumatic pain in clavicles", 

@@ -1,6 +1,9 @@
 {
   "name": "Trinitrotoluene", 
   "Relationship": "Compare: ZINC.; PHOS.; CINA; ARS.; PLUMBUM.", 
+  "Modalities": [
+    "Worse: alcohol"
+  ], 
   "symptoms": {
     "Head": [
       "Aversion to company, apathetic and weeps easily", 
@@ -16,9 +19,6 @@
       "Palpitation, tachycardia, bradycardia, intermittent pulse", 
       "Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhoea with cramps", 
       "Heart and circulation"
-    ], 
-    "Modalities": [
-      "Worse: alcohol"
     ], 
     "Urine": [
       "High colored urine, burning on urination, sudden desire, incontinence and retention"

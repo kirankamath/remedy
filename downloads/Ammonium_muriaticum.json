@@ -1,32 +1,10 @@
 {
   "name": "Ammonium muriaticum", 
   "Relationship": "Antidotes: Coffea; Nux; Caust.", 
+  "Modalities": [
+    "Worse: head and chest symptoms in the morning; abdominal symptoms in the afternoon"
+  ], 
   "symptoms": {
-    "Eyes": [
-      "Mist before eyes, optical illusions in incipient cataract; capsular cataract"
-    ], 
-    "Fever": [
-      "Chilliness evenings after lying down and on awakening, without thirst", 
-      "Sub acute, low fevers due to unhealthy climate", 
-      "Lowest potencies", 
-      "Heat in palms and soles"
-    ], 
-    "Stomach": [
-      "Thirst for lemonade, regurgitation of food, bitter water brash", 
-      "Gnawing in stomach", 
-      "Cancer of stomach", 
-      "Epigastric pain immediately after eating", 
-      "Nausea"
-    ], 
-    "Abdomen": [
-      "Much flatus", 
-      "Chronic congestion of liver", 
-      "Splenic stitches, especially in the morning, with difficult breathing", 
-      "Pain around navel", 
-      "Abdominal symptoms appear during pregnancy", 
-      "Strained feeling in groin", 
-      "Excessive fatty deposit around abdomen"
-    ], 
     "Rectum": [
       "Hard, crumbly stool, or covered with glairy mucus", 
       "During and after stool, burning and smarting in rectum", 
@@ -34,6 +12,9 @@
       "Hemorrhoids after suppressed leucorrhoea", 
       "Stinging in perinaeum", 
       "Green mucus stools alternate with constipation"
+    ], 
+    "Eyes": [
+      "Mist before eyes, optical illusions in incipient cataract; capsular cataract"
     ], 
     "Respiratory": [
       "Burning at small spots in chest", 
@@ -44,24 +25,16 @@
       "Stitches in chest", 
       "Cough with profuse salivation"
     ], 
+    "Stomach": [
+      "Thirst for lemonade, regurgitation of food, bitter water brash", 
+      "Gnawing in stomach", 
+      "Cancer of stomach", 
+      "Epigastric pain immediately after eating", 
+      "Nausea"
+    ], 
     "Head": [
       "Feels full, compressed; worse mornings", 
       "Hair falls out, with itchiness and dandruff"
-    ], 
-    "Face": [
-      "Inflammatory face ache", 
-      "Mouth and lips sore and excoriated"
-    ], 
-    "Nose": [
-      "Obstructed, stuffy feeling; constant and unavailing efforts to blow it out", 
-      "Free acrid, hot watery discharge corroding the lip", 
-      "Itching", 
-      "Sneezing", 
-      "Loss of smell", 
-      "Nose sore to touch; ulcerative pain in nostrils"
-    ], 
-    "Modalities": [
-      "Worse: head and chest symptoms in the morning; abdominal symptoms in the afternoon"
     ], 
     "Mind": [
       "Consequences of grief", 
@@ -72,6 +45,24 @@
       "Bruised pain in coccyx when sitting", 
       "Icy cold between shoulders; not relieved by warm covering, followed by itching", 
       "Backache, as if in a vise when sitting"
+    ], 
+    "Face": [
+      "Inflammatory face ache", 
+      "Mouth and lips sore and excoriated"
+    ], 
+    "Fever": [
+      "Chilliness evenings after lying down and on awakening, without thirst", 
+      "Sub acute, low fevers due to unhealthy climate", 
+      "Lowest potencies", 
+      "Heat in palms and soles"
+    ], 
+    "Nose": [
+      "Obstructed, stuffy feeling; constant and unavailing efforts to blow it out", 
+      "Free acrid, hot watery discharge corroding the lip", 
+      "Itching", 
+      "Sneezing", 
+      "Loss of smell", 
+      "Nose sore to touch; ulcerative pain in nostrils"
     ], 
     "Female": [
       "Menses too early, too free, dark, clotted; flow more at night", 
@@ -91,6 +82,15 @@
       "Throbbing in, and swelling of tonsils, can scarcely swallow", 
       "Stricture of oesophagus", 
       "Tonsillitis"
+    ], 
+    "Abdomen": [
+      "Much flatus", 
+      "Chronic congestion of liver", 
+      "Splenic stitches, especially in the morning, with difficult breathing", 
+      "Pain around navel", 
+      "Abdominal symptoms appear during pregnancy", 
+      "Strained feeling in groin", 
+      "Excessive fatty deposit around abdomen"
     ], 
     "Extremities": [
       "Shooting and tearing in tips of fingers and toes", 

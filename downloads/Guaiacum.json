@@ -1,6 +1,15 @@
 {
   "name": "Guaiacum", 
   "Relationship": "GUAIACOL (in the treatment of gonorrheal epididymitis, 2 parts to 30 vaseline, locally).Compare: MERC.; CAUST.; RHUS; MEZER.; RHODO.Antidote: NUX. Follows sepia.", 
+  "Modalities": [
+    "Worse: from motion", 
+    "Worse: heat", 
+    "Worse: cold", 
+    "Worse: wet weather; pressure", 
+    "Worse: touch", 
+    "Worse: from six pm to four am", 
+    "Better: external pressure"
+  ], 
   "symptoms": {
     "Eyes": [
       "Pupils dilated", 
@@ -31,15 +40,6 @@
     "Urine": [
       "Constant desire", 
       "Sharp stitches after urinating"
-    ], 
-    "Modalities": [
-      "Worse: from motion", 
-      "Worse: heat", 
-      "Worse: cold", 
-      "Worse: wet weather; pressure", 
-      "Worse: touch", 
-      "Worse: from six pm to four am", 
-      "Better: external pressure"
     ], 
     "Mind": [
       "Forgetful; thoughtless; staring", 

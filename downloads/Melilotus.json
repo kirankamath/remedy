@@ -1,6 +1,12 @@
 {
   "name": "Melilotus", 
   "Relationship": "Compare: MELILOT ALBA - (White Clover) - practically the same action. (Hemorrhages, congestive headaches, engorged blood vessels, spasms.) AMYL.; BELL.; GLON.", 
+  "Modalities": [
+    "Worse: rainy", 
+    "Worse: changeable weather", 
+    "Worse: approach of storm", 
+    "Worse: motion; four pm"
+  ], 
   "symptoms": {
     "Head": [
       "Scalp sore and tender to touch", 
@@ -16,12 +22,6 @@
       "Hemoptysis", 
       "Tickling in throat with cough", 
       "Feels as if smothering, especially from rapid walking"
-    ], 
-    "Modalities": [
-      "Worse: rainy", 
-      "Worse: changeable weather", 
-      "Worse: approach of storm", 
-      "Worse: motion; four pm"
     ], 
     "Stool": [
       "Difficult, painful, constipated", 

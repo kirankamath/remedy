@@ -1,5 +1,9 @@
 {
-  "Natural History": "ZiziaMeadow Parsnip", 
+  "name": "Thaspium aureum", 
+  "Relationship": "Compare: AGAR.; STRAM.; TARENT.; CICUTA; AETHUSA.", 
+  "Modalities": [
+    "Worse: during sleep"
+  ], 
   "symptoms": {
     "Head": [
       "Pressure on top, in right temple, associated with backache"
@@ -7,9 +11,6 @@
     "Respiratory": [
       "Dyspnoea", 
       "Dry cough, with stitches in chest"
-    ], 
-    "Modalities": [
-      "Worse: during sleep"
     ], 
     "Mind": [
       "Suicidal; depressed; laughing and weeping moods alternate"
@@ -29,7 +30,6 @@
       "Great lassitude following coitus"
     ]
   }, 
-  "name": "Thaspium aureum", 
-  "Relationship": "Compare: AGAR.; STRAM.; TARENT.; CICUTA; AETHUSA.", 
-  "details": "Hysteria, epilepsy, chorea, hypochondriasis, come within the sphere of this remedy."
+  "details": "Hysteria, epilepsy, chorea, hypochondriasis, come within the sphere of this remedy.", 
+  "Natural History": "ZiziaMeadow Parsnip"
 }

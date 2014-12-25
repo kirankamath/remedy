@@ -1,6 +1,10 @@
 {
   "name": "Squilla maritima", 
   "Relationship": "Compare: DIGIT.; STROPHANT.; APOCYN. CAN.; BRY.; KALI-CARB. Squilla follows DIGITALIS, if this fails to relieve water-logged cases.", 
+  "Modalities": [
+    "Better: rest; worse", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Heart": [
       "A cardiac stimulant affecting the peripheral vessels and coronary arteries"
@@ -22,10 +26,6 @@
     ], 
     "Stomach": [
       "Pressure like a stone"
-    ], 
-    "Modalities": [
-      "Better: rest; worse", 
-      "Better: motion"
     ], 
     "Urine": [
       "Involuntary spurting of urine when coughing", 

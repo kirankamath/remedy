@@ -1,5 +1,15 @@
 {
-  "Natural History": "TomatoLycopersicum Esculentum", 
+  "name": "Solanum lycopersicum", 
+  "Relationship": "Compare: BELL. (follows well); EUP. PERF.; RHUS; SANGUIN.; CAPS.", 
+  "Modalities": [
+    "Worse: right side", 
+    "Worse: open air", 
+    "Worse: continued motion", 
+    "Worse: jar", 
+    "Worse: noises", 
+    "Better: warm room", 
+    "Better: tobacco"
+  ], 
   "symptoms": {
     "Heart": [
       "Decided decrease in pulse rate with anxiety and apprehensiveness"
@@ -14,15 +24,6 @@
       "Pain in chest, extending to head", 
       "Expulsive cough, deep and harsh", 
       "Hoarseness; constant desire to clear throat"
-    ], 
-    "Modalities": [
-      "Worse: right side", 
-      "Worse: open air", 
-      "Worse: continued motion", 
-      "Worse: jar", 
-      "Worse: noises", 
-      "Better: warm room", 
-      "Better: tobacco"
     ], 
     "Urine": [
       "Must rise at night to urinate", 
@@ -47,7 +48,6 @@
       "Right crural neuralgia"
     ]
   }, 
-  "name": "Solanum lycopersicum", 
-  "Relationship": "Compare: BELL. (follows well); EUP. PERF.; RHUS; SANGUIN.; CAPS.", 
-  "details": "Marked symptoms of rheumatism and influenza. Severe aching pains all over body. PAINS LEFT AFTER INFLUENZA. Head always shows signs of acute congestion. Hay-fever, with marked aggravation from breathing the least dust. Frequent urination and profuse watery diarrhoea."
+  "details": "Marked symptoms of rheumatism and influenza. Severe aching pains all over body. PAINS LEFT AFTER INFLUENZA. Head always shows signs of acute congestion. Hay-fever, with marked aggravation from breathing the least dust. Frequent urination and profuse watery diarrhoea.", 
+  "Natural History": "TomatoLycopersicum Esculentum"
 }

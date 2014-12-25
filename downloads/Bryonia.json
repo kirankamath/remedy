@@ -1,6 +1,19 @@
 {
   "name": "Bryonia", 
   "Relationship": "Complementary: Upas when Bryonia fails. Rhus; Alumina. Illecebrum. A Mexican drug. - (Fever with catarrhal symptoms, gastric and typhoid fever symptoms.)Compare: Asclep. tub.; Kali-mur.; Ptelea.Antidotes: Acon.; Cham.; Nux.", 
+  "Modalities": [
+    "Worse: warmth", 
+    "Worse: any motion", 
+    "Worse: morning", 
+    "Worse: eating", 
+    "Worse: hot weather", 
+    "Worse: exertion", 
+    "Worse: touch", 
+    "Better: lying on painful side", 
+    "Better: pressure", 
+    "Better: rest", 
+    "Better: cold things"
+  ], 
   "symptoms": {
     "Urine": [
       "Red, brown, like beer; scanty, hot"
@@ -81,19 +94,6 @@
     "Ears": [
       "Aural vertigo", 
       "Roaring, buzzing"
-    ], 
-    "Modalities": [
-      "Worse: warmth", 
-      "Worse: any motion", 
-      "Worse: morning", 
-      "Worse: eating", 
-      "Worse: hot weather", 
-      "Worse: exertion", 
-      "Worse: touch", 
-      "Better: lying on painful side", 
-      "Better: pressure", 
-      "Better: rest", 
-      "Better: cold things"
     ], 
     "Mind": [
       "Exceedingly irritable; everything puts him out of humor", 

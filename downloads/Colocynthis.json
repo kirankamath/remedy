@@ -1,6 +1,13 @@
 {
   "name": "Colocynthis", 
   "Relationship": "Compare: LOBELIA ERINUS (violent cork-screw-like pains in abdomen). DIPODIUM PUNCTATUM (WRITHING. Twisting like a dying snake. Intractable insomnia.) DIOSCOR.; CHAMOM.; COCCUL.; MERC; PLUM.; MAG. PHOS.Antidote: COFFEA; STAPHIS.; CHAM. COLOCYNTH is the best antidote to lead poisoning. (Royal).", 
+  "Modalities": [
+    "Worse: from anger and indignation", 
+    "Better: doubling up", 
+    "Better: hard pressure", 
+    "Better: warmth", 
+    "Better: lying with head bent forward"
+  ], 
   "symptoms": {
     "Eyes": [
       "Sensation on stooping, as if eye would fall out", 
@@ -30,13 +37,6 @@
       "Itching at orifice", 
       "Pains on urinating over whole abdomen", 
       "Fetid; small quantities, with frequent urging"
-    ], 
-    "Modalities": [
-      "Worse: from anger and indignation", 
-      "Better: doubling up", 
-      "Better: hard pressure", 
-      "Better: warmth", 
-      "Better: lying with head bent forward"
     ], 
     "Mind": [
       "Mortification caused by offense", 

@@ -1,6 +1,20 @@
 {
   "name": "Pulsatilla", 
   "Relationship": "PENTHORUM, often indicated after Pulsatilla in later colds. IONESIA ASOCA - Saraca indica - (AMENORRHOEA, pain). ARTIPLEX (Uterine symptoms, amenorrhoea; hysteria, coldness between shoulders, dislike of warm food, craves strange foods, palpitation, sleeplessness). PULSATILLA NULTALIANA, identical effects.PIMENTA - Allspice - (one-sided neuralgias, parts of body hot and cold).Compare: CYCLAMEN; KALI-BICH.; KALI-SULPH.; SULPHUR.Complementary: COFFEA; CHAMOM.; NUX.ANAGYRIS (headache, amenorrhoea).", 
+  "Modalities": [
+    "Worse: from heat", 
+    "Worse: rich fat food", 
+    "Worse: after eating", 
+    "Worse: towards evening", 
+    "Worse: warm room", 
+    "Worse: lying on left or on painless side", 
+    "Worse: when allowing feet to hang down", 
+    "Better: open air", 
+    "Better: motion", 
+    "Better: cold applications", 
+    "Better: cold food and drinks", 
+    "Better: though not thirsty"
+  ], 
   "symptoms": {
     "Urine": [
       "Involuntary micturition at night, while coughing or passing flatus", 
@@ -118,20 +132,6 @@
       "Diminishes acuteness of hearing", 
       "External ear swollen and red", 
       "Otalgia, worse at night"
-    ], 
-    "Modalities": [
-      "Worse: from heat", 
-      "Worse: rich fat food", 
-      "Worse: after eating", 
-      "Worse: towards evening", 
-      "Worse: warm room", 
-      "Worse: lying on left or on painless side", 
-      "Worse: when allowing feet to hang down", 
-      "Better: open air", 
-      "Better: motion", 
-      "Better: cold applications", 
-      "Better: cold food and drinks", 
-      "Better: though not thirsty"
     ], 
     "Mind": [
       "Timid, irresolute", 

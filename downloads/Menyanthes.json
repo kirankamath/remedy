@@ -1,6 +1,13 @@
 {
   "name": "Menyanthes", 
   "Relationship": "Antidote: CAMPH.Compare: CAPS.; PULS.; CALC.; PHOS-AC.; SANG.", 
+  "Modalities": [
+    "Worse: during rest", 
+    "Worse: ascending", 
+    "Better: pressure on affected part", 
+    "Better: stooping", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Head": [
       "Weight pressing on brain with every step on ascending", 
@@ -17,13 +24,6 @@
       "Desire for meat", 
       "Sensation of coldness extending up to oesophagus", 
       "Ravenous hunger; passing away after eating a little"
-    ], 
-    "Modalities": [
-      "Worse: during rest", 
-      "Worse: ascending", 
-      "Better: pressure on affected part", 
-      "Better: stooping", 
-      "Better: motion"
     ], 
     "Abdomen": [
       "Coldness of abdomen", 

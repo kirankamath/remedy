@@ -1,6 +1,11 @@
 {
   "name": "Sulphuricum acidum", 
   "Relationship": "Complementary: PULS.Compare: ARS.; CALEN.; LED.; SEP.; CALC.", 
+  "Modalities": [
+    "Worse: from excess of heat or cold in forenoon and evening", 
+    "Better: from warmth", 
+    "Better: and lying on affected side"
+  ], 
   "symptoms": {
     "Rectum": [
       "Rectum feels as if it had a big ball", 
@@ -35,11 +40,6 @@
       "Relieved by holding the hands near the head", 
       "Right-sided neuralgia; painful shocks; skin feels pinched", 
       "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch"
-    ], 
-    "Modalities": [
-      "Worse: from excess of heat or cold in forenoon and evening", 
-      "Better: from warmth", 
-      "Better: and lying on affected side"
     ], 
     "Mind": [
       "Fretful, impatient", 

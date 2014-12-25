@@ -1,6 +1,20 @@
 {
   "name": "Silicea", 
   "Relationship": "Complementary: THUJA; SANIC.; PULS.; FLUOR-AC. Mercurius and Silica do not follow each other well.Compare: BLACK GUNPOWDER 3X. (Abscesses, boils, carbuncles, limb purple. Wounds that refuse to heal; accident from bad food or water. Clarke.) HEP.; KALI-PHOS.; PIC-AC.; CALC.; PHOS.; TABASHEER; NATRUM SILICUM (tumors, hemophilia, arthritis; dose, three drops three times daily, in milk); FERRUM CYANATUM (epilepsy; neuroses, with irritable weakness and hypersensitiveness, especially of a periodical character). SILICA MARINA - Sea-sand - (Silica and Natrum mur. symptoms. INFLAMED GLANDS and commencing suppuration. Constipation. Use for some time 3X trit.) VITRUM - CROWN GLASS - (Potts; disease, after Silica, necrosis, discharge thin, watery, fetid. Much pain, fine GRINDING AND GRATING like grit.) ARUNDO DONAX (acts on excretory and generative organs; suppuration, especially chronic, and where the ulceration is fistulous, especially in long bones. Itching eruption on chest, upper extremities and behind ears).", 
+  "Modalities": [
+    "Worse: new moon", 
+    "Worse: in morning", 
+    "Worse: from washing", 
+    "Worse: during menses", 
+    "Worse: uncovering", 
+    "Worse: lying down", 
+    "Worse: damp", 
+    "Worse: lying on left side", 
+    "Worse: cold", 
+    "Better: warmth", 
+    "Better: wrapping up head", 
+    "Better: summer; in wet or humid weather"
+  ], 
   "symptoms": {
     "Urine": [
       "Nocturnal enuresis in children with worms", 
@@ -102,20 +116,6 @@
       "Loud pistol-like report", 
       "Fetid discharge", 
       "Sensitive to noise"
-    ], 
-    "Modalities": [
-      "Worse: new moon", 
-      "Worse: in morning", 
-      "Worse: from washing", 
-      "Worse: during menses", 
-      "Worse: uncovering", 
-      "Worse: lying down", 
-      "Worse: damp", 
-      "Worse: lying on left side", 
-      "Worse: cold", 
-      "Better: warmth", 
-      "Better: wrapping up head", 
-      "Better: summer; in wet or humid weather"
     ], 
     "Mind": [
       "Sensitive to all impressions", 

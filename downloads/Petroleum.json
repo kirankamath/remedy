@@ -1,6 +1,15 @@
 {
   "name": "Petroleum", 
   "Relationship": "Complementary: SEPIA.Compare: CARBO; GRAPH.; SULPH.; PHOS.Antidotes: NUX; COCCUL.", 
+  "Modalities": [
+    "Worse: dampness", 
+    "Worse: before and during a thunderstorm", 
+    "Worse: from riding in cars", 
+    "Worse: passive motion; in winter", 
+    "Worse: eating", 
+    "Worse: from mental states", 
+    "Better: warm air; lying with head high; dry weather"
+  ], 
   "symptoms": {
     "Head": [
       "Sensitive, as of a cold breeze blowing on it", 
@@ -71,15 +80,6 @@
     "Heart": [
       "Fainting, with ebullitions, heat, and palpitation", 
       "Sensation of coldness"
-    ], 
-    "Modalities": [
-      "Worse: dampness", 
-      "Worse: before and during a thunderstorm", 
-      "Worse: from riding in cars", 
-      "Worse: passive motion; in winter", 
-      "Worse: eating", 
-      "Worse: from mental states", 
-      "Better: warm air; lying with head high; dry weather"
     ], 
     "Mind": [
       "Loses his way in streets", 

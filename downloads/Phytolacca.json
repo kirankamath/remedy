@@ -1,6 +1,12 @@
 {
   "name": "Phytolacca", 
   "Relationship": "Inimical: MERCUR.Compare: Tincture of PHYTOLACCA BERRY (sore throats and in the treatment of obesity); BRY.; RHUS; KALI-HYD.; MERC.; SANG.; ARUM TRIPH.Antidotes: Milk and salt; BELLAD.; MEZER.", 
+  "Modalities": [
+    "Worse: sensitive to electric changes", 
+    "Better: warmth", 
+    "Better: dry weather", 
+    "Better: rest"
+  ], 
   "symptoms": {
     "Urine": [
       "Nephritis", 
@@ -56,12 +62,6 @@
     "Heart": [
       "Feeling as if heart leaped into throat", 
       "Shock of pain in cardiac region alternating with pain in right arm"
-    ], 
-    "Modalities": [
-      "Worse: sensitive to electric changes", 
-      "Better: warmth", 
-      "Better: dry weather", 
-      "Better: rest"
     ], 
     "Mind": [
       "Indifferent to life", 

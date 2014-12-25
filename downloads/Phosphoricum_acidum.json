@@ -1,6 +1,11 @@
 {
   "name": "Phosphoricum acidum", 
   "Relationship": "Antidotes: COFFEA.Compare: OENOTHERA BIENNIS - Evening primrose - (Effortless diarrhoea with nervous exhaustion. Incipient hydrocephaloid. Whooping-cough and spasmodic asthma). NECTRANDA AMARE. (Watery diarrhoea, dry tongue, colic, bluish ring around sunken eyes, restless sleep.) CHINA; NUX; PIC-AC.; LACTIC-AC.; PHOS.", 
+  "Modalities": [
+    "Worse: exertion", 
+    "Worse: from being talked to; loss of vital fluids; sexual excesses", 
+    "Better: from keeping warm"
+  ], 
   "symptoms": {
     "Urine": [
       "Phosphaturia", 
@@ -97,11 +102,6 @@
     "Heart": [
       "Palpitation in children, who grow too fast; after grief, self-abuse", 
       "Pulse irregular, intermittent"
-    ], 
-    "Modalities": [
-      "Worse: exertion", 
-      "Worse: from being talked to; loss of vital fluids; sexual excesses", 
-      "Better: from keeping warm"
     ], 
     "Mind": [
       "Delirium, with great stupefaction", 

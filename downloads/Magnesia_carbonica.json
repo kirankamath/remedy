@@ -1,6 +1,10 @@
 {
   "name": "Magnesia carbonica", 
   "Relationship": "Antidotes: ARS.; MERC.Compare: RHEUM.; KREOS.; ALOES; CHEIRANTHUS - Wall flower - (deafness, otorrhoea, nose stopped up at night from IRRITATION OF CUTTING WISDOM-TEETH.Complementary: CHAM.", 
+  "Modalities": [
+    "Worse: warmth of bed; change of temperature; cold wind or weather; every three weeks; rest", 
+    "Better: warm air; walking in open air"
+  ], 
   "symptoms": {
     "Head": [
       "Itching of scalp worse in damp weather", 
@@ -17,10 +21,6 @@
       "Craving for meat", 
       "Eructations sour, and vomiting of bitter water", 
       "Desire for fruits, acids, and vegetables"
-    ], 
-    "Modalities": [
-      "Worse: warmth of bed; change of temperature; cold wind or weather; every three weeks; rest", 
-      "Better: warm air; walking in open air"
     ], 
     "Stool": [
       "Milk passes undigested in nursing children", 

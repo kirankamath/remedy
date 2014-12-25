@@ -1,6 +1,9 @@
 {
   "name": "Bellis perennis", 
   "Relationship": "Compare: Arnica; Arsenic; Staphis.; Hamamelis; Bryonia; Vanadium (degenerative states).", 
+  "Modalities": [
+    "Worse: left side; hot bath and warmth of bed; before storms; cold bathing; cold wind"
+  ], 
   "symptoms": {
     "Head": [
       "Forehead feels contracted", 
@@ -8,9 +11,6 @@
       "Headache from occiput to top of head", 
       "Bruised soreness", 
       "Itching around scalp and over back, worse from hot bath and bed"
-    ], 
-    "Modalities": [
-      "Worse: left side; hot bath and warmth of bed; before storms; cold bathing; cold wind"
     ], 
     "Abdomen": [
       "Bloated; rumbling in bowels", 

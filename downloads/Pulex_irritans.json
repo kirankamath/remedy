@@ -1,6 +1,10 @@
 {
-  "Natural History": "Common Flea", 
-  "details": "Marked urinary and female symptoms.", 
+  "name": "Pulex irritans", 
+  "Modalities": [
+    "Worse: left side", 
+    "Worse: moving about", 
+    "Better: sitting or lying down"
+  ], 
   "symptoms": {
     "Head": [
       "Very impatient, cross, and irritable", 
@@ -15,11 +19,6 @@
       "Stool very offensive", 
       "Breath and taste foul", 
       "Intense nausea, with vomiting, purging, and faintness"
-    ], 
-    "Modalities": [
-      "Worse: left side", 
-      "Worse: moving about", 
-      "Better: sitting or lying down"
     ], 
     "Urine": [
       "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
@@ -48,6 +47,7 @@
       "Prickly itching"
     ]
   }, 
-  "name": "Pulex irritans", 
+  "details": "Marked urinary and female symptoms.", 
+  "Natural History": "Common Flea", 
   "dosage": "The higher potencies."
 }

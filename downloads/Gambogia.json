@@ -1,6 +1,9 @@
 {
   "name": "Gambogia", 
   "Relationship": "Compare: CROTON; ALOES; POD.", 
+  "Modalities": [
+    "Worse: towards evening and at night"
+  ], 
   "symptoms": {
     "Head": [
       "Itching and burning in eyes; lids stick together, with sneezing", 
@@ -19,9 +22,6 @@
       "Profuse, watery diarrhoea in hot weather, particularly old people", 
       "Dysentery, with retained scybala, with pain in sacral region", 
       "Rumbling and rolling"
-    ], 
-    "Modalities": [
-      "Worse: towards evening and at night"
     ]
   }, 
   "details": "The use of this drug in Homeopathy has been confined to its action on the alimentary tract. It produces a diarrhoea very similar to Croton. From its pathogenesis, it is very evident that it has very intense and definite action especially on the gastroenteric tract.", 

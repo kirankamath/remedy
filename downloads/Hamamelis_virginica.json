@@ -1,6 +1,10 @@
 {
   "name": "Hamamelis virginica", 
   "Relationship": "Compare in hemorrhoids: CALC. FLUOR.; ALOE; MUR-AC. in varicose veins. MANGIFERA INDICA.Complementary: FERRUM.Compare: ARNICA, CALEN.; TRILLIUM; BELLIS; SULPH-AC.; PULSATILLA.Antidote: ARNICA.", 
+  "Modalities": [
+    "Worse: warm", 
+    "Worse: moist air"
+  ], 
   "symptoms": {
     "Eyes": [
       "Painful weakness; sore pain in eyes; bloodshot appearance; inflamed vessels greatly injected", 
@@ -26,10 +30,6 @@
     ], 
     "Urine": [
       "Hematuria, with increased desire"
-    ], 
-    "Modalities": [
-      "Worse: warm", 
-      "Worse: moist air"
     ], 
     "Stool": [
       "Anus feels sore and raw", 

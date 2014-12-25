@@ -1,16 +1,16 @@
 {
   "name": "Tilia europa", 
   "Relationship": "Compare: LILIUM; BELLAD.", 
+  "Modalities": [
+    "Worse: in afternoon and evening; in warm room", 
+    "Worse: heat of bed", 
+    "Better: cool room", 
+    "Better: motion"
+  ], 
   "symptoms": {
     "Eyes": [
       "Sensation as of gauze before eyes", 
       "Binocular vision imperfect"
-    ], 
-    "Modalities": [
-      "Worse: in afternoon and evening; in warm room", 
-      "Worse: heat of bed", 
-      "Better: cool room", 
-      "Better: motion"
     ], 
     "Head": [
       "Bleeding from nose", 

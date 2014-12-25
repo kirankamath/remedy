@@ -191,7 +191,7 @@ def process_one_remedy(file_name):
             modalities.extend(result)
         del symptom_list["Amelioration"]
     if modalities:
-        symptom_list["Modalities"] = modalities
+        remedy["Modalities"] = modalities
 
     # Rest of the items go to symptoms of the remedy.
     remedy["symptoms"] = symptom_list

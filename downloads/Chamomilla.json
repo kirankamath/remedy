@@ -1,6 +1,15 @@
 {
   "name": "Chamomilla", 
   "Relationship": "Compare: Cypriped; Anthemis; Aconite; Puls.; Coffea; Bellad.; Staphis.; gnat. Follows Belladonna in diseases of children and abuse of opium. Rubus villosus - Blackberry - (diarrhoea of infancy; stools watery and clay colored).Antidotes: Camph.; Nux; Puls.Complementary: Bell.; Mag. c.", 
+  "Modalities": [
+    "Worse: by heat", 
+    "Worse: anger", 
+    "Worse: open air", 
+    "Worse: wind", 
+    "Worse: night", 
+    "Better: from being carried", 
+    "Better: warm wet weather"
+  ], 
   "symptoms": {
     "Stool": [
       "Hemorrhoids, with painful fissures", 
@@ -63,15 +72,6 @@
       "Earache, with soreness; swelling and heat driving patient frantic", 
       "Ears feel stopped", 
       "Stitching pain"
-    ], 
-    "Modalities": [
-      "Worse: by heat", 
-      "Worse: anger", 
-      "Worse: open air", 
-      "Worse: wind", 
-      "Worse: night", 
-      "Better: from being carried", 
-      "Better: warm wet weather"
     ], 
     "Mind": [
       "Whining restlessness", 

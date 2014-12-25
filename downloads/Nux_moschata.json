@@ -1,6 +1,16 @@
 {
   "name": "Nux moschata", 
   "Relationship": "OLEUM MYRISTICAE - Oil of Nutmeg - (as a remedy for boils, felons, poisonous ulcers, it has been used in the 2X potency); ORNITHOGALUM (FLATULENCE, swollen feeling across lower chest; whenever she turns in bed, FEELS AS IF A BAG OF WATER turned also; gastric ulcer and cancer). MYRISTICA SEBIFERA (phlegmonous inflammation, hastens suppuration; powerful antiseptic. Ulcerative tendency in all tissues. Said to act more powerfully than Hepar and Silica).Antidotes: CAMPH.; GELS.; VALER.Compare: NUX-V.; PULS.; RHUS; IGN.; ASAF.", 
+  "Modalities": [
+    "Worse: cold moist wind", 
+    "Worse: cold food", 
+    "Worse: cold washing", 
+    "Worse: lying on painful side", 
+    "Worse: motion", 
+    "Worse: jar", 
+    "Better: warmth", 
+    "Better: dry weather"
+  ], 
   "symptoms": {
     "Heart": [
       "Sensation as if something grasped heart", 
@@ -29,16 +39,6 @@
       "Cracking sensation in head", 
       "Sensitive to slightest touch in a draft of air", 
       "Bursting headache; better hard pressure"
-    ], 
-    "Modalities": [
-      "Worse: cold moist wind", 
-      "Worse: cold food", 
-      "Worse: cold washing", 
-      "Worse: lying on painful side", 
-      "Worse: motion", 
-      "Worse: jar", 
-      "Better: warmth", 
-      "Better: dry weather"
     ], 
     "Mind": [
       "Changeable; laughing and crying", 

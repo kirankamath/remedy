@@ -1,6 +1,12 @@
 {
   "name": "Viburnum opulus", 
   "Relationship": "Compare: VIBURNUM PRUNIFOLIUM - Black Haw - (habitual miscarriage; AFTER-PAINS; cancer of the tongue; obstinate hiccough; supposed to be a uterine tonic. Morning sickness; menstrual irregularities of sterile females with uterine displacements.) CIMICIF.; CAULOP.; SEP.; XANTHOX.", 
+  "Modalities": [
+    "Worse: lying on affected side", 
+    "Worse: in warm room", 
+    "Worse: evening and night", 
+    "Better: in open air and resting"
+  ], 
   "symptoms": {
     "Head": [
       "Sore feeling in eyeballs", 
@@ -14,12 +20,6 @@
     ], 
     "Rectum": [
       "Stools large and hard, with cutting in rectum and soreness of anus"
-    ], 
-    "Modalities": [
-      "Worse: lying on affected side", 
-      "Worse: in warm room", 
-      "Worse: evening and night", 
-      "Better: in open air and resting"
     ], 
     "Urine": [
       "Copious, pale, light-colored urine", 

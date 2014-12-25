@@ -1,6 +1,11 @@
 {
   "name": "Ruta graveolens", 
   "Relationship": "Antidote: CAMPH.Compare: RATANHIA; CARDUUS. Rectal (irritation); JABORANDI; PHYT.; RHUS; SIL.; ARN.Complementary: CALC. PHOS.", 
+  "Modalities": [
+    "Worse: lying down", 
+    "Worse: from cold", 
+    "Worse: wet weather"
+  ], 
   "symptoms": {
     "Eyes": [
       "Tarsal cartilage feels bruised", 
@@ -23,11 +28,6 @@
       "Epistaxis", 
       "Pain as from a nail; after excessive intoxicating drinks", 
       "Periosteum sore"
-    ], 
-    "Modalities": [
-      "Worse: lying down", 
-      "Worse: from cold", 
-      "Worse: wet weather"
     ], 
     "Urine": [
       "Pressure in neck of bladder after urinating; painful closure", 

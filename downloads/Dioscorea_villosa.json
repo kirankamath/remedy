@@ -1,6 +1,12 @@
 {
   "name": "Dioscorea villosa", 
   "Relationship": "Compare: COLOC. (differs in modalities); NUX; CHAM.; BRY.Antidotes: CHAMOM.; CAMPH.", 
+  "Modalities": [
+    "Worse: evening and night; lying down", 
+    "Worse: and doubling up", 
+    "Better: standing erect", 
+    "Better: motion in open air; pressure"
+  ], 
   "symptoms": {
     "Heart": [
       "Angina pectoris; pain back of sternum into arms; labored breathing; feeble action of heart", 
@@ -27,12 +33,6 @@
     "Rectum": [
       "Diarrhoea , yellowish, followed by exhaustion, as if flatus and feces were hot", 
       "Hemorrhoids, with darting pains to liver; look like bunches of grapes or red cherries; protrude after stool, with pain in anus"
-    ], 
-    "Modalities": [
-      "Worse: evening and night; lying down", 
-      "Worse: and doubling up", 
-      "Better: standing erect", 
-      "Better: motion in open air; pressure"
     ], 
     "Mind": [
       "Calls things by the wrong name"

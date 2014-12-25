@@ -1,6 +1,10 @@
 {
   "name": "Collinsonia canadensis", 
   "Relationship": "Compare: AeSCUL.; ALOES; HAMA.; LYCOPUS; NEGUNDO; SULPH.; NUX.Antidote: NUX.", 
+  "Modalities": [
+    "Worse: from the slightest mental emotion or excitement; cold", 
+    "Better: heat"
+  ], 
   "symptoms": {
     "Heart": [
       "Oppression, faintness, and dyspnoea", 
@@ -18,10 +22,6 @@
       "Cough from excessive use of voice; minister's sore throat; sharp pain in larynx", 
       "Harassing, dry cough", 
       "Hoarseness"
-    ], 
-    "Modalities": [
-      "Worse: from the slightest mental emotion or excitement; cold", 
-      "Better: heat"
     ], 
     "Female": [
       "Cold feeling in thighs after menstruation", 

@@ -1,6 +1,9 @@
 {
   "name": "Sumbul", 
   "Relationship": "Compare: ASAF.; MOSCH.", 
+  "Modalities": [
+    "Worse: active exercise; left side"
+  ], 
   "symptoms": {
     "Heart": [
       "Cardiac asthma", 
@@ -16,9 +19,6 @@
       "Emotional and fidgety", 
       "Dull in morning, clear in evening", 
       "Comedones"
-    ], 
-    "Modalities": [
-      "Worse: active exercise; left side"
     ], 
     "Urine": [
       "Oily pellicle on surface of urine"

@@ -1,6 +1,15 @@
 {
   "name": "Zincum metallicum", 
   "Relationship": "Compare: ZINCUM ACETICUM (effects of night-watching and erysipelas; brain feels sore; RADEMACHER'S SOLUTION, five-drop doses three times a day in water, FOR THOSE WHO ARE COMPELLED TO WORK, ON AN INSUFFICIENT AMOUNT OF SLEEP); ZINC, BROMATUM (dentition, chorea, hydrocephalus; ZINC. OXYDATUM. (Nausea and sour taste. Sudden vomiting in children. Vomiting of bile and diarrhoea. Flatulent abdomen. Watery stools with tenemus. Debility after grip. Fiery red face, GREAT DROWSINESS with dreamlike unrefreshing sleep. Similar to effect of night watching. Mental and physical exertion (Rademacher). ZINC. SULPH., not repeated frequently (high potency) will clear up opacities of the cornea (McFarland). Corneitis; granular lids; tongue paralyzed; cramps in arms and legs; trembling and convulsions. Hypochondriasis due to masturbation; nervous headaches); ZINC. CYANATUM (as a remedy for meningitis and cerebrospinal meningitis, paralysis agitans, chores, and hysteria, it has received some attention); ZINC. ARS. (chorea, anaemia, PROFOUND EXHAUSTION on slight exertion. Depression and marked involvement of lower extremities); ZINC. CARB. (post-gonorrheal throat affections, tonsils swollen, bluish superficial spots); ZINC. PHOS. (herpes zoster 1x); ZINC. MURIAT. (disposition to pick the bedclothes; sense of smell and taste perverted; bluish-green tint of skin; cold and sweaty); ZINC. PHOS. (neuralgia of head and face; lightning-like pains in locomotor ataxia, brain-fag, nervousness, and vertigo; sexual excitement and sleeplessness); AMMON. VALERIAN (violent neuralgia, with great nervous agitation); ZINC. PICRICUM (facial paralysis; brain-fag, headache in Bright's disease; seminal emissions; loss of memory and energy). Oxide of zinc is used locally as an astringent and stimulant application to unhealthy ulcers, fissures, intertrigo, burns, etc.Compare: AGARIC.; IGN.; PLUMB.; ARGENT.; PULS.; HELLEB.; TUBERC. Inimical: NUX; CHAM. Compare in amelioration by secretions; LACH.; STAN.; MOSCH.", 
+  "Modalities": [
+    "Worse: at menstrual period", 
+    "Worse: from touch", 
+    "Worse: between 5 to seven pm; after dinner", 
+    "Worse: from wine", 
+    "Better: while eating", 
+    "Better: discharges", 
+    "Better: and appearance of eruptions"
+  ], 
   "symptoms": {
     "Urine": [
       "Hysterical retention", 
@@ -93,15 +102,6 @@
     "Ears": [
       "Tearing, stitches, and external swelling", 
       "Discharge of fetid pus"
-    ], 
-    "Modalities": [
-      "Worse: at menstrual period", 
-      "Worse: from touch", 
-      "Worse: between 5 to seven pm; after dinner", 
-      "Worse: from wine", 
-      "Better: while eating", 
-      "Better: discharges", 
-      "Better: and appearance of eruptions"
     ], 
     "Mind": [
       "Fears arrest on account of a supposed crime", 

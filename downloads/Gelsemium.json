@@ -1,6 +1,21 @@
 {
   "name": "Gelsemium", 
   "Relationship": "ANTIDOTES: China; Coffea; Dig. Alcoholic stimulants relieve all complaints where Gels. Is useful.Compare: IGNATIA (gastric affections of cigar makers); BAPTISA; IPECAC.; ACON.; BELL.; CIMICIF.; MANGES. PHOS. (Gels contains some Magnes. phos.) CULEX - (vertigo on blowing the nose with fullness of the ears.)", 
+  "Modalities": [
+    "Worse: damp weather", 
+    "Worse: fog", 
+    "Worse: before a thunderstorm", 
+    "Worse: emotion", 
+    "Worse: or excitement", 
+    "Worse: bad news", 
+    "Worse: tobacco-smoking", 
+    "Worse: when thinking of his ailments; at ten am", 
+    "Better: bending forward", 
+    "Better: by profuse urination", 
+    "Better: open air", 
+    "Better: continued motion", 
+    "Better: stimulants"
+  ], 
   "symptoms": {
     "Urine": [
       "Dysuria", 
@@ -94,21 +109,6 @@
       "Weak, slow pulse of old age", 
       "Palpitation; pulse soft, weak, full and flowing", 
       "Pulse slow when quiet, but greatly accelerated on motion"
-    ], 
-    "Modalities": [
-      "Worse: damp weather", 
-      "Worse: fog", 
-      "Worse: before a thunderstorm", 
-      "Worse: emotion", 
-      "Worse: or excitement", 
-      "Worse: bad news", 
-      "Worse: tobacco-smoking", 
-      "Worse: when thinking of his ailments; at ten am", 
-      "Better: bending forward", 
-      "Better: by profuse urination", 
-      "Better: open air", 
-      "Better: continued motion", 
-      "Better: stimulants"
     ], 
     "Mind": [
       "Dullness, languor, listless", 

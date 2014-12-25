@@ -1,6 +1,21 @@
 {
   "name": "Rhus toxicodendron", 
   "Relationship": "Compare: RHUS RADICANS (almost identical action); characteristics are, burning in tongue, tip feels sore, pains are often semilateral and in various parts, often remote and successive. Many symptoms are better after a storm has thoroughly set in, especially after an electric storm. Has pronounced YEARLY aggravation. (LACHES.) RHUS RADICANS has headache in OCCIPUT even pain in nape of neck and from there pains draw over the head FORWARDS). RHUS DIVERSILOBA - California Poison-oak (antidote to Rhus; violent skin symptoms, with frightful itching; much swelling of face, hands and genitals; skin very sensitive; eczema and erysipelas, great nervous weakness, tired from least effort; goes to sleep from sheer exhaustion); XEROPHYLLUM (dysmenorrhoea and skin symptoms). Compare, also: ARN.; BAPT.; LACH.; ARS.; HYOS.; OP. (stupefactions more profound). MIMOSA - Sensitive Plant - (rheumatism, knee stiff, lancinating pains in back and limbs. Swelling of ankles. Legs tremble).Complementary: BRY.; CALC. FLUOR. PHYTOL. (Rheumatism). In urticaria follow with BOVISTA.Inimical: APIS.Antidotes: Bathing with milk and Grindelia lotion very effective. AMPELOPSIS TRIFOLIA - Three-leaf Woodbine - (Toxic dermatitis due to vegetable poisons - 30 and 200. Very similar to Rhus poisoning. Desensitizing against Ivy poisoning by the use of ascending doses of the tincture by mouth or by hypodermic injections is recommended by old school authorities, but is not as effective as the homeopathic remedies especially RHUS 30 and 200 and ANACARD., etc. ANACARD.; CROTON.; GRINDELIA; MEZER.; CYP RIP.; PLUMBAGO (eczema of vulva); GRAPH.", 
+  "Modalities": [
+    "Worse: during sleep", 
+    "Worse: cold", 
+    "Worse: wet rainy weather and after rain; at night", 
+    "Worse: during rest", 
+    "Worse: drenching", 
+    "Worse: when lying on back or right side", 
+    "Better: warm", 
+    "Better: dry weather", 
+    "Better: motion; walking", 
+    "Better: change of position", 
+    "Better: rubbing", 
+    "Better: warm applications", 
+    "Better: from stretching out limbs"
+  ], 
   "symptoms": {
     "Urine": [
       "Dysuria, with loss of blood", 
@@ -105,21 +120,6 @@
       "Pulse quick, weak, irregular, intermittent, with numbness of left arm", 
       "Trembling and palpitation when sitting still", 
       "Hypertrophy from over exertion"
-    ], 
-    "Modalities": [
-      "Worse: during sleep", 
-      "Worse: cold", 
-      "Worse: wet rainy weather and after rain; at night", 
-      "Worse: during rest", 
-      "Worse: drenching", 
-      "Worse: when lying on back or right side", 
-      "Better: warm", 
-      "Better: dry weather", 
-      "Better: motion; walking", 
-      "Better: change of position", 
-      "Better: rubbing", 
-      "Better: warm applications", 
-      "Better: from stretching out limbs"
     ], 
     "Mind": [
       "Listless, sad", 

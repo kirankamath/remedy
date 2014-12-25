@@ -1,6 +1,12 @@
 {
   "name": "Allium cepa", 
   "Relationship": "Antidotes: ARN.; CHAM.; VERAT.Complementary: PHOSPHOR.; THUJA; PULS.Compare: GELS.; EUPH.; Kali-HY.; ACONITE; IPECAC.", 
+  "Modalities": [
+    "Worse: in the evening", 
+    "Worse: in warm room", 
+    "Better: in open air", 
+    "Better: and in cold room"
+  ], 
   "symptoms": {
     "Eyes": [
       "Burning in eyelids", 
@@ -29,12 +35,6 @@
       "Headache ceases during menses; returns when flow disappears", 
       "Thread-like pains in face", 
       "Catarrhal headache, mostly in forehead; worse in warm room towards evening"
-    ], 
-    "Modalities": [
-      "Worse: in the evening", 
-      "Worse: in warm room", 
-      "Better: in open air", 
-      "Better: and in cold room"
     ], 
     "Urine": [
       "Urine red with much pressure and burning in urethra", 

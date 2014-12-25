@@ -1,6 +1,15 @@
 {
   "name": "Onosmodium", 
   "Relationship": "Compare: NAT-MUR.; LILIUM; GELS.; RUTA.", 
+  "Modalities": [
+    "Worse: from motion", 
+    "Worse: jar", 
+    "Worse: and tight clothing", 
+    "Better: when undressed", 
+    "Better: when lying down on back", 
+    "Better: from cold drinks", 
+    "Better: and eating"
+  ], 
   "symptoms": {
     "Eyes": [
       "Eyes heavy and dull, muscular asthenopia; ocular muscles tense", 
@@ -16,15 +25,6 @@
       "Pain in temples and mastoid", 
       "Nose feels dry", 
       "Loss of memory"
-    ], 
-    "Modalities": [
-      "Worse: from motion", 
-      "Worse: jar", 
-      "Worse: and tight clothing", 
-      "Better: when undressed", 
-      "Better: when lying down on back", 
-      "Better: from cold drinks", 
-      "Better: and eating"
     ], 
     "Chest": [
       "Pain in heart; pulse, rapid, irregular, weak", 

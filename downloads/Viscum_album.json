@@ -1,6 +1,11 @@
 {
   "name": "Viscum album", 
   "Relationship": "Compare: SECALE; CONVALLAR.; BRY.; PULS.; RHODOD. GUIPSINE - active principle - (exalts the hypotensive properties of Viscum). HEDERA HELIX - Ivy - (Inter cranial pressure).", 
+  "Modalities": [
+    "Worse: winter", 
+    "Worse: cold", 
+    "Worse: stormy weather; in bed"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation during coitus", 
@@ -23,11 +28,6 @@
       "Stertorous breathing", 
       "Asthma, if connected with gout or rheumatism", 
       "Spasmodic cough"
-    ], 
-    "Modalities": [
-      "Worse: winter", 
-      "Worse: cold", 
-      "Worse: stormy weather; in bed"
     ], 
     "Female": [
       "Metrorrhagia", 

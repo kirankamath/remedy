@@ -1,6 +1,13 @@
 {
   "name": "Stannum", 
   "Relationship": "Complementary: PULS.Compare: STANN. IOD. 3X. (Valuable in chronic chest diseases characterized by plastic tissue changes. Persistent inclination to cough, excited by tickling dry spot in the throat, apparently at root of tongue. Dryness of throat. Trachial and bronchial irritation of smokers. Pulmonary symptoms; cough, loud, hollow, ending with expectoration. (Phellandrium.) State of purulent infiltration. ADVANCED phthisis sometimes when Stann. jod. has not taken effect, an additional dose of Iodine in milk caused the drug to have its usual beneficial effect. (Stonham.) Compare: CAUST.; CALC.; SIL.; TUBERC.; BACIL.; HELON. MYRTUS CHEKAN (chronic bronchitis, cough of phthisis, emphysema, with gastric catarrhal complications and thick, yellow difficult sputum. Old persons with weakened power of expectoration.)", 
+  "Modalities": [
+    "Worse: using voice", 
+    "Worse: lying on right side", 
+    "Worse: warm drinks", 
+    "Better: coughing or expectorating", 
+    "Better: hard pressure"
+  ], 
   "symptoms": {
     "Head": [
       "Drawing pains in malar bones and orbits", 
@@ -28,13 +35,6 @@
       "Smell of cooking causes vomiting", 
       "Pain better pressure, but sore to touch", 
       "Hunger"
-    ], 
-    "Modalities": [
-      "Worse: using voice", 
-      "Worse: lying on right side", 
-      "Worse: warm drinks", 
-      "Better: coughing or expectorating", 
-      "Better: hard pressure"
     ], 
     "Mind": [
       "Dread of seeing people", 

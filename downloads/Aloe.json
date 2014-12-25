@@ -1,6 +1,12 @@
 {
   "name": "Aloe", 
   "Relationship": "Complementary: Sulphur; compare: Kali-bich.; Lycop.; Allium sat.", 
+  "Modalities": [
+    "Worse: early morning; summer; heat; in hot", 
+    "Worse: dry weather; after eating or drinking", 
+    "Better: from cold", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Head": [
       "Headache alternates with lumbago, with intestinal and uterine affections", 
@@ -71,12 +77,6 @@
       "Cracking when chewing", 
       "Sudden explosion and clashing in left ear", 
       "Tinkling as of some thin, shivered, metallic globe in head"
-    ], 
-    "Modalities": [
-      "Worse: early morning; summer; heat; in hot", 
-      "Worse: dry weather; after eating or drinking", 
-      "Better: from cold", 
-      "Better: open air"
     ], 
     "Urine": [
       "Incontinence in aged, bearing-down sensation and enlarged prostate", 

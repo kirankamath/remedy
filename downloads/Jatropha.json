@@ -1,6 +1,9 @@
 {
   "name": "Jatropha", 
   "Relationship": "Compare: CAMPH.; VERAT.; GAMBOGE.; CROTON.; JATROPHA URENS - Sponge-nettle - (oedema and cardiac paresis).", 
+  "Modalities": [
+    "Better: by placing hands in cold water"
+  ], 
   "symptoms": {
     "Stomach": [
       "Hiccough, followed by copious vomiting", 
@@ -8,9 +11,6 @@
       "Very easy vomiting", 
       "Nausea and vomiting, brought on by drinking, with acrid feeling from throat", 
       "Great thirst"
-    ], 
-    "Modalities": [
-      "Better: by placing hands in cold water"
     ], 
     "Stool": [
       "Diarrhoea; forced discharge; loud noise in abdomen like gurgling of water coming out of a bung-hole, associated with coldness, cramps, nausea, and vomiting", 

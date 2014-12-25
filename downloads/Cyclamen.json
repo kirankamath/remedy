@@ -1,6 +1,16 @@
 {
   "name": "Cyclamen", 
   "Relationship": "Compare: AMBRA; PULSAT.; CINCHONA; FERR. CIT. ET. CHIN.", 
+  "Modalities": [
+    "Worse: open air", 
+    "Worse: evenings", 
+    "Worse: sitting", 
+    "Worse: standing and cold water", 
+    "Better: during menstrual flow", 
+    "Better: by moving about", 
+    "Better: rubbing parts; in warm room", 
+    "Better: lemonade"
+  ], 
   "symptoms": {
     "Eyes": [
       "Diplopia", 
@@ -20,16 +30,6 @@
     ], 
     "Rectum": [
       "Pain about anus and perineum, as if a spot were suppurating, when walking or sitting"
-    ], 
-    "Modalities": [
-      "Worse: open air", 
-      "Worse: evenings", 
-      "Worse: sitting", 
-      "Worse: standing and cold water", 
-      "Better: during menstrual flow", 
-      "Better: by moving about", 
-      "Better: rubbing parts; in warm room", 
-      "Better: lemonade"
     ], 
     "Head": [
       "Terrors of conscience", 

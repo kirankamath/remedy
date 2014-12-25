@@ -1,15 +1,15 @@
 {
   "name": "Cinnabaris mercurius sulphuratus ruber", 
   "Relationship": "Compare: HEPAR; NIT-AC.; THUJA; SEP.Antidotes: HEPAR; SULPH.", 
+  "Modalities": [
+    "Worse: lying on right side"
+  ], 
   "symptoms": {
     "Eyes": [
       "Lids granulated; canthi and lids red", 
       "Severe shooting pain in bones of orbit, especially running from inner to outer canthus in the bone", 
       "Pains from lachrymal duct around eye to temple, from inner canthus across brows to ear", 
       "Redness of whole eye"
-    ], 
-    "Modalities": [
-      "Worse: lying on right side"
     ], 
     "Head": [
       "Congestion to head; face purple red"

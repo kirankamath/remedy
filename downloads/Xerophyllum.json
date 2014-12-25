@@ -1,6 +1,13 @@
 {
   "name": "Xerophyllum", 
   "Relationship": "Compare: RHUS; ANACARD.; GRINDELIA.", 
+  "Modalities": [
+    "Worse: application of cold water", 
+    "Worse: in afternoon and evening", 
+    "Better: application of hot water", 
+    "Better: in morning", 
+    "Better: moving affected part"
+  ], 
   "symptoms": {
     "Mind": [
       "Dull, cannot concentrate mind for study; forgets names; writes last letters of words first; misspells common words"
@@ -45,13 +52,6 @@
     ], 
     "Nose": [
       "Stuffed; tightness at bridge of nose; acute nasal catarrh"
-    ], 
-    "Modalities": [
-      "Worse: application of cold water", 
-      "Worse: in afternoon and evening", 
-      "Better: application of hot water", 
-      "Better: in morning", 
-      "Better: moving affected part"
     ], 
     "Urine": [
       "Difficulty of retaining; dribbling when walking", 

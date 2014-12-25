@@ -1,6 +1,12 @@
 {
   "name": "Kali sulphuricum", 
   "Relationship": "Compare: KALI-SULPH. CHROMIC. ALUM OF CHROME - 3X. (Produces in the nasal passages very fine threads from the septum to external wall; affections of nasal fossae and hay-fever. Chronic colds. Sneezing, red, watery eyes, irritation of mucous membrane). PULSAT.; KALI-BICH.; NAT-M.", 
+  "Modalities": [
+    "Worse: in evening", 
+    "Worse: heated room", 
+    "Better: cool", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Head": [
       "Dandruff and scaldhead", 
@@ -18,12 +24,6 @@
       "Tongue coated yellow and slimy", 
       "Burning thirst, nausea, and vomiting", 
       "Load feeling"
-    ], 
-    "Modalities": [
-      "Worse: in evening", 
-      "Worse: heated room", 
-      "Better: cool", 
-      "Better: open air"
     ], 
     "Abdomen": [
       "Yellow, slimy diarrhoea", 

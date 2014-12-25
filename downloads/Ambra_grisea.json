@@ -1,6 +1,11 @@
 {
   "name": "Ambra grisea", 
   "Relationship": "Do not confound with AMBER - Succinum. q.v. MOSCHUS frequently follows advantageously. Compare: Oleum succinum (hiccough). Sumbul; Castor.; Asaf.; Crocus. Lilium.", 
+  "Modalities": [
+    "Worse: music; presence of strangers; from any unusual thing; morning", 
+    "Worse: warm room", 
+    "Better: slow motion in open air; lying on painful part; cold drinks"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpation, with pressure in chest as if from a lump lodged there, or as if chest were obstructed", 
@@ -31,11 +36,6 @@
       "Acid eructations, like heartburn", 
       "Sensation of coldness in abdomen", 
       "Eructations, with violent, convulsive cough"
-    ], 
-    "Modalities": [
-      "Worse: music; presence of strangers; from any unusual thing; morning", 
-      "Worse: warm room", 
-      "Better: slow motion in open air; lying on painful part; cold drinks"
     ], 
     "Urine": [
       "Pain in bladder and rectum at the same time", 

@@ -1,6 +1,11 @@
 {
   "name": "Lac caninum", 
   "Relationship": "Compare: LACH.; CONG.; LAC FELINUM - Cat's Milk - (ciliary neuralgia; eye symptoms, photophobia; ASTHENOPIA; dysmenorrhoea); LAC VACCINUM - Cow's Milk - (headache, rheumatic pains, constipation); LAC VACCINUM COAGULATUM - Curds - (nausea of pregnancy); LACTIC VACCINI FLOC - Cream - (diphtheria, leucorrhoea, menorrhagia, dysphagia); LACTIC-AC.", 
+  "Modalities": [
+    "Worse: morning of one day and in the evening of next", 
+    "Better: cold", 
+    "Better: cold drinks"
+  ], 
   "symptoms": {
     "Head": [
       "Reverberation of voice", 
@@ -10,11 +15,6 @@
       "Occipital pain, with shooting extending to forehead", 
       "Noises in ears", 
       "Blurred vision, nausea and vomiting at height of attack of headache"
-    ], 
-    "Modalities": [
-      "Worse: morning of one day and in the evening of next", 
-      "Better: cold", 
-      "Better: cold drinks"
     ], 
     "Mind": [
       "Visions of snakes", 

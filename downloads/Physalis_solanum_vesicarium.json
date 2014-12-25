@@ -1,6 +1,8 @@
 {
-  "Natural History": "Alkekengi - Winter Cherry", 
-  "details": "Marked urinary symptoms confirming its ancient uses in gravel, etc. Lithiasis; marked diuretic action. Languor and muscular weakness.Recommended in facial paralysis.", 
+  "name": "Physalis solanum vesicarium", 
+  "Modalities": [
+    "Worse: cold camp evening"
+  ], 
   "symptoms": {
     "Head": [
       "Dryness of mouth", 
@@ -13,9 +15,6 @@
       "Chilly in open air", 
       "Sweat during stool, with creeping sensation, with abundant urine", 
       "Pain in liver during fever"
-    ], 
-    "Modalities": [
-      "Worse: cold camp evening"
     ], 
     "Urine": [
       "Polyuria", 
@@ -38,6 +37,7 @@
       "Stiff limbs; tonic cramps"
     ]
   }, 
-  "name": "Physalis solanum vesicarium", 
+  "details": "Marked urinary symptoms confirming its ancient uses in gravel, etc. Lithiasis; marked diuretic action. Languor and muscular weakness.Recommended in facial paralysis.", 
+  "Natural History": "Alkekengi - Winter Cherry", 
   "dosage": "Tincture to third attenuation. The"
 }

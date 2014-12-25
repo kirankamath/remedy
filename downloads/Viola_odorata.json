@@ -1,6 +1,9 @@
 {
   "name": "Viola odorata", 
   "Relationship": "Compare: ULMUS (formication in feet, numb, creeping pain in legs and feet; rheumatic pains above wrists; numbness, tingling, and full soreness where gastrocnemius gives off its tendon); CHENOPODIUM (EARS; SEROUS OR BLOODY EFFUSIONS IN THE LABYRINTH; chronic otitis media; progressive DEAFNESS TO THE VOICE, BUT SENSITIVE TO SOUNDS of passing vehicles and other sounds; buzzing; absent or deficient bone conduction; a consciousness of the ear; hearing better for shrill, high-pitched sounds than for low ones); AUR.; PULS.; SEP.; IGN.; CINA; CAULOP. (In rheumatism of small joints.)", 
+  "Modalities": [
+    "Worse: cool air"
+  ], 
   "symptoms": {
     "Eyes": [
       "Choroiditis", 
@@ -17,9 +20,6 @@
       "Dyspnoea during pregnancy", 
       "Pertussis, with hoarseness", 
       "Dry, short, spasmodic cough and dyspnoea; worse in daytime"
-    ], 
-    "Modalities": [
-      "Worse: cool air"
     ], 
     "Urine": [
       "Enuresis in nervous children", 

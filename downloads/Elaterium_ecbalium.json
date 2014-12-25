@@ -1,6 +1,9 @@
 {
   "name": "Elaterium ecbalium", 
   "Relationship": "Compare: BRY.; CROTON; GAMBOGIA.", 
+  "Modalities": [
+    "Worse: from exposure on damp ground"
+  ], 
   "symptoms": {
     "Fever": [
       "Chills and fever, with spurting diarrhoea", 
@@ -10,9 +13,6 @@
     "Stomach": [
       "Nausea and vomiting, with great weakness", 
       "Griping pains in bowels"
-    ], 
-    "Modalities": [
-      "Worse: from exposure on damp ground"
     ], 
     "Stool": [
       "Squirting diarrhoea; frothy, olive green, with cutting in abdomen", 

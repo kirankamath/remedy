@@ -1,6 +1,10 @@
 {
   "name": "Carboneum sulphuratum", 
   "Relationship": "Compare: Potass. Xanthate - (Similar in action. Acts on cortical substance; loss of memory, marked blood degeneration; impotence and senility. Tuberculin; Radium; Carbo; Sulph.; Caust.; Salicyl-ac.; Cinch. In eye symptoms compare: Benzin. dinitric. Thyroidin (progressive diminution of sight with central Scotoma).", 
+  "Modalities": [
+    "Worse: after breakfast; bathing", 
+    "Better: in open air"
+  ], 
   "symptoms": {
     "Eyes": [
       "Myopia, asthenopia, and dis-chromotopsia, cloudiness and atrophy of optic disc and central scotoma for light and for red and green not for white", 
@@ -17,10 +21,6 @@
       "Ulceration of the lips, anaesthesia of mouth and tongue", 
       "Headache and dizziness", 
       "Noises in head"
-    ], 
-    "Modalities": [
-      "Worse: after breakfast; bathing", 
-      "Better: in open air"
     ], 
     "Mind": [
       "Hallucination of sight and hearing", 

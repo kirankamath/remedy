@@ -1,6 +1,19 @@
 {
   "name": "Lycopodium", 
   "Relationship": "Compare: Carbo-nitrogenoid Constitution: SULPHUR; RHUS; URTICA; MERCUR.; HEPAR. ALUMINA. (Lycop. is the only vegetable that takes up aluminum. T. F. Allen.) ANT. C.; NAT-M.; BRY.; NUX; BOTHROPS (Day-blindness; can scarcely see after sunrise; pain in right great toe). PLUMBAGO LITTORALIS - A Brazilian plant - (Costive with red urine, pain in kidneys and joints and body generally; milky saliva, ulcerated mouth). HYDRAST. follows LYCOP. in indigestion.Antidotes: CAMPH.; PULS.; CAUST.Complementary: LYCOP. acts with special benefit AFTER CALCAR. and SULPHUR. IOD.; GRAPHITES; LACH.; CHELIDON.", 
+  "Modalities": [
+    "Worse: right side", 
+    "Worse: from right to left", 
+    "Worse: from above downward", 
+    "Worse: 4 to eight pm; from heat or warm room", 
+    "Worse: hot air", 
+    "Worse: bed", 
+    "Better: by motion", 
+    "Better: after midnight", 
+    "Better: from warm food and drink", 
+    "Better: on getting cold", 
+    "Better: from being uncovered"
+  ], 
   "symptoms": {
     "Urine": [
       "Pain in back before urinating; ceases after flow; slow in coming, must strain", 
@@ -125,19 +138,6 @@
       "Aneurism", 
       "Palpitation at night", 
       "Cannot lie on left side"
-    ], 
-    "Modalities": [
-      "Worse: right side", 
-      "Worse: from right to left", 
-      "Worse: from above downward", 
-      "Worse: 4 to eight pm; from heat or warm room", 
-      "Worse: hot air", 
-      "Worse: bed", 
-      "Better: by motion", 
-      "Better: after midnight", 
-      "Better: from warm food and drink", 
-      "Better: on getting cold", 
-      "Better: from being uncovered"
     ], 
     "Mind": [
       "Hurried when eating", 

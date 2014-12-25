@@ -1,6 +1,13 @@
 {
   "name": "Kali bichromicum", 
   "Relationship": "Antidotes: ARS.; LACH.Compare: TART. EMET.; BROM.; HEPAR; IND.; CALC.;' ANT. CR. In the production of false membranes compare: BROM.; AMMON. CAUST.; SULPH-AC.; IPECAC.", 
+  "Modalities": [
+    "Worse: beer", 
+    "Worse: morning", 
+    "Worse: hot weather", 
+    "Worse: undressing", 
+    "Better: from heat"
+  ], 
   "symptoms": {
     "Stool": [
       "Dysentery; tenesmus, stools brown, frothy", 
@@ -100,13 +107,6 @@
     "Heart": [
       "Cold feeling around heart", 
       "Dilatation, especially from coexisting kidney lesion"
-    ], 
-    "Modalities": [
-      "Worse: beer", 
-      "Worse: morning", 
-      "Worse: hot weather", 
-      "Worse: undressing", 
-      "Better: from heat"
     ], 
     "Urine": [
       "Hematochyluria", 

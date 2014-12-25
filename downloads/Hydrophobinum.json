@@ -1,6 +1,10 @@
 {
   "name": "Hydrophobinum", 
   "Relationship": "Compare: XANTHIUM SPINOSUM - Cockle - (said to be specific for hydrophobia and is recommended for chronic cystitis in women). CANTH.; BELL.; STRAM.; LACH.; NAT-MUR.", 
+  "Modalities": [
+    "Worse: sight or sound of running water or pouring water", 
+    "Worse: or even thinking of fluids; dazzling or reflected light; heat of sun; stooping"
+  ], 
   "symptoms": {
     "Head": [
       "Hypersensitiveness of all senses", 
@@ -13,10 +17,6 @@
       "Spasmodic contraction of respiratory muscles", 
       "Voice altered in tone", 
       "Breathing held for a time"
-    ], 
-    "Modalities": [
-      "Worse: sight or sound of running water or pouring water", 
-      "Worse: or even thinking of fluids; dazzling or reflected light; heat of sun; stooping"
     ], 
     "Stool": [
       "Desire for stool on hearing or seeing running water", 

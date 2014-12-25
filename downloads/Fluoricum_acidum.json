@@ -1,37 +1,22 @@
 {
   "name": "Fluoricum acidum", 
   "Relationship": "Compare: THIOSINAMINUM (action on cicatricial tissues; adhesions, strictures, tumors); CALC. FLUOR.; SILICA. Complementary: SILICA.", 
+  "Modalities": [
+    "Worse: warmth", 
+    "Worse: morning", 
+    "Worse: warm drinks", 
+    "Better: cold", 
+    "Better: while walking"
+  ], 
   "symptoms": {
-    "Respiratory": [
-      "Hydrothorax", 
-      "Oppression of chest, difficult breathing, great dyspnoea"
-    ], 
-    "Mind": [
-      "Mentally elated and gay", 
-      "Indifference towards those loved bets; inability to realize responsibility; buoyancy"
-    ], 
-    "Stool": [
-      "Bilious diarrhoea, with aversion to coffee"
-    ], 
-    "Head": [
-      "Alopecia", 
-      "Caries of skin", 
-      "Exostosis", 
-      "Pressure on sides of head from within outward", 
-      "Caries of ossicles and mastoid, with copious discharge; worse warmth"
-    ], 
-    "Nose": [
-      "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
-    ], 
-    "Male": [
-      "Swollen scrotum", 
-      "Burning in urethra", 
-      "Sexual passion and desire increased, with erections at night, during sleep"
-    ], 
     "Eyes": [
       "Violent itching of inner canthus", 
       "Sensation as of wind blowing through eyes", 
       "Lachrymal fistula"
+    ], 
+    "Respiratory": [
+      "Hydrothorax", 
+      "Oppression of chest, difficult breathing, great dyspnoea"
     ], 
     "Stomach": [
       "Desire for highly seasoned food", 
@@ -43,26 +28,30 @@
       "Heaviness and weight in stomach", 
       "Averse to coffee, wants fancy dishes"
     ], 
-    "Modalities": [
-      "Worse: warmth", 
-      "Worse: morning", 
-      "Worse: warm drinks", 
-      "Better: cold", 
-      "Better: while walking"
-    ], 
     "Urine": [
       "Scanty, dark", 
       "In dropsy, produces frequent and free discharge, with great relief"
+    ], 
+    "Head": [
+      "Alopecia", 
+      "Caries of skin", 
+      "Exostosis", 
+      "Pressure on sides of head from within outward", 
+      "Caries of ossicles and mastoid, with copious discharge; worse warmth"
+    ], 
+    "Mind": [
+      "Mentally elated and gay", 
+      "Indifference towards those loved bets; inability to realize responsibility; buoyancy"
+    ], 
+    "Stool": [
+      "Bilious diarrhoea, with aversion to coffee"
     ], 
     "Abdomen": [
       "Flatus and eructations", 
       "Soreness over liver"
     ], 
-    "Mouth": [
-      "Dental fistula, with persistent, bloody, salty discharge", 
-      "Affects teeth and bones of upper jaw", 
-      "Teeth feel warm", 
-      "Syphilitic ulceration of throat, which is very sensitive to cold"
+    "Nose": [
+      "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
     ], 
     "Female": [
       "Nymphomania", 
@@ -87,6 +76,12 @@
       "Tissues bloated", 
       "Itching especially of the orifices, and in spots, worse warmth"
     ], 
+    "Mouth": [
+      "Dental fistula, with persistent, bloody, salty discharge", 
+      "Affects teeth and bones of upper jaw", 
+      "Teeth feel warm", 
+      "Syphilitic ulceration of throat, which is very sensitive to cold"
+    ], 
     "Extremities": [
       "Feeling as of a splinter under nail", 
       "Ulcer over tibia", 
@@ -94,6 +89,11 @@
       "Nails crumble", 
       "Inflammation of joints of fingers", 
       "Coccygodynia"
+    ], 
+    "Male": [
+      "Swollen scrotum", 
+      "Burning in urethra", 
+      "Sexual passion and desire increased, with erections at night, during sleep"
     ]
   }, 
   "details": "Especially adapted to chronic diseases with syphilitic and mercurial history. GLABELLA REGION BLOATED. Acts especially upon lower tissues, and indicated in deep, destructive processes, bedsores, ulcerations, varicose veins, and ulcers. Patient is compelled to move about energetically. Complaints of old age, or the prematurely aged, with weak, distended blood vessels. Hobnailed liver of alcoholics. GOITRE (Dr. Woakes) (Kali-fluoride produced bronchocele in dogs). Early decay of teeth. Old cases of nightly fevers, coming on periodically.", 

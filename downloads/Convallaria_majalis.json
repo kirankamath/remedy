@@ -1,6 +1,10 @@
 {
   "name": "Convallaria majalis", 
   "Relationship": "Compare: DIGIT.; CRATAEG.; LILIUM; ADONIS (feeble heart action due only to functional disturbance).", 
+  "Modalities": [
+    "Worse: in warm room", 
+    "Better: in open air"
+  ], 
   "symptoms": {
     "Heart": [
       "Sensation as if heart ceased beating, then starting very suddenly", 
@@ -15,10 +19,6 @@
       "Chilly in back and down spine, followed by fever, little sweat", 
       "Dyspnoea during fever", 
       "Thirst and headache during chill"
-    ], 
-    "Modalities": [
-      "Worse: in warm room", 
-      "Better: in open air"
     ], 
     "Urine": [
       "Frequent urination; offensive; scanty urine", 

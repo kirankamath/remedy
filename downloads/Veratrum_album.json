@@ -1,6 +1,11 @@
 {
   "name": "Veratrum album", 
   "Relationship": "Compare: VERATRINUM - alkaloid from seed of Sabadilla. - (electric pains, electric shocks in muscles, fibrillary twitchings); CHOLOS TERRAPINA (cramps in calves); CAMPH.; CUPR.; ARS.; CUPRUM ARS. (INTERMITTENT, COLD, CLAMMY SWEAT); NARCISSUS POETICUS (gastroenteritis with much griping and cutting pain in bowels. Fainting, trembling, cold limbs, small and irregular pulse); TRICHOSANTHES - (diarrhoea, pain in liver, dizziness after every stool); AGARIC. EMETIC. (Vertigo; longing for ice-cold water; burning pains in stomach); AGARIC PHALLOIDES (cholera, cramps in stomach, cold extremities, urine suppressed). VERATRINE (Increased vascular tension. It relaxes it and stimulates the elimination of toxins by skin, kidneys, and liver).", 
+  "Modalities": [
+    "Worse: at night; wet", 
+    "Worse: cold weather", 
+    "Better: walking and warmth"
+  ], 
   "symptoms": {
     "Rectum": [
       "Constipation from inactivity of rectum, with heat and headache", 
@@ -41,11 +46,6 @@
       "Neck too weak to hold head up", 
       "Headache, with nausea, vomiting, diarrhoea, pale face", 
       "Cold sweat on forehead"
-    ], 
-    "Modalities": [
-      "Worse: at night; wet", 
-      "Worse: cold weather", 
-      "Better: walking and warmth"
     ], 
     "Mind": [
       "Aimless wandering from home", 

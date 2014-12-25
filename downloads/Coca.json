@@ -1,6 +1,12 @@
 {
   "name": "Coca", 
   "Relationship": "Antidote: GELS.Compare: ARS.; PAULIN.; CYP; CHAMOM.", 
+  "Modalities": [
+    "Better: from wine; riding", 
+    "Better: quick motion in open air", 
+    "Worse: ascending", 
+    "Worse: high altitudes"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation, with weak heart and dyspnoea"
@@ -31,12 +37,6 @@
       "Peppery sensation in mouth", 
       "Incarcerated flatus; rises with noise and violence, as if it would split the oesophagus", 
       "Longing for alcoholic liquors and tobacco"
-    ], 
-    "Modalities": [
-      "Better: from wine; riding", 
-      "Better: quick motion in open air", 
-      "Worse: ascending", 
-      "Worse: high altitudes"
     ], 
     "Mind": [
       "Sense of right and wrong abolished", 

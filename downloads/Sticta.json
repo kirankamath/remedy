@@ -1,6 +1,9 @@
 {
   "name": "Sticta", 
   "Relationship": "Compare: DATURA ARBOREA - BOUGMANCIA CANDIDA (cannot concentrate thoughts; brain floats in thousands of problems and grand ideas. Floating sensation as if ideas were floating outside of brain. Headache, heartburn. Burning sensation around cardiac end of stomach, extending to oesophagus with sense of constriction. Heat and fullness over liver region.) CERTRARIA - Iceland Moss (chronic diarrhoea, phthisis, bloody expectoration. Is used as a decoction and boiled with milk as an expectorant and nutrient in bronchorrhea, catarrh, etc.) Also compare: ERYNG.; DROS.; STILLING.; RUMEX; SAMBUCUS.", 
+  "Modalities": [
+    "Worse: sudden changes of temperature"
+  ], 
   "symptoms": {
     "Head": [
       "Catarrhal headache before discharge appears", 
@@ -18,9 +21,6 @@
       "Throat raw; dropping of mucus posteriorly", 
       "Dry, hacking cough during night; worse, inspiration", 
       "Pulsation from right side of sternum down to abdomen"
-    ], 
-    "Modalities": [
-      "Worse: sudden changes of temperature"
     ], 
     "Mind": [
       "Feels as if floating in air", 

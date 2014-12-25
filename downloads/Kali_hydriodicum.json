@@ -1,6 +1,14 @@
 {
   "name": "Kali hydriodicum", 
   "Relationship": "Antidote: HEPAR.Compare: IOD.; MERCUR.; SULPH; MEZER. CHOPHEENEE, a Hindu remedy for syphilitic eruptions, ulcerations and bone-pains. Used in tincture.", 
+  "Modalities": [
+    "Worse: warm clothing", 
+    "Worse: warm room", 
+    "Worse: at night", 
+    "Worse: damp weather", 
+    "Better: motion", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Eyes": [
       "Bony tumors of the orbit", 
@@ -31,14 +39,6 @@
       "Faintness at epigastrium", 
       "Throbbing, painful burning", 
       "Saliva increased"
-    ], 
-    "Modalities": [
-      "Worse: warm clothing", 
-      "Worse: warm room", 
-      "Worse: at night", 
-      "Worse: damp weather", 
-      "Better: motion", 
-      "Better: open air"
     ], 
     "Mind": [
       "Irritable; congestion to head, heat and throbbing", 

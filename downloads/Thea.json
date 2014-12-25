@@ -1,6 +1,11 @@
 {
   "name": "Thea", 
   "Relationship": "Antidote: KALI-HYPO PHOS.; THUJA.; FERR.; KALI-HYD. (Material doses for tea-taster's cough.)", 
+  "Modalities": [
+    "Worse: night", 
+    "Worse: on walking in open air", 
+    "Worse: after meals"
+  ], 
   "symptoms": {
     "Heart": [
       "Pulse rapid, irregular, intermittent", 
@@ -22,11 +27,6 @@
       "Craves acids", 
       "Sinking sensation at epigastrium", 
       "Sudden production of wind in large quantities"
-    ], 
-    "Modalities": [
-      "Worse: night", 
-      "Worse: on walking in open air", 
-      "Worse: after meals"
     ], 
     "Abdomen": [
       "Liability to hernia", 

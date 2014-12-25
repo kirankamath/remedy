@@ -1,6 +1,11 @@
 {
   "name": "Crataegus", 
   "Relationship": "STROPHANTUS; DIGIT.; IBERIS; NAJA; CACTUS.", 
+  "Modalities": [
+    "Worse: in warm room", 
+    "Better: fresh air", 
+    "Better: quiet and rest"
+  ], 
   "symptoms": {
     "Heart": [
       "Cardiac dropsy", 
@@ -20,11 +25,6 @@
       "Apprehensive, despondent", 
       "Mental dullness conjunctival irritation nasal discharges", 
       "Very nervous and irritable, with pain in back of head and neck"
-    ], 
-    "Modalities": [
-      "Worse: in warm room", 
-      "Better: fresh air", 
-      "Better: quiet and rest"
     ], 
     "Urine": [
       "Diabetes, especially in children"

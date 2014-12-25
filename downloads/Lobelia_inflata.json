@@ -1,6 +1,16 @@
 {
   "name": "Lobelia inflata", 
   "Relationship": "Antidote: IPEC.LOBELIA SYPHILITICA OR CERULEA (gives a perfect picture of sneezing influenza, involving the posterior nares, palate, and fauces. Very depressed. Pain in forehead over eyes; pain and gas in bowels, followed by copious watery stools with tenesmus and soreness of anus. Pain in knees. Prickling in soles. GREAT OPPRESSION IN LOWER PART OF CHEST, as if air could not reach there. PAIN IN CHEST UNDER SHORT RIBS OF LEFT SIDE. Dry, hacking cough. Breathing difficult. Dull, aching pain over root of nose. Eustachian catarrh. Pain in posterior part of spleen.) LOBELIA ERINUS (MALIGNANT GROWTHS, extremely rapid development; colloid cancer of the omentum; cork-screw-like pains in abdomen; great dryness of skin, nasal and buccal mucous membranes; distaste for brandy; dry, eczematous patches covering points of first fingers. Malignant disease of the face. Epithelioma).", 
+  "Modalities": [
+    "Worse: tobacco", 
+    "Worse: afternoon", 
+    "Worse: slightest motion", 
+    "Worse: cold", 
+    "Worse: especially cold washing", 
+    "Better: by rapid walking;", 
+    "Better: toward evening", 
+    "Better: and from warmth"
+  ], 
   "symptoms": {
     "Head": [
       "Gastric headache, with nausea, vomiting, and great prostration; worse, afternoon until midnight; tobacco", 
@@ -27,16 +37,6 @@
       "Cannot bear smell or taste of tobacco", 
       "Heartburn", 
       "Profuse sweat and prostration"
-    ], 
-    "Modalities": [
-      "Worse: tobacco", 
-      "Worse: afternoon", 
-      "Worse: slightest motion", 
-      "Worse: cold", 
-      "Worse: especially cold washing", 
-      "Better: by rapid walking;", 
-      "Better: toward evening", 
-      "Better: and from warmth"
     ], 
     "Urine": [
       "Deep red color and copious red sediment"

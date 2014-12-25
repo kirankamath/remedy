@@ -1,6 +1,9 @@
 {
   "name": "Cajuputum", 
   "Relationship": "Compare: Bovista.; Nux mosch.; Asaf.; Ign.; Bapt.", 
+  "Modalities": [
+    "Worse: about five am; night"
+  ], 
   "symptoms": {
     "Head": [
       "As if he could not get himself together", 
@@ -8,9 +11,6 @@
     ], 
     "Stomach": [
       "Hiccough, on slightest provocation"
-    ], 
-    "Modalities": [
-      "Worse: about five am; night"
     ], 
     "Abdomen": [
       "Flatulence colic; tympanites", 

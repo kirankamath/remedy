@@ -1,6 +1,16 @@
 {
   "name": "Magnesia phosphorica", 
   "Relationship": "Antidotes: BELL.; GELS.; LACH.Compare: KALI-PHOS.; COLOCY.; SILICA; ZINC.; DIOS.", 
+  "Modalities": [
+    "Worse: right side", 
+    "Worse: cold", 
+    "Worse: touch", 
+    "Worse: night", 
+    "Better: warmth", 
+    "Better: bending double", 
+    "Better: pressure", 
+    "Better: friction"
+  ], 
   "symptoms": {
     "Heart": [
       "Constricting pains around heart", 
@@ -26,16 +36,6 @@
       "Vertigo on moving, falls forward on closing eyes, better walking in open air", 
       "Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head", 
       "Aches after mental labor, with chilliness; always better warmth"
-    ], 
-    "Modalities": [
-      "Worse: right side", 
-      "Worse: cold", 
-      "Worse: touch", 
-      "Worse: night", 
-      "Better: warmth", 
-      "Better: bending double", 
-      "Better: pressure", 
-      "Better: friction"
     ], 
     "Mind": [
       "Laments all the time about the pain", 

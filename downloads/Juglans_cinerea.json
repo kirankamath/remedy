@@ -1,6 +1,13 @@
 {
   "name": "Juglans cinerea", 
   "Relationship": "Compare: JUGLANDIN (duodenal catarrh; bilious diarrhoea); CHELIDON.; BRYON.; IRIS.", 
+  "Modalities": [
+    "Better: getting heated", 
+    "Better: exercise", 
+    "Better: scratching", 
+    "Better: on rising in morning", 
+    "Worse: walking"
+  ], 
   "symptoms": {
     "Head": [
       "Pustules on lids and around eyes", 
@@ -12,13 +19,6 @@
     "Stomach": [
       "Atonic dyspepsia with much eructations and flatulent distention", 
       "Soreness in region of liver"
-    ], 
-    "Modalities": [
-      "Better: getting heated", 
-      "Better: exercise", 
-      "Better: scratching", 
-      "Better: on rising in morning", 
-      "Worse: walking"
     ], 
     "Stool": [
       "Camp diarrhoea", 

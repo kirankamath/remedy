@@ -1,6 +1,11 @@
 {
   "name": "Urtica urens", 
   "Relationship": "Compare: MEDUSA; NAT-MUR.; LAC. CAN.; RICIN (diminished mammary secretion); BOMBYX; RHUS; APIS; CHLORAL.; ASTAC.; PULS. (urticaria); BOLETUS LURIDUS AND ANACARD. (urticaria tuberosa); LYCOP. AND HEDEOMA (uric acid conditions); FORMICA.", 
+  "Modalities": [
+    "Worse: from snow-air; water", 
+    "Worse: cool moist air", 
+    "Worse: touch"
+  ], 
   "symptoms": {
     "Head": [
       "Vertigo, headache with spleen pains"
@@ -9,11 +14,6 @@
       "Tropical fever", 
       "Fever of gout", 
       "General heat in bed with soreness over abdomen"
-    ], 
-    "Modalities": [
-      "Worse: from snow-air; water", 
-      "Worse: cool moist air", 
-      "Worse: touch"
     ], 
     "Abdomen": [
       "Diarrhoea chronic disease of large intestine characterized by large secretion of mucus"

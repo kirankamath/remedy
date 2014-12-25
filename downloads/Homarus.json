@@ -1,14 +1,13 @@
 {
   "name": "Homarus", 
   "Relationship": "Compare: SEPIA; ASTERIAS; ASTACUS; AETHUSA.", 
-  "symptoms": {
-    "Modalities": [
-      "Worse: from milk", 
-      "Worse: after sleep", 
-      "Better: from motion", 
-      "Better: after eating"
-    ]
-  }, 
+  "Modalities": [
+    "Worse: from milk", 
+    "Worse: after sleep", 
+    "Better: from motion", 
+    "Better: after eating"
+  ], 
+  "symptoms": {}, 
   "details": "Dyspepsia, sore throat, and headache seems to be a combination that may be controlled by this remedy. Frontal and temporal pain chiefly, with soreness in eyes. Throat sore, raw, burns, with tough mucus. Pain in stomach and abdomen, better after eating. Belching. Chilliness and pain all over. Itching of skin.", 
   "Natural History": "Digestive Fluid of Live Lobster", 
   "dosage": "Sixth potency."

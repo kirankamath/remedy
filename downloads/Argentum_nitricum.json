@@ -1,6 +1,11 @@
 {
   "name": "Argentum nitricum", 
   "Relationship": "Antidote: Nat-mur.Compare: Ars.; Merc.; Phos.; Pulsat.; Argent. cyanatum (angina pectoris; asthma, spasm of oesophagus); Argent - JODAT. (Throat disorders, hoarseness, gland affected.) Protargol (gonorrhea after acute stage 2 per cent. solution; syphilitic mucous patches, chancres and chancroids, 10 per cent solution applied twice a day; ophthalmia neonatorum, 2 drops of 10 per cent. solution).; Argent. phosph. (An excellent diuretic in dropsy.); Argent. Oxyd. Chlorosis with menorrhagia and diarrhoea.).", 
+  "Modalities": [
+    "Worse: warmth in any form; at night; from cold food; sweets; after eating; at menstrual period; from emotions", 
+    "Worse: left side", 
+    "Better: from eructation; fresh air; cold; pressure"
+  ], 
   "symptoms": {
     "Urine": [
       "Emission of a few drops after having finished", 
@@ -103,11 +108,6 @@
       "Desire waning", 
       "Erection falls when coition is attempted", 
       "Impotence"
-    ], 
-    "Modalities": [
-      "Worse: warmth in any form; at night; from cold food; sweets; after eating; at menstrual period; from emotions", 
-      "Worse: left side", 
-      "Better: from eructation; fresh air; cold; pressure"
     ], 
     "Mind": [
       "Memory weak", 

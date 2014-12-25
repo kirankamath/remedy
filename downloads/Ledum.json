@@ -1,6 +1,12 @@
 {
   "name": "Ledum", 
   "Relationship": "Compare: Ledum antidotes spider poisons. RUTA; HAM.; BELLIS; ARNICA.", 
+  "Modalities": [
+    "Better: from cold", 
+    "Better: putting feet in cold water", 
+    "Worse: at night", 
+    "Worse: and from heat of bed"
+  ], 
   "symptoms": {
     "Eyes": [
       "Cataract with gout", 
@@ -15,12 +21,6 @@
     "Rectum": [
       "Anal fissures", 
       "Hemorrhoidal pain"
-    ], 
-    "Modalities": [
-      "Better: from cold", 
-      "Better: putting feet in cold water", 
-      "Worse: at night", 
-      "Worse: and from heat of bed"
     ], 
     "Head": [
       "Nosebleed", 

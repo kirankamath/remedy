@@ -1,5 +1,16 @@
 {
-  "Natural History": "Carbonate of Ammonia", 
+  "name": "Ammonium carb", 
+  "Relationship": "Compare: Rhus; Muriatic acid; Tartar emet.Of use in poisoning by charcoal fumes.Inimical to LACHESIS. Similar in action.Antidotes: Arnica; Camphor.", 
+  "Modalities": [
+    "Worse: evenings", 
+    "Worse: from cold", 
+    "Worse: wet weather", 
+    "Worse: wet applications", 
+    "Worse: washing", 
+    "Worse: and during 3 to four am", 
+    "Worse: during menses", 
+    "Better: lying on painful side and on stomach; in dry weather"
+  ], 
   "symptoms": {
     "Urine": [
       "Urine white, sandy, bloody, copious, turbid and fetid", 
@@ -70,16 +81,6 @@
       "Audible palpitation with fear, cold sweat, lachrymation, inability to speak, loud breathing and trembling hands", 
       "Heart weak, wakes with difficult breathing and palpitation"
     ], 
-    "Modalities": [
-      "Worse: evenings", 
-      "Worse: from cold", 
-      "Worse: wet weather", 
-      "Worse: wet applications", 
-      "Worse: washing", 
-      "Worse: and during 3 to four am", 
-      "Worse: during menses", 
-      "Better: lying on painful side and on stomach; in dry weather"
-    ], 
     "Mind": [
       "Sad, weepy, unreasonable", 
       "Talking and hearing others talk affects greatly", 
@@ -123,7 +124,6 @@
       "Big toe painful and swollen"
     ]
   }, 
-  "name": "Ammonium carb", 
-  "Relationship": "Compare: Rhus; Muriatic acid; Tartar emet.Of use in poisoning by charcoal fumes.Inimical to LACHESIS. Similar in action.Antidotes: Arnica; Camphor.", 
+  "Natural History": "Carbonate of Ammonia", 
   "dosage": "Lower potencies deteriorate with age. Sixth potency best for general use."
 }

@@ -1,6 +1,13 @@
 {
   "name": "Asafoetida", 
   "Relationship": "Antidotes: China; Mercur.Compare: Moschus; China; Mercur; Aurum", 
+  "Modalities": [
+    "Worse: at night; from tough; left side", 
+    "Worse: during rest", 
+    "Worse: warm applications", 
+    "Better: open air; from motion", 
+    "Better: pressure"
+  ], 
   "symptoms": {
     "Eyes": [
       "Superficial corneal ulcer with digging pains; worse at night", 
@@ -25,13 +32,6 @@
       "Boring above eyebrows", 
       "Irritable; complains of her troubles; sensitive", 
       "Pressive pain from within outward"
-    ], 
-    "Modalities": [
-      "Worse: at night; from tough; left side", 
-      "Worse: during rest", 
-      "Worse: warm applications", 
-      "Better: open air; from motion", 
-      "Better: pressure"
     ], 
     "Chest": [
       "Palpitation more like a tremor", 

@@ -1,6 +1,23 @@
 {
   "name": "Nux vomica", 
   "Relationship": "NUX seeds contain copper, notice the cramp-causing proclivities of both Complementary: SULPHUR; SEPIA.Compare: STRYCHNIAInimical: ZINC.Antidotes: COFF.; IGNAT.; COCC.Compare: KALI-CARB.; HYDR.; BRY.; LYC.; GRAPH.", 
+  "Modalities": [
+    "Worse: morning", 
+    "Worse: mental exertion", 
+    "Worse: after eating", 
+    "Worse: touch", 
+    "Worse: spices", 
+    "Worse: stimulants", 
+    "Worse: narcotics", 
+    "Worse: dry weather", 
+    "Worse: cold", 
+    "Better: from a nap", 
+    "Better: if allowed to finish it; in evening", 
+    "Better: while at rest", 
+    "Better: in damp", 
+    "Better: wet weather", 
+    "Better: strong pressure"
+  ], 
   "symptoms": {
     "Urine": [
       "Irritable bladder; from spasmodic sphincter", 
@@ -121,23 +138,6 @@
       "Itching in ear through eustachian tube", 
       "Auditory canal dry and sensitive", 
       "Hyperaesthesia of auditory nerves; loud sounds are painful, and anger him"
-    ], 
-    "Modalities": [
-      "Worse: morning", 
-      "Worse: mental exertion", 
-      "Worse: after eating", 
-      "Worse: touch", 
-      "Worse: spices", 
-      "Worse: stimulants", 
-      "Worse: narcotics", 
-      "Worse: dry weather", 
-      "Worse: cold", 
-      "Better: from a nap", 
-      "Better: if allowed to finish it; in evening", 
-      "Better: while at rest", 
-      "Better: in damp", 
-      "Better: wet weather", 
-      "Better: strong pressure"
     ], 
     "Mind": [
       "Disposed to reproach others", 

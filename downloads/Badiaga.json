@@ -1,6 +1,9 @@
 {
   "name": "Badiaga", 
   "Relationship": "Complementary: Sulph.; Merc.; Iod.Compare: Merc. similar but opposite modalities. Spongia; Kali-hyd.; Phytol.; Conium.", 
+  "Modalities": [
+    "Better: by heat"
+  ], 
   "symptoms": {
     "Heart": [
       "Indescribable bad feeling about the heart with soreness and pain, flying stitches all over"
@@ -30,9 +33,6 @@
       "Influenza", 
       "Dandruff; scale sore, dry, tetter-like", 
       "Coryza, sneezing, watery discharge, with asthmatic breathing and suffocative cough"
-    ], 
-    "Modalities": [
-      "Better: by heat"
     ], 
     "Back": [
       "Very stiff neck", 

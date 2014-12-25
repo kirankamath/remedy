@@ -1,5 +1,9 @@
 {
-  "Natural History": "Hemp", 
+  "name": "Cannibis sativa", 
+  "Relationship": "Compare: Hedysarum - Brazilian Burdock - (Gonorrhea and inflammation of penis); Canth.; Apis; Copaiva; Thuj.; Kal. nit.Antidotes: Camph.; Lemon juice.", 
+  "Modalities": [
+    "Worse: lying down; going upstairs"
+  ], 
   "symptoms": {
     "Heart": [
       "Painful strokes and tension with palpitation", 
@@ -19,9 +23,6 @@
       "Weight on chest; rattling wheezing breathing", 
       "Cough, with green viscid, also bloody, expectoration", 
       "Oppression of breathing and palpitation; must stand up"
-    ], 
-    "Modalities": [
-      "Worse: lying down; going upstairs"
     ], 
     "Urine": [
       "Dragging in testicles", 
@@ -60,7 +61,6 @@
       "Affections of the ball of the foot and under part of toes"
     ]
   }, 
-  "name": "Cannibis sativa", 
-  "Relationship": "Compare: Hedysarum - Brazilian Burdock - (Gonorrhea and inflammation of penis); Canth.; Apis; Copaiva; Thuj.; Kal. nit.Antidotes: Camph.; Lemon juice.", 
-  "details": "Seems to affect especially the urinary, sexual, and respiratory organs. It has characteristic sensations as of dropping water. Great fatigue, as from over-exertion; weary after meals. Choking in swallowing; things go down the wrong way. STUTTERING. Confusion of thought and speech. Wavering speech, hasty, incoherent."
+  "details": "Seems to affect especially the urinary, sexual, and respiratory organs. It has characteristic sensations as of dropping water. Great fatigue, as from over-exertion; weary after meals. Choking in swallowing; things go down the wrong way. STUTTERING. Confusion of thought and speech. Wavering speech, hasty, incoherent.", 
+  "Natural History": "Hemp"
 }

@@ -1,6 +1,15 @@
 {
   "name": "Spigelia", 
   "Relationship": "Compare: SPIGELIA MARYLANDICA (maniacal excitement, paroxysmal laughing and crying, loud, disconnected talking, vertigo, dilated pupils, congestions); ACON.; CACT.; CIMICIF.; ARNICA (Spigelia is a chronic Arnica); CANNAB. (Supraorbital pain); NAJA; SPONG. (HEART); SABAD.; TEUCR.; CINA (worm symptoms).", 
+  "Modalities": [
+    "Worse: from touch", 
+    "Worse: motion", 
+    "Worse: noise", 
+    "Worse: turning", 
+    "Worse: washing", 
+    "Worse: concussion", 
+    "Better: lying on right side with head high; inspiring"
+  ], 
   "symptoms": {
     "Heart": [
       "Pulse weak and irregular", 
@@ -22,15 +31,6 @@
     ], 
     "Fever": [
       "Chilliness on the slightest motion"
-    ], 
-    "Modalities": [
-      "Worse: from touch", 
-      "Worse: motion", 
-      "Worse: noise", 
-      "Worse: turning", 
-      "Worse: washing", 
-      "Worse: concussion", 
-      "Better: lying on right side with head high; inspiring"
     ], 
     "Mind": [
       "Afraid of sharp, pointed things, pins, needles, etc."

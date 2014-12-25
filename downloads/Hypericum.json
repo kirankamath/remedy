@@ -1,6 +1,11 @@
 {
   "name": "Hypericum", 
   "Relationship": "Compare: LEDUM (punched wounds and bites of animals); ARNICA; STAPHIS.; CALEN.; RUTA; COFF.Antidotes: ARS.; CHAM.", 
+  "Modalities": [
+    "Worse: in cold; dampness", 
+    "Worse: in a fog; in close room; least exposure; touch", 
+    "Better: bending head backward"
+  ], 
   "symptoms": {
     "Head": [
       "In fractured skull, bone splinters", 
@@ -27,11 +32,6 @@
     "Rectum": [
       "Hemorrhoids, with pain, bleeding, and tenderness", 
       "Urging, dry, dull, pressing pain"
-    ], 
-    "Modalities": [
-      "Worse: in cold; dampness", 
-      "Worse: in a fog; in close room; least exposure; touch", 
-      "Better: bending head backward"
     ], 
     "Mind": [
       "Melancholy", 

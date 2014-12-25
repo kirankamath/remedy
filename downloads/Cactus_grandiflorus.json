@@ -1,6 +1,13 @@
 {
   "name": "Cactus grandiflorus", 
   "Relationship": "Antidotes: Acon.; Camph.; China.Compare: Digital.; Spigel.; Convallar.; Kalmia; Naja; Magnol.", 
+  "Modalities": [
+    "Worse: about noon", 
+    "Worse: lying on left side; walking", 
+    "Worse: going upstairs", 
+    "Worse: eleven am and eleven pm", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Heart": [
       "Pain in apex, shooting down left arm", 
@@ -42,13 +49,6 @@
       "Hemorrhage from bladder", 
       "Constant urination", 
       "Clots of blood in urethra"
-    ], 
-    "Modalities": [
-      "Worse: about noon", 
-      "Worse: lying on left side; walking", 
-      "Worse: going upstairs", 
-      "Worse: eleven am and eleven pm", 
-      "Better: open air"
     ], 
     "Mind": [
       "Melancholy, taciturn, sad, ill-humored", 

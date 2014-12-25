@@ -1,6 +1,10 @@
 {
   "name": "Naja tripudians", 
   "Relationship": "Compare: Serpent poisons generally. BUNGARUS FASCIATUS (Banded Krait) This venom produces a condition like an acute polioencephalitis and myelitis, both symptomatically and histologically. LACH.; CROTAL.; SPIG.; SPONG.", 
+  "Modalities": [
+    "Worse: from use of stimulants;", 
+    "Better: from walking or riding in open air"
+  ], 
   "symptoms": {
     "Heart": [
       "Dragging and anxiety in precordia", 
@@ -28,10 +32,6 @@
       "Sticky mucus and saliva", 
       "Grasping at throat, with sense of choking", 
       "Irritating, dry cough, dependent on cardiac lesions"
-    ], 
-    "Modalities": [
-      "Worse: from use of stimulants;", 
-      "Better: from walking or riding in open air"
     ], 
     "Mind": [
       "Suicidal insanity", 

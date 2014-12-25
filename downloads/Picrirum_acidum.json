@@ -1,6 +1,15 @@
 {
   "name": "Picrirum acidum", 
   "Relationship": "Compare: OXAL-AC.; GELS.; PHOS.; SIL.; ARG. NIT. Compare: ZINC. PIC. (facial palsy and paralysis agitans); FERR. PIC. (buzzing in ears, deafness; chronic gout; epistaxis; prostatic troubles); CALC. PIC. (boils in and around ears).", 
+  "Modalities": [
+    "Worse: least exertion", 
+    "Worse: especially mental", 
+    "Worse: after sleep", 
+    "Worse: wet weather", 
+    "Better: from cold air", 
+    "Better: cold water", 
+    "Better: tight pressure"
+  ], 
   "symptoms": {
     "Eyes": [
       "Chronic catarrhal conjunctivitis with copious, thick yellow discharge"
@@ -8,15 +17,6 @@
     "Stomach": [
       "Aversion to food", 
       "Bitter taste"
-    ], 
-    "Modalities": [
-      "Worse: least exertion", 
-      "Worse: especially mental", 
-      "Worse: after sleep", 
-      "Worse: wet weather", 
-      "Better: from cold air", 
-      "Better: cold water", 
-      "Better: tight pressure"
     ], 
     "Urine": [
       "Nightly urging", 

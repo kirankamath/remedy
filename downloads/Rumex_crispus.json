@@ -1,6 +1,10 @@
 {
   "name": "Rumex crispus", 
   "Relationship": "Compare: CAUST.; SULPH.; BELL.; Rumex contains chrysophanic acid to which the skin stitches correspond. RUMEX ACETOSA - Sheep sorrel - (Gathered in June and dried, used locally for Epithelioma of face. (Cowperthwaite.) Dry, unremitting short cough, and violent pains in the bowels; uvula elongated; inflammation of oesophagus; also cancer); RUMEX OBTUSIFOLIUS - LAPATHUM - Broad-leaf dock - (nosebleed and headache following; pain in kidneys; leucorrhoea).", 
+  "Modalities": [
+    "Worse: in evening", 
+    "Worse: from inhaling cold air; left chest; uncovering"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Soreness behind sternum, especially left side, in region of left shoulder", 
@@ -19,10 +23,6 @@
       "Jaundice after excessive use of alcoholics", 
       "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; cannot eat meat; it c fever-blisters around mauses eructations, pruritus", 
       "Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking"
-    ], 
-    "Modalities": [
-      "Worse: in evening", 
-      "Worse: from inhaling cold air; left chest; uncovering"
     ], 
     "Stool": [
       "Itching of anus, with sensation as of a stick in rectum", 

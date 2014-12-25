@@ -1,6 +1,14 @@
 {
   "name": "Cimicifuga racemosa", 
   "Relationship": "Compare: RHAMNUS CALIFORNICA (MUSCULAR PAINS, lumbago, pleurodynia, acute rheumatism). DERRIS PINNATA (Neuralgic headaches of rheumatic origin). ARISTOLOCHIA MILHOMENS (pain in tendo-Achilles; diabetes). CAULOPHYL.; PULSAT.; LILIUM; AGAR.; MACROTIN (especially for lumbago).", 
+  "Modalities": [
+    "Worse: morning", 
+    "Worse: cold", 
+    "Worse: during menses; the more profuse the flow", 
+    "Worse: the greater the suffering", 
+    "Better: warmth", 
+    "Better: eating"
+  ], 
   "symptoms": {
     "Heart": [
       "Irregular, slow, trembling pulse", 
@@ -35,14 +43,6 @@
       "Pressing-outward pain", 
       "Brain feels too large", 
       "Waving sensation or opening and shutting sensation in brain"
-    ], 
-    "Modalities": [
-      "Worse: morning", 
-      "Worse: cold", 
-      "Worse: during menses; the more profuse the flow", 
-      "Worse: the greater the suffering", 
-      "Better: warmth", 
-      "Better: eating"
     ], 
     "Back": [
       "Stiffness and contraction in neck and back", 

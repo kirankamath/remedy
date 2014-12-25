@@ -1,6 +1,10 @@
 {
   "name": "Iberis", 
   "Relationship": "Compare: CACT.; DIG.; AMYL.; BELL.", 
+  "Modalities": [
+    "Worse: lying down; on left side; motion", 
+    "Worse: exertion; warm room"
+  ], 
   "symptoms": {
     "Heart": [
       "Violent palpitation induced by slightest exertion, or by laughing, or coughing", 
@@ -23,10 +27,6 @@
       "Hot, flushed face", 
       "Vertigo and pains around heart", 
       "Constant hawking of thick, stringy mucus until after a meal"
-    ], 
-    "Modalities": [
-      "Worse: lying down; on left side; motion", 
-      "Worse: exertion; warm room"
     ], 
     "Mind": [
       "Sad and sighing; fearful and trembling", 

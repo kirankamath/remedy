@@ -1,11 +1,32 @@
 {
   "name": "Mezereum", 
   "Relationship": "Antidotes: KALI-HYD.; MERC.Compare: DIRCA PALUSTRIS - Leather wood - (a gastrointestinal irritant inducing salivation, emesis and purgation; cerebral hyperaemia; neuralgic pains, with depression, palpitation, and dyspnoea); MERC.; PHYT.; RHUS; GUAIAC.; SYPH.", 
+  "Modalities": [
+    "Worse: cold air; night", 
+    "Worse: evening until midnight", 
+    "Worse: warm food", 
+    "Worse: touch", 
+    "Worse: motion", 
+    "Better: open air"
+  ], 
   "symptoms": {
+    "Eyes": [
+      "Ciliary neuralgia after operations", 
+      "Pains radiate and shoot downward, with cold feeling and stiffness of bone", 
+      "Especially after removal of eyeball"
+    ], 
     "Respiratory": [
       "Constriction across chest", 
       "Soreness and burning in bones of thorax", 
       "Cough; worse, eating, irritation lower than can be reached, on taking a warm drink"
+    ], 
+    "Stomach": [
+      "Desire for ham-fat", 
+      "Gastric ulcer with much burning", 
+      "Burning in tongue, extending to stomach", 
+      "Mouth waters", 
+      "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
+      "Nausea felt in throat; better, eating"
     ], 
     "Head": [
       "Stupefying headache in right side", 
@@ -16,50 +37,6 @@
       "Violent neuralgia about face and teeth, running towards ear, at night; worse, eating; better near hot stove", 
       "Teeth feel elongated", 
       "Affections of external head; scaly eruption, white scabs"
-    ], 
-    "Face": [
-      "Eruption around mouth, with coryza", 
-      "Red"
-    ], 
-    "Nose": [
-      "Sneezing, coryza, interior of nose, excoriated", 
-      "Post-nasal adenoids"
-    ], 
-    "Male": [
-      "Violent sexual desire", 
-      "Gonorrhea, with hematuria", 
-      "Enlargement of testicles"
-    ], 
-    "Extremities": [
-      "Pain and burning in tibia and long bones", 
-      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
-      "Legs and feet go to sleep", 
-      "Pain in hip and knee"
-    ], 
-    "Ears": [
-      "Feel too much open, as if tympanum was exposed to the cold air and it blew into the ear", 
-      "Desire to bore fingers in"
-    ], 
-    "Eyes": [
-      "Ciliary neuralgia after operations", 
-      "Pains radiate and shoot downward, with cold feeling and stiffness of bone", 
-      "Especially after removal of eyeball"
-    ], 
-    "Stomach": [
-      "Desire for ham-fat", 
-      "Gastric ulcer with much burning", 
-      "Burning in tongue, extending to stomach", 
-      "Mouth waters", 
-      "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
-      "Nausea felt in throat; better, eating"
-    ], 
-    "Modalities": [
-      "Worse: cold air; night", 
-      "Worse: evening until midnight", 
-      "Worse: warm food", 
-      "Worse: touch", 
-      "Worse: motion", 
-      "Better: open air"
     ], 
     "Urine": [
       "Biting, burning in forepart of urethra at the close of micturition", 
@@ -72,6 +49,14 @@
       "Swelling of glands with large abdomen in children", 
       "Flatulent colic, with shivering and difficult respiration", 
       "Pressure in inguinal ring"
+    ], 
+    "Face": [
+      "Eruption around mouth, with coryza", 
+      "Red"
+    ], 
+    "Nose": [
+      "Sneezing, coryza, interior of nose, excoriated", 
+      "Post-nasal adenoids"
     ], 
     "Female": [
       "Menses too frequent, soon, profuse", 
@@ -91,6 +76,21 @@
       "Diarrhoea, with small, white particles", 
       "Constriction of anus; stitches and prolapse of rectum", 
       "Prolapse of rectum"
+    ], 
+    "Extremities": [
+      "Pain and burning in tibia and long bones", 
+      "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
+      "Legs and feet go to sleep", 
+      "Pain in hip and knee"
+    ], 
+    "Male": [
+      "Violent sexual desire", 
+      "Gonorrhea, with hematuria", 
+      "Enlargement of testicles"
+    ], 
+    "Ears": [
+      "Feel too much open, as if tympanum was exposed to the cold air and it blew into the ear", 
+      "Desire to bore fingers in"
     ]
   }, 
   "details": "Skin symptoms, affections of bones, and neuralgias most important, especially about teeth and face. Bruised, weary feeling in joints, with drawing and stiffness. PAINS OF VARIOUS KINDS, WITH CHILLINESS AND SENSITIVENESS TO COLD AIR. Bone pains. Eruptions after vaccination. Burning, darting sensation in the muscles, subsultus tendinum. Pains shoot upward and seem to draw patient up out of bed. Semi-lateral complaints. PATIENT IS VERY SENSITIVE TO COLD AIR.", 

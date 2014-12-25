@@ -1,6 +1,22 @@
 {
   "name": "Sulphur", 
   "Relationship": "Compare in adenoids: AGRAPHIS.MAGNETIS POLUS ARCTICUS (anxious, COLDNESS OF EYES AS IF A PIECE OF ICE LAY IN ORBIT, increased flow of saliva, constipation, sopor, trembling, abdominal flatulence).Compare: ACON. (Sulph. often follows in acute diseases); MERC. AND CALCAREA are frequently useful AFTER Sulphur, not before. Lyc.; Sep; Sars.; Puls.; SULPHUR HYDROGENISATUM (chronic rheumatic arthritis; chorea); TANNIC ACID (Nasal hemorrhage; elongated uvula; gargle; constipation). MANGES. ARTIFICIALIS (great hunger in evening, profuse sweat on face, bruised pain in joints, rectal constriction after stool).Complementary: ALOE; PSOR.; ACON.; PYRARARA (a fish caught in the Amazon, clinically used for various skin affections. Lepra, tuberculides, syphilides, varicosities, etc.MAGNETIS POLUS AUSTRALIS (dryness of lids, easy dislocation of ankle, INGROWING TOE-NAILS, aching in patella, shooting in soles).", 
+  "Modalities": [
+    "Worse: at rest", 
+    "Worse: when standing", 
+    "Worse: warmth in bed", 
+    "Worse: washing", 
+    "Worse: bathing", 
+    "Worse: in morning", 
+    "Worse: eleven am", 
+    "Worse: night", 
+    "Worse: from alcoholic stimulants", 
+    "Worse: periodically", 
+    "Better: dry", 
+    "Better: warm weather", 
+    "Better: lying on right side", 
+    "Better: from drawing up affected limbs"
+  ], 
   "symptoms": {
     "Urine": [
       "Frequent micturition, especially at night", 
@@ -108,22 +124,6 @@
       "Deafness, preceded by exceedingly sensitive hearing; catarrhal deafness", 
       "Whizzing in ears", 
       "Oversensitive to odors"
-    ], 
-    "Modalities": [
-      "Worse: at rest", 
-      "Worse: when standing", 
-      "Worse: warmth in bed", 
-      "Worse: washing", 
-      "Worse: bathing", 
-      "Worse: in morning", 
-      "Worse: eleven am", 
-      "Worse: night", 
-      "Worse: from alcoholic stimulants", 
-      "Worse: periodically", 
-      "Better: dry", 
-      "Better: warm weather", 
-      "Better: lying on right side", 
-      "Better: from drawing up affected limbs"
     ], 
     "Mind": [
       "Difficult thinking", 

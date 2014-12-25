@@ -1,31 +1,15 @@
 {
   "name": "Secale cornutum", 
   "Relationship": "Compare: ERGOTIN. (Beginning arteriosclerosis progressing rather rapidly. Increased blood pressure: 2x trit. Edema, gangrene and purpura hemorrhagia; when Secale, though indicated, fails); PEDICULARIS CANADENSIS (symptoms of locomotor ataxia; spinal irritation); BRASSICA NAPUS - Rape-seed - (dropsical swellings, scorbutic mouth, voracious appetite, tympanitis, dropping of nails, gangrene); CINNAMON.; COLCH.; ARS.; AURUM MUR. 2x (locomotor ataxia); AGROSTEMA - Corn cockle - active constituent is SAPONIN, which causes violent sneezing and sharp burning taste; burning in stomach, extends to oesophagus, neck and breast; (vertigo, headache, difficult locomotion, burning sensation); USTILAGO; CARBO; PITUTRIN (dilated os, little pain, no progress. Dose, 1/2 c. c., repeat in half hour, if necessary. Hypodermically contraindicated in first stage of labor, valvular lesions or deformed pelvis).Antidotes: CAMPH.; OPIUM.", 
+  "Modalities": [
+    "Worse: heat", 
+    "Worse: warm covering", 
+    "Better: cold", 
+    "Better: uncovering", 
+    "Better: rubbing", 
+    "Better: stretching out limbs"
+  ], 
   "symptoms": {
-    "Stool": [
-      "Cholera-like stools, with coldness and cramps", 
-      "Involuntary stools; no sensation of passing faeces, anus wide open", 
-      "Olive-green, thin, putrid, bloody, with icy coldness and intolerance of being covered, with great exhaustion"
-    ], 
-    "Head": [
-      "Passive, congestive pain , with pale face", 
-      "Head drawn back", 
-      "Nosebleed, dark, oozing", 
-      "Falling of hair; dry and gray"
-    ], 
-    "Face": [
-      "Spasmodic distortion", 
-      "Pale, pinched, sunken", 
-      "Livid spots on face", 
-      "Cramps commence in face and spread over whole body"
-    ], 
-    "Chest": [
-      "Boring pain in chest", 
-      "Precordial tenderness", 
-      "Palpitation, with contracted and intermittent pulse", 
-      "Dyspnoea and oppression, with cramp in diaphragm", 
-      "Angina pectoris"
-    ], 
     "Eyes": [
       "Pupils dilated", 
       "Incipient cataract, senile especially in women", 
@@ -42,13 +26,11 @@
       "Eructations of bad odor", 
       "Singultus, nausea; vomiting of blood and coffee-grounds fluid"
     ], 
-    "Modalities": [
-      "Worse: heat", 
-      "Worse: warm covering", 
-      "Better: cold", 
-      "Better: uncovering", 
-      "Better: rubbing", 
-      "Better: stretching out limbs"
+    "Head": [
+      "Passive, congestive pain , with pale face", 
+      "Head drawn back", 
+      "Nosebleed, dark, oozing", 
+      "Falling of hair; dry and gray"
     ], 
     "Urine": [
       "Retention, with unsuccessful urging", 
@@ -56,16 +38,29 @@
       "Paralysis of bladder", 
       "Enuresis in old people"
     ], 
+    "Stool": [
+      "Cholera-like stools, with coldness and cramps", 
+      "Involuntary stools; no sensation of passing faeces, anus wide open", 
+      "Olive-green, thin, putrid, bloody, with icy coldness and intolerance of being covered, with great exhaustion"
+    ], 
+    "Chest": [
+      "Boring pain in chest", 
+      "Precordial tenderness", 
+      "Palpitation, with contracted and intermittent pulse", 
+      "Dyspnoea and oppression, with cramp in diaphragm", 
+      "Angina pectoris"
+    ], 
+    "Face": [
+      "Spasmodic distortion", 
+      "Pale, pinched, sunken", 
+      "Livid spots on face", 
+      "Cramps commence in face and spread over whole body"
+    ], 
     "Back": [
       "Myelitis", 
       "Locomotor ataxia", 
       "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
       "Formication and numbness"
-    ], 
-    "Mouth": [
-      "Tongue dry, cracked; blood like ink exudes, coated thick; viscid, yellowish, cold livid", 
-      "Tingling of tip of tongue, which is stiff", 
-      "Tongue swollen, paralyzed"
     ], 
     "Female": [
       "During labor no expulsive action, though everything is relaxed", 
@@ -96,10 +91,10 @@
       "Shriveled, numb; mottled dusky-blue tinge", 
       "Slight wounds continue to bleed"
     ], 
-    "Sleep": [
-      "Insomnia with restlessness, fever, anxious dreams", 
-      "Profound and long", 
-      "Insomnia of drug and liquor habitues"
+    "Mouth": [
+      "Tongue dry, cracked; blood like ink exudes, coated thick; viscid, yellowish, cold livid", 
+      "Tingling of tip of tongue, which is stiff", 
+      "Tongue swollen, paralyzed"
     ], 
     "Extremities": [
       "Violent pain in finger-tips, tingling in toes", 
@@ -110,6 +105,11 @@
       "Trembling, staggering gait", 
       "Violent cramps", 
       "Cold, dry hands and feet of excessive smokers with feeling of fuzziness in fingers"
+    ], 
+    "Sleep": [
+      "Insomnia with restlessness, fever, anxious dreams", 
+      "Profound and long", 
+      "Insomnia of drug and liquor habitues"
     ]
   }, 
   "details": "Produces contraction of the un striped muscular fibers; hence a constringent feeling throughout the whole body. This produces an anaemic condition, coldness, numbness, petechiae, mortification, gangrene. A useful remedy for old people with shriveled skin - thin, scrawny old women. All the Secale conditions are BETTER FROM COLD; the whole body is pervaded by a sense of great heat. Hemorrhages; continued oozing; THIN, fetid, watery black blood. DEBILITY, ANXIETY, EMACIATION, THOUGH APPETITE AND THIRST MAY BE EXCESSIVE. Facial and abdominal muscles twitch. Secale decreases the flow of pancreatic juice by raising the blood pressure. (Hinsdale).", 

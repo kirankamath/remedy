@@ -1,6 +1,13 @@
 {
   "name": "Dulcamara", 
   "Relationship": "Incompatible: BELLAD.; LACHES.Antidotes: CAMPH.; CUPR.Compare: PIMPINELLA - (Bibernell). Respiratory mucous membrane sensitive to drafts, pain and coldness in occiput and nape. Whole body weak; heavy head and drowsiness; lumbago and stiff neck; pain from nape to shoulder; chilliness. RHUS; CIMICIF.; CALC.; PULS.; BRY.; NAT-SULPH.Complementary: BARYTA CARB.", 
+  "Modalities": [
+    "Worse: at night; from cold in general", 
+    "Worse: damp", 
+    "Worse: rainy weather", 
+    "Better: from moving about", 
+    "Better: external warmth"
+  ], 
   "symptoms": {
     "Stool": [
       "Green, watery, slimy, bloody, mucus, especially in summer, when the weather suddenly becomes cold; from damp, cold weather and repelled eruptions"
@@ -72,13 +79,6 @@
     ], 
     "Ears": [
       "Earache, buzzing, stitches, and swelling of middle-ear catarrh"
-    ], 
-    "Modalities": [
-      "Worse: at night; from cold in general", 
-      "Worse: damp", 
-      "Worse: rainy weather", 
-      "Better: from moving about", 
-      "Better: external warmth"
     ], 
     "Urine": [
       "Must urinate when getting chilled", 

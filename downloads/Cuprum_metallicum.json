@@ -1,6 +1,12 @@
 {
   "name": "Cuprum metallicum", 
   "Relationship": "Antidotes: BELL.; HEPAR; CAMPH. Copper is found in Dulcamara., STAPHISAG., CONIUM and some other plants. ALSO IN KING-CRAB (Limulus).Compare: CUPR. SULPH. (BURNING AT VERTEX; incessant, spasmodic cough, worse at night; tongue and lips bluish; locally, CUPR. SULPH. in 1-3 per cent. sol. in inoperable sarcoma). CUPR. CYAN. (meningitis basilaris); CHOLAS TERRAPINA (cramps in calves and feet; rheumatism, with cramp-like pains); PLUMB.; NUX; VERATR. CUPRUM OXYDATUM NIGRUM 1x (all kinds of worms, including tape-worms and trichinosis according to Zopfy's 60 years' experience).", 
+  "Modalities": [
+    "Worse: before menses; from vomiting", 
+    "Worse: contact", 
+    "Better: during perspiration", 
+    "Better: drinking cold water"
+  ], 
   "symptoms": {
     "Heart": [
       "Fatty degeneration", 
@@ -41,12 +47,6 @@
       "Giddiness accompanies many ailments, head falls forward on chest", 
       "Sensation as if water were poured over head", 
       "Meningitis"
-    ], 
-    "Modalities": [
-      "Worse: before menses; from vomiting", 
-      "Worse: contact", 
-      "Better: during perspiration", 
-      "Better: drinking cold water"
     ], 
     "Stool": [
       "Cholera; with cramps in abdomen and calves", 

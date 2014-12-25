@@ -1,21 +1,21 @@
 {
   "name": "Ranunculus bulbosus", 
   "Relationship": "Incompatible: SULPH.; STAPH.Compare: RANUNC. ACRIS (pain in lumbar muscles and joints by bending and turning body); RANUNC. GLACIALIS - Reindeer flower Carlina - (Pulmonary affections; broncho-pneumonical. Influenza - enormous weight in head with vertigo and sensation as of impending apoplexy; night-sweats - more on thighs); RANUNC. REPENS (crawling sensation in forehead and scalp in evening in bed); RANUNC. FLAMMULA (ulceration; gangrene of arm). Compare, also: BRY.; CROTON; MEZ.; EUPHORB.Antidotes: BRY.; CAMPH.; RHUS.", 
+  "Modalities": [
+    "Worse: open air", 
+    "Worse: motion", 
+    "Worse: contact", 
+    "Worse: atmospheric changes", 
+    "Worse: wet", 
+    "Worse: stormy weather", 
+    "Worse: evening"
+  ], 
   "symptoms": {
     "Eyes": [
       "Herpes on cornea", 
       "Day-blindness; mist before eyes; pressure and smarting in eyes, as from smoke", 
       "Vesicles on cornea, with intense pain, photophobia, and lachrymation", 
       "Pain over right eye; better, standing and walking"
-    ], 
-    "Modalities": [
-      "Worse: open air", 
-      "Worse: motion", 
-      "Worse: contact", 
-      "Worse: atmospheric changes", 
-      "Worse: wet", 
-      "Worse: stormy weather", 
-      "Worse: evening"
     ], 
     "Head": [
       "Irritable, pains in forehead and eyeballs", 

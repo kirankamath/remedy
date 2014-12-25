@@ -1,19 +1,19 @@
 {
   "name": "Stillingia", 
   "Relationship": "Compare: STAPHIS.; MERC.; SYPHIL.; AUR.; CORYDALIS (syphilitic nodes).", 
+  "Modalities": [
+    "Worse: in afternoon", 
+    "Worse: damp air", 
+    "Worse: motion", 
+    "Better: in morning", 
+    "Better: dry air"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Hoarseness and chronic laryngeal affections of public speakers", 
       "Dry, spasmodic cough", 
       "Trachea feels sore when pressed", 
       "Larynx constricted, with stinging in fauces"
-    ], 
-    "Modalities": [
-      "Worse: in afternoon", 
-      "Worse: damp air", 
-      "Worse: motion", 
-      "Better: in morning", 
-      "Better: dry air"
     ], 
     "Urine": [
       "Urine colorless", 

@@ -1,6 +1,12 @@
 {
   "name": "Rhododendron", 
   "Relationship": "Compare: AMPELOPSIS (hydrocele and renal dropsy); DULC.; RHUS; NAT-SULPH.", 
+  "Modalities": [
+    "Worse: before a storm", 
+    "Better: after the storm breaks", 
+    "Better: warmth", 
+    "Better: and eating"
+  ], 
   "symptoms": {
     "Eyes": [
       "Muscular asthenopia; darting pains through eyes from head, worse before a storm"
@@ -12,12 +18,6 @@
       "Tearing pain in bones", 
       "Pain in eyes before a storm", 
       "Ciliary neuralgia, involving eyeball, orbit, and head"
-    ], 
-    "Modalities": [
-      "Worse: before a storm", 
-      "Better: after the storm breaks", 
-      "Better: warmth", 
-      "Better: and eating"
     ], 
     "Mind": [
       "Forgetful", 

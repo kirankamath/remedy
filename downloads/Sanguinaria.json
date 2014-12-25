@@ -1,6 +1,15 @@
 {
   "name": "Sanguinaria", 
   "Relationship": "Complementary: TART. EM.Compare: JUSTICIA (bronchial catarrh, coryza, hoarseness; oversensitive). DIGITALIS (Migraine). BELL.; IRIS; MELI.; LACH.; FERR.; OP.", 
+  "Modalities": [
+    "Worse: sweets", 
+    "Worse: right side", 
+    "Worse: motion", 
+    "Worse: touch", 
+    "Better: acids", 
+    "Better: sleep", 
+    "Better: darkness"
+  ], 
   "symptoms": {
     "Head": [
       "Headaches return at climacteric; every seventh day", 
@@ -44,15 +53,6 @@
       "Sinking, faint all-gone feeling", 
       "Burning, vomiting", 
       "Craving for piquant things"
-    ], 
-    "Modalities": [
-      "Worse: sweets", 
-      "Worse: right side", 
-      "Worse: motion", 
-      "Worse: touch", 
-      "Better: acids", 
-      "Better: sleep", 
-      "Better: darkness"
     ], 
     "Abdomen": [
       "Pain over region of liver", 

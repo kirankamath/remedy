@@ -1,5 +1,9 @@
 {
-  "Natural History": "The Water of Sanicula Springs, Ottawa, Ill.", 
+  "name": "Sanicula aqua", 
+  "Relationship": "Compare: ABROT.; ALUM.; CALC.; SIL.; SULPH. Sanicula Aqua must not be confounded with the Sanicle (pool-root or wood marsh), also called SANICULA. This is used in various nervous affections, resembling Valeriana. It is used as a vulnerary, resolvent for sanguineous extravasations, and as an astringent. Has not been proved.)", 
+  "Modalities": [
+    "Worse: moving arms backward"
+  ], 
   "symptoms": {
     "Head": [
       "Photophobia", 
@@ -22,9 +26,6 @@
       "No desire until a large accumulation", 
       "Pain in whole perineum", 
       "After great straining only partially expelled; recedes, crumbles at verge of anus"
-    ], 
-    "Modalities": [
-      "Worse: moving arms backward"
     ], 
     "Back": [
       "Dislocated feeling in sacrum and better lying on right side"
@@ -53,7 +54,6 @@
       "Burning of soles of feet"
     ]
   }, 
-  "name": "Sanicula aqua", 
-  "Relationship": "Compare: ABROT.; ALUM.; CALC.; SIL.; SULPH. Sanicula Aqua must not be confounded with the Sanicle (pool-root or wood marsh), also called SANICULA. This is used in various nervous affections, resembling Valeriana. It is used as a vulnerary, resolvent for sanguineous extravasations, and as an astringent. Has not been proved.)", 
-  "details": "Has been found a useful remedy in enuresis, seasickness, constipation, etc. Rickets."
+  "details": "Has been found a useful remedy in enuresis, seasickness, constipation, etc. Rickets.", 
+  "Natural History": "The Water of Sanicula Springs, Ottawa, Ill."
 }

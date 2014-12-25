@@ -1,6 +1,16 @@
 {
   "name": "Stramonium", 
   "Relationship": "Compare especially: HYOSCY. and BELL. It has less fever than BELL., but more than HYOS. It causes more functional excitement of the brain, but never approaches the true inflammatory condition of BELL.Antidotes: BELL.; TABAC.; NUX.", 
+  "Modalities": [
+    "Worse: in dark room", 
+    "Worse: when alone", 
+    "Worse: looking at bright or shining objects", 
+    "Worse: after sleep", 
+    "Worse: on swallowing", 
+    "Better: from bright light", 
+    "Better: company", 
+    "Better: warmth"
+  ], 
   "symptoms": {
     "Eyes": [
       "Parts of the body seem enormously swollen", 
@@ -18,16 +28,6 @@
       "Violent thirst", 
       "Food tastes like straw", 
       "Vomiting of mucus and green bile"
-    ], 
-    "Modalities": [
-      "Worse: in dark room", 
-      "Worse: when alone", 
-      "Worse: looking at bright or shining objects", 
-      "Worse: after sleep", 
-      "Worse: on swallowing", 
-      "Better: from bright light", 
-      "Better: company", 
-      "Better: warmth"
     ], 
     "Urine": [
       "Suppression, bladder empty"

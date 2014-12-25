@@ -1,6 +1,14 @@
 {
   "name": "Thuja occidentalis", 
   "Relationship": "Compare: (Hydrogenoid constitution; CALCAR.; SILICA; NAT-SULPH.; ARANEA; APIS; PULSAT.) CUPRESSUS AUSTRALIS (sharp, prickling pain; general feeling of warmth; rheumatism and gonorrhea). CUPRESSUS LAWSONIANA (acts like Thuja; TERRIBLE PAINS IN THE STOMACH). SPHINGURUS (falling out of hair from beard; pain in jaw-joint and zygoma); SIL.; MALAND. (vaccination); MEDORRH. (Suppressed gonorrhea); MERC.; CANNAB.; TEREBINTH.; JUNIPERUS; SABIN.; SIL.; CANTH.; CANNAB.; NIT-AC.; PULS.; ANT. TART.; ARBORIN is a non-alcoholic preparation of THUJA.Antidotes: MERC.; CAMPH.; SABIN. (Warts).Complementary: SABINA; ARS.; NAT-SULPH.; SILICA.", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: from heat of bed; at three am and three pm", 
+    "Worse: from cold", 
+    "Worse: damp air; after breakfast; fat", 
+    "Worse: coffee; vaccination", 
+    "Better: left side; while drawing up a limb"
+  ], 
   "symptoms": {
     "Urine": [
       "Urinary stream split and small", 
@@ -89,14 +97,6 @@
       "Chronic otitis; discharge purulent", 
       "Polypi", 
       "Creaking when swallowing"
-    ], 
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: from heat of bed; at three am and three pm", 
-      "Worse: from cold", 
-      "Worse: damp air; after breakfast; fat", 
-      "Worse: coffee; vaccination", 
-      "Better: left side; while drawing up a limb"
     ], 
     "Mind": [
       "Emotional sensitiveness; music causes weeping and trembling", 

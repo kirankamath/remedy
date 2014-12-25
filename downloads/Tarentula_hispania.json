@@ -1,6 +1,16 @@
 {
   "name": "Tarentula hispania", 
   "Relationship": "Antidotes: LACH.Compare: AGAR.; ARS.; CUPR.; MAG. PHOS.", 
+  "Modalities": [
+    "Worse: seeing others in trouble", 
+    "Worse: motion", 
+    "Worse: contact", 
+    "Worse: noises", 
+    "Better: in open air", 
+    "Better: music", 
+    "Better: bright colors", 
+    "Better: rubbing affected parts"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation; precordial anguish, sensation as if heart twisted and turned around"
@@ -8,16 +18,6 @@
     "Head": [
       "Wants hair brushed or head rubbed", 
       "Intense pain, as if thousands of needles were pricking into brain vertigo"
-    ], 
-    "Modalities": [
-      "Worse: seeing others in trouble", 
-      "Worse: motion", 
-      "Worse: contact", 
-      "Worse: noises", 
-      "Better: in open air", 
-      "Better: music", 
-      "Better: bright colors", 
-      "Better: rubbing affected parts"
     ], 
     "Mind": [
       "Ungrateful, discontented", 

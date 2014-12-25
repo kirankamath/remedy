@@ -1,9 +1,41 @@
 {
-  "Natural History": "Hashish", 
+  "name": "Cannibis indica", 
+  "Relationship": "Bellad.; Hyoscy.; Stram.; Laches.; Agaric.; Anhalonium (time sense disordered; time periods enormously overestimated; thus, minutes seem hours, etc.).", 
+  "Modalities": [
+    "Worse: morning; from coffee", 
+    "Worse: liquor and tobacco; lying on right side"
+  ], 
   "symptoms": {
+    "Heart": [
+      "Piercing pain, with great oppression", 
+      "Palpitation awakes him", 
+      "Pulse very slow"
+    ], 
+    "Eyes": [
+      "Fixed", 
+      "Spectral illusions without terror", 
+      "Clairvoyance", 
+      "Letters run together when reading"
+    ], 
     "Respiratory": [
       "Chest oppressed with deep, labored breathing", 
       "Humid asthma"
+    ], 
+    "Stomach": [
+      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
+      "Pain at cardiac orifice; better, pressure", 
+      "Pyloric spasm", 
+      "Increased appetite", 
+      "Distention"
+    ], 
+    "Rectum": [
+      "Sensation in anus as if sitting on a ball"
+    ], 
+    "Urine": [
+      "Urine loaded with slimy mucus", 
+      "Stitches and burning in urethra", 
+      "Dull pain in region of right kidney", 
+      "Must strain; dribbling; has to wait some time before the urine flows"
     ], 
     "Mind": [
       "Mania, must constantly move", 
@@ -35,53 +67,6 @@
       "Mouth and lips dry", 
       "Expression drowsy and stupid"
     ], 
-    "Male": [
-      "Chordee", 
-      "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
-      "Satyriasis", 
-      "Oozing of white, glairy mucus from glans", 
-      "After sexual intercourse, backache", 
-      "Prolonged thrill"
-    ], 
-    "Extremities": [
-      "Pain in soles and calves; sharp pains in knees and ankles; very exhausted after a short walk", 
-      "Entire paralysis of the lower extremities", 
-      "Thrilling through arms and hands, and from knees down", 
-      "Pain across shoulders and spine; must stoop; cannot walk erect"
-    ], 
-    "Ears": [
-      "Extreme sensitiveness to noise", 
-      "Noise like boiling water", 
-      "Throbbing, buzzing, and ringing"
-    ], 
-    "Heart": [
-      "Piercing pain, with great oppression", 
-      "Palpitation awakes him", 
-      "Pulse very slow"
-    ], 
-    "Eyes": [
-      "Fixed", 
-      "Spectral illusions without terror", 
-      "Clairvoyance", 
-      "Letters run together when reading"
-    ], 
-    "Stomach": [
-      "Sensation of extreme tension in abdominal vessels - feel distended to bursting", 
-      "Pain at cardiac orifice; better, pressure", 
-      "Pyloric spasm", 
-      "Increased appetite", 
-      "Distention"
-    ], 
-    "Modalities": [
-      "Worse: morning; from coffee", 
-      "Worse: liquor and tobacco; lying on right side"
-    ], 
-    "Urine": [
-      "Urine loaded with slimy mucus", 
-      "Stitches and burning in urethra", 
-      "Dull pain in region of right kidney", 
-      "Must strain; dribbling; has to wait some time before the urine flows"
-    ], 
     "Sleep": [
       "Obstinate and intractable forms of insomnia", 
       "Nightmare", 
@@ -96,11 +81,26 @@
       "Uterine colic, with great nervous agitation and sleeplessness", 
       "Sterility"
     ], 
-    "Rectum": [
-      "Sensation in anus as if sitting on a ball"
+    "Extremities": [
+      "Pain in soles and calves; sharp pains in knees and ankles; very exhausted after a short walk", 
+      "Entire paralysis of the lower extremities", 
+      "Thrilling through arms and hands, and from knees down", 
+      "Pain across shoulders and spine; must stoop; cannot walk erect"
+    ], 
+    "Male": [
+      "Chordee", 
+      "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
+      "Satyriasis", 
+      "Oozing of white, glairy mucus from glans", 
+      "After sexual intercourse, backache", 
+      "Prolonged thrill"
+    ], 
+    "Ears": [
+      "Extreme sensitiveness to noise", 
+      "Noise like boiling water", 
+      "Throbbing, buzzing, and ringing"
     ]
   }, 
-  "name": "Cannibis indica", 
-  "Relationship": "Bellad.; Hyoscy.; Stram.; Laches.; Agaric.; Anhalonium (time sense disordered; time periods enormously overestimated; thus, minutes seem hours, etc.).", 
-  "details": "Inhibits the higher faculties and stimulates the imagination to a remarkable degree without any marked stimulation of the lower or animal instinct. A condition of INTENSE EXALTATION, in which all perceptions and conceptions, all sensations and emotions are exaggerated to the utmost degree. Subconscious or DUAL NATURE STATE. Apparently under the control of the second self, but, the original self, prevents the performance of acts which are under the domination of the second self. Apparently the two natures cannot act independently, one acting as a check, upon the other. (Effects of one Dram doses by Dr. Albert Schneider.) The experimenter feels ever and anon that he is distinct from the subject of the hashish dream and can think rationally. Produces the most remarkable hallucinations and imaginations, EXAGGERATION OF THE DURATION OF TIME AND EXTENT OF SPACE, BEING MOST CHARACTERISTIC. Conception of time, space and place is gone. Extremely happy and contented, nothing troubles. Ideas crowd upon each other. Has great soothing influence in many nervous disorders, like epilepsy, mania, dementia, delirium tremens, and irritable reflexes. Exophthalmic goitre. Catalepsy."
+  "details": "Inhibits the higher faculties and stimulates the imagination to a remarkable degree without any marked stimulation of the lower or animal instinct. A condition of INTENSE EXALTATION, in which all perceptions and conceptions, all sensations and emotions are exaggerated to the utmost degree. Subconscious or DUAL NATURE STATE. Apparently under the control of the second self, but, the original self, prevents the performance of acts which are under the domination of the second self. Apparently the two natures cannot act independently, one acting as a check, upon the other. (Effects of one Dram doses by Dr. Albert Schneider.) The experimenter feels ever and anon that he is distinct from the subject of the hashish dream and can think rationally. Produces the most remarkable hallucinations and imaginations, EXAGGERATION OF THE DURATION OF TIME AND EXTENT OF SPACE, BEING MOST CHARACTERISTIC. Conception of time, space and place is gone. Extremely happy and contented, nothing troubles. Ideas crowd upon each other. Has great soothing influence in many nervous disorders, like epilepsy, mania, dementia, delirium tremens, and irritable reflexes. Exophthalmic goitre. Catalepsy.", 
+  "Natural History": "Hashish"
 }

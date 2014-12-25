@@ -1,5 +1,10 @@
 {
-  "Natural History": "The Metal", 
+  "name": "Platina", 
+  "Relationship": "Antidote: PULS. Platina antidotes the bad effects of lead.Compare: RHODIUM; STANN.; VALER.; SEP. Compare, also: PLATINUM MURIATICUM (this remedy has achieved beneficial results after Iodine of Potash failed to cure in syphilitic affection; violent occipital headaches, dysphagia, and syphilitic throat and bone affections; caries of bones of feet); PLAT. MUR. NAT. (polyuria and salivation); SEDUM ACRE (sexual irritability, relieves irritation of nerve centers and gives rest).", 
+  "Modalities": [
+    "Worse: sitting and standing; evening", 
+    "Better: walking"
+  ], 
   "symptoms": {
     "Eyes": [
       "Eyes feel cold", 
@@ -24,10 +29,6 @@
       "Irresistible impulse to kill", 
       "Physical symptoms disappear as mental symptoms develop", 
       "Mental troubles, associated with suppressed menses"
-    ], 
-    "Modalities": [
-      "Worse: sitting and standing; evening", 
-      "Better: walking"
     ], 
     "Stool": [
       "Stool as if burnt", 
@@ -73,7 +74,6 @@
       "Roaring and rumbling"
     ]
   }, 
-  "name": "Platina", 
-  "Relationship": "Antidote: PULS. Platina antidotes the bad effects of lead.Compare: RHODIUM; STANN.; VALER.; SEP. Compare, also: PLATINUM MURIATICUM (this remedy has achieved beneficial results after Iodine of Potash failed to cure in syphilitic affection; violent occipital headaches, dysphagia, and syphilitic throat and bone affections; caries of bones of feet); PLAT. MUR. NAT. (polyuria and salivation); SEDUM ACRE (sexual irritability, relieves irritation of nerve centers and gives rest).", 
-  "details": "Is pre-eminently a woman's remedy. Strong tendency to paralysis, anaesthesia, localized NUMBNESS AND COLDNESS are shown. Hysterical spasms; pains increase and decrease gradually. (STANNUM.) Tremulousness."
+  "details": "Is pre-eminently a woman's remedy. Strong tendency to paralysis, anaesthesia, localized NUMBNESS AND COLDNESS are shown. Hysterical spasms; pains increase and decrease gradually. (STANNUM.) Tremulousness.", 
+  "Natural History": "The Metal"
 }

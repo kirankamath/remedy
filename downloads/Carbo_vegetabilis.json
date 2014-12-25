@@ -1,6 +1,16 @@
 {
   "name": "Carbo vegetabilis", 
   "Relationship": "Antidotes: Spirits Nitre; Camph.; Ambra; Arsenic.Complementary: Kali-carb.; Dros.Compare: Carboneum - Lamp black. (Spasms commencing in tongue, down trachea and extremities. Tingling sensation.) Lycop.; Ars.; China.", 
+  "Modalities": [
+    "Worse: evening; night and open air; cold; from fat food", 
+    "Worse: butter", 
+    "Worse: coffee", 
+    "Worse: milk", 
+    "Worse: warm damp weather; wine", 
+    "Better: from eructation", 
+    "Better: from fanning", 
+    "Better: cold"
+  ], 
   "symptoms": {
     "Eyes": [
       "Asthenopia", 
@@ -35,6 +45,19 @@
       "Faint gone feeling in stomach, not relieved by eating", 
       "Contractive pain extending to chest, with distention of abdomen"
     ], 
+    "Head": [
+      "Vertigo with nausea and tinnitus", 
+      "Head feels heavy, constricted", 
+      "Pimples on forehead and face", 
+      "Hair feels sore, falls off easily; scalp itches when getting warm in bed", 
+      "Aches from any over-indulgence", 
+      "Hat pressed upon head like a heavy weight"
+    ], 
+    "Mind": [
+      "Sudden loss of memory", 
+      "Fear of ghosts", 
+      "Aversion to darkness"
+    ], 
     "Abdomen": [
       "Painful diarrhoea of old people", 
       "Abdomen greatly distended; better, passing wind", 
@@ -55,11 +78,10 @@
       "Burning at anus, burning varices", 
       "White hemorrhoids; excoriation of anus"
     ], 
-    "Mouth": [
-      "Pyorrhoea", 
-      "Blood oozing from gums when cleaning teeth", 
-      "Teeth very sensitive where chewing; gums retracted and bleed easily", 
-      "Tongue coated white or yellow brown, covered with aphthae"
+    "Face": [
+      "Pale, hippocratic, cold with cold sweat; blue", 
+      "Puffy, cyanotic", 
+      "Mottled cheeks and red nose"
     ], 
     "Respiratory": [
       "Hemorrhage from lungs", 
@@ -74,18 +96,11 @@
       "Cough, with burning in chest; worse in evening, in open air, after eating and talking", 
       "Hoarseness; worse, evenings, talking; evening oppression of breathing, sore and raw chest"
     ], 
-    "Head": [
-      "Vertigo with nausea and tinnitus", 
-      "Head feels heavy, constricted", 
-      "Pimples on forehead and face", 
-      "Hair feels sore, falls off easily; scalp itches when getting warm in bed", 
-      "Aches from any over-indulgence", 
-      "Hat pressed upon head like a heavy weight"
-    ], 
-    "Face": [
-      "Pale, hippocratic, cold with cold sweat; blue", 
-      "Puffy, cyanotic", 
-      "Mottled cheeks and red nose"
+    "Mouth": [
+      "Pyorrhoea", 
+      "Blood oozing from gums when cleaning teeth", 
+      "Teeth very sensitive where chewing; gums retracted and bleed easily", 
+      "Tongue coated white or yellow brown, covered with aphthae"
     ], 
     "Nose": [
       "Coryza with cough, especially in moist, warm weather", 
@@ -94,30 +109,6 @@
       "Varicose veins on nose", 
       "Epistaxis in daily attacks, with pale face", 
       "Ineffectual efforts to sneeze"
-    ], 
-    "Male": [
-      "Itching and moisture at thigh near scrotum", 
-      "Discharge of prostatic fluid at stool"
-    ], 
-    "Ears": [
-      "Malformation of cerumen with exfoliation of dermoid layer of meatus", 
-      "Otorrhoea following exanthematous diseases", 
-      "Ears dry"
-    ], 
-    "Modalities": [
-      "Worse: evening; night and open air; cold; from fat food", 
-      "Worse: butter", 
-      "Worse: coffee", 
-      "Worse: milk", 
-      "Worse: warm damp weather; wine", 
-      "Better: from eructation", 
-      "Better: from fanning", 
-      "Better: cold"
-    ], 
-    "Mind": [
-      "Sudden loss of memory", 
-      "Fear of ghosts", 
-      "Aversion to darkness"
     ], 
     "Female": [
       "Leucorrhoea before menses, thick, greenish, milky, excoriating", 
@@ -143,6 +134,15 @@
       "Toes red, swollen", 
       "Pain in shins", 
       "Cold from knees down"
+    ], 
+    "Male": [
+      "Itching and moisture at thigh near scrotum", 
+      "Discharge of prostatic fluid at stool"
+    ], 
+    "Ears": [
+      "Malformation of cerumen with exfoliation of dermoid layer of meatus", 
+      "Otorrhoea following exanthematous diseases", 
+      "Ears dry"
     ]
   }, 
   "details": "Disintegration and IMPERFECT OXIDATION is the keynote of this remedy. The typical Carbo patient is sluggish, fat and lazy and has a tendency to chronicity in his complaints. Blood seems to stagnate in the capillaries, causing blueness, coldness, and ecchymosis. Body becomes blue, icy-cold. Bacteria find a rich soil in the nearly lifeless blood stream and sepsis and typhoidal state ensues. A lowered vital power from loss of fluids, after drugging; after other diseases; in old people with venous congestions; states of collapse in cholera, typhoid; these are some of the conditions offering special inducements to the action of Carbo veg. The patient may be almost lifeless, but the head is hot; coldness, breath cool, pulse imperceptible, oppressed and quickened respiration, and must have air, must be fanned hard, must have all the windows open. This is a typical state for Carbo veg. The patient faints easily, is worn out, and must have fresh air. Hemorrhage from any mucous surface. Very debilitated. Patient seems to be too weak to hold out. PERSONS WHO HAVE NEVER FULLY RECOVERED FROM THE EFFECTS OF SOME PREVIOUS ILLNESS. Sense of weight, as in the head (occiput), eyes and eyelids, before the ears, in the stomach, and elsewhere in the body; putrid (septic) condition of all its affections, coupled with a burning sensation. General venous stasis, bluish skin, limbs cold.", 

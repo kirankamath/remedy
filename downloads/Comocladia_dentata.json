@@ -1,6 +1,14 @@
 {
   "name": "Comocladia dentata", 
   "Relationship": "Compare: RHUS; ANACARD.; EUPHORB.", 
+  "Modalities": [
+    "Worse: touch", 
+    "Worse: warmth", 
+    "Worse: rest; night", 
+    "Better: open air", 
+    "Better: scratching", 
+    "Better: by motion"
+  ], 
   "symptoms": {
     "Eyes": [
       "Worse, near warm stove; feels as if pressed outward", 
@@ -8,14 +16,6 @@
       "Motion of eyes aggravates", 
       "Ciliary neuralgia with eyes feeling large and protruded, especially right", 
       "Glaucoma, sense of fullness; eyeball feels too large"
-    ], 
-    "Modalities": [
-      "Worse: touch", 
-      "Worse: warmth", 
-      "Worse: rest; night", 
-      "Better: open air", 
-      "Better: scratching", 
-      "Better: by motion"
     ], 
     "Chest": [
       "Acute pain in left mammary gland", 

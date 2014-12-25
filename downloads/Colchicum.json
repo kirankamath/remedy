@@ -1,6 +1,13 @@
 {
   "name": "Colchicum", 
   "Relationship": "Antidotes: THUJA; CAMPH.; COCCUL.; NUX; PULS.Compare:COLCHICINE (intestinal catarrh with shreddy membranes; convulsive jerkings of right hand; rheumatic fever, gout, endo and pericarditis, pleurisy, arthritis, deform in early stages; INTENSE PAIN OF RHEUMATISM 3x trit.). Also, CARBO; ARNICA; LILIUM; ARSEN.; VERAT.", 
+  "Modalities": [
+    "Worse: sundown to sunrise; motion", 
+    "Worse: loss of sleep", 
+    "Worse: smell of food in evening", 
+    "Worse: mental exertion", 
+    "Better: stooping"
+  ], 
   "symptoms": {
     "Heart": [
       "Anxiety in region of heart", 
@@ -32,13 +39,6 @@
     ], 
     "Urine": [
       "Dark, scanty or suppressed; bloody, brown, black, inky; contains clots of putrid decomposed blood, albumin, sugar"
-    ], 
-    "Modalities": [
-      "Worse: sundown to sunrise; motion", 
-      "Worse: loss of sleep", 
-      "Worse: smell of food in evening", 
-      "Worse: mental exertion", 
-      "Better: stooping"
     ], 
     "Stool": [
       "Ineffectual pressing; feels faeces in rectum, but cannot expel them", 

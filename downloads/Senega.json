@@ -1,6 +1,11 @@
 {
   "name": "Senega", 
   "Relationship": "Compare: CAUST.; PHOS.; SAPONIN; AMMON.; CALC.; NEPETA CATARIA - Catnip (to break up a cold; infantile colic; hysteria).", 
+  "Modalities": [
+    "Worse: walking in open air", 
+    "Worse: during rest", 
+    "Better: from sweat; bending head backwards"
+  ], 
   "symptoms": {
     "Eyes": [
       "Acts on the rectus superior", 
@@ -35,11 +40,6 @@
       "Rattling in chest", 
       "Bursting pain in back on coughing", 
       "Catarrh of larynx"
-    ], 
-    "Modalities": [
-      "Worse: walking in open air", 
-      "Worse: during rest", 
-      "Better: from sweat; bending head backwards"
     ], 
     "Urine": [
       "Back, bursting distending pain in kidney region", 

@@ -1,6 +1,11 @@
 {
   "name": "Moschus", 
   "Relationship": "Antidotes: CAMPH.; COFF.Compare: NUX MOSCH.; ASAF.; VALER.; SUMBUL.; IGN.; CASTOR.Compatible: AMBRA.", 
+  "Modalities": [
+    "Worse: cold", 
+    "Better: in open air", 
+    "Better: rubbing"
+  ], 
   "symptoms": {
     "Heart": [
       "Hysterical palpitation", 
@@ -33,11 +38,6 @@
       "Faints when eating", 
       "Everything tastes flat", 
       "Distended"
-    ], 
-    "Modalities": [
-      "Worse: cold", 
-      "Better: in open air", 
-      "Better: rubbing"
     ], 
     "Urine": [
       "Profuse urination", 

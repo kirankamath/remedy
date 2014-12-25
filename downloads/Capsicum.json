@@ -1,6 +1,13 @@
 {
   "name": "Capsicum", 
   "Relationship": "Compare: Pulsat.; Lycop.; Bell.; Centaurea (surging of blood; homesickness; intermittent fever).Antidote: Cina; Calad.", 
+  "Modalities": [
+    "Worse: open air", 
+    "Worse: uncovering", 
+    "Worse: drafts", 
+    "Better: while eating", 
+    "Better: from heat"
+  ], 
   "symptoms": {
     "Head": [
       "Bursting headache; worse, coughing", 
@@ -28,13 +35,6 @@
       "Comes first in drops, then in spurts; neck of bladder spasmodically contracted", 
       "Burning in orifice", 
       "Strangury, frequent, almost ineffectual urging"
-    ], 
-    "Modalities": [
-      "Worse: open air", 
-      "Worse: uncovering", 
-      "Worse: drafts", 
-      "Better: while eating", 
-      "Better: from heat"
     ], 
     "Mind": [
       "Wants to be let alone", 

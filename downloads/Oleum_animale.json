@@ -1,6 +1,13 @@
 {
   "name": "Oleum animale", 
   "Relationship": "Antidotes: CAMPH.; OP.Compare: PULS.; ARS.; SILIC.; SEPIA.", 
+  "Modalities": [
+    "Worse: after eating", 
+    "Worse: from 2 to nine pm", 
+    "Better: by rubbing", 
+    "Better: eructation", 
+    "Better: open air"
+  ], 
   "symptoms": {
     "Eyes": [
       "Short-sighted", 
@@ -23,13 +30,6 @@
       "Itching, burning vesicles; better, friction", 
       "Tearing pain, with sadness and irritability; worse after dinner; relieved by rubbing", 
       "Migraine with polyuria"
-    ], 
-    "Modalities": [
-      "Worse: after eating", 
-      "Worse: from 2 to nine pm", 
-      "Better: by rubbing", 
-      "Better: eructation", 
-      "Better: open air"
     ], 
     "Urine": [
       "Itching in urethra", 

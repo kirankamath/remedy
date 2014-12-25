@@ -1,6 +1,11 @@
 {
   "name": "Calendula officinalis", 
   "Relationship": "Antidote: Chelidonium; Rheum.Compare: Hamamel.; Hypericum.; Symph.; Arn.Compare in deafness: Ferr. pic.; Kal. iod.; Calc; Mag. ac; Graph.Complementary: Hepar.", 
+  "Modalities": [
+    "Worse: in damp", 
+    "Worse: heavy", 
+    "Worse: cloudy weather"
+  ], 
   "symptoms": {
     "Eyes": [
       "Injuries to eyes which tend to suppuration; after operations; blennorrhoea of lachrymal sac"
@@ -17,11 +22,6 @@
       "Epigastric distention", 
       "Sinking sensation", 
       "Hunger immediately after nursing"
-    ], 
-    "Modalities": [
-      "Worse: in damp", 
-      "Worse: heavy", 
-      "Worse: cloudy weather"
     ], 
     "Head": [
       "Lacerated scalp wounds", 

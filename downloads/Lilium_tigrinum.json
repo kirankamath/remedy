@@ -1,6 +1,11 @@
 {
   "name": "Lilium tigrinum", 
   "Relationship": "Compare: CACT.; HELON.; MUREX; SEP.; PLAT.; PALLAD.Antidote: HELON.", 
+  "Modalities": [
+    "Worse: consolation", 
+    "Worse: warm room", 
+    "Better: fresh air"
+  ], 
   "symptoms": {
     "Heart": [
       "Pulsations over whole body", 
@@ -43,11 +48,6 @@
       "Aimless, hurried manner; must keep busy", 
       "Disposed to curse, strike, think obscene things", 
       "Profound depression of spirits"
-    ], 
-    "Modalities": [
-      "Worse: consolation", 
-      "Worse: warm room", 
-      "Better: fresh air"
     ], 
     "Stool": [
       "Early-morning urgent stool", 

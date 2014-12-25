@@ -1,5 +1,10 @@
 {
-  "Natural History": "Rattlesnake", 
+  "name": "Crotalus horridus", 
+  "Relationship": "Antidote: LACH.; ALCOHOL. Radiant heat; camphor.Compare: BOTHROPS; NAJA (more nervous phenomena); LACHESIS (more markedly wore on left side); ELAPS (preferable in otorrhoea and affections of right lung); CROTALUS CASCAVELLA (thoughts and dreams of death. Paralysis of articulation, embarrassed stertorous breathing and semi-consciousness. A magnetic state is produced; cutting sensation all around eyeball.) BUNGARUS - KRAIT - (poliomyelitis).", 
+  "Modalities": [
+    "Worse: right side; open air; evening and morning; in spring", 
+    "Worse: coming on of warm weather; yearly; on awaking; damp and wet; jar"
+  ], 
   "symptoms": {
     "Urine": [
       "Casts", 
@@ -83,10 +88,6 @@
       "Trembling feeling of heart", 
       "Action feeble, pulse tremulous"
     ], 
-    "Modalities": [
-      "Worse: right side; open air; evening and morning; in spring", 
-      "Worse: coming on of warm weather; yearly; on awaking; damp and wet; jar"
-    ], 
     "Mind": [
       "Loquacious, with desire to escape", 
       "Sadness", 
@@ -141,7 +142,6 @@
       "Right-sided paralysis"
     ]
   }, 
-  "name": "Crotalus horridus", 
-  "Relationship": "Antidote: LACH.; ALCOHOL. Radiant heat; camphor.Compare: BOTHROPS; NAJA (more nervous phenomena); LACHESIS (more markedly wore on left side); ELAPS (preferable in otorrhoea and affections of right lung); CROTALUS CASCAVELLA (thoughts and dreams of death. Paralysis of articulation, embarrassed stertorous breathing and semi-consciousness. A magnetic state is produced; cutting sensation all around eyeball.) BUNGARUS - KRAIT - (poliomyelitis).", 
-  "details": "Snake poisons are supposed to be chemically CAN. HYDRATES of Soda and other salts. Alcohol is the natural solvent of these salts and is an antidote. Has a profound trophic action. Old age nutritional troubles. Low septic states. General disorganization of the blood, Hemorrhages and jaundice. A crotalin injection decreases the rate of coagulation of the blood. In epilepsy the average rate is far greater than in normal conditions. Blood decomposition, HEMORRHAGES (dark fluid that forms no clots), tendency to carbuncles, malignant scarlatina, YELLOW FEVER, the plague, cholera, give opportunity to use this remedy. HEMORRHAGIC DIATHESIS. Acts as a sedative. Sleeps into his symptoms. More right-sided in its action."
+  "details": "Snake poisons are supposed to be chemically CAN. HYDRATES of Soda and other salts. Alcohol is the natural solvent of these salts and is an antidote. Has a profound trophic action. Old age nutritional troubles. Low septic states. General disorganization of the blood, Hemorrhages and jaundice. A crotalin injection decreases the rate of coagulation of the blood. In epilepsy the average rate is far greater than in normal conditions. Blood decomposition, HEMORRHAGES (dark fluid that forms no clots), tendency to carbuncles, malignant scarlatina, YELLOW FEVER, the plague, cholera, give opportunity to use this remedy. HEMORRHAGIC DIATHESIS. Acts as a sedative. Sleeps into his symptoms. More right-sided in its action.", 
+  "Natural History": "Rattlesnake"
 }

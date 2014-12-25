@@ -1,15 +1,15 @@
 {
   "name": "Asterias rubens", 
   "Relationship": "Antidotes: Plumb.; Zinc.Incompatible: Nux; Coffea.Compare: Conium; Carbo; Ars.; Condurango.", 
+  "Modalities": [
+    "Worse: coffee", 
+    "Worse: night; cold damp weather", 
+    "Worse: left side"
+  ], 
   "symptoms": {
     "Head": [
       "Shocks in brain; throbbing; heat in head, as if surrounded by hot air", 
       "Cannot bear contradiction"
-    ], 
-    "Modalities": [
-      "Worse: coffee", 
-      "Worse: night; cold damp weather", 
-      "Worse: left side"
     ], 
     "Stool": [
       "Stool like olives", 

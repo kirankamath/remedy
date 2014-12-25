@@ -1,6 +1,14 @@
 {
   "name": "Drosera", 
   "Relationship": "Compare; FLUOROFORM (2 per cent. watery solution, 2-4 drops, after paroxysms, considered specific for whooping-cough.) OUABAIN from leaves of Carissa schimperi - arrow poison. (Respiratory spasm - Whooping cough is cut short in first stage and reduced in frequency of attacks and hastens convalescence.) CHELID.; CORAL.; CUPR.; CASTANEA; ARGENT.; MENYANTH.Antidote: CAMPH.", 
+  "Modalities": [
+    "Worse: after midnight", 
+    "Worse: lying down", 
+    "Worse: on getting warm in bed", 
+    "Worse: drinking", 
+    "Worse: singing", 
+    "Worse: laughing"
+  ], 
   "symptoms": {
     "Head": [
       "Vertigo when walking in open air, with inclination to fall to the left side", 
@@ -13,14 +21,6 @@
     "Stomach": [
       "Aversion to and bad effects from acids", 
       "Nausea"
-    ], 
-    "Modalities": [
-      "Worse: after midnight", 
-      "Worse: lying down", 
-      "Worse: on getting warm in bed", 
-      "Worse: drinking", 
-      "Worse: singing", 
-      "Worse: laughing"
     ], 
     "Respiratory": [
       "Deep, hoarse voice; hoarseness; laryngitis", 

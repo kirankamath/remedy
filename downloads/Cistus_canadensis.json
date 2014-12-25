@@ -1,6 +1,10 @@
 {
   "name": "Cistus canadensis", 
   "Relationship": "Compare: CONIUM; CARBO; CALC; ARG. N.Antidotes: RHUS; SEPIA.", 
+  "Modalities": [
+    "Worse: slightest exposure to cold air; mental exertion", 
+    "Worse: excitement"
+  ], 
   "symptoms": {
     "Respiratory": [
       "Asthmatic after lying down , preceded by formication"
@@ -9,10 +13,6 @@
       "Cool feeling in whole abdomen", 
       "Cool feeling in stomach before and after eating", 
       "Desire for cheese"
-    ], 
-    "Modalities": [
-      "Worse: slightest exposure to cold air; mental exertion", 
-      "Worse: excitement"
     ], 
     "Stool": [
       "Diarrhoea from coffee and fruit, thin, yellow, urgent; worse in morning"

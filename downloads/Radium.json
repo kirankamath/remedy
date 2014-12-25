@@ -1,6 +1,14 @@
 {
   "name": "Radium", 
   "Relationship": "Compare: ANACARDIUM (the ulceration produced by it is like RADIUM. It may appear elsewhere than on place of contact and appear late). Compare: X-RAY; RHUS; SEPIA; URANIUM; ARS.; PULSAT.; CAUSTIC.Antidotes: RHUS VEN.; TELLUR.", 
+  "Modalities": [
+    "Worse: getting up", 
+    "Better: open air", 
+    "Better: continued motion", 
+    "Better: hot bath", 
+    "Better: lying down", 
+    "Better: pressure"
+  ], 
   "symptoms": {
     "Head": [
       "Both eyes ache", 
@@ -23,14 +31,6 @@
       "Empty feeling in stomach", 
       "Nausea and sinking sensation, belching of gas", 
       "Aversion to sweets, ice-cream"
-    ], 
-    "Modalities": [
-      "Worse: getting up", 
-      "Better: open air", 
-      "Better: continued motion", 
-      "Better: hot bath", 
-      "Better: lying down", 
-      "Better: pressure"
     ], 
     "Urine": [
       "Enuresis", 

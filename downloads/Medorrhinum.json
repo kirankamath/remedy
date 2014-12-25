@@ -1,6 +1,15 @@
 {
   "name": "Medorrhinum", 
   "Relationship": "Compare: (Lactation: GALEGA; LACTUCA.) SULPH.; SYPHIL.; ZINC.", 
+  "Modalities": [
+    "Worse: when thinking of ailment", 
+    "Worse: from daylight to sunset", 
+    "Worse: heat", 
+    "Worse: inland", 
+    "Better: at the seashore", 
+    "Better: lying on stomach", 
+    "Better: damp weather"
+  ], 
   "symptoms": {
     "Urine": [
       "Nocturnal enuresis", 
@@ -80,15 +89,6 @@
     "Ears": [
       "Quick, darting pains in right ear", 
       "Partial deafness, pulsation in ears"
-    ], 
-    "Modalities": [
-      "Worse: when thinking of ailment", 
-      "Worse: from daylight to sunset", 
-      "Worse: heat", 
-      "Worse: inland", 
-      "Better: at the seashore", 
-      "Better: lying on stomach", 
-      "Better: damp weather"
     ], 
     "Mind": [
       "Hopeless of recovery", 

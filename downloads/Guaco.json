@@ -1,10 +1,10 @@
 {
   "name": "Guaco", 
   "Relationship": "Compare: OXAL-AC.; LATHYR.; CAUST.", 
+  "Modalities": [
+    "Worse: from motion"
+  ], 
   "symptoms": {
-    "Modalities": [
-      "Worse: from motion"
-    ], 
     "Urine": [
       "Increased, cloudy, phosphatic", 
       "Pain over region of bladder"

@@ -1,6 +1,21 @@
 {
   "name": "Sepia", 
   "Relationship": "Complementary: NAT-MUR.; PHOS. NUX intensifies action. GUAIACUM often beneficial after SEPIA.Compare: LIL; MUREX; SILICA; SULPH.; ASPERATA-Nacent oxygen. Distilled water charged with the gas - (leucorrhoea of young girls and uterine catarrh); OZONUM (SACRAL pain; tired feeling through pelvic viscera and perineum); DICTAMNUS Burning Bush - (Soothes labor pains); (metrorrhagia, leucorrhoea, and constipation; also somnambulism). LAPATHUM. (Leucorrhoea with constriction and expulsive effort through womb and pain in kidneys).Inimical: LACH.; PULS.", 
+  "Modalities": [
+    "Worse: forenoons and evenings; washing", 
+    "Worse: laundry-work", 
+    "Worse: dampness", 
+    "Worse: left side", 
+    "Worse: after sweat; cold air", 
+    "Worse: before thunder-storm", 
+    "Better: by exercise", 
+    "Better: pressure", 
+    "Better: warmth of bed", 
+    "Better: hot applications", 
+    "Better: drawing limbs up", 
+    "Better: cold bathing", 
+    "Better: after sleep"
+  ], 
   "symptoms": {
     "Urine": [
       "Red, adhesive, sand in urine", 
@@ -106,21 +121,6 @@
       "Violent, intermittent palpitation", 
       "Beating in all arteries", 
       "Tremulous feeling with flushes"
-    ], 
-    "Modalities": [
-      "Worse: forenoons and evenings; washing", 
-      "Worse: laundry-work", 
-      "Worse: dampness", 
-      "Worse: left side", 
-      "Worse: after sweat; cold air", 
-      "Worse: before thunder-storm", 
-      "Better: by exercise", 
-      "Better: pressure", 
-      "Better: warmth of bed", 
-      "Better: hot applications", 
-      "Better: drawing limbs up", 
-      "Better: cold bathing", 
-      "Better: after sleep"
     ], 
     "Mind": [
       "Dreads to be alone", 

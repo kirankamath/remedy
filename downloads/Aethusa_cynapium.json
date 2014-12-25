@@ -1,6 +1,9 @@
 {
-  "Natural History": "Fool's Parsley", 
-  "details": "The characteristic symptoms relate mainly to the brain and nervous system, connected with gastrointestinal disturbance. Anguish, crying, and expression of uneasiness and discontent, lead to this remedy most frequently in disease in children, during dentition, summer complaint, when, with the diarrhoea, there is MARKED INABILITY TO DIGEST MILK, and poor circulation. Symptoms set in with VIOLENCE.", 
+  "name": "Aethusa cynapium", 
+  "Modalities": [
+    "Worse: 3 to four am and evenings; warmth", 
+    "Worse: summer"
+  ], 
   "symptoms": {
     "Urine": [
       "Cutting pain in bladder, with frequent urging", 
@@ -72,10 +75,6 @@
       "Violent palpitation, with vertigo, headache and restlessness", 
       "Pulse rapid, hard and small"
     ], 
-    "Modalities": [
-      "Worse: 3 to four am and evenings; warmth", 
-      "Worse: summer"
-    ], 
     "Mind": [
       "Sees rats, cats, dogs, etc. unconscious, delirious", 
       "Idiocy may alternate with furor and irritability", 
@@ -116,6 +115,7 @@
       "Numbness of hands and feet"
     ]
   }, 
-  "name": "Aethusa cynapium", 
+  "details": "The characteristic symptoms relate mainly to the brain and nervous system, connected with gastrointestinal disturbance. Anguish, crying, and expression of uneasiness and discontent, lead to this remedy most frequently in disease in children, during dentition, summer complaint, when, with the diarrhoea, there is MARKED INABILITY TO DIGEST MILK, and poor circulation. Symptoms set in with VIOLENCE.", 
+  "Natural History": "Fool's Parsley", 
   "dosage": "Third to thirtieth potency."
 }

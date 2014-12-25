@@ -1,12 +1,12 @@
 {
   "name": "Dolichos pruriens", 
   "Relationship": "Compare: RHUS; BELL.; HEP.; NIT-AC.; FAGOPYR.", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: scratching", 
+    "Worse: right side"
+  ], 
   "symptoms": {
-    "Modalities": [
-      "Worse: at night", 
-      "Worse: scratching", 
-      "Worse: right side"
-    ], 
     "Abdomen": [
       "Constipation, with intense itching; bloated abdomen", 
       "Colic from getting feet wet", 

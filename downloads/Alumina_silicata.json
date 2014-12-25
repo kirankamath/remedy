@@ -1,6 +1,13 @@
 {
-  "Natural History": "Andalasite rock - Alumina 63, Silica 37 parts", 
-  "details": "Deep acting remedy for chronic complaints of brain, spine and nerves. Constriction is a marked general symptom, also constriction of orifices. Venous distention. Weakness, especially spinal. Aching and burning in spine. Formication, numbness, pain in all limbs. Epileptiform convulsion. Coldness during pains.Seems to be the same as Kaolin - Bolus alba (China Clay) Alumina Silicate: A remedy for croup and bronchitis. Nose itching and burning. Discharge YELLOW. SORE, SCABBY, stopped up. SORENESS OF CHEST along trachea; cannot stand percussion. Gray sputa. Capillary bronchitis. Larynx and chest sore. Membranous croup - extends down trachea.", 
+  "name": "Alumina silicata", 
+  "Modalities": [
+    "Worse: cold air", 
+    "Worse: after eating", 
+    "Worse: standing", 
+    "Better: warmth", 
+    "Better: fasting", 
+    "Better: resting in bed"
+  ], 
   "symptoms": {
     "Head": [
       "Constriction of scalp", 
@@ -16,14 +23,6 @@
       "Catarrh of chest, pain, raw feeling", 
       "Spasmodic cough with purulent viscid expectoration"
     ], 
-    "Modalities": [
-      "Worse: cold air", 
-      "Worse: after eating", 
-      "Worse: standing", 
-      "Better: warmth", 
-      "Better: fasting", 
-      "Better: resting in bed"
-    ], 
     "Skin": [
       "Sore to touch and pressure", 
       "Formication along course of nerves, veins feel full and distended"
@@ -32,6 +31,7 @@
       "Heaviness, jerking, numbness, aching and pains"
     ]
   }, 
-  "name": "Alumina silicata", 
+  "details": "Deep acting remedy for chronic complaints of brain, spine and nerves. Constriction is a marked general symptom, also constriction of orifices. Venous distention. Weakness, especially spinal. Aching and burning in spine. Formication, numbness, pain in all limbs. Epileptiform convulsion. Coldness during pains.Seems to be the same as Kaolin - Bolus alba (China Clay) Alumina Silicate: A remedy for croup and bronchitis. Nose itching and burning. Discharge YELLOW. SORE, SCABBY, stopped up. SORENESS OF CHEST along trachea; cannot stand percussion. Gray sputa. Capillary bronchitis. Larynx and chest sore. Membranous croup - extends down trachea.", 
+  "Natural History": "Andalasite rock - Alumina 63, Silica 37 parts", 
   "dosage": "Higher potencies."
 }

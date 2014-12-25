@@ -1,6 +1,15 @@
 {
   "name": "Tellurium", 
   "Relationship": "Compare: RADIUM.; SELENIUM.; TETRADYMITE - crystals from Georgia and North Carolina containing BISMUTH, TELLURIUM AND SULPHUR - (coccygodynia, ulceration of nails; pains in hands, in small spots, ankles, heels, and tendo-achilles); SEP.; ARTS.; RHUS.", 
+  "Modalities": [
+    "Worse: while at rest at night", 
+    "Worse: cold weather", 
+    "Worse: from friction", 
+    "Worse: coughing", 
+    "Worse: laughing", 
+    "Worse: lying on painful side", 
+    "Worse: touch"
+  ], 
   "symptoms": {
     "Eyes": [
       "Cataract, following ocular lesions; aids the absorption of infiltrations in iris and choroid", 
@@ -19,15 +28,6 @@
       "Neglectful and forgetful", 
       "Congestion to head and nape of neck, followed by weakness and faintness in stomach", 
       "Pain in left side of head and in forehead above left eye"
-    ], 
-    "Modalities": [
-      "Worse: while at rest at night", 
-      "Worse: cold weather", 
-      "Worse: from friction", 
-      "Worse: coughing", 
-      "Worse: laughing", 
-      "Worse: lying on painful side", 
-      "Worse: touch"
     ], 
     "Back": [
       "Pain in sacrum", 

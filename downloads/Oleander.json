@@ -1,6 +1,11 @@
 {
   "name": "Oleander", 
   "Relationship": "Antidotes: CAMPH.; SULPH.Compare: CON.; NAT-M.; RHUS; CAUST.; LATHYR. Oleander contains Oleandrin and also Nerein which latter is said to be closely related if not identical with Digitalin. The pulse becomes slower, more regular, more powerful. DIURESIS; palpitation, oedema and dyspnoea of valvular disease, disappear.", 
+  "Modalities": [
+    "Worse: undressing", 
+    "Worse: rest", 
+    "Worse: friction of clothes"
+  ], 
   "symptoms": {
     "Eyes": [
       "Can see objects only when looking at them sideways", 
@@ -26,11 +31,6 @@
       "Indolence", 
       "Humid, fetid spots behind ears", 
       "Corrosive itching on forehead and edge of hair; worse, heat"
-    ], 
-    "Modalities": [
-      "Worse: undressing", 
-      "Worse: rest", 
-      "Worse: friction of clothes"
     ], 
     "Mind": [
       "Melancholy, with obstinate constipation", 

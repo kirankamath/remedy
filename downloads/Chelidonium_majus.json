@@ -1,6 +1,15 @@
 {
   "name": "Chelidonium majus", 
   "Relationship": "Complementary: Lycop.; Bryon.Compare: Nux; Sulph.; Bry.; Lyc.; Opium; Podophyl.; Sanguin.; Ars.Antidote: Chamomile.Chelidonin. - (Spasm of smooth muscle everywhere, intestinal colic, uterine colic, bronchial spasm, tachycardia, etc.) Boldo - Boldoa fragrans - (Bladder atony; cholecystitis and biliary calculus. Bitter taste, no appetite; constipation, hypochondriasis languor, congestion of liver, burning weight in liver and stomach. Painful hepatic diseases. Disturbed liver following malaria.) Elemuy Gauteria - (Stone in kidneys and bladder; grain doses of powdered bark in water or 5 drops of tincture. Pellagra).Sulph. often completes its work.", 
+  "Modalities": [
+    "Worse: right side", 
+    "Worse: motion", 
+    "Worse: touch", 
+    "Worse: change of weather", 
+    "Worse: very early in morning", 
+    "Better: after dinner", 
+    "Better: from pressure"
+  ], 
   "symptoms": {
     "Eyes": [
       "Dirty yellow color of whites", 
@@ -38,15 +47,6 @@
     "Urine": [
       "Dark, turbid", 
       "Profuse, foaming, yellow urine, like beer"
-    ], 
-    "Modalities": [
-      "Worse: right side", 
-      "Worse: motion", 
-      "Worse: touch", 
-      "Worse: change of weather", 
-      "Worse: very early in morning", 
-      "Better: after dinner", 
-      "Better: from pressure"
     ], 
     "Stool": [
       "Constipation; stools hard, round balls, like sheep's dung, bright yellow, pasty; clay-colored, stools float in water; alternation of diarrhoea and constipation", 

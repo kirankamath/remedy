@@ -1,6 +1,11 @@
 {
   "name": "Oxytropis", 
   "Relationship": "Compare: ASTRAG.; LATHYR.; OXAL-AC.; BARYTA (Loco plant is rich in Baryta). LOLIUM.", 
+  "Modalities": [
+    "Worse: thinking of symptoms", 
+    "Worse: every other day", 
+    "Better: after sleep"
+  ], 
   "symptoms": {
     "Eyes": [
       "Paralysis of nerves and muscles of eyes", 
@@ -18,11 +23,6 @@
       "Urging to urinate when thinking of it", 
       "Pain in kidneys", 
       "Profuse flow"
-    ], 
-    "Modalities": [
-      "Worse: thinking of symptoms", 
-      "Worse: every other day", 
-      "Better: after sleep"
     ], 
     "Mind": [
       "Disinclined to work or talk", 

@@ -1,6 +1,12 @@
 {
   "name": "Nitricum acidum", 
   "Relationship": "Complementary: ARS.; CALAD.; LAC CAN.; SEPIA.Compare: MERC.; KALI-C.; THUJA; HEPAR; CALC.Inimical: LACH.", 
+  "Modalities": [
+    "Worse: evening and night", 
+    "Worse: cold climate", 
+    "Worse: and also hot weather", 
+    "Better: while riding in carriage"
+  ], 
   "symptoms": {
     "Mind": [
       "Hopeless despair", 
@@ -83,12 +89,6 @@
       "Cracking in ears when chewing", 
       "Difficult hearing; better by riding in carriage or train", 
       "Very sensitive to noise, as the rattle of wagons over pavements"
-    ], 
-    "Modalities": [
-      "Worse: evening and night", 
-      "Worse: cold climate", 
-      "Worse: and also hot weather", 
-      "Better: while riding in carriage"
     ], 
     "Urine": [
       "Scanty, dark, offensive", 

@@ -1,6 +1,13 @@
 {
   "name": "Cantharis", 
   "Relationship": "Complementary: Camph.Compare: Cantharidin - (Glomerular nephritis). The immediate pharmacological action of Cantharidin is irritability of the capillaries, rendering the passage of nutritive fluids through them less difficult. This is most marked in the capillaries of the kidneys. The increase of blood sugar coincident with the glomerular nephritis appears to be a valuable observation. Vesicaria - (Urinary and kidney remedy. Smarting, burning sensation along urethra and in bladder with frequent desire to void urine often with strangury. Cystitis irritable bladder. Tincture 5-10 drop doses). Fuschina coloring substance used in adulteration of wine. (Cortical nephritis with albuminuria, 6th-thirtieth potency Redness of ears, mouth, swollen gums; deep, red urine; red, profuse diarrhoea, with severe abdominal pains). Androsace lactea (urinary troubles, diuretic; dropsy). Apis; Ars.; Merc. cor.Antidotes: Acon.; Camph.; Puls.", 
+  "Modalities": [
+    "Worse: from touch", 
+    "Worse: or approach", 
+    "Worse: urinating", 
+    "Worse: drinking cold water or coffee", 
+    "Better: rubbing"
+  ], 
   "symptoms": {
     "Urine": [
       "Intolerable urging and tenesmus", 
@@ -71,13 +78,6 @@
     "Heart": [
       "Palpitation; pulse feeble, irregular; tendency to syncope", 
       "Pericarditis, with effusion"
-    ], 
-    "Modalities": [
-      "Worse: from touch", 
-      "Worse: or approach", 
-      "Worse: urinating", 
-      "Worse: drinking cold water or coffee", 
-      "Better: rubbing"
     ], 
     "Mind": [
       "Paroxysms of rage, crying, barking", 

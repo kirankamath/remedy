@@ -1,6 +1,9 @@
 {
   "name": "Oxalicum acidum", 
   "Relationship": "LIME WATER - Antidote to poisoning of Oxal. acid.Compare: ARS.; COLCH.; ARG.; PIC-AC.; CICER ARIETINUM - Chick-pea - (Lithiasis, jaundice, liver affections; diuretic). SCOLOPENDRA - Centipede - (terrible pains in back and loins, extending down limbs; return periodically, commencing in head, to toes. Angina pectoris. Inflammation, pain and gangrene. Pustules and abscesses). CAESIUM - (Pain in lumbar region and testicle. Headache, darting through temples. Diarrhoea and colic. Languor.)", 
+  "Modalities": [
+    "Worse: left side; slightest touch; light; shaving"
+  ], 
   "symptoms": {
     "Heart": [
       "Palpitation and dyspnoea in organic heart disease; worse, when thinking of it", 
@@ -35,9 +38,6 @@
       "Sense of heat", 
       "Headache, before and during stool", 
       "Confusion and vertigo"
-    ], 
-    "Modalities": [
-      "Worse: left side; slightest touch; light; shaving"
     ], 
     "Urine": [
       "Burning in urethra and pain in glans when urinating", 
