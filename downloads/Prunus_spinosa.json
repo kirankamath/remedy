@@ -2,6 +2,10 @@
   "name": "Prunus spinosa", 
   "Relationship": "Compare: LAUROC.; PRUNUS PADUS - Bird-cherry - (sore throat, pressure behind sternum and sticking pain in rectum); PRUNUS VIRGINIANA - Wild Cherry - (HEART TONIC; relieves the flagging and distended ventricle; irritable heart; dilatation of right heart; COUGH, WORSE AT NIGHT ON LYING DOWN; weak digestion, especially in elderly people; chronic bronchitis; increases muscular tone); PYRUS - Mountain Ash - (irritation of eyes; constriction around waist; spasmodic pains in uterus, bladder, heart, cold-water sensation in stomach, coldness extends up oesophagus; neuralgic and gouty pains).", 
   "symptoms": {
+    "Heart": [
+      "Angina pectoris", 
+      "Furious beating of heart"
+    ], 
     "Eyes": [
       "Ciliary neuralgia", 
       "Bursting pain in right eyeball shooting like lightning through the brain to occiput", 
@@ -12,9 +16,7 @@
     ], 
     "Respiratory": [
       "Wheezing when walking", 
-      "Oppression of chest; anxious, short respiration", 
-      "Angina pectoris", 
-      "Furious beating of heart; worse, slightest motion"
+      "Oppression of chest; anxious, short respiration"
     ], 
     "Head": [
       "Pain in right eyeball, as if it would burst", 
