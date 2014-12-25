@@ -60,16 +60,6 @@ keywords = set(["General",
 for k in list(keywords):
     keywords.add(k+".")
 
-def remove_upper_casing(s):
-    """
-    Capitalize just the first letter of the string.
-    Everything else, lower case.
-    """
-    if not s:
-        return s
-    result = s[0].upper()
-    return result + s[1:].lower()
-
 def process_one_remedy(file_name):
     with open(file_name, "r") as input_handle:
         lines = input_handle.readlines()
@@ -128,7 +118,6 @@ def process_one_remedy(file_name):
         value = "".join(v)
         value = value.replace("\n", "").replace('"', "")
         if k in special_handling:
-            # For some elements, we do special processing below. So don't do any manipulation here.
             symptoms = value
         else:
             # Remove any content within paren.
@@ -143,7 +132,7 @@ def process_one_remedy(file_name):
                 if not x:
                     continue
                 x = x.replace("__etc__", "etc.").replace("__i__e__", "i.e").replace("__ETC__", "ETC.")
-                symptoms.add(remove_upper_casing(x))
+                symptoms.add(x)
             symptoms = list(symptoms)
 
         if k.endswith("."):
