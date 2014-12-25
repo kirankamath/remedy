@@ -1,0 +1,65 @@
+{
+  "name": "Physostigma", 
+  "Relationship": "Compare also: MUSCARIN; CONIUM; CURARE; GELS.; THEBAINUM (tetanus); PIPERAZINUM - (Uric acid conditions. Pruritus. Gout and urinary calculi. CONSTANT BACKACHE. Skin dry, urine scanty. Rheumatic arthritis. Give one grain daily in carbonated water. First and second decimal trituration three times a day.)ESERIN SALICYLATE (post-operative intestinal paralysis; meteorism. Hypodermically 1/60-1/40 gr).Antidote: ATROPIA. In full medicinal doses will relieve most of the effects of PHYSOSTIGMINE.Compare: ESERINE - the alkaloid of Physostigma - (slows action of heart and increases arterial tension; in ciliary spasm and spasmodic ASTIGMATISM due to irregular action of ciliary muscles; blepharo-spasms; PUPILS CONTRACTED. Twitching of lids, soreness of eyeballs, blurring of vision AFTER USING EYES, pains around eyes and head). Used locally to contract the pupil. ESERINE contracts the pupils dilated by ATROPINE, but not those dilated by GELSEMIUM. Internally 6X.", 
+  "symptoms": {
+    "Heart": [
+      "Fatty degeneration", 
+      "Beats of heart distinctly perceptible in chest and head", 
+      "Feeble pulse; palpitation; spasmodic action, with feeling of pulsation through the whole body", 
+      "FLUTTERING OF HEART FELT IN THROAT"
+    ], 
+    "Eyes": [
+      "Lagophthalmus", 
+      "SPASM OF CILIARY MUSCLE, WITH IRRITABILITY AFTER USING EYES", 
+      "Night-blindness ; photophobia; CONTRACTION OF PUPILS; TWITCHING OF OCULAR MUSCLES", 
+      "Muscae volitantes; flashes of light; partial blindness", 
+      "Profuse lachrymation", 
+      "GLAUCOMA; paresis of accommodation; astigmatism", 
+      "INCREASING MYOPIA", 
+      "Post-diphtheritic paralysis of eye and accommodation muscles"
+    ], 
+    "Stomach": [
+      "Great pain immediately after eating", 
+      "Pain extends into chest and down arms", 
+      "Sensitive to pressure in epigastric region", 
+      "Gastralgia", 
+      "Chronic constipation"
+    ], 
+    "Head": [
+      "Spastic conditions of the face-muscles", 
+      "Pain over orbits; CANNOT BEAR TO RAISE EYELIDS", 
+      "Cerebrospinal meningitis; general tetanic rigidity", 
+      "Constant pain on top; vertigo, with constrictive feeling of head"
+    ], 
+    "Mouth": [
+      "TONGUE FEELS SORE ON TIP", 
+      "Feeling as if a ball came up throat"
+    ], 
+    "Nose": [
+      "Fluent coryza; burning and tingling of nostrils; nose stuffed and hot", 
+      "Fever-blisters around nostrils"
+    ], 
+    "Female": [
+      "Rigid muscles", 
+      "Irregular menstruation, with palpitation", 
+      "Congestion of eyes"
+    ], 
+    "Throat": [
+      "Strong heart-pulsation felt in throat"
+    ], 
+    "Extremities": [
+      "Tetanic convulsions", 
+      "Burning and tingling in spine", 
+      "PAIN IN RIGHT POPLITEAL SPACE", 
+      "Numbness in paralyzed parts, crampy pains in limbs", 
+      "Hands and feet numb", 
+      "Sudden jerking of limbs on going to sleep", 
+      "Locomotor ataxia"
+    ]
+  }, 
+  "details": "This remedy and its active principle, ESERINE, form a valuable addition to Materia Medica. Stimulates heart, raises blood pressure, and increases peristalsis. Causes contraction of the pupil and of the ciliary muscles. Induces a condition of short-sightedness. SPINAL IRRITATION, loss of motility, prostration, with very sensitive vertebrae. Fibrillary tremors. Rigidity of muscles; paralysis. Depresses the motor and reflex activity of the cord and causes loss of sensibility to pain, muscular weakness, followed by complete paralysis, although muscular contractility is not impaired. Paralysis and tremors, chorea. Meningeal irritation, with rigidity of muscles. TETANUS and trismus. Poly myelitis anterior. Eserine is used locally to produce contraction of pupil.", 
+  "Natural History": [
+    "Calabar Bean"
+  ], 
+  "dosage": "Third potency. The neutral sulphate of Eserine is instilled into the eye, from one-half to four grains to one ounce distilled water, to induce CONTRACTION OF PUPIL, in mydriasis, injuries to the eye, iritis, corneal ulcers, etc."
+}
