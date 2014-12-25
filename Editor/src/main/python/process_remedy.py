@@ -206,12 +206,12 @@ def merge_sections(symptom_list, from_id, to_id):
 def format_modalities(modalities):
     readable_modalities = []
     for mod in modalities:
-        if mod.startswith("BETTER,"):
+        if mod.startswith("Better,"):
             mod = mod[7:]
             chunks = mod.split(",")
             for chunk in chunks:
                 readable_modalities.append("Better: %s" % chunk.strip())
-        elif mod.startswith("WORSE,"):
+        elif mod.startswith("Worse,"):
             mod = mod[6:]
             chunks = mod.split(",")
             for chunk in chunks:
