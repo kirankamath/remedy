@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Hashish"
-  ], 
+  "Natural History": "Hashish", 
   "symptoms": {
     "Respiratory": [
       "Chest oppressed with deep, labored breathing", 
@@ -13,11 +11,11 @@
       "Clairvoyance", 
       "Constantly theorizing", 
       "Anxious depression; constant fear of becoming insane", 
-      "UNCONTROLLABLE LAUGHTER", 
-      "Excessive loquacity; EXUBERANCE OF SPIRITS", 
-      "VERY FORGETFUL; CANNOT FINISH SENTENCE", 
+      "Uncontrollable laughter", 
+      "Excessive loquacity; exuberance of spirits", 
+      "Very forgetful; cannot finish sentence", 
       "Is lost in delicious thought", 
-      "TIME SEEMS TOO LONG; SECONDS SEEM AGES; A FEW RODS AN IMMENSE DISTANCE", 
+      "Time seems too long; seconds seem ages; a few rods an immense distance", 
       "Delirium tremens", 
       "Emotional excitement; rapid change of mood"
     ], 
@@ -25,15 +23,15 @@
       "Shocks through brain", 
       "Headache with flatulence", 
       "Throbbing and weight at occiput", 
-      "Feels AS IF TOP OF HEAD WERE OPENING AND SHUTTING AND AS IF CALVARIUM WERE BEING LIFTED", 
+      "Feels as if top of head were opening and shutting and as if calvarium were being lifted", 
       "Uraemic headache", 
-      "INVOLUNTARY SHAKING OF HEAD", 
+      "Involuntary shaking of head", 
       "Migraine attack preceded by unusual excitement with loquacity"
     ], 
     "Face": [
       "Lips glued together", 
       "Saliva thick, frothy, and sticky", 
-      "GRINDING OF TEETH IN SLEEP", 
+      "Grinding of teeth in sleep", 
       "Mouth and lips dry", 
       "Expression drowsy and stupid"
     ], 
@@ -42,14 +40,14 @@
       "Sensation of swelling in perineum or near anus, as if sitting on a ball", 
       "Satyriasis", 
       "Oozing of white, glairy mucus from glans", 
-      "After sexual intercourse, BACKACHE", 
+      "After sexual intercourse, backache", 
       "Prolonged thrill"
     ], 
     "Extremities": [
-      "Pain in soles and calves; sharp pains in knees and ankles; VERY EXHAUSTED AFTER A SHORT WALK", 
-      "ENTIRE PARALYSIS OF THE LOWER EXTREMITIES", 
+      "Pain in soles and calves; sharp pains in knees and ankles; very exhausted after a short walk", 
+      "Entire paralysis of the lower extremities", 
       "Thrilling through arms and hands, and from knees down", 
-      "PAIN ACROSS SHOULDERS AND SPINE; MUST STOOP; CANNOT WALK ERECT"
+      "Pain across shoulders and spine; must stoop; cannot walk erect"
     ], 
     "Ears": [
       "Extreme sensitiveness to noise", 
@@ -59,7 +57,7 @@
     "Heart": [
       "Piercing pain, with great oppression", 
       "Palpitation awakes him", 
-      "PULSE VERY SLOW"
+      "Pulse very slow"
     ], 
     "Eyes": [
       "Fixed", 
@@ -82,7 +80,7 @@
       "Urine loaded with slimy mucus", 
       "Stitches and burning in urethra", 
       "Dull pain in region of right kidney", 
-      "Must strain; DRIBBLING; has to wait some time before the urine flows"
+      "Must strain; dribbling; has to wait some time before the urine flows"
     ], 
     "Sleep": [
       "Obstinate and intractable forms of insomnia", 
@@ -93,7 +91,7 @@
     ], 
     "Female": [
       "Backache during menses", 
-      "Menses PROFUSE, dark, painful, without clots", 
+      "Menses profuse, dark, painful, without clots", 
       "Dysmenorrhoea with sexual desire", 
       "Uterine colic, with great nervous agitation and sleeplessness", 
       "Sterility"

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Orange-spider"
-  ], 
+  "Natural History": "Orange-spider", 
   "details": "Nervous hyperaesthesia. Has affinity for the tubercular diathesis. Vertigo, sick headache, peculiar pain around heart region, phthisis florida, scrofula have all been treated successfully with this remedy. SENSITIVE TO NOISE; IT PENETRATES THE BODY, ESPECIALLY TEETH. Noises seem to strike on painful spots over the body. Rachitis, caries, necrosis. Phthisis, stitch high up in left apex. (ANTHRAX.) Where the indicated remedy does not hold long.", 
   "symptoms": {
     "Eyes": [
@@ -10,9 +8,9 @@
       "Luminous vibrations before eyes; sensitive to light"
     ], 
     "Respiratory": [
-      "CARDIAC ANXIETY AND PAIN", 
+      "Cardiac anxiety and pain", 
       "Pinching in left pectoral muscle", 
-      "PAIN IN LEFT FLOATING RIBS", 
+      "Pain in left floating ribs", 
       "Pain in upper left chest"
     ], 
     "Stomach": [
@@ -23,7 +21,7 @@
     ], 
     "Head": [
       "Pain worse anyone walking over floor", 
-      "VERTIGO, WITH NAUSEA AND VOMITING ON LEAST MOTION, particularly when closing eyes"
+      "Vertigo, with nausea and vomiting on least motion, particularly when closing eyes"
     ], 
     "Modalities": [
       "Worse: touch; pressure; on shipboard; riding in carriage; closing eyes; jar; noise; coitus; left side"
@@ -41,7 +39,7 @@
     ], 
     "Skin": [
       "Sensitive skin in thighs", 
-      "STINGING THRUSTS EVERYWHERE", 
+      "Stinging thrusts everywhere", 
       "Itching sensations"
     ]
   }, 

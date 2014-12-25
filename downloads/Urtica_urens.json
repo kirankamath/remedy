@@ -20,24 +20,24 @@
     ], 
     "Female": [
       "Uterine hemorrhage", 
-      "PRURITUS VULVAE, WITH STINGING, ITCHING, and oedema", 
-      "DIMINISHED SECRETION OF MILK", 
+      "Pruritus vulvae, with stinging, itching, and oedema", 
+      "Diminished secretion of milk", 
       "Acid and excoriating leucorrhoea", 
       "Excessive swelling of breasts", 
       "Arrests flow of milk after weaning"
     ], 
     "Skin": [
-      "URTICARIA, burning heat, with formication; violent itching", 
+      "Urticaria, burning heat, with formication; violent itching", 
       "Urticaria nodosa", 
       "Rheumatism alternates with nettle-rash", 
-      "CHICKEN-POX", 
+      "Chicken-pox", 
       "Itching and stinging of scrotum", 
-      "ITCHING BLOTCHES", 
+      "Itching blotches", 
       "Burn confined to skin", 
       "Herpes labialis with sensation of heat and itching", 
       "Angioneurotic oedema", 
       "Erythema, with burning and stinging", 
-      "BURNS AND SCALDS", 
+      "Burns and scalds", 
       "Consequences of suppressed nettle-rash"
     ], 
     "Extremities": [
@@ -48,8 +48,6 @@
     ]
   }, 
   "details": "A remedy for agalactia and LITHIASIS. Profuse discharge from mucous surfaces. Enuresis and urticaria. Spleen affections. ANTIDOTES ILL-EFFECTS OF EATING SHELLFISH. Symptoms return at the same time every year. Gout and uric acid diathesis. Favors elimination.RHEUMATISM ASSOCIATED WITH URTICARIA-LIKE ERUPTIONS. NEURITIS.", 
-  "Natural History": [
-    "Stinging-nettle"
-  ], 
+  "Natural History": "Stinging-nettle", 
   "dosage": "Tincture and lower potencies."
 }

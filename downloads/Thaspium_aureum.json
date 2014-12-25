@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "ZiziaMeadow Parsnip"
-  ], 
+  "Natural History": "ZiziaMeadow Parsnip", 
   "symptoms": {
     "Head": [
       "Pressure on top, in right temple, associated with backache"
@@ -9,6 +7,9 @@
     "Respiratory": [
       "Dyspnoea", 
       "Dry cough, with stitches in chest"
+    ], 
+    "Modalities": [
+      "Worse: during sleep"
     ], 
     "Mind": [
       "Suicidal; depressed; laughing and weeping moods alternate"
@@ -18,9 +19,9 @@
       "Acrid, profuse leucorrhoea, with retarded menses"
     ], 
     "Extremities": [
-      "CHOREA, ESPECIALLY DURING SLEEP", 
+      "Chorea, especially during sleep", 
       "Unusual tired feeling", 
-      "FIDGETY LEGS", 
+      "Fidgety legs", 
       "Lameness in arms and spasmodic twitching"
     ], 
     "Male": [

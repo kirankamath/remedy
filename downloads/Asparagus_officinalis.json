@@ -4,7 +4,7 @@
   "symptoms": {
     "Heart": [
       "Hydrothorax", 
-      "PALPATION, WITH OPPRESSION OF CHEST", 
+      "Palpation, with oppression of chest", 
       "Pulse intermits, weak, pain about left shoulder and heart, associated with bladder disturbances", 
       "Great oppression in breathing"
     ], 
@@ -26,8 +26,6 @@
     ]
   }, 
   "details": "Its marked and immediate action on the urinary secretion is well known. It causes weakness and cardia depression with dropsy. Rheumatic pains. Especially about left shoulder and heart.", 
-  "Natural History": [
-    "Common Garden Asparagus"
-  ], 
+  "Natural History": "Common Garden Asparagus", 
   "dosage": "Sixth potency"
 }

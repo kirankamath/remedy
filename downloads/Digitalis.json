@@ -4,20 +4,20 @@
   "symptoms": {
     "Mind": [
       "Dullness of sense", 
-      "Despondency; fearful; ANXIOUS about the future", 
-      "Melancholia, dull lethargic with SLOW pulse", 
+      "Despondency; fearful; anxious about the future", 
+      "Melancholia, dull lethargic with slow pulse", 
       "Every shock strikes in epigastrium"
     ], 
     "Stool": [
       "Diarrhoea during jaundice", 
-      "WHITE, CHALK-LIKE, ASHY, PASTY STOOL"
+      "White, chalk-like, ashy, pasty stool"
     ], 
     "Eyes": [
       "Mydriasis; lid margins red, swollen, agglutinated in morning", 
       "Objects appear green and yellow", 
       "Dim vision irregular pupils, diplopia", 
       "Blueness of eyelids", 
-      "CHANGE IN ACUTENESS OF PERCEPTION OF SHADES OF GREEN", 
+      "Change in acuteness of perception of shades of green", 
       "Dark bodies, like flies, before eyes", 
       "Detachment of retina"
     ], 
@@ -26,29 +26,29 @@
     ], 
     "Stomach": [
       "Burning in stomach extending to oesophagus", 
-      "EXCESSIVE NAUSEA, not relieved by vomiting", 
-      "Faintness, GREAT WEAKNESS IN STOMACH", 
-      "TENDERNESS OF EPIGASTRIUM", 
-      "FAINTNESS and vomiting from motion", 
+      "Excessive nausea, not relieved by vomiting", 
+      "Faintness, great weakness in stomach", 
+      "Tenderness of epigastrium", 
+      "Faintness and vomiting from motion", 
       "Discomfort, even after a small quantity of food, or from mere sight or smell", 
       "Copious salivation", 
       "After cold water or ice-cream, sharp pain in forehead, extending to nose", 
       "Sweet taste with constant ptyalism", 
-      "NEURALGIC PAIN IN STOMACH, unconnected with taking food"
+      "Neuralgic pain in stomach, unconnected with taking food"
     ], 
     "Abdomen": [
       "Pain in left side apparently in descending colon and under false ribs", 
-      "ENLARGED, SORE, PAINFUL LIVER", 
+      "Enlarged, sore, painful liver", 
       "Severe abdominal pains, pulsation in abdominal aorta, and epigastric constriction"
     ], 
     "Respiratory": [
       "Chronic bronchitis; passive congestion of the lungs, giving bloody sputum due to failing myocardium", 
       "Desire to take a deep breath", 
-      "CANNOT BEAR TO TALK", 
+      "Cannot bear to talk", 
       "Breathing irregular, difficult; deep sighing", 
       "Hemoptysis with weak heart", 
       "Cough, with raw, sore feeling in chest", 
-      "DYSPNOEA, constant desire to breathe deeply, lungs feel compressed"
+      "Dyspnoea, constant desire to breathe deeply, lungs feel compressed"
     ], 
     "Head": [
       "Vertigo, when walking and on rising, in cardiac and hepatic affections", 
@@ -68,18 +68,18 @@
     ], 
     "Heart": [
       "Cardiac dropsy", 
-      "VERY SLOW PULSE", 
+      "Very slow pulse", 
       "The least movement causes violent palpitation, and sensation as if it would cease beating, if he moves", 
       "Dilated heart, tired, irregular, with slow and feeble pulse", 
-      "INTERMITS; WEAK", 
-      "IRREGULAR HEART ESPECIALLY OF MITRAL DISEASE", 
-      "SUDDEN SENSATION AS IF HEART STOOD STILL", 
+      "Intermits; weak", 
+      "Irregular heart especially of mitral disease", 
+      "Sudden sensation as if heart stood still", 
       "Pericarditis, copious serous exudation", 
       "Cyanosis", 
       "Cardiac failure following fevers", 
       "Inequality of pulse; it varies", 
       "Frequent stitches in heart", 
-      "PULSE WEAK; AND QUICKENED BY LEAST MOVEMENT", 
+      "Pulse weak; and quickened by least movement", 
       "Hypertrophy with dilatation"
     ], 
     "Modalities": [
@@ -88,16 +88,16 @@
       "Better: when stomach is empty; in open air"
     ], 
     "Urine": [
-      "Continued urging, in drops, dark, hot, burning, with sharp cutting or THROBBING pain at neck of bladder, AS IF A STRAW WAS BEING THRUST BACK AND FORTH; worse at night", 
+      "Continued urging, in drops, dark, hot, burning, with sharp cutting or throbbing pain at neck of bladder, as if a straw was being thrust back and forth; worse at night", 
       "Ammoniacal, and turbid", 
-      "URETHRITIS, phimosis, strangury", 
+      "Urethritis, phimosis, strangury", 
       "Full feeling after urination", 
       "Suppressed", 
       "Brick-dust sediment", 
       "Constriction and burning, as if urethra was too small"
     ], 
     "Sleep": [
-      "STARTS FROM SLEEP IN ALARM that he is falling from a height", 
+      "Starts from sleep in alarm that he is falling from a height", 
       "Continuous sleepiness"
     ], 
     "Female": [
@@ -117,13 +117,11 @@
       "Nocturnal swelling of fingers", 
       "Fingers go to sleep easily", 
       "Coldness of hands and feet", 
-      "Sensation in legs as IF A RED HOT WIRE suddenly darted through them", 
+      "Sensation in legs as if a red hot wire suddenly darted through them", 
       "Muscular debility"
     ]
   }, 
   "details": "Comes into play in all diseases where the heart is primarily involved, where the pulse is WEAK, IRREGULAR, INTERMITTENT, ABNORMALLY SLOW, and dropsy of external and internal parts. WEAKNESS AND DILATION OF THE MYOCARDIUM. Its greatest indication is in failure of compensation and especially when AURICULAR FIBRILLATION HAS SET IN. Slow pulse in recumbent posture, but irregular and dicrotic on sitting up. Auricular flutter and fibrillation especially when subsequent to rheumatic fever. Heart block, very slow pulse. Other symptoms of organic heart disease, such as great weakness and sinking of strength, faintness, coldness of skin, and irregular respiration; cardiac irritability and ocular troubles after tobacco; jaundice from induration and HYPERTROPHY OF THE LIVER, frequently call for Digitalis. Jaundice with heart disease. Faint, as if dying. BLUISH appearance of face. CARDIAC MUSCULAR FAILURE when asystole is present. Stimulates the heart's muscles, increases force of systole, increases length. Prostration from slight exertion. Collapse.", 
-  "Natural History": [
-    "Foxglove"
-  ], 
+  "Natural History": "Foxglove", 
   "dosage": "The third to thirtieth attenuation will bring about reaction when the drug is homeopathically indicated; but for palliative purposes the physiological dosage is required. For this purpose, the tincture made from the FRESH plant, in doses of five to twenty drops, when the cardiac stimulation is desired, or the infusion of 1 1/2 per cent. Dose, one-half to one ounce if the diuretic action is wanted. The tincture may be given on sugar or bread, and nothing liquid be taken for twenty minutes before or after its administration. Of the powdered leaves, 1/2 to 2 grains in capsules. Digitoxin 1-250 grain. No matter what form of digitalis is given the dose should be reduced as soon as the pulse rate has been lowered to 80 beats a minute and the normal rhythm has been partially or completely restored. Under such conditions a good rule is to cut the dose in half and still more if there be a sudden falling off of the urinary output."
 }

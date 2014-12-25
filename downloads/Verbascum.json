@@ -5,7 +5,7 @@
     "Respiratory": [
       "Cough; worse at night", 
       "Asthma", 
-      "HOARSE; voice deep, harsh; sounds like a trumpet; basso profundo", 
+      "Hoarse; voice deep, harsh; sounds like a trumpet; basso profundo", 
       "Soreness in pharynx, cough during sleep"
     ], 
     "Rectum": [
@@ -17,26 +17,26 @@
       "Worse: change of temperature", 
       "Worse: talking", 
       "Worse: sneezing", 
-      "Worse: biting hard ; from nine AM to four PM"
+      "Worse: biting hard ; from nine am to four pm"
     ], 
     "Urine": [
       "Increase with pressure in bladder", 
       "Burning urination", 
-      "ENURESIS", 
+      "Enuresis", 
       "Constant dribbling"
     ], 
     "Abdomen": [
       "Pain extends deep down, causing contraction of sphincter ani"
     ], 
     "Face": [
-      "Neuralgia affecting zygoma, temporomaxillary joint, and ear , particularly of left side, with lachrymation, coryza, and sensation AS IF PARTS WERE CRUSHED WITH TONGS", 
+      "Neuralgia affecting zygoma, temporomaxillary joint, and ear , particularly of left side, with lachrymation, coryza, and sensation as if parts were crushed with tongs", 
       "Pains seem to come in flashes, excited by least movement, occurring periodically at same hour in morning and afternoon each day", 
       "Talking, sneezing, and change of temperature aggravate the pains; also, pressing teeth together"
     ], 
     "Extremities": [
       "Cramp-like pain in soles, right foot, and knee", 
       "Lower extremities feel heavy", 
-      "Stiffness and SORENESS OF JOINTS OF LOWER EXTREMITIES", 
+      "Stiffness and soreness of joints of lower extremities", 
       "Neuralgic pain in left ankle", 
       "Thumb feels numb"
     ], 
@@ -47,8 +47,6 @@
     ]
   }, 
   "details": "Has a pronounced action on the inferior maxillary branch of the fifth pair of the cranial nerves; on the ear; and respiratory tract and bladder. CATARRHS, and colds, WITH PERIODICAL PROSOPALGIA. Quiets nervous, and bronchial, and urinary irritation, and cough.", 
-  "Natural History": [
-    "Mullein"
-  ], 
+  "Natural History": "Mullein", 
   "dosage": "MULLEIN OIL, (locally, for earache and dry, scaly condition of meatus. Also for teasing cough at night or lying down. Internally, tincture and lower potencies. ENURESIS, five-drop doses night and morning."
 }

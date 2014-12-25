@@ -3,24 +3,24 @@
   "Relationship": "Antidotes: ARS.; PHOS.; SPIR. NIT. DULC.Compare: AQUA MARINA - Isotonic plasma. Marine plasma is a sea water taken some miles from shore and some depth below surface, filtered and diluted with twice as much pure fresh water. It acts primarily on the blood, as in intoxications, scrofulous conditions, enteritis. It disintoxicate in cancer (administered subcutaneously in the treatment of diseases of skin, kidneys and intestines, GASTROENTERITIS, AND TUBERCULOSIS). SCROFULOUS AFFECTIONS OF CHILDREN. Lymphadenitis. Lupus, eczema, varicose ulcers. A great blood purifier and vitalizer. Potentized sea-water in weakness, lack of reaction; symptoms worse seaside. Goitre.) SAL MARINUM sea salt, (indicated in chronic enlargements of glands, especially cervical. Suppurating glands. It appears likely to become a most useful remedy as an auxiliary, if not as a principal, in the treatment of diseases in patients of a strumous diathesis. Also useful in constipation.) NATRUM SELENICUM (laryngeal phthisis with expectoration of small lumps of bloody mucus and slight hoarseness.) NATRUM SILICUM (hemophilia; scrofulous bone affections; given intravenously every 3 days for SENILE PRURITUS); (DOLICHOS. FAGOPYR.) IGNAT.; SEP.; THUJA; GRAPH.; ALUM.Complementary to APIS; SEPIA; IGN.", 
   "symptoms": {
     "Urine": [
-      "Increased, involuntary when walking, coughing, etc. Has to wait a long time for it to pass IF OTHERS ARE PRESENT", 
-      "Pain just AFTER urinating"
+      "Increased, involuntary when walking, coughing, etc. has to wait a long time for it to pass if others are present", 
+      "Pain just after urinating"
     ], 
     "Head": [
       "Frontal sinus inflammation", 
       "Before attack, numbness and tingling in lips, tongue and nose, relieved by sleep", 
       "Throbs", 
-      "Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, AFTER MENSTRUATION, from SUNRISE TO SUNSET", 
+      "Aches as if a thousand little hammers were knocking on the brain, in the morning on awakening, after menstruation, from sunrise to sunset", 
       "Feels too large; cold", 
-      "BLINDING headache", 
+      "Blinding headache", 
       "Anaemic headache of school-girls; nervous, discouraged, broken down", 
       "Chronic headache, semi-lateral, congestive, from sunrise to sunset, with pale face, nausea, vomiting; periodical; from eyestrain; menstrual"
     ], 
     "Fever": [
-      "Chill between 9 and eleven AM", 
-      "COLDNESS OF THE BODY, and CONTINUED CHILLINESS very marked", 
+      "Chill between 9 and eleven am", 
+      "Coldness of the body, and continued chilliness very marked", 
       "Heat; violent thirst, increases with fever", 
-      "Hydraemia in chronic malarial states with weakness, constipation, loss of appetite, etc. Sweats on every exertion", 
+      "Hydraemia in chronic malarial states with weakness, constipation, loss of appetite, etc. sweats on every exertion", 
       "Fever-blisters"
     ], 
     "Stomach": [
@@ -30,7 +30,7 @@
       "Throbbing in pit", 
       "Sticking sensation in cardiac orifice", 
       "Heartburn, with palpitation", 
-      "SWEATS WHILE EATING", 
+      "Sweats while eating", 
       "Hungry, yet lose flesh"
     ], 
     "Abdomen": [
@@ -39,22 +39,22 @@
       "Distended"
     ], 
     "Mouth": [
-      "NUMBNESS, TINGLING OF TONGUE, lips, and nose", 
+      "Numbness, tingling of tongue, lips, and nose", 
       "Vesicles and burning on tongue, as if there was a hair on it", 
       "Sense of dryness", 
       "Frothy coating on tongue, with bubbles on side", 
-      "Immoderate thirst", 
+      "Tongue mapped", 
       "Lips and corners of mouth dry, ulcerated, and cracked", 
-      "Eruptions around mouth and VESICLES LIKE PEARLS ON LIPS", 
-      "TONGUE MAPPED", 
+      "Eruptions around mouth and vesicles like pearls on lips", 
       "Deep crack in middle of lower lip", 
       "Large vesicle on lower lip, which is swollen and burns", 
       "Scorbutic gums", 
+      "Immoderate thirst", 
       "Loss of taste"
     ], 
     "Rectum": [
       "Constipation; stool dry, crumbling", 
-      "Anus contracted, TORN, BLEEDING", 
+      "Anus contracted, torn, bleeding", 
       "Burning pains and stitching after stool", 
       "Painless and copious diarrhoea, preceded by pinching pain in abdomen"
     ], 
@@ -63,22 +63,22 @@
       "Cough, with bursting pain in head", 
       "Shortness of breath, especially on going upstairs", 
       "Stitches all over chest", 
-      "Whooping-cough with FLOWS OF TEARS WITH COUGH"
+      "Whooping-cough with flows of tears with cough"
     ], 
     "Eyes": [
       "Stricture of lachrymal duct with suppuration", 
       "Escape of mucopus when pressing upon sac", 
-      "TEARS STREAM DOWN FACE ON COUGHING", 
+      "Tears stream down face on coughing", 
       "Fiery, zigzag appearance around all objects", 
       "Sees sparks", 
       "Letters run together", 
-      "MUSCLES WEAK AND STIFF", 
-      "Feel bruised, WITH HEADACHE IN SCHOOL CHILDREN", 
-      "Cataract INCIPIENT", 
+      "Muscles weak and stiff", 
+      "Feel bruised, with headache in school children", 
       "Burning in eyes", 
-      "ASTHENOPIA DUE to insufficiency of INTERNAL RECTI MUSCLES", 
+      "Asthenopia due to insufficiency of internal recti muscles", 
       "Eyes appear wet with tears", 
-      "PAIN IN EYES WHEN LOOKING DOWN", 
+      "Cataract incipient", 
+      "Pain in eyes when looking down", 
       "Lachrymation, burning and acrid", 
       "Give out on reading or writing", 
       "Lids swollen", 
@@ -87,15 +87,15 @@
     "Face": [
       "Earthy complexion", 
       "Oily, shiny, as if greased", 
-      "FEVER-BLISTERS"
+      "Fever-blisters"
     ], 
     "Nose": [
-      "VIOLENT, FLUENT CORYZA, lasting from one to three days, then changing into stoppage of nose, making breathing difficult", 
-      "LOSS OF SMELL AND TASTE", 
+      "Violent, fluent coryza, lasting from one to three days, then changing into stoppage of nose, making breathing difficult", 
+      "Loss of smell and taste", 
       "Use thirtieth potency", 
-      "Discharge thin and watery, LIKE RAW WHITE OF EGG", 
+      "Discharge thin and watery, like raw white of egg", 
       "Dryness", 
-      "INFALLIBLE FOR STOPPING A COLD COMMENCING WITH SNEEZING", 
+      "Infallible for stopping a cold commencing with sneezing", 
       "Internal soreness of nose", 
       "Violent sneezing coryza"
     ], 
@@ -107,7 +107,7 @@
       "Noises; roaring and ringing"
     ], 
     "Heart": [
-      "INTERMITS ON LYING DOWN", 
+      "Intermits on lying down", 
       "Sensation of coldness of heart", 
       "Heart's pulsations shake body", 
       "Fluttering, palpitating; intermittent pulse", 
@@ -118,11 +118,11 @@
       "Worse: noise", 
       "Worse: music", 
       "Worse: warm room", 
-      "Worse: lying down; about ten AM", 
+      "Worse: lying down; about ten am", 
       "Worse: at seashore", 
       "Worse: mental exertion", 
       "Worse: consolation", 
-      "Worse: HEAT", 
+      "Worse: heat", 
       "Worse: talking", 
       "Better: open air", 
       "Better: cold bathing", 
@@ -133,10 +133,10 @@
     "Mind": [
       "Tears with laughter", 
       "Awkward, hasty", 
-      "CONSOLATION AGGRAVATES", 
+      "Consolation aggravates", 
       "Wants to be alone to cry", 
       "Irritable; gets into a passion about trifles", 
-      "Psychic causes of disease; ill effects of grief, fright, anger, etc. Depressed, particularly in chronic diseases"
+      "Psychic causes of disease; ill effects of grief, fright, anger, etc. depressed, particularly in chronic diseases"
     ], 
     "Sleep": [
       "Nervous jerking during sleep", 
@@ -156,13 +156,13 @@
     ], 
     "Skin": [
       "Eczema; raw, red, and inflamed; worse, eating salt, at seashore", 
+      "Greasy skin", 
       "Alopecia", 
       "Urticaria; itch and burn", 
       "Greasy, oily, especially on hairy parts", 
-      "GREASY skin", 
-      "HIves, itching after exertion", 
+      "Hives, itching after exertion", 
       "Dry eruptions, especially on margin of hairy scalp and bends of joints", 
-      "Crusty eruptions in BENDS OF LIMBS, MARGIN OF SCALP, behind ears", 
+      "Crusty eruptions in bends of limbs, margin of scalp, behind ears", 
       "Affects hair follicles", 
       "Fever blisters", 
       "Warts on palms of hands"
@@ -170,20 +170,18 @@
     "Extremities": [
       "Arms and legs, but especially knees, feel weak", 
       "Dryness and cracking about finger-nails", 
-      "PALMS HOT AND PERSPIRING", 
-      "NUMBNESS AND TINGLING in fingers and lower extremities", 
+      "Palms hot and perspiring", 
+      "Numbness and tingling in fingers and lower extremities", 
+      "Coldness of legs with congestion to head, chest, and stomach", 
       "Every movement accelerates the circulation", 
-      "COLDNESS OF LEGS with congestion to head, chest, and stomach", 
       "Painful contraction of hamstring", 
       "Ankles weak and turn easily", 
       "Cracking in joints on motion", 
-      "HANGNAILS", 
-      "Pain in back, WITH DESIRE FOR SOME FIRM SUPPORT"
+      "Hangnails", 
+      "Pain in back, with desire for some firm support"
     ]
   }, 
   "details": "The prolonged taking of excessive salt causes profound nutritive changes to take place in the system, and there arise not only the symptoms of salt retention as evidenced by dropsies and oedemas, but also an alteration in the blood causing a condition of anaemia and leucocytosis. There seems also to be a retention in the tissues of effete materials giving rise to symptoms loosely described as gouty or rheumatic gout. The provings are full of such symptoms. (Dr. Stonham.) A great remedy for certain forms of intermittent fever, anaemia, chlorosis, many disturbances of the alimentary tract and skin. Great debility; most weakness felt in the morning in bed. COLDNESS. Emaciation most notable in neck. Great liability to take cold. DRY MUCOUS MEMBRANES. Constrictive sensation throughout the body. GREAT WEAKNESS AND WEARINESS. Oversensitive to all sorts of influences. Hyperthyroidism. Goitre. Addison's disease. Diabetes.", 
-  "Natural History": [
-    "Chloride of Sodium"
-  ], 
+  "Natural History": "Chloride of Sodium", 
   "dosage": "Twelfth to thirtieth and higher. The very highest potencies often yield most brilliant results. And in infrequent dosage."
 }

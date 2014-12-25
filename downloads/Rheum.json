@@ -3,7 +3,7 @@
   "Relationship": "Complementary: MAG. CARB.Antidotes: CAMPH.; CHAM.Compare: MAG. PHOS.; HEP.; POD.; CHAM.; IPEC.", 
   "symptoms": {
     "Head": [
-      "COOL SWEAT ON THE FACE, ESPECIALLY ABOUT MOUTH AND NOSE", 
+      "Cool sweat on the face, especially about mouth and nose", 
       "Sweat on hairy scalp; constant and profuse"
     ], 
     "Stomach": [
@@ -33,13 +33,11 @@
     "Rectum": [
       "Colicky, even ineffectual urging to evacuate altered faecal stools", 
       "Before stool, unsuccessful urging to urinate", 
-      "STOOLS SMELL SOUR, pasty, with shivering and tenesmus, and burning in anus", 
+      "Stools smell sour, pasty, with shivering and tenesmus, and burning in anus", 
       "Sour diarrhoea during dentition"
     ]
   }, 
   "details": "Of frequent use in children with sour diarrhoea; difficult dentition. WHOLE CHILD SMELLS SOUR.", 
-  "Natural History": [
-    "Rhubarb"
-  ], 
+  "Natural History": "Rhubarb", 
   "dosage": "Third to sixth potency."
 }

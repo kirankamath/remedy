@@ -6,7 +6,7 @@
       "Sensation as if he had forgotten something", 
       "Vertigo when moving slowly", 
       "The head seems full of blood", 
-      "PIERCING THRUSTS of pain", 
+      "Piercing thrusts of pain", 
       "Convulsions and epilepsy from suppressed menses"
     ], 
     "Respiratory": [
@@ -17,20 +17,18 @@
     "Stool": [
       "Hemorrhage from bowels", 
       "Bleeding hemorrhoids", 
-      "URINE BLOODY"
+      "Urine bloody"
     ], 
     "Nose": [
-      "NOSEBLEED  Piercing pain from eyes to root of nose"
+      "Nosebleed  piercing pain from eyes to root of nose"
     ], 
     "Female": [
-      "PAINFUL VARICES DURING PREGNANCY", 
+      "Painful varices during pregnancy", 
       "Hemorrhage from uterus; bright red, fluid", 
       "Menses early, profuse, protracted"
     ]
   }, 
   "details": "An invaluable remedy for various types of hemorrhages; blood bright red. Incarcerated hernia; small-pox, with great pain in pit of stomach. After operations for stone. Bad effects from fall from a height; over-lifting. CONTINUED HIGH TEMPERATURE. Hemoptysis.", 
-  "Natural History": [
-    "Yarrow"
-  ], 
+  "Natural History": "Yarrow", 
   "dosage": "Tincture, to third potency."
 }

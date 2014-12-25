@@ -10,7 +10,7 @@
       "Worse: least touch"
     ], 
     "Urine": [
-      "Urine frequent at night; smells like Valerian; constant urging"
+      "Urine frequent at night; smells like valerian; constant urging"
     ], 
     "Mind": [
       "Great sadness, anxiety, and dread"
@@ -21,22 +21,20 @@
       "Conscious of a womb", 
       "Leucorrhoea green or bloody, alternate with mental symptoms and aching in sacrum", 
       "Sore pain in uterus", 
-      "DESIRE EASILY EXCITED", 
+      "Desire easily excited", 
       "Menses irregular, profuse, frequent, large clots", 
       "Pain in them during menstrual period", 
-      "NYMPHOMANIA", 
-      "MUST KEEP LEGS TIGHTLY CROSSED", 
+      "Must keep legs tightly crossed", 
+      "Nymphomania", 
       "Feeling of protrusion", 
       "Prolapse; enlargement of uterus, with pelvic tenesmus and sharp pains, extending toward breasts; aggravated lying down", 
       "Feeling as if something was pressing on a sore spot in the pelvis; worse sitting", 
-      "Least contact of parts causes VIOLENT SEXUAL EXCITEMENT", 
-      "PAIN FROM RIGHT SIDE OF WOMB TO RIGHT OR LEFT BREAST", 
+      "Least contact of parts causes violent sexual excitement", 
+      "Pain from right side of womb to right or left breast", 
       "Pulsation in neck of womb"
     ]
   }, 
   "details": "The symptoms of the female sexual organs are most prominent, and have been clinically verified. Especially adapted to nervous, lively, affectionate women. Patient weak and run down.", 
-  "Natural History": [
-    "Purple Fish"
-  ], 
+  "Natural History": "Purple Fish", 
   "dosage": "Third to thirtieth potency."
 }

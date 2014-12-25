@@ -4,10 +4,10 @@
   "symptoms": {
     "Eyes": [
       "Parts of the body seem enormously swollen", 
-      "Loss of vision; complains that it is dark, AND CALLS FOR LIGHT", 
+      "Seem prominent, staring wide open; pupils dilated", 
+      "Loss of vision; complains that it is dark, and calls for light", 
       "All objects look black", 
-      "Seem prominent, STARING WIDE OPEN; pupils dilated", 
-      "SMALL OBJECTS LOOK LARGE", 
+      "Small objects look large", 
       "Strabismus"
     ], 
     "Fever": [
@@ -17,7 +17,7 @@
     "Stomach": [
       "Violent thirst", 
       "Food tastes like straw", 
-      "Vomiting of mucus and GREEN bile"
+      "Vomiting of mucus and green bile"
     ], 
     "Modalities": [
       "Worse: in dark room", 
@@ -30,60 +30,60 @@
       "Better: warmth"
     ], 
     "Urine": [
-      "SUPPRESSION, bladder empty"
+      "Suppression, bladder empty"
     ], 
     "Mind": [
       "Rapid changes from joy to sadness", 
       "Delusions about his identity; thinks himself tall, double, a part missing", 
-      "Cannot bear solitude or darkness; MUST HAVE LIGHT AND COMPANY", 
+      "Cannot bear solitude or darkness; must have light and company", 
       "Loquacious, garrulous, laughing, singing, swearing, praying, rhyming", 
       "Delirium, with desire to escape", 
       "Sees ghosts, hears voices, talks with spirits", 
       "Violent and lewd", 
       "Religious mania", 
-      "DEVOUT, EARNEST, BESEECHING AND CEASELESS TALKING", 
+      "Devout, earnest, beseeching and ceaseless talking", 
       "Sight of water or anything glittering brings on spasms"
     ], 
     "Head": [
       "Auditory hallucinations", 
       "Boring pain, preceded by obscure vision", 
-      "RAISES HEAD FREQUENTLY FROM THE PILLOW", 
-      "Pain in forehead and over eyebrows, beginning at nine AM; worse until noon", 
+      "Raises head frequently from the pillow", 
+      "Pain in forehead and over eyebrows, beginning at nine am; worse until noon", 
       "Rush of blood to head; staggers, with tendency to fall forward and to the left"
     ], 
     "Face": [
       "Pale face", 
-      "EXPRESSION OF TERROR", 
+      "Expression of terror", 
       "Blood rushes to face; distorted", 
       "Hot, red; circumscribed redness of cheeks"
     ], 
     "Female": [
       "Puerperal mania, with characteristic mental symptoms and profuse sweatings", 
       "Convulsions after labor", 
-      "METRORRHAGIA, with LOQUACITY, SINGING, praying"
+      "Metrorrhagia, with loquacity, singing, praying"
     ], 
     "Skin": [
       "Shining red flash", 
-      "EFFECTS OF SUPPRESSED ERUPTION IN SCARLATINA, with delirium, etc."
+      "Effects of suppressed eruption in scarlatina, with delirium, etc."
     ], 
     "Mouth": [
       "Cannot swallow on account of spasm", 
-      "STAMMERING", 
+      "Stammering", 
       "Chewing motion", 
       "Dry; dribbling of viscid saliva", 
       "Risus sardonicus", 
       "Aversion to water"
     ], 
     "Extremities": [
-      "CHOREA; spasms partial, constantly changing", 
-      "GRACEFUL, RHYTHMIC MOTIONS", 
+      "Chorea; spasms partial, constantly changing", 
+      "Graceful, rhythmic motions", 
       "Trembling, twitching of tendons, staggering gait", 
-      "VIOLENT PAIN IN LEFT HIP", 
+      "Violent pain in left hip", 
       "Convulsions of upper extremities and of isolated groups of muscles"
     ], 
     "Male": [
       "Hands constantly kept on genitals", 
-      "SEXUAL ERETHISM, with indecent speech and action"
+      "Sexual erethism, with indecent speech and action"
     ], 
     "Sleep": [
       "Deep snoring sleep", 
@@ -92,8 +92,6 @@
     ]
   }, 
   "details": "The entire force of this drug seems to be expended on the brain, though the skin and throat show some disturbance. Suppressed secretions and excretions. Sensation as if limbs were separated from body. Delirium tremens. Absence of pain and muscular mobility especially of muscles of expression and of locomotion. Gyratory and graceful motions. Parkinsonism.", 
-  "Natural History": [
-    "Thorn-apple"
-  ], 
+  "Natural History": "Thorn-apple", 
   "dosage": "Thirtieth potency and lower."
 }

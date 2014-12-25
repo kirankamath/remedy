@@ -1,25 +1,23 @@
 {
-  "Natural History": [
-    "Chlorine Gas in Water"
-  ], 
+  "Natural History": "Chlorine Gas in Water", 
   "details": "The marked effect on the respiratory organs, producing spasm of the glottis, is the chief symptom of the drug. Asthma to relieve the spasm of glottis. Useful externally and internally in gangrene.", 
   "symptoms": {
     "Respiratory": [
       "Coryza with sudden gushes of sharp, corroding fluid, making nose sore inside and about the alae", 
-      "SPASM OF THE GLOTTIS", 
+      "Spasm of the glottis", 
       "Extreme dryness of tongue", 
       "Sooty, smoky nostrils", 
-      "INSPIRATION FREE, WITH OBSTRUCTED EXPIRATION", 
+      "Inspiration free, with obstructed expiration", 
       "Prolonged, loud, whistling rales", 
-      "CONSTRICTION, WITH SUFFOCATION", 
-      "SUDDEN DYSPNOEA FROM SPASM OF THE VOCAL CORDS, with staring protruding eyes, blue face, cold sweat, pulse small", 
+      "Constriction, with suffocation", 
+      "Sudden dyspnoea from spasm of the vocal cords, with staring protruding eyes, blue face, cold sweat, pulse small", 
       "Loss of voice from damp air", 
       "Livid face", 
       "Irritation of epiglottis, larynx, and bronchi"
     ], 
     "Mind": [
       "Fear of becoming crazy", 
-      "Marked loss of memory, ESPECIALLY FOR NAMES"
+      "Marked loss of memory, especially for names"
     ]
   }, 
   "name": "Chlorum", 

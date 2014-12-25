@@ -44,7 +44,7 @@
     ], 
     "Back": [
       "Aching in back of neck", 
-      "LUMBAR AND SACRAL backache, pain appears to be in BONE, continued motion relieves", 
+      "Lumbar and sacral backache, pain appears to be in bone, continued motion relieves", 
       "Backache between shoulders and lumbar-sacral region, better after walking", 
       "Pain and lameness in cervical vertebrae, worse dropping head forward, better standing, or sitting erect"
     ], 
@@ -52,7 +52,7 @@
       "Pruritus ani and piles", 
       "Alternating constipation and loose movements", 
       "Much flatulence", 
-      "Pain, violent cramps, rumbling, full of gas; pain over McBurney's point, and at location of sigmoid flexure"
+      "Pain, violent cramps, rumbling, full of gas; pain over mcburney's point, and at location of sigmoid flexure"
     ], 
     "Fever": [
       "Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence", 
@@ -73,7 +73,7 @@
     "Skin": [
       "Epithelioma", 
       "Small pimples", 
-      "ITCHING ALL OVER BODY, burning of skin, as if afire", 
+      "Itching all over body, burning of skin, as if afire", 
       "Erythema and dermatitis, with itching, burning, swelling and redness", 
       "Necrosis and ulceration"
     ], 
@@ -83,20 +83,18 @@
       "Metallic taste"
     ], 
     "Extremities": [
-      "ARTHRITIS, aching pains, WORSE at night", 
-      "PAIN IN TOES, calves, hip-joint, popliteal spaces", 
+      "Arthritis, aching pains, worse at night", 
+      "Pain in toes, calves, hip-joint, popliteal spaces", 
       "Muscles of legs and hips sore", 
       "Arms feel heavy", 
       "Dermatitis of the fingers", 
       "Legs, arms and neck feel hard and brittle, as though they would break on moving", 
-      "Severe pain in all the limbs, JOINTS, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers", 
+      "Severe pain in all the limbs, joints, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers", 
       "Cracking in shoulder", 
       "Trophic changes in the finger nails"
     ]
   }, 
   "details": "An important addition to the Materia Medica, especially since the provings by Diffenbach have precisionized its use. Radium brom. of 1, 800, 000 radio-activity was employed. Found effective in the treatment of rheumatism and gout, in skin affections generally, acne rosacea, naevi, moles, ulcers and cancers. Lowered blood pressure. SEVERE ACHING PAINS ALL OVER, with restlessness, better moving about. Chronic rheumatic arthritis. Lateness in appearance of symptoms. Ulcers due to Radium burns, take a long time to heal. Marked increase in the polymorphonuclear neurophiles. Great weakness.", 
-  "Natural History": [
-    "Radium Bromide"
-  ], 
+  "Natural History": "Radium Bromide", 
   "dosage": "Thirtieth and twelfth trituration."
 }

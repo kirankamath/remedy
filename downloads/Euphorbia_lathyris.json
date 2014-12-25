@@ -26,7 +26,7 @@
     ], 
     "Nose": [
       "End of nose very much inflamed externally", 
-      "Very SENSITIVE AND OEDEMATOUS mucous membranes with ulceration"
+      "Very sensitive and oedematous mucous membranes with ulceration"
     ], 
     "Male": [
       "Inflammation of scrotum, resulting in deep acrid ulcers, with intense itching and burning; worse, touching the parts from washing"
@@ -36,7 +36,7 @@
       "Weak and fluttering heart-action"
     ], 
     "Eyes": [
-      "Almost closed from OEDEMA OF LIDS"
+      "Almost closed from oedema of lids"
     ], 
     "Fever": [
       "Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead", 
@@ -67,8 +67,6 @@
     ]
   }, 
   "details": "The fresh milky juice is exceedingly acrid when applied to the skin and the fruit is highly purgative and poisonous. The juice causes redness, itching, pimples, sometimes gangrene. The symptoms point to its use in erysipelas, Poison Oak, etc. Rheumatic pains during rest. Paralytic, weakness in joints.", 
-  "Natural History": [
-    "Gopher-Plant, Caper Spurge"
-  ], 
+  "Natural History": "Gopher-Plant, Caper Spurge", 
   "dosage": "Third to thirtieth potency."
 }

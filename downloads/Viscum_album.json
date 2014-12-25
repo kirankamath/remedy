@@ -19,9 +19,9 @@
       "Persistent vertigo"
     ], 
     "Respiratory": [
-      "Dyspnoea; FEELING OF SUFFOCATING WHEN LYING ON LEFT SIDE", 
+      "Dyspnoea; feeling of suffocating when lying on left side", 
       "Stertorous breathing", 
-      "ASTHMA, if connected with gout or rheumatism", 
+      "Asthma, if connected with gout or rheumatism", 
       "Spasmodic cough"
     ], 
     "Modalities": [
@@ -44,16 +44,14 @@
       "Dropsy of extremities", 
       "Compressing pain in feet", 
       "General tremor, as if all muscles were in state of fibrillary contraction", 
-      "Periodic pains from sacrum into pelvis, WORSE IN BED, with pains into thighs and upper extremities", 
-      "TEARING, shooting pains in both thighs and upper extremities", 
-      "SCIATICA", 
-      "A GLOW rises from the feet to the head; seems to be on fire", 
+      "Periodic pains from sacrum into pelvis, worse in bed, with pains into thighs and upper extremities", 
+      "Tearing, shooting pains in both thighs and upper extremities", 
+      "Sciatica", 
+      "A glow rises from the feet to the head; seems to be on fire", 
       "Itching all over"
     ]
   }, 
   "details": "Lowered blood pressure. Dilated blood vessels but does not act on the centers in the medulla. Pulse is slow due to central irritation of the vagus.The symptoms point especially to rheumatic and gouty complaints; neuralgia, especially sciatica. Epilepsy, CHOREA, and metrorrhagia. RHEUMATIC DEAFNESS. ASTHMA. Spinal pains, due to uterine causes. Rheumatism with TEARING PAINS. Hypertensive albuminuria. Valvular disease, with disturbances in sexual sphere. Symptoms like epileptic aura and petit mal.", 
-  "Natural History": [
-    "Mistletoe"
-  ], 
+  "Natural History": "Mistletoe", 
   "dosage": "Tincture and lower potencies."
 }

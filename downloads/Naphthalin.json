@@ -3,20 +3,20 @@
   "Relationship": "Compare: DROS.; CORALL.; COCCUS. TERPIN. HYDRAS. (Whooping-cough, hay asthma and bronchial affections. 1-2 grain doses).", 
   "symptoms": {
     "Eyes": [
-      "OPACITY OF THE CORNEA", 
       "It produces detachment of the retina; papillo-retinal infiltration; deposits in patches upon the retina; amblyopia and consecutive amaurosis; sparkling synchysis; soft cataract", 
       "Exudation in the retina, choroid and ciliary body", 
       "Marked affinity for the eye", 
+      "Opacity of the cornea", 
       "Cataract"
     ], 
     "Respiratory": [
       "Sneezing; eyes inflamed; painful; head hot", 
-      "DYSPNOEA and sighing inspiration", 
+      "Dyspnoea and sighing inspiration", 
       "Acute laryngotracheitis", 
-      "SPASMODIC ASTHMA; better in open air", 
+      "Spasmodic asthma; better in open air", 
       "Emphysema in the aged with asthma", 
-      "HAY-FEVER", 
-      "WHOOPING-COUGH, long and continued paroxysms of coughing, unable to get a respiration", 
+      "Hay-fever", 
+      "Whooping-cough, long and continued paroxysms of coughing, unable to get a respiration", 
       "Bronchitis when the spasmodic element is associated with tenacious expectoration and oppression", 
       "Soreness in chest and stomach; must loosen clothing"
     ], 
@@ -39,8 +39,6 @@
     ]
   }, 
   "details": "Coryza, hay-fever, phthisis pulmonalis, also gonorrhea have been influenced favorably by this drug. Pyelonephritis. Irritation of the periphery of the urinary apparatus. Whooping-cough.", 
-  "Natural History": [
-    "A chemical compound from Coal-tar; Tar Camphor"
-  ], 
+  "Natural History": "A chemical compound from Coal-tar; Tar Camphor", 
   "dosage": "Third trituration.NON-HOMEOPATHIC USES. For worms, and especially pinworms, one-gramme dose. Externally in skin diseases, five per cent. ointment."
 }

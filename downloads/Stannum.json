@@ -6,26 +6,26 @@
       "Drawing pains in malar bones and orbits", 
       "Jarring of walking resounds painfully in head", 
       "Aching in temples and forehead", 
-      "Pain worse motion; GRADUALLY INCREASING AND DECREASING as if constricted by a band; forehead feels pressed inwards", 
+      "Pain worse motion; gradually increasing and decreasing as if constricted by a band; forehead feels pressed inwards", 
       "Ulceration of ring hole in lobe of ear", 
       "Obstinate acute coryza and influenza with cough"
     ], 
     "Respiratory": [
       "Hoarse; mucus expelled by forcible cough", 
       "Chest feels sore", 
-      "During day, with COPIOUS GREEN, SWEETISH, expectoration", 
+      "During day, with copious green, sweetish, expectoration", 
       "Violent, dry cough in evening until midnight", 
       "Influenzal cough from noon to midnight with scanty expectoration", 
-      "CHEST FEELS WEAK; can hardly talk", 
+      "Chest feels weak; can hardly talk", 
       "Respiration short, oppressive; stitches in left side when breathing and lying on same side", 
-      "Cough excited by LAUGHING, singing, talking; worse lying on right side", 
-      "HECTIC FEVER", 
-      "PHTHISIS MUCOSA"
+      "Cough excited by laughing, singing, talking; worse lying on right side", 
+      "Hectic fever", 
+      "Phthisis mucosa"
     ], 
     "Stomach": [
-      "Sensation of EMPTINESS IN STOMACH", 
+      "Sensation of emptiness in stomach", 
       "Bitter taste", 
-      "SMELL OF COOKING CAUSES VOMITING", 
+      "Smell of cooking causes vomiting", 
       "Pain better pressure, but sore to touch", 
       "Hunger"
     ], 
@@ -39,23 +39,23 @@
     "Mind": [
       "Dread of seeing people", 
       "Sad, anxious", 
-      "DISCOURAGED"
+      "Discouraged"
     ], 
     "Abdomen": [
       "Cramp-like colic around navel, with a feeling of emptiness", 
-      "COLIC RELIEVED BY HARD PRESSURE"
+      "Colic relieved by hard pressure"
     ], 
     "Fever": [
       "Perspiration, principally on forehead and nape of neck; debilitating; smelling musty, or offensive", 
-      "Heat in evening; EXHAUSTING NIGHT-SWEATS, especially towards morning", 
+      "Heat in evening; exhausting night-sweats, especially towards morning", 
       "Hectic"
     ], 
     "Female": [
       "Leucorrhoea, with great debility", 
-      "Prolapsus, with WEAK, SINKING FEELING IN STOMACH", 
-      "MENSES EARLY AND PROFUSE", 
+      "Prolapsus, with weak, sinking feeling in stomach", 
+      "Menses early and profuse", 
       "Pain in vagina, upward and back to spine", 
-      "BEARING-DOWN SENSATION"
+      "Bearing-down sensation"
     ], 
     "Throat": [
       "Much adhesive mucus, difficult to detach; efforts to detach cause nausea", 
@@ -65,8 +65,8 @@
       "Sleeps with one leg drawn up, the other stretched out"
     ], 
     "Extremities": [
-      "Dizziness and weakness WHEN DESCENDING", 
-      "Limbs suddenly GIVE OUT WHEN ATTEMPTING TO SIT DOWN", 
+      "Dizziness and weakness when descending", 
+      "Limbs suddenly give out when attempting to sit down", 
       "Neuritis", 
       "Typewriters' paralysis", 
       "Ankles swollen", 
@@ -76,8 +76,6 @@
     ]
   }, 
   "details": "Chief action is centered upon the nervous system and respiratory organs. Debility is very marked when Stannum is the remedy, especially the debility of chronic bronchial and pulmonary conditions, characterized by profuse mucopurulent discharges upon tuberculosis basis. TALKING CAUSES A VERY WEAK FEELING IN THE THROAT AND CHEST. PAINS THAT COME AND GO GRADUALLY, call unmistakably for Stannum. Paralytic weakness; spasms; paralysis.", 
-  "Natural History": [
-    "Tin"
-  ], 
+  "Natural History": "Tin", 
   "dosage": "Third to thirtieth potency."
 }

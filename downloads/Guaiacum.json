@@ -8,8 +8,8 @@
       "Pimples around eyes"
     ], 
     "Respiratory": [
-      "PLEURITIC STITCHES", 
-      "FEELS SUFFOCATED", 
+      "Pleuritic stitches", 
+      "Feels suffocated", 
       "Fetid breath after coughing", 
       "Chest pains in articulations of ribs, with shortness of breathing till expectoration sets in", 
       "Dry, tight cough"
@@ -18,15 +18,15 @@
       "Burning in stomach", 
       "Constricted epigastric region", 
       "Tongue furred", 
-      "DESIRE FROM APPLES and other fruits", 
+      "Desire from apples and other fruits", 
       "Aversion to milk"
     ], 
     "Head": [
       "Aching in left ear", 
       "Tearing pain in skull; worse, cold, wet weather", 
+      "Pains often end in a stitch, especially in head", 
       "Feels swollen, and blood-vessels distended", 
-      "GOUTY AND RHEUMATIC PAIN IN HEAD and face, EXTENDING TO NECK", 
-      "PAINS OFTEN END IN A STITCH, especially in head"
+      "Gouty and rheumatic pain in head and face, extending to neck"
     ], 
     "Urine": [
       "Constant desire", 
@@ -38,7 +38,7 @@
       "Worse: cold", 
       "Worse: wet weather; pressure", 
       "Worse: touch", 
-      "Worse: from six PM to four AM", 
+      "Worse: from six pm to four am", 
       "Better: external pressure"
     ], 
     "Mind": [
@@ -48,9 +48,9 @@
     "Back": [
       "Contractive pain between scapulae", 
       "Stitches between scapulae to occiput", 
-      "ACHING IN NAPE", 
+      "Aching in nape", 
       "Pain from head to neck", 
-      "STIFF NECK AND SORE SHOULDERS"
+      "Stiff neck and sore shoulders"
     ], 
     "Abdomen": [
       "Diarrhoea, cholera infantum", 
@@ -61,7 +61,7 @@
       "Ovaritis in rheumatic patients, with irregular menstruation and dysmenorrhoea, and irritable bladder"
     ], 
     "Throat": [
-      "ACUTE TONSILLITIS", 
+      "Acute tonsillitis", 
       "Syphilitic sore throat", 
       "Rheumatic sore throat with weak throat muscles", 
       "Throat dry, burns, swollen, stitches toward ear"
@@ -72,8 +72,8 @@
       "Immovable stiffness", 
       "Arthritic lancinations followed by contraction of limbs", 
       "Gouty tearing, with contractions", 
-      "A FEELING OF HEAT in the affected limbs", 
-      "GROWING PAINS", 
+      "A feeling of heat in the affected limbs", 
+      "Growing pains", 
       "Stinging pain in limbs", 
       "Rheumatic pain in shoulders, arms and hands", 
       "Ankle pain extending up the leg, causing lameness", 
@@ -81,8 +81,6 @@
     ]
   }, 
   "details": "Chief action on fibrous tissue, and is especially adapted to the arthritic diathesis, rheumatism, and tonsillitis. Secondary syphilis. Very valuable in acute rheumatism. FREE FOUL SECRETIONS. UNCLEAN ODOR FROM WHOLE BODY. Promotes suppuration of abscesses. Sensitiveness and aggravation from local heat. Contraction of limbs, stiffness and immobility. Feeling that he must stretch.", 
-  "Natural History": [
-    "Resin of Lignum Vitae"
-  ], 
+  "Natural History": "Resin of Lignum Vitae", 
   "dosage": "Tincture, to sixth attenuation."
 }

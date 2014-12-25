@@ -11,12 +11,12 @@
     ], 
     "Respiratory": [
       "Asthma from suppressed foot-sweat", 
-      "STITCHES IN BREAST FROM BEHIND FORWARD", 
       "Oppression", 
+      "Stitches in breast from behind forward", 
       "Chest feels constricted"
     ], 
     "Stomach": [
-      "Sensation AS IF WATER WERE IN STOMACH; of coldness, of constriction, and of burning; better, eructations"
+      "Sensation as if water were in stomach; of coldness, of constriction, and of burning; better, eructations"
     ], 
     "Head": [
       "Malar bones feel pulled forcibly upward", 
@@ -26,14 +26,14 @@
     ], 
     "Modalities": [
       "Worse: after eating", 
-      "Worse: from 2 to nine PM", 
+      "Worse: from 2 to nine pm", 
       "Better: by rubbing", 
       "Better: eructation", 
       "Better: open air"
     ], 
     "Urine": [
       "Itching in urethra", 
-      "POLYURIA", 
+      "Polyuria", 
       "Greenish urine, frequent and urgent want to urinate, with tenesmus and scanty emission"
     ], 
     "Abdomen": [
@@ -43,16 +43,16 @@
     ], 
     "Face": [
       "Feels drawn", 
-      "TWITCHING OF LIPS", 
+      "Twitching of lips", 
       "Cramp-like pains", 
       "Malar bone feels pulled upward", 
-      "Toothache, BETTER PRESSING TEETH TOGETHER"
+      "Toothache, better pressing teeth together"
     ], 
     "Nose": [
       "Watery, excoriating discharge; worse in open air"
     ], 
     "Female": [
-      "EARLY AND SCANT MENSTRUATION; flow black"
+      "Early and scant menstruation; flow black"
     ], 
     "Throat": [
       "Air feels cold", 
@@ -72,15 +72,13 @@
     ], 
     "Male": [
       "Pain along spermatic cord to testicles", 
-      "TESTICLES FEEL SEIZED AND PULLED FORCIBLY UPWARD; worse, right", 
+      "Testicles feel seized and pulled forcibly upward; worse, right", 
       "Desire increased; ejaculation too soon", 
-      "PRESSURE IN THE PERINEUM", 
+      "Pressure in the perineum", 
       "Prostatic hypertrophy"
     ]
   }, 
   "details": "Acts on the nervous system, especially on pneumogastric region. Useful in migraine and neuralgia of spermatic cord. Burning pains and stitches. PULLED UPWARD AND FROM BEHIND FORWARD PAINS.", 
-  "Natural History": [
-    "Dippel's Animal Oil"
-  ], 
+  "Natural History": "Dippel's Animal Oil", 
   "dosage": "Third to thirtieth potency and higher."
 }

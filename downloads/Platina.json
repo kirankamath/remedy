@@ -1,26 +1,24 @@
 {
-  "Natural History": [
-    "The Metal"
-  ], 
+  "Natural History": "The Metal", 
   "symptoms": {
     "Eyes": [
       "Eyes feel cold", 
-      "OBJECTS LOOK SMALLER THAN THEY ARE", 
+      "Objects look smaller than they are", 
       "Twitching of lids", 
       "Cramp-like pain in orbits"
     ], 
     "Stomach": [
-      "Fermentation, much flatulence; CONSTRICTION; RAVENOUS hunger; persistent nausea, with anxiety and weakness"
+      "Fermentation, much flatulence; constriction; ravenous hunger; persistent nausea, with anxiety and weakness"
     ], 
     "Head": [
-      "CRAMP-LIKE, SQUEEZING PAIN", 
+      "Cramp-like, squeezing pain", 
       "Tense, pressing pain, confined to a small spot", 
       "Constriction about forehead and right temples", 
-      "NUMBNESS, WITH HEADACHE"
+      "Numbness, with headache"
     ], 
     "Mind": [
       "Everything seems changed", 
-      "Self-exaltation; CONTEMPT FOR OTHERS", 
+      "Self-exaltation; contempt for others", 
       "Weary of everything", 
       "Arrogant, proud", 
       "Irresistible impulse to kill", 
@@ -35,7 +33,7 @@
       "Stool as if burnt", 
       "Adheres to rectum, like soft clay", 
       "Retarded; faeces scanty; evacuated with difficulty", 
-      "STICKY STOOL", 
+      "Sticky stool", 
       "Constipation of travelers, who are constantly changing food and water"
     ], 
     "Abdomen": [
@@ -45,7 +43,7 @@
     ], 
     "Face": [
       "Prosopalgia, with numb feeling in malar bones, as if the parts were between screws", 
-      "COLDNESS, CREEPING, AND NUMBNESS, in whole right side of face", 
+      "Coldness, creeping, and numbness, in whole right side of face", 
       "Pains increase and decrease gradually", 
       "Pain at root of nose, as if squeezed in a vise"
     ], 
@@ -53,7 +51,7 @@
       "Tingling internally and externally", 
       "Excessive sexual development; vaginismus", 
       "Ovaries sensitive and burn", 
-      "Menses too early, too profuse, DARK-CLOTTED, with spasms and painful bearing-down, chilliness, and sensitiveness of parts", 
+      "Menses too early, too profuse, dark-clotted, with spasms and painful bearing-down, chilliness, and sensitiveness of parts", 
       "Vaginismus", 
       "Nymphomania", 
       "Pruritus vulvae", 

@@ -5,7 +5,7 @@
     "Head": [
       "Weight pressing on brain with every step on ascending", 
       "Pain from nape over whole brain; better, stooping, sitting; worse, going upstairs", 
-      "Pressing in vertex; BETTER, HARD PRESSURE WITH HAND", 
+      "Pressing in vertex; better, hard pressure with hand", 
       "Pressing-together pain", 
       "Cracking in jaw and twitching of facial muscles"
     ], 
@@ -30,14 +30,12 @@
       "Distended and full; increased by smoking tobacco"
     ], 
     "Extremities": [
-      "ICY COLDNESS OF HANDS AND FEET", 
-      "As soon as patient lies down, LEGS JERK AND TWITCH", 
+      "Icy coldness of hands and feet", 
+      "As soon as patient lies down, legs jerk and twitch", 
       "Cramp-like pain"
     ]
   }, 
   "details": "A remedy for certain headaches, intermittent fever. Coldness of abdomen. Twitchings. Sensation of tension and compression. Fidgets and urinary difficulties in women. Diabetes.", 
-  "Natural History": [
-    "Buck-bean"
-  ], 
+  "Natural History": "Buck-bean", 
   "dosage": "Third to thirtieth potency."
 }

@@ -7,7 +7,7 @@
     ], 
     "Head": [
       "Wants hair brushed or head rubbed", 
-      "Intense pain, as if thousands of needles were pricking into brain VERTIGO"
+      "Intense pain, as if thousands of needles were pricking into brain vertigo"
     ], 
     "Modalities": [
       "Worse: seeing others in trouble", 
@@ -15,29 +15,29 @@
       "Worse: contact", 
       "Worse: noises", 
       "Better: in open air", 
-      "Better: MUSIC", 
+      "Better: music", 
       "Better: bright colors", 
       "Better: rubbing affected parts"
     ], 
     "Mind": [
       "Ungrateful, discontented", 
       "Sudden alteration of mood", 
-      "Destructive impulses; MORAL RELAXATION", 
+      "Destructive impulses; moral relaxation", 
       "Foxy", 
       "Guided by whims", 
-      "SENSITIVE TO MUSIC", 
+      "Sensitive to music", 
       "Must constantly busy herself or walk", 
       "Averse to company, but wants someone present"
     ], 
     "Female": [
       "Dysmenorrhoea, with very sensitive ovaries", 
       "Vulva dry and hot, with much itching", 
-      "PRURITUS VULVAE; NYMPHOMANIA", 
+      "Pruritus vulvae; nymphomania", 
       "Profuse menstruation, with frequent erotic spasms"
     ], 
     "Extremities": [
       "Extraordinary contractions and movements", 
-      "TWITCHING AND JERKING", 
+      "Twitching and jerking", 
       "Numbness of legs", 
       "Weakness of legs; choreic movements", 
       "Multiple sclerosis, with trembling", 
@@ -48,8 +48,6 @@
     ]
   }, 
   "details": "Remarkable nervous phenomena; hysteria with chlorosis; CHOREA, dysmenorrhoea, spinal irritability. Bladder tenesmus. CONSTRICTION sensation. Formication. EXTREME RESTLESSNESS; must keep in constant motion even though walking aggravates. Hysterical epilepsy. Intense sexual excitement.", 
-  "Natural History": [
-    "Spanish Spider"
-  ], 
+  "Natural History": "Spanish Spider", 
   "dosage": "Sixth to thirtieth potency."
 }

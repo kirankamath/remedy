@@ -6,8 +6,8 @@
       "Asthmatic after lying down , preceded by formication"
     ], 
     "Stomach": [
-      "COOL FEELING IN whole abdomen", 
-      "COOL FEELING in stomach before and after eating", 
+      "Cool feeling in whole abdomen", 
+      "Cool feeling in stomach before and after eating", 
       "Desire for cheese"
     ], 
     "Modalities": [
@@ -36,28 +36,28 @@
     "Skin": [
       "Small, painful pimples; lupus", 
       "Hemicrania", 
-      "GLANDS INFLAMED AND INDURATED", 
+      "Glands inflamed and indurated", 
       "Itching of swollen hands and arms; general itching which prevents sleep", 
       "Skin of hands hard, thick, dry, fissured; deep cracks", 
       "Mercurio-syphilitic ulcers", 
       "Itching all over"
     ], 
     "Throat": [
-      "Spongy feeling; VERY DRY and COLD AIR PASSING OVER PARTS CAUSES PAIN", 
+      "Spongy feeling; very dry and cold air passing over parts causes pain", 
       "Breath, tongue, and throat feel cold", 
       "Hawking of mucus", 
       "Head drawn to one side by swellings in neck", 
       "Uvula and tonsils swollen", 
-      "Sore throat from inhaling the least COLD AIR", 
+      "Sore throat from inhaling the least cold air", 
       "Heat and itching in throat", 
       "A small, dry spot in throat; must sip water frequently", 
       "Swelling and suppuration of glands of throat"
     ], 
     "Mouth": [
-      "PYORRHOEA", 
-      "MOUTH FEELS COLD; putrid, impure breath", 
+      "Pyorrhoea", 
+      "Mouth feels cold; putrid, impure breath", 
       "Scorbutic swollen gums", 
-      "HURTS TO PROTRUDE THE TONGUE"
+      "Hurts to protrude the tongue"
     ], 
     "Extremities": [
       "White swelling", 
@@ -76,8 +76,6 @@
     ]
   }, 
   "details": "A deep-acting anti-psoric remedy, with marked action in glandular affections, herpetic eruptions, chronic swellings, when patient is EXTREMELY SENSITIVE TO COLD. SENSATION OF COLDNESS IN VARIOUS PARTS. Scrofulous ophthalmia. Poisoned wounds, bites, phagedenic ulcers. MALIGNANT DISEASE OF THE GLANDS OF THE NECK. Cistus has affinity for nasopharynx; aborts colds that center in posterior nose. Sniffling.", 
-  "Natural History": [
-    "Rock Rose"
-  ], 
+  "Natural History": "Rock Rose", 
   "dosage": "First to thirtieth attenuation. Locally as a wash to arrest fetid discharges."
 }

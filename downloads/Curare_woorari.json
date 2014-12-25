@@ -9,15 +9,15 @@
     ], 
     "Respiratory": [
       "Short breath", 
-      "CHEST SORE TO PRESSURE", 
+      "Chest sore to pressure", 
       "Short dry cough; provokes vomiting, followed by fainting", 
-      "THREATENED PARALYSIS OF RESPIRATION on falling asleep", 
-      "VERY DISTRESSING DYSPNOEA"
+      "Threatened paralysis of respiration on falling asleep", 
+      "Very distressing dyspnoea"
     ], 
     "Modalities": [
       "Worse: dampness", 
       "Worse: cold weather", 
-      "Worse: cold wind; two AM; right side"
+      "Worse: cold wind; two am; right side"
     ], 
     "Mind": [
       "Indecision; no longer wishes to think, or act for herself"
@@ -57,7 +57,7 @@
       "Weakness of hands and fingers in pianists", 
       "Tired pain up and down spine", 
       "Legs tremble; give way in walking", 
-      "ARMS WEAK, HEAVY", 
+      "Arms weak, heavy", 
       "Favors development of corns", 
       "Debility; paralysis", 
       "Catalepsy", 
@@ -70,8 +70,6 @@
     ]
   }, 
   "details": "Muscular paralysis without impairing sensation and consciousness. Paralysis of respiratory muscles. REFLEX ACTION DIMINISHED. Debility of the aged (BARYTA) and from loss of fluids. Catalepsy. Nervous debility. Trismus. Glycosuria with motor paralysis. Curare decreases the output of adrenaline. Vomiting of bile in cirrhosis of liver. Diabetes mellitus, 4th dilution (Dr. Bark hard).", 
-  "Natural History": [
-    "Arrow-poison"
-  ], 
+  "Natural History": "Arrow-poison", 
   "dosage": "Sixth to thirtieth potency."
 }

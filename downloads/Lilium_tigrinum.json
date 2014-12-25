@@ -13,7 +13,7 @@
       "Sensation as if heart were grasped in a vise"
     ], 
     "Eyes": [
-      "MYOPIC ASTIGMIA", 
+      "Myopic astigmia", 
       "Pain, extending back into head; lachrymation; and impaired vision", 
       "Hyperaesthesia of retina", 
       "Useful in restoring power to the weakened ciliary muscle"
@@ -27,7 +27,7 @@
       "Hungry; longs for meat"
     ], 
     "Urine": [
-      "Urine milky, scanty, HOT", 
+      "Urine milky, scanty, hot", 
       "Frequent urging"
     ], 
     "Head": [
@@ -38,11 +38,11 @@
     "Mind": [
       "Consolation aggravates", 
       "Tormented about her salvation", 
-      "Anxious; FEARS SOME ORGANIC AND INCURABLE DISEASE", 
+      "Anxious; fears some organic and incurable disease", 
       "Constant inclination to weep", 
-      "AIMLESS, HURRIED MANNER; must keep busy", 
+      "Aimless, hurried manner; must keep busy", 
       "Disposed to curse, strike, think obscene things", 
-      "PROFOUND DEPRESSION OF SPIRITS"
+      "Profound depression of spirits"
     ], 
     "Modalities": [
       "Worse: consolation", 
@@ -52,7 +52,7 @@
     "Stool": [
       "Early-morning urgent stool", 
       "Dysentery; mucus and blood, with tenesmus, especially in plethoric and nervous women at change of life", 
-      "Constant desire to defecate; FROM PRESSURE IN RECTUM, worse standing", 
+      "Constant desire to defecate; from pressure in rectum, worse standing", 
       "Pressure down the anus"
     ], 
     "Abdomen": [
@@ -63,14 +63,14 @@
     "Female": [
       "Sexual instinct awakened", 
       "Constant desire to support parts externally", 
-      "Menses early, scanty, DARK, CLOTTED, OFFENSIVE; FLOW ONLY WHEN MOVING ABOUT", 
+      "Menses early, scanty, dark, clotted, offensive; flow only when moving about", 
       "Sub-involution", 
       "Pruritis pudendi", 
-      "CONGESTION OF UTERUS, prolapse, and anteversion", 
+      "Congestion of uterus, prolapse, and anteversion", 
       "Pain in ovaries and down thighs", 
       "Bloated feeling in uterine region", 
-      "CEASES WHEN RESTING", 
-      "BEARING-DOWN SENSATION WITH URGENT DESIRE FOR STOOL, AS THOUGH ALL ORGANS WOULD ESCAPE", 
+      "Ceases when resting", 
+      "Bearing-down sensation with urgent desire for stool, as though all organs would escape", 
       "Acrid, brown leucorrhoea; smarting in labia"
     ], 
     "Sleep": [
@@ -88,8 +88,6 @@
     ]
   }, 
   "details": "Manifests powerful influence over the pelvic organs, and is adapted to many reflex states dependent on some pathological condition of uterus and ovaries. More often indicated in unmarried women. The action on the heart is very marked. Pain in small spots. (OXAL-AC.) Rheumatic arthritis.", 
-  "Natural History": [
-    "Tiger-lily"
-  ], 
+  "Natural History": "Tiger-lily", 
   "dosage": "The middle and higher potencies seem to have done best. Its curative action sometimes is slow in developing itself."
 }

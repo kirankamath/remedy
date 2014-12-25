@@ -3,26 +3,26 @@
   "Relationship": "Antidotes: PULS.; LYCOP.; CONIUM; LACH.Complementary: SEPIA. Compare: VERATRINE (is alkaloid of Sabadilla, NOT of Veratrum, locally in neuralgias, and for removal of dropsy. Five grains to two drams. Lanolin, rubbed on inside of thighs, causes diuresis). COLCH.; NUX; ARUNDO AND POLLANTIN. PHLEUM PRATENSE - Timothy - Hay-fever - Potentized - 12 - specific to many cases and evidently acts in a desensitizing manner. (Rabe.) CUMARINUM (hay-fever).", 
   "symptoms": {
     "Head": [
-      "LACHRYMATION", 
+      "Lachrymation", 
       "Over-sensitiveness to odors", 
-      "THINKING produces headaches and sleeplessness", 
+      "Thinking produces headaches and sleeplessness", 
       "Dullness and oppression", 
       "Difficult hearing", 
-      "EYELIDS RED, BURNING", 
+      "Eyelids red, burning", 
       "Vertigo with sensation as though all things were turning around each other, accompanied by blackness before eyes and sensation of fainting"
     ], 
     "Fever": [
       "Thirstless", 
       "Heat in head and face; hands and feet icy cold, with chill", 
       "Lachrymation during paroxysm", 
-      "CHILL PREDOMINATES; from below upwards"
+      "Chill predominates; from below upwards"
     ], 
     "Stomach": [
       "Pyrosis; copious salivation", 
       "Canine appetite for sweets and rainaceous food", 
-      "SWEETISH taste", 
-      "NO THIRST", 
-      "DESIRE FOR HOT THINGS", 
+      "Sweetish taste", 
+      "No thirst", 
+      "Desire for hot things", 
       "Spasmodic pain in stomach with dry cough and difficult breathing", 
       "Loathing for strong food", 
       "Cold, empty feeling in stomach"
@@ -39,27 +39,27 @@
       "Nervous, timid, easily startled"
     ], 
     "Nose": [
-      "SPASMODIC SNEEZING, WITH RUNNING NOSE", 
-      "CORYZA, with severe frontal pains and redness of eyes and lachrymation", 
+      "Spasmodic sneezing, with running nose", 
+      "Coryza, with severe frontal pains and redness of eyes and lachrymation", 
       "Copious, watery, nasal discharge"
     ], 
     "Female": [
-      "INTERMIT", 
+      "Intermit", 
       "Menses too late; come by fits and starts"
     ], 
     "Skin": [
       "Dry, like parchment", 
-      "Horny, deformed, THICKENED NAILS", 
+      "Horny, deformed, thickened nails", 
       "Itching in anus", 
       "Hot, burning, creeping, crawling sensation"
     ], 
     "Throat": [
       "Dry fauces and throat", 
-      "WARM FOOD AND DRINK RELIEVE", 
-      "Sore; BEGINS ON LEFT SIDE", 
+      "Warm food and drink relieve", 
+      "Sore; begins on left side", 
       "Much tough phlegm", 
       "Tongue as if burnt", 
-      "Sensation of a lump in throat with CONSTANT necessity to swallow", 
+      "Sensation of a lump in throat with constant necessity to swallow", 
       "Empty swallowing most painful", 
       "Sensation of a skin hanging loosely; must swallow it", 
       "Chronic sore throat; worse, from cold air"
@@ -69,9 +69,6 @@
     ]
   }, 
   "details": "Action on mucous membrane of the nose and the lachrymal glands, producing coryza and symptoms like HAY-FEVER, which have been utilized homeopathically. CHILLINESS; sensitive to cold. Ascarides, with reflex symptoms (nymphomania; convulsive symptoms). Children's diarrhoea with constant cutting pains.", 
-  "Natural History": [
-    "Cevadilla Seed", 
-    "Asagraea Officialis"
-  ], 
+  "Natural History": "Cevadilla Seed. Asagraea Officialis", 
   "dosage": "Third to thirtieth potency."
 }

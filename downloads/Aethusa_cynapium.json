@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Fool's Parsley"
-  ], 
+  "Natural History": "Fool's Parsley", 
   "details": "The characteristic symptoms relate mainly to the brain and nervous system, connected with gastrointestinal disturbance. Anguish, crying, and expression of uneasiness and discontent, lead to this remedy most frequently in disease in children, during dentition, summer complaint, when, with the diarrhoea, there is MARKED INABILITY TO DIGEST MILK, and poor circulation. Symptoms set in with VIOLENCE.", 
   "symptoms": {
     "Urine": [
@@ -9,29 +7,29 @@
       "Pain in kidneys"
     ], 
     "Stool": [
-      "UNDIGESTED, THIN, GREENISH, preceded by colic, with tenesmus, and followed by exhaustion and drowsiness", 
+      "Undigested, thin, greenish, preceded by colic, with tenesmus, and followed by exhaustion and drowsiness", 
       "Obstinate constipation; feels as if all bowel action is lost", 
       "Choleraic affections in old age", 
       "Cholera infantum; child cold, clammy, stupid, with staring eyes and dilated pupils"
     ], 
     "Head": [
-      "OCCIPITAL PAIN extending down spine; better lying down and by pressure", 
+      "Occipital pain extending down spine; better lying down and by pressure", 
       "Head symptoms relieved by expelling flatus  and by stool", 
-      "VERTIGO WITH DROWSINESS, WITH PALPITATION; HEAD HOT AFTER VERTIGO CEASES", 
-      "HAIR FEELS PULLED", 
+      "Vertigo with drowsiness, with palpitation; head hot after vertigo ceases", 
+      "Hair feels pulled", 
       "Feels bound up, or in a vise"
     ], 
     "Fever": [
-      "MUST BE COVERED DURING SWEAT", 
-      "GREAT HEAT; NO THIRST", 
+      "Must be covered during sweat", 
+      "Great heat; no thirst", 
       "Profuse, cold sweat"
     ], 
     "Stomach": [
-      "REGURGITATION OF ABOUT AN HALF HOUR AFTER EATING", 
+      "Regurgitation of about an half hour after eating", 
       "Hungry after vomiting", 
-      "Vomiting, WITH SWEAT AND GREAT WEAKNESS, accompanied by anguish and distress, followed by sleepiness", 
+      "Vomiting, with sweat and great weakness, accompanied by anguish and distress, followed by sleepiness", 
       "Stomach feels turned upside down, with burning feeling up to the chest", 
-      "INTOLERANCE OF MILK; vomiting as soon as swallowed or in large curds", 
+      "Intolerance of milk; vomiting as soon as swallowed or in large curds", 
       "Violent vomiting of a white frothy matter", 
       "Nausea at sight of food", 
       "Tearing pains in the stomach extending to oesophagus", 
@@ -52,21 +50,21 @@
       "Sufferings render patient speechless"
     ], 
     "Eyes": [
-      "Photophobia; SWELLING OF MEIBOMIAN GLANDS", 
-      "EYES DRAWN DOWNWARD; pupils dilated", 
+      "Photophobia; swelling of meibomian glands", 
+      "Eyes drawn downward; pupils dilated", 
       "Rolling of eyes on falling asleep"
     ], 
     "Face": [
-      "Expression anxious, full of pain; LINEA NASALIS marked", 
-      "PUFFED, red-spotted, collapsed"
+      "Expression anxious, full of pain; linea nasalis marked", 
+      "Puffed, red-spotted, collapsed"
     ], 
     "Nose": [
-      "HERPETIC ERUPTION on tip of nose", 
+      "Herpetic eruption on tip of nose", 
       "Stopped up with much thick mucus", 
       "Frequent ineffectual desire to sneeze"
     ], 
     "Ears": [
-      "FEEL OBSTRUCTED", 
+      "Feel obstructed", 
       "Hissing sound", 
       "Sense of something hot from ears"
     ], 
@@ -75,15 +73,15 @@
       "Pulse rapid, hard and small"
     ], 
     "Modalities": [
-      "Worse: 3 to four AM and evenings; warmth", 
+      "Worse: 3 to four am and evenings; warmth", 
       "Worse: summer"
     ], 
     "Mind": [
       "Idiocy may alternate with furor and irritability", 
-      "Sees rats, cats, dogs, etc. Unconscious, delirious", 
+      "Sees rats, cats, dogs, etc. unconscious, delirious", 
       "Brain fag", 
-      "Restless, ANXIOUS, CRYING", 
-      "INABILITY TO THINK, TO FIX THE ATTENTION"
+      "Restless, anxious, crying", 
+      "Inability to think, to fix the attention"
     ], 
     "Back": [
       "Want of power to stand up or hold head up", 
@@ -91,8 +89,8 @@
       "Aching in small of back"
     ], 
     "Sleep": [
-      "Dozing after vomiting or stool CHILD IS SO EXHAUSTED, IT FALLS ASLEEP AT ONCE", 
-      "Disturbed by VIOLENT STARTLING; cold perspiration"
+      "Dozing after vomiting or stool child is so exhausted, it falls asleep at once", 
+      "Disturbed by violent startling; cold perspiration"
     ], 
     "Female": [
       "Menses watery", 
@@ -104,10 +102,10 @@
       "Ecchymosis", 
       "Easy perspiration", 
       "Excoriation of thighs in walking", 
-      "SURFACE OF BODY COVERED WITH CLAMMY SWEAT", 
-      "LYMPHATIC GLANDS SWOLLEN", 
+      "Surface of body covered with clammy sweat", 
+      "Lymphatic glands swollen", 
       "Skin of hands dry and shrunken", 
-      "Itching ERUPTION AROUND JOINTS", 
+      "Itching eruption around joints", 
       "Anasarca"
     ], 
     "Extremities": [

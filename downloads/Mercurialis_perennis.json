@@ -16,13 +16,11 @@
     ], 
     "Female": [
       "Dysmenorrhoea", 
-      "AMENORRHOEA, scanty menses, accompanied with orgasms", 
+      "Amenorrhoea, scanty menses, accompanied with orgasms", 
       "Pains and swelling of breasts"
     ]
   }, 
   "details": "Great exhaustion and drowsiness. Tumor at ensiform appendix, very sensitive. Affections of the muscular fibres of stomach, intestines, bladder.", 
-  "Natural History": [
-    "Dog's Mercury"
-  ], 
+  "Natural History": "Dog's Mercury", 
   "dosage": "Third potency."
 }

@@ -21,9 +21,9 @@
       "Dry eczema", 
       "Acne", 
       "Glandular induration", 
-      "Eruption on SCALP EXTENDING TO FACE and neck", 
+      "Eruption on scalp extending to face and neck", 
       "Tumor of breast, with pain", 
-      "PIMPLY, DRY, ROUGH, SCALY", 
+      "Pimply, dry, rough, scaly", 
       "Pruritis"
     ], 
     "Face": [
@@ -33,8 +33,6 @@
     ]
   }, 
   "details": "A remedy for the skins, chronic catarrhal affections, secondary syphilis. Hepatic torpor, lassitude and other evidences of incomplete metamorphosis; stimulates all glands and improves nutrition.", 
-  "Natural History": [
-    "Mountain Grape"
-  ], 
+  "Natural History": "Mountain Grape", 
   "dosage": "Tincture in rather material doses."
 }

@@ -4,8 +4,8 @@
   "symptoms": {
     "Urine": [
       "Pressure on bladder long before urine comes", 
-      "Nucleo-albumin and bile, high Phosphoric acid, with low total solids", 
-      "Involuntary urination when coughing, sneezing, etc.Albuminuria, scanty, suppressed", 
+      "Nucleo-albumin and bile, high phosphoric acid, with low total solids", 
+      "Involuntary urination when coughing, sneezing, etc.albuminuria, scanty, suppressed", 
       "Hematuria; diuresis", 
       "Obliged to rise several times at night to urinate"
     ], 
@@ -13,15 +13,15 @@
       "Diarrhoea; profuse, greenish mucus"
     ], 
     "Head": [
-      "Headache FROM RIDING IN COLD WIND", 
+      "Headache from riding in cold wind", 
       "Stitches in temples; aching in occiput, one-sided, with nausea, on riding in carriage", 
       "Headache comes on with yawning", 
-      "Great DRYNESS OF HAIR; falls out", 
+      "Great dryness of hair; falls out", 
       "Vertigo on turning", 
       "Loose feeling in head"
     ], 
     "Stomach": [
-      "Constant feeling as IF STOMACH WERE FULL OF WATER", 
+      "Vomiting of greenish-black matter", 
       "Feeling of lump in pit of stomach", 
       "Disgust for food", 
       "Gastric disorders from ice-water", 
@@ -29,13 +29,13 @@
       "Gagging", 
       "Flatulence", 
       "Epigastrium sensitive externally", 
-      "NAUSEA; better lying down", 
-      "ANXIETY FELT IN STOMACH", 
-      "Vomiting of greenish-black matter", 
+      "Nausea; better lying down", 
+      "Anxiety felt in stomach", 
       "Dyspepsia of old people; burning acidity, bloating", 
       "Epigastric pain to back", 
-      "SOUR ERUCTATIONS", 
+      "Sour eructations", 
       "Desire for sweets", 
+      "Constant feeling as if stomach were full of water", 
       "Sour vomiting; throbbing and cutting in stomach", 
       "Feeling of weight in epigastric and umbilical region"
     ], 
@@ -57,7 +57,7 @@
     "Rectum": [
       "Hemorrhoids, large, swollen, painful", 
       "Itching, ulcerated pimples around anus", 
-      "LARGE, difficult stools, with stitching pain an hour before", 
+      "Large, difficult stools, with stitching pain an hour before", 
       "Large discharge of blood with natural stool", 
       "Itching", 
       "Burning in rectum and anus", 
@@ -66,16 +66,16 @@
     ], 
     "Respiratory": [
       "Cutting pain in chest; worse lying on right side", 
-      "Tendency to tuberculosis; constant cold taking; BETTER IN WARM CLIMATE", 
+      "Tendency to tuberculosis; constant cold taking; better in warm climate", 
       "Leaning forward relieves chest symptoms", 
-      "Cough WITH RELAXED UVULA", 
-      "Expectoration scanty and tenacious, but INCREASING in morning and after eating; aggravated right lower chest and lying on painful side", 
-      "Dry, hard cough about three AM, with STITCHING PAINS and dryness of pharynx", 
-      "Bronchitis, WHOLE CHEST IS VERY SENSITIVE", 
-      "WHEEZING", 
+      "Expectoration scanty and tenacious, but increasing in morning and after eating; aggravated right lower chest and lying on painful side", 
+      "Dry, hard cough about three am, with stitching pains and dryness of pharynx", 
+      "Bronchitis, whole chest is very sensitive", 
+      "Wheezing", 
       "Expectoration must be swallowed; cheesy taste; copious, offensive, lump", 
-      "COLDNESS OF CHEST", 
-      "HYDROTHORAX", 
+      "Coldness of chest", 
+      "Hydrothorax", 
+      "Cough with relaxed uvula", 
       "Hoarseness and loss of voice"
     ], 
     "Eyes": [
@@ -86,19 +86,19 @@
       "Spots, gauze, and black points before eyes", 
       "Stitches in eyes", 
       "Weak sight from excessive sexual indulgence", 
-      "SWELLING OVER UPPER LID, LIKE LITTLE BAGS"
+      "Swelling over upper lid, like little bags"
     ], 
     "Nose": [
       "Post-nasal dropping", 
       "Crusty nasal openings", 
-      "Nose STUFFS UP IN WARM ROOM", 
+      "Nose stuffs up in warm room", 
       "Sore, scurfy nostrils; bloody nasal mucus", 
-      "ULCERATED NOSTRILS", 
+      "Ulcerated nostrils", 
       "Thick, fluent, yellow discharge", 
       "Nosebleed on washing face in morning"
     ], 
     "Male": [
-      "Excessive emissions, FOLLOWED BY WEAKNESS", 
+      "Excessive emissions, followed by weakness", 
       "Complaints from coition", 
       "Deficient sexual instinct"
     ], 
@@ -107,9 +107,9 @@
       "Stitches in ears"
     ], 
     "Heart": [
-      "Palpitation and BURNING IN HEART REGION", 
+      "Palpitation and burning in heart region", 
       "Threatened heart failure", 
-      "WEAK, RAPID PULSE; INTERMITS, due to digestive disturbance", 
+      "Weak, rapid pulse; intermits, due to digestive disturbance", 
       "Sensation as if heart were suspended"
     ], 
     "Modalities": [
@@ -120,8 +120,8 @@
     ], 
     "Mind": [
       "Never quiet or contented", 
-      "Obstinate and HYPERSENSITIVE to pain, noise, touch", 
-      "VERY IRRITABLE", 
+      "Obstinate and hypersensitive to pain, noise, touch", 
+      "Very irritable", 
       "Never wants to be left alone", 
       "Alternating moods", 
       "Anxiety felt in stomach", 
@@ -133,7 +133,7 @@
       "Lumbago with sudden sharp pains extending up and down back and to thighs", 
       "Hip-disease", 
       "Burning in spine", 
-      "SMALL OF BACK FEELS WEAK", 
+      "Small of back feels weak", 
       "Stitches in region of kidneys and right scapula", 
       "Severe backache during pregnancy, and after miscarriage", 
       "Pain in nates and thighs and hip-joint", 
@@ -147,9 +147,9 @@
     "Female": [
       "Pain through left labium, extending through abdomen to chest", 
       "Difficult, first menses", 
-      "COMPLAINTS AFTER PARTURITION", 
+      "Complaints after parturition", 
       "Delayed menses in young girls, with chest symptoms or ascites", 
-      "Menses early, profuse  or TOO LATE, PALE AND SCANTY, with soreness about genitals; pains from back pass down through gluteal muscles, with cutting in abdomen", 
+      "Menses early, profuse  or too late, pale and scanty, with soreness about genitals; pains from back pass down through gluteal muscles, with cutting in abdomen", 
       "Uterine hemorrhage; constant oozing after copious flow, with violent backache, relieved by sitting and pressure"
     ], 
     "Skin": [
@@ -166,15 +166,15 @@
     ], 
     "Extremities": [
       "White swelling of knee", 
+      "Soles very sensitive", 
       "Tearing pains in limbs with swelling", 
-      "SOLES VERY SENSITIVE", 
       "Paralysis of old people, and dropsical affections", 
-      "PAIN IN KNEES", 
+      "Pain in knees", 
       "Tearing in arms from shoulder to wrist", 
       "Lacerating in wrist-joint", 
-      "PAIN FROM HIP TO KNEE", 
+      "Pain from hip to knee", 
       "Limbs sensitive to pressure", 
-      "BACKS AND LEGS GIVE OUT", 
+      "Backs and legs give out", 
       "Itching of great toes, with pain", 
       "Tips of toes and fingers painful", 
       "Limbs go to sleep easily", 
@@ -182,8 +182,6 @@
     ]
   }, 
   "details": "The weakness characteristic of all Potassium Salts is seen especially in this, with soft pulse, coldness, general depression, and very characteristic stitches, which may be felt in any part of the body, or in connection with any affection. All Kali pains are SHARP AND CUTTING; nearly all better by motion. Never use any Salts of Potash where there is fever (T. F. Allen). Sensitive to every atmospheric change, and INTOLERANCE OF COLD WEATHER. One of the best remedies following labor. Miscarriage, for consequent debilitated states. Early morning aggravation is very characteristic. Fleshy aged people, with dropsical and paretic tendencies. SWEAT, BACKACHE, AND WEAKNESS. Throbbing pains. Tendency to dropsy. Tubercular diathesis. Pains from within out, and of stinging character. Giving-out sensation. Fatty degeneration. Stinging pains in muscles and internal parts. Twitching of muscles. Pain in small spot on left side. Hypothyroidism. Coxitis.", 
-  "Natural History": [
-    "Carbonate of Potassium"
-  ], 
+  "Natural History": "Carbonate of Potassium", 
   "dosage": "Thirtieth and higher. Sixth trit. Do not repeat too often. Use cautiously in old gouty cases, advanced Bright's and tuberculosis. Tongue swollen. STOMATITIS - aphthous and GANGRENOUS. Fetor. Mercurial stomatitis (as a mouth wash).Second to sixth potency. Use cautiously locally as it is poisonous."
 }

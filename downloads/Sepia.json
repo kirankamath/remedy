@@ -3,16 +3,16 @@
   "Relationship": "Complementary: NAT-MUR.; PHOS. NUX intensifies action. GUAIACUM often beneficial after SEPIA.Compare: LIL; MUREX; SILICA; SULPH.; ASPERATA-Nacent oxygen. Distilled water charged with the gas - (leucorrhoea of young girls and uterine catarrh); OZONUM (SACRAL pain; tired feeling through pelvic viscera and perineum); DICTAMNUS Burning Bush - (Soothes labor pains); (metrorrhagia, leucorrhoea, and constipation; also somnambulism). LAPATHUM. (Leucorrhoea with constriction and expulsive effort through womb and pain in kidneys).Inimical: LACH.; PULS.", 
   "symptoms": {
     "Urine": [
-      "Red, ADHESIVE, sand in urine", 
+      "Red, adhesive, sand in urine", 
       "Chronic cystitis, slow micturition, with bearing-down sensation above pubis", 
-      "Involuntary urination, DURING FIRST SLEEP"
+      "Involuntary urination, during first sleep"
     ], 
     "Head": [
       "Roots of hair sensitive", 
       "Coldness of vertex", 
       "Pimples on forehead near hair", 
       "Jerking of head backwards and forwards", 
-      "Headache in TERRIBLE SHOCKS at menstrual nisus, with scanty flow", 
+      "Headache in terrible shocks at menstrual nisus, with scanty flow", 
       "Hair falls out", 
       "Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side", 
       "Open fontanelles", 
@@ -26,14 +26,14 @@
       "Frequent flushes of heat; sweat from least motion"
     ], 
     "Stomach": [
-      "FEELING OF GONENESS; NOT RELIEVED BY EATING", 
+      "Feeling of goneness; not relieved by eating", 
       "Disposition to vomit after eating", 
       "Band of pain about four inches wide encircling hypochondria", 
-      "TOBACCO DYSPEPSIA", 
-      "Longing for VINEGAR, acids, and pickles", 
+      "Tobacco dyspepsia", 
+      "Longing for vinegar, acids, and pickles", 
       "Worse, after milk, especially when boiled", 
       "Loathes fat", 
-      "NAUSEA IN MORNING BEFORE EATING", 
+      "Nausea in morning before eating", 
       "Acid dyspepsia with bloated abdomen, sour eructations", 
       "Burning in pit of stomach", 
       "Nausea at smell or sight of food", 
@@ -41,25 +41,25 @@
       "Everything tastes too salty"
     ], 
     "Abdomen": [
-      "FLATULENT, with headache", 
+      "Flatulent, with headache", 
       "Feeling of relaxation and bearing-down in abdomen", 
-      "LIVER SORE AND PAINFUL; RELIEVED BY LYING ON RIGHT SIDE", 
+      "Liver sore and painful; relieved by lying on right side", 
       "Many brown spots on abdomen"
     ], 
     "Mouth": [
       "Tongue foul, but clears during menses", 
-      "Pain in teeth from six PM until midnight; worse on lying", 
       "Taste salty, putrid", 
+      "Pain in teeth from six pm until midnight; worse on lying", 
       "Swelling and cracking of lower lip", 
       "Tongue white"
     ], 
     "Rectum": [
-      "Infantile diarrhoea, WORSE FROM BOILED MILK, and rapid exhaustion", 
-      "PAINS SHOOT UP in rectum and vagina", 
-      "Constipation; large, hard stools; FEELING OF A BALL IN RECTUM; cannot strain; with great tenesmus and pains shooting UPWARD", 
+      "Infantile diarrhoea, worse from boiled milk, and rapid exhaustion", 
+      "Pains shoot up in rectum and vagina", 
+      "Constipation; large, hard stools; feeling of a ball in rectum; cannot strain; with great tenesmus and pains shooting upward", 
       "Bleeding at stool and fullness of rectum", 
       "Prolapsus ani", 
-      "ALMOST CONSTANT OOZING FROM ANUS", 
+      "Almost constant oozing from anus", 
       "Dark-brown, round balls glued together with mucus", 
       "Soft stool, difficult"
     ], 
@@ -86,8 +86,8 @@
     ], 
     "Nose": [
       "Atrophic catarrh with greenish crusts from anterior nose and pain at root of nose", 
-      "THICK, GREENISH DISCHARGE; thick plugs and crusts", 
-      "YELLOWISH SADDLE ACROSS NOSE", 
+      "Thick, greenish discharge; thick plugs and crusts", 
+      "Yellowish saddle across nose", 
       "Chronic nasal catarrh, especially post-nasal, dropping of heavy, lumpy discharge; must be hawked through the mouth"
     ], 
     "Male": [
@@ -98,7 +98,7 @@
       "Organs cold"
     ], 
     "Ears": [
-      "HERPES BEHIND EARS ON NAPE OF NECK", 
+      "Herpes behind ears on nape of neck", 
       "Swelling and eruption of external ear", 
       "Pain as if from sub-cutaneous ulceration"
     ], 
@@ -114,7 +114,7 @@
       "Worse: left side", 
       "Worse: after sweat; cold air", 
       "Worse: before thunder-storm", 
-      "Better: BY EXERCISE", 
+      "Better: by exercise", 
       "Better: pressure", 
       "Better: warmth of bed", 
       "Better: hot applications", 
@@ -126,26 +126,26 @@
       "Dreads to be alone", 
       "Anxious toward evening; indolent", 
       "Irritable; easily offended", 
-      "INDIFFERENT to those loved best", 
+      "Indifferent to those loved best", 
       "Miserly", 
-      "Averse to occupation, to FAMILY", 
-      "VERY SAD", 
+      "Averse to occupation, to family", 
+      "Very sad", 
       "Weeps when telling symptoms"
     ], 
     "Back": [
-      "PAINS EXTEND INTO BACK", 
+      "Pains extend into back", 
       "Coldness between shoulders", 
-      "WEAKNESS IN SMALL OF BACK"
+      "Weakness in small of back"
     ], 
     "Female": [
       "Vagina painful, especially on coition", 
       "Morning sickness", 
-      "Menses TOO LATE AND SCANTY, irregular; EARLY AND PROFUSE; sharp clutching pains", 
+      "Menses too late and scanty, irregular; early and profuse; sharp clutching pains", 
       "Pelvic organs relaxed", 
       "Violent stitches upward in the vagina, from uterus to umbilicus", 
-      "BEARING-DOWN SENSATION AS IF EVERYTHING WOULD ESCAPE THROUGH VULVA ; must cross limbs to prevent protrusion, or press against vulva", 
+      "Bearing-down sensation as if everything would escape through vulva ; must cross limbs to prevent protrusion, or press against vulva", 
       "Leucorrhoea, yellow, greenish; with much itching", 
-      "PROLAPSE of uterus and vagina"
+      "Prolapse of uterus and vagina"
     ], 
     "Skin": [
       "Hyperidrosis and bromidrosis", 
@@ -162,13 +162,11 @@
       "Pain in heel", 
       "Lower extremities lame and stiff, tension as if too short", 
       "Heaviness and bruised feeling", 
-      "RESTLESSNESS IN ALL LIMBS, twitching and jerkings night and day", 
+      "Restlessness in all limbs, twitching and jerkings night and day", 
       "Coldness of legs and feet"
     ]
   }, 
   "details": "Acts specially on the portal system, with venous congestion. Stasis and thereby ptosis of viscera and weariness and misery. Weakness, yellow complexion, bearing-down sensation, especially in women, upon whose organism it has most pronounced effect. Pains extend down to back, chills easily. Tendency to abortion. Hot flashes at menopause with weakness and perspiration. Upward tendency of its symptoms. Easy fainting. Ball sensation in inner parts. Sepia acts best on brunettes. All pains are from below up. One of the most important uterine remedies. Tubercular patient with chronic hepatic troubles and uterine reflexes. FEELS COLD even in warm room. Pulsating headache in cerebellum.", 
-  "Natural History": [
-    "Inky Juice of Cuttlefish"
-  ], 
+  "Natural History": "Inky Juice of Cuttlefish", 
   "dosage": "Twelfth, 30th and 200th potency. Should not be used too low or to be repeated too frequently. On the other hand Dr. Jousset's unique experience is that is should be continued for some time in strong doses. 1x twice a day."
 }

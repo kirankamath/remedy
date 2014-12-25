@@ -6,7 +6,7 @@
       "Acts on the rectus superior", 
       "Objects look shaded", 
       "Lachrymation", 
-      "Dryness, with sensation AS IF TOO LARGE FOR ORBITS", 
+      "Dryness, with sensation as if too large for orbits", 
       "Flickering; must wipe eyes frequently", 
       "Double vision; better only by bending head backward", 
       "Opacities of the vitreous humor", 
@@ -17,32 +17,32 @@
       "Staring"
     ], 
     "Respiratory": [
-      "EXUDATIONS IN PLEURA", 
+      "Exudations in pleura", 
       "Asthenic bronchitis of old people with chronic interstitial nephritis or chronic emphysema", 
       "Old asthmatics with congestive attacks", 
       "Hacking cough", 
-      "Bronchial catarrh, WITH SORE CHEST WALLS; much mucus; sensation of oppression and weight of chest", 
+      "Bronchial catarrh, with sore chest walls; much mucus; sensation of oppression and weight of chest", 
       "Thorax feels too narrow", 
       "Voice unsteady, vocal cords partially paralyzed", 
-      "COUGH OFTEN ENDS IN A SNEEZE", 
+      "Cough often ends in a sneeze", 
       "Hoarseness", 
       "Chest oppressed on ascending", 
       "Loss of voice", 
       "Pressure on chest as though lungs were forced back to spine", 
-      "DIFFICULT RAISING OF TOUGH, PROFUSE MUCUS, in the aged", 
+      "Difficult raising of tough, profuse mucus, in the aged", 
       "Hurts to talk", 
       "Hydrothorax", 
-      "RATTLING IN CHEST", 
+      "Rattling in chest", 
       "Bursting pain in back on coughing", 
       "Catarrh of larynx"
     ], 
     "Modalities": [
       "Worse: walking in open air", 
       "Worse: during rest", 
-      "Better: from sweat; BENDING HEAD BACKWARDS"
+      "Better: from sweat; bending head backwards"
     ], 
     "Urine": [
-      "BACK, bursting distending pain in kidney region", 
+      "Back, bursting distending pain in kidney region", 
       "Greatly diminished; loaded with shreds and mucus; scalding before and after urinating"
     ], 
     "Mind": [
@@ -52,7 +52,7 @@
     "Head": [
       "Dullness, with pressure and weakness of eyes", 
       "Pain in temples", 
-      "BURSTING pain in forehead"
+      "Bursting pain in forehead"
     ], 
     "Face": [
       "Heat in face", 
@@ -71,8 +71,6 @@
     ]
   }, 
   "details": "Catarrhal symptoms, especially of the respiratory tract, and distinct eye symptoms of a paralytic type, are most characteristic. Circumscribed spots in chest left after inflammations.", 
-  "Natural History": [
-    "Snake wort"
-  ], 
+  "Natural History": "Snake wort", 
   "dosage": "Tincture, to thirtieth potency."
 }

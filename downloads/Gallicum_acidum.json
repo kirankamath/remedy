@@ -9,7 +9,7 @@
     "Respiratory": [
       "Dry at night", 
       "Much mucus in throat in the morning", 
-      "Pain in lungs; PULMONARY Hemorrhage; excessive expectoration"
+      "Pain in lungs; pulmonary hemorrhage; excessive expectoration"
     ], 
     "Urine": [
       "Dull heavy pain in bladder, directly over pubis", 
@@ -26,8 +26,6 @@
     ]
   }, 
   "details": "Should be remembered as a remedy in PHTHISIS. It checks the morbid secretions, gives tone to the stomach, and increases the appetite. Passive hemorrhages when pulse is feeble and capillaries relaxed, cold skin. Hematuria. Hemophilia. Itching of skin. PYROSIS.", 
-  "Natural History": [
-    "Gallic Acid"
-  ], 
+  "Natural History": "Gallic Acid", 
   "dosage": "First trituration and pure acid 2 to 5 grain doses."
 }

@@ -10,7 +10,7 @@
     ], 
     "Stomach": [
       "Constant nausea; relieved by eating", 
-      "NO appetite"
+      "No appetite"
     ], 
     "Rectum": [
       "Stools large and hard, with cutting in rectum and soreness of anus"
@@ -28,18 +28,18 @@
     ], 
     "Abdomen": [
       "Tender to pressure about umbilicus", 
-      "SUDDEN CRAMPS AND COLIC PAINS"
+      "Sudden cramps and colic pains"
     ], 
     "Female": [
       "Bearing-down pains before", 
       "Leucorrhoea, excoriating", 
       "Pains from back to loins and womb worse early morning", 
       "Faint on attempting to sit up", 
-      "Menses TOO LATE, SCANTY, LASTING A FEW HOURS, offensive in odor, with crampy pains, cramps extend down thighs", 
+      "Menses too late, scanty, lasting a few hours, offensive in odor, with crampy pains, cramps extend down thighs", 
       "Ovarian region feels heavy and congested", 
       "Smarting and itching of genitals", 
-      "Aching in sacrum and pubes, with pain in anterior muscles of thighs ; SPASMODIC AND MEMBRANOUS DYSMENORRHEA", 
-      "FREQUENT AND VERY EARLY MISCARRIAGE, causing seeming sterility"
+      "Aching in sacrum and pubes, with pain in anterior muscles of thighs ; spasmodic and membranous dysmenorrhea", 
+      "Frequent and very early miscarriage, causing seeming sterility"
     ], 
     "Extremities": [
       "Lower extremities weak and heavy", 
@@ -49,8 +49,6 @@
     ]
   }, 
   "details": "A general remedy for cramps. Colicky pains in pelvic organs. Superconscious of internal sexual organs. Female symptoms most important. OFTEN PREVENTS MISCARRIAGE. False labor-pains. Spasmodic and congestive affections, dependent upon ovarian or uterine origin.", 
-  "Natural History": [
-    "High Cranberry"
-  ], 
+  "Natural History": "High Cranberry", 
   "dosage": "Tincture, and lower potencies."
 }

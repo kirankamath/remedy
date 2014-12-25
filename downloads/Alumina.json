@@ -4,17 +4,17 @@
   "symptoms": {
     "Urine": [
       "Frequent desire to urinate in old people", 
-      "Muscles of bladder paretic, MUST STRAIN AT STOOL IN ORDER TO URINATE", 
+      "Muscles of bladder paretic, must strain at stool in order to urinate", 
       "Difficult starting", 
       "Pain in kidneys, with mental confusion"
     ], 
     "Stool": [
       "Itching and burning at anus", 
-      "EVEN A SOFT IS PASSED WITH DIFFICULTY", 
+      "Even a soft is passed with difficulty", 
       "Constipation of infants  and old people from inactive rectum, and in women of very sedentary habit", 
-      "GREAT STRAINING", 
-      "HARD, DRY, KNOTTY; NO DESIRE", 
-      "EVACUATION PRECEDED BY PAINFUL URGING LONG BEFORE STOOL, AND THEN STRAINING AT STOOL", 
+      "Great straining", 
+      "Hard, dry, knotty; no desire", 
+      "Evacuation preceded by painful urging long before stool, and then straining at stool", 
       "Rectum sore, dry, inflamed, bleeding", 
       "Diarrhoea on urinating"
     ], 
@@ -29,14 +29,14 @@
     "Stomach": [
       "Constriction of oesophagus", 
       "No desire to eat", 
-      "CAN SWALLOW BUT SMALL MORSELS AT A TIME", 
+      "Can swallow but small morsels at a time", 
       "Aversion to meat", 
       "Abnormal cravings - chalk, charcoal, dry food, tea-grounds", 
       "Heartburn; feels constricted", 
-      "POTATOES DISAGREE"
+      "Potatoes disagree"
     ], 
     "Abdomen": [
-      "LEFT-SIDED ABDOMINAL COMPLAINTS", 
+      "Left-sided abdominal complaints", 
       "Colic, like painter's colic", 
       "Pressing in both groins toward sexual organs"
     ], 
@@ -53,7 +53,7 @@
       "Hoarse, aphonia, tickling in larynx; wheezing, rattling respiration", 
       "Condiments produce cough", 
       "Cough soon after waking in the morning", 
-      "Cough on talking or singing, IN THE MORNING"
+      "Cough on talking or singing, in the morning"
     ], 
     "Eyes": [
       "Objects look yellow", 
@@ -72,9 +72,9 @@
       "Pain at root of nose", 
       "Sense of smell diminished", 
       "Fluent coryza", 
-      "Point of nose CRACKED, nostrils sore, RED; worse touch", 
-      "OXAENA ATROPHICA SICCA", 
-      "SCABS WITH THICK YELLOW MUCUS", 
+      "Point of nose cracked, nostrils sore, red; worse touch", 
+      "Oxaena atrophica sicca", 
+      "Scabs with thick yellow mucus", 
       "Membranes distended and boggy", 
       "Tettery redness"
     ], 
@@ -99,8 +99,8 @@
       "Low-spirited; fears loss of reason", 
       "Better as day advances", 
       "Suicidal tendency when seeing knife or blood", 
-      "HASTY, HURRIED", 
-      "VARIABLE MOOD"
+      "Hasty, hurried", 
+      "Variable mood"
     ], 
     "Back": [
       "Gnawing pain, as if from hot iron", 
@@ -113,11 +113,11 @@
     ], 
     "Female": [
       "Relieved by washing with cold water", 
-      "Menses too early, short, SCANTY, PALE, FOLLOWED BY GREAT EXHAUSTION", 
-      "Leucorrhoea ACRID, PROFUSE, transparent, ROPY, with burning; worse during daytime, and after menses"
+      "Menses too early, short, scanty, pale, followed by great exhaustion", 
+      "Leucorrhoea acrid, profuse, transparent, ropy, with burning; worse during daytime, and after menses"
     ], 
     "Skin": [
-      "INTOLERABLE ITCHING WHEN GETTING WARM IN BED", 
+      "Intolerable itching when getting warm in bed", 
       "Brittle skin on fingers", 
       "Must scratch until it bleeds; then becomes painful", 
       "Brittle nails", 
@@ -130,25 +130,23 @@
       "Irritable, and relaxed throat", 
       "Clergyman's sore throat in thin subjects", 
       "Constant inclination to clear the throat", 
-      "DRY, sore; food cannot pass, oesophagus contracted"
+      "Dry, sore; food cannot pass, oesophagus contracted"
     ], 
     "Extremities": [
       "Arms feel paralyzed", 
       "Spinal degeneration and paralysis of lower limbs", 
-      "BRITTLE NAILS", 
-      "Legs feel asleep, ESPECIALLY WHEN SITTING WITH LEGS CROSSED", 
+      "Brittle nails", 
+      "Legs feel asleep, especially when sitting with legs crossed", 
       "Gnawing beneath finger nails", 
       "Inability to walk, except when eyes are open or in daytime", 
-      "STAGGERS ON WALKING", 
+      "Staggers on walking", 
       "Soles tender; on stepping, feel soft and swollen", 
-      "HEELS FEEL NUMB", 
+      "Heels feel numb", 
       "Pain in arms and fingers, as if hot iron penetrated", 
       "Pain in shoulder and upper arm"
     ]
   }, 
   "details": "A very general condition corresponding to this drug is DRYNESS of mucous membranes and skin, and TENDENCY TO PARETIC MUSCULAR STATES. Old people, with lack of vital heat, or prematurely old, with debility. Sluggish functions, heaviness, numbness, and staggering, and the characteristic constipation find an excellent remedy in Alumina. Disposition to colds in the head, and eructations in spare, dry, thin subjects. Delicate children, products of artificial baby foods.", 
-  "Natural History": [
-    "Oxide of Aluminum - Argilla"
-  ], 
+  "Natural History": "Oxide of Aluminum - Argilla", 
   "dosage": "Sixth to thirtieth and higher. Action slow in developing."
 }

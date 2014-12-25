@@ -9,15 +9,15 @@
     ], 
     "Stool": [
       "Dysenteric stools with muscular pains", 
-      "STRAINING OF TENESMUS IN DIARRHEA", 
+      "Straining of tenesmus in diarrhea", 
       "Diarrhoea of consumption; worse lying on left side", 
-      "OFFENSIVE, brown, BLOODY, putrid, involuntary", 
+      "Offensive, brown, bloody, putrid, involuntary", 
       "Must lie down after every stool", 
       "Looks like brown yeast"
     ], 
     "Head": [
       "Scalp feels contracted", 
-      "HOT, WITH COLD BODY; confused; sensitiveness of brain, with sharp, pinching pains", 
+      "Hot, with cold body; confused; sensitiveness of brain, with sharp, pinching pains", 
       "Chronic vertigo; objects whirl about especially when walking", 
       "Cold spot on forehead"
     ], 
@@ -36,7 +36,7 @@
       "Vomiting of blood", 
       "Canine hunger", 
       "Distaste for milk and meat", 
-      "FEELING AS IF STOMACH WERE PRESSING AGAINST SPINE", 
+      "Feeling as if stomach were pressing against spine", 
       "Fetid vomiting", 
       "Pressure as from a stone"
     ], 
@@ -47,17 +47,17 @@
     ], 
     "Mouth": [
       "Dry and thirsty", 
-      "TASTE AS FROM BAD EGGS", 
+      "Taste as from bad eggs", 
       "Empyema of maxillary sinus", 
       "Soreness of gums after teeth extraction", 
-      "FETID BREATH", 
+      "Fetid breath", 
       "Bitter taste"
     ], 
     "Respiratory": [
       "All bones and cartilage of chest painful", 
       "Hoarseness from overuse of voice", 
       "Raw, sore feeling in morning", 
-      "VIOLENT, SPASMATIC COUGH WITH FACIAL HERPES", 
+      "Violent, spasmatic cough with facial herpes", 
       "Dyspnoea with hemoptysis", 
       "Acute tonsillitis, swelling of soft palate and uvula", 
       "Whooping cough, child cries before coughing", 
@@ -77,11 +77,11 @@
     ], 
     "Face": [
       "Heat in lips", 
-      "SUNKEN; very red", 
+      "Sunken; very red", 
       "Herpes in face"
     ], 
     "Nose": [
-      "Nose feels sore; COLD", 
+      "Nose feels sore; cold", 
       "Bleeding after every fit of coughing, dark fluid blood"
     ], 
     "Ears": [
@@ -96,13 +96,13 @@
       "Pulse feeble and irregular", 
       "Extremities distended, feel bruised and sore", 
       "Fatty heart and hypertrophy", 
-      "ANGINA PECTORIS; pain especially severe in elbow of left arm", 
+      "Angina pectoris; pain especially severe in elbow of left arm", 
       "Cardiac dropsy with distressing dyspnoea"
     ], 
     "Modalities": [
       "Worse: least touch; motion; rest; wine; damp cold", 
-      "Better: LYING DOWN", 
-      "Better: OR WITH HEAD LOW"
+      "Better: lying down", 
+      "Better: or with head low"
     ], 
     "Mind": [
       "Unconscious; when spoken to answers correctly, but relapses", 
@@ -131,10 +131,10 @@
     "Skin": [
       "Ecchymosis", 
       "Bed sores", 
-      "Acne indurata, characterized by SYMMETRY IN DISTRIBUTION", 
+      "Acne indurata, characterized by symmetry in distribution", 
       "Itching, burning, eruption of small pimples", 
-      "CROPS OF SMALL BOILS", 
-      "BLACK AND BLUE"
+      "Crops of small boils", 
+      "Black and blue"
     ], 
     "Extremities": [
       "Gout", 
@@ -149,8 +149,6 @@
     ]
   }, 
   "details": "It is especially suited to cases when any injury, however remote, seems to have caused the present trouble. AFTER TRAUMATIC INJURIES, overuse of any organ, strains. Arnica is disposed to cerebral congestion. Acts best in plethoric, feebly in debilitated with impoverished blood, cardiac dropsy with dyspnoea. A muscular tonic. Traumatism of grief, remorse or sudden realization of financial loss. Limbs and body ache as if beaten; joints as if sprained. Bed feels too hard. Marked effect on the blood. Affects the venous system inducing stasis. Ecchymosis and Hemorrhages. Relaxed blood vessels, black and blue spots. Tendency to hemorrhage and low-fever states. Tendency to tissue degeneration, septic conditions abscesses that do not mature. SORE, LAME, BRUISED FEELING. Neuralgias originating in disturbances of pneumogastric. Rheumatism of muscular and tendinous tissue, especially of back and shoulders. Aversion to tobacco. INFLUENZA. Thrombosis. Haematocele.Produces conditions upon the system quite similar to those resulting from injuries, falls, blows, contusions. Tinnitus aurium. PUTRID PHENOMENA. Septic conditions; prophylactic of pus infection. Apoplexy, red, full face.", 
-  "Natural History": [
-    "Leopard's Bane"
-  ], 
+  "Natural History": "Leopard's Bane", 
   "dosage": "Third to thirtieth potency. Locally, the tincture, but should never be applied HOT or at all when abrasions or cuts are present."
 }

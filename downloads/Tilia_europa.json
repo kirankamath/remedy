@@ -14,18 +14,18 @@
     ], 
     "Head": [
       "Bleeding from nose", 
-      "NEURALGIA , WITH VEIL BEFORE EYES", 
+      "Neuralgia , with veil before eyes", 
       "Much sneezing, with fluent coryza", 
       "Confusion, with dimness of vision"
     ], 
     "Female": [
-      "Much slimy Leucorrhoea when walking", 
-      "INTENSE SORE FEELING ABOUT UTERUS; bearing-down, with hot sweat, but without relief", 
+      "Much slimy leucorrhoea when walking", 
+      "Intense sore feeling about uterus; bearing-down, with hot sweat, but without relief", 
       "Soreness and redness of external genitals", 
       "Pelvic inflammation, tympanites, abdominal tenderness and hot sweat which does not relieve"
     ], 
     "Skin": [
-      "SWEAT WARM AND PROFUSE soon after falling asleep", 
+      "Sweat warm and profuse soon after falling asleep", 
       "Sweat increases as rheumatic pains increase", 
       "Eruption of small, red itching pimples", 
       "Urticaria", 
@@ -33,8 +33,6 @@
     ]
   }, 
   "details": "Of value in muscular weakness of the eye; hemorrhage to thin, pale blood. Puerperal metritis. Disease of the antrum. (KALI HYD.; CHELID.)", 
-  "Natural History": [
-    "Linden"
-  ], 
+  "Natural History": "Linden", 
   "dosage": "Tincture, to sixth potency."
 }

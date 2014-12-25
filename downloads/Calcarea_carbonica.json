@@ -11,7 +11,7 @@
       "Prolapse ani, and burning, stinging hemorrhoids", 
       "Crawling and constriction in rectum", 
       "Diarrhoea of undigested, food, fetid, with ravenous appetite", 
-      "CHILDREN'S DIARRHOEA", 
+      "Children's diarrhoea", 
       "Constipation; stool at first hard, then pasty, then liquid", 
       "Stool large and hard ; whitish, watery, sour"
     ], 
@@ -19,9 +19,9 @@
       "Head feels hot and heavy, with pale face", 
       "Itching of the scalp", 
       "Scratches head on waking", 
-      "Open fontanelles; head enlarged; MUCH PERSPIRATION, WETS THE PILLOW", 
+      "Open fontanelles; head enlarged; much perspiration, wets the pillow", 
       "Vertigo on ascending, and when turning head", 
-      "ICY COLDNESS IN, AND ON THE HEAD, especially right side", 
+      "Icy coldness in, and on the head, especially right side", 
       "Headache, with cold hands and feet", 
       "Sense of weight on top of head", 
       "Headache from over-lifting, from mental exertion, with nausea"
@@ -29,29 +29,29 @@
     "Fever": [
       "Partial sweats", 
       "Chilliness and heat", 
-      "SWEAT OVER HEAD IN CHILDREN, SO THAT PILLOW BECOMES WET", 
-      "FEVER WITH SWEAT", 
-      "CHILL AT two PM BEGINS INTERNALLY IN STOMACH REGION", 
+      "Sweat over head in children, so that pillow becomes wet", 
+      "Fever with sweat", 
+      "Chill at two pm begins internally in stomach region", 
       "Pulse full and frequent", 
-      "NIGHT SWEATS, ESPECIALLY ON HEAD, neck and chest", 
+      "Night sweats, especially on head, neck and chest", 
       "Hectic fever", 
       "Heat at night during menstruation, with restless sleep"
     ], 
     "Stomach": [
+      "Thirst; longing for cold drinks", 
       "Hyperchlorhydria", 
-      "Aversion to meat, boiled things; CRAVING FOR INDIGESTIBLE THINGS-CHALK, COAL, PENCILS; also for eggs, salt and sweets", 
+      "Aversion to meat, boiled things; craving for indigestible things-chalk, coal, pencils; also for eggs, salt and sweets", 
       "Cramps in stomach; worse, pressure, cold water", 
       "Milk disagrees", 
       "Ravenous hunger", 
-      "DISLIKE OF FAT", 
+      "Dislike of fat", 
       "Aggravation while eating", 
       "Repugnance to hot food", 
       "Heartburn and loud belching", 
-      "LOSS OF APPETITE WHEN OVERWORKED", 
-      "FREQUENT SOUR ERUCTATIONS; SOUR VOMITING", 
+      "Loss of appetite when overworked", 
+      "Frequent sour eructations; sour vomiting", 
       "Swelling over pit of stomach, like a saucer turned bottom up", 
-      "Pain in epigastric region to touch", 
-      "Thirst; longing for COLD drinks"
+      "Pain in epigastric region to touch"
     ], 
     "Abdomen": [
       "Sensitive to slightest pressure", 
@@ -60,16 +60,16 @@
       "Trembling; weakness, as if sprained", 
       "Liver region painful when stooping", 
       "Umbilical hernia", 
-      "INGUINAL AND MESENTERIC GLANDS SWOLLEN and painful", 
-      "GALL-STONE COLIC", 
+      "Inguinal and mesenteric glands swollen and painful", 
+      "Gall-stone colic", 
       "Cannot bear tight clothing around the waist", 
-      "Cutting in abdomen; Swollen abdomen", 
-      "DISTENTION with hardness", 
+      "Cutting in abdomen; swollen abdomen", 
+      "Distention with hardness", 
       "Incarcerated flatulence"
     ], 
     "Mouth": [
       "Offensive smell from mouth", 
-      "Persistent SOUR TASTE", 
+      "Persistent sour taste", 
       "Teeth ache; excited by current of air, anything cold or hot", 
       "Burning pain at tip of tongue; worse, anything warm taken into stomach", 
       "Bleeding of gums", 
@@ -80,20 +80,20 @@
     "Respiratory": [
       "Expectoration only during the day; thick, yellow, sour mucus", 
       "Persistent, irritating cough form arsenical wall paper", 
-      "PAINLESS HOARSENESS; worse in the morning", 
-      "SUFFOCATING SPELLS; tightness, burning and soreness in chest; WORSE GOING UPSTAIRS or slightest ascent, must sit down", 
+      "Painless hoarseness; worse in the morning", 
+      "Suffocating spells; tightness, burning and soreness in chest; worse going upstairs or slightest ascent, must sit down", 
       "Sharp pains in chest from before backwards", 
       "Scanty, salty expectoration", 
       "Bloody expectoration; with sour sensation in chest", 
       "Extreme dyspnoea", 
-      "CHEST VERY SENSITIVE TO TOUCH, PERCUSSION, OR PRESSURE", 
+      "Chest very sensitive to touch, percussion, or pressure", 
       "Tickling cough troublesome at night, dry and free expectoration in morning; cough when playing piano, or by eating", 
       "Longing for fresh air"
     ], 
     "Eyes": [
-      "SPOTS AND ULCERS ON CORNEA", 
+      "Spots and ulcers on cornea", 
       "Easy fatigue of eyes", 
-      "CHRONIC DILATATION OF PUPILS", 
+      "Chronic dilatation of pupils", 
       "Dimness of vision, as if looking through a mist", 
       "Lachrymation in open air and early in morning", 
       "Far-sighted", 
@@ -106,7 +106,7 @@
     "Face": [
       "Crusta lactea; itching, burning after washing", 
       "Swelling of upper lip", 
-      "Itching of pimples in whiskers Pain from right mental foramen along lower jaw to ear", 
+      "Itching of pimples in whiskers pain from right mental foramen along lower jaw to ear", 
       "Goitre", 
       "Pale, with deep-seated eyes, surrounded by dark rings", 
       "Submaxillary glands swollen"
@@ -114,17 +114,17 @@
     "Nose": [
       "Offensive odor in nose", 
       "Stoppage of nose, also with fetid, yellow discharge", 
-      "TAKES COLD AT EVERY CHANGE OF WEATHER", 
+      "Takes cold at every change of weather", 
       "Epistaxis", 
       "Coryza", 
-      "Dry, NOSTRILS SORE, ULCERATED", 
-      "POLYPI; swelling at root of nose", 
+      "Dry, nostrils sore, ulcerated", 
+      "Polypi; swelling at root of nose", 
       "Catarrhal symptoms with hunger; coryza alternates with colic"
     ], 
     "Male": [
       "Coition followed by weakness and irritability", 
       "Increased desired", 
-      "FREQUENT EMISSIONS", 
+      "Frequent emissions", 
       "Semen emitted too soon"
     ], 
     "Ears": [
@@ -134,7 +134,7 @@
       "Eruption on and behind ear", 
       "Deafness from working in water", 
       "Throbbing; cracking in ears; stitches; pulsating pain as if something would press out", 
-      "Scrofulous inflammation WITH MUCOPURULENT OTORRHOEA, AND ENLARGED GLANDS", 
+      "Scrofulous inflammation with mucopurulent otorrhoea, and enlarged glands", 
       "Perversions of hearing; hardness of hearing"
     ], 
     "Heart": [
@@ -150,17 +150,17 @@
       "Better: dry climate and weather; lying on painful side"
     ], 
     "Mind": [
-      "APPREHENSIVE; worse towards evening; FEARS LOSS OF REASON, MISFORTUNE, contagious diseases", 
+      "Apprehensive; worse towards evening; fears loss of reason, misfortune, contagious diseases", 
       "Averse to work or exertion", 
       "Anxiety with palpitation", 
       "Obstinacy; slight mental effort produces hot head", 
-      "FORGETFUL, confused, low-spirited"
+      "Forgetful, confused, low-spirited"
     ], 
     "Back": [
-      "RENAL COLIC", 
       "Cold knees, cramps in calves", 
       "Weakness of extremities", 
       "Burning of soles of feet", 
+      "Renal colic", 
       "Sour foot-sweat", 
       "Pain between shoulder-blades, impeding breathing", 
       "Sweat of hands", 
@@ -170,10 +170,10 @@
       "Feet feel cold and dead at night", 
       "Pain as if sprained; can scarcely rise; from over-lifting", 
       "Tearing in muscles", 
-      "COLD, DAMP feet; feel as if damp stockings were worn", 
+      "Cold, damp feet; feel as if damp stockings were worn", 
       "Arthritic nodosities", 
       "Old sprains", 
-      "SOLES OF FEET RAW", 
+      "Soles of feet raw", 
       "Nape of neck stiff and rigid", 
       "Sharp sticking, as if parts were wrenched or sprained", 
       "Rheumatoid pains, as after exposure to wet"
@@ -182,17 +182,17 @@
       "Horrid visions when opening eyes", 
       "Starts at every noise; fears that she will go crazy", 
       "Ideas crowding in her mind prevent sleep", 
-      "SAME DISAGREEABLE IDEA ALWAYS AROUSES FROM LIGHT SLUMBER", 
+      "Same disagreeable idea always arouses from light slumber", 
       "Drowsy in early part of evening", 
       "Frequent waking at night", 
-      "Night terrors  Dreams of the dead"
+      "Night terrors  dreams of the dead"
     ], 
     "Female": [
       "Increased sexual desire, easy conception", 
       "Uterus easily displaced", 
       "Hot swelling breasts", 
       "Sterility with copious menses", 
-      "Leucorrhoea, MILKY", 
+      "Leucorrhoea, milky", 
       "Much sweat about external genitals", 
       "Cutting pains in uterus during menstruation", 
       "Uterine polypi", 
@@ -200,13 +200,13 @@
       "Deficient lactation, with distended breasts in lymphatic women", 
       "Burning and itching of parts before and after menstruation; in little girls", 
       "Breasts tender and swollen before menses", 
-      "Menses TOO EARLY, TOO PROFUSE, TOO LONG, with vertigo, toothache and COLD, DAMP FEET; the least excitement causes their return", 
+      "Menses too early, too profuse, too long, with vertigo, toothache and cold, damp feet; the least excitement causes their return", 
       "Before menses, headache, colic, chilliness and leucorrhoea"
     ], 
     "Skin": [
       "Nettle rash; better in cold air", 
       "Small wounds do not heal readily", 
-      "PETECHIAL ERUPTIONS", 
+      "Petechial eruptions", 
       "Glands swollen", 
       "Unhealthy; readily ulcerating; flaccid", 
       "Boils", 
@@ -214,7 +214,7 @@
       "Warts on face and hands"
     ], 
     "Throat": [
-      "SWELLING OF TONSILS and submaxillary glands; stitches on swallowing", 
+      "Swelling of tonsils and submaxillary glands; stitches on swallowing", 
       "Difficult swallowing", 
       "Goitre", 
       "Parotid fistula", 
@@ -222,8 +222,6 @@
     ]
   }, 
   "details": "This great Hahnemannian anti-psoric is a constitutional remedy PAR EXCELLENCE. Its chief action is centered in the vegetative sphere, impaired nutrition being the keynote of its action, the glands, skin and bone, being instrumental in the changes wrought. Increased local and general perspiration, swelling of glands, scrofulous and rachitic conditions generally offer numerous opportunities for the exhibition of Calcarea. Incipient phthisis. (Ars. job.; Tuberculin.) It covers the tickling cough, fleeting chest pains, nausea, acidity and dislike of fat. Gets out of breath easily. A JADED STATE, MENTAL OR PHYSICAL, DUE TO OVERWORK. ABSCESSES IN DEEP MUSCLES; POLYPI AND EXOSTOSES. Pituitary and thyroid disfunction. Raised blood coagulability (Strontium). Is a definite stimulant to the periosteum. Is a hemostatic and gives this power probably to the gelatine injections. Easy relapses, interrupted convalescence. Persons of scrofulous type, who take cold easily, with increased mucous secretions, children who grow fat, are large-bellied, with large head, pale skin, chalky look, the so-called leucophlegmatic temperament; affections caused by working in water. Great sensitiveness to cold; partial sweats. Children crave eggs and eat dirt and other indigestible things; are prone to diarrhoea. Calcarea patient is fat, fair, flabby and perspiring and cold, damp and sour.", 
-  "Natural History": [
-    "Carbonate of LimeCalcarea Ostrearum"
-  ], 
+  "Natural History": "Carbonate of LimeCalcarea Ostrearum", 
   "dosage": "Sixth trit. Thirtieth and higher potencies. Should not be repeated too frequently in elderly people."
 }

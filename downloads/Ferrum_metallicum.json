@@ -5,7 +5,7 @@
     "Mind": [
       "Irritability", 
       "Sanguine temperament", 
-      "SLIGHT NOISES UNBEARABLE", 
+      "Slight noises unbearable", 
       "Excited from slightest opposition"
     ], 
     "Stool": [
@@ -18,30 +18,30 @@
     "Fever": [
       "Profuse, debilitating sweat", 
       "General coldness of extremities; head and face hot", 
-      "CHILL AT four AM Heat in palms and soles"
+      "Chill at four am heat in palms and soles"
     ], 
     "Stomach": [
       "Flatulent dyspepsia", 
       "Distention and pressure in the stomach after eating", 
       "Loathing of sour things", 
-      "SPITS UP FOOD BY THE MOUTHFUL", 
-      "VORACIOUS appetite, or absolute loss of appetite", 
-      "INTOLERANCE OF EGGS", 
+      "Spits up food by the mouthful", 
+      "Voracious appetite, or absolute loss of appetite", 
+      "Intolerance of eggs", 
       "Soreness of abdominal walls", 
       "Heat and burning in stomach", 
-      "VOMITING IMMEDIATELY AFTER EATING", 
+      "Vomiting immediately after eating", 
       "Attempts to eat bring on diarrhoea", 
-      "VOMITING AFTER MIDNIGHT", 
+      "Vomiting after midnight", 
       "Eructations of food after eating, without nausea", 
       "Nausea and vomiting after eating"
     ], 
     "Mouth": [
       "Earthy, paste taste, like rotten eggs", 
-      "PAIN IN TEETH; RELIEVED BY ICY-COLD WATER"
+      "Pain in teeth; relieved by icy-cold water"
     ], 
     "Respiratory": [
       "Cough dry, spasmodic", 
-      "Chest OPPRESSED; breathing difficult", 
+      "Chest oppressed; breathing difficult", 
       "With the cough pain in occiput", 
       "Hemoptysis", 
       "Hoarseness", 
@@ -49,24 +49,24 @@
     ], 
     "Head": [
       "Vertigo on seeing flowing water", 
-      "Pain in BACK OF HEAD, with roaring in neck", 
-      "HAMMERING, pulsating, congestive headache; pain extends to teeth, with cold extremities", 
+      "Pain in back of head, with roaring in neck", 
+      "Hammering, pulsating, congestive headache; pain extends to teeth, with cold extremities", 
       "Stinging headache", 
       "Scalp painful", 
       "Ringing in ears before menses", 
       "Must take down the hair"
     ], 
     "Face": [
-      "RED PARTS BECOME WHITE, bloodless and puffy", 
-      "Fiery-red and FLUSHED FROM LEAST PAIN, EMOTION, OR EXERTION"
+      "Red parts become white, bloodless and puffy", 
+      "Fiery-red and flushed from least pain, emotion, or exertion"
     ], 
     "Nose": [
       "Mucous membranes relaxed, boggy, anaemic, pale"
     ], 
     "Heart": [
-      "HEART SUDDENLY BLEEDS INTO THE BLOOD VESSELS, and as suddenly draws a reflux, leaving pallor of surface", 
+      "Heart suddenly bleeds into the blood vessels, and as suddenly draws a reflux, leaving pallor of surface", 
       "Sense of oppression", 
-      "PULSE FULL, BUT SOFT AND YIELDING; ALSO, SMALL AND WEAK", 
+      "Pulse full, but soft and yielding; also, small and weak", 
       "Anaemic murmur", 
       "Palpitation; worse, movement"
     ], 
@@ -98,8 +98,6 @@
     ]
   }, 
   "details": "Best adapted to young weakly persons, anaemic and chlorotic, with pseudo-plethora, who flush easily; cold extremities; OVER-SENSITIVENESS; worse after any active effort. WEAKNESS from mere speaking or walking though LOOKING strong. PALLOR of skin, mucous membranes, face, alternating with flushes. Orgasms of blood to face, chest, head, lungs, etc. Irregular distribution of blood. Pseudo-plethora. Muscles flabby and relaxed.", 
-  "Natural History": [
-    "Iron"
-  ], 
+  "Natural History": "Iron", 
   "dosage": "States of debility where the blood is poor in hematin require material doses; plethoric, hemorrhagic conditions call for small doses, from the second to the sixth potency."
 }

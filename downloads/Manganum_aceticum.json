@@ -4,20 +4,20 @@
   "symptoms": {
     "Head": [
       "Field of vision contracted", 
-      "Anxiety and fear; BETTER LYING DOWN", 
+      "Anxiety and fear; better lying down", 
       "Feels large and heavy, with rush of blood; pain from above downward", 
       "Stolid mask-like face"
     ], 
     "Respiratory": [
       "Stitches in larynx extending to ear", 
-      "EVERY COLD ROUSES UP A BRONCHITIS", 
+      "Every cold rouses up a bronchitis", 
       "Heat in chest", 
       "Hemoptysis", 
       "Tuberculosis of larynx", 
       "Mucus difficult to loosen", 
       "Larynx dry, rough, constricted", 
-      "Cough; worse evening, and BETTER LYING DOWN and worse in damp weather", 
-      "CHRONIC HOARSENESS"
+      "Cough; worse evening, and better lying down and worse in damp weather", 
+      "Chronic hoarseness"
     ], 
     "Modalities": [
       "Worse: cold wet weather", 
@@ -26,47 +26,47 @@
     ], 
     "Nose": [
       "Dry, obstructed", 
-      "Chronic catarrh, with bleeding, dryness; WORSE IN COLD DAMP WEATHER"
+      "Chronic catarrh, with bleeding, dryness; worse in cold damp weather"
     ], 
     "Female": [
       "Derangements of menstruation, amenorrhoea; menses too early and scanty, in anaemic subjects", 
-      "FLUSHES OF HEAT AT CLIMACTERIC"
+      "Flushes of heat at climacteric"
     ], 
     "Skin": [
       "Red, elevated spots", 
-      "ITCHING; better, scratching", 
+      "Itching; better, scratching", 
       "Burning around ulcers", 
       "Suppuration of skin around joints", 
-      "CHRONIC ECZEMA associated with amenorrhoea, worse at menstrual period or at menopause", 
-      "Deep cracks in bends of elbows, etc. Psoriasis and pityriasis"
+      "Chronic eczema associated with amenorrhoea, worse at menstrual period or at menopause", 
+      "Deep cracks in bends of elbows, etc. psoriasis and pityriasis"
     ], 
     "Mouth": [
       "Nodes on palate", 
-      "Toothache; WORSE, anything cold", 
+      "Toothache; worse, anything cold", 
       "Low, monotonous voice", 
       "Hemming all the time"
     ], 
     "Extremities": [
+      "Intolerable pain in skin of lower limbs", 
       "Cannot walk backwards without falling", 
       "Legs feel numb", 
-      "Paralysis agitans", 
       "Ankles painful", 
       "Cramps in calves", 
-      "WALKS STOOPING FORWARD", 
+      "Walks stooping forward", 
       "Periosteal inflammation", 
       "Stiffness in muscles of legs", 
-      "Intolerable pain in skin of lower limbs", 
-      "Shiny red swelling of joints", 
-      "KNEES PAIN and itch", 
-      "Muscular twitching", 
       "Wilson's disease", 
-      "TENDING TO FALL FORWARD", 
+      "Shiny red swelling of joints", 
+      "Knees pain and itch", 
+      "Muscular twitching", 
+      "Tending to fall forward", 
+      "Paralysis agitans", 
       "Rheumatism of feet", 
       "Inflammation of bones and joints with insupportable nightly digging pains", 
       "Burning spots about joints", 
       "Suppuration of skin around joints", 
       "Peculiar slapping gait, walks on metacarpophalangeal joint; walks backwards", 
-      "EVERY PART OF BODY FEELS SORE WHEN TOUCHED", 
+      "Every part of body feels sore when touched", 
       "Bones very sensitive"
     ], 
     "Sleep": [
@@ -78,15 +78,13 @@
       "Whistling tinnitus", 
       "Flatulence; chronic enlargement of liver", 
       "Feel stopped; cracking on blowing nose", 
-      "Alimentary Canal", 
-      "PAIN FROM OTHER PARTS EXTENDS TO EARS", 
-      "Deafness IN DAMP WEATHER", 
+      "Alimentary canal", 
+      "Pain from other parts extends to ears", 
+      "Deafness in damp weather", 
       "Tongue sore and irritable with ulcers or warts"
     ]
   }, 
   "details": "Symptoms of chronic poisoning, according to Professor Von Jaksch, were involuntary laughter and involuntary weeping and walking backwards. Strongly exaggerated reflexes and physical disturbances, evidenced by men making fun of each other's gait. Paraplegia progressive; wasting, feeble and staggering gait.Manganum causes anaemia with destruction of the red corpuscles. Jaundice, nephritis with albuminuria. Fatty degeneration of liver. Paralysis agitans. CELLULITIS, subacute stage, promotes suppuration and hastens regeneration.Inflammation of bones or joints, with nightly digging pains. Asthmatic persons who cannot lie on a feather pillow. Syphilitic and chlorotic patients with general anaemia and paralytic symptoms often are benefited by this drug. Gout. Chronic arthritis. For speakers and singers. Great accumulation of mucus. Growing pains and weak ankles. General soreness and aching; every part of the body feels sore when touched; early tuberculosis.", 
-  "Natural History": [
-    "Manganese Acetate"
-  ], 
+  "Natural History": "Manganese Acetate", 
   "dosage": "Third to thirtieth potency."
 }

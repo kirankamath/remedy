@@ -5,8 +5,8 @@
     "Eyes": [
       "Pustular conjunctivitis, with tinea capitis; eyes inflamed and protruding", 
       "Chronic blepharitis, with sore and swollen meibomian glands", 
-      "Heat in eyes and SENSITIVE TO AIR; must close them", 
-      "Iritis, great SENSITIVENESS TO COLD", 
+      "Heat in eyes and sensitive to air; must close them", 
+      "Iritis, great sensitiveness to cold", 
       "Flickering before eyes"
     ], 
     "Stomach": [
@@ -18,7 +18,7 @@
       "Better: in open air"
     ], 
     "Teeth": [
-      "ACHE; WORSE, AT NIGHT AND FROM TOBACCO", 
+      "Ache; worse, at night and from tobacco", 
       "Feel too long"
     ], 
     "Urine": [
@@ -26,13 +26,13 @@
       "Inability to pass all the urine; dribbling after urinating", 
       "Commencing stricture", 
       "Tingling in urethra lasting some time after urinating", 
-      "INTERRUPTED FLOW", 
+      "Interrupted flow", 
       "Urethra feels constricted", 
       "Urine emitted drop by drop", 
       "Pain worse at night, pain along the spermatic cord"
     ], 
     "Head": [
-      "CONFUSED FEELING; BETTER IN OPEN AIR", 
+      "Confused feeling; better in open air", 
       "Boring pain in temples", 
       "Eruption on occiput at base of hair, moist, pustular sensitive, itching"
     ], 
@@ -42,14 +42,14 @@
       "Pain in right side of face to eye, ear and temple; better, holding cold water in mouth"
     ], 
     "Skin": [
-      "GLANDS hot, painful, SWOLLEN; worse inguinal glands", 
+      "Glands hot, painful, swollen; worse inguinal glands", 
       "Red, burning, vesicular, scaly, scabby", 
       "Glandular induration and tumors of breast", 
-      "Itches terribly; worse, washing in cold water; worse face and hands and SCALP AROUND OCCIPUT", 
+      "Itches terribly; worse, washing in cold water; worse face and hands and scalp around occiput", 
       "Varicose ulcers"
     ], 
     "Male": [
-      "TESTICLES INDURATED WITH BRUISED FEELING", 
+      "Testicles indurated with bruised feeling", 
       "Testicles hang heavy or retracted, with pain along spermatic cord; worse, right side", 
       "Ilio-scrotal neuralgia", 
       "Troubles from suppressed gonorrhea", 
@@ -59,8 +59,6 @@
     ]
   }, 
   "details": "Scrofulous, rheumatic, gonorrheal, and syphilitic patients. Acts especially on skin, GLANDS and genitourinary organs, especially testicles. A remedy of much importance in disturbances of sleep, and neuralgic PAINS in various parts. Many of these pains are relieved by perspiration. Muscles relaxed or twitching. Great emaciation. GREAT SLEEPINESS. Distant pulsation in whole body.", 
-  "Natural History": [
-    "Virgin's Bower"
-  ], 
+  "Natural History": "Virgin's Bower", 
   "dosage": "Third to thirtieth potency."
 }

@@ -5,35 +5,37 @@
     "Respiratory": [
       "Soreness behind sternum, especially left side, in region of left shoulder", 
       "Thin, watery, frothy expectoration by the mouthful; later, stringy and tough", 
-      "AGGRAVATED BY PRESSURE, TALKING, AND ESPECIALLY BY INSPIRING COOL AIR AND AT NIGHT", 
-      "COPIOUS MUCOUS DISCHARGE from nose and trachea", 
+      "Aggravated by pressure, talking, and especially by inspiring cool air and at night", 
+      "Copious mucous discharge from nose and trachea", 
       "Rawness of larynx and trachea", 
-      "RAW PAIN UNDER CLAVICLE", 
-      "TICKLING IN THROAT-PIT CAUSES COUGH", 
+      "Raw pain under clavicle", 
+      "Tickling in throat-pit causes cough", 
       "Lump in throat", 
       "Nose dry", 
-      "DRY, TEASING COUGH, PREVENTING SLEEP"
+      "Dry, teasing cough, preventing sleep"
     ], 
     "Stomach": [
-      "Pain in left breast after meals; FLATULENCE", 
+      "Pain in left breast after meals; flatulence", 
       "Jaundice after excessive use of alcoholics", 
-      "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; CANNOT EAT MEAT; IT C fever-blisters around mAUSES ERUCTATIONS, PRURITUS", 
+      "Tongue sore at edges; coated; sensation of hard substance in pit of stomach; hiccough, pyrosis, nausea; cannot eat meat; it c fever-blisters around mauses eructations, pruritus", 
       "Chronic gastritis; aching pain in pit of stomach and shooting in the chest; extends towards the throat-pit, worse any motion or talking"
+    ], 
+    "Modalities": [
+      "Worse: in evening", 
+      "Worse: from inhaling cold air; left chest; uncovering"
     ], 
     "Stool": [
       "Itching of anus, with sensation as of a stick in rectum", 
       "Valuable in advanced phthisis", 
-      "Brown, watery, diarrhoea EARLY IN MORNING, with cough, driving him out of bed", 
+      "Brown, watery, diarrhoea early in morning, with cough, driving him out of bed", 
       "Piles"
     ], 
     "Skin": [
-      "Intense itching of skin, especially of LOWER EXTREMITIES; WORSE, EXPOSURE TO COLD AIR WHEN UNDRESSING", 
+      "Intense itching of skin, especially of lower extremities; worse, exposure to cold air when undressing", 
       "Urticaria; contagious prurigo"
     ]
   }, 
   "details": "Is characterized by pains, numerous and varied, neither fixed nor constant anywhere. Cough caused by an incessant tickling in the throat-pit, which tickling runs down to the bifurcation of the bronchial tubes. Touching the throat-pit brings on the cough. Worse from the least cold air; so that all cough ceases by covering up all the body and head with the bedclothes. Rumex diminishes the secretions of mucous membranes, and at the same time exalts sensibility of the mucous membranes of the larynx and trachea. Its action upon the skin is marked, producing an intense itching. LYMPHATICS ENLARGED and secretions perverted.", 
-  "Natural History": [
-    "Yellow Dock"
-  ], 
+  "Natural History": "Yellow Dock", 
   "dosage": "Third to sixth potency."
 }

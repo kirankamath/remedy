@@ -3,14 +3,14 @@
   "Relationship": "Compare: NAT-MUR.; LILIUM; GELS.; RUTA.", 
   "symptoms": {
     "Eyes": [
-      "PAIN IN EYEBALLS between orbit and ball, extending to left temple", 
-      "Eyes heavy and dull, muscular asthenopia; OCULAR MUSCLES TENSE", 
+      "Eyes heavy and dull, muscular asthenopia; ocular muscles tense", 
       "Vision blurred; optic disc hyperemic, and retinal vessels enlarged", 
       "Strained feeling in eyes; worse, using eyes", 
-      "Internal eye muscles paretic"
+      "Internal eye muscles paretic", 
+      "Pain in eyeballs between orbit and ball, extending to left temple"
     ], 
     "Head": [
-      "Occipitofrontal pain in morning on waking, CHIEFLY LEFT SIDE", 
+      "Occipitofrontal pain in morning on waking, chiefly left side", 
       "Dull, heavy, dizzy, pressing upward in occiput", 
       "Confused", 
       "Pain in temples and mastoid", 
@@ -37,8 +37,8 @@
     "Female": [
       "Nipples itch", 
       "Aching in breasts", 
+      "Sexual desire completely destroyed", 
       "Severe uterine pains; bearing-down pains; old pains return", 
-      "SEXUAL DESIRE COMPLETELY DESTROYED", 
       "Leucorrhoea, yellow, acrid, profuse", 
       "Menses too early and too prolonged", 
       "Soreness in uterine region", 
@@ -59,21 +59,19 @@
       "Pain in left scapular region", 
       "Pain in back", 
       "Great muscular weakness and weariness", 
-      "TIRED AND NUMB feeling in legs, popliteal spaces, and below knees", 
+      "Tired and numb feeling in legs, popliteal spaces, and below knees", 
       "Sidewalk seems too high", 
-      "STAGGERING GAIT"
+      "Staggering gait"
     ], 
     "Male": [
       "Loss of desire", 
       "Speedy emissions", 
-      "PSYCHICAL IMPOTENCE", 
+      "Psychical impotence", 
       "Deficient erections", 
       "Constant sexual excitement"
     ]
   }, 
   "details": "A remedy for MIGRAINE. Headaches from eyestrain and sexual weakness. It produces diminution of sexual desire in both sexes; hence its homoeopathicity, in SEXUAL NEURASTHENIA. Depressed or lost sexual life in women. Neuralgic pains. General prostration. Acts as if born tired.Want of power of concentration and coordination. Vertigo, numbness and muscular prostration. Marked association of head and eye symptoms, with muscular tiredness and weariness.", 
-  "Natural History": [
-    "False Gromwell"
-  ], 
+  "Natural History": "False Gromwell", 
   "dosage": "Thirtieth attenuation."
 }

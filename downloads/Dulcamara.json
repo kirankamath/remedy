@@ -3,7 +3,7 @@
   "Relationship": "Incompatible: BELLAD.; LACHES.Antidotes: CAMPH.; CUPR.Compare: PIMPINELLA - (Bibernell). Respiratory mucous membrane sensitive to drafts, pain and coldness in occiput and nape. Whole body weak; heavy head and drowsiness; lumbago and stiff neck; pain from nape to shoulder; chilliness. RHUS; CIMICIF.; CALC.; PULS.; BRY.; NAT-SULPH.Complementary: BARYTA CARB.", 
   "symptoms": {
     "Stool": [
-      "Green, watery, slimy, bloody, MUCUS, especially in summer, when the weather suddenly becomes cold; FROM DAMP, COLD WEATHER and repelled eruptions"
+      "Green, watery, slimy, bloody, mucus, especially in summer, when the weather suddenly becomes cold; from damp, cold weather and repelled eruptions"
     ], 
     "Head": [
       "Buzzing in head", 
@@ -12,7 +12,7 @@
       "Rejects things asked for", 
       "Mental confusion", 
       "Headache relieved by conversation", 
-      "THICK BROWN CRUSTS, SCALDED HEAD, bleeding when scratched", 
+      "Thick brown crusts, scalded head, bleeding when scratched", 
       "Occipital pain ascending from nape of neck"
     ], 
     "Fever": [
@@ -23,28 +23,28 @@
       "Dry hat and burning of skin"
     ], 
     "Stomach": [
-      "AVERSION TO FOOD", 
+      "Aversion to food", 
       "Vomiting of white, tenacious mucus", 
       "Heartburn", 
       "Nausea accompanies the desire for stool", 
-      "BURNING THIRST FOR COLD DRINKS", 
+      "Burning thirst for cold drinks", 
       "Chilliness during vomiting"
     ], 
     "Abdomen": [
       "Acts prominently on umbilical region", 
       "Colic from cold", 
       "Swelling of inguinal glands", 
-      "CUTTING PAIN ABOUT NAVEL"
+      "Cutting pain about navel"
     ], 
     "Mouth": [
       "Saliva tenacious, soapy", 
-      "Facial neuralgia; worse, SLIGHTEST EXPOSURE TO COLD", 
+      "Facial neuralgia; worse, slightest exposure to cold", 
       "Cold-sores on lips", 
       "Dry, rough tongue, rough scraping in throat, after taking cold in damp weather"
     ], 
     "Respiratory": [
       "Must cough a long time to expel phlegm", 
-      "Cough AFTER PHYSICAL EXERTION", 
+      "Cough after physical exertion", 
       "Winter coughs, dry, teasing", 
       "Cough worse cold, wet weather, with free expectoration, tickling in larynx", 
       "Whooping-cough, with excessive secretion of mucus", 
@@ -59,10 +59,10 @@
     ], 
     "Face": [
       "Humid eruption on cheeks and face generally", 
-      "Tearing in cheek extending to ear, orbit, and jaw, PRECEDED BY COLDNESS OF PARTS, AND ATTENDED BY CANINE HUNGER"
+      "Tearing in cheek extending to ear, orbit, and jaw, preceded by coldness of parts, and attended by canine hunger"
     ], 
     "Nose": [
-      "STUFFS UP WHEN THERE IS A COLD RAIN", 
+      "Stuffs up when there is a cold rain", 
       "Profuse coryza", 
       "Wants nose kept warm, least cold air stops the nose", 
       "Coryza of the newborn", 
@@ -71,47 +71,47 @@
       "Complete stoppage of nose"
     ], 
     "Ears": [
-      "Earache, buzzing, stitches, and swelling of Middle-ear catarrh"
+      "Earache, buzzing, stitches, and swelling of middle-ear catarrh"
     ], 
     "Modalities": [
-      "Worse: at night; from COLD in general", 
-      "Worse: DAMP", 
-      "Worse: RAINY WEATHER", 
+      "Worse: at night; from cold in general", 
+      "Worse: damp", 
+      "Worse: rainy weather", 
       "Better: from moving about", 
       "Better: external warmth"
     ], 
     "Urine": [
-      "Must urinate WHEN GETTING CHILLED", 
+      "Must urinate when getting chilled", 
       "Strangury, painful micturition", 
       "Ischuria from wading with bare feet in cold water", 
-      "Urine has thick, MUCOUS, purulent sediment", 
+      "Urine has thick, mucous, purulent sediment", 
       "Catarrh of bladder from taking cold"
     ], 
     "Back": [
       "Stiff neck", 
-      "PAIN IN SMALL OF BACK, as after long stooping", 
+      "Pain in small of back, as after long stooping", 
       "Stiffness and lameness across neck and shoulders, after getting cold and wet"
     ], 
     "Female": [
       "Suppression of menses from cold or dampness", 
       "Dysmenorrhoea, with blotches all over; mammae engorged and sore, delicate, sensitive to cold", 
-      "Before appearance of menses, a RASH APPEARS ON SKIN, or sexual excitement"
+      "Before appearance of menses, a rash appears on skin, or sexual excitement"
     ], 
     "Skin": [
-      "Red spots, URTICARIA, brought on by exposure, or sour stomach", 
+      "Red spots, urticaria, brought on by exposure, or sour stomach", 
       "Swelling and indurated glands from cold", 
-      "PRURITUS, ALWAYS WORSE IN COLD, WET WEATHER", 
+      "Pruritus, always worse in cold, wet weather", 
       "Thick, brown-yellow crusts, bleeding when scratched", 
-      "ADENITIS", 
+      "Adenitis", 
       "Vesicular eruptions", 
       "Herpes zoster, pemphigus", 
       "Anasarca", 
       "Sensitive bleeding ulcers", 
-      "Humid eruptions on face, genitals, hands etc. WARTS, large, smooth, on face and palmar surface of hands", 
+      "Humid eruptions on face, genitals, hands etc. warts, large, smooth, on face and palmar surface of hands", 
       "Little boils"
     ], 
     "Extremities": [
-      "Paralysis: paralyzed limbs, FEET ICY COLD", 
+      "Paralysis: paralyzed limbs, feet icy cold", 
       "Warts on hands", 
       "Perspiration on palms of hands", 
       "Pain in shin-bones", 
@@ -120,8 +120,6 @@
     ]
   }, 
   "details": "Hot days and cold nights toward the close of summer are especially favorable to the action of Dulcamara, and is one of the remedies that correspond in their symptoms to the conditions found as effects of damp weather, colds after exposure to wet, especially diarrhoea. It has a specific relation also to the SKIN, GLANDS, and digestive organs, MUCOUS MEMBRANES secreting more profusely while the skin is inactive. The RHEUMATIC TROUBLES induced by damp cold are aggravated by every cold change and somewhat relieved by moving about. Results from sitting on cold, damp ground. Icy coldness. One-sided spasms with speechlessness. Paralysis of single parts. Congestive headache, with neuralgia and dry nose. Patients living or working in damp, cold basements. (NAT-SULPH.) Eruptions on hands, arms or face around the menstrual period.", 
-  "Natural History": [
-    "Bitter-sweet"
-  ], 
+  "Natural History": "Bitter-sweet", 
   "dosage": "Second to thirtieth potency."
 }

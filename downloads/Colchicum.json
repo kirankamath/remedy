@@ -18,14 +18,14 @@
     "Stomach": [
       "Thirst for effervescent, alcoholic beverages", 
       "Profuse salivary secretion", 
-      "The SMELL OF FOOD CAUSES NAUSEA EVEN TO FAINTING, especially fish", 
+      "The smell of food causes nausea even to fainting, especially fish", 
       "Gouty gastralgia", 
-      "Vomiting of mucus, bile and food; worse, any motion; GREAT COLDNESS IN STOMACH", 
-      "CRAVING FOR VARIOUS THINGS, but is averse to them when smelling them, seized then with nausea", 
+      "Vomiting of mucus, bile and food; worse, any motion; great coldness in stomach", 
+      "Craving for various things, but is averse to them when smelling them, seized then with nausea", 
       "Dry mouth, tongue burns, gums and teeth pain", 
-      "Burning or ICY COLDNESS IN STOMACH and abdomen", 
+      "Burning or icy coldness in stomach and abdomen", 
       "Pain in transverse colon", 
-      "THIRST; pain in stomach and flatulence"
+      "Thirst; pain in stomach and flatulence"
     ], 
     "Head": [
       "Headache chiefly frontal and temporal, but also occipital and in nape of neck, worse afternoon and evening"
@@ -42,7 +42,7 @@
     ], 
     "Stool": [
       "Ineffectual pressing; feels faeces in rectum, but cannot expel them", 
-      "Autumnal dysentery; stools contain WHITE SHREDDY PARTICLES in large quantities", 
+      "Autumnal dysentery; stools contain white shreddy particles in large quantities", 
       "Painful, scanty, transparent, jelly-like mucus; pain, as if anus were torn open, with prolapse"
     ], 
     "Back": [
@@ -52,7 +52,7 @@
     ], 
     "Face": [
       "Tingling and oedematous swelling; cheeks red, hot, sweaty", 
-      "Very irritable with the pains  Pain behind angle of right lower jaw", 
+      "Very irritable with the pains  pain behind angle of right lower jaw", 
       "Pain in facial muscles, moving about"
     ], 
     "Female": [
@@ -67,7 +67,7 @@
     ], 
     "Abdomen": [
       "Caecum and ascending colon much distended", 
-      "DISTENTION of abdomen, with gas, inability to stretch out legs", 
+      "Distention of abdomen, with gas, inability to stretch out legs", 
       "Ascites", 
       "Pain over liver", 
       "Borborygmi", 
@@ -78,7 +78,7 @@
       "Limbs, lame, weak, tingling", 
       "Knees strike together, can hardly walk", 
       "Pins and needles in hands and wrists, fingertips numb", 
-      "Inflammation of great toe, gout in heel, CANNOT BEAR TO HAVE IT TOUCHED OR MOVED", 
+      "Inflammation of great toe, gout in heel, cannot bear to have it touched or moved", 
       "Right plantar reflex abolished", 
       "Tearing in limbs during warm weather, stinging during cold", 
       "Tingling in the finger nails", 
@@ -92,8 +92,6 @@
     ]
   }, 
   "details": "Affects markedly the muscular tissues, periosteum, and synovial membranes of joints. Has specific power of relieving the gouty paroxysms. It seems to be more beneficial in chronic affections of these parts. The parts are red, hot, swollen. Tearing pains; worse, in the evening and at night and from touch; stubbing the toes hurts exceedingly. THERE IS ALWAYS GREAT PROSTRATION, internal COLDNESS, and tendency to collapse. Effects of night watching and hard study. Shocks as from electricity through one half of body. Bad effects from suppressed sweat. Dreams of mice.", 
-  "Natural History": [
-    "Meadow Saffron"
-  ], 
+  "Natural History": "Meadow Saffron", 
   "dosage": "Third to thirtieth attenuation."
 }

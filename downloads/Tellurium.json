@@ -4,7 +4,7 @@
   "symptoms": {
     "Eyes": [
       "Cataract, following ocular lesions; aids the absorption of infiltrations in iris and choroid", 
-      "Lids THICKENED, INFLAMED, itching", 
+      "Lids thickened, inflamed, itching", 
       "Pterygium; pustular conjunctivitis"
     ], 
     "Stomach": [
@@ -31,9 +31,9 @@
     ], 
     "Back": [
       "Pain in sacrum", 
-      "CONTRACTION OF TENDONS IN BENDS OF KNEES", 
-      "PAIN FROM LAST CERVICAL TO FIFTH DORSAL VERTEBRA, very sensitive; worse touch", 
-      "SCIATICA; worse right side, COUGHING, STRAINING, and at night, with sensitive vertebral column"
+      "Contraction of tendons in bends of knees", 
+      "Pain from last cervical to fifth dorsal vertebra, very sensitive; worse touch", 
+      "Sciatica; worse right side, coughing, straining, and at night, with sensitive vertebral column"
     ], 
     "Nose": [
       "Obstructed; hawks salty phlegm from posterior nares", 
@@ -41,28 +41,26 @@
     ], 
     "Skin": [
       "Eczema, back of ears and occiput", 
-      "RING-SHAPE LESIONS, offensive odors from affected parts", 
+      "Ring-shape lesions, offensive odors from affected parts", 
       "Stinging in skin", 
       "Barber's itch", 
       "Itching of hands and feet", 
       "Offensive foot-sweat", 
       "Circular patches of eczema", 
-      "Herpetic spots; RINGWORM", 
-      "FETID EXHALATIONS"
+      "Herpetic spots; ringworm", 
+      "Fetid exhalations"
     ], 
     "Rectum": [
       "Pruritus ani et perinei after every stool"
     ], 
     "Ears": [
-      "CATARRH OF MIDDLE EAR, DISCHARGE ACRID, SMELLS LIKE FISH-PICKLE", 
-      "ITCHING, SWELLING, THROBBING IN MEATUS", 
-      "ECZEMA BEHIND EAR", 
+      "Catarrh of middle ear, discharge acrid, smells like fish-pickle", 
+      "Itching, swelling, throbbing in meatus", 
+      "Eczema behind ear", 
       "Deafness"
     ]
   }, 
   "details": "Marked skin (herpes circinatus), spinal, eye and ear symptoms. VERY SENSITIVE BACK. Pains all over body. Offensive discharges. Slow development of symptoms. (RADIUM.) Sacral and sciatic pains.", 
-  "Natural History": [
-    "The Metal Tellurium"
-  ], 
+  "Natural History": "The Metal Tellurium", 
   "dosage": "Sixth potency and higher. Takes long time to develop its action, which is very prolonged."
 }

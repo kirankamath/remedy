@@ -22,11 +22,11 @@
       "Hepatic torpor", 
       "Clay-colored stools", 
       "Constipation or alternating constipation and diarrhoea", 
-      "LIVER ENGORGED, SWOLLEN, WITH STITCHING PAIN AND SENSITIVE TO PRESSURE"
+      "Liver engorged, swollen, with stitching pain and sensitive to pressure"
     ], 
     "Extremities": [
       "Pain in shoulders and arms", 
-      "SYNOVITIS", 
+      "Synovitis", 
       "Bruised feeling", 
       "Rheumatoid pains in different parts of the body", 
       "Rheumatic pains in calves of legs", 
@@ -34,8 +34,6 @@
     ]
   }, 
   "details": "Sharp, SHIFTING, rheumatic pains in all parts very pronounced. RHEUMATISM; darting pains in almost every part; stiffness of joints; parts sore to touch; worse motion. CHRONIC RHEUMATISM. SHIFTING PAINS. (PULS.; KALI-SULPH.) Psoriasis. Enlarged and inflamed gouty finger joints.Induces a condition of stasis, congestion, and sluggishness of all functions. Morning aggravation.", 
-  "Natural History": [
-    "Chickweed"
-  ], 
+  "Natural History": "Chickweed", 
   "dosage": "Tincture, externally. Internally, 2x potency."
 }

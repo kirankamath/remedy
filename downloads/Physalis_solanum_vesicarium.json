@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Alkekengi - Winter Cherry"
-  ], 
+  "Natural History": "Alkekengi - Winter Cherry", 
   "details": "Marked urinary symptoms confirming its ancient uses in gravel, etc. Lithiasis; marked diuretic action. Languor and muscular weakness.Recommended in facial paralysis.", 
   "symptoms": {
     "Head": [
@@ -21,9 +19,9 @@
     ], 
     "Urine": [
       "Polyuria", 
-      "Nocturnal incontinence", 
       "Sudden inability to hold it in women", 
-      "ENURESIS", 
+      "Nocturnal incontinence", 
+      "Enuresis", 
       "Acrid, foul, retained, abundant"
     ], 
     "Respiratory": [

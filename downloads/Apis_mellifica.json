@@ -5,22 +5,22 @@
     "Urine": [
       "Burning and soreness when urinating", 
       "Incontinence", 
-      "Suppressed, loaded with casts; frequent and involuntary; stinging pain and strangury; SCANTY, HIGH COLORED", 
-      "LAST DROPS burn and smart"
+      "Suppressed, loaded with casts; frequent and involuntary; stinging pain and strangury; scanty, high colored", 
+      "Last drops burn and smart"
     ], 
     "Stool": [
-      "Cannot urinate without a stool Dark, fetid, worse after eating", 
+      "Cannot urinate without a stool dark, fetid, worse after eating", 
       "Bloody, painless", 
       "Hemorrhoids, with stinging pain, after confinement", 
       "Anus feels raw", 
-      "Involuntary on every motion; ANUS SEEMS OPEN", 
-      "Diarrhoea watery, yellow; CHOLERA INFANTUM TYPE", 
+      "Involuntary on every motion; anus seems open", 
+      "Diarrhoea watery, yellow; cholera infantum type", 
       "Constipation; feels as if something would break on straining"
     ], 
     "Head": [
       "Heat, throbbing, distensive pains, better on pressure, and worse on motion", 
       "Dull, heavy sensation in occiput, as from a blow, extending to neck , accompanied with sexual excitement", 
-      "Whole brain feels VERY TIRED", 
+      "Whole brain feels very tired", 
       "Vertigo with sneezing, worse on lying or closing eyes", 
       "Sudden stabbing pains", 
       "Bores head into pillow and screams out"
@@ -28,22 +28,22 @@
     "Fever": [
       "After perspiration, nettle rash, also with shuddering", 
       "Perspiration breaks out and dries up frequently", 
-      "AFTERNOON CHILL, WITH THIRST; WORSE ON MOTION AND HEAT", 
+      "Afternoon chill, with thirst; worse on motion and heat", 
       "Sweat slight, with sleepiness", 
       "External heat, with smothering feeling", 
-      "Sleeps AFTER the fever paroxysm"
+      "Sleeps after the fever paroxysm"
     ], 
     "Stomach": [
-      "THIRSTLESS", 
+      "Thirstless", 
       "Vomiting of food", 
-      "CRAVING FOR MILK", 
+      "Craving for milk", 
       "Sore feeling"
     ], 
     "Abdomen": [
       "Swelling in right groin", 
       "Dropsy of abdomen", 
-      "SORE, BRUISED on pressure, when sneezing", 
-      "EXTREMELY TENDER", 
+      "Sore, bruised on pressure, when sneezing", 
+      "Extremely tender", 
       "Peritonitis"
     ], 
     "Mouth": [
@@ -51,30 +51,30 @@
       "Membrane of mouth and throat glossy, as if varnished", 
       "Tongue feels scalded, red hot, trembling", 
       "Scalding in mouth and throat", 
-      "RED, SHINING, AND PUFFY, like erysipelas", 
+      "Red, shining, and puffy, like erysipelas", 
       "Lips swollen, especially upper", 
       "Gums swollen", 
       "Tongue fiery red, swollen, sore, and raw, with vesicles"
     ], 
     "Respiratory": [
-      "Hoarseness; DYSPNEA, breathing hurried and difficult", 
-      "Feels AS IF HE COULD NOT DRAW ANOTHER BREATH", 
+      "Hoarseness; dyspnea, breathing hurried and difficult", 
+      "Feels as if he could not draw another breath", 
       "Oedema of larynx", 
       "Suffocation; short, dry cough, suprasternal", 
       "Hydrothorax"
     ], 
     "Eyes": [
       "Photophobia", 
-      "SUPPURATIVE INFLAMMATION OF EYES", 
-      "SUDDEN PIERCING PAINS", 
-      "LACHRYMATION HOT", 
+      "Suppurative inflammation of eyes", 
+      "Sudden piercing pains", 
+      "Lachrymation hot", 
       "Conjunctiva bright red, puffy", 
       "Pain around orbits", 
-      "Lids SWOLLEN, red, OEDEMATOUS, everted, inflamed; burn and sting", 
-      "STYES, also prevents their recurrence", 
-      "SEROUS EXUDATION, EDEMA, AND SHARP PAINS", 
+      "Lids swollen, red, oedematous, everted, inflamed; burn and sting", 
+      "Styes, also prevents their recurrence", 
+      "Serous exudation, edema, and sharp pains", 
       "Staphyloma of cornea following suppurative inflammation", 
-      "Keratitis with INTENSE CHEMOSIS OF OCULAR CONJUNCTION"
+      "Keratitis with intense chemosis of ocular conjunction"
     ], 
     "Face": [
       "Extends from right to left", 
@@ -84,14 +84,14 @@
     ], 
     "Nose": [
       "Coldness of tip of nose", 
-      "RED, SWOLLEN, inflamed, with sharp pains"
+      "Red, swollen, inflamed, with sharp pains"
     ], 
     "Ears": [
       "External ear red, inflamed, sore; stinging pains"
     ], 
     "Modalities": [
-      "Worse: heat in any form; TOUCH; pressure; late in afternoon; after sleeping; in closed and heated rooms", 
-      "Better: In open air", 
+      "Worse: heat in any form; touch; pressure; late in afternoon; after sleeping; in closed and heated rooms", 
+      "Better: in open air", 
       "Better: uncovering", 
       "Better: and cold bathing"
     ], 
@@ -104,14 +104,14 @@
       "Stupor alternating with erotic mania", 
       "Jealous, fright, rage, vexation, grief", 
       "Apathy, indifference, and unconsciousness", 
-      "AWKWARD; DROPS THINGS READILY", 
+      "Awkward; drops things readily", 
       "Stupor, with sudden sharp cries and startings", 
-      "WHINING, TEARFULNESS"
+      "Whining, tearfulness"
     ], 
     "Sleep": [
       "Dreams full of care and toil", 
-      "Screams and SUDDEN STARTLING DURING SLEEP", 
-      "Very DROWSY"
+      "Screams and sudden startling during sleep", 
+      "Very drowsy"
     ], 
     "Female": [
       "Menses suppressed, with cerebral and head symptoms, especially in young girls", 
@@ -119,21 +119,21 @@
       "Bearing-down, as if menses were to appear", 
       "Great tenderness over abdomen and uterine region", 
       "Sense of tightness", 
-      "Soreness and stinging pains; ovaritis; worse in RIGHT ovary", 
+      "Soreness and stinging pains; ovaritis; worse in right ovary", 
       "Oedema of labia; relieved by cold water", 
       "Metrorrhagia profuse, with heavy abdomen, faintness, stinging pain", 
       "Ovarian tumors, metritis with stinging pains"
     ], 
     "Skin": [
       "Erysipelas, with sensitiveness and swelling, rosy hue", 
-      "Swellings after bites; SORE, SENSITIVE", 
+      "Swellings after bites; sore, sensitive", 
       "Sudden puffing up of whole body", 
       "Stinging", 
       "Carbuncles, with burning, stinging pain"
     ], 
     "Throat": [
       "Constricted, stinging pains", 
-      "UVULA SWOLLEN, sac-like"
+      "Uvula swollen, sac-like"
     ], 
     "Extremities": [
       "Oedematous", 
@@ -150,8 +150,6 @@
     ]
   }, 
   "details": "The very characteristic effects of the sting of the bee furnish unerring indications for its employment in disease. Swelling or puffing up of various parts, EDEMA, red rosy hue, stinging pains, soreness, intolerance of heat, and slightest touch, and afternoon aggravation are some of the general guiding symptoms. Erysipelatous inflammations, dropsical effusions and anasarca, acute, inflammation of kidneys, and other parenchymatous tissues are characteristic pathological states corresponding to Apis. Apis acts especially on outer parts, skin, coatings of inner organs, serous membranes. It produces serous inflammation with effusion, membranes of brain, heart, pleuritic effusion, etc. Extreme sensitiveness to touch and general soreness is marked. CONSTRICTED sensations. Sensation of stiffness and as of something torn off in the interior of the body. Much prostration.Acts on cellular tissues causing oedema of skin and mucous membranes.", 
-  "Natural History": [
-    "The Honey-Bee"
-  ], 
+  "Natural History": "The Honey-Bee", 
   "dosage": "Tincture to thirtieth potency. In oedematous conditions the LOWER potencies. Sometimes action is slow; so several days elapse before it is seen to act, and then urine is increased. APIUM VIRUS, sixth trituration."
 }

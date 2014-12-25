@@ -1,10 +1,8 @@
 {
-  "Natural History": [
-    "Mountain Laurel"
-  ], 
+  "Natural History": "Mountain Laurel", 
   "symptoms": {
     "Heart": [
-      "Weak, SLOW pulse", 
+      "Weak, slow pulse", 
       "Heart's action tumultuous, rapid and visible", 
       "Shooting through chest above heart into shoulder-blades", 
       "Paroxysms of anguish around heart", 
@@ -14,25 +12,25 @@
       "Tobacco heart", 
       "Tachycardia, with pain", 
       "Dyspnoea and pressure from epigastrium toward the heart", 
-      "PALPITATION; WORSE LEANING FORWARD", 
-      "SHARP PAINS TAKE AWAY THE BREATH"
+      "Palpitation; worse leaning forward", 
+      "Sharp pains take away the breath"
     ], 
     "Eyes": [
-      "STIFF, DRAWING SENSATION WHEN MOVING EYES", 
+      "Stiff, drawing sensation when moving eyes", 
       "Rheumatic iritis", 
-      "Scleritis, PAIN INCREASED BY MOVING THE EYE", 
+      "Scleritis, pain increased by moving the eye", 
       "Vision impaired"
     ], 
     "Stomach": [
       "Bilious attacks, with nausea, vertigo, and headache", 
-      "NAUSEA; vomiting", 
-      "PAIN IN PIT OF STOMACH; WORSE BY BENDING FORWARD; RELIEVED BY SITTING ERECT", 
+      "Nausea; vomiting", 
+      "Pain in pit of stomach; worse by bending forward; relieved by sitting erect", 
       "Sensation of something being pressed under the epigastrium", 
       "Warm, glowing sensation in epigastrium"
     ], 
     "Head": [
       "Confusion of brain", 
-      "VERTIGO; worse stooping", 
+      "Vertigo; worse stooping", 
       "Pain in front and temporal region from head to nape and to teeth; from cardiac origin"
     ], 
     "Modalities": [
@@ -44,26 +42,26 @@
       "Post-scarlatinal nephritis"
     ], 
     "Back": [
-      "LUMBAR PAINS, OF NERVOUS ORIGIN", 
+      "Lumbar pains, of nervous origin", 
       "Pain from neck down arm; in upper three dorsal vertebrae extending to shoulder-blade", 
       "Pain down back, as if it would break; in localized regions of spine; through shoulders"
     ], 
     "Face": [
       "Stitches and tearing in bones of jaw and face", 
       "Stitches in tongue", 
-      "Neuralgia; worse RIGHT SIDE"
+      "Neuralgia; worse right side"
     ], 
     "Sleep": [
-      "Sleepless, WAKES VERY EARLY IN MORNING"
+      "Sleepless, wakes very early in morning"
     ], 
     "Female": [
       "Menses too early, or suppressed, with pain in limbs and back and inside of thighs", 
       "Leucorrhoea follows menses"
     ], 
     "Extremities": [
-      "PAINS ALONG ULNAR NERVE, index finger", 
+      "Pains along ulnar nerve, index finger", 
       "Weakness, numbness, pricking, and sense of coldness in limbs", 
-      "PAINS AFFECT A LARGE PART OF A LIMB, or several joints, and pass through quickly", 
+      "Pains affect a large part of a limb, or several joints, and pass through quickly", 
       "Pains from hips to knees and feet", 
       "Deltoid rheumatism especially right", 
       "Tingling and numbness of left arm", 

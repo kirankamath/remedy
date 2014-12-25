@@ -6,8 +6,8 @@
       "Feeling of cold air blowing on eye", 
       "Diplopia; one image seen below the other", 
       "Tubercular iritis", 
-      "Lids swollen; PAIN INTENSE AT NIGHT; ptosis", 
-      "CHRONIC, RECURRENT, PHLYCTENULAR INFLAMMATION OF CORNEA; successive crops of phlyctenules and abrasions of epithelial layer of cornea; photophobia intense, lachrymation, profuse"
+      "Lids swollen; pain intense at night; ptosis", 
+      "Chronic, recurrent, phlyctenular inflammation of cornea; successive crops of phlyctenules and abrasions of epithelial layer of cornea; photophobia intense, lachrymation, profuse"
     ], 
     "Respiratory": [
       "Cough dry, hard; worse at night; windpipe sensitive to touch", 
@@ -15,7 +15,7 @@
       "Aphonia; chronic asthma in summer, wheezing and rattling"
     ], 
     "Stomach": [
-      "CRAVES ALCOHOL"
+      "Craves alcohol"
     ], 
     "Rectum": [
       "Feels tied up with strictures", 
@@ -33,22 +33,22 @@
     ], 
     "Mind": [
       "Loss of memory; remembers everything previous to his illness", 
-      "FEARS THE NIGHT, and the suffering from exhaustion on awakening", 
-      "Apathetic; FEELS AS IF GOING INSANE OR BEING PARALYZED", 
-      "Hopeless; DESPAIRS OF RECOVERY"
+      "Fears the night, and the suffering from exhaustion on awakening", 
+      "Apathetic; feels as if going insane or being paralyzed", 
+      "Hopeless; despairs of recovery"
     ], 
     "Head": [
       "Top of head feels as if coming off", 
       "Stupefying cephalgia", 
       "Pain in bones of head", 
-      "FALLING OF THE HAIR", 
+      "Falling of the hair", 
       "Linear pains from temples across, or from eyes backward; cause sleeplessness and delirium at night"
     ], 
     "Nose": [
       "Caries of nasal bones, hard palate and septum, with perforation; ozaena"
     ], 
     "Female": [
-      "Leucorrhoea PROFUSE, THIN, WATERY, ACRID, with sharp, knife-like pain in ovaries", 
+      "Leucorrhoea profuse, thin, watery, acrid, with sharp, knife-like pain in ovaries", 
       "Ulcers on labia"
     ], 
     "Skin": [
@@ -59,16 +59,16 @@
       "Teeth decay at gum; edges serrated, dwarfed", 
       "Ulcers smart and burn", 
       "Tongue coated, teeth-indented; deep longitudinal cracks", 
-      "EXCESSIVE FLOW OF SALIVA; IT RUNS OUT OF MOUTH WHEN SLEEPING"
+      "Excessive flow of saliva; it runs out of mouth when sleeping"
     ], 
     "Extremities": [
       "Muscles contracted in hard knots", 
       "Indolent ulcers", 
-      "Redness and rawness between toes  Rheumatism, muscles are caked in hard knot or lumps", 
+      "Redness and rawness between toes  rheumatism, muscles are caked in hard knot or lumps", 
       "Sciatica; worse at night; better about daybreak", 
       "Severe pain in long bones", 
       "Run-around", 
-      "ALWAYS WASHING THE HANDS", 
+      "Always washing the hands", 
       "Rheumatism of shoulder-joint, at insertion of deltoid"
     ], 
     "Ears": [
@@ -76,8 +76,6 @@
     ]
   }, 
   "details": "Ichthyosis. Syphilitic affections. Pains from darkness to daylight; decrease and increase gradually. Hereditary tendency to alcoholism. ULCERATION OF mouth, nose, genitals, skin. SUCCESSION OF ABSCESSES.Shifting rheumatic pains. Chronic eruptions and rheumatism.Utter prostration and debility in the morning.", 
-  "Natural History": [
-    "The Syphilitic Virus - A Nosode"
-  ], 
+  "Natural History": "The Syphilitic Virus - A Nosode", 
   "dosage": "The highest potencies only, and in"
 }

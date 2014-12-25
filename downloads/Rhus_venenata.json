@@ -13,7 +13,7 @@
       "Great melancholy; no desire to live, gloomy"
     ], 
     "Abdomen": [
-      "Profuse, watery, white stools in morning, four AM, with colicky pains; expelled with force", 
+      "Profuse, watery, white stools in morning, four am, with colicky pains; expelled with force", 
       "Pain in hypogastrium before every stool"
     ], 
     "Mouth": [
@@ -24,16 +24,14 @@
     "Skin": [
       "Itching; relieved by hot water", 
       "Erythema nodosum, with nightly itching and pains in long bones", 
-      "VESICLES", 
-      "ERYSIPELAS; SKIN DARK RED"
+      "Vesicles", 
+      "Erysipelas; skin dark red"
     ], 
     "Extremities": [
       "Paralytic drawing in right arm, especially wrist, and extending to fingers"
     ]
   }, 
   "details": "The skin symptoms of this species of Rhus are most severe.", 
-  "Natural History": [
-    "Poison-elder"
-  ], 
+  "Natural History": "Poison-elder", 
   "dosage": "Sixth to thirtieth potency."
 }

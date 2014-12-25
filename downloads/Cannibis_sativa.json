@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Hemp"
-  ], 
+  "Natural History": "Hemp", 
   "symptoms": {
     "Heart": [
       "Painful strokes and tension with palpitation", 
@@ -14,13 +12,16 @@
       "Scrofulous eye troubles", 
       "Pressure from back of eyes, forward", 
       "Eyeballs ache", 
-      "OPACITY OF CORNEA", 
+      "Opacity of cornea", 
       "Misty sight"
     ], 
     "Respiratory": [
       "Weight on chest; rattling wheezing breathing", 
       "Cough, with green viscid, also bloody, expectoration", 
-      "Oppression of breathing and palpitation; MUST STAND UP"
+      "Oppression of breathing and palpitation; must stand up"
+    ], 
+    "Modalities": [
+      "Worse: lying down; going upstairs"
     ], 
     "Urine": [
       "Dragging in testicles", 
@@ -35,7 +36,7 @@
       "Urine scalding, with spasmodic closure of sphincter", 
       "Walks with legs apart", 
       "Stoppage of urethra by mucus and pus", 
-      "BURNING WHILE URINATING, EXTENDING TO BLADDER", 
+      "Burning while urinating, extending to bladder", 
       "Retained, with obstinate constipation"
     ], 
     "Head": [

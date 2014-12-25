@@ -1,14 +1,12 @@
 {
-  "Natural History": [
-    "Wood-strawberry"
-  ], 
+  "Natural History": "Wood-strawberry", 
   "symptoms": {
     "Mouth": [
-      "Tongue SWOLLEN; STRAWBERRY tongue"
+      "Tongue swollen; strawberry tongue"
     ], 
     "Skin": [
       "Swelling of whole body", 
-      "URTICARIA; petechial and erysipelatous eruptions"
+      "Urticaria; petechial and erysipelatous eruptions"
     ]
   }, 
   "name": "Fragaria", 

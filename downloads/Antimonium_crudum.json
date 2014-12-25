@@ -7,17 +7,17 @@
     ], 
     "Stool": [
       "Diarrhoea after acids, sour wine, baths, over eating; slimy, flatulent stools", 
-      "DIARRHEA ALTERNATES WITH CONSTIPATION, especially in old people", 
+      "Diarrhea alternates with constipation, especially in old people", 
       "Stools composed entirely of mucus", 
-      "CATARRHAL PROCTITIS", 
-      "HARD LUMPS MIXED WITH WATERY DISCHARGE", 
-      "Mucous piles, CONTINUED OOZING OF MUCUS", 
+      "Catarrhal proctitis", 
+      "Hard lumps mixed with watery discharge", 
+      "Mucous piles, continued oozing of mucus", 
       "Anal itching"
     ], 
     "Head": [
       "Suppressed eruptions", 
       "Headache with great loss of hair", 
-      "Aching, worse in vertex, on ascending, FROM BATHING, FROM DISORDERED STOMACH, especially from eating candy or drinking acid wine", 
+      "Aching, worse in vertex, on ascending, from bathing, from disordered stomach, especially from eating candy or drinking acid wine", 
       "Heaviness in forehead, with vertigo; nausea, and nosebleed"
     ], 
     "Fever": [
@@ -26,13 +26,13 @@
       "Intermittent with disgust, nausea, vomiting, eructations, coated tongue, diarrhoea"
     ], 
     "Stomach": [
-      "ERUCTATION TASTING OF THE INGESTA", 
-      "CONSTANT BELCHING", 
-      "LOSS OF APPETITE", 
-      "BLOATING AFTER EATING", 
+      "Eructation tasting of the ingesta", 
+      "Constant belching", 
+      "Loss of appetite", 
+      "Bloating after eating", 
       "Gouty metastasis to stomach and bowels", 
       "Gastric and intestinal complaints from bread and pastry, acids, sour wine, cold bathing, overheating, hot weather", 
-      "DESIRE FOR ACIDS, PICKLES", 
+      "Desire for acids, pickles", 
       "After nursing, the child vomits its milk in curds, and refuses to nurse afterwards, and is very cross", 
       "Sweetish water brash", 
       "Heartburn, nausea, vomiting", 
@@ -40,23 +40,23 @@
     ], 
     "Respiratory": [
       "Loss of voice from becoming overheated", 
-      "VOICE HARSH AND BADLY PITCHED", 
-      "Cough worse COMING INTO WARM ROOM, with burning sensation in chest, ITCHING OF CHEST, oppression"
+      "Voice harsh and badly pitched", 
+      "Cough worse coming into warm room, with burning sensation in chest, itching of chest, oppression"
     ], 
     "Eyes": [
-      "CANTHI RAW AND FISSURED", 
-      "Chronic BLEPHARITIS", 
+      "Canthi raw and fissured", 
+      "Chronic blepharitis", 
       "Pustules on cornea and lids", 
       "Dull, sunken, red, itch, inflamed, agglutinated"
     ], 
     "Face": [
       "Sallow and haggard", 
       "Pimples, pustules, and boils on face", 
-      "YELLOW CRUSTED ERUPTION ON CHEEKS AND CHIN"
+      "Yellow crusted eruption on cheeks and chin"
     ], 
     "Nose": [
-      "Nostrils CHAPPED AND COVERED WITH CRUSTS", 
-      "ECZEMA OF NOSTRILS, SORE, CRACKED, AND SCURFY"
+      "Nostrils chapped and covered with crusts", 
+      "Eczema of nostrils, sore, cracked, and scurfy"
     ], 
     "Male": [
       "Eruption on scrotum and about genitals", 
@@ -75,13 +75,13 @@
       "Sulky; does not wish to speak", 
       "Angry at every little attention", 
       "Sentimental mood", 
-      "CHILD CANNOT BEAR TO BE TOUCHED OR LOOKED AT"
+      "Child cannot bear to be touched or looked at"
     ], 
     "Back": [
       "Itching and pain of neck and back"
     ], 
     "Sleep": [
-      "CONTINUED DROWSINESS IN OLD PEOPLE"
+      "Continued drowsiness in old people"
     ], 
     "Female": [
       "Excited; parts itch", 
@@ -91,14 +91,14 @@
     ], 
     "Skin": [
       "Dry gangrene", 
-      "URTICARIA; measly-like eruption", 
+      "Urticaria; measly-like eruption", 
       "Pimples, vesicles, and pustules", 
       "Scaly, pustular eruption with burning and itching, worse at night", 
       "Thick, hard, honey-colored scabs", 
       "Dry skin", 
       "Eczema with gastric derangements", 
       "Itching when warm in bed", 
-      "WARTS", 
+      "Warts", 
       "Sensitive to cold bathing"
     ], 
     "Throat": [
@@ -109,19 +109,17 @@
     ], 
     "Extremities": [
       "Nails brittle; grow out of shape", 
-      "FEET VERY TENDER; covered with large horny places", 
+      "Feet very tender; covered with large horny places", 
       "Twitching of muscles", 
       "Horny warts on hands and soles", 
       "Jerks in arms", 
       "Weakness and shaking of hands in writing followed by offensive flatulence", 
-      "ARTHRITIC PAIN IN FINGERS", 
+      "Arthritic pain in fingers", 
       "Pain in heels", 
       "Inflamed corns"
     ]
   }, 
   "details": "For homeopathic employment, the mental symptoms, and those of the gastric sphere, determine its choice. EXCESSIVE IRRITABILITY AND FRETFULNESS, together with a THICKLY-COATED WHITE TONGUE, are true guiding symptoms to many forms of disease calling for this remedy. All the conditions are aggravated by HEAT AND COLD BATHING. Cannot bear heat of sun. Tendency to grow fat. An absence of pain, where it could be expected, is noticeable. Gout with gastric symptoms.", 
-  "Natural History": [
-    "Black Sulphide of Antimony"
-  ], 
+  "Natural History": "Black Sulphide of Antimony", 
   "dosage": "Third to sixth potency."
 }

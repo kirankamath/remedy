@@ -4,7 +4,7 @@
   "symptoms": {
     "Respiratory": [
       "Bronchial asthma", 
-      "BRONCHITIS IN THE AGED, where suffocation from excessive secretion is imminent", 
+      "Bronchitis in the aged, where suffocation from excessive secretion is imminent", 
       "Excessive secretion", 
       "Noisy breathing; short, irregular", 
       "Hoarseness", 
@@ -20,7 +20,7 @@
       "Discharge acrid, corroding, bloody, offensive", 
       "Tubercles on alae nasi", 
       "Red, swollen", 
-      "CATARRH, OZAENA, ulceration"
+      "Catarrh, ozaena, ulceration"
     ], 
     "Skin": [
       "Articular non-fluctuating swellings", 
@@ -34,8 +34,6 @@
     ]
   }, 
   "details": "This powerful nosode introduced by Dr. J.J. Garth Wilkinson, covers symptoms which suggest integral parts of consumption, cancer, syphilis, etc., and promises useful service in the treatment of ozaena, scrofulous swellings. Pyaemia, erysipelas. Chronic rhinitis; sanious secretion.", 
-  "Natural History": [
-    "Gladerinne-mallein-Farcine"
-  ], 
+  "Natural History": "Gladerinne-mallein-Farcine", 
   "dosage": "Thirtieth potency."
 }

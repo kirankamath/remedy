@@ -24,13 +24,13 @@
       "Chronic nasal catarrh with ulceration of the septum; nose obstructed and dull heavy pain in forehead"
     ], 
     "Male": [
-      "SWOLLEN SCROTUM", 
+      "Swollen scrotum", 
       "Burning in urethra", 
       "Sexual passion and desire increased, with erections at night, during sleep"
     ], 
     "Eyes": [
       "Violent itching of inner canthus", 
-      "SENSATION AS OF WIND BLOWING THROUGH EYES", 
+      "Sensation as of wind blowing through eyes", 
       "Lachrymal fistula"
     ], 
     "Stomach": [
@@ -71,9 +71,9 @@
       "Menses copious, frequent, too long"
     ], 
     "Skin": [
-      "VARICOSE VEINS", 
+      "Varicose veins", 
       "Naevi", 
-      "DROPSY OF LIMBS in old, feeble constitutions", 
+      "Dropsy of limbs in old, feeble constitutions", 
       "Syphilitic tubercles", 
       "Atony of capillary and venous system", 
       "Decubitus; worse, warmth", 
@@ -85,7 +85,7 @@
       "Ulcers; red edges and vesicles", 
       "Nails grow rapidly", 
       "Tissues bloated", 
-      "ITCHING ESPECIALLY OF THE ORIFICES, and in spots, worse warmth"
+      "Itching especially of the orifices, and in spots, worse warmth"
     ], 
     "Extremities": [
       "Feeling as of a splinter under nail", 
@@ -97,8 +97,6 @@
     ]
   }, 
   "details": "Especially adapted to chronic diseases with syphilitic and mercurial history. GLABELLA REGION BLOATED. Acts especially upon lower tissues, and indicated in deep, destructive processes, bedsores, ulcerations, varicose veins, and ulcers. Patient is compelled to move about energetically. Complaints of old age, or the prematurely aged, with weak, distended blood vessels. Hobnailed liver of alcoholics. GOITRE (Dr. Woakes) (Kali-fluoride produced bronchocele in dogs). Early decay of teeth. Old cases of nightly fevers, coming on periodically.", 
-  "Natural History": [
-    "Hydrofluoric Acid"
-  ], 
+  "Natural History": "Hydrofluoric Acid", 
   "dosage": "Sixth to thirtieth potency."
 }

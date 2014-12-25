@@ -4,36 +4,36 @@
   "symptoms": {
     "Eyes": [
       "Dilation of one pupil", 
-      "Discharge of GOLDEN-YELLOW, CREAMY MATTER from the eyes", 
+      "Discharge of golden-yellow, creamy matter from the eyes", 
       "Whites of eyes dirty yellow"
     ], 
     "Stomach": [
       "Spits mouthfuls of food", 
-      "SOUR ERUCTATIONS, SOUR VOMITING, GREENISH DIARRHOEA"
+      "Sour eructations, sour vomiting, greenish diarrhoea"
     ], 
     "Head": [
       "Feels dull in the morning, full feeling and throbbing"
     ], 
     "Mind": [
-      "FEAR", 
+      "Fear", 
       "Imagines, on waking at night, that pieces of furniture are persons; that he hears footsteps in next room"
     ], 
     "Back": [
       "Weariness; aching in wrists and finger-joints", 
       "Hamstrings sore", 
       "Rheumatic arthritis", 
-      "SYNOVIAL CREPITATION"
+      "Synovial crepitation"
     ], 
     "Face": [
       "Paleness of bluish, florid appearance of face"
     ], 
     "Mouth": [
-      "DYSPHAGIC", 
+      "Dysphagic", 
       "Thick, creamy membrane over tonsils and soft palate", 
-      "THIN, MOIST COATING ON THE TONGUE", 
+      "Thin, moist coating on the tongue", 
       "Canker sores of lip and cheeks", 
-      "YELLOW, CREAMY COATING AT THE BACK PART OF THE ROOF OF THE MOUTH", 
-      "BLISTERS ON TIP OF TONGUE, with stinging in evening"
+      "Yellow, creamy coating at the back part of the roof of the mouth", 
+      "Blisters on tip of tongue, with stinging in evening"
     ], 
     "Nose": [
       "Itching of nose", 
@@ -51,16 +51,16 @@
       "Feet icy cold in daytime, burn at night", 
       "Swelling of lymphatic glands", 
       "Erysipelas", 
-      "HIVES", 
+      "Hives", 
       "Yellow", 
       "Smooth, red, shining", 
-      "Itching in various parts, ESPECIALLY OF ANKLES"
+      "Itching in various parts, especially of ankles"
     ], 
     "Extremities": [
       "Rheumatism of the knee-joint"
     ], 
     "Male": [
-      "Emissions without dreams, with WEAKNESS IN BACK AND TREMBLING IN LIMBS", 
+      "Emissions without dreams, with weakness in back and trembling in limbs", 
       "Gonorrhea", 
       "Desire without erection"
     ], 
@@ -69,8 +69,6 @@
     ]
   }, 
   "details": "Natrum phosphoricum is the remedy for conditions arising from excess of lactic acid, often resulting from too much sugar. Ailments, with EXCESS OF ACIDITY. Sour eructations and taste. Sour vomiting. YELLOW, CREAMY COATING AT THE BACK OF THE ROOF OF MOUTH AND TONGUE. Inflammation of any part of the throat, with sensation of a lump in throat. Flatulence, with sour risings. Colic, with symptoms of worms. of joints. JAUNDICE (1x trit.) Oxaluria.", 
-  "Natural History": [
-    "Phosphate of Sodium"
-  ], 
+  "Natural History": "Phosphate of Sodium", 
   "dosage": "Third to twelfth trituration. In Jaundice 1x. Non-homeopathically. Phosphate soda used hypodermically for Morphine habit, by Dr. M. J. Lys. Phosphate Soda, 75 gr. daily, for constitutional iodism, thyroidism and Grave's disease."
 }

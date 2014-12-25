@@ -33,10 +33,10 @@
       "Hemorrhoids; frequent urging; bloody stools; worse as rheumatic pains abate", 
       "Oozing from umbilicus", 
       "Hard lumps in abdomen", 
-      "DISTENDED"
+      "Distended"
     ], 
     "Face": [
-      "ANGIOMA OF THE FACE", 
+      "Angioma of the face", 
       "Comedones, with emaciation", 
       "Nosebleed", 
       "Wrinkled, cold, dry, pale", 
@@ -52,14 +52,12 @@
     "Extremities": [
       "Joints stiff and lame", 
       "Pricking and coldness in fingers and feet", 
-      "LEGS greatly emaciated", 
-      "Pain in shoulders, arms, WRISTS, and ANKLES", 
+      "Legs greatly emaciated", 
+      "Pain in shoulders, arms, wrists, and ankles", 
       "Painful contraction of limbs"
     ]
   }, 
   "details": "A very useful remedy in MARASMUS, especially of lower extremities only, yet with good appetite. METASTASIS. Rheumatism following checked diarrhoea. Ill effects of suppressed conditions especially in gouty subjects. Tuberculous peritonitis. EXUDATIVE PLEURISY and other exudative processes. After operation upon the chest for hydrothorax or empyema, a pressing sensation remains. Aggravation of hemorrhoids when rheumatism improves. Nosebleed and hydrocele in boys.Great weakness after influenza (Kali-p.)", 
-  "Natural History": [
-    "Southern wood"
-  ], 
+  "Natural History": "Southern wood", 
   "dosage": "BThird to thirtieth potency.uy Now"
 }

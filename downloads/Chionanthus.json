@@ -1,11 +1,9 @@
 {
-  "Natural History": [
-    "Fringe-tree"
-  ], 
+  "Natural History": "Fringe-tree", 
   "symptoms": {
     "Head": [
       "Listless, apathetic", 
-      "YELLOW CONJUNCTIVA", 
+      "Yellow conjunctiva", 
       "Dull frontal headache, over root of nose, over eyes, through temples, worse stooping, motion, jar"
     ], 
     "Urine": [
@@ -15,10 +13,10 @@
     "Mouth": [
       "Feels as if a string were tied in a slip-knot around intestines which was suddenly drawn tight and then gradually loosened", 
       "Pancreatic disease and other glandular disorders", 
-      "Abdomen and Liver", 
+      "Abdomen and liver", 
       "Bilious colic", 
       "Dry sensation not relieved by water, also profuse saliva", 
-      "Sore: ENLARGED, WITH JAUNDICE and constipation", 
+      "Sore: enlarged, with jaundice and constipation", 
       "Clay-colored stool, also soft, yellow and pasty", 
       "Tongue broad with thick yellow fur", 
       "Aching in umbilical region, griping", 
@@ -27,7 +25,7 @@
       "Hepatic region tender"
     ], 
     "Skin": [
-      "Yellow; marked moisture of skin Sallow, greenish, itching"
+      "Yellow; marked moisture of skin sallow, greenish, itching"
     ]
   }, 
   "name": "Chionanthus", 

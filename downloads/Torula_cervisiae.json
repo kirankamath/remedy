@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Saccharomyces) (Yeast Plant"
-  ], 
+  "Natural History": "Saccharomyces) (Yeast Plant", 
   "details": "Introduced by Drs. Lehman and Yingling. Not proved, hence clinical symptoms only but many have been verified. Sycotic remedy Anaphylactic states produced by proteins and enzymes (Yingling).", 
   "symptoms": {
     "Head": [
@@ -13,7 +11,7 @@
       "Worse from constipation"
     ], 
     "Stomach": [
-      "CONSTIPATION", 
+      "Constipation", 
       "Sour, yeasty, mouldy odor from discharges", 
       "Rumbling, pains shift, flatulence", 
       "Bad taste", 

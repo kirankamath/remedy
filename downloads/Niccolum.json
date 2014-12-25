@@ -1,21 +1,19 @@
 {
-  "Natural History": [
-    "Metallic Nickel"
-  ], 
+  "Natural History": "Metallic Nickel", 
   "details": "Periodical nervous sick headaches, with asthenopia, weak digestion, constipation. Catarrh. Suits debilitated, nervous, literary patients, with frequent headaches, dyspepsia and constipation.", 
   "symptoms": {
     "Gastric": [
       "Diarrhoea and tenesmus after milk", 
-      "Thirst and INTENSE HICCOUGH", 
+      "Thirst and intense hiccough", 
       "Acute gastralgia with pains extending to shoulder", 
       "Sour, fetid secretions ooze from molar teeth", 
-      "Gone, empty feeling in epigastrium, WITHOUT DESIRE FOR FOOD"
+      "Gone, empty feeling in epigastrium, without desire for food"
     ], 
     "Respiratory": [
       "Hoarseness", 
       "Dry, hacking cough, with stitches in chest", 
-      "OBLIGED TO SIT UP AND HOLD HEAD", 
-      "MUST PUT ARMS ON THIGHS, WHEN COUGHING"
+      "Obliged to sit up and hold head", 
+      "Must put arms on thighs, when coughing"
     ], 
     "Modalities": [
       "Worse: periodically", 
@@ -45,7 +43,7 @@
       "Itching all over, worse on neck, not relieved by scratching"
     ], 
     "Throat": [
-      "Sore, right side with great tenderness; SORENESS TO TOUCH EXTERNALLY", 
+      "Sore, right side with great tenderness; soreness to touch externally", 
       "Strangulated feeling"
     ]
   }, 

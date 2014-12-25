@@ -6,7 +6,7 @@
       "Hair falls out", 
       "Scalp feels tense", 
       "Headache from tea drinking", 
-      "PAIN OVER LEFT EYE; WORSE, WALKING IN SUN, STRONG ODORS AND TEA"
+      "Pain over left eye; worse, walking in sun, strong odors and tea"
     ], 
     "Stomach": [
       "Hiccough and eructations after smoking", 
@@ -17,7 +17,7 @@
     "Modalities": [
       "Worse: after sleep", 
       "Worse: in hot weather", 
-      "Worse: from Cinchona", 
+      "Worse: from cinchona", 
       "Worse: draft of air", 
       "Worse: coition"
     ], 
@@ -27,25 +27,25 @@
     ], 
     "Mind": [
       "Mental labor fatigues", 
-      "EXTREME SADNESS", 
+      "Extreme sadness", 
       "Lascivious thoughts, with impotency", 
       "Abject despair, uncompromising melancholy"
     ], 
     "Abdomen": [
-      "Chronic liver affections; liver painful, ENLARGED, WITH FINE RASH OVER LIVER REGION", 
+      "Chronic liver affections; liver painful, enlarged, with fine rash over liver region", 
       "Stool constipated, hard and accumulated in rectum"
     ], 
     "Sleep": [
-      "SLEEP PREVENTED BY PULSATION IN ALL VESSELS, worse abdomen", 
+      "Sleep prevented by pulsation in all vessels, worse abdomen", 
       "Sleepless until midnight, awakens early and always same hour"
     ], 
     "Skin": [
       "Itching about finger-joints and between fingers; in palms", 
       "Vesicular eruption between fingers", 
-      "ACNE", 
+      "Acne", 
       "Hair falls out from brows, beard, and genitals", 
-      "Seborrhoea oleos; comedones WITH AN OILY SURFACE OF THE SKIN; alopecia", 
-      "ITCHING ABOUT THE ANKLES and folds of skin, between fingers", 
+      "Seborrhoea oleos; comedones with an oily surface of the skin; alopecia", 
+      "Itching about the ankles and folds of skin, between fingers", 
       "Dry, scaly eruption in palms, with itching"
     ], 
     "Throat": [
@@ -54,7 +54,7 @@
       "Incipient tubercular laryngitis", 
       "Cough in morning, with expectoration of bloody mucus", 
       "Hawking and raising transparent lumps of mucus every morning", 
-      "HOARSENESS"
+      "Hoarseness"
     ], 
     "Extremities": [
       "Paralytic pains in small of back in the morning", 
@@ -63,18 +63,16 @@
     "Male": [
       "Irritability after coitus", 
       "On attempting coition, penis relaxes", 
-      "HYDROCELE", 
-      "INCREASES DESIRE, DECREASES ABILITY", 
+      "Hydrocele", 
+      "Increases desire, decreases ability", 
       "Semen thin, odorless", 
       "Dribbling of semen during sleep", 
       "Sexual neurasthenia", 
-      "LOSS OF SEXUAL POWER, with lascivious fancies", 
+      "Loss of sexual power, with lascivious fancies", 
       "Dribbling of prostatic fluid"
     ]
   }, 
   "details": "Marked effects on the genitourinary organs, and often indicated in elderly men, especially for prostration and sexual atony. GREAT DEBILITY; worse, heat. Easy exhaustion, mental and physical, in old age. Debility after exhausting diseases.Selenium is a constant constituent of bones and teeth.", 
-  "Natural History": [
-    "The Element Selenium"
-  ], 
+  "Natural History": "The Element Selenium", 
   "dosage": "Sixth to thirtieth potency. Colloidal Selenium injection for inoperable cancer. Pain, sleeplessness, ulceration and discharge are markedly diminished."
 }

@@ -3,16 +3,16 @@
   "Relationship": "Compare: KALI HYPO PHOSPH. (DEBILITY WITH WASTING OF MUSCULAR TISSUE. Phosphaturia with general anemia or leucocythemia. Effects of excessive tea drinking. Chronic bronchitis where the expectoration is THICK AND FETID, sometimes SCANTY AND TOUGH. Dose - 5 grains of crude to 3X.) GENISTA - Dyer's Weed - (contains scopolamin; frontal headache and vertigo, worse motion, better open air and eating. Dry throat, awakes with water brash. Itching eruption on elbows, knees, and ankles. Promotes diuresis in dropsical conditions.) MACROZAMIA SPIRALIS. (Extreme debility after severe illness; collapse. Weariness from no assignable cause, no pains. Boring pain at vertex; vomiting and retching all night; impossible to eyes, giddiness and cold.) ZINC.; GELS.; CIMICIF.; LACHES.; MUR-AC.", 
   "symptoms": {
     "Urine": [
-      "Enuresis", 
       "Incontinence of urine", 
-      "VERY YELLOW URINE", 
+      "Enuresis", 
+      "Very yellow urine", 
       "Bleeding from the urethra"
     ], 
     "Head": [
       "Occipital headache; better, after rising", 
       "Headaches are relieved by gentle motion", 
       "Vertigo, from lying, on standing up, from sitting, and when looking upward", 
-      "CEREBRAL ANAEMIA", 
+      "Cerebral anaemia", 
       "Headache, with weary, empty, gone feeling at stomach"
     ], 
     "Fever": [
@@ -27,17 +27,17 @@
       "Dysentery; stools consist of pure blood; patient becomes delirious; abdomen swells", 
       "Diarrhoea while eating", 
       "Prolapsus recti", 
-      "Diarrhoea; foul, PUTRID ODOR; occasioned by fright, with depression and exhaustion"
+      "Diarrhoea; foul, putrid odor; occasioned by fright, with depression and exhaustion"
     ], 
     "Mouth": [
-      "BREATH OFFENSIVE, FETID", 
-      "EXCESSIVELY DRY, in the morning", 
+      "Breath offensive, fetid", 
+      "Excessively dry, in the morning", 
       "Gums spongy and receding", 
       "Toothache, with easily-bleeding gums; they have a bright-red seam on them", 
       "Tongue coated brownish, like mustard"
     ], 
     "Respiratory": [
-      "Cough; YELLOW expectoration", 
+      "Cough; yellow expectoration", 
       "Short breath on going upstairs", 
       "Asthma; least food aggravates"
     ], 
@@ -56,7 +56,7 @@
       "Nocturnal emissions; sexual power diminished; utter prostration after coitus"
     ], 
     "Ears": [
-      "HUMMING AND BUZZING IN THE EARS"
+      "Humming and buzzing in the ears"
     ], 
     "Modalities": [
       "Better: warmth", 
@@ -67,16 +67,16 @@
       "Somnambulance", 
       "Indisposition to meet people", 
       "Extreme lassitude and depression", 
-      "Brain-fag; hysteria; NIGHT TERRORS", 
-      "SLIGHTEST LABOR SEEMS A HEAVY TASK", 
-      "Anxiety, NERVOUS DREAD, lethargy", 
-      "Very nervous, starts easily, IRRITABLE", 
+      "Brain-fag; hysteria; night terrors", 
+      "Slightest labor seems a heavy task", 
+      "Anxiety, nervous dread, lethargy", 
+      "Very nervous, starts easily, irritable", 
       "Great despondency about business", 
       "Shyness; disinclined to converse", 
       "Loss of memory"
     ], 
     "Female": [
-      "Menstruation TOO LATE OR TOO SCANTY in pale, irritable, sensitive, lachrymose females", 
+      "Menstruation too late or too scanty in pale, irritable, sensitive, lachrymose females", 
       "Feeble and ineffectual labor pains", 
       "Too profuse discharge, deep-red or blackish-red, thin and not coagulating; some times with offensive odor"
     ], 
@@ -91,8 +91,6 @@
     ]
   }, 
   "details": "One of the greatest nerve remedies. PROSTRATION. Weak and tired. Especially adapted to the young. Marked disturbance of the sympathetic nervous system. Conditions arising from WANT OF NERVE POWER, neurasthenia, mental and physical depression, are wonderfully improved by this remedy. The causes are usually excitement, overwork and worry. Besides, IT CORRESPONDS TO STATES OF ADYNAMIA AND DECAY, gangrenous conditions. In these two directions it has won many clinical laurels. Remember it in the treatment of suspected malignant tumors. After removal of cancer when in healing process skin is drawn TIGHT over the wound. Delayed labor.", 
-  "Natural History": [
-    "Phosphate of Potassium"
-  ], 
+  "Natural History": "Phosphate of Potassium", 
   "dosage": "Third to twelfth trituration. The highest potencies seem to be indicated in certain cases."
 }

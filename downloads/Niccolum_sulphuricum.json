@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Sulphate of Nickel"
-  ], 
+  "Natural History": "Sulphate of Nickel", 
   "symptoms": {
     "Head": [
       "Periodic headaches, occipital pain, extending down to spine, worse lying on back; sore pain in eyes", 
@@ -15,7 +13,7 @@
     ], 
     "Female": [
       "Dull aching in ovaries, with sensation as if menses appear", 
-      "HOT FLASHES, followed by perspiration on parts touching each other, when separated become dry"
+      "Hot flashes, followed by perspiration on parts touching each other, when separated become dry"
     ]
   }, 
   "name": "Niccolum sulphuricum", 

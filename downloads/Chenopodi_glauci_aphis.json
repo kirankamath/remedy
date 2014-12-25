@@ -1,14 +1,12 @@
 {
-  "Natural History": [
-    "Plant-lice from Chenopodium"
-  ], 
+  "Natural History": "Plant-lice from Chenopodium", 
   "symptoms": {
     "Head": [
       "Orbital right neuralgia, with profuse lachrymation", 
       "Yellow face", 
       "Noise in ears, as of cannon", 
       "Brain seems swished hither and thither", 
-      "TOOTHACHE, RELIEVED BY GENERAL WARM SWEAT  Toothache extends to ear, temple, and cheek-bone", 
+      "Toothache, relieved by general warm sweat  toothache extends to ear, temple, and cheek-bone", 
       "Sad; aching, worse from motion", 
       "Coryza, with burning or biting in nostrils"
     ], 
@@ -30,7 +28,7 @@
       "Burning in urethra"
     ], 
     "Back": [
-      "Severe pains in region of LOWER INNER ANGLE OF LEFT SHOULDER-BLADE, running into chest"
+      "Severe pains in region of lower inner angle of left shoulder-blade, running into chest"
     ]
   }, 
   "name": "Chenopodi glauci aphis", 

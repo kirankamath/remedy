@@ -12,22 +12,22 @@
       "Membranous croup", 
       "Putrid sore throat", 
       "Profuse bronchorrhea", 
-      "Hoarse, hissing respiration; DIFFICULT BREATHING; COUGH WHEN INHALING", 
+      "Hoarse, hissing respiration; difficult breathing; cough when inhaling", 
       "Irritation of trachea and bronchial tubes"
     ], 
     "Stomach": [
       "Vomits after every kind of food", 
-      "FERMENTATION in stomach", 
+      "Fermentation in stomach", 
       "Hyperchlorhydria and gastralgia", 
       "Burning pain as of an ulcer", 
       "Sour belching and vomiting", 
       "Cold drinks distress", 
-      "VIOLENT BURNING PAIN IN STOMACH AND CHEST, FOLLOWED BY COLDNESS OF SKIN AND COLD SWEAT ON FOREHEAD", 
+      "Violent burning pain in stomach and chest, followed by coldness of skin and cold sweat on forehead", 
       "Stomach feels as if she had taken a lot of vinegar", 
-      "Cancer of Stomach", 
+      "Cancer of stomach", 
       "Burning water brash and profuse salivation", 
       "Epigastric tenderness", 
-      "SALIVATION", 
+      "Salivation", 
       "Intense burning thirst"
     ], 
     "Urine": [
@@ -38,35 +38,35 @@
       "Irritable, worried about business affairs"
     ], 
     "Back": [
-      "Pain in back, RELIEVED ONLY BY LYING ON ABDOMEN"
+      "Pain in back, relieved only by lying on abdomen"
     ], 
     "Fever": [
-      "HECTIC, WITH DRENCHING NIGHT-SWEATS", 
-      "SWEAT PROFUSE, COLD", 
-      "NO THIRST IN FEVER", 
-      "RED SPOT ON LEFT CHEEK", 
+      "Hectic, with drenching night-sweats", 
+      "Sweat profuse, cold", 
+      "No thirst in fever", 
+      "Red spot on left cheek", 
       "Ebullitions"
     ], 
     "Female": [
       "Breasts painfully enlarged, distended with milk", 
       "Excessive catamenia", 
       "Nausea of pregnancy", 
-      "HEMORRHAGES AFTER LABOR", 
+      "Hemorrhages after labor", 
       "Anemia of nursing mothers", 
       "Milk impoverished, bluish, transparent, sour"
     ], 
     "Skin": [
       "Burning, dry, hot skin, or bathed in profuse sweat", 
-      "Pale, waxen, Edematous", 
+      "Pale, waxen, edematous", 
       "Scurvy; anasarca", 
       "Bruises; sprains", 
-      "Useful after stings, bites, etc. Varicose swellings", 
+      "Useful after stings, bites, etc. varicose swellings", 
       "Diminished sensibility of the surface of body"
     ], 
     "Abdomen": [
       "Hemorrhage from bowels", 
       "Frequent watery stools, worse in morning", 
-      "TYMPANITIC", 
+      "Tympanitic", 
       "Feels as if abdomen was sinking in", 
       "Ascites"
     ], 
@@ -76,8 +76,6 @@
     ]
   }, 
   "details": "This drug produces a condition of profound anemia, with some dropsical symptoms, great debility, frequent fainting, dyspnea, weak heart, vomiting, profuse urination and sweat. Hemorrhage from any part. Especially indicated in pale, lean persons, with lax, flabby muscles. WASTING AND DEBILITY. Acetic acid has the power to LIQUEFY ALBUMINOUS AND FIBRINOUS DEPOSITS. Epithelial cancer, internally and locally (W. Owens). Sycosis with nodules and formations in the joints. Hard chancre. The 1X solution will soften and cause formation of pus.", 
-  "Natural History": [
-    "Glacial Acetic Acid"
-  ], 
+  "Natural History": "Glacial Acetic Acid", 
   "dosage": "Third to thirtieth potency. Not to be repeated too often, except in croup."
 }

@@ -6,14 +6,14 @@
       "Heat in eyeballs, dims spectacles", 
       "Lacerated or incised wounds of cornea", 
       "Affections of angles of eye, particularly the inner", 
-      "CHALAZAE", 
+      "Chalazae", 
       "Eyes sunken, with blue rings", 
       "Bursting pain in eyeballs of syphilitic iritis", 
-      "RECURRENT STYES", 
+      "Recurrent styes", 
       "Margin of lids itch"
     ], 
     "Stomach": [
-      "CRAVING FOR TOBACCO", 
+      "Craving for tobacco", 
       "Desire for stimulants", 
       "Canine hunger, even when stomach is full", 
       "Flabby and weak", 
@@ -29,32 +29,40 @@
     "Urine": [
       "Pressure upon bladder; feels as if it did not empty", 
       "Cystitis in lying-in patients", 
-      "SENSATION AS IF A DROP OF URINE WERE ROLLING CONTINUOUSLY ALONG THE CHANNEL", 
-      "CYSTOCELE", 
+      "Sensation as if a drop of urine were rolling continuously along the channel", 
+      "Cystocele", 
       "Burning in urethra during micturition", 
       "Pain after lithotomy", 
-      "Urging and pain AFTER urinating", 
-      "Prostatic troubles; frequent urination, burning in urethra WHEN NOT URINATING", 
-      "Ineffectual urging to urinate in NEWLY MARRIED women"
+      "Urging and pain after urinating", 
+      "Prostatic troubles; frequent urination, burning in urethra when not urinating", 
+      "Ineffectual urging to urinate in newly married women"
     ], 
     "Modalities": [
+      "Worse: anger", 
+      "Worse: indignation", 
+      "Worse: grief", 
+      "Worse: mortification", 
+      "Worse: loss of fluids", 
+      "Worse: onanism", 
+      "Worse: sexual excesses", 
+      "Worse: tobacco; least touch on affected parts", 
       "Better: after breakfast", 
       "Better: warmth", 
       "Better: rest at night"
     ], 
     "Mind": [
       "Child cries for many things, and refuses them when offered", 
-      "VERY SENSITIVE as to what others say about her", 
+      "Very sensitive as to what others say about her", 
       "Peevish", 
-      "Impetuous, VIOLENT OUTBURSTS OF PASSION, hypochondriacal, sad", 
+      "Impetuous, violent outbursts of passion, hypochondriacal, sad", 
       "Dwells on sexual matters; prefers solitude"
     ], 
     "Abdomen": [
       "Hot flatus", 
       "Diarrhoea after drinking cold water, with tenesmus", 
-      "CONSTIPATION , hemorrhoids, with enlarged prostate", 
+      "Constipation , hemorrhoids, with enlarged prostate", 
       "Colic after anger", 
-      "SEVERE PAIN FOLLOWING AN ABDOMINAL OPERATION", 
+      "Severe pain following an abdominal operation", 
       "Swollen abdomen in children, with much flatus", 
       "Colic, with pelvic tenesmus", 
       "Incarcerated flatus"
@@ -62,21 +70,21 @@
     "Female": [
       "Leucorrhoea", 
       "Prolapsus, with sinking in the abdomen; aching around the hips", 
-      "PARTS VERY SENSITIVE, worse sitting down", 
-      "IRRITABLE BLADDER IN YOUNG MARRIED WOMEN"
+      "Parts very sensitive, worse sitting down", 
+      "Irritable bladder in young married women"
     ], 
     "Skin": [
       "Fig-warts pedunculated", 
       "Night-sweats", 
       "Arthritic nodes", 
       "Inflammation of phalanges", 
-      "Eczema of head, ears, face, and body; thick scabs, dry, and itch violently; SCRATCHING CHANGES LOCATION OF ITCHING"
+      "Eczema of head, ears, face, and body; thick scabs, dry, and itch violently; scratching changes location of itching"
     ], 
     "Throat": [
-      "STITCHES FLYING TO THE EAR ON SWALLOWING, ESPECIALLY LEFT"
+      "Stitches flying to the ear on swallowing, especially left"
     ], 
     "Mouth": [
-      "TEETH BLACK AND CRUMBLING", 
+      "Teeth black and crumbling", 
       "Toothache during menses", 
       "Pyorrhoea", 
       "Submaxillary glands swollen", 
@@ -88,8 +96,8 @@
       "Extremities feel beaten and painful", 
       "Muscles, especially of calves, feel bruised", 
       "Joints stiff", 
-      "BACKACHE; WORSE IN MORNING BEFORE RISING", 
-      "CRURAL NEURALGIA"
+      "Backache; worse in morning before rising", 
+      "Crural neuralgia"
     ], 
     "Male": [
       "Dyspnoea after coition", 
@@ -98,8 +106,6 @@
     ]
   }, 
   "details": "Nervous affections with marked irritability, diseases of the genitourinary tract and skin, most frequently give symptoms calling for this drug. Acts on teeth and alveolar periosteum. Ill effects of anger and insults. SEXUAL SINS AND EXCESSES. VERY SENSITIVE. Lacerated tissues. Pain and nervousness after extraction of teeth. Sphincters lacerated or stretched.", 
-  "Natural History": [
-    "Stavesacre"
-  ], 
+  "Natural History": "Stavesacre", 
   "dosage": "Third to thirtieth potency."
 }

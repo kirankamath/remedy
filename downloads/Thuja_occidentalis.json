@@ -7,7 +7,7 @@
       "Desire sudden and urgent, but cannot be controlled", 
       "Urethra swollen, inflamed", 
       "Paralysis sphincter vesicae", 
-      "Severe cutting AFTER", 
+      "Severe cutting after", 
       "Frequent micturition accompanying pains", 
       "Sensation of trickling after urinating"
     ], 
@@ -20,7 +20,7 @@
     ], 
     "Fever": [
       "Orgasm of blood in the evening, with throbbing in the blood vessels", 
-      "Sweat ONLY ON UNCOVERED PARTS, or all over except head, when sleeping; profuse, sour, smelling like honey", 
+      "Sweat only on uncovered parts, or all over except head, when sleeping; profuse, sour, smelling like honey", 
       "Chill, beginning in thighs"
     ], 
     "Stomach": [
@@ -37,8 +37,8 @@
       "Rumbling and colic", 
       ", without pain", 
       "Distended; indurations in abdomen", 
-      "FLATULENCE AND DISTENTION; PROTRUDING HERE AND THERE", 
-      "MOVEMENTS AS OF SOMETHING LIVING", 
+      "Flatulence and distention; protruding here and there", 
+      "Movements as of something living", 
       "Anus fissured; painful to touch, with warts", 
       "Chronic diarrhoea, worse after breakfast", 
       "Brown spots", 
@@ -49,20 +49,20 @@
       "Teeth decay next to gums; very sensitive; gums retract", 
       "Tip of tongue very painful", 
       "Ranula; varicose veins on tongue and mouth", 
-      "WHITE BLISTERS ON SIDE CLOSE TO ROOT, PAINFULLY SORE", 
+      "White blisters on side close to root, painfully sore", 
       "Drinks fall audibly into stomach", 
       "Pyorrhoea alveolaris"
     ], 
     "Respiratory": [
       "Stitches in chest; worse, cold drinks", 
-      "ASTHMA IN CHILDREN", 
+      "Asthma in children", 
       "Dry, hacking cough in afternoon, with pain in pit of stomach", 
       "Chronic laryngitis", 
       "Papilloma of larynx"
     ], 
     "Eyes": [
       "Styes and tarsal tumors", 
-      "Large, flat phlyctenules; INDOLENT", 
+      "Large, flat phlyctenules; indolent", 
       "Recurring episcleritis", 
       "Eyelids agglutinated at night; dry, scaly", 
       "Sclera raised in patches, and looks bluish-red", 
@@ -82,9 +82,9 @@
       "Balanitis", 
       "Pain and burning felt near neck of bladder, with frequent and urgent desire to urinate", 
       "Chronic induration of testicles", 
-      "GONORRHEA", 
+      "Gonorrhea", 
       "Prostatic enlargement", 
-      "GONORRHEAL RHEUMATISM"
+      "Gonorrheal rheumatism"
     ], 
     "Ears": [
       "Chronic otitis; discharge purulent", 
@@ -93,7 +93,7 @@
     ], 
     "Modalities": [
       "Worse: at night", 
-      "Worse: from heat of bed; at three AM and three PM", 
+      "Worse: from heat of bed; at three am and three pm", 
       "Worse: from cold", 
       "Worse: damp air; after breakfast; fat", 
       "Worse: coffee; vaccination", 
@@ -101,15 +101,15 @@
     ], 
     "Mind": [
       "Emotional sensitiveness; music causes weeping and trembling", 
-      "FIXED IDEAS, as if a strange person were at his side; as if soul and body were separated; as if something alive in abdomen"
+      "Fixed ideas, as if a strange person were at his side; as if soul and body were separated; as if something alive in abdomen"
     ], 
     "Sleep": [
       "Persistent insomnia"
     ], 
     "Female": [
-      "POLYPI; fleshy excrescences", 
+      "Polypi; fleshy excrescences", 
       "Ovaritis; worse left side, at every menstrual period", 
-      "Vagina VERY SENSITIVE", 
+      "Vagina very sensitive", 
       "Warty excrescences on vulva and perineum", 
       "Profuse perspiration before menses", 
       "Profuse leucorrhoea; thick, greenish", 
@@ -118,18 +118,18 @@
     ], 
     "Skin": [
       "Glandular enlargement", 
-      "Polypi, tubercles, WARTS epithelioma, Neva, carbuncles; ulcers, especially in ano-genital region", 
+      "Polypi, tubercles, warts epithelioma, neva, carbuncles; ulcers, especially in ano-genital region", 
       "Freckles and blotches", 
       "Coldness of one side", 
       "Dry skin, with brown spots", 
       "Tearing pains in glands", 
       "Very sensitive to touch", 
       "Sarcoma; polypi", 
-      "ERUPTIONS ONLY ON COVERED PARTS; worse after scratching", 
+      "Eruptions only on covered parts; worse after scratching", 
       "Perspiration sweetish, and strong", 
       "Nails crippled; brittle and soft", 
       "Zona; herpetic eruptions", 
-      "BROWN SPOTS ON HANDS AND ARMS"
+      "Brown spots on hands and arms"
     ], 
     "Extremities": [
       "Tips of fingers swollen, red, feel dead", 
@@ -142,8 +142,6 @@
     ]
   }, 
   "details": "Acts on skin, blood, gastrointestinal tract, kidneys, and brain. Its relation to the production of pathological vegetations condylomata, warty excrescences, spongy tumors is very important. Moist mucous tubercles. Bleeding fungus growths. Naevus. Excess of venosity.The main action of Thuja is on the skin and genitourinary organs, producing conditions that correspond with Hahnemann's sycotic dyscrasia, whose chief manifestation is the formation of wart-like excrescences upon mucous and cutaneous surfaces - fig-warts and condylomata. Has a specific antibacterial action, as in gonorrhea and vaccination. Sycotic pains, i.e., tearing in muscles and joints, worse at rest, better in dry weather, worse damp humid atmosphere; lameness. HYDROGENOID CONSTITUTIONS, whose blood is morbidly hydroscopic, so that damp air and water are inimical. Complaints from moonlight. RAPID EXHAUSTION AND EMACIATION. Left-sided and chilly medicine. Variola, aborts the pustule and prevents the suppurating fever. VACCINOSIS, viz., inveterable skin troubles, neuralgia, etc.", 
-  "Natural History": [
-    "Arbor vitae"
-  ], 
+  "Natural History": "Arbor vitae", 
   "dosage": "Locally, for warts and excrescences, tincture, or cerate. Internally, tincture to thirtieth potency."
 }

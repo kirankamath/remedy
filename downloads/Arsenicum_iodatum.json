@@ -7,7 +7,7 @@
     ], 
     "Fever": [
       "Recurrent fever and sweats", 
-      "DRENCHING NIGHT-SWEATS", 
+      "Drenching night-sweats", 
       "Chilly, cannot endure cold", 
       "Pulse rapid, feeble, weak, irregular"
     ], 
@@ -19,7 +19,7 @@
       "Pain in epigastrium"
     ], 
     "Head": [
-      "VERTIGO, with tremulous feeling, especially in aged"
+      "Vertigo, with tremulous feeling, especially in aged"
     ], 
     "Respiratory": [
       "Bronchopneumonia after grippe", 
@@ -32,21 +32,21 @@
       "Aphonia"
     ], 
     "Nose": [
-      "THIN, WATERY, EXCORIATING DISCHARGE FROM ANTERIOR AND POSTERIOR NARES; SNEEZING", 
+      "Thin, watery, excoriating discharge from anterior and posterior nares; sneezing", 
       "Aggravation by sneezing", 
       "Irritation and tingling of nose constant desire to sneeze", 
       "Hay-fever", 
-      "CHRONIC NASAL CATARRH; swollen nose; profuse thick, yellow discharge; ulcers; MEMBRANE SORE AND EXCORIATED", 
-      "BURNING, acrid coryza"
+      "Chronic nasal catarrh; swollen nose; profuse thick, yellow discharge; ulcers; membrane sore and excoriated", 
+      "Burning, acrid coryza"
     ], 
     "Skin": [
       "Psoriasis", 
       "Debilitating night-sweats", 
-      "MARKED EXFOLIATION OF SKIN IN LARGE SCALES, leaving a raw exuding surface beneath", 
-      "ICHTHYOSIS", 
-      "VENEREAL BUBO", 
+      "Marked exfoliation of skin in large scales, leaving a raw exuding surface beneath", 
+      "Ichthyosis", 
+      "Venereal bubo", 
       "Dry, scaly, itching", 
-      "ENLARGED SCROFULOUS GLANDS", 
+      "Enlarged scrofulous glands", 
       "Emaciation", 
       "Eczema of the beard; watery, oozing, itching; worse, washing", 
       "Acne hard, shotty, indurated base with pustule at apex"
@@ -65,8 +65,6 @@
     ]
   }, 
   "details": "This remedy is also to be remembered in phthisis with hoarse, racking cough and profuse expectoration of a purulent nature, and attended with cardiac weakness, emaciation and general debility; in chronic, watery diarrhoea in phthisical subjects; in cases of emaciation with good appetite; in amenorrhoea, with anaemic palpitation and dyspnoea. In chronic pneumonia, when abscess is about to form. Great emaciation. Arteriosclerosis, myocardial degeneration and senile heart. Threatened pyaemia. (Pyrog.; Methyl. blue)Is to be preferred for persistently irritating, corrosive discharges. The discharge irritates the membrane FROM which it flows and OVER which it flows. The discharge may be fetid, watery, and the mucous membrane is always red, angry, swollen; itches and burns. Influenza, HAY-FEVER, old nasal catarrhs, and catarrh of middle ear. Swelling of tissues within the nose. Hypertrophied condition of eustachian tube and deafness. Senile heart, myocarditis and fatty degeneration. Pulse shotty. Chronic aortitis. Epithelioma of the lip. Cancer of breast after ulceration has set in.It seems probable that in Arsenic iod., we have a remedy most closely allied to manifestations of tuberculosis. In the early stages of tuberculosis, even though there is an afternoon rise in temperature, ARS. JOD. is very effective. It will be indicated by a profound prostration, rapid, irritable pulse, recurring fever and sweats, emaciation; tendency to diarrhoea. Chronic pneumonia, with abscess in lung. Hectic; debility; night sweats.", 
-  "Natural History": [
-    "Iodide of Arsenic"
-  ], 
+  "Natural History": "Iodide of Arsenic", 
   "dosage": "Second and third trituration. Ought to be prepared fresh and protected from light. Continued for some time. Clinically, it has been found advisable in tuberculosis to begin with about the 4X and gradually go lower to the second x trit., 5 grains 3 times a day."
 }

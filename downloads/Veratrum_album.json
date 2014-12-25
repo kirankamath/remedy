@@ -5,7 +5,7 @@
     "Rectum": [
       "Constipation from inactivity of rectum, with heat and headache", 
       "Evacuations of cholera morbus and true cholera when vomiting accompanies the purging", 
-      "STOOLS LARGE, WITH MUCH STRAINING UNTIL COPIOUS, AND FORCIBLY EVACUATED, followed by great prostration", 
+      "Stools large, with much straining until copious, and forcibly evacuated, followed by great prostration", 
       "Constipation of babies, and when produced by very cold weather"
     ], 
     "Heart": [
@@ -22,25 +22,25 @@
       "Surrounded by dark rings"
     ], 
     "Fever": [
-      "Chill, WITH EXTREME COLDNESS and thirst"
+      "Chill, with extreme coldness and thirst"
     ], 
     "Stomach": [
       "Great weakness after vomiting", 
-      "VORACIOUS appetite", 
+      "Voracious appetite", 
       "Anguish in pit of stomach", 
       "Hiccough", 
-      "Gastric irritability with CHRONIC vomiting of food", 
-      "THIRST FOR COLD WATER, BUT IS VOMITED AS SOON AS SWALLOWED", 
+      "Gastric irritability with chronic vomiting of food", 
+      "Thirst for cold water, but is vomited as soon as swallowed", 
       "Craves fruit, juicy and cold things, ice, salt", 
-      "COPIOUS VOMITING AND NAUSEA; AGGRAVATED BY DRINKING AND LEAST MOTION", 
+      "Copious vomiting and nausea; aggravated by drinking and least motion", 
       "Averse to warm food"
     ], 
     "Head": [
+      "Sensation of a lump of ice on vertex", 
       "Contracted features", 
       "Neck too weak to hold head up", 
       "Headache, with nausea, vomiting, diarrhoea, pale face", 
-      "SENSATION OF A LUMP OF ICE ON VERTEX", 
-      "COLD SWEAT ON FOREHEAD"
+      "Cold sweat on forehead"
     ], 
     "Modalities": [
       "Worse: at night; wet", 
@@ -52,25 +52,25 @@
       "Cursing, howling all night", 
       "Mania, with desire to cut and tear things", 
       "Puerperal mania", 
-      "Sits in a stupid manner; notices nothing; SULLEN INDIFFERENCE", 
+      "Sits in a stupid manner; notices nothing; sullen indifference", 
       "Melancholy, with stupor and mania", 
       "Frenzy of excitement; shrieks, curses", 
       "Attacks of pain, with delirium driving to madness", 
-      "DELUSIONS OF IMPENDING MISFORTUNES"
+      "Delusions of impending misfortunes"
     ], 
     "Abdomen": [
       "Sensation as if hernia would protrude", 
       "Sinking and empty feeling", 
       "Cramps, knotting abdomen and legs", 
       "Pain in abdomen preceding stool", 
-      "COLD FEELING in stomach and abdomen", 
+      "Cold feeling in stomach and abdomen", 
       "Abdomen sensitive to pressure, swollen with terrible colic"
     ], 
     "Face": [
       "Features sunken", 
-      "FACE VERY PALE, BLUE, COLLAPSED, COLD", 
+      "Face very pale, blue, collapsed, cold", 
       "Nose grows more pointed", 
-      "ICY COLDNESS OF TIP OF NOSE AND FACE", 
+      "Icy coldness of tip of nose and face", 
       "Tearing in cheeks, temples, and eyes"
     ], 
     "Respiratory": [
@@ -92,25 +92,23 @@
     ], 
     "Female": [
       "Menses too early; profuse and exhausting", 
-      "DYSMENORRHOEA, WITH COLDNESS, purging, COLD SWEAT", 
+      "Dysmenorrhoea, with coldness, purging, cold sweat", 
       "Sexual mania precedes menses", 
-      "FAINTS FROM LEAST EXERTION"
+      "Faints from least exertion"
     ], 
     "Skin": [
       "Wrinkling of skin of hands and feet", 
       "Cold sweat", 
-      "Blue, cold, clammy, inelastic; COLD AS DEATH"
+      "Blue, cold, clammy, inelastic; cold as death"
     ], 
     "Extremities": [
       "Neuralgia in brachial plexus; arms feel swollen, cold, paralytic", 
       "Sciatica; pains like electric flashes", 
       "Soreness and tenderness of joints", 
-      "CRAMPS IN CALVES"
+      "Cramps in calves"
     ]
   }, 
   "details": "A perfect picture of COLLAPSE, WITH EXTREME COLDNESS, BLUENESS, AND WEAKNESS, is offered by this drug. Post-operative shock with cold sweat on forehead, pale face, rapid, feeble pulse. COLD PERSPIRATION ON THE FOREHEAD, with nearly all complaints. VOMITING, PURGING, AND CRAMPS IN EXTREMITIES. The PROFUSE, violent retching and vomiting is most characteristic. Surgical shock. Excessive dryness of all mucous surfaces. COPROPHAGIA violent mania alternates with silence and refusal to talk.", 
-  "Natural History": [
-    "White Hellebore"
-  ], 
+  "Natural History": "White Hellebore", 
   "dosage": "First to thirtieth potency. In diarrhoea, not below the sixth."
 }

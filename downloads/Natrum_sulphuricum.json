@@ -20,39 +20,39 @@
     ], 
     "Stomach": [
       "Thirst for something cold", 
-      "BROWN, BITTER COATING ON TONGUE", 
+      "Brown, bitter coating on tongue", 
       "Vomits sour", 
-      "Bilious vomiting, ACID dyspepsia, with heartburn and flatulence", 
+      "Bilious vomiting, acid dyspepsia, with heartburn and flatulence", 
       "Yellow complexion"
     ], 
     "Abdomen": [
-      "FLATULENCY; wind colic in ascending colon; worse, before breakfast", 
+      "Flatulency; wind colic in ascending colon; worse, before breakfast", 
       "Stools involuntary, when passing flatus", 
       "Burning in abdomen and anus", 
-      "LOOSE MORNING STOOLS; worse, after spell of wet weather", 
+      "Loose morning stools; worse, after spell of wet weather", 
       "Diarrhoea yellow, watery stools", 
-      "GREAT SIZE OF THE FAECAL MASS", 
+      "Great size of the faecal mass", 
       "Duodenal catarrh; hepatitis; icterus and vomiting of bile; liver sore to touch, with sharp, stitching pains; cannot bear tight clothing around waist, worse, lying on left side", 
       "Bruised pain and urging to stool"
     ], 
     "Mouth": [
-      "BITTER TASTE, blisters on palate", 
+      "Bitter taste, blisters on palate", 
       "Slimy, thick, tenacious, white mucus"
     ], 
     "Respiratory": [
-      "MUST HOLD CHEST WHEN COUGHING", 
+      "Must hold chest when coughing", 
       "Constant desire to take deep, long breath", 
-      "Pain through LOWER LEFT CHEST", 
+      "Pain through lower left chest", 
       "Springs up in the bed the cough hurts so; holds painful side", 
-      "ASTHMA IN CHILDREN, as a constitutional remedy", 
+      "Asthma in children, as a constitutional remedy", 
       "Dyspnoea, during damp weather", 
-      "Humid asthma; rattling in chest, at 4 and five AM COUGH, with thick, ropy, greenish expectoration; chest feels all gone", 
+      "Humid asthma; rattling in chest, at 4 and five am cough, with thick, ropy, greenish expectoration; chest feels all gone", 
       "Every fresh cold brings on attack of asthma", 
       "Delayed resolution in pneumonia"
     ], 
     "Eyes": [
       "Conjunctiva yellow", 
-      "PHOTOPHOBIA", 
+      "Photophobia", 
       "Granular lids"
     ], 
     "Nose": [
@@ -77,13 +77,13 @@
     ], 
     "Mind": [
       "Dislikes to speak, or to be spoken to", 
-      "Suicidal tendency; MUST EXERCISE RESTRAINT", 
+      "Suicidal tendency; must exercise restraint", 
       "Lively music saddens", 
       "Melancholy, with periodical attacks of mania", 
       "Inability to think"
     ], 
     "Back": [
-      "Violent pains in back of neck, AND AT BASE OF BRAIN", 
+      "Violent pains in back of neck, and at base of brain", 
       "Spinal meningitis; opisthotonos", 
       "Itching when undressing", 
       "Piercing pain between scapulae"
@@ -92,7 +92,7 @@
       "Leucorrhoea with hoarseness", 
       "Nosebleed during menses, which are acrid and profuse", 
       "Burning in pharynx during menstruation", 
-      "LEUCORRHOEA yellowish-green, FOLLOWING GONORRHOEA IN FEMALE", 
+      "Leucorrhoea yellowish-green, following gonorrhoea in female", 
       "Herpetic vulvitis"
     ], 
     "Skin": [
@@ -116,8 +116,6 @@
     ]
   }, 
   "details": "A liver remedy, especially indicated for the so-called hydrogenoid constitution, where the complaints are such as are due to living in damp houses, basements, cellars. They are worse in rainy weather, water in any form. FEELS EVERY CHANGE FROM DRY TO WET; cannot even eat plans growing near water, nor fish. Always feels best in warm, dry air. Clinically, it has been found a valuable remedy for SPINAL MENINGITIS, head symptoms FROM INJURIES TO HEAD, mental troubles therefrom. Every spring, return of skin affections. Tendency to warts. Fingers and toes affected. Chronic gout. (LYCOP.)", 
-  "Natural History": [
-    "Sulphate of Sodium - Glauber's Salt"
-  ], 
+  "Natural History": "Sulphate of Sodium - Glauber's Salt", 
   "dosage": "First to twelfth trituration."
 }

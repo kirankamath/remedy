@@ -15,11 +15,11 @@
     ], 
     "Stomach": [
       "Sensation as if food turned like a cork-screw on swallowing; desire for sweetened buttermilk", 
-      "FEELS COLD", 
+      "Feels cold", 
       "Acidity after every mouthful"
     ], 
     "Head": [
-      "Violent headache, extending from forehead TO OCCIPUT; first one eye, then the other", 
+      "Violent headache, extending from forehead to occiput; first one eye, then the other", 
       "Vertigo with tendency to fall forward", 
       "Fullness in head", 
       "Pain in ears", 
@@ -29,17 +29,17 @@
       "Can speak, but cannot understand speech", 
       "Fears apoplexy", 
       "Depressed; imagines he hears someone talking; dreads to be left alone", 
-      "FEAR OF RAIN"
+      "Fear of rain"
     ], 
     "Chest": [
-      "Hemorrhage from lungs black as ink and watery; stitches in APEX OF RIGHT LUNG", 
+      "Hemorrhage from lungs black as ink and watery; stitches in apex of right lung", 
       "Fainting caused by stooping", 
       "Sensation of a sponge in oesophagus", 
       "Oppression in going upstairs", 
       "Peeling off of skin from palms and fingers", 
-      "COUGH, with terrible pain through lungs", 
+      "Cough, with terrible pain through lungs", 
       "Worse right and expectoration of black blood", 
-      "COLDNESS IN CHEST AFTER DRINKING"
+      "Coldness in chest after drinking"
     ], 
     "Sleep": [
       "Dreams about dead persons"
@@ -48,10 +48,10 @@
       "Pain at root of nose", 
       "Ozaena; yellowish-green discharge", 
       "Mucous membrane wrinkled; nostrils plugged up with dry mucus", 
-      "CHRONIC NASAL CATARRH, WITH FETID ODOR AND GREENISH CRUSTS", 
+      "Chronic nasal catarrh, with fetid odor and greenish crusts", 
       "Pains from nose to ears on swallowing", 
       "Eruption about nose", 
-      "NOSTRILS STOPPED UP", 
+      "Nostrils stopped up", 
       "Nasal bleeding"
     ], 
     "Female": [
@@ -65,7 +65,7 @@
       "Glands and skin of axillae affected; itching with tetter"
     ], 
     "Throat": [
-      "Spasmodic contraction of ESOPHAGUS; passage of fluids arrested", 
+      "Spasmodic contraction of esophagus; passage of fluids arrested", 
       "Thick, very offensive, dry, greenish-yellow crusts upon the posterior pharyngeal wall and extremely foul breath"
     ], 
     "Extremities": [
@@ -78,12 +78,10 @@
     "Ears": [
       "Intolerable itching in ear", 
       "Sudden attack of nightly deafness, with roaring and crackling in ears, cracking in ears on swallowing", 
-      "Cerumen BLACK and hard, with difficult hearing, or serous GREENISH discharge, offensive; buzzing, and illusion of hearing"
+      "Cerumen black and hard, with difficult hearing, or serous greenish discharge, offensive; buzzing, and illusion of hearing"
     ]
   }, 
   "details": "Similar to snake-poisons generally. Has very marked BLACK DISCHARGES. COLD THINGS DISAGREE. Desire for sweetened buttermilk. Nausea and vomiting. Prostrating diarrhoea of consumption. Acidity of stomach, with faint feeling. Sudden pain in stomach. Spasm of oesophagus; pharynx constricted; food and liquids suddenly arrested, and then fall heavily into stomach. Spasms followed by paresis. COLD FEELING IN STOMACH. Fruits and ice-water lie very cold. RIGHT-SIDED PARALYSIS. Must have oscillatory motion. Rheumatic constitutions. Ear, nose and throat symptoms important.Preferable in otorrhoea and affections of right lung", 
-  "Natural History": [
-    "Coral-snake"
-  ], 
+  "Natural History": "Coral-snake", 
   "dosage": "Sixth to thirtieth potency."
 }

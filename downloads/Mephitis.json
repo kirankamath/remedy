@@ -6,13 +6,13 @@
       "Pain from over exertion; blur; unable to distinguish letters; conjunctiva red; eyes hot and painful"
     ], 
     "Respiratory": [
-      "VIOLENT SPASMODIC COUGH; WORSE at night", 
+      "Violent spasmodic cough; worse at night", 
       "Sudden contraction of glottis, when drinking or talking", 
       "Asthma, as if inhaling sulphur; cough from talking; hollow, deep, with rawness, hoarseness, and pains through chest", 
-      "FEW PAROXYSMS IN DAY-TIME, BUT MANY AT NIGHT; with vomiting after eating", 
-      "SPASMODIC AND WHOOPING-COUGH", 
-      "False croup; CANNOT EXHALE", 
-      "FOOD GOES DOWN WRONG WAY"
+      "Few paroxysms in day-time, but many at night; with vomiting after eating", 
+      "Spasmodic and whooping-cough", 
+      "False croup; cannot exhale", 
+      "Food goes down wrong way"
     ], 
     "Mind": [
       "Can neither sleep nor work", 
@@ -29,8 +29,6 @@
     ]
   }, 
   "details": "A great medicine for WHOOPING-COUGH. In order to insure its full success, it should be given in the lower dilutions from 1x to 3X. Suffocative feeling, asthmatic paroxysms, spasmodic cough; cough so violent, seems as if each spell would terminate life. Child must be raised up, gets blue in face, cannot exhale. Mucous rales through upper part of chest. Patient wants to bathe in ice-cold water.", 
-  "Natural History": [
-    "Skunk"
-  ], 
+  "Natural History": "Skunk", 
   "dosage": "First to third potency. Has a very short action."
 }

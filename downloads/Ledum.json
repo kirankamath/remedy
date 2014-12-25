@@ -13,7 +13,7 @@
       "Coldness, want of animal heat"
     ], 
     "Rectum": [
-      "ANAL FISSURES", 
+      "Anal fissures", 
       "Hemorrhoidal pain"
     ], 
     "Modalities": [
@@ -28,14 +28,14 @@
       "Vertigo when walking with tendency to fall to one side"
     ], 
     "Face": [
-      "RED PIMPLES ON FOREHEAD AND CHEEKS; stinging when touched", 
+      "Red pimples on forehead and cheeks; stinging when touched", 
       "Crusty eruption around nose and mouth"
     ], 
     "Respiratory": [
       "Burning in nose", 
       "Cough, with bloody expectoration", 
       "Tickling in larynx; spasmodic cough", 
-      "Whooping-cough; spasmodic DOUBLE INSPIRATION with sobbing", 
+      "Whooping-cough; spasmodic double inspiration with sobbing", 
       "Bronchitis with emphysema of aged", 
       "Suffocative arrest of breathing", 
       "Dyspnoea; chest feels constricted", 
@@ -51,16 +51,16 @@
     "Skin": [
       "Long discoloration after injuries", 
       "Ecchymosis", 
-      "ANTIDOTE TO RHUS POISONING", 
+      "Antidote to rhus poisoning", 
       "Itching of feet and ankles; worse, scratching and warmth of bed", 
       "Acne on forehead, sticking pain therein", 
-      "CARBUNCLES", 
+      "Carbuncles", 
       "Eczema"
     ], 
     "Extremities": [
       "Cracking in joints; worse, warmth of bed", 
       "Ball of great toe swollen", 
-      "SOLES PAINFUL, can hardly step on them", 
+      "Soles painful, can hardly step on them", 
       "Pressure in shoulder, worse motion", 
       "Gouty nodosities", 
       "Ankles swollen", 
@@ -68,12 +68,10 @@
       "Throbbing in right shoulder", 
       "Easy spraining of ankle", 
       "Swollen, hot, pale", 
-      "Rheumatism begins in lower limbs and ASCENDS"
+      "Rheumatism begins in lower limbs and ascends"
     ]
   }, 
   "details": "Affects especially the rheumatic diathesis, going through all the changes, from functional pain to altered secretions and deposits of solid, earthy matter in the tissues. The Ledum rheumatism begins in feet, and travels upward. It affects also the skin, producing an eruption like Poison-oak, and is antidotal thereto, as well as to stings of insects. THERE IS A GENERAL LACK OF ANIMAL HEAT, and yet heat of bed is intolerable. For punctured wounds, produced by sharp-pointed instruments or bites, particularly if the WOUNDED PARTS ARE COLD, this is the remedy. Tetanus with twitching of muscles near wound.", 
-  "Natural History": [
-    "Marsh-Tea"
-  ], 
+  "Natural History": "Marsh-Tea", 
   "dosage": "Third to thirtieth potency."
 }

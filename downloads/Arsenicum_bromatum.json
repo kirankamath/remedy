@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Bromide of Arsenic"
-  ], 
+  "Natural History": "Bromide of Arsenic", 
   "details": "Has proven a great anti-psoric and anti-syphilitic remedy. Herpetic eruptions, syphilitic excrescences, glandular tumors and indurations, carcinoma, locomotor ataxia, and obstinate intermittents, and DIABETES are all greatly influenced by this preparation.", 
   "symptoms": {
     "Face": [
-      "ACNE in young people", 
-      "ACME ROSACEA, with violet papules on nose; worse in the spring"
+      "Acne in young people", 
+      "Acme rosacea, with violet papules on nose; worse in the spring"
     ]
   }, 
   "name": "Arsenicum bromatum", 

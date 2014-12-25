@@ -7,13 +7,13 @@
     ], 
     "Respiratory": [
       "Bronchiectasis and phthisis", 
-      "Coryza; DRY, TEASING COUGH", 
+      "Coryza; dry, teasing cough", 
       "Bronchitis, especially of the aged"
     ], 
     "Stomach": [
-      "INCREASED APPETITE", 
+      "Increased appetite", 
       "Disagreeable taste, burning sensation, very thirsty", 
-      "NAUSEA"
+      "Nausea"
     ], 
     "Head": [
       "Dull frontal and supraorbital headache; worse moving eyes, cold air; better, warmth", 
@@ -42,10 +42,10 @@
       "Nausea at time of menses"
     ], 
     "Skin": [
-      "CROPS OF BOILS", 
-      "Heat and irritation; ITCHING", 
+      "Crops of boils", 
+      "Heat and irritation; itching", 
       "Scaly and itching eczema", 
-      "Psoriasis, Acne, rosacea, erysipelas", 
+      "Psoriasis, acne, rosacea, erysipelas", 
       "Pruritis of pregnancy"
     ], 
     "Throat": [
@@ -60,9 +60,6 @@
     ]
   }, 
   "details": "Its action on skin, mucous membranes, and kidneys is prompt and useful. It is strongly antiparasitic; redness, pain and inflammation; decreases tension. Excellent in winter coughs of old people. Polyarthritis. Chronic rheumatism. URIC ACID DIATHESIS. Hay-fever. CHRONIC HIVES. TUBERCULOSIS, AIDS NUTRITION. Alcoholism when nothing will stay on stomach.", 
-  "Natural History": [
-    ")(A Combination of Sulphonated Hydrocarbons; a FossilProduct of Complex Structure found in Tyrol; supposed", 
-    "to be Fish Deposits, contains 10% Sulphur"
-  ], 
+  "Natural History": "to be Fish Deposits, contains 10% Sulphur.)(A Combination of Sulphonated Hydrocarbons; a FossilProduct of Complex Structure found in Tyrol; supposed", 
   "dosage": "Lower potencies.Externally, it is used as an ointment, with Lanoline 20 to 50 per cent.; for chronic eczema and psoriasis, also acne rosacea and gouty joints. Chilblains, scabies. Rectal suppositories for senile prostate."
 }

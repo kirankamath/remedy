@@ -3,29 +3,29 @@
   "Relationship": "Compare: GELS.; BAPT.; BELL.; ACON.; FERR. PHOS. Antidotes STRYCHNINE - fluid extract, 20-40 drops.", 
   "symptoms": {
     "Heart": [
-      "Pulse SLOW, SOFT, WEAK, irregular, intermittent", 
-      "FEVER", 
+      "Pulse slow, soft, weak, irregular, intermittent", 
+      "Fever", 
       "Valvular disease", 
-      "BEATING OF PULSES THROUGHOUT BODY, especially in right thigh", 
+      "Beating of pulses throughout body, especially in right thigh", 
       "Aching pain in back of neck and shoulders", 
       "Severe pain in joints and muscles", 
       "Rapid pulse, low tension", 
       "Convulsive twitchings", 
       "Violent electric-like shocks in limbs", 
-      "ACUTE RHEUMATISM", 
+      "Acute rheumatism", 
       "Constant, dull, burning pain in region of heart"
     ], 
     "Head": [
       "Hot head, bloodshot eyes", 
-      "PAIN FROM NAPE OF NECK; cannot hold head up", 
       "Meningitis", 
       "Convulsive twitching of facial muscles", 
-      "Hippocratic face", 
       "Congestion intense, almost apoplectic", 
-      "Head retracted, PUPILS DILATED, double vision", 
+      "Pain from nape of neck; cannot hold head up", 
+      "Hippocratic face", 
       "Bloated, livid face", 
-      "FACE FLUSHED", 
+      "Head retracted, pupils dilated, double vision", 
       "Vertigo with nausea", 
+      "Face flushed", 
       "Sunstroke; head full, throbbing arteries"
     ], 
     "Respiratory": [
@@ -33,14 +33,14 @@
       "Sensation of a heavy load on chest", 
       "Congestion of lungs", 
       "Pneumonia, with faint feeling in stomach and violent congestion", 
-      "CROUP", 
+      "Croup", 
       "Menstrual colic before the appearance of the discharge with strangury"
     ], 
     "Stomach": [
       "Thirsty", 
       "Burning in stomach and oesophagus", 
       "Smallest quantity of food or drink immediately rejected", 
-      "HICCOUGH; excessive and painful, with SPASMS OF ESOPHAGUS", 
+      "Hiccough; excessive and painful, with spasms of esophagus", 
       "Nausea and vomiting", 
       "Constrictive pain; increased by warm drinks"
     ], 
@@ -58,7 +58,7 @@
       "Suppurative fevers with great variation of temperature"
     ], 
     "Mouth": [
-      "Tongue white or yellow, WITH RED STREAK DOWN THE MIDDLE", 
+      "Tongue white or yellow, with red streak down the middle", 
       "Feels scalded", 
       "Increased saliva"
     ], 
@@ -69,15 +69,13 @@
       "Suppressed menstruation, with congestion to head"
     ], 
     "Skin": [
-      "HOT SWEATING", 
+      "Hot sweating", 
       "Erythema", 
       "Itching in various parts", 
       "Erysipelas, with cerebral symptoms"
     ]
   }, 
   "details": "Paroxysms of auricular fibrillation. Induces fall of both systolic and diastolic blood pressure. Congestions, especially to lungs, base of brain, with nausea and vomiting. Twitchings and convulsions. Especially adapted to full-blooded, plethoric persons. Great prostration. Rheumatism of heart. BLOATED, LIVID FACE. Furious delirium. Effects of sunstroke. ESOPHAGITIS. (Farrington.) VERAT. VIR, will raise the opsonic index against the DIPLOCCUS PNEUMONIA, 70 to 109 per cent. Congestive stage and early manifestations of hepatization in pneumonia. Zigzag temperature. Clinically, it is known that such diseases as Tiegel's contracture, Thompson's Disease, athetosis and pseudo-hypertrophic muscular paralysis present a symptomatology quite like that produced by Veratrum VIR upon muscular tissue. (A. E. Hinsdale, M.D.)", 
-  "Natural History": [
-    "White American Hellebore"
-  ], 
+  "Natural History": "White American Hellebore", 
   "dosage": "Fifth to sixth potency."
 }

@@ -3,9 +3,9 @@
   "Relationship": "Compare: FLUOR-AC.; AUR; MEZ.; STAPH.Antidotes: BRY.; RHUS.", 
   "symptoms": {
     "Head": [
-      "TONGUE COATED ON ONE SIDE ONLY", 
+      "Tongue coated on one side only", 
       "Heat in head, especially in vertex", 
-      "Feels as if skull would burst; AS IF HEAD WERE SEPARATED FROM BODY", 
+      "Feels as if skull would burst; as if head were separated from body", 
       "Foul-smelling, ptyalism hot"
     ], 
     "Urine": [
@@ -26,8 +26,6 @@
     ]
   }, 
   "details": "Acts on lower tissues, muscles, bones and skin. Sudden, lightning jerks in different parts of the body. CRAVING FOR TOBACCO. Burning in stomach. Parts of the body feel separated. (BAPT.) FETID breath, urine, sweat.", 
-  "Natural History": [
-    "Spurge Laurel"
-  ], 
+  "Natural History": "Spurge Laurel", 
   "dosage": "First to sixth attenuation."
 }

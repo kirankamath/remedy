@@ -16,7 +16,7 @@
     ], 
     "Abdomen": [
       "Desire for stool immediately after eating", 
-      "DYSENTERY", 
+      "Dysentery", 
       "Pain in bowels; relieved by stool"
     ], 
     "Female": [
@@ -24,12 +24,10 @@
       "Menses suppressed; later, profuse"
     ], 
     "Ears": [
-      "Roaring and ringing; voice sounds strange; EARS SEEM TO CLOSE UP SUDDENLY"
+      "Roaring and ringing; voice sounds strange; ears seem to close up suddenly"
     ]
   }, 
   "details": "Abnormal lassitude. Nervous and tired feeling. Half dead, half alive feeling all over. Of use in chorea and reflex spasms (worms). Said to be a specific against effects of poison ivy.", 
-  "Natural History": [
-    "Tansy"
-  ], 
+  "Natural History": "Tansy", 
   "dosage": "Tincture, to third potency."
 }

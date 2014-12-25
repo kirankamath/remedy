@@ -4,18 +4,18 @@
   "symptoms": {
     "Stool": [
       "Cholera-like stools, with coldness and cramps", 
-      "INVOLUNTARY STOOLS; no sensation of passing faeces, anus wide open", 
-      "OLIVE-GREEN, THIN, PUTRID, BLOODY, WITH ICY COLDNESS AND INTOLERANCE OF BEING COVERED, WITH GREAT EXHAUSTION"
+      "Involuntary stools; no sensation of passing faeces, anus wide open", 
+      "Olive-green, thin, putrid, bloody, with icy coldness and intolerance of being covered, with great exhaustion"
     ], 
     "Head": [
       "Passive, congestive pain , with pale face", 
       "Head drawn back", 
-      "NOSEBLEED, dark, oozing", 
+      "Nosebleed, dark, oozing", 
       "Falling of hair; dry and gray"
     ], 
     "Face": [
-      "SPASMODIC DISTORTION", 
-      "PALE, PINCHED, SUNKEN", 
+      "Spasmodic distortion", 
+      "Pale, pinched, sunken", 
       "Livid spots on face", 
       "Cramps commence in face and spread over whole body"
     ], 
@@ -29,24 +29,24 @@
     "Eyes": [
       "Pupils dilated", 
       "Incipient cataract, senile especially in women", 
-      "EYES SUNKEN AND SURROUNDED BY A BLUE MARGIN"
+      "Eyes sunken and surrounded by a blue margin"
     ], 
     "Fever": [
-      "COLDNESS; cold, dry skin; cold, clammy sweat; excessive thirst", 
+      "Coldness; cold, dry skin; cold, clammy sweat; excessive thirst", 
       "Sense of internal heat"
     ], 
     "Stomach": [
       "Burning in stomach and abdomen; tympanites", 
-      "THIRST unquenchable", 
-      "UNNATURAL RAVENOUS APPETITE; CRAVES acids", 
+      "Thirst unquenchable", 
+      "Unnatural ravenous appetite; craves acids", 
       "Eructations of bad odor", 
       "Singultus, nausea; vomiting of blood and coffee-grounds fluid"
     ], 
     "Modalities": [
       "Worse: heat", 
-      "Worse: WARM COVERING", 
+      "Worse: warm covering", 
       "Better: cold", 
-      "Better: UNCOVERING", 
+      "Better: uncovering", 
       "Better: rubbing", 
       "Better: stretching out limbs"
     ], 
@@ -58,13 +58,13 @@
     ], 
     "Back": [
       "Myelitis", 
-      "LOCOMOTOR ATAXIA", 
+      "Locomotor ataxia", 
       "Spinal irritation, tingling of lower extremities; can bear only slightest covering", 
       "Formication and numbness"
     ], 
     "Mouth": [
-      "Tongue dry, CRACKED; BLOOD LIKE INK EXUDES, coated thick; viscid, yellowish, cold livid", 
-      "TINGLING OF TIP OF TONGUE, WHICH IS STIFF", 
+      "Tongue dry, cracked; blood like ink exudes, coated thick; viscid, yellowish, cold livid", 
+      "Tingling of tip of tongue, which is stiff", 
       "Tongue swollen, paralyzed"
     ], 
     "Female": [
@@ -72,49 +72,47 @@
       "Suppression of milk; breasts do not fill properly", 
       "Burning pains in uterus", 
       "Passive hemorrhages in feeble, cachetic women", 
-      "BROWNISH, OFFENSIVE LEUCORRHOEA", 
+      "Brownish, offensive leucorrhoea", 
       "Puerperal fever, putrid discharges, tympanitis, coldness, suppressed urine", 
-      "Menses irregular, copious, dark; CONTINUOUS OOZING OF WATERY BLOOD until next period", 
+      "Menses irregular, copious, dark; continuous oozing of watery blood until next period", 
       "After-pains", 
-      "Threatened abortion about the THIRD month", 
+      "Threatened abortion about the third month", 
       "Dark, offensive lochia", 
       "Menstrual colic, with coldness and intolerance of heat"
     ], 
     "Skin": [
-      "FORMICATION UNDER SKIN", 
+      "Formication under skin", 
       "Livid spots", 
       "Blue color", 
-      "VARICOSE ULCERS", 
-      "BURNING SENSATION; better by cold; WANTS PARTS UNCOVERED, though cold to touch", 
+      "Varicose ulcers", 
+      "Burning sensation; better by cold; wants parts uncovered, though cold to touch", 
       "Formication; petechiae", 
-      "GREAT AVERSION TO HEAT", 
+      "Great aversion to heat", 
       "Scleraema and oedema neonatorum", 
       "Raynaud's disease", 
-      "SKIN FEELS COLD TO TOUCH, yet covering is not tolerated", 
+      "Skin feels cold to touch, yet covering is not tolerated", 
       "Boils, small, painful, with green contents; mature slowly", 
-      "DRY GANGRENE, developing slowly", 
+      "Dry gangrene, developing slowly", 
       "Shriveled, numb; mottled dusky-blue tinge", 
       "Slight wounds continue to bleed"
     ], 
     "Sleep": [
       "Insomnia with restlessness, fever, anxious dreams", 
       "Profound and long", 
-      "INSOMNIA OF DRUG AND LIQUOR HABITUES"
+      "Insomnia of drug and liquor habitues"
     ], 
     "Extremities": [
       "Violent pain in finger-tips, tingling in toes", 
       "Numbness", 
       "Formication, pain and spasmodic movements", 
-      "ICY COLDNESS OF EXTREMITIES", 
-      "Fingers and feet bluish, shriveled, SPREAD APART OR BENT BACKWARDS, numb", 
+      "Icy coldness of extremities", 
+      "Fingers and feet bluish, shriveled, spread apart or bent backwards, numb", 
       "Trembling, staggering gait", 
-      "VIOLENT CRAMPS", 
+      "Violent cramps", 
       "Cold, dry hands and feet of excessive smokers with feeling of fuzziness in fingers"
     ]
   }, 
   "details": "Produces contraction of the un striped muscular fibers; hence a constringent feeling throughout the whole body. This produces an anaemic condition, coldness, numbness, petechiae, mortification, gangrene. A useful remedy for old people with shriveled skin - thin, scrawny old women. All the Secale conditions are BETTER FROM COLD; the whole body is pervaded by a sense of great heat. Hemorrhages; continued oozing; THIN, fetid, watery black blood. DEBILITY, ANXIETY, EMACIATION, THOUGH APPETITE AND THIRST MAY BE EXCESSIVE. Facial and abdominal muscles twitch. Secale decreases the flow of pancreatic juice by raising the blood pressure. (Hinsdale).", 
-  "Natural History": [
-    "ErgotClaviceps Purpurea"
-  ], 
+  "Natural History": "ErgotClaviceps Purpurea", 
   "dosage": "First to thirtieth potency. NON-HOMEOPATHIC USE. If hemorrhages of the puerperium, after the uterus is entirely emptied, when it fails to contract satisfactorily and in secondary puerperal hemorrhage the result of incomplete involution of the uterus, give one-half to one dram of the fluid extract. Remember Pagot's law, As long as the uterus contains anything, be it child, placenta, membranes, clots, never administer Ergot."
 }

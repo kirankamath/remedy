@@ -3,24 +3,24 @@
   "Relationship": "Compare: Senecio; Cannab. sat.; Helon.; Phos-ac.; Triticum; Epigea.", 
   "symptoms": {
     "Head": [
-      "LEFT-SIDED HEADACHE WITH VERTIGO", 
+      "Left-sided headache with vertigo", 
       "Sick headache beginning in morning, worse afternoon and evening, worse in cold air", 
       "Pain from left shoulder to occiput"
     ], 
     "Fever": [
       "Bone-pains", 
-      "NO THIRST during chill, but much frontal ache", 
+      "No thirst during chill, but much frontal ache", 
       "Violent shaking, with comparatively little coldness", 
-      "CHILL COMMENCES IN BACK"
+      "Chill commences in back"
     ], 
     "Urine": [
       "Strangury", 
-      "VESICAL IRRITABILITY IN WOMEN", 
+      "Vesical irritability in women", 
       "Burning in bladder and urethra on urinating", 
       "Insufficient flow; milky", 
       "Dysuria", 
       "Hematuria", 
-      "DIABETES INSIPIDUS", 
+      "Diabetes insipidus", 
       "Constant desire; bladder feels dull", 
       "Deep, dull pain in kidneys"
     ], 
@@ -34,8 +34,6 @@
     ]
   }, 
   "details": "Albuminuria, diabetes, strangury, IRRITABLE BLADDER, enlarged prostate are a special field for this remedy. Excellent in renal dropsy. Chills and pains run upwards. Impotency and sterility. Homesickness.", 
-  "Natural History": [
-    "Queen of the Meadow"
-  ], 
+  "Natural History": "Queen of the Meadow", 
   "dosage": "First potency."
 }

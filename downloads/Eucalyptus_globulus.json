@@ -7,7 +7,7 @@
       "Dull congestive headache", 
       "Exhilaration", 
       "Eyes smart and burn", 
-      "CORYZA; sore throat"
+      "Coryza; sore throat"
     ], 
     "Respiratory": [
       "Bronchorrhea", 
@@ -18,29 +18,29 @@
       "Expectoration white, thick mucus", 
       "Bronchitis in the aged", 
       "Irritative cough", 
-      "ASTHMA, with great dyspnoea and palpitation"
+      "Asthma, with great dyspnoea and palpitation"
     ], 
     "Stomach": [
       "Beating and goneness with pulsation in epigastric arteries", 
       "Spleen hard and contracted", 
-      "SLOW DIGESTION", 
+      "Slow digestion", 
       "Pain in epigastrium and upper abdomen ameliorated by food", 
       "Malignant disease of stomach with vomiting of blood and sour fluid", 
       "Much fetid gas"
     ], 
     "Urine": [
-      "Burning and tenesmus; CATARRH OF BLADDER; diuresis; URETHRAL CARUNCLE", 
+      "Burning and tenesmus; catarrh of bladder; diuresis; urethral caruncle", 
       "Bladder feels loss of expulsive force", 
       "Spasmodic stricture; gonorrhea", 
       "Urine contains pus and is deficient in urea", 
       "Suppurative inflammation of kidneys", 
-      "ACUTE NEPHRITIS COMPLICATION INFLUENZA", 
+      "Acute nephritis complication influenza", 
       "Hematuria"
     ], 
     "Abdomen": [
-      "DYSENTERY, with rectal heat; tenesmus; hemorrhage", 
+      "Dysentery, with rectal heat; tenesmus; hemorrhage", 
       "Aching pains in bowels with feeling of impending diarrhoea", 
-      "ACUTE DIARRHOEA", 
+      "Acute diarrhoea", 
       "Typhoid diarrhoea", 
       "Diarrhoea; stools thin, watery, preceded by sharp pains"
     ], 
@@ -52,9 +52,9 @@
       "Scarlet fever"
     ], 
     "Nose": [
-      "STUFFED-UP SENSATION; thin, watery coryza; nose does not stop running; tightness across bridge", 
+      "Stuffed-up sensation; thin, watery coryza; nose does not stop running; tightness across bridge", 
       "Ethmoid and frontal sinus involved", 
-      "CHRONIC CATARRHAL, PURULENT AND FETID DISCHARGE"
+      "Chronic catarrhal, purulent and fetid discharge"
     ], 
     "Female": [
       "Leucorrhoea, acrid, fetid", 
@@ -76,12 +76,10 @@
       "Rheumatic pains; worse at night, walking or carrying anything", 
       "Nodular swellings over metacarpal and metatarsal joints", 
       "Stiff, weary sensation", 
-      "PRICKING SENSATION, FOLLOWED BY PAINFUL ACHING"
+      "Pricking sensation, followed by painful aching"
     ]
   }, 
   "details": "Neutralizes ill effects of STRYCHNINE.Eucalyptus is a powerful antiseptic and destructive to low forms of life, a stimulating expectorant and an efficient diaphoretic. Atonic dyspepsia, gastric and intestinal catarrh. A remedy with marked effects on catarrhal processes, malaria, and intestinal disturbance. INFLUENZA. Fevers of a RELAPSING character. Produces diuresis and great increase of urea. Hemorrhages internally and locally. (HAMAN.) TYPHOID. Symptoms of exhaustion and toxaemia. Conditions of the mucous surfaces of the air passages, genitourinary organs and gastrointestinal tract. A gastrointestinal irritant with pain in stomach and upper intestines several hours after eating.", 
-  "Natural History": [
-    "Blue Gum-tree"
-  ], 
+  "Natural History": "Blue Gum-tree", 
   "dosage": "Tincture in on to 20 drop doses, and lower potencies. Also Oil of Eucalyptus in five-drop doses."
 }

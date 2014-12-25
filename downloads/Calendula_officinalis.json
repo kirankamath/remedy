@@ -7,24 +7,24 @@
     ], 
     "Fever": [
       "Heat in evening", 
-      "COLDNESS, GREAT SENSITIVENESS TO OPEN AIR; shuddering in back, skin feels warm to touch"
+      "Coldness, great sensitiveness to open air; shuddering in back, skin feels warm to touch"
     ], 
     "Stomach": [
-      "HEARTBURN WITH HORRIPILATIONS", 
+      "Heartburn with horripilations", 
       "Bulimia", 
-      "Nausea in CHEST", 
+      "Nausea in chest", 
       "Vomiting", 
-      "Epigastric DISTENTION", 
+      "Epigastric distention", 
       "Sinking sensation", 
       "Hunger immediately after nursing"
     ], 
     "Modalities": [
       "Worse: in damp", 
-      "Worse: HEAVY", 
-      "Worse: CLOUDY weather"
+      "Worse: heavy", 
+      "Worse: cloudy weather"
     ], 
     "Head": [
-      "Lacerated SCALP wounds", 
+      "Lacerated scalp wounds", 
       "Extremely nervous; easily frightened; tearing headache; weight on brain", 
       "Submaxillary glands swollen, painful to touch", 
       "Pain in right side of neck"
@@ -38,7 +38,7 @@
     "Female": [
       "Menses suppressed, with cough", 
       "Chronic endocervicitis", 
-      "WARTS THE OS EXTERNUM", 
+      "Warts the os externum", 
       "Menorrhagia", 
       "Os lower than natural", 
       "Uterine hypertrophy, sensation of weight and fullness in pelvis; stretching and dragging in groin; pain on sudden movements"
@@ -46,18 +46,16 @@
     "Skin": [
       "Superficial burns and scalds", 
       "Erysipelas", 
-      "YELLOW; goose-flesh", 
+      "Yellow; goose-flesh", 
       "Slough, proud flesh, and raised edges", 
       "Promotes favorable cicatrization, with least amount of suppuration"
     ], 
     "Ears": [
-      "Deafness; worse in DAMP surroundings and with eczematous conditions", 
+      "Deafness; worse in damp surroundings and with eczematous conditions", 
       "Hears best on a train, and distant sounds"
     ]
   }, 
   "details": "A most remarkable healing agent, applied locally. Useful for open wounds, parts that will not heal, ulcers, etc. Promotes healthy granulations and rapid healing by first intention. Hemostatic after tooth extraction. Deafness. Catarrhal conditions. Neuroma. Constitutional tendency to erysipelas. Pain is excessive and out of all proportion to injury. GREAT DISPOSITION TO TAKE COLD, ESPECIALLY IN DAMP WEATHER. Paralysis after apoplexy. Cancer, as an intercurrent remedy. Has remarkable power to produce local exudation and helps to make acrid discharge healthy and free. Cold hands.", 
-  "Natural History": [
-    "Marigold"
-  ], 
+  "Natural History": "Marigold", 
   "dosage": "Locally. Aqueous Calendula (Marigoldin.) for all wounds, the greatest healing agent. Also as an injection in leucorrhoea; internally, tincture, to third potency. For burns, sores, fissures, and abrasions, etc., use Calendula Cerate."
 }

@@ -19,15 +19,15 @@
       "Mouth and eyes open in rapid succession", 
       "Grating of teeth at night", 
       "Head jerked to one side", 
-      "HOT and FLUSHED", 
-      "TWITCHING OF FACIAL MUSCLES"
+      "Hot and flushed", 
+      "Twitching of facial muscles"
     ], 
     "Extremities": [
       "Limbs drag while walking", 
       "Twitching of limbs", 
-      "Convulsive, UNCONTROLLABLE MOVEMENTS OF ARMS AND LEGS", 
       "Intense redness in streaks, following course of lymphatics", 
-      "CONSTANT MOTION OF WHOLE BODY", 
+      "Convulsive, uncontrollable movements of arms and legs", 
+      "Constant motion of whole body", 
       "Unsteady gait", 
       "Restless hands", 
       "Tremulous"
@@ -38,8 +38,6 @@
     ]
   }, 
   "details": "Weakness, palpitation, nervousness, fear, like other spider preparations. Chorea is the principal therapeutic field of this. Sexual symptoms are important.", 
-  "Natural History": [
-    "Black Cuban Spider"
-  ], 
+  "Natural History": "Black Cuban Spider", 
   "dosage": "Third to thirtieth potency."
 }

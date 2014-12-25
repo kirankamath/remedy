@@ -4,22 +4,22 @@
   "symptoms": {
     "Eyes": [
       "Flickering and sparks before the eyes, spots on the cornea; conjunctivitis; cataract", 
-      "STRUMOUS PHLYCTENULAR KERATITIS", 
-      "SUBCUTANEOUS PALPEBRAL CYSTS"
+      "Strumous phlyctenular keratitis", 
+      "Subcutaneous palpebral cysts"
     ], 
     "Stomach": [
       "Bleeding hemorrhoids", 
       "Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies", 
       "Much wind in lower bowels", 
-      "Stool and Anus", 
+      "Stool and anus", 
       "Vomiting of undigested food", 
       "Itching of anus", 
       "Worse, pregnancy", 
-      "ACUTE INDIGESTION FROM FATIGUE and brain-fag; much flatulence", 
+      "Acute indigestion from fatigue and brain-fag; much flatulence", 
       "Vomiting of infants", 
       "Fissure of the anus, and intensely sore crack near the lower end of the bowel", 
       "Itching of anus as from pin-worms", 
-      "Hiccough  Flatulency", 
+      "Hiccough  flatulency", 
       "Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation", 
       "Diarrhoea in gouty subjects"
     ], 
@@ -34,11 +34,11 @@
       "Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down", 
       "Aneurism", 
       "Valvular disease", 
-      "Heart and Circulation", 
+      "Heart and circulation", 
       "Hoarseness", 
-      "VARICOSE OR ENLARGED VEINS", 
+      "Varicose or enlarged veins", 
       "Spasmodic cough", 
-      "CROUP"
+      "Croup"
     ], 
     "Head": [
       "Creaking noise in head", 
@@ -53,7 +53,7 @@
       "Follicular sore throat; plugs of mucus are continually forming in the crypts of the tonsils", 
       "Relaxed uvula, tickling referred to larynx", 
       "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
-      "Hypertrophy of Luschka's tonsil"
+      "Hypertrophy of luschka's tonsil"
     ], 
     "Nose": [
       "Cold in the head; stuffy cold; dry coryza; ozaena", 
@@ -65,12 +65,12 @@
     ], 
     "Neck and Back": [
       "Osseous tumors", 
-      "Chronic LUMBAGO; aggravated on beginning to move, and ameliorated on continued motion", 
+      "Chronic lumbago; aggravated on beginning to move, and ameliorated on continued motion", 
       "Pain lower part of back, with burning", 
-      "RACHITIC ENLARGEMENT OF FEMUR IN INFANTS"
+      "Rachitic enlargement of femur in infants"
     ], 
     "Ears": [
-      "CHRONIC SUPPURATION OF MIDDLE EAR", 
+      "Chronic suppuration of middle ear", 
       "Calcareous deposits on tympanum; sclerosis of ossicula and petrous portion of temporal bone, with deafness, ringing and roaring"
     ], 
     "Modalities": [
@@ -89,9 +89,9 @@
     "Skin": [
       "Indolent, fistulous ulcers, secreting thick, yellow pus", 
       "Suppurations with callous, hard edges", 
-      "INDURATIONS OF STONY HARDNESS", 
+      "Indurations of stony hardness", 
       "Knots, kernels, hardened glands in the female breast", 
-      "SWELLINGS OR INDURATED ENLARGEMENTS having their seat in the fasciae and capsular ligaments of joints, or in the tendons", 
+      "Swellings or indurated enlargements having their seat in the fasciae and capsular ligaments of joints, or in the tendons", 
       "Hard, elevated edges of ulcer, surrounding skin purple and swollen", 
       "Fissures or cracks in the palms of the hands, or hard skin", 
       "Whitlow", 
@@ -108,8 +108,6 @@
     ]
   }, 
   "details": "A powerful tissue remedy for hard, stony glands, varicose and enlarged veins, and malnutrition of bones. Hard knots in female breast. Goitre. Congenital hereditary syphilis. INDURATION THREATENING SUPPURATION. Many cases of cataract have undoubtedly been influenced favorably by it. Congenital syphilis manifesting itself in ulceration of mouth and throat, caries and necrosis with boring pains and heat in parts. Arteriosclerosis; threatened apoplexy. Tuberculosis. Used after operations, the tendency to adhesions is reduced.", 
-  "Natural History": [
-    "Fluor Spar - Fluoride of Lime"
-  ], 
+  "Natural History": "Fluor Spar - Fluoride of Lime", 
   "dosage": "Third to twelfth trituration. A chronic remedy. Needs some time before manifesting its effects. Should not be repeated too frequently."
 }

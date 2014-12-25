@@ -12,9 +12,9 @@
       "Heavy bruised sensation; better, from pressure", 
       "Twitching eyelids", 
       "Soreness, especially in occiput and vertex, worse, bending over", 
-      "DIZZY full feeling", 
+      "Dizzy full feeling", 
       "Dull pain in left temple", 
-      "BURSTING feeling with every step"
+      "Bursting feeling with every step"
     ], 
     "Respiratory": [
       "Substernal oppression", 
@@ -46,7 +46,7 @@
     "Bowels": [
       "Flatulent diarrhoea", 
       "Tenesmus and dry stool", 
-      "CONSTIPATION with some flatus"
+      "Constipation with some flatus"
     ], 
     "Extremities": [
       "Walked like a drunken man", 
@@ -55,12 +55,10 @@
     ], 
     "Ears": [
       "Soreness, deep under right tragus on swallowing", 
-      "DULLNESS OF HEARING"
+      "Dullness of hearing"
     ]
   }, 
   "details": "Provings of students. 2x potency.One of the most positive remedies for rheumatism and MUSCULAR PAINS. Pleurodynia, lumbago, gastralgia. Vesical tenesmus; DYSMENORRHOEA of myalgic origin; pain in head, neck, and face. INFLAMMATORY RHEUMATISM, joints swollen, painful; tendency to metastasis; profuse sweat. Rheumatic heart (Webster).", 
-  "Natural History": [
-    "California Coffee-tree"
-  ], 
+  "Natural History": "California Coffee-tree", 
   "dosage": "Tincture in 15-drop doses every four hours."
 }

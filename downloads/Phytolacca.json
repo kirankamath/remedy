@@ -4,7 +4,7 @@
   "symptoms": {
     "Urine": [
       "Nephritis", 
-      "Scanty, suppressed, WITH PAIN IN KIDNEY REGION"
+      "Scanty, suppressed, with pain in kidney region"
     ], 
     "Head": [
       "Scaly eruption on scalp", 
@@ -28,10 +28,10 @@
     ], 
     "Mouth": [
       "Teeth clenched; low lip drawn down; lips everted; jaws firmly set; chin drawn down on sternum", 
-      "Teething children with irresistible desire to BITE THE TEETH TOGETHER", 
-      "Mapped, indented, fissured, with yellow patch down center", 
+      "Teething children with irresistible desire to bite the teeth together", 
+      "Tongue red tip, feels rough and scalded; bleeding from mouth; blisters on side", 
       "Much stringy saliva", 
-      "Tongue RED TIP, feels rough and scalded; bleeding from mouth; blisters on side"
+      "Mapped, indented, fissured, with yellow patch down center"
     ], 
     "Respiratory": [
       "Rheumatism of lower intercostals", 
@@ -40,18 +40,18 @@
       "Aching pains in chest, through mid-sternum; with cough"
     ], 
     "Eyes": [
-      "ABUNDANT LACHRYMATION, HOT", 
+      "Abundant lachrymation, hot", 
       "Feeling of sand under lids", 
-      "SMARTING", 
+      "Smarting", 
       "Fistula lachrymalis", 
       "Tarsal edges feel hot"
     ], 
     "Nose": [
-      "Coryza; flow of mucus from ONE NOSTRIL AND FROM POSTERIOR NARES"
+      "Coryza; flow of mucus from one nostril and from posterior nares"
     ], 
     "Male": [
       "Painful induration of testicles", 
-      "SHOOTING ALONG PERINEUM TO PENIS"
+      "Shooting along perineum to penis"
     ], 
     "Heart": [
       "Feeling as if heart leaped into throat", 
@@ -76,14 +76,14 @@
       "Breast is hard, painful and of purple hue", 
       "Mammary abscess", 
       "Tumors of the breasts with enlarged axillary glands", 
-      "When child nurses, PAIN GOES FROM NIPPLE ALL OVER BODY", 
+      "When child nurses, pain goes from nipple all over body", 
       "Cancer of breast", 
       "Galactorrhoea", 
       "Cracks and small ulcers about nipples", 
       "Menses too copious and frequent", 
       "Ovarian neuralgia of right side", 
       "Irritable breasts, before and during menses", 
-      "Mastitis; MAMMAE HARD AND VERY SENSITIVE"
+      "Mastitis; mammae hard and very sensitive"
     ], 
     "Skin": [
       "Scarlatina-like rash", 
@@ -94,21 +94,21 @@
       "Warts and moles", 
       "Itches, becomes dry, shrunken, pale", 
       "Swelling and induration of glands", 
-      "VENEREAL BUBOES", 
-      "DISPOSITION TO BOILS, and when sloughing occurs"
+      "Venereal buboes", 
+      "Disposition to boils, and when sloughing occurs"
     ], 
     "Throat": [
       "Tension and pressure in parotid gland", 
       "Much pain at root of tongue; soft palate and tonsils swollen", 
-      "QUINSY; TONSILS AND FAUCES SWOLLEN, with burning pain; cannot swallow even water", 
-      "CANNOT SWALLOW ANYTHING HOT", 
-      "FOLLICULAR PHARYNGITIS", 
-      "Ulcerated sore throat and diphtheria; THROAT FEELS VERY HOT; PAIN AT ROOT OF TONGUE EXTENDING TO EAR", 
-      "TONSILS SWOLLEN, especially right; dark-red appearance", 
-      "SHOOTING PAIN INTO EARS ON SWALLOWING", 
-      "MUMPS", 
-      "DARK RED OR BLUISH RED", 
-      "THROAT FEELS ROUGH, NARROW, HOT", 
+      "Quinsy; tonsils and fauces swollen, with burning pain; cannot swallow even water", 
+      "Cannot swallow anything hot", 
+      "Follicular pharyngitis", 
+      "Ulcerated sore throat and diphtheria; throat feels very hot; pain at root of tongue extending to ear", 
+      "Tonsils swollen, especially right; dark-red appearance", 
+      "Shooting pain into ears on swallowing", 
+      "Mumps", 
+      "Dark red or bluish red", 
+      "Throat feels rough, narrow, hot", 
       "Pseudo-membranous exudation, grayish-white; thick, tenacious yellowish mucus, difficult to dislodge", 
       "Sensation of a lump in throat", 
       "Uvula large, dropsical"
@@ -120,15 +120,13 @@
       "Feet puffed; pain in ankles and feet", 
       "Pain in under side of thighs", 
       "Pain in legs, patient dreads to get up", 
-      "PAINS FLY LIKE ELECTRIC SHOCKS, shooting, lancinating, shifting rapidly", 
-      "ACHING OF HEELS; relieved by elevating feet", 
+      "Pains fly like electric shocks, shooting, lancinating, shifting rapidly", 
+      "Aching of heels; relieved by elevating feet", 
       "Neuralgia in toes", 
       "Shooting pain in right shoulder, with stiffness and inability to raise arm"
     ]
   }, 
   "details": "Aching, soreness, restlessness, prostration, are general symptoms guiding to Phytolacca. Pre-eminently a glandular remedy. Glandular swellings with heat and inflammation. Has a powerful effect on fibrous and osseous tissues; fasciae and muscle sheaths; acts on scar tissue. Syphilitic bone pains; chronic rheumatism. Sore throat, quinsy, and diphtheria. Tetanus and opisthotonos. Decrease of weight. Retarded dentition.", 
-  "Natural History": [
-    "Poke-root"
-  ], 
+  "Natural History": "Poke-root", 
   "dosage": "Tincture, to third potency. Externally for mastitis."
 }

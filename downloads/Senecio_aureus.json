@@ -4,13 +4,13 @@
   "symptoms": {
     "Head": [
       "Dull, stupefying headache", 
-      "WAVELIKE DIZZINESS from occiput to sinciput", 
-      "Fullness of nasal passages; burning; SNEEZING; profuse flow", 
-      "SHARP PAINS OVER LEFT EYE, AND THROUGH LEFT TEMPLE"
+      "Fullness of nasal passages; burning; sneezing; profuse flow", 
+      "Wavelike dizziness from occiput to sinciput", 
+      "Sharp pains over left eye, and through left temple"
     ], 
     "Respiratory": [
       "Dyspnoea on ascending", 
-      "COUGH LOOSE, with labored inspiration", 
+      "Cough loose, with labored inspiration", 
       "Acute inflammatory conditions of upper respiratory tract", 
       "Chest sore and raw", 
       "Hoarseness", 
@@ -21,9 +21,9 @@
     ], 
     "Urine": [
       "Nephritis", 
-      "GREAT HEAT AND CONSTANT URGING", 
+      "Great heat and constant urging", 
       "Irritable bladder of children, with headache", 
-      "Scanty, high-colored, BLOODY, with much mucus and TENESMUS", 
+      "Scanty, high-colored, bloody, with much mucus and tenesmus", 
       "Renal colic"
     ], 
     "Mind": [
@@ -33,22 +33,22 @@
     ], 
     "Abdomen": [
       "Pain around umbilicus; spreads all over abdomen; better, stool", 
-      "STRAINING AT STOOL; THIN, DARK, BLOODY, WITH TENESMUS", 
+      "Straining at stool; thin, dark, bloody, with tenesmus", 
       "Thin, watery stool, intermingled with hard lumps of feces"
     ], 
     "Face": [
-      "SHARP, CUTTING PAIN left side", 
+      "Sharp, cutting pain left side", 
       "Teeth very sensitive", 
-      "DRYNESS of fauces, throat and mouth"
+      "Dryness of fauces, throat and mouth"
     ], 
     "Sleep": [
       "Nervousness and sleeplessness", 
       "Great drowsiness, with unpleasant dreams"
     ], 
     "Female": [
-      "FUNCTIONAL AMENORRHOEA OF YOUNG GIRLS with backache", 
+      "Functional amenorrhoea of young girls with backache", 
       "Anaemic dysmenorrhoea with urinary disturbances", 
-      "MENSES RETARDED, suppressed", 
+      "Menses retarded, suppressed", 
       "After menstruation commences, these improve", 
       "Before menses, inflammatory conditions of throat, chest, and bladder", 
       "Premature and too profuse menses"
@@ -60,12 +60,10 @@
     "Male": [
       "Lascivious dreams, with involuntary emissions", 
       "Dull, heavy pain in spermatic cord, extending to testicles", 
-      "PROSTATE ENLARGED"
+      "Prostate enlarged"
     ]
   }, 
   "details": "Its action on the female organism has been clinically verified. Urinary organs also affected in a marked degree. Backaches of congested kidneys. Early cirrhosis of liver.", 
-  "Natural History": [
-    "Golden Rag wort"
-  ], 
+  "Natural History": "Golden Rag wort", 
   "dosage": "Tincture, to third potency. SENECIN., first trituration."
 }

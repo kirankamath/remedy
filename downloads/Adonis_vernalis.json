@@ -8,15 +8,15 @@
       "Mitral and aortic regurgitation", 
       "Chronic aortitis", 
       "Fatty heart", 
-      "Rheumatic Endocarditis", 
+      "Rheumatic endocarditis", 
       "Pulse rapid, irregular", 
       "Myocarditis, irregular cardiac action, constriction and vertigo", 
       "Fatty heart pericarditis", 
-      "PRECORDIAL PAIN, PALPATION, AND DYSPNEA"
+      "Precordial pain, palpation, and dyspnea"
     ], 
     "Head": [
       "Vertigo on rising, turning head quickly or lying down", 
-      "Feels light; aches across font, FROM OCCIPUT AROUND TEMPLES TO EYES", 
+      "Feels light; aches across font, from occiput around temples to eyes", 
       "Eyes dilated", 
       "Tinnitus", 
       "Scalp feels tight"
@@ -49,8 +49,6 @@
     ]
   }, 
   "details": "A heart medicine, after rheumatism or influenza, or Bright's disease, where the muscles of the heart are in stage of fatty degeneration, regulating the pulse and increasing the power of contractions of heart, with increased urinary secretions. Most valuable in cardiac dropsy. Low vitality, with weak heart and slow, weak pulse. Feeble heart action due only to functional disturbance. Hydrothorax, ascites. Anasarca.", 
-  "Natural History": [
-    "Pheasant's Eye"
-  ], 
+  "Natural History": "Pheasant's Eye", 
   "dosage": "Five to ten drops of the tincture."
 }

@@ -3,7 +3,7 @@
   "Relationship": "Compare: CANNAB. IND.; SEPIA; ZINC.; AGNUS; SELEN.", 
   "symptoms": {
     "Head": [
-      "Aches; worse, bending head FORWARD", 
+      "Aches; worse, bending head forward", 
       "Itching of hairy scalp and beard"
     ], 
     "Rectum": [
@@ -21,14 +21,14 @@
     ], 
     "Back": [
       "Weakness in legs and backache after emissions", 
-      "PAIN IN BACK AND SACRUM; WORSE WHILE SITTING; better, walking or lying"
+      "Pain in back and sacrum; worse while sitting; better, walking or lying"
     ], 
     "Abdomen": [
       "Shooting in liver", 
       "Pain in spleen"
     ], 
     "Sleep": [
-      "Unrefreshing; DISTURBED BY LEWD DREAMS"
+      "Unrefreshing; disturbed by lewd dreams"
     ], 
     "Skin": [
       "Pimples about nates, chin, hairy scalp", 
@@ -37,7 +37,7 @@
     "Extremities": [
       "Aching in wrist-joints", 
       "Foot-sweat, mostly between toes", 
-      "WEAK KNEES", 
+      "Weak knees", 
       "Shooting into thighs from liver", 
       "Tingling in feet", 
       "Trembling in limbs"
@@ -45,15 +45,13 @@
     "Male": [
       "Backache in lumbar region and weak legs", 
       "Pain in right testicle; better, urinating", 
-      "EMISSIONS without erection", 
+      "Emissions without erection", 
       "Pain in end of urethra; greenish discharge; brown spots on genitals and abdomen", 
       "Lewd dreams", 
       "Impotence"
     ]
   }, 
   "details": "Adapted to neurasthenic spinal states. Sexual disturbances. Fatigue, agitation, and bone pains, worse in morning.", 
-  "Natural History": [
-    "The Metal Cobalt"
-  ], 
+  "Natural History": "The Metal Cobalt", 
   "dosage": "Sixth to thirtieth potency."
 }

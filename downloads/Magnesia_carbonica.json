@@ -15,24 +15,24 @@
     ], 
     "Stomach": [
       "Craving for meat", 
-      "Eructations SOUR, AND VOMITING OF BITTER WATER", 
+      "Eructations sour, and vomiting of bitter water", 
       "Desire for fruits, acids, and vegetables"
     ], 
     "Modalities": [
-      "Worse: warmth of bed; change of temperature; cold wind or weather; every THREE WEEKS; rest", 
+      "Worse: warmth of bed; change of temperature; cold wind or weather; every three weeks; rest", 
       "Better: warm air; walking in open air"
     ], 
     "Stool": [
-      "MILK PASSES UNDIGESTED IN NURSING CHILDREN", 
-      "SOUR, with tenesmus  Constipation after mental shock or severe nervous strain", 
+      "Milk passes undigested in nursing children", 
+      "Sour, with tenesmus  constipation after mental shock or severe nervous strain", 
       "Bloody mucous stools", 
       "Preceded by griping, colicky pain", 
-      "GREEN, WATERY, FROTHY, LIKE A FROG-POND'S SCUM"
+      "Green, watery, frothy, like a frog-pond's scum"
     ], 
     "Abdomen": [
       "Rumbling, gurgling", 
       "Dragging towards pelvis", 
-      "VERY HEAVY; contractive, pinching pain in right iliac region"
+      "Very heavy; contractive, pinching pain in right iliac region"
     ], 
     "Face": [
       "Pain in malar bone, worse during rest, night", 
@@ -43,7 +43,7 @@
       "Toothache, especially during pregnancy; worse at night; worse, cold and quiet"
     ], 
     "Respiratory": [
-      "Tickling cough, with SALTY, bloody expectoration", 
+      "Tickling cough, with salty, bloody expectoration", 
       "Soreness in chest during motion", 
       "Constrictive pains in chest, with dyspnoea"
     ], 
@@ -54,8 +54,8 @@
       "Sticking pain in throat; hawking up fetid, pea-colored particles"
     ], 
     "Female": [
-      "SORE THROAT BEFORE MENSES APPEAR", 
-      "Menses too LATE AND SCANTY, thick, dark, like pitch; mucous leucorrhoea", 
+      "Sore throat before menses appear", 
+      "Menses too late and scanty, thick, dark, like pitch; mucous leucorrhoea", 
       "Menses flow only in sleep; more profuse at night , or when lying down; cease when walking", 
       "Before menses, coryza and nasal stoppage"
     ], 
@@ -83,8 +83,6 @@
     ]
   }, 
   "details": "Gastrointestinal catarrh, with marked acidity. Often used with advantage for complaints arising in people who have been taking this drug to sweeten the stomach. Is frequently indicated in children; whole body smells sour, and disposed to boils. Broken-down, worn-out women, with uterine and climacteric disorders. With numbness and distention in various parts and nerve prostration. Sensitive to the least start, noise, touch, etc. Affections of the antrum of Highmore. Effects of shock, blows, mental distress. Sense of numbness; nerve prostration; tendency to constipation after nervous strain; SENSITIVE TO LEAST TOUCH, it causes starting, or cold winds or weather or from excess of care and worry with constipation and heaviness. Intense neuralgic pains.", 
-  "Natural History": [
-    "Carbonate of Magnesia"
-  ], 
+  "Natural History": "Carbonate of Magnesia", 
   "dosage": "Third to thirtieth potency."
 }

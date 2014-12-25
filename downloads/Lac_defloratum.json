@@ -3,18 +3,16 @@
   "Relationship": "Compare: COLOSTRUM. (Diarrhoea in infants. Whole body smells sour. Colic.) NAT-MUR.", 
   "symptoms": {
     "Head": [
-      "INTENSE THROBBING, with nausea, vomiting, blindness, and obstinate constipation; worse, noise, light, motion, during menses, with great prostration, and better by pressure and bandaging head tightly", 
       "Pain begins in forehead to occiput, in morning on rising", 
+      "Intense throbbing, with nausea, vomiting, blindness, and obstinate constipation; worse, noise, light, motion, during menses, with great prostration, and better by pressure and bandaging head tightly", 
       "Despondent"
     ], 
     "Stool": [
       "Stools hard, large, with great straining; painful, lacerating anus", 
-      "CONSTIPATION"
+      "Constipation"
     ]
   }, 
   "details": "A remedy for diseases with faulty nutrition; sick headaches; with profuse flow of urine DURING pain. CAR SICKNESS.", 
-  "Natural History": [
-    "Skimmed Milk"
-  ], 
+  "Natural History": "Skimmed Milk", 
   "dosage": "Sixth, to thirtieth potency and higher."
 }

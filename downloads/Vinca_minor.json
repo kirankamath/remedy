@@ -1,20 +1,18 @@
 {
-  "Natural History": [
-    "Lesser Periwinkle"
-  ], 
+  "Natural History": "Lesser Periwinkle", 
   "symptoms": {
     "Head": [
       "Bald spots", 
-      "CORROSIVE ITCHING OF SCALP", 
+      "Corrosive itching of scalp", 
       "Whirling vertigo, with flickering before eyes", 
-      "PLICA POLONICA", 
-      "SPOTS ON SCALP, OOZING MOISTURE, MATTING HAIR TOGETHER", 
+      "Plica polonica", 
+      "Spots on scalp, oozing moisture, matting hair together", 
       "Tearing pain in vertex, ringing and whistling in ears", 
       "Irresistible desire to scratch"
     ], 
     "Nose": [
       "Tip gets red easily", 
-      "SORES IN NOSE", 
+      "Sores in nose", 
       "Seborrhoea upper lip and base of nose", 
       "Stoppage of one nostril", 
       "Moist eruption on septum"
@@ -23,16 +21,16 @@
       "Menorrhagia; continuous flow, particularly at climacteric", 
       "Excessive menstruation with great weakness", 
       "Hemorrhages from fibroids", 
-      "PASSIVE UTERINE HEMORRHAGES"
+      "Passive uterine hemorrhages"
     ], 
     "Skin": [
       "Hair matted together", 
       "Eczema of head and face; pustules, itching, burning, and offensive odor", 
       "Corrosive itching", 
-      "GREAT SENSITIVENESS OF SKIN, WITH REDNESS AND SORENESS from slight rubbing"
+      "Great sensitiveness of skin, with redness and soreness from slight rubbing"
     ], 
     "Throat": [
-      "DIPHTHERIA", 
+      "Diphtheria", 
       "Difficult swallowing", 
       "Ulcers", 
       "Frequent hawking"

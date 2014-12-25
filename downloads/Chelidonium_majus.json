@@ -15,47 +15,52 @@
       "Small lumps of mucus fly from mouth when coughing", 
       "Short, exhausting cough; sensation of dust not relieved by cough", 
       "Very quick and short inspirations; pain on deep inspiration", 
-      "Pain in RIGHT side of chest and shoulder, with embarrassed respiration", 
+      "Pain in right side of chest and shoulder, with embarrassed respiration", 
       "Whooping-cough; spasmodic cough; loose, rattling; expectoration difficult"
     ], 
     "Stomach": [
       "Gastralgia", 
       "Taste bitter, pasty", 
-      "EATING RELIEVES TEMPORARILY, especially when accompanied with hepatic symptoms", 
+      "Eating relieves temporarily, especially when accompanied with hepatic symptoms", 
       "Pain through stomach to back and right shoulder-blade", 
       "Tongue yellow, with imprint of teeth; large and flabby", 
-      "PREFERS HOT FOOD AND DRINK", 
-      "Nausea, vomiting; BETTER, VERY HOT WATER", 
+      "Prefers hot food and drink", 
+      "Nausea, vomiting; better, very hot water", 
       "Bad odor from mouth"
     ], 
     "Head": [
       "Right-sided headache down behind ears and shoulder-blade", 
-      "Icy coldness of occiput from the nape of neck; FEELS HEAVY AS LEAD", 
+      "Icy coldness of occiput from the nape of neck; feels heavy as lead", 
       "Heavy, lethargic; drowsiness very marked, with general numbness; vertigo, associated with hepatic disturbance", 
       "Inclination to fall forward", 
-      "NEURALGIA OVER RIGHT EYE, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver"
+      "Neuralgia over right eye, right cheek-bone and right ear, with excessive lachrymation, preceded by pain in liver"
     ], 
     "Urine": [
       "Dark, turbid", 
       "Profuse, foaming, yellow urine, like beer"
     ], 
     "Modalities": [
+      "Worse: right side", 
+      "Worse: motion", 
+      "Worse: touch", 
+      "Worse: change of weather", 
+      "Worse: very early in morning", 
       "Better: after dinner", 
       "Better: from pressure"
     ], 
     "Stool": [
-      "Constipation; stools hard, round balls, like sheep's dung, bright yellow, pasty; clay-colored, stools float in water; ALTERNATION OF DIARRHOEA AND CONSTIPATION", 
+      "Constipation; stools hard, round balls, like sheep's dung, bright yellow, pasty; clay-colored, stools float in water; alternation of diarrhoea and constipation", 
       "Burning and itching of anus"
     ], 
     "Back": [
       "Pain in nape", 
       "Pain at lower angle of left scapula", 
       "Stiff neck, head drawn to left", 
-      "FIXED PAIN UNDER INNER AND LOWER ANGLE OF RIGHT SCAPULA"
+      "Fixed pain under inner and lower angle of right scapula"
     ], 
     "Face": [
       "Wilted skin", 
-      "YELLOW; worse nose and cheeks"
+      "Yellow; worse nose and cheeks"
     ], 
     "Nose": [
       "Flapping of alae nasi"
@@ -66,7 +71,7 @@
     "Skin": [
       "Painful red pimples and pustules", 
       "Wilted skin", 
-      "Dry heat of skin; itches, YELLOW", 
+      "Dry heat of skin; itches, yellow", 
       "Sallow, cold, clammy", 
       "Old, spreading, offensive ulcers"
     ], 
@@ -83,14 +88,12 @@
       "Pain in arms, shoulders, hands, tips of fingers", 
       "Whole flesh sore to touch", 
       "Rheumatic pain in hips and thighs; intolerable pains in heels, as if pinched by too narrow a shoe; worse, right", 
-      "ICY COLDNESS OF TIPS OF FINGERS; wrists sore, tearing in metacarpal bones", 
+      "Icy coldness of tips of fingers; wrists sore, tearing in metacarpal bones", 
       "Paresis of the lower limbs with rigidity of muscles", 
       "Feels paralyzed"
     ]
   }, 
   "details": "A prominent liver remedy, covering many of the direct reflex symptoms of diseased conditions of that organ. The jaundiced skin, and especially the CONSTANT PAIN UNDER INFERIOR ANGLE OF RIGHT SCAPULA, are certain indications. Paralytic drawing and lameness in single parts. The great general lethargy and indisposition to make any effort is also marked. Ailments brought on or renewed by change of weather. SEROUS EFFUSIONS. HYDROCELE. BILIOUS COMPLICATIONS DURING GESTATION.", 
-  "Natural History": [
-    "Celandine"
-  ], 
+  "Natural History": "Celandine", 
   "dosage": "Tincture and lower attenuation."
 }

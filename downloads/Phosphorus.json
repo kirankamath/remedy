@@ -3,35 +3,35 @@
   "Relationship": "Antidote: Antidote to Phosph. Poisoning: TURPENTINE with which it forms an insoluble mass. Also POTASS PERMANG. NUX. PHOS. antidotes the nausea and vomiting of CHLOROFORM and ether.Complementary: ARS.; CEPA; LYC.; SILICA. SANGUISUGA 30 - Leech - (PERSISTENT HEMORRHAGES; effects of use of leeches.) PHOSPH. PENTACHLORIDE (great soreness of mucous membrane of EYES and nose, throat and chest sore).Compare: TUBERCULINUM follows PHOSPHOR well and complements its action. PHOSPHORUS HYDROGENATUS (crumbling teeth; hyperesthesia; locomotor ataxia); AMPHISBAENA (right jaw swollen and painful). THYMOL (Typical sexual neurasthenia; irritable stomach; aching throughout lumbar region; worse, mental and physical exertion); CALC.; CHIN.; ANTIM.; SEP.; LYC.; SULPH. In Pneumonia, Pneumococin 200 and Pneumotoxin (Cahis) taken from the Diplococcus lanceolatus of Fraenkel. Pneumonia and paralytic phenomena; pleuritic pain and pain in ilio-coecal region (Cartier).Incompatible: CAUST.", 
   "symptoms": {
     "Urine": [
-      "Hematuria, especially in acute Bright's disease", 
+      "Hematuria, especially in acute bright's disease", 
       "Turbid, brown, with red sediment"
     ], 
     "Stool": [
       "Long, narrow, hard, like a dog's", 
       "Discharge of blood from rectum, during stool", 
-      "WHITE, hard stools", 
+      "White, hard stools", 
       "Desire for stool on lying on left side", 
       "Bleeding hemorrhoids", 
-      "GREAT WEAKNESS AFTER STOOL", 
+      "Great weakness after stool", 
       "Involuntary; seems as if anus remained open", 
-      "PAINLESS, copious DEBILITATING diarrhoea", 
+      "Painless, copious debilitating diarrhoea", 
       "Green mucus, with grains like sago", 
       "Difficult to expel", 
-      "VERY FETID STOOLS AND FLATUS"
+      "Very fetid stools and flatus"
     ], 
     "Head": [
-      "Brain-fag, with COLDNESS OF OCCIPUT", 
+      "Brain-fag, with coldness of occiput", 
       "Vertigo, with faintness", 
       "Skin of forehead feels too tight", 
       "Itching of scalp, dandruff, falling out of hair in large bunches", 
       "Neuralgia; parts must be kept warm", 
-      "Vertigo of the aged, AFTER RISING", 
-      "HEAT COMES FROM SPINE", 
+      "Vertigo of the aged, after rising", 
+      "Heat comes from spine", 
       "Chronic congestion of head", 
       "Burning pains"
     ], 
     "Fever": [
-      "ADYNAMIC WITH LACK OF THIRST, but unnatural hunger", 
+      "Adynamic with lack of thirst, but unnatural hunger", 
       "Hectic, with small, quick pulse; viscid night-sweats", 
       "Chilly every evening", 
       "Cold knees at night", 
@@ -40,13 +40,13 @@
     ], 
     "Stomach": [
       "Region of stomach painful to touch, or on walking", 
-      "POST-OPERATIVE VOMITING", 
-      "THROWS UP INGESTA BY THE MOUTHFULS", 
+      "Post-operative vomiting", 
+      "Throws up ingesta by the mouthfuls", 
       "Hunger soon after eating", 
       "Belching large quantities of wind, after eating", 
       "Inflammation of stomach, with burning extending to throat and bowels", 
-      "Vomiting; WATER IS THROWN UP AS SOON AS IT GETS WARM IN THE STOMACH", 
-      "BAD EFFECTS OF EATING TOO MUCH SALT", 
+      "Bad effects of eating too much salt", 
+      "Vomiting; water is thrown up as soon as it gets warm in the stomach", 
       "Sour taste and sour eructations after every meal", 
       "Pain in stomach; relieved by cold food, ices", 
       "Cardiac opening seems contracted, too narrow; the food scarcely swallowed, comes up again"
@@ -58,36 +58,36 @@
       "Pancreatic disease", 
       "Large, yellow spots on abdomen", 
       "Liver congested", 
-      "A VERY WEAK, EMPTY, GONE SENSATION felt in whole abdominal cavity", 
+      "A very weak, empty, gone sensation felt in whole abdominal cavity", 
       "Jaundice", 
       "Acute hepatitis"
     ], 
     "Mouth": [
-      "THIRST FOR VERY COLD WATER", 
-      "Swelled and easily BLEEDING GUMS, ulcerated", 
+      "Thirst for very cold water", 
+      "Swelled and easily bleeding gums, ulcerated", 
       "Nursing sore mouth", 
       "Toothache after washing clothes", 
       "Stricture of esophagus", 
       "Dryness in pharynx and fauces", 
       "Burning in oesophagus", 
-      "Tongue DRY, SMOOTH, red or white, not thickly coated", 
+      "Tongue dry, smooth, red or white, not thickly coated", 
       "Persistent bleeding after tooth extraction"
     ], 
     "Respiratory": [
       "Hard, dry, tight, racking cough", 
-      "TIGHTNESS ACROSS CHEST; GREAT WEIGHT ON CHEST", 
-      "LARYNX VERY PAINFUL", 
-      "CANNOT TALK ON ACCOUNT OF PAIN IN LARYNX", 
-      "Whole body TREMBLES, with cough", 
-      "MUCH HEAT IN CHEST", 
+      "Tightness across chest; great weight on chest", 
+      "Larynx very painful", 
+      "Cannot talk on account of pain in larynx", 
+      "Whole body trembles, with cough", 
+      "Much heat in chest", 
       "Congestion of lungs", 
-      "Sharp stitches in chest; RESPIRATION QUICKENED, OPPRESSED", 
+      "Sharp stitches in chest; respiration quickened, oppressed", 
       "Hoarseness; worse evenings", 
       "Sputa rusty, blood-colored, or purulent", 
-      "Cough from tickling in throat; WORSE, COLD AIR, reading, laughing, TALKING, from going from warm room into cold air", 
+      "Cough from tickling in throat; worse, cold air, reading, laughing, talking, from going from warm room into cold air", 
       "Aphonia, worse evenings, with rawness", 
       "Pain in throat on coughing", 
-      "Pneumonia, with oppression; WORSE, LYING ON LEFT SIDE", 
+      "Pneumonia, with oppression; worse, lying on left side", 
       "Clergyman's sore throat; violent tickling in larynx while speaking", 
       "Do not give it too low or too frequently here, it may but hasten the destructive degeneration of tubercular masses", 
       "Tuberculosis in tall, rapidly-growing young people", 
@@ -97,12 +97,12 @@
       "Nervous coughs provoked by strong odors, entrance of a stranger; worse in the presence of strangers; worse lying upon left side; in cold room"
     ], 
     "Eyes": [
-      "GREEN HALO ABOUT THE CANDLELIGHT", 
+      "Green halo about the candlelight", 
       "Amaurosis from sexual excess", 
       "Sensation as if everything were covered with a mist or veil, or something pulled tightly over eyes", 
       "Paresis of extrinsic muscles", 
       "Diplopia, due to deviation of the visual axis", 
-      "ATROPHY of optic nerve", 
+      "Atrophy of optic nerve", 
       "Degenerative changes where soreness and curved lines are seen in old people", 
       "Patient sees better by shading eyes with hand", 
       "Oedema of lids and about eyes", 
@@ -110,7 +110,7 @@
       "Retinal trouble with lights and hallucination of vision", 
       "Fatigue of eyes and head even without much use of eyes", 
       "Pain in orbital bones", 
-      "LETTERS APPEAR RED", 
+      "Letters appear red", 
       "Black points seem to float before the eyes", 
       "Glaucoma", 
       "Pearly white conjunctiva and long curved lashes", 
@@ -118,31 +118,31 @@
       "Cataract"
     ], 
     "Face": [
-      "SWELLING AND NECROSIS OF LOWER JAW", 
+      "Swelling and necrosis of lower jaw", 
       "Tearing pain in facial bones; circumscribed redness in one or both cheeks", 
       "Pale, sickly, complexion; blue rings under eyes", 
       "Hippocratic countenance"
     ], 
     "Nose": [
       "Periostitis of nasal bones", 
-      "POLYPI; BLEEDING EASILY", 
+      "Polypi; bleeding easily", 
       "Foul imaginary odors", 
-      "Bleeding; EPISTAXIS INSTEAD OF MENSES", 
-      "Chronic catarrh, WITH SMALL HEMORRHAGES; handkerchief is always bloody", 
+      "Bleeding; epistaxis instead of menses", 
+      "Chronic catarrh, with small hemorrhages; handkerchief is always bloody", 
       "Over-sensitive smell", 
       "Fan-like motion of nostrils"
     ], 
     "Male": [
       "Lack of power", 
-      "IRRESISTIBLE DESIRE; involuntary emissions, with lascivious dreams"
+      "Irresistible desire; involuntary emissions, with lascivious dreams"
     ], 
     "Ears": [
-      "HEARING DIFFICULT, especially to human voice", 
+      "Hearing difficult, especially to human voice", 
       "Dullness of hearing after typhoid", 
       "Re-echoing of sounds"
     ], 
     "Heart": [
-      "Pulse rapid, small, and SOFT", 
+      "Pulse rapid, small, and soft", 
       "Violent palpitation with anxiety, while lying on left side", 
       "Feeling of warmth in heart", 
       "Heart dilated, especially right"
@@ -155,7 +155,7 @@
       "Better: cold food; cold; open air; washing with cold water; sleep"
     ], 
     "Mind": [
-      "HYPO-sensitive, indifferent", 
+      "Hypo-sensitive, indifferent", 
       "Easily vexed", 
       "Dread of death when alone", 
       "Ecstasy", 
@@ -172,7 +172,7 @@
       "Loss of memory"
     ], 
     "Back": [
-      "HEAT BETWEEN THE SHOULDER-BLADES", 
+      "Heat between the shoulder-blades", 
       "Burning in back; pain as if broken", 
       "Weak spine"
     ], 
@@ -182,17 +182,17 @@
       "Vivid dreams of fire; of hemorrhage", 
       "Goes to sleep late and awakens weak", 
       "Sleeplessness in old people", 
-      "SHORT NAPS AND FREQUENT WAKINGS", 
+      "Short naps and frequent wakings", 
       "Lascivious dreams"
     ], 
     "Female": [
       "Leucorrhoea profuse, smarting, corrosive, instead of menses", 
-      "SUPPURATION OF MAMMAE, burning, water, offensive discharge", 
       "Phlebitis", 
       "Weeps before menses", 
+      "Suppuration of mammae, burning, water, offensive discharge", 
       "Stitching pain in mammae", 
       "Metritis", 
-      "Menses too early and scanty - not profuse, BUT LAST TOO LONG", 
+      "Menses too early and scanty - not profuse, but last too long", 
       "Uterine polyps", 
       "Nymphomania", 
       "Fistulous tracks after mammary abscess", 
@@ -202,30 +202,28 @@
     ], 
     "Skin": [
       "Little ulcer outside of large ones", 
-      "SCURVY", 
+      "Scurvy", 
       "Ecchymosis", 
       "Fungous hematodes and excrescences", 
-      "WOUNDS BLEED VERY MUCH, EVEN IF SMALL; they heal and break out again", 
+      "Wounds bleed very much, even if small; they heal and break out again", 
       "Petechiae", 
       "Jaundice", 
-      "PURPURA HEMORRHAGICA"
+      "Purpura hemorrhagica"
     ], 
     "Extremities": [
       "Can scarcely hold anything with his hands", 
       "Stitches in elbow and shoulder joints", 
-      "ARMS AND HANDS BECOME NUMB", 
+      "Arms and hands become numb", 
       "Can lie only on right side", 
       "Burning of feet", 
       "Tibia inflamed and becomes necrosed", 
       "Ascending sensory and motor paralysis from ends of fingers and toes", 
       "Weakness and trembling, from every exertion", 
-      "JOINTS SUDDENLY GIVE WAY", 
+      "Joints suddenly give way", 
       "Post-diphtheritic paralysis, with formication of hands and feet"
     ]
   }, 
   "details": "Produces a picture of destructive metabolism. Causes yellow atrophy of the liver and sub-acute hepatitis. Tall, slender persons, narrow chested, with thin, transparent skin, weakened by loss of animal fluids, with great nervous debility, emaciation, amative tendencies, seem to be under the special influence of Phosphorus. Great susceptibility to external impressions, to light, sound, odors, touch, electrical changes, thunder-storms. SUDDENNESS of symptoms, sudden prostration, faints, sweats, shooting pains, etc. Polycythemia. Blood extravasations; FATTY DEGENERATIONS, cirrhosis, caries, are pathological states often calling for Phosphorus. Muscular pseudo-hypertrophy, neuritis. Inflammation of the respiratory tract. Paralytic symptoms. Ill effects of Iodine and excessive use of salt; worse, LYING ON LEFT SIDE. Tertiary syphilis, skin lesions, and nervous debility. SCURVY. PSEUDO-HYPERTROPHIC PARALYSIS. Ataxia and adynamia. Osteo myelitis. Bone fragility.Phosphorus irritates, inflames and degenerates mucous membranes, irritates and inflames serous membranes, inflames spinal cord and nerves, causing paralysis, destroys bone, especially the lower jaw and tibia; disorganizes the blood, causing fatty degeneration of blood vessels and every tissue and organ of the body and thus gives rise to hemorrhages, and hematogenous jaundice.", 
-  "Natural History": [
-    "Phosphorus"
-  ], 
+  "Natural History": "Phosphorus", 
   "dosage": "Third to thirtieth potency. Should not be given too low or in too continuous doses. Especially in tuberculous cases. It may act as Euthanasia here."
 }

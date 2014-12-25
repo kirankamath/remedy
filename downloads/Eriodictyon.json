@@ -14,7 +14,7 @@
     "Respiratory": [
       "Burning in fauces", 
       "Chronic bronchitis, bronchial tuberculosis, with profuse, easily raised bronchial secretion, giving relief", 
-      "Wheezing; asthma, with coryza and MUCOUS SECRETIONS", 
+      "Wheezing; asthma, with coryza and mucous secretions", 
       "Dull pain in right lung"
     ], 
     "Male": [
@@ -22,8 +22,6 @@
     ]
   }, 
   "details": "A remedy for asthmatic and bronchial affections. Bronchial phthisis, with night-sweats and emaciation. Asthma relieved by expectoration. COUGH AFTER INFLUENZA. Furthers absorption of effusion in plural cavity. Appetite poor and impaired digestion. Whooping cough.", 
-  "Natural History": [
-    "Yerba Santa"
-  ], 
+  "Natural History": "Yerba Santa", 
   "dosage": "Tincture in doses of 2 to 20 drops and attenuations."
 }

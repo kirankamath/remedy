@@ -36,8 +36,8 @@
       "Carbuncle; old, torpid, indolent ulcers with biting, lancinating pain", 
       "Biting and stinging, red, swollen", 
       "Erysipelatous inflammation, especially of the cheek", 
-      "VESICULAR ERYSIPELAS", 
-      "Old torpid ulcer, pustules; GANGRENE", 
+      "Vesicular erysipelas", 
+      "Old torpid ulcer, pustules; gangrene", 
       "Ulcerating carcinoma and epithelioma of the skin"
     ], 
     "Extremities": [
@@ -46,8 +46,6 @@
     ]
   }, 
   "details": "An irritant to the skin and mucous membranes. Burning pain in bones. Pains in limbs and paralytic weakness in the joints. Important respiratory and skin symptoms. Terrible burning pains. PAINS OF CANCER. Everything appears larger than it really is.", 
-  "Natural History": [
-    "Spurge-The Resinous Juice of Euphorbia Resinifera"
-  ], 
+  "Natural History": "Spurge-The Resinous Juice of Euphorbia Resinifera", 
   "dosage": "Third to sixth potency."
 }

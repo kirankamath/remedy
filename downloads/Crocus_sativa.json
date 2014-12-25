@@ -1,14 +1,12 @@
 {
-  "Natural History": [
-    "Saffron"
-  ], 
+  "Natural History": "Saffron", 
   "symptoms": {
     "Eyes": [
       "Sensation as if she had been looking through too sharp spectacles", 
       "Appearances as of electric sparks", 
-      "EYES FEEL AS IF IN SMOKE", 
-      "SENSATION AS IF COLD AIR WAS RUSHING THROUGH EYE", 
-      "FEELING IN EYES AS AFTER VIOLENT WEEPING", 
+      "Eyes feel as if in smoke", 
+      "Sensation as if cold air was rushing through eye", 
+      "Feeling in eyes as after violent weeping", 
       "Threatened glaucoma; embolism of arteria centralis retinal", 
       "Must wipe eyes as if mucus or water were in them", 
       "Asthenopia with extreme photophobia", 
@@ -37,37 +35,37 @@
     "Mind": [
       "Vivid recollection from music heard", 
       "Sudden changes from hilarity to melancholy", 
-      "VACILLATING; pleasant mania; sings and laughs", 
+      "Vacillating; pleasant mania; sings and laughs", 
       "Happy and affectionate; then angry"
     ], 
     "Abdomen": [
       "Constipation in infants", 
-      "SENSATION OF SOMETHING ALIVE IN ABDOMEN, STOMACH, ETC., especially on left side", 
+      "Sensation of something alive in abdomen, stomach, etc., especially on left side", 
       "Crawling and stitches in anus", 
       "Abdomen swollen, feeling of something heavy", 
-      "OBSTINATE CONSTIPATION due to portal stagnation"
+      "Obstinate constipation due to portal stagnation"
     ], 
     "Back": [
       "Sudden feeling of coldness in back as if cold water were thrown over him; icy-cold extremities"
     ], 
     "Nose": [
-      "DARK, STRINGY, CLOTTED", 
-      "STRINGS OF DARK BLOOD hanging down the nose", 
+      "Dark, stringy, clotted", 
+      "Strings of dark blood hanging down the nose", 
       "Epistaxis"
     ], 
     "Female": [
-      "Threatened abortion, especially when hemorrhage is DARK AND STRINGY", 
-      "Menses dark, viscid, too frequent and copious, BLACK AND SLIMY", 
+      "Threatened abortion, especially when hemorrhage is dark and stringy", 
+      "Menses dark, viscid, too frequent and copious, black and slimy", 
       "A bounding feeling, as if something alive in right breast", 
       "Jerking pain in interior of left breast, as if drawn toward back by means of thread", 
-      "Uterine hemorrhage; CLOTS WITH LONG STRINGS; worse from least movement", 
+      "Uterine hemorrhage; clots with long strings; worse from least movement", 
       "Urging of blood to genitals"
     ], 
     "Extremities": [
       "Chorea and hysteria, with great alteration of feeling", 
       "Whole upper extremity falls asleep", 
       "Weakness in knees and legs", 
-      "Cracking in hip-joint and KNEES", 
+      "Cracking in hip-joint and knees", 
       "Spasmodic contractions and twitchings of single set of muscles", 
       "Pain in ankles and soles"
     ]

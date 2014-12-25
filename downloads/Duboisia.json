@@ -10,13 +10,13 @@
       "Dry cough with oppressed breathing"
     ], 
     "Mind": [
-      "Absent-minded, incoherent, SILLY AND NONSENSICAL, memory impaired"
+      "Absent-minded, incoherent, silly and nonsensical, memory impaired"
     ], 
     "Eyes": [
-      "MYDRIASIS", 
+      "Mydriasis", 
       "Hyperaemia of retina with weakness of accommodation, fundus red, blood-vessels full and tortuous; pupils dilated, with dim vision", 
-      "PAIN OVER EYE, between it and brow", 
-      "CONJUNCTIVITIS, acute and chronic", 
+      "Pain over eye, between it and brow", 
+      "Conjunctivitis, acute and chronic", 
       "Paralysis of accommodation"
     ], 
     "Extremities": [
@@ -25,8 +25,6 @@
     ]
   }, 
   "details": "Acts chiefly on the nervous system, eyes, upper respiratory tract. Recommended in pharyngitis sicca, with black, stringy mucus. It dilates the pupil, dries the mouth, checks perspiration, causes headache and drowsiness. On the eye it acts more promptly than Atropia, much stronger as a mydriatic. RED SPOT FLOATS IN THE FIELD OF VISION. Sensation as if stepping on empty space. VERTIGO WITH PALE FACE; not gastric in origin. Scarlet fever; locomotor ataxia. Palliative in exophthalmic goitre.", 
-  "Natural History": [
-    "Cork wood Elm"
-  ], 
+  "Natural History": "Cork wood Elm", 
   "dosage": "Third to twelfth potency."
 }

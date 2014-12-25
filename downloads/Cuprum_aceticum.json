@@ -4,7 +4,7 @@
   "symptoms": {
     "Head": [
       "Constant protrusion and retraction of tongue", 
-      "Loses consciousness; HEAD REELS WHEN IN HIGH-CEILING ROOM", 
+      "Loses consciousness; head reels when in high-ceiling room", 
       "Left-sided brow ague", 
       "Brain seems void", 
       "Violent throbbing and lancinating pains in forehead", 
@@ -44,8 +44,6 @@
     ]
   }, 
   "details": "Hay-fever, with burning excoriation, paroxysmal cough; tough, tenacious mucus, and fear of suffocation. PROTRACTED LABOR. Chronic psoriasis and lepra.", 
-  "Natural History": [
-    "Acetate of Copper"
-  ], 
+  "Natural History": "Acetate of Copper", 
   "dosage": "Third to sixth trituration."
 }

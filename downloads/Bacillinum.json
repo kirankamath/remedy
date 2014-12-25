@@ -9,10 +9,10 @@
       "Irritable, depressed"
     ], 
     "Respiratory": [
-      "CATARRHAL DYSPNEA", 
-      "OPPRESSION", 
-      "BUBBLING RALES AND MUCOPURULENT EXPECTORATION", 
-      "HUMID ASTHMA"
+      "Catarrhal dyspnea", 
+      "Oppression", 
+      "Bubbling rales and mucopurulent expectoration", 
+      "Humid asthma"
     ], 
     "Modalities": [
       "Worse: night and early morning; cold air"
@@ -25,13 +25,10 @@
     "Skin": [
       "Eczema of eyelids", 
       "Glands of neck enlarged and tender", 
-      "RINGWORM, pityriasis"
+      "Ringworm, pityriasis"
     ]
   }, 
   "details": "Bacillinum is especially indicated for lungs of old people, with chronic catarrhal condition and enfeebled pulmonary circulation, attacks of suffocation at night with difficult cough. Suffocative catarrh. Tubercular meningitis. Favors falling off of tartar of teeth. Constant disposition to take cold.Has been employed successfully in the treatment of tuberculosis; its good effects seen in the change of the sputum, which becomes decreased and more aerated and less purulent. Many forms of chronic non-tubercular disease are influenced favorably by Bacillinum, especially when bronchorrhea and dyspnoea are present. Respiratory pyorrhoea. THE PATIENT EXPECTORATES LESS.", 
-  "Natural History": [
-    "A Maceration of a Typical Tuberculous LungIntroduced by Dr", 
-    "Burnett"
-  ], 
+  "Natural History": "A Maceration of a Typical Tuberculous LungIntroduced by Dr. Burnett", 
   "dosage": "The dose is important. Should not be given below the thirtieth, and not repeated frequently. One dose a week often sufficient to bring about reaction. It is RAPID IN ACTION, and good results ought to be seen soon, otherwise there is no need of repetition."
 }

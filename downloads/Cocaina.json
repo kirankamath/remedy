@@ -10,26 +10,26 @@
       "Coldness with intense pallor"
     ], 
     "Stomach": [
-      "HEMORRHAGES from bowels, stomach", 
+      "Hemorrhages from bowels, stomach", 
       "Loss of appetite for solid food", 
-      "LIKES SWEETS"
+      "Likes sweets"
     ], 
     "Mind": [
       "Thinks he hears unpleasant remarks about himself", 
-      "Irrational JEALOUSY", 
-      "Constant desire to do something great, TO UNDERTAKE VAST FEATS OF STRENGTH", 
+      "Irrational jealousy", 
+      "Constant desire to do something great, to undertake vast feats of strength", 
       "Insomnia", 
-      "Frightful persecutory hallucinations; SEES AND FEELS BUGS AND WORMS", 
+      "Frightful persecutory hallucinations; sees and feels bugs and worms", 
       "Cerebral activity", 
       "Hallucinations of hearing", 
       "Personal appearance neglected", 
-      "MORAL SENSE BLUNTED", 
+      "Moral sense blunted", 
       "Talkative"
     ], 
     "Head": [
       "Throbbing and bursting sensation", 
       "Roaring and noises in head", 
-      "PUPILS DILATED", 
+      "Pupils dilated", 
       "Hearing greatly increased"
     ], 
     "Sleep": [
@@ -46,8 +46,6 @@
     ]
   }, 
   "details": "Besides the great usefulness of Cocaine as a local anaesthetic, it has specific homeopathic uses, though the symptoms are mainly clinical only. Sensation AS IF SMALL FOREIGN BODIES OR WORMS WERE UNDER THE SKIN.", 
-  "Natural History": [
-    "An Alkaloid from Erythroxylon Coca"
-  ], 
+  "Natural History": "An Alkaloid from Erythroxylon Coca", 
   "dosage": "Lower potencies. As a local application to mucous membranes, 2-4%."
 }

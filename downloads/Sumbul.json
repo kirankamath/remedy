@@ -3,9 +3,9 @@
   "Relationship": "Compare: ASAF.; MOSCH.", 
   "symptoms": {
     "Heart": [
-      "CARDIAC ASTHMA", 
+      "Cardiac asthma", 
       "Loses breath on any exertion", 
-      "NERVOUS PALPITATION", 
+      "Nervous palpitation", 
       "Aching in left arm, heavy, numb and weary", 
       "Neuralgia around left breast and left hypochondriac region", 
       "Pulse irregular"
@@ -21,11 +21,11 @@
       "Worse: active exercise; left side"
     ], 
     "Urine": [
-      "OILY PELLICLE ON SURFACE OF URINE"
+      "Oily pellicle on surface of urine"
     ], 
     "Female": [
       "Climacteric flushes", 
-      "ABDOMEN FULL, DISTENDED, AND PAINFUL", 
+      "Abdomen full, distended, and painful", 
       "Ovarian neuralgia"
     ], 
     "Throat": [
@@ -36,8 +36,6 @@
     ]
   }, 
   "details": "Has many hysterical and nervous symptoms, and is of use in neuralgic affections and anomalous, functional, cardiac disorders. NUMBNESS ON BECOMING COLD. Numbness on left side. INSOMNIA of delirium tremens (fifteen drops of tincture). Sensation as if water dropped down spine. Asthma. A tissue remedy for sclerosed arteries.", 
-  "Natural History": [
-    "Ferula SumbulMusk-root"
-  ], 
+  "Natural History": "Ferula SumbulMusk-root", 
   "dosage": "Tincture, to third potency. Dr. W. McGeorge advises the 2x every 3 hours for arteriosclerosis."
 }

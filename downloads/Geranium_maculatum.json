@@ -9,7 +9,7 @@
     ], 
     "Stomach": [
       "Catarrhal gastritis with profuse secretion, tendency to ulceration and passive hemorrhage", 
-      "LESSENS THE VOMITING IN GASTRIC ULCER"
+      "Lessens the vomiting in gastric ulcer"
     ], 
     "Stool": [
       "Constipation", 
@@ -17,7 +17,7 @@
       "Constant desire to go to stool, with inability to pass anything for some time"
     ], 
     "Mouth": [
-      "Dry; tip of tongue burning Pharyngitis"
+      "Dry; tip of tongue burning pharyngitis"
     ], 
     "Female": [
       "Postpartum hemorrhage", 
@@ -26,8 +26,6 @@
     ]
   }, 
   "details": "Habitual sick headaches. PROFUSE, HEMORRHAGES, pulmonary and from different organs. Vomiting of blood. ULCERATION OF STOMACH. ATONIC AND FOUL ULCERS. Summer complaint.", 
-  "Natural History": [
-    "Crane's-bill"
-  ], 
+  "Natural History": "Crane's-bill", 
   "dosage": "Tincture, half-dram doses in gastric ulcer. Tincture, to third attenuation, as a general rule. Locally, in ulcers, it will destroy the pyogenic membrane."
 }

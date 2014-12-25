@@ -3,22 +3,22 @@
   "Relationship": "Compare: ACON.; HEP.; BROM.; LACH.; MERC. PROT.; IOD. (Goitre.)", 
   "symptoms": {
     "Heart": [
-      "AWAKENED SUDDENLY AFTER MIDNIGHT WITH PAIN AND SUFFOCATION; is flushed, hot, and frightened to death", 
+      "Awakened suddenly after midnight with pain and suffocation; is flushed, hot, and frightened to death", 
       "Hypertrophy of heart, especially right, with asthmatic symptoms", 
       "Rapid and violent palpitation, with dyspnoea; cannot lie down; also feels best resting in horizontal position", 
       "Ebullition of blood, veins distended", 
       "Valvular insufficiency", 
       "Angina pectoris; faintness, and anxious sweat", 
-      "SURGING OF HEART INTO CHEST, AS IF IT WOULD FORCE OUT UPWARD"
+      "Surging of heart into chest, as if it would force out upward"
     ], 
     "Eyes": [
       "Watering; gummy or mucus discharge"
     ], 
     "Fever": [
-      "ATTACKS OF HEAT WITH ANXIETY; heat and redness of face and perspiration"
+      "Attacks of heat with anxiety; heat and redness of face and perspiration"
     ], 
     "Stomach": [
-      "Excessive thirst, GREAT HUNGER", 
+      "Excessive thirst, great hunger", 
       "Hiccough", 
       "Cannot bear tight clothing around trunk"
     ], 
@@ -40,16 +40,16 @@
       "Oppression and heat of chest, with sudden weakness", 
       "Irrepressible cough from a spot deep in chest, as if raw and sore", 
       "Bronchial catarrh, with wheezing, asthmatic cough, worse cold air, with profuse expectoration and suffocation; worse, lying with head low and in hot room", 
-      "Respiration short, panting, DIFFICULT; FEELING OF A PLUG IN LARYNX", 
+      "Respiration short, panting, difficult; feeling of a plug in larynx", 
       "Goitre, with suffocative spells", 
-      "The dry, chronic sympathetic cough or organic heart disease is relieved by Spongia", 
+      "The dry, chronic sympathetic cough or organic heart disease is relieved by spongia", 
       "Chest weak; can scarcely talk", 
       "Great dryness of all air-passages", 
-      "COUGH ABATES AFTER EATING OR DRINKING, especially warm drinks", 
+      "Cough abates after eating or drinking, especially warm drinks", 
       "Laryngeal phthisis", 
-      "HOARSENESS; LARYNX DRY, BURNS, CONSTRICTED", 
-      "CROUP; WORSE, DURING INSPIRATION AND BEFORE MIDNIGHT", 
-      "Cough, DRY, BARKING, CROUPY; larynx sensitive to touch"
+      "Hoarseness; larynx dry, burns, constricted", 
+      "Croup; worse, during inspiration and before midnight", 
+      "Cough, dry, barking, croupy; larynx sensitive to touch"
     ], 
     "Mouth": [
       "Tongue dry and brown; full of vesicles"
@@ -59,12 +59,12 @@
       "Fluent coryza, alternating with stoppage"
     ], 
     "Female": [
-      "Before menses, pain in sacrum, hunger, PALPITATION", 
+      "Before menses, pain in sacrum, hunger, palpitation", 
       "Amenorrhoea, with asthma", 
-      "DURING MENSES, wakes with suffocative spells"
+      "During menses, wakes with suffocative spells"
     ], 
     "Skin": [
-      "SWELLING AND INDURATION OF GLANDS; also exophthalmic; cervical glands swollen with tensive pain on turning head, painful on pressure; goitre", 
+      "Swelling and induration of glands; also exophthalmic; cervical glands swollen with tensive pain on turning head, painful on pressure; goitre", 
       "Itching; measles"
     ], 
     "Throat": [
@@ -76,19 +76,17 @@
       "Burning and stinging"
     ], 
     "Sleep": [
-      "AWAKES IN A FRIGHT, AND FEELS AS IF SUFFOCATING", 
+      "Awakes in a fright, and feels as if suffocating", 
       "Generally worse after sleep, or sleeps into an aggravation"
     ], 
     "Male": [
       "Heat in parts", 
       "Epididymitis", 
-      "SWELLING OF SPERMATIC CORD AND TESTICLES, WITH PAIN AND TENDERNESS", 
-      "ORCHITIS"
+      "Swelling of spermatic cord and testicles, with pain and tenderness", 
+      "Orchitis"
     ]
   }, 
   "details": "A remedy especially marked in the symptoms of the respiratory organs, cough, croup, etc. Heart affections and often indicated for the tubercular diathesis. Children with fair complexion, lax fiber; swollen glands. EXHAUSTION AND HEAVINESS OF THE BODY AFTER SLIGHT EXERTION, WITH ORGASM OF BLOOD TO CHEST, FACE. ANXIETY AND DIFFICULT BREATHING.", 
-  "Natural History": [
-    "Roasted Sponge"
-  ], 
+  "Natural History": "Roasted Sponge", 
   "dosage": "Second trituration, or tincture to third potency."
 }

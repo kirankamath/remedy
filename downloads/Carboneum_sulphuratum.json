@@ -16,7 +16,7 @@
       "Ears feel obstructed", 
       "Ulceration of the lips, anaesthesia of mouth and tongue", 
       "Headache and dizziness", 
-      "NOISES IN HEAD"
+      "Noises in head"
     ], 
     "Modalities": [
       "Worse: after breakfast; bathing", 
@@ -24,13 +24,13 @@
     ], 
     "Mind": [
       "Hallucination of sight and hearing", 
-      "Irritable, anxious, intolerant; STUPOR", 
+      "Irritable, anxious, intolerant; stupor", 
       "Sluggishness of mind", 
       "Dementia alternating with excitement", 
       "Changeable mood"
     ], 
     "Abdomen": [
-      "Pain with WANDERING SWELLINGS as from flatus", 
+      "Pain with wandering swellings as from flatus", 
       "Distention, with soreness and rumbling"
     ], 
     "Sleep": [
@@ -47,8 +47,8 @@
       "Neuritis", 
       "Cramps in limbs", 
       "Herpes on dorsal surface of hands", 
-      "FLYING PAINS, RETURNING REGULARLY for a long time", 
-      "Fingers swollen, INSENSIBLE, rigid, stiff", 
+      "Flying pains, returning regularly for a long time", 
+      "Fingers swollen, insensible, rigid, stiff", 
       "Feet insensible", 
       "Sciatica", 
       "Gait unsteady, tottering; worse in dark", 
@@ -63,12 +63,10 @@
       "Hearing impaired", 
       "Tinnitus aurium", 
       "Meniere's disease", 
-      "Buzzing and singing noises like an Aeolia harp"
+      "Buzzing and singing noises like an aeolia harp"
     ]
   }, 
   "details": "This drug has a deep and disorganizing action and an immense range of action judging from the symptomatology. Very useful in patients broken down by abuse of alcohol. Sensitive patients worse cold, wasted muscles, and skin and mucous membranes anaesthetic. Special affinity for eyes. Chronic rheumatism, sensitive and cold. Lack of vital heat. Diarrhoea every four to six weeks. Paralysis with intense congestion of nerve centers. Tabes. Sensory difficulties in limbs. IMPOTENCE, sciatica, come within the therapeutic sphere of this remedy. Chronic plumbism. DIMINISHED SENSIBILITY of arms, hands and feet. Peripheral neuritis.", 
-  "Natural History": [
-    "Alcohol Sulphuris - Bisulfide of Carbon"
-  ], 
+  "Natural History": "Alcohol Sulphuris - Bisulfide of Carbon", 
   "dosage": "First attenuation. Locally in facial neuralgia and sciatica."
 }

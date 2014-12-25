@@ -8,7 +8,7 @@
       "Dim sight"
     ], 
     "Respiratory": [
-      "DIFFICULT BREATHING", 
+      "Difficult breathing", 
       "Large accumulation of purulent matter and feeble expectoration; worse cold weather", 
       "Chronic bronchial catarrh", 
       "Heart beats stronger, extends to pit of stomach", 
@@ -25,8 +25,6 @@
     ]
   }, 
   "details": "A remedy for the aged and feeble, especially in chronic bronchitis. Ill humor. Sensitive to cold. Sensation of burning and scratching in neck and oesophagus.", 
-  "Natural History": [
-    "Gum Ammoniac"
-  ], 
+  "Natural History": "Gum Ammoniac", 
   "dosage": "Third trituration."
 }

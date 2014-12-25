@@ -3,26 +3,26 @@
   "Relationship": "Antidote: GELS.Compare: ARS.; PAULIN.; CYP; CHAMOM.", 
   "symptoms": {
     "Heart": [
-      "PALPITATION, with weak heart and dyspnoea"
+      "Palpitation, with weak heart and dyspnoea"
     ], 
     "Head": [
-      "HEADACHES OF HIGH ALTITUDES", 
+      "Headaches of high altitudes", 
       "Headache with vertigo, preceded by flashes of light", 
       "Fainting fit from climbing mountains", 
       "Diplopia", 
       "Like a band across forehead", 
       "Shocks coming from occiput with vertigo", 
       "Tongue furred", 
-      "NOISES IN EAR", 
+      "Noises in ear", 
       "Tinnitus"
     ], 
     "Respiratory": [
       "Weak vocal cords", 
       "Hawking of small, transparent pieces of mucus", 
-      "ASTHMA, spasmodic variety", 
-      "HOARSENESS; worse after talking", 
+      "Asthma, spasmodic variety", 
+      "Hoarseness; worse after talking", 
       "Hemoptysis", 
-      "WANT OF BREATH, SHORT BREATH, especially in aged athletes, and alcoholic users"
+      "Want of breath, short breath, especially in aged athletes, and alcoholic users"
     ], 
     "Stomach": [
       "Great satiety for a long time", 
@@ -51,8 +51,6 @@
     ]
   }, 
   "details": "The mountaineer's remedy. Useful in a variety of complaints incidental to mountain climbing, such as palpitation, dyspnoea, anxiety and insomnia. Exhausted nervous system from physical and mental strain. Cavities of teeth. LOSS OF VOICE. Give 5-6 drops, every half hour, two hours before expected demand on voice. Nocturnal enuresis. Emphysema (QUEBRACHO).", 
-  "Natural History": [
-    "Erythroxylon Coca"
-  ], 
+  "Natural History": "Erythroxylon Coca(The Divine Plant of the Incas - but the Spanish priests denounced it as un delusio del demonio)", 
   "dosage": "Tincture to third attenuation."
 }

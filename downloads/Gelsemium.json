@@ -5,23 +5,23 @@
     "Urine": [
       "Dysuria", 
       "Partial paralysis of bladder; flow intermittent", 
-      "PROFUSE, CLEAR, WATERY, with chilliness and tremulousness", 
-      "RETENTION"
+      "Profuse, clear, watery, with chilliness and tremulousness", 
+      "Retention"
     ], 
     "Stool": [
       "Stool painless or involuntary", 
-      "Diarrhoea FROM EMOTIONAL EXCITEMENT, fright, bad news", 
+      "Diarrhoea from emotional excitement, fright, bad news", 
       "Partial paralysis of rectum and sphincter", 
-      "CREAM-COLORED , TEA-GREEN"
+      "Cream-colored , tea-green"
     ], 
     "Head": [
       "Delirious on falling asleep", 
       "Wants to have head raised on pillow", 
-      "PAIN IN TEMPLE, EXTENDING INTO EAR and wing of nose, chin", 
-      "DULL, heavy ache, with heaviness of eyelids; bruised sensation; better, compression and lying with head high", 
-      "Heaviness of head; BAND-FEELING around and OCCIPITAL headache", 
+      "Pain in temple, extending into ear and wing of nose, chin", 
+      "Dull, heavy ache, with heaviness of eyelids; bruised sensation; better, compression and lying with head high", 
+      "Heaviness of head; band-feeling around and occipital headache", 
       "Headache, with muscular soreness of neck and shoulders", 
-      "VERTIGO, spreading from occiput", 
+      "Vertigo, spreading from occiput", 
       "Scalp sore to touch", 
       "Headache preceded by blindness; better, profuse urination"
     ], 
@@ -29,23 +29,23 @@
       "Heat and sweat stages, long and exhausting", 
       "Chill, without thirst, along spine; wave-like, extending upward from sacrum to occiput", 
       "Chilliness up and down back", 
-      "NERVOUS CHILLS", 
+      "Nervous chills", 
       "Dumb-ague, with much muscular soreness, great prostration, and violent headache", 
-      "WANTS TO BE HELD, BECAUSE HE SHAKES SO", 
+      "Wants to be held, because he shakes so", 
       "Bilious remittent fever, with stupor, dizziness, faintness; thirstless, prostrated", 
       "Pulse slow, full, soft, compressible"
     ], 
     "Stomach": [
       "Sensation of emptiness and weakness at the pit of the stomach, or of an oppression, like a heavy load", 
       "Hiccough; worse in the evening", 
-      "As a rule, the Gelsemium patient has no thirst"
+      "As a rule, the gelsemium patient has no thirst"
     ], 
     "Mouth": [
-      "Tongue numb, thick, coated, yellowish, TREMBLE, paralyzed", 
+      "Tongue numb, thick, coated, yellowish, tremble, paralyzed", 
       "Putrid taste and breath"
     ], 
     "Respiratory": [
-      "SPASM OF THE GLOTTIS", 
+      "Spasm of the glottis", 
       "Aphonia; acute bronchitis, respiration quickened, spasmodic affections of lungs and diaphragm", 
       "Oppression about chest", 
       "Slowness of breathing, with great prostration", 
@@ -56,14 +56,14 @@
       "Disturbed muscular apparatus", 
       "Corrects blurring and discomfort in eyes even after accurately adjusted glasses", 
       "One pupil dilated, the other contracted", 
-      "SEROUS INFLAMMATIONS", 
-      "Ptosis; EYELIDS heavy; patient can hardly open them", 
+      "Serous inflammations", 
+      "Ptosis; eyelids heavy; patient can hardly open them", 
       "Bruised pain back of the orbits", 
-      "DIM-SIGHTED; pupils dilated and insensible to light", 
-      "ORBITAL NEURALGIA, WITH CONTRACTION AND TWITCHING OF MUSCLES", 
+      "Dim-sighted; pupils dilated and insensible to light", 
+      "Orbital neuralgia, with contraction and twitching of muscles", 
       "Detached retina, glaucoma and descemetitis", 
       "Deep inflammations, with haziness of vitreous", 
-      "HYSTERICAL AMBLYOPIA", 
+      "Hysterical amblyopia", 
       "Double vision", 
       "Vision blurred, smoky"
     ], 
@@ -71,7 +71,7 @@
       "Facial muscles contracted, especially around the mouth", 
       "Chin quivers", 
       "Neuralgia of face", 
-      "HOT, HEAVY, FLUSHED, BESOTTED-LOOKING", 
+      "Hot, heavy, flushed, besotted-looking", 
       "Dusky hue of face, with vertigo and dim vision", 
       "Lower jaw dropped"
     ], 
@@ -84,15 +84,15 @@
     ], 
     "Male": [
       "Scrotum continually sweating", 
-      "Spermatorrhoea, WITHOUT ERECTIONS", 
+      "Spermatorrhoea, without erections", 
       "Gonorrhea, first stage; discharge scanty; tendency to corrode; little pain, but much heat; smarting at meatus", 
       "Genitals cold and relaxed"
     ], 
     "Heart": [
       "Slow pulse", 
-      "A FEELING AS IF IT WERE NECESSARY TO KEEP IN MOTION, OR ELSE HEART'S ACTION WOULD CEASE", 
+      "A feeling as if it were necessary to keep in motion, or else heart's action would cease", 
+      "Weak, slow pulse of old age", 
       "Palpitation; pulse soft, weak, full and flowing", 
-      "WEAK, SLOW PULSE OF OLD AGE", 
       "Pulse slow when quiet, but greatly accelerated on motion"
     ], 
     "Modalities": [
@@ -101,9 +101,9 @@
       "Worse: before a thunderstorm", 
       "Worse: emotion", 
       "Worse: or excitement", 
-      "Worse: BAD NEWS", 
+      "Worse: bad news", 
       "Worse: tobacco-smoking", 
-      "Worse: when thinking of his ailments; at ten AM", 
+      "Worse: when thinking of his ailments; at ten am", 
       "Better: bending forward", 
       "Better: by profuse urination", 
       "Better: open air", 
@@ -111,14 +111,14 @@
       "Better: stimulants"
     ], 
     "Mind": [
-      "DULLNESS, LANGUOR, LISTLESS", 
+      "Dullness, languor, listless", 
       "Absolute lack of fear", 
       "Emotional excitement, fear, etc., lead to bodily ailments", 
       "Discerningly lethargic", 
       "Bad effects from fright, fear, exciting news", 
       "Stage fright", 
       "Desire to be quiet, to be left alone", 
-      "APATHY REGARDING HIS ILLNESS", 
+      "Apathy regarding his illness", 
       "Child starts and grasps the nurse, and screams as if afraid of falling", 
       "Delirious on falling to sleep"
     ], 
@@ -141,17 +141,17 @@
     "Female": [
       "Pain extends to back and hips", 
       "Aphonia and sore throat during menses", 
-      "DYSMENORRHOEA, with scanty flow; menses retarded", 
       "Vaginismus", 
       "Sensation as if uterus were squeezed", 
       "Rigid os", 
+      "Dysmenorrhoea, with scanty flow; menses retarded", 
       "False labor-pains; pains pass up back"
     ], 
     "Skin": [
       "Scarlet fever with stupor and flushed face", 
       "Hot, dry, itching, measle-like eruption", 
       "Retrocedent, with livid spots", 
-      "MEASLES, CATARRHAL SYMPTOMS; AIDS IN BRINGING OUT ERUPTION", 
+      "Measles, catarrhal symptoms; aids in bringing out eruption", 
       "Erysipelas"
     ], 
     "Throat": [
@@ -159,12 +159,12 @@
       "Tonsillitis; shooting pain into ears", 
       "Throat feels rough, burning", 
       "Difficult swallowing", 
-      "PAIN FROM THROAT TO EAR", 
+      "Pain from throat to ear", 
       "Aphonia", 
       "Swallowing causes pain in ear", 
-      "FEELING OF A LUMP IN THROAT that cannot be swallowed", 
+      "Feeling of a lump in throat that cannot be swallowed", 
       "Itching and tickling in soft palate and nasopharynx", 
-      "POST-DIPHTHERITIC PARALYSIS", 
+      "Post-diphtheritic paralysis", 
       "Pain in sternocleidomastoid, back of parotid", 
       "Tonsils swollen"
     ], 
@@ -173,14 +173,12 @@
       "Writer's cramp", 
       "Fatigue after slight exercise", 
       "Professional neuroses", 
-      "Excessive TREMBLING and weakness of all limbs", 
+      "Excessive trembling and weakness of all limbs", 
       "Cramp in muscles of forearm", 
       "Hysteric convulsions"
     ]
   }, 
   "details": "Centers its action upon the nervous system, causing various degree of MOTOR PARALYSIS. General prostration. DIZZINESS, DROWSINESS, DULLNESS, AND TREMBLING. Slow pulse, tired feeling, mental apathy. PARALYSIS of various groups of muscles about the eyes, throat, chest, larynx, sphincter, extremities, etc. Post-diphtheritic paralysis. MUSCULAR WEAKNESS. Complete relaxation and prostration. Lack of muscular coordination. General depression from heat of sun. Sensitive to a falling barometer; cold and dampness brings on many complaints. Children fear falling, grab nurse or crib. Sluggish circulation. Nervous affections of cigar makers. INFLUENZA. Measles. Pellagra.", 
-  "Natural History": [
-    "Yellow Jasmine"
-  ], 
+  "Natural History": "Yellow Jasmine", 
   "dosage": "Tincture, to thirtieth attenuation; first to third most often used."
 }

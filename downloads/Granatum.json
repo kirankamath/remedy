@@ -3,18 +3,18 @@
   "Relationship": "Compare: PELLETIERINE (one of its constituents - an anthelmintic, especially for tapeworm); CINA; KOUSSO.", 
   "symptoms": {
     "Head": [
-      "VERTIGO VERY PERSISTENT", 
+      "Vertigo very persistent", 
       "Sunken eyes; pupils dilated; weak sight", 
       "Feels empty"
     ], 
     "Stomach": [
       "Poor digestion", 
       "Vomiting at night", 
-      "CONSTANT HUNGER", 
+      "Constant hunger", 
       "Loses flesh"
     ], 
     "Abdomen": [
-      "Pain in stomach and abdomen; worse ABOUT UMBILICUS ; Ineffectual urging", 
+      "Pain in stomach and abdomen; worse about umbilicus ; ineffectual urging", 
       "Itching at anus", 
       "Swelling resembling umbilical hernia", 
       "Dragging in vaginal region, as if hernia would protrude"
@@ -24,7 +24,7 @@
       "Pain between shoulders; even clothing is oppressive"
     ], 
     "Skin": [
-      "ITCHING IN PALMS", 
+      "Itching in palms", 
       "Jaundiced complexion", 
       "Sensation as if pimples would break out"
     ], 
@@ -36,8 +36,6 @@
     ]
   }, 
   "details": "As a vermifuge for the expulsion of tapeworm, and homeopathically for the following symptomatic indications. SALIVATION, with nausea, and vertigo. Spasm of the glottis.", 
-  "Natural History": [
-    "Pomegranate"
-  ], 
+  "Natural History": "Pomegranate", 
   "dosage": "First to third potency."
 }

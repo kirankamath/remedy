@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Balm of Gilead"
-  ], 
+  "Natural History": "Balm of Gilead", 
   "details": "Seems to have a remarkable power over acute colds, especially when accompanied by a deep, hoarse voice, or even aphonia. General insensibility of surface (worse, back and abdomen); rubbing and pounding borne without pain, and is grateful on account of warmth produced. Finger-ends thickened, horny; insensible to pinching and prickling. Instantaneous voice-producer. (COCA.)", 
   "symptoms": {
     "Head": [
@@ -13,7 +11,7 @@
     ], 
     "Respiratory": [
       "Sits bent forward with dry cough", 
-      "ACUTE HOARSENESS", 
+      "Acute hoarseness", 
       "Pharynx and larynx feel dry, and the voice weak and toneless", 
       "Throat and nostrils burn", 
       "Cough of children caused by naso-pharyngeal catarrh; mucus drops from posterior nares", 

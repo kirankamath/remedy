@@ -1,26 +1,24 @@
 {
-  "Natural History": [
-    "Skunk-cabbage-Ictodes"
-  ], 
+  "Natural History": "Skunk-cabbage-Ictodes", 
   "details": "For asthmatic complaints; worse from inhaling any dust. HYSTERIA. Erratic spasmodic pains. Will-o'-the-wisp like character of its subjective symptoms and its physometric property are special features. (Samuel Jones.) INFLATION AND TENSION IN THE ABDOMEN. Miller's asthma.", 
   "symptoms": {
     "Head": [
       "Red swelling across the bridge of the nose", 
       "Outward drawing from glabella", 
       "Better in open air", 
-      "Headache in SINGLE SPOTS, with VIOLENT PULSATION OF TEMPORAL ARTERIES", 
+      "Headache in single spots, with violent pulsation of temporal arteries", 
       "Absent-minded, irritable"
     ], 
     "Respiratory": [
       "Sneezing with pain in throat", 
       "Spasmodic croup", 
-      "ASTHMA; RELIEVED BY STOOL", 
+      "Asthma; relieved by stool", 
       "Troublesome respiration, with sudden feeling of anguish and sweat", 
       "Pain in chest, with difficult breathing", 
       "Tongue feels numb"
     ], 
     "Abdomen": [
-      "INFLATION AND TENSION in abdomen"
+      "Inflation and tension in abdomen"
     ]
   }, 
   "name": "Pothos foetidus", 

@@ -1,16 +1,14 @@
 {
-  "Natural History": [
-    "Jelly-fish"
-  ], 
+  "Natural History": "Jelly-fish", 
   "symptoms": {
     "Female": [
       "The secretion of milk was established after lack of it in all previous confinements", 
-      "Marked action on LACTEAL GLANDS"
+      "Marked action on lacteal glands"
     ], 
     "Skin": [
       "Vesicular eruption, especially on face, arms, shoulders, and breasts", 
       "Numbness; burning, pricking heat", 
-      "NETTLE RASH"
+      "Nettle rash"
     ]
   }, 
   "name": "Medusa", 

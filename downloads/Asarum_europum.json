@@ -19,7 +19,7 @@
       "Nausea; worse after eating", 
       "Great faintness", 
       "Loss of appetite, flatulence, eructation, and vomiting", 
-      "DESIRE FOR ALCOHOLIC DRINKS"
+      "Desire for alcoholic drinks"
     ], 
     "Head": [
       "Coryza, with sneezing", 
@@ -31,7 +31,7 @@
       "Better: from washing; in damp and wet weather"
     ], 
     "Mind": [
-      "SENSIBILITY INCREASED, EVEN FROM MERE IMAGINATION", 
+      "Sensibility increased, even from mere imagination", 
       "Thoughts vanish, with drawing pressure in forehead"
     ], 
     "Back": [
@@ -49,8 +49,8 @@
     ], 
     "Rectum": [
       "Prolapse", 
-      "STRINGS of odorless, yellow mucus pass from bowels", 
-      "UNDIGESTED STOOLS", 
+      "Strings of odorless, yellow mucus pass from bowels", 
+      "Undigested stools", 
       "Diarrhoea of tough mucus"
     ], 
     "Ears": [
@@ -61,8 +61,6 @@
     ]
   }, 
   "details": "A remedy for nervous affections, loss of energy, with excessive ERETHISM. SCRATCHING ON SILK OR LINEN OR PAPER UNBEARABLE. Pains and spasmodic muscular actions. Nervous deafness and asthenopia. Cold shivers from any emotion. Feels as if parts were pressed together. Tension and contractive sensations. ALWAYS FEELS COLD.", 
-  "Natural History": [
-    "European Snake-root"
-  ], 
+  "Natural History": "European Snake-root", 
   "dosage": "Third to sixth potency."
 }

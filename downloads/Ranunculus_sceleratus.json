@@ -1,37 +1,35 @@
 {
-  "Natural History": [
-    "Marsh Buttercup"
-  ], 
+  "Natural History": "Marsh Buttercup", 
   "details": "Is more irritating than others of this botanical family, as seen in the skin symptoms. BORING, GNAWING PAIN very marked. PEMPHIGUS. Periodical complaints. Fainting with pain in stomach.", 
   "symptoms": {
     "Head": [
-      "Frightful dreams about corpses, serpents, battles, etc. Fluent coryza, with sneezing and burning micturition", 
+      "Frightful dreams about corpses, serpents, battles, etc. fluent coryza, with sneezing and burning micturition", 
       "Gnawing in one spot left of vertex"
     ], 
     "Abdomen": [
       "Sensation of a plug behind umbilicus", 
-      "PAIN OVER REGION OF LIVER, WITH SENSATION AS IF DIARRHOEA WOULD SET IN", 
+      "Pain over region of liver, with sensation as if diarrhoea would set in", 
       "Pressure as of a plug behind right false ribs; worse, deep inspiration"
     ], 
     "Chest": [
       "Bruised pain and weakness in the chest every evening", 
-      "SORE BURNING BEHIND XIPHOID CARTILAGE", 
+      "Sore burning behind xiphoid cartilage", 
       "Integument sensitive"
     ], 
     "Mouth": [
-      "TONGUE MAPPED", 
+      "Tongue mapped", 
       "Denuded patches", 
       "Teeth and gums sensitive", 
-      "BURNING AND RAWNESS OF TONGUE", 
+      "Burning and rawness of tongue", 
       "Mouth sore and raw"
     ], 
     "Skin": [
-      "ACRID EXUDATION, WHICH MAKES SURROUNDING PARTS SORE", 
-      "VESICULAR ERUPTION, WITH TENDENCY TO FORM LARGE BLISTERS"
+      "Acrid exudation, which makes surrounding parts sore", 
+      "Vesicular eruption, with tendency to form large blisters"
     ], 
     "Extremities": [
-      "BORING PAIN", 
-      "Sudden burning sticking IN RIGHT TOE", 
+      "Boring pain", 
+      "Sudden burning sticking in right toe", 
       "Corns, with burning and soreness, especially when feet hang down", 
       "Gout in fingers and toes"
     ]

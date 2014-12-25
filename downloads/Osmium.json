@@ -4,17 +4,17 @@
   "symptoms": {
     "Eyes": [
       "Conjunctivitis", 
-      "GREEN COLORS SURROUND CANDLE-LIGHT", 
+      "Green colors surround candle-light", 
       "Increase in intraocular tension, dim sight, photophobia", 
       "Violent supra and infra-orbital neuralgia; violent pains and lachrymation", 
-      "GLAUCOMA; with iridescent vision"
+      "Glaucoma; with iridescent vision"
     ], 
     "Respiratory": [
       "Talking causes pain in larynx", 
       "Twitching of fingers, with spasmodic cough", 
       "Acute laryngitis; cough and expectoration of tough, stringy mucus", 
-      "Hoarse; PAIN IN LARYNX; sore sternum", 
-      "Noisy, DRY, HARD, COUGH, in violent short bursts, coming from low down, shaking the whole body", 
+      "Hoarse; pain in larynx; sore sternum", 
+      "Noisy, dry, hard, cough, in violent short bursts, coming from low down, shaking the whole body", 
       "Convulsive cough; feels as though membrane were torn from larynx"
     ], 
     "Head": [
@@ -35,8 +35,6 @@
     ]
   }, 
   "details": "Irritation and catarrh of respiratory organs. Eczema. Albuminuria. PAIN IN TRACHEA. Increases and gives odor to local perspiration. Causes ADHESION OF THE NAIL FOLD.", 
-  "Natural History": [
-    "The Element"
-  ], 
+  "Natural History": "The Element", 
   "dosage": "Sixth potency."
 }

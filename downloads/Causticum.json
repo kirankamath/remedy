@@ -4,7 +4,7 @@
   "symptoms": {
     "Urine": [
       "Expelled very slowly, and sometimes retained", 
-      "RETENTION after surgical operations", 
+      "Retention after surgical operations", 
       "Loss of sensibility on passing urine", 
       "Involuntary when coughing, sneezing", 
       "Involuntary during first sleep at night; also from slightest excitement"
@@ -36,17 +36,17 @@
       "Paralysis of tongue, with indistinct speech"
     ], 
     "Respiratory": [
-      "COUGH WITH RAW SORENESS OF CHEST", 
-      "Mucus under sternum, which he cannot QUITE REACH", 
+      "Cough with raw soreness of chest", 
+      "Mucus under sternum, which he cannot quite reach", 
       "Own voice roars in ears and distresses", 
       "Pain in chest, with palpitation", 
-      "Expectoration scanty; MUST BE SWALLOWED", 
+      "Expectoration scanty; must be swallowed", 
       "Difficulty of voice of singers and public speakers", 
-      "Cough WITH PAIN IN HIP, especially left worse in evening; BETTER, DRINKING COLD WATER; worse, warmth of bed", 
+      "Cough with pain in hip, especially left worse in evening; better, drinking cold water; worse, warmth of bed", 
       "Voice re-echoes", 
       "Sore streak down trachea", 
       "Larynx sore", 
-      "HOARSENESS with pain in chest; APHONIA", 
+      "Hoarseness with pain in chest; aphonia", 
       "Cannot lie down at night"
     ], 
     "Eyes": [
@@ -67,8 +67,8 @@
     "Nose": [
       "Scaly nose", 
       "Nostrils ulcerated", 
-      "CORYZA, WITH HOARSENESS", 
-      "PIMPLES AND WARTS"
+      "Coryza, with hoarseness", 
+      "Pimples and warts"
     ], 
     "Ears": [
       "Ringing, roaring, pulsating, with deafness; words and steps re-echo; chronic middle-ear catarrh; accumulation of ear-wax"
@@ -76,13 +76,13 @@
     "Modalities": [
       "Worse: dry", 
       "Worse: cold winds", 
-      "Worse: in CLEAR FINE weather", 
-      "Worse: COLD AIR; from motion of carriage", 
-      "Better: in DAMP", 
-      "Better: WET WEATHER; WARMTH"
+      "Worse: in clear fine weather", 
+      "Worse: cold air; from motion of carriage", 
+      "Better: in damp", 
+      "Better: wet weather; warmth"
     ], 
     "Mind": [
-      "INTENSELY SYMPATHETIC", 
+      "Intensely sympathetic", 
       "Child does not want to go to bed alone", 
       "Least thing makes it cry", 
       "Thinking of complaints, aggravates, especially hemorrhoids", 
@@ -99,9 +99,9 @@
     ], 
     "Female": [
       "Menses delay, late", 
-      "UTERINE INERTIA DURING LABOR", 
+      "Uterine inertia during labor", 
       "Leucorrhoea at night, with great weakness", 
-      "Menses cease at night; FLOW ONLY DURING DAY"
+      "Menses cease at night; flow only during day"
     ], 
     "Skin": [
       "Old burns that do not get well, and ill effects from burns", 
@@ -113,27 +113,25 @@
     ], 
     "Extremities": [
       "Slow in learning to walk", 
-      "Unsteadiness of MUSCLES OF FOREARM and hand", 
+      "Unsteadiness of muscles of forearm and hand", 
       "Cracking and tension in knees; stiffness in hollow of knee", 
       "Weak ankles", 
       "Dull, tearing pain in hands and arms", 
       "Numbness; loss of sensation in hands", 
       "Itching on dorsum of feet", 
-      "CONTRACTED TENDONS", 
-      "RESTLESS LEGS AT NIGHT", 
+      "Contracted tendons", 
+      "Rheumatic tearing in limbs; better by warmth, especially heat of bed", 
       "Paralysis of single parts", 
       "Burning in joints", 
       "Left-sided sciatica, with numbness", 
       "Unsteady walking and easily falling", 
-      "RHEUMATIC TEARING IN LIMBS; BETTER BY WARMTH, ESPECIALLY HEAT OF BED", 
       "Cannot walk without suffering", 
+      "Restless legs at night", 
       "Heaviness and weakness", 
       "Tearing joints"
     ]
   }, 
   "details": "Manifests its action mainly in chronic rheumatic, arthritic and paralytic affections, indicated by the tearing, drawing pains in the muscular and fibrous tissues, with deformities about the joints; progressive loss of muscular strength, tendinous contractures. Broken down seniles. In catarrhal affections of the air passages, and seems to choose preferable dark-complexioned and rigid-fibered persons. Restlessness at night, with tearing pains in joints and bones, and faint-like sinking of strength. This weakness progresses until we have gradually appearing paralysis. Local paralysis, vocal cords, muscles of deglutition, of tongue, eyelids, face, bladder and extremities. Children are slow to walk. The skin of a Caucasian person is of a DIRTY WHITE sallow, with warts, especially on the face. Emaciation due to disease, worry, etc., and of long standing. BURNING, RAWNESS, AND SORENESS are characteristic.", 
-  "Natural History": [
-    "Hahnemann's Tinctura acris sine Kali"
-  ], 
+  "Natural History": "Hahnemann's Tinctura acris sine Kali", 
   "dosage": "Third to thirtieth attenuation. In chronic ailments and especially in paralytic states, the higher potencies once or twice a week."
 }

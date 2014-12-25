@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Picrate of Ammonia"
-  ], 
+  "Natural History": "Picrate of Ammonia", 
   "details": "A remedy for malarial fever and neuralgia and so-called bilious headaches. Pain in occiput and mastoid region. Whooping cough.", 
   "symptoms": {
     "Head": [
       "Periodic bilious headaches", 
-      "Periodical neuralgia IN RIGHT SIDE OF OCCIPUT; boring extends to ear, orbit, and jaw", 
+      "Periodical neuralgia in right side of occiput; boring extends to ear, orbit, and jaw", 
       "Vertigo on rising"
     ]
   }, 

@@ -10,26 +10,26 @@
       "Feel irritable; child bores into them with fists"
     ], 
     "Respiratory": [
-      "CHILD RUBS FACE WITH FIST DURING COUGH", 
+      "Child rubs face with fist during cough", 
       "Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air", 
       "Frequent calls to urinate at night, passing large quantities", 
-      "VIOLENT, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with INVOLUNTARY SPURTING OF URINE AND SNEEZING", 
-      "DYSPNOEA AND STITCHES IN CHEST, and painful contraction of abdominal muscles", 
+      "Violent, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with involuntary spurting of urine and sneezing", 
+      "Dyspnoea and stitches in chest, and painful contraction of abdominal muscles", 
       "Cough of measles", 
       "Fluent coryza; margins of nostrils feel sore", 
-      "SNEEZING WITH COUGHING", 
+      "Sneezing with coughing", 
       "Sneezing; throat irritated; short, dry cough; must take a deep breath"
     ], 
     "Stomach": [
       "Pressure like a stone"
     ], 
     "Modalities": [
-      "Better: rest; WORSE", 
+      "Better: rest; worse", 
       "Better: motion"
     ], 
     "Urine": [
-      "INVOLUNTARY spurting of urine when coughing", 
-      "Great urging; MUCH WATERY URINE"
+      "Involuntary spurting of urine when coughing", 
+      "Great urging; much watery urine"
     ], 
     "Skin": [
       "Small, red spots over body, with prickling pain"
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "Acts especially on mucous membranes of the respiratory and digestive tracts, and also upon the kidneys. Valuable in chronic bronchitis of old people with mucous rales, dyspnoea, and scanty urine.A slow acting remedy. Corresponds to ailments requiring several days to reach their maximum. Persistent, dull, rheumatic pains permeate the body. A spleen medicine; stitches under left free ribs. Important heart and kidney medicine. BRONCHOPNEUMONIA.", 
-  "Natural History": [
-    "Sea-onion"
-  ], 
+  "Natural History": "Sea-onion", 
   "dosage": "First to third potency."
 }

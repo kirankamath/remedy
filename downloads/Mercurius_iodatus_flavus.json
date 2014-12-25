@@ -4,11 +4,11 @@
   "symptoms": {
     "Mouth": [
       "Tip and edges may be red and take imprint of teeth", 
-      "TONGUE COATED THICKLY; YELLOW AT THE BASE"
+      "Tongue coated thickly; yellow at the base"
     ], 
     "Throat": [
-      "CONSTANT INCLINATION TO SWALLOW", 
-      "Easily detached patches on inflamed pharynx and fauces; WORSE ON RIGHT TONSIL; much tenacious mucus", 
+      "Constant inclination to swallow", 
+      "Easily detached patches on inflamed pharynx and fauces; worse on right tonsil; much tenacious mucus", 
       "When only the superficial part of the tonsils is involved", 
       "Small ulcers on posterior pharynx", 
       "Swelling begins on right side", 
@@ -18,8 +18,6 @@
     ]
   }, 
   "details": "Throat affections, with greatly swollen glands and characteristic coating of tongue. Worse, right side. Chancre; induration remains long time. Swollen inguinal glands, large and hard. MAMMARY TUMORS, with tendency to much warm perspiration and gastric disturbances.", 
-  "Natural History": [
-    "Proto-iodide of Mercury"
-  ], 
+  "Natural History": "Proto-iodide of Mercury", 
   "dosage": "Second trituration."
 }

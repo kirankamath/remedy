@@ -121,7 +121,7 @@ def process_one_remedy(file_name):
             if current_list != None:
                 current_list.add(element)
 
-    special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose"])
+    special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose", "Natural History."])
     symptom_list = {}
     rename_pairs = {"Dose" : "dosage", "General" : "details"}
     for k, v in category_map.iteritems():

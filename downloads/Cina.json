@@ -6,16 +6,16 @@
       "Ill-humor", 
       "Desires many things, but rejects everything offered", 
       "Abnormal consciousness, as if having committed some evil deed", 
-      "Child VERY CROSS; does not want to be touched, or crossed, or carried"
+      "Child very cross; does not want to be touched, or crossed, or carried"
     ], 
     "Stool": [
-      "ITCHING OF ANUS  Worms", 
+      "Itching of anus  worms", 
       "White mucus, like small pieces of popped corn, preceded by pinching colic"
     ], 
     "Eyes": [
       "Eyestrain, especially when presbyopia sets in", 
       "Weak sight from masturbation", 
-      "PULSATION OF SUPERCILIARY MUSCLE", 
+      "Pulsation of superciliary muscle", 
       "Dilated pupils; yellow vision", 
       "Strabismus from abdominal irritation"
     ], 
@@ -24,7 +24,7 @@
       "Much hunger; colicky pains; chilliness, with thirst", 
       "Light chill", 
       "Much fever, associated with clean tongue", 
-      "In Cina fever, face is cold and hands warm"
+      "In cina fever, face is cold and hands warm"
     ], 
     "Stomach": [
       "Vomiting and diarrhoea immediately after eating and drinking", 
@@ -33,11 +33,11 @@
       "Desires many and different things", 
       "Craving for sweets", 
       "Epigastric pain; worse, first waking in morning and before meals", 
-      "HUNGRY, digging, gnawing sensation"
+      "Hungry, digging, gnawing sensation"
     ], 
     "Abdomen": [
       "Bloated and hard abdomen", 
-      "TWISTING PAIN ABOUT NAVEL"
+      "Twisting pain about navel"
     ], 
     "Respiratory": [
       "Child is afraid to speak of move for fear of bringing on paroxysm of coughing", 
@@ -47,7 +47,7 @@
       "Gagging cough in the morning", 
       "Cough so violent as to bring tears and sternal pains; feels as if something had been torn off", 
       "Cough ends in a spasm", 
-      "GURGLING FROM THROAT TO STOMACH AFTER COUGHING", 
+      "Gurgling from throat to stomach after coughing", 
       "Violent recurring paroxysms, as of down in throat", 
       "Whooping-cough"
     ], 
@@ -57,17 +57,17 @@
       "Relieved by stooping"
     ], 
     "Face": [
-      "WHITE AND BLUISH ABOUT THE MOUTH", 
+      "White and bluish about the mouth", 
       "Grits teeth during sleep", 
-      "PALE, hot, WITH DARK RINGS AROUND EYES", 
+      "Pale, hot, with dark rings around eyes", 
       "Intense, circumscribed redness of cheeks", 
       "Cold perspiration", 
-      "CHOREIC MOVEMENTS OF FACE and hands"
+      "Choreic movements of face and hands"
     ], 
     "Nose": [
-      "WANTS TO RUB IT and pick at it", 
+      "Wants to rub it and pick at it", 
       "Itching of nose all the time", 
-      "BORES AT NOSE till it bleeds"
+      "Bores at nose till it bleeds"
     ], 
     "Ears": [
       "Digging and scratching in ears"
@@ -87,7 +87,7 @@
       "Night terrors of children; cries out, screams, wakes frightened", 
       "Screams and talks in sleep", 
       "Child gets on hands and knees in sleep; on abdomen", 
-      "TROUBLES WHILE YAWNING", 
+      "Troubles while yawning", 
       "Grits teeth"
     ], 
     "Female": [
@@ -95,17 +95,15 @@
     ], 
     "Extremities": [
       "Paralyzed shocks; patient will jump suddenly, as though in pain", 
-      "CHILD STRETCHES OUT FEET SPASMODICALLY", 
+      "Child stretches out feet spasmodically", 
       "Nocturnal convulsions", 
       "Left foot in constant spasmodic motion", 
-      "SUDDEN INWARD JERKING OF FINGERS OF RIGHT HAND", 
+      "Sudden inward jerking of fingers of right hand", 
       "Child throws arms from side to side", 
-      "TWITCHING and jerking distortion of limbs, trembling"
+      "Twitching and jerking distortion of limbs, trembling"
     ]
   }, 
   "details": "This is a children's remedy, - big, fat, rosy, scrofulous, corresponding to many conditions that may be referred to intestinal irritation, such as worms and accompanying complaints. An irritability of temper, variable appetite, grinding of teeth, and even convulsions, with screams and violent jerkings of the hands and feet, are all within its range of action. The Cina patient is hungry, cross, ugly, and wants to be rocked. PAIN IN SHOCKS. Skin sensitive to touch.", 
-  "Natural History": [
-    "Worm-seed"
-  ], 
+  "Natural History": "Worm-seed", 
   "dosage": "Third attenuation. For nervous irritable children, thirtieth and two hundredth preferable.SANTONIN in first (with care) and third trituration."
 }

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Carbonate of Ammonia"
-  ], 
+  "Natural History": "Carbonate of Ammonia", 
   "symptoms": {
     "Urine": [
       "Urine white, sandy, bloody, copious, turbid and fetid", 
@@ -21,14 +19,14 @@
       "Itching at anus", 
       "Protruding piles, worse after stool, better lying down", 
       "Stools difficult, hard, and knotty", 
-      "BLEEDING PILES; WORSE DURING MENSES", 
+      "Bleeding piles; worse during menses", 
       "Flatulent hernia", 
       "Noise and pain in abdomen"
     ], 
     "Mouth": [
       "Vesicles on tongue", 
       "Great dryness of mouth and throat", 
-      "PRESSING TEETH TOGETHER SENDS SHOCKS THROUGH HEAD, EYES, AND EARS", 
+      "Pressing teeth together sends shocks through head, eyes, and ears", 
       "Taste sour; metallic", 
       "Toothache", 
       "Cracking of jaws on chewing"
@@ -39,10 +37,10 @@
       "Emphysema", 
       "Hoarseness", 
       "Chest feels tired", 
-      "MUCH OPPRESSION IN BREATHING; worse after any effort, and entering WARM ROOM, or ascending even a few steps", 
+      "Much oppression in breathing; worse after any effort, and entering warm room, or ascending even a few steps", 
       "Slow labored, stertorous breathing; bubbling sound", 
       "Pulmonary oedema", 
-      "Asthenic PNEUMONIA"
+      "Asthenic pneumonia"
     ], 
     "Eyes": [
       "Asthenopia", 
@@ -51,12 +49,12 @@
       "Eye-strain"
     ], 
     "Nose": [
-      "SNUFFLES of children", 
-      "STOPPAGE AT NIGHT, WITH LONG-CONTINUED CORYZA", 
+      "Snuffles of children", 
+      "Stoppage at night, with long-continued coryza", 
       "Tip of nose congested", 
       "Discharge of sharp, burning water", 
-      "EPISTAXIS AFTER WASHING AND AFTER EATING", 
-      "CANNOT BREATHE THROUGH NOSE", 
+      "Epistaxis after washing and after eating", 
+      "Cannot breathe through nose", 
       "Ozaena, blows bloody mucus from nose"
     ], 
     "Male": [
@@ -70,7 +68,7 @@
     ], 
     "Heart": [
       "Audible palpitation with fear, cold sweat, lachrymation, inability to speak, loud breathing and trembling hands", 
-      "HEART WEAK, wakes with difficult breathing and palpitation"
+      "Heart weak, wakes with difficult breathing and palpitation"
     ], 
     "Modalities": [
       "Worse: evenings", 
@@ -78,23 +76,23 @@
       "Worse: wet weather", 
       "Worse: wet applications", 
       "Worse: washing", 
-      "Worse: and during 3 to four AM", 
+      "Worse: and during 3 to four am", 
       "Worse: during menses", 
       "Better: lying on painful side and on stomach; in dry weather"
     ], 
     "Mind": [
       "Sad, weepy, unreasonable", 
       "Talking and hearing others talk affects greatly", 
-      "Forgetful, ill-humored, gloomy during STORMY WEATHER", 
-      "UNCLEANLINESS"
+      "Forgetful, ill-humored, gloomy during stormy weather", 
+      "Uncleanliness"
     ], 
     "Sleep": [
       "Starts from sleep strangling", 
-      "SLEEPINESS during the day"
+      "Sleepiness during the day"
     ], 
     "Female": [
       "Aversion to the other sex", 
-      "Menses too FREQUENT, PROFUSE, early, copious, clotted, black; colicky pains, and hard, difficult stool, with FATIGUE, especially of thighs; yawning and chilliness", 
+      "Menses too frequent, profuse, early, copious, clotted, black; colicky pains, and hard, difficult stool, with fatigue, especially of thighs; yawning and chilliness", 
       "Itching, swelling and burning of pudendum", 
       "Leucorrhoea burning, acrid, watery"
     ], 
@@ -111,7 +109,7 @@
       "Tendency to gangrenous ulceration of tonsils", 
       "Enlarged tonsils and glands of neck", 
       "Burning pain all down throat", 
-      "Diphtheria WHEN NOSE IS STOPPED UP"
+      "Diphtheria when nose is stopped up"
     ], 
     "Extremities": [
       "Hands cold and blue; distended veins", 

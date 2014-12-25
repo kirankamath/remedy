@@ -14,12 +14,12 @@
     ], 
     "Urine": [
       "Often replaces the use of the catheter", 
-      "Frequent desire; urine HEAVY, phosphatic", 
+      "Frequent desire; urine heavy, phosphatic", 
       "Dysuria and spasmodic retention", 
       "Renal colic", 
       "Urethritis; urine runs away in little jets", 
       "Chronic cystitis", 
-      "BRICK-DUST SEDIMENT", 
+      "Brick-dust sediment", 
       "Hematuria", 
       "Accumulation of gravel"
     ], 
@@ -29,10 +29,10 @@
     ], 
     "Female": [
       "Hemorrhage, with violent uterine colic", 
-      "Leucorrhoea before and after menses; bloody, dark, offensive; STAINS INDELIBLY", 
+      "Leucorrhoea before and after menses; bloody, dark, offensive; stains indelibly", 
       "Every alternate period very profuse", 
       "Scarcely recovers from one period before another begins", 
-      "SORE PAIN IN WOMB ON RISING", 
+      "Sore pain in womb on rising", 
       "Metrorrhagia; too frequent and copious menses"
     ], 
     "Male": [
@@ -40,8 +40,6 @@
     ]
   }, 
   "details": "Is an anti-hemorrhagic and anti-uric acid remedy. Albuminuria during gestation. Chronic neuralgia. Renal and vesical irritation. Hemorrhage from uterine fibroid with aching in back or general bruised soreness. Aching between scapulae. Uterine hemorrhage, with cramps and expulsion of clots. Craves buttermilk. Effects of suppressed uterine disease. (Burnett.)", 
-  "Natural History": [
-    "Shepherd's PurseCapsella"
-  ], 
+  "Natural History": "Shepherd's PurseCapsella", 
   "dosage": "Tincture, to sixth potency."
 }

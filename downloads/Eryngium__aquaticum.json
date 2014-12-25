@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Button Snake-root"
-  ], 
+  "Natural History": "Button Snake-root", 
   "symptoms": {
     "Respiratory": [
       "Smarting in throat and larynx", 
@@ -9,7 +7,7 @@
     ], 
     "Urine": [
       "Difficult and frequent micturition", 
-      "RENAL COLIC  Congestion of kidneys with dull pain in back, running down the ureters and limbs", 
+      "Renal colic  congestion of kidneys with dull pain in back, running down the ureters and limbs", 
       "Pain behind pubes", 
       "Spasmodic stricture", 
       "Irritable bladder from enlarged prostate gland, or from pressure of uterus", 

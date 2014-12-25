@@ -6,16 +6,16 @@
       "Fatty degeneration", 
       "Beats of heart distinctly perceptible in chest and head", 
       "Feeble pulse; palpitation; spasmodic action, with feeling of pulsation through the whole body", 
-      "FLUTTERING OF HEART FELT IN THROAT"
+      "Fluttering of heart felt in throat"
     ], 
     "Eyes": [
       "Lagophthalmus", 
-      "SPASM OF CILIARY MUSCLE, WITH IRRITABILITY AFTER USING EYES", 
-      "Night-blindness ; photophobia; CONTRACTION OF PUPILS; TWITCHING OF OCULAR MUSCLES", 
+      "Spasm of ciliary muscle, with irritability after using eyes", 
+      "Night-blindness ; photophobia; contraction of pupils; twitching of ocular muscles", 
       "Muscae volitantes; flashes of light; partial blindness", 
       "Profuse lachrymation", 
-      "GLAUCOMA; paresis of accommodation; astigmatism", 
-      "INCREASING MYOPIA", 
+      "Glaucoma; paresis of accommodation; astigmatism", 
+      "Increasing myopia", 
       "Post-diphtheritic paralysis of eye and accommodation muscles"
     ], 
     "Stomach": [
@@ -27,12 +27,12 @@
     ], 
     "Head": [
       "Spastic conditions of the face-muscles", 
-      "Pain over orbits; CANNOT BEAR TO RAISE EYELIDS", 
+      "Pain over orbits; cannot bear to raise eyelids", 
       "Cerebrospinal meningitis; general tetanic rigidity", 
       "Constant pain on top; vertigo, with constrictive feeling of head"
     ], 
     "Mouth": [
-      "TONGUE FEELS SORE ON TIP", 
+      "Tongue feels sore on tip", 
       "Feeling as if a ball came up throat"
     ], 
     "Nose": [
@@ -50,7 +50,7 @@
     "Extremities": [
       "Tetanic convulsions", 
       "Burning and tingling in spine", 
-      "PAIN IN RIGHT POPLITEAL SPACE", 
+      "Pain in right popliteal space", 
       "Numbness in paralyzed parts, crampy pains in limbs", 
       "Hands and feet numb", 
       "Sudden jerking of limbs on going to sleep", 
@@ -58,8 +58,6 @@
     ]
   }, 
   "details": "This remedy and its active principle, ESERINE, form a valuable addition to Materia Medica. Stimulates heart, raises blood pressure, and increases peristalsis. Causes contraction of the pupil and of the ciliary muscles. Induces a condition of short-sightedness. SPINAL IRRITATION, loss of motility, prostration, with very sensitive vertebrae. Fibrillary tremors. Rigidity of muscles; paralysis. Depresses the motor and reflex activity of the cord and causes loss of sensibility to pain, muscular weakness, followed by complete paralysis, although muscular contractility is not impaired. Paralysis and tremors, chorea. Meningeal irritation, with rigidity of muscles. TETANUS and trismus. Poly myelitis anterior. Eserine is used locally to produce contraction of pupil.", 
-  "Natural History": [
-    "Calabar Bean"
-  ], 
+  "Natural History": "Calabar Bean", 
   "dosage": "Third potency. The neutral sulphate of Eserine is instilled into the eye, from one-half to four grains to one ounce distilled water, to induce CONTRACTION OF PUPIL, in mydriasis, injuries to the eye, iritis, corneal ulcers, etc."
 }

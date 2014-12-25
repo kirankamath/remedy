@@ -6,10 +6,10 @@
       "Dull, pressing frontal pain, especially connected with constipation", 
       "Eczema on forehead along line of hair", 
       "Myalgic pain in scalp and muscles of neck", 
-      "SINUSITIS, after coryza"
+      "Sinusitis, after coryza"
     ], 
     "Respiratory": [
-      "Bronchitis in old, exhausted persons, WITH THICK, YELLOW, TENACIOUS EXPECTORATION", 
+      "Bronchitis in old, exhausted persons, with thick, yellow, tenacious expectoration", 
       "Chest raw, sore, burning", 
       "Bronchial catarrh, later stages", 
       "Pain from chest to left shoulder", 
@@ -27,27 +27,27 @@
       "Ulcers and cancer", 
       "Weak digestion", 
       "Cannot eat bread or vegetables", 
-      "BITTER TASTE"
+      "Bitter taste"
     ], 
     "Urine": [
-      "GLEETY DISCHARGE", 
+      "Gleety discharge", 
       "Urine smells decomposed"
     ], 
     "Mind": [
       "Depressed; sure of death, and desires it"
     ], 
     "Back": [
-      "Dull, heavy, dragging pain and stiffness, particularly ACROSS LUMBAR REGION, MUST USE ARMS IN RAISING HIMSELF FROM SEAT"
+      "Dull, heavy, dragging pain and stiffness, particularly across lumbar region, must use arms in raising himself from seat"
     ], 
     "Mouth": [
       "Peppery taste", 
-      "Tongue white, swollen, large, flabby, slimy; SHOWS IMPRINT OF TEETH ; as if scalded; stomatitis", 
+      "Tongue white, swollen, large, flabby, slimy; shows imprint of teeth ; as if scalded; stomatitis", 
       "Ulceration of tongue, fissures toward the edges"
     ], 
     "Nose": [
-      "Watery, EXCORIATING discharge", 
+      "Watery, excoriating discharge", 
       "Tends to blow nose all the time", 
-      "THICK, TENACIOUS SECRETION FROM POSTERIOR NARES TO throat", 
+      "Thick, tenacious secretion from posterior nares to throat", 
       "Ozaena, with ulceration of septum"
     ], 
     "Female": [
@@ -61,7 +61,7 @@
     "Skin": [
       "Eruption like variola", 
       "General tendency to profuse perspiration and unhealthy skin", 
-      "Lupus; ULCERS, cancerous formations"
+      "Lupus; ulcers, cancerous formations"
     ], 
     "Throat": [
       "Goitre of puberty and pregnancy", 
@@ -83,21 +83,19 @@
       "During stool, smarting pain in rectum", 
       "Hemorrhoids; even a light flow exhausts", 
       "Prolapsed; anus fissured", 
-      "CONSTIPATION, with sinking feeling in stomach, and dull headache"
+      "Constipation, with sinking feeling in stomach, and dull headache"
     ], 
     "Male": [
       "Gonorrhea, second stage; discharge thick and yellow"
     ], 
     "Ears": [
-      "EUSTACHIAN CATARRH, with high-pitched voice", 
       "Deafness", 
       "Roaring", 
+      "Eustachian catarrh, with high-pitched voice", 
       "Mucopurulent discharge"
     ]
   }, 
   "details": "Acts especially on mucous membranes, relaxing them and producing a THICK, YELLOWISH, ROPY secretion. The catarrh may be anywhere, - throat, stomach, uterus, urethra, - it is always characterized by this peculiar mucous discharge. Hydrastis is especially active in old, easily-tired people, cachectic individuals, with great debility. Cerebral effects prominent, feels his wits sharpened, head cleared, facile expression. Weak muscular power, poor digestion and obstinate constipation. Lumbago. Emaciation and prostration. Its action on the liver is marked. Cancer and cancerous state, before ulceration, when pain in principal symptom. GOITRE of puberty and pregnancy. SMALLPOX internally and locally. The power of Hydrastis over smallpox seen in modifying the disease, abolishing its distressing symptoms, shortening its course, lessening its danger and greatly mitigating its consequences. (J.J. Garth Wilkinson.)", 
-  "Natural History": [
-    "Golden Seal"
-  ], 
+  "Natural History": "Golden Seal", 
   "dosage": "Tincture, to thirtieth attenuation. Locally colorless Hydrastis, mother tincture, or fluid extract."
 }

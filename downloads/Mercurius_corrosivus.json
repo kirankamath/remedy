@@ -33,7 +33,7 @@
     ], 
     "Male": [
       "Penis and testes enormously swollen", 
-      "GONORRHOEA; urethra orifice red, swollen; glans sore and hot", 
+      "Gonorrhoea; urethra orifice red, swollen; glans sore and hot", 
       "Chancres assume phagedenic appearance", 
       "Discharge greenish, thick"
     ], 
@@ -43,16 +43,16 @@
     ], 
     "Eyes": [
       "Retinitis albuminuric, ophthalmia neonatorum", 
-      "IRITIS, ordinary or syphilitic", 
+      "Iritis, ordinary or syphilitic", 
       "Little tendency to pus formation", 
-      "IRIS MUDDY IN COLOR, THICK, AND NEITHER CONTRACTS NOR DILATES", 
+      "Iris muddy in color, thick, and neither contracts nor dilates", 
       "Pain behind eyeballs, as if forced out", 
-      "SEVERE BURNING", 
-      "Excessive photophobia and ACRID LACHRYMATION", 
+      "Severe burning", 
+      "Excessive photophobia and acrid lachrymation", 
       "Pain severe at night; burning, shooting, tearing", 
-      "SORENESS OF THE EYES", 
+      "Soreness of the eyes", 
       "Phlyctenulae; deep ulcers on cornea", 
-      "LIDS ODEMATOUS, red, excoriated"
+      "Lids odematous, red, excoriated"
     ], 
     "Fever": [
       "Chilly from slightest exposure", 
@@ -70,10 +70,10 @@
     ], 
     "Urine": [
       "Perspiration after urinating", 
-      "TENESMUS OF BLADDER", 
-      "ALBUMINOUS", 
+      "Tenesmus of bladder", 
+      "Albuminous", 
       "Intense burning in urethra", 
-      "Urine hot, burning, scanty or SUPPRESSED; bloody, GREENISH DISCHARGE", 
+      "Urine hot, burning, scanty or suppressed; bloody, greenish discharge", 
       "Stabbing pain extending up urethra into bladder"
     ], 
     "Abdomen": [
@@ -90,17 +90,15 @@
       "Salivation"
     ], 
     "Throat": [
-      "RED, SWOLLEN, PAINFUL, INTENSELY INFLAMED", 
-      "BURNING PAIN, WITH GREAT SWELLING; WORSE, SLIGHT EXTERNAL PRESSURE", 
-      "UVULA SWOLLEN", 
-      "SWALLOWING PAINFUL", 
-      "Most pain is POST-NASAL WITH SHARP PAINS TO EARS", 
+      "Red, swollen, painful, intensely inflamed", 
+      "Burning pain, with great swelling; worse, slight external pressure", 
+      "Uvula swollen", 
+      "Swallowing painful", 
+      "Most pain is post-nasal with sharp pains to ears", 
       "All glands about thorax swollen"
     ]
   }, 
   "details": "This salt leads all other remedies in tenesmus of the rectum, which is incessant, and is not relieved by the stool. The tenesmus often involves the bladder as well. Bright's disease. Gonorrhea; second stage, with continuous tenesmus. Destroys the secreting portions of the kidneys. This process is slow, but sure. Albuminuria in early pregnancy. (PHOSPH. later and at full term).", 
-  "Natural History": [
-    "Corrosive Sublimate"
-  ], 
+  "Natural History": "Corrosive Sublimate", 
   "dosage": "Sixth potency. In solution 1: 1000, hypodermically injected under conjunctiva in choroiditis with progressive myopia. Stops immediately the severe aching pain behind eyeballs (Dr. G. D. Halle.)"
 }

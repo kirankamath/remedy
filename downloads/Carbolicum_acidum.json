@@ -11,14 +11,14 @@
     "Stomach": [
       "Flatulent distention of stomach and abdomen", 
       "Heat rises up oesophagus", 
-      "Constant belching, nausea, VOMITING, dark olive green", 
-      "DESIRE FOR STIMULANTS AND TOBACCO", 
+      "Constant belching, nausea, vomiting, dark olive green", 
+      "Desire for stimulants and tobacco", 
       "Appetite lost", 
-      "FERMENTATIVE DYSPEPSIA with bad taste and breath", 
+      "Fermentative dyspepsia with bad taste and breath", 
       "Painful flatulence often marked in one part of the bowel"
     ], 
     "Stool": [
-      "Constipation, with VERY OFFENSIVE BREATH", 
+      "Constipation, with very offensive breath", 
       "Great tenesmus", 
       "Almost black", 
       "Irritable bladder in old men with frequent urination at night, or probably prostatic nature", 
@@ -30,7 +30,7 @@
       "Influenza and resulting debility", 
       "Putrid discharge", 
       "Ozaena, with fetor and ulceration", 
-      "SMELL VERY ACUTE"
+      "Smell very acute"
     ], 
     "Female": [
       "Leucorrhoea in children", 
@@ -49,23 +49,21 @@
     "Throat": [
       "Ulcerated patches on inside of lips and cheeks", 
       "Fauces red, and covered with exudation", 
-      "BURNING IN MOUTH TO stomach", 
+      "Burning in mouth to stomach", 
       "Rapid sinking of vital forces", 
       "Almost impossible to swallow", 
       "Face dusky red; white about mouth and nose", 
-      "DIPHTHERIA, FETID BREATH, REGURGITATION on swallowing liquids, but little pain", 
-      "PUTRID DISCHARGE", 
+      "Diphtheria, fetid breath, regurgitation on swallowing liquids, but little pain", 
+      "Putrid discharge", 
       "Uvula whitened and shriveled"
     ], 
     "Extremities": [
       "Gnawing pains in shin bones", 
-      "Cramps in fore part of leg, close to tibia DURING WALKING", 
+      "Cramps in fore part of leg, close to tibia during walking", 
       "Arthritis"
     ]
   }, 
   "details": "Carbolic Acid is a powerful irritant and anaesthetic. A languid, foul, painless destructive remedy. Stupor, paralysis of sensation and motion, feeble pulse and depressed breathing, death due to paralysis of respiratory centers. Acts primarily on the central nervous system. INCREASED OLFACTORY SENSIBILITY. Produces mental and bodily languor, disinclination to study, with headache like a band. Very marked ACUTENESS OF SMELL is a strong guiding symptom. Stomach symptoms are also important. Pains are terrible; come and go suddenly. Physical exertion brings on abscess somewhere. Putrid discharges. (Bapt.) Scarlet fever, with marked tendency to destruction of tissue internally, and fetid odor. Spasmodic coughs. Arthritis. (See Dose.)", 
-  "Natural History": [
-    "Phenol - Carbolic Acid"
-  ], 
+  "Natural History": "Phenol - Carbolic Acid", 
   "dosage": "Third to thirtieth potency. Phenol in Arthritis, according to Goodno. Must be absolutely pure. Crystals Solution (25%) in equal parts of water and glycerine, dose 20 minims well diluted 3 times daily (Bartlett)."
 }

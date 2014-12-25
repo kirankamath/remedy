@@ -22,7 +22,7 @@
       "Swelling of orifice", 
       "Burning pressure; painful micturition by drops", 
       "Urine smells of violets", 
-      "CATARRH OF BLADDER; dysuria", 
+      "Catarrh of bladder; dysuria", 
       "Retention, with pain in bladder, anus, and rectum", 
       "Greenish; turbid color; peculiar pungent odor", 
       "Constant desire to urinate"
@@ -31,7 +31,7 @@
       "Profuse, thick, fetid discharge from nasal passages, running down throat at night", 
       "Marked catarrhal condition in upper respiratory tract", 
       "Rawness and soreness of nostrils with stopped-up feeling; dryness of posterior nares", 
-      "BURNING AND DRYNESS, crusts on turbinated bones"
+      "Burning and dryness, crusts on turbinated bones"
     ], 
     "Female": [
       "Itching of vulva and anus, with bloody purulent discharge", 
@@ -40,7 +40,7 @@
     "Skin": [
       "Circumscribed, lenticular patches, with itching; mottled appearance", 
       "Chronic urticaria in children", 
-      "HIVES, with fever and constipation", 
+      "Hives, with fever and constipation", 
       "Bullous eruptions", 
       "Roseola", 
       "Erysipelatous inflammation, especially around abdomen"
@@ -48,15 +48,13 @@
     "Rectum": [
       "Burning and itching of anus, caused by piles", 
       "Stools covered with mucous, with colic and chilliness", 
-      "MUCOUS COLITIS"
+      "Mucous colitis"
     ], 
     "Male": [
       "Testicles sensitive and swollen"
     ]
   }, 
   "details": "Acts powerfully on mucous membranes, especially that of the urinary tract, the respiratory organs, and the skin, here producing a well-marked nettle-rash. Colds and catarrhs.", 
-  "Natural History": [
-    "Balsam of Copaiva"
-  ], 
+  "Natural History": "Balsam of Copaiva", 
   "dosage": "First to third attenuation."
 }

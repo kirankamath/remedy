@@ -14,7 +14,7 @@
     ], 
     "Stomach": [
       "Flushes of heat rising from stomach to head", 
-      "ERUCTATIONS", 
+      "Eructations", 
       "Metallic taste", 
       "Bloating", 
       "Anorexia"
@@ -43,8 +43,8 @@
       "Reflex spasms from worms", 
       "Aura from a painful spot between shoulders", 
       "Excessive nervous irritation", 
-      "PAIN IN LIMBS WORSE AFTER EVERY MEAL", 
-      "SCIATICA", 
+      "Pain in limbs worse after every meal", 
+      "Sciatica", 
       "Nerves", 
       "Boring pain in knee-joint; better, walking", 
       "Pain from middle of thigh to knee"
@@ -54,8 +54,6 @@
     ]
   }, 
   "details": "Marked action on the nervous system, and of undoubted benefit in the treatment of epilepsy with great sadness. Excited mood and desire to be busy. Neurasthenia and hysteria. Pure powdered Indigo placed on the wound cures snake and spider poison. (KALI-PERMANG.; GOLONDRINA; CEDRON.) Stricture of oesophagus; blue color. (CUPR.)", 
-  "Natural History": [
-    "Indigo-Dye-stuff"
-  ], 
+  "Natural History": "Indigo-Dye-stuff", 
   "dosage": "Third to thirtieth potency."
 }

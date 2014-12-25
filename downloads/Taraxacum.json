@@ -1,21 +1,15 @@
 {
-  "Natural History": [
-    "Cancer of bladder", 
-    "For gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin", 
-    "Flatulence", 
-    "HYSTERICAL TYMPANITES", 
-    "Dandelion"
-  ], 
+  "Natural History": "For gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin. Cancer of bladder. Flatulence. HYSTERICAL TYMPANITES.Dandelion", 
   "symptoms": {
     "Head": [
-      "STERNOMASTOID muscle very painful to touch", 
+      "Sternomastoid muscle very painful to touch", 
       "Sensation of great heat on top of head"
     ], 
     "Fever": [
-      "Heat without thirst, in face, IN TOES", 
       "Sweat on falling asleep", 
-      "Chilliness after eating, worse drinking; FINGER TIPS COLD", 
-      "BITTER TASTE"
+      "Heat without thirst, in face, in toes", 
+      "Chilliness after eating, worse drinking; finger tips cold", 
+      "Bitter taste"
     ], 
     "Modalities": [
       "Worse: resting", 
@@ -31,17 +25,17 @@
       "Liver enlarged and indurated"
     ], 
     "Skin": [
-      "PROFUSE NIGHT-SWEATS"
+      "Profuse night-sweats"
     ], 
     "Mouth": [
-      "Tongue covered with a white film; feels raw; comes off in patches, leaving RED, SENSITIVE SPOTS", 
+      "Tongue covered with a white film; feels raw; comes off in patches, leaving red, sensitive spots", 
       "Loss of appetite", 
       "Salivation", 
       "Mapped tongue", 
       "Bitter taste and eructations"
     ], 
     "Extremities": [
-      "NEURALGIA OF KNEE; BETTER, PRESSUR", 
+      "Neuralgia of knee; better, pressur", 
       "Very restless limbs", 
       "Limbs painful to touch"
     ]

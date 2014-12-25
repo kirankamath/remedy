@@ -1,15 +1,13 @@
 {
-  "Natural History": [
-    "Common Potash Alum"
-  ], 
+  "Natural History": "Common Potash Alum", 
   "details": "The clinical application of this remedy points to its bowel symptoms, both in obstinate constipation and in hemorrhage from bowels in the course of typhoid - one phase of the PARALYTIC WEAKNESS of the muscles in all parts of the body. Tendency to INDURATION is also marked, a low form of tissue-making is favored. Hardening of tissues of tongue, rectum, uterus, etc.; ulcers with indurated base. Adapted to old people, especially bronchial catarrhs. SENSATION OF DRYNESS AND CONSTRICTION. Mental paresis; dysphagia especially to liquids. Tendency to induration, Scirrhus of the tongue.", 
   "symptoms": {
     "Heart": [
-      "Palpitation, FROM LYING DOWN ON RIGHT SIDE"
+      "Palpitation, from lying down on right side"
     ], 
     "Head": [
       "Alopecia", 
-      "BURNING PAIN AS IF WEIGHT ON TOP OF HEAD BETTER BY PRESSURE of hand", 
+      "Burning pain as if weight on top of head better by pressure of hand", 
       "Vertigo, with weakness in pit of stomach"
     ], 
     "Respiratory": [
@@ -18,7 +16,7 @@
       "Hemoptysis, great weakness of chest; difficult to expel mucus"
     ], 
     "Rectum": [
-      "CONSTIPATION OF THE MOST AGGRAVATED KIND", 
+      "Constipation of the most aggravated kind", 
       "Itching in anus", 
       "Itching after stool", 
       "Violent ineffectual urging to stool", 
@@ -26,7 +24,7 @@
       "No ability to expel stool", 
       "Hemorrhage from bowels", 
       "Long lasting pain and smarting in rectum after stool; also hemorrhoids", 
-      "MARBLE-LIKE MASSES PASS, BUT RECTUM STILL FEELS FULL", 
+      "Marble-like masses pass, but rectum still feels full", 
       "No desire to stool for days"
     ], 
     "Modalities": [
@@ -41,15 +39,15 @@
       "Aphthous patches in vagina"
     ], 
     "Skin": [
-      "ULCERS, WITH INDURATED BASE", 
+      "Ulcers, with indurated base", 
       "Indurations resulting from long-continued inflammatory irritations", 
-      "Alopecia, Scrotal eczema and on back of penis", 
+      "Alopecia, scrotal eczema and on back of penis", 
       "Glands inflame and harden", 
       "To be thought of in indurated glands, epithelioma, etc.; veins become varicose and bleed"
     ], 
     "Throat": [
       "Constriction of oesophagus", 
-      "ENLARGED AND INDURATED TONSILS", 
+      "Enlarged and indurated tonsils", 
       "Throat relaxed", 
       "Mucous membrane red and swollen", 
       "Every cold settles in throat", 
@@ -61,7 +59,7 @@
     ], 
     "Extremities": [
       "Constricted feeling around limbs", 
-      "WEAKNESS OF ALL MUSCLES, especially arms and legs"
+      "Weakness of all muscles, especially arms and legs"
     ]
   }, 
   "name": "Alumen", 

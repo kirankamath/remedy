@@ -6,14 +6,14 @@
       "Indescribable bad feeling about the heart with soreness and pain, flying stitches all over"
     ], 
     "Eyes": [
-      "Twitching of LEFT upper lid; eyeballs tender; aching in eyeballs", 
-      "Intermittent sore pain in eyeball, coming on at three PM"
+      "Twitching of left upper lid; eyeballs tender; aching in eyeballs", 
+      "Intermittent sore pain in eyeball, coming on at three pm"
     ], 
     "Respiratory": [
       "Hay-fever, with asthmatic breathing", 
       "Whooping-cough, with thick yellow expectoration; flies out", 
       "Cough; worse in afternoon, better in warm room", 
-      "The MUCUS FLIES OUT OF MOUTH AND NOSTRILS", 
+      "The mucus flies out of mouth and nostrils", 
       "Pleuritic stitches in chest, neck, and back"
     ], 
     "Stomach": [
@@ -24,12 +24,12 @@
     "Head": [
       "Slight sounds are greatly accentuated", 
       "Dull, dizzy feeling in head", 
-      "CORYZA, sneezing, watery discharge, with asthmatic breathing and suffocative cough", 
-      "Pain in forehead and temple, EXTENDING TO EYEBALLS, worse in afternoon", 
+      "Sensation of enlargement and fullness", 
+      "Pain in forehead and temple, extending to eyeballs, worse in afternoon", 
       "Blueness under eyes", 
       "Influenza", 
-      "DANDRUFF; scale sore, dry, tetter-like", 
-      "Sensation of enlargement and fullness"
+      "Dandruff; scale sore, dry, tetter-like", 
+      "Coryza, sneezing, watery discharge, with asthmatic breathing and suffocative cough"
     ], 
     "Modalities": [
       "Better: by heat"
@@ -37,7 +37,7 @@
     "Back": [
       "Very stiff neck", 
       "Stitches in nape, scapulae", 
-      "MUSCLES AND SKIN SORE, as if beaten", 
+      "Muscles and skin sore, as if beaten", 
       "Pain in small of back, hips and lower limbs"
     ], 
     "Female": [
@@ -45,14 +45,12 @@
       "Cancer of breast"
     ], 
     "Skin": [
-      "FRECKLES", 
+      "Freckles", 
       "Sore to touch", 
-      "RHAGADES"
+      "Rhagades"
     ]
   }, 
   "details": "Soreness of muscles and integuments; worse motion and friction of clothes, with sensitiveness to cold. Glands swollen. General paresis. Basedow's disease. Lues, bubo, roseola.", 
-  "Natural History": [
-    "Fresh-Water Sponge"
-  ], 
+  "Natural History": "Fresh-Water Sponge", 
   "dosage": "First to sixth attenuation."
 }

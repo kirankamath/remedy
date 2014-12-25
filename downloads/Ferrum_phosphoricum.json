@@ -8,13 +8,13 @@
       "Feeling as of sand under lids"
     ], 
     "Fever": [
-      "Chill daily at one PM All catarrhal and inflammatory fevers; first stage"
+      "Chill daily at one pm all catarrhal and inflammatory fevers; first stage"
     ], 
     "Stomach": [
       "Desire for stimulants", 
-      "VOMITING OF UNDIGESTED FOOD", 
+      "Vomiting of undigested food", 
       "Aversion to meat and milk", 
-      "SOUR ERUCTATIONS", 
+      "Sour eructations", 
       "Vomiting of bright red blood"
     ], 
     "Abdomen": [
@@ -24,8 +24,8 @@
       "First stage of peritonitis"
     ], 
     "Respiratory": [
-      "EXPECTORATION OF PURE BLOOD IN PNEUMONIA", 
-      "FIRST STAGE OF ALL INFLAMMATORY AFFECTIONS", 
+      "Expectoration of pure blood in pneumonia", 
+      "First stage of all inflammatory affections", 
       "Congestions of lungs", 
       "Hemoptysis", 
       "Hoarseness", 
@@ -38,7 +38,7 @@
       "Soreness to touch, cold, noise, jar", 
       "Vertigo", 
       "Throbbing sensation", 
-      "Headache BETTER COLD APPLICATIONS", 
+      "Headache better cold applications", 
       "Rush of blood to head", 
       "Ill effects of sun-heat"
     ], 
@@ -61,7 +61,7 @@
     "Nose": [
       "First stage of colds in the head", 
       "Predisposition to colds", 
-      "EPISTAXIS; bright red blood"
+      "Epistaxis; bright red blood"
     ], 
     "Ears": [
       "Acute otitis", 
@@ -71,12 +71,12 @@
       "Noises"
     ], 
     "Heart": [
-      "SHORT, QUICK, SOFT PULSE", 
+      "Short, quick, soft pulse", 
       "First stage of cardiac diseases", 
       "Palpitation; pulse rapid"
     ], 
     "Modalities": [
-      "Worse: at night and 4 to six AM; touch", 
+      "Worse: at night and 4 to six am; touch", 
       "Worse: jar", 
       "Worse: motion", 
       "Worse: right side", 
@@ -86,7 +86,7 @@
       "Incontinence", 
       "Urine spurts with every cough", 
       "Irritation at neck of bladder", 
-      "DIURNAL ENURESIS", 
+      "Diurnal enuresis", 
       "Polyuria"
     ], 
     "Sleep": [
@@ -110,8 +110,6 @@
     ]
   }, 
   "details": "In the early stages of febrile conditions, it stands midway between sthenic activity of Aconite and Bell, and the asthenic sluggishness and torpidity of GELS. The typical FERR. PHOS. subject is not full blooded and robust, but nervous, sensitive, anaemic with the false plethora and easy flushing of Ferrum. Prostration marked; face more active than GELS. The superficial redness never assumes the dusky hue of GELS. Pulse soft and flowing; no anxious restlessness of ACON. Susceptibility to chest troubles. Bronchitis of young children. In acute exacerbation of tuberculosis, a fine palliative of wonderful power. Corresponds to Grauvogl's Oxygenoid Constitution, the inflammatory, febrile, emaciating, wasting consumption.The remedy for first stage of all febrile disturbances and inflammations before exudation sets in; especially for catarrhal affections of the respiratory tract. FERR. PHOS. 3x increases haemoglobin. In pale, anaemic subjects, with violent local congestions. Hemorrhages, bright from any orifice.", 
-  "Natural History": [
-    "Phosphate of Iron"
-  ], 
+  "Natural History": "Phosphate of Iron", 
   "dosage": "Third to twelfth potency."
 }

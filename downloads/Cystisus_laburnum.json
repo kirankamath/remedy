@@ -1,10 +1,8 @@
 {
-  "Natural History": [
-    "Cystisus Laburnum"
-  ], 
+  "Natural History": "Cystisus Laburnum", 
   "symptoms": {
     "Head": [
-      "Unequally dilated pupils; GIDDINESS; twitching of facial muscles", 
+      "Unequally dilated pupils; giddiness; twitching of facial muscles", 
       "Constant vertigo; intense sleepiness", 
       "Stupefaction; indifference", 
       "Hydrocephalus"
@@ -18,10 +16,10 @@
       "Grass-green urine"
     ], 
     "Extremities": [
-      "Compare: NUX; GELS", 
+      "Compare: nux; gels", 
       "Numbness and pain in hands", 
       "Difficulty in moving them", 
-      "CYSTINE"
+      "Cystine"
     ]
   }, 
   "name": "Cystisus laburnum", 

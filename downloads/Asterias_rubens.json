@@ -3,8 +3,13 @@
   "Relationship": "Antidotes: Plumb.; Zinc.Incompatible: Nux; Coffea.Compare: Conium; Carbo; Ars.; Condurango.", 
   "symptoms": {
     "Head": [
-      "Shocks in brain; throbbing; HEAT IN HEAD, AS IF SURROUNDED BY HOT AIR", 
+      "Shocks in brain; throbbing; heat in head, as if surrounded by hot air", 
       "Cannot bear contradiction"
+    ], 
+    "Modalities": [
+      "Worse: coffee", 
+      "Worse: night; cold damp weather", 
+      "Worse: left side"
     ], 
     "Stool": [
       "Stool like olives", 
@@ -13,17 +18,17 @@
       "Diarrhoea, watery brown, gushing out in jet"
     ], 
     "Chest": [
-      "LEFT BREAST FEELS AS IF PULLED INWARD, and pain extends over inner arm to end of little finger", 
+      "Left breast feels as if pulled inward, and pain extends over inner arm to end of little finger", 
       "Numbness of hand and fingers of left side", 
-      "CANCER MAMMAE EVEN IN ULCERATIVE STAGE", 
+      "Cancer mammae even in ulcerative stage", 
       "Pain under sternum and in muscles of precordial region", 
       "Breasts swollen, indurated", 
       "Neuralgia of left breast and arm", 
-      "ACUTE, LANCINATING PAIN", 
-      "AXILLARY GLANDS SWOLLEN HARD AND KNOTTED"
+      "Acute, lancinating pain", 
+      "Axillary glands swollen hard and knotted"
     ], 
     "Face": [
-      "DISPOSITION TO PIMPLES AT ADOLESCENCE", 
+      "Disposition to pimples at adolescence", 
       "Red", 
       "Pimples on side of nose, chin and mouth"
     ], 
@@ -49,8 +54,6 @@
     ]
   }, 
   "details": "A remedy for the sycotic diathesis; flabby, lymphatic constitution, flabby with RED face. Lancinating pains. Nervous disturbances, neuralgias, chorea, and hysteria come within the range of this remedy. Has been used for cancer of the breast, and has an unquestioned influence over cancer disease. Excitement in both sexes.", 
-  "Natural History": [
-    "Red Starfish"
-  ], 
+  "Natural History": "Red Starfish", 
   "dosage": "Sixth potency."
 }

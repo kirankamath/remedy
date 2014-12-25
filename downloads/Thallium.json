@@ -7,16 +7,14 @@
       "Chronic myelitis", 
       "Lancinating pains, like electric shocks", 
       "Very tired", 
-      "TREMBLING", 
-      "PARALYTIC FEELING", 
-      "PARALYSIS OF LOWER LIMBS", 
+      "Trembling", 
+      "Paralytic feeling", 
+      "Paralysis of lower limbs", 
       "Numbness in fingers and toes, with extension up lower extremities, involving lower abdomen and perineum", 
       "Cyanosis of extremities"
     ]
   }, 
   "details": "Thallium seems to influence the endocrines, especially the thyroid and adrenaline. Most horrible neuralgic, spasmodic, shooting pains. Muscular atrophy. Tremors. Relieves the violent pains in locomotor ataxia. PARALYSIS OF LOWER LIMBS. Pain in stomach and bowels, like electric shocks. Paraplegia. ALOPECIA following acute, exhausting diseases. Night sweats. Polyneuritis. Dermal trophic lesions.", 
-  "Natural History": [
-    "The Metal Thallium"
-  ], 
+  "Natural History": "The Metal Thallium", 
   "dosage": "Lower trituration to thirtieth potency."
 }

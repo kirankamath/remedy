@@ -4,12 +4,12 @@
   "symptoms": {
     "Head": [
       "Scalp sore and tender to touch", 
-      "FULLNESS ALL OVER HEAD", 
+      "Fullness all over head", 
       "Eyes heavy; blurred sight; wants to close them tightly for relief", 
-      "Heavy, oppressed; FRONTAL, THROBBING, undulating sensation in brain", 
+      "Heavy, oppressed; frontal, throbbing, undulating sensation in brain", 
       "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes", 
-      "SICK HEADACHE; relieved by epistaxis or MENSTRUAL FLOW", 
-      "NEURALGIA around and over right side of head and neck"
+      "Sick headache; relieved by epistaxis or menstrual flow", 
+      "Neuralgia around and over right side of head and neck"
     ], 
     "Respiratory": [
       "Weight on chest", 
@@ -21,7 +21,7 @@
       "Worse: rainy", 
       "Worse: changeable weather", 
       "Worse: approach of storm", 
-      "Worse: motion; four PM"
+      "Worse: motion; four pm"
     ], 
     "Stool": [
       "Difficult, painful, constipated", 
@@ -39,13 +39,13 @@
       "Intensely red and flushed, with throbbing carotids"
     ], 
     "Nose": [
-      "Stopped up; DRY, must breathe through mouth; dry, hard clinkers in nose; PROFUSE EPISTAXIS"
+      "Stopped up; dry, must breathe through mouth; dry, hard clinkers in nose; profuse epistaxis"
     ], 
     "Female": [
       "Dysmenorrhoea", 
       "Sticking pain in external parts", 
       "Ovarian neuralgia", 
-      "Menses SCANTY, INTERMIT, with nausea and bearing-down"
+      "Menses scanty, intermit, with nausea and bearing-down"
     ], 
     "Extremities": [
       "Pain in knee; wants to stretch leg, but does not relieve", 
@@ -55,8 +55,6 @@
     ]
   }, 
   "details": "Congestions and hemorrhages seem to be the special manifestations of this drug. Violent congestive and nervous headaches. Infantile spasms. Epilepsy from blow on head. PAINS AND DEBILITY point to it. Coldness but also increase of temperature; tenderness, and pain. Muscular system depressed. Dreams and emissions.Hemorrhages, congestive headaches, engorged blood vessels, spasms.", 
-  "Natural History": [
-    "Yellow Melilot - Sweet Clover"
-  ], 
+  "Natural History": "Yellow Melilot - Sweet Clover", 
   "dosage": "Tincture, for inhaling; lower potencies."
 }

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Cowslip"
-  ], 
+  "Natural History": "Cowslip", 
   "symptoms": {
     "Head": [
       "Violent vertigo, as if everything turned around", 
@@ -21,7 +19,7 @@
       "Burning in hollow of right hand", 
       "Drawing pain in thumb and big toe", 
       "Right axillary muscles painful", 
-      "Weight and lassitude in limbs, especially the SHOULDERS"
+      "Weight and lassitude in limbs, especially the shoulders"
     ]
   }, 
   "name": "Primula veris", 

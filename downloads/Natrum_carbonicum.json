@@ -5,7 +5,7 @@
     "Head": [
       "Head aches with return of hot weather", 
       "Vertigo from exposure to sun", 
-      "Aches from SLIGHT MENTAL EXERTION, worse from SUN OR WORKING UNDER GAS-LIGHT", 
+      "Aches from slight mental exertion, worse from sun or working under gas-light", 
       "Feels too large", 
       "Oversensitive of hearing"
     ], 
@@ -21,15 +21,15 @@
       "Dyspepsia relieved by soda biscuits", 
       "Depressed after eating", 
       "Ill effects of drinking cold water when overheated", 
-      "Hungry at five AM VERY WEAK DIGESTION, caused by slightest error of diet", 
+      "Hungry at five am very weak digestion, caused by slightest error of diet", 
       "Bitter taste"
     ], 
     "Modalities": [
       "Worse: sitting", 
       "Worse: from music", 
-      "Worse: summer HEAT", 
+      "Worse: summer heat", 
       "Worse: mental exertion", 
-      "Worse: THUNDER STORM", 
+      "Worse: thunder storm", 
       "Better: by moving", 
       "Better: by boring in ears and nose"
     ], 
@@ -43,14 +43,14 @@
     "Face": [
       "Swelling of upper lip", 
       "Pale, with blue rings around eyes and swollen lids", 
-      "Freckles, YELLOW SPOTS, PIMPLES"
+      "Freckles, yellow spots, pimples"
     ], 
     "Nose": [
-      "HAWKING MUCH MUCUS FROM THROAT; WORSE, SLIGHT DRAFT", 
-      "POSTERIOR NASAL CATARRH", 
+      "Hawking much mucus from throat; worse, slight draft", 
       "Many troubles of external nose", 
+      "Posterior nasal catarrh", 
+      "Catarrh; bad smell of nasal secretion", 
       "All troubles of external nose which may attain a morbid size - pimples and puffiness", 
-      "CATARRH; BAD SMELL OF NASAL SECRETION", 
       "Constant coryza; obstruction of nose"
     ], 
     "Female": [
@@ -69,7 +69,7 @@
       "Soles of feet raw and sore"
     ], 
     "Bowels": [
-      "YELLOW SUBSTANCE LIKE PULP OF ORANGE IN DISCHARGE", 
+      "Yellow substance like pulp of orange in discharge", 
       "Sudden call to stool", 
       "Escapes with haste and noise", 
       "Diarrhoea from milk"
@@ -87,13 +87,11 @@
       "Soreness between toes and fingers", 
       "Foot bends under", 
       "Old sprains", 
-      "EASY DISLOCATION AND SPRAINING OF ANKLES", 
+      "Easy dislocation and spraining of ankles", 
       "The hollow of the knee is painful on motion"
     ]
   }, 
   "details": "All the Natrums stimulate cellular activity and increase oxidation and metabolism. Great debility CAUSED BY SUMMER HEAT; chronic effects of sunstroke; exhaustion; anaemic; milky, watery skin; very weak ankles, are all peculiar Natrum carbonicum conditions.", 
-  "Natural History": [
-    "Carbonate of Sodium"
-  ], 
+  "Natural History": "Carbonate of Sodium", 
   "dosage": "Sixth potency."
 }

@@ -3,13 +3,13 @@
   "Relationship": "Antidotes: ARS.; MERC.; HEAT; ALCOHOL; SALT.Compare: COTYLEDON (climacteric troubles); NAT-M.; NIT-AC.; CROTAL.; Amphisbena - snake lizard - (right jaw swollen and painful, lancinating pains; headaches, lancinating pains. Eruption of vesicles and pimples); NAJA; LEPIDIUM.Complementary: CROTALUS CASCAVELLA often completes curative work of Lachesis. (MURE.) LYCOP.; HEP.; SALAMANDRA.Incompatible: ACET-AC.; CARB-AC.", 
   "symptoms": {
     "Stool": [
-      "Hemorrhoids protrude, become CONSTRICTED, PURPLISH", 
-      "Constipated, OFFENSIVE STOOL", 
+      "Hemorrhoids protrude, become constricted, purplish", 
+      "Constipated, offensive stool", 
       "Pain darting up the rectum every time he sneezes or coughs", 
-      "Hemorrhage from bowels like charred straw, BLACK PARTICLES", 
+      "Hemorrhage from bowels like charred straw, black particles", 
       "Constant urging in rectum, not for stool", 
       "Stitches in them on sneezing or coughing", 
-      "Anus FEELS TIGHT, as if nothing could go through it"
+      "Anus feels tight, as if nothing could go through it"
     ], 
     "Head": [
       "Pain at root of nose", 
@@ -27,7 +27,7 @@
       "Chilly in back; feet icy cold; hot flushes and hot perspiration"
     ], 
     "Stomach": [
-      "Gnawing pressure MADE BETTER BY EATING, but returning in a few hours", 
+      "Gnawing pressure made better by eating, but returning in a few hours", 
       "Perceptible trembling movement in the epigastric region", 
       "Any food causes distress", 
       "Empty swallowing more painful than swallowing solids", 
@@ -36,27 +36,27 @@
       "Craving for alcohol, oysters"
     ], 
     "Abdomen": [
-      "Liver region sensitive, CANNOT BEAR ANYTHING AROUND WAIST", 
+      "Liver region sensitive, cannot bear anything around waist", 
       "Especially suitable to drunkards", 
       "Abdomen tympanitis, sensitive, painful"
     ], 
     "Mouth": [
       "Tongue swollen, burns, trembles, red, dry and cracked at tip, catches on teeth", 
-      "APHTHOUS AND DENUDED SPOTS with burning and rawness", 
-      "TEETH ACHE, PAIN EXTENDS TO EARS", 
+      "Aphthous and denuded spots with burning and rawness", 
+      "Teeth ache, pain extends to ears", 
       "Nauseous taste", 
       "Pain in facial bones", 
       "Gums swollen, spongy, bleed"
     ], 
     "Respiratory": [
-      "Sensation of suffocation and strangulation on lying down, particularly WHEN ANYTHING IS AROUND THROAT; compels patient to spring from bed and rush for open window", 
+      "Sensation of suffocation and strangulation on lying down, particularly when anything is around throat; compels patient to spring from bed and rush for open window", 
       "Cough; dry, suffocative fits, tickling", 
       "Larynx painful to touch", 
-      "Little secretion and much sensitiveness; worse, pressure on larynx, AFTER SLEEP, open air", 
+      "Little secretion and much sensitiveness; worse, pressure on larynx, after sleep, open air", 
       "Sensation as of a plug  which moves up and down, with a short cough", 
-      "Feels HE MUST TAKE A DEEP BREATH", 
+      "Feels he must take a deep breath", 
       "Cramp-like distress in precordial region", 
-      "BREATHING ALMOST STOPS ON FALLING ASLEEP", 
+      "Breathing almost stops on falling asleep", 
       "Spasm of glottis; feels as if something ran from neck to larynx", 
       "Upper part of windpipe very susceptible to touch"
     ], 
@@ -94,9 +94,9 @@
       "Better: warm applications"
     ], 
     "Mind": [
-      "Derangement of the TIME SENSE", 
+      "Derangement of the time sense", 
       "Restless and uneasy; does not wish to attend to business; wants to be off somewhere all the time", 
-      "Great LOQUACITY", 
+      "Great loquacity", 
       "Mental labor best performed at night", 
       "Sad in the morning; no desire to mix with the world", 
       "Euthanasia", 
@@ -106,13 +106,13 @@
       "Amative"
     ], 
     "Back": [
-      "Neuralgia of coccyx, WORSE RISING FROM SITTING POSTURE; must sit perfectly still", 
+      "Neuralgia of coccyx, worse rising from sitting posture; must sit perfectly still", 
       "Pain in neck, worse cervical region", 
       "Sensation of threads stretched from back to arms, legs, eyes, etc."
     ], 
     "Sleep": [
       "Sudden starting when falling asleep", 
-      "Patient SLEEPS INTO AN AGGRAVATION", 
+      "Patient sleeps into an aggravation", 
       "Wide-awake in evening", 
       "Sleepiness, yet cannot sleep"
     ], 
@@ -121,14 +121,14 @@
       "Mammae inflamed, bluish", 
       "Acts especially well at beginning and close of menstruation", 
       "Left ovary very painful and swollen, indurated", 
-      "Coccyx and sacrum pain, especially on RISING from sitting posture", 
-      "Menses too short, too feeble; PAINS ALL RELIEVED BY THE FLOW"
+      "Coccyx and sacrum pain, especially on rising from sitting posture", 
+      "Menses too short, too feeble; pains all relieved by the flow"
     ], 
     "Skin": [
       "Dark blisters", 
-      "SENILE ERYSIPELAS", 
+      "Senile erysipelas", 
       "Varicose ulcers", 
-      "Hot perspiration, BLUISH, PURPLISH APPEARANCE", 
+      "Hot perspiration, bluish, purplish appearance", 
       "Purpura, with intense prostration", 
       "Cellulitis", 
       "Bed-sores, with black edges", 
@@ -138,27 +138,25 @@
       "Blue-black swellings"
     ], 
     "Throat": [
-      "Feeling as if something was swollen which must be swallowed; WORSE, SWALLOWING SALIVA OR LIQUIDS", 
+      "Feeling as if something was swollen which must be swallowed; worse, swallowing saliva or liquids", 
       "Septic parotiditis", 
       "Tonsils purplish", 
       "Purple, livid color of throat", 
-      "COLLAR AND NECK-BAND MUST BE VERY LOOSE", 
-      "PAIN INTO EAR", 
-      "In diphtheria, etc., the trouble BEGAN on the left side", 
-      "Diphtheria; membrane dusky, blackish; PAIN AGGRAVATED BY HOT DRINKS; chronic sore throat, with much hawking; mucus sticks, AND CANNOT BE FORCED UP OR DOWN", 
+      "Collar and neck-band must be very loose", 
+      "Pain into ear", 
+      "In diphtheria, etc., the trouble began on the left side", 
+      "Diphtheria; membrane dusky, blackish; pain aggravated by hot drinks; chronic sore throat, with much hawking; mucus sticks, and cannot be forced up or down", 
       "Dry, intensely swollen, externally and internally", 
-      "QUINSY", 
-      "Sore, WORSE LEFT SIDE, SWALLOWING LIQUIDS", 
-      "VERY PAINFUL; WORSE SLIGHTEST PRESSURE, TOUCH IS EVEN MORE ANNOYING"
+      "Quinsy", 
+      "Sore, worse left side, swallowing liquids", 
+      "Very painful; worse slightest pressure, touch is even more annoying"
     ], 
     "Extremities": [
       "Sciatica, right side, better lying down", 
-      "PAIN IN TIBIA  Shortening of tendons"
+      "Pain in tibia  shortening of tendons"
     ]
   }, 
   "details": "Like all snake poisons, Lachesis decomposes the blood, rendering it more fluid; hence a hemorrhagic tendency is marked. Purpura, septic states, diphtheria, and other low forms of disease, when the system is thoroughly poisoned and the prostration is profound. The modalities are most important in guiding to the remedy. Delirium tremens with much trembling and confusion. Very important during the climacteric and for patients of a melancholic disposition. Ill effects of suppressed discharges. Diphtheritic paralysis. (BOTULINUM.) Diphtheria carriers. Sensation of tension in various parts. Cannot bear anything tight anywhere.", 
-  "Natural History": [
-    "Bush master or Surucucu"
-  ], 
+  "Natural History": "Bush master or Surucucu", 
   "dosage": "Eighth to 200th potency. Doses ought not be repeated too frequently. If well indicated, a single dose should be allowed to exhaust its action."
 }

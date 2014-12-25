@@ -12,7 +12,7 @@
       "Endocarditis and pericarditis", 
       "Oppression of chest with inability to expand the lungs", 
       "Suffocated feeling when walking fast or lying on left side", 
-      "SENSATION AS IF HEART HAD STOPPED BEATING"
+      "Sensation as if heart had stopped beating"
     ], 
     "Modalities": [
       "Worse: damp air", 
@@ -25,12 +25,10 @@
       "Numbness in left arm", 
       "Shooting in all limbs", 
       "Stiffness and sharp erratic pains; worse in joints", 
-      "FEET ITCH"
+      "Feet itch"
     ]
   }, 
   "details": "Rheumatism and cardiac lesions are prominent features in the symptomatology of this drug. STIFFNESS and soreness. Alternating pains between spleen and heart. Patient tired and stiff. Soreness when quiet. Erratic shifting of pains.", 
-  "Natural History": [
-    "Magnolia"
-  ], 
+  "Natural History": "Magnolia", 
   "dosage": "Third potency."
 }

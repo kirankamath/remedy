@@ -8,7 +8,7 @@
       "Feeling of intoxication"
     ], 
     "Fever": [
-      "HEAT PREDOMINATES", 
+      "Heat predominates", 
       "Long lasting heat, often with sweat on face", 
       "Sensation of icy coldness"
     ], 
@@ -17,18 +17,18 @@
       "Heartburn with gulping of rancid fluid", 
       "Nausea, with faintness", 
       "Eructations foul", 
-      "CHILD VOMITS CURDLED MILK IN LARGE LUMPS AFTER NURSING"
+      "Child vomits curdled milk in large lumps after nursing"
     ], 
     "Mind": [
       "Over-sensitiveness", 
       "Feels light, as if floating in air", 
       "Hallucinations at night", 
-      "IRRITABLE", 
+      "Irritable", 
       "Changeable disposition", 
       "Tremulous"
     ], 
     "Abdomen": [
-      "Thin, watery diarrhoea, WITH LUMPS OF COAGULATED MILK, WITH VIOLENT SCREAMING IN CHILDREN", 
+      "Thin, watery diarrhoea, with lumps of coagulated milk, with violent screaming in children", 
       "Bloated", 
       "Spasms in bowels after food and at night in bed", 
       "Hysterical cramps", 
@@ -47,25 +47,23 @@
     ], 
     "Throat": [
       "Nausea felt in throat", 
-      "SENSATION AS IF A THREAD WERE HANGING DOWN THROAT", 
+      "Sensation as if a thread were hanging down throat", 
       "Pharynx feels constricted"
     ], 
     "Extremities": [
       "Rheumatic pains in limbs", 
-      "CONSTANT JERKING", 
-      "Sciatica; PAIN WORSE STANDING AND RESTING ON FLOOR ; Better walking", 
-      "Pain in heels WHEN SITTING", 
+      "Constant jerking", 
+      "Sciatica; pain worse standing and resting on floor ; better walking", 
+      "Pain in heels when sitting", 
       "Heaviness"
     ], 
     "Ears": [
       "Hyperaesthesia", 
       "Nervous noises", 
-      "EARACHE FROM EXPOSURE TO DRAFTS AND COLD"
+      "Earache from exposure to drafts and cold"
     ]
   }, 
   "details": "Hysteria, over-sensitiveness, nervous affections, when apparently well-chosen remedies fail. Hysterical spasms and affections generally. HYSTERICAL FLATULENCY.", 
-  "Natural History": [
-    "Valerian"
-  ], 
+  "Natural History": "Valerian", 
   "dosage": "Tincture."
 }

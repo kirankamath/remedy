@@ -3,7 +3,7 @@
   "Relationship": "Compare in hemorrhoids: CALC. FLUOR.; ALOE; MUR-AC. in varicose veins. MANGIFERA INDICA.Complementary: FERRUM.Compare: ARNICA, CALEN.; TRILLIUM; BELLIS; SULPH-AC.; PULSATILLA.Antidote: ARNICA.", 
   "symptoms": {
     "Eyes": [
-      "Painful weakness; SORE PAIN in eyes; bloodshot appearance; inflamed vessels greatly injected", 
+      "Painful weakness; sore pain in eyes; bloodshot appearance; inflamed vessels greatly injected", 
       "Eyes feel forced out", 
       "Hastens absorption of intraocular hemorrhage"
     ], 
@@ -34,7 +34,7 @@
     "Stool": [
       "Anus feels sore and raw", 
       "Dysentery", 
-      "HEMORRHOIDS, BLEEDING PROFUSELY, WITH SORENESS", 
+      "Hemorrhoids, bleeding profusely, with soreness", 
       "Pulsation in rectum"
     ], 
     "Back": [
@@ -46,8 +46,8 @@
       "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose"
     ], 
     "Female": [
-      "METRORRHAGIA, OCCURRING MIDWAY BETWEEN MENSTRUAL PERIODS", 
-      "Menses DARK, PROFUSE, WITH SORENESS IN ABDOMEN", 
+      "Metrorrhagia, occurring midway between menstrual periods", 
+      "Menses dark, profuse, with soreness in abdomen", 
       "Uterine hemorrhage, bearing-down pain in back", 
       "Milk-leg, hemorrhoids, and sore nipples, after confinement", 
       "Ovarian congestion and neuralgia; feel very sore", 
@@ -89,8 +89,6 @@
     ]
   }, 
   "details": "Venous congestion, hemorrhages, varicose veins, and hemorrhoids, with BRUISED SORENESS OF AFFECTED PARTS, seem to be the special sphere of this remedy. Acts upon the coats of the veins causing relaxation with consequent engorgement. Passive venous hemorrhages from any part. Great value in open, painful wounds, with weakness from loss of blood. After operations, super cedes the use of morphia (Helmuth).", 
-  "Natural History": [
-    "Witch-hazel"
-  ], 
+  "Natural History": "Witch-hazel", 
   "dosage": "Tincture, to sixth attenuation. Distilled extract locally."
 }

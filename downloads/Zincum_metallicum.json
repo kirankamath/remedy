@@ -10,9 +10,9 @@
     "Head": [
       "Roaring in head", 
       "Feels as if he would fall to left side", 
-      "FOREHEAD COOL; BASE OF BRAIN HOT", 
+      "Forehead cool; base of brain hot", 
+      "Occipital pain, with weight on vertex", 
       "Hydrocephalus", 
-      "OCCIPITAL pain, with weight on vertex", 
       "Bores head into pillow", 
       "Brain-fag; headaches of overtaxed school children", 
       "Starting in fright", 
@@ -29,15 +29,15 @@
     "Stomach": [
       "Burning in stomach, heartburn from sweet things", 
       "Atonic dyspepsia, feeling as if stomach were collapsed", 
-      "CANNOT STAND SMALLEST QUANTITY OF WINE", 
+      "Cannot stand smallest quantity of wine", 
       "Hiccough, nausea, vomiting of bitter mucus", 
-      "RAVENOUS HUNGER about eleven AM  Great greediness when eating; cannot eat fast enough"
+      "Ravenous hunger about eleven am  great greediness when eating; cannot eat fast enough"
     ], 
     "Abdomen": [
       "Flatulent colic, with retraction of abdomen", 
       "Pain after a light meal, with tympanitis", 
       "Gurgling and griping; distended", 
-      "GRIPING AFTER EATING", 
+      "Griping after eating", 
       "Enlarged, indurated sore liver", 
       "Pain in spot beneath naevi", 
       "Reflex symptoms from floating kidney"
@@ -52,7 +52,7 @@
     ], 
     "Rectum": [
       "Sudden cessation of diarrhoea, followed by cerebral symptoms", 
-      "CHOLERA INFANTUM, with tenesmus; green mucous discharges", 
+      "Cholera infantum, with tenesmus; green mucous discharges", 
       "Hard, small, constipated stool"
     ], 
     "Respiratory": [
@@ -62,22 +62,22 @@
       "Child grasps genitals during cough", 
       "Hoarseness", 
       "Asthmatic bronchitis, with constriction of chest", 
-      "DYSPNOEA BETTER AS SOON AS EXPECTORATION APPEARS"
+      "Dyspnoea better as soon as expectoration appears"
     ], 
     "Eyes": [
       "Ptosis", 
       "Pterygium; smarting, lachrymation, itching", 
       "Pressure as if pressed into head", 
-      "Itching and soreness of lids and INNER ANGLES", 
-      "SQUINTING", 
-      "ROLLING OF EYES", 
+      "Itching and soreness of lids and inner angles", 
+      "Squinting", 
+      "Rolling of eyes", 
       "Blurring of one-half of vision; worse, stimulants", 
-      "Red and inflamed conjunctiva; WORSE, INNER CANTHUS", 
+      "Red and inflamed conjunctiva; worse, inner canthus", 
       "Amaurosis, with severe headache"
     ], 
     "Face": [
       "Redness and itching eruptions on chin", 
-      "PALE lips, and corners of mouth cracked", 
+      "Pale lips, and corners of mouth cracked", 
       "Tearing in facial bones"
     ], 
     "Nose": [
@@ -97,7 +97,7 @@
     "Modalities": [
       "Worse: at menstrual period", 
       "Worse: from touch", 
-      "Worse: between 5 to seven PM; after dinner", 
+      "Worse: between 5 to seven pm; after dinner", 
       "Worse: from wine", 
       "Better: while eating", 
       "Better: discharges", 
@@ -108,19 +108,19 @@
       "Weak memory", 
       "Paresis", 
       "Melancholia", 
-      "VERY SENSITIVE TO NOISE", 
-      "CHILD REPEATS EVERYTHING SAID TO IT", 
-      "LETHARGIC, STUPID", 
+      "Very sensitive to noise", 
+      "Child repeats everything said to it", 
+      "Lethargic, stupid", 
       "Averse to work, to talk"
     ], 
     "Back": [
-      "Cannot bear back TOUCHED", 
+      "Cannot bear back touched", 
       "Tension and stinging between shoulders", 
-      "BURNING ALONG SPINE", 
-      "DULL ACHING ABOUT THE LAST DORSAL OR FIRST LUMBAR VERTEBRAE; WORSE SITTING", 
+      "Burning along spine", 
+      "Dull aching about the last dorsal or first lumbar vertebrae; worse sitting", 
       "Spinal irritation", 
       "Pain in small of back", 
-      "NAPE OF NECK WEARY FROM WRITING OR ANY EXERTION", 
+      "Nape of neck weary from writing or any exertion", 
       "Tearing in shoulder-blades"
     ], 
     "Sleep": [
@@ -131,21 +131,21 @@
     ], 
     "Female": [
       "Menses flow more at night", 
-      "ALL THE FEMALE SYMPTOMS ARE ASSOCIATED WITH RESTLESSNESS, DEPRESSION, COLDNESS, SPINAL TENDERNESS AND RESTLESS FEET", 
-      "Complaints all BETTER DURING MENSTRUAL FLOW", 
+      "All the female symptoms are associated with restlessness, depression, coldness, spinal tenderness and restless feet", 
+      "Complaints all better during menstrual flow", 
       "Menses too late, suppressed; lochia suppressed", 
       "Breasts painful", 
       "Nipples sore", 
       "Dry cough before and during menses", 
       "Nymphomania of lying-in women", 
-      "Ovarian pain, ESPECIALLY LEFT; CAN'T KEEP STILL"
+      "Ovarian pain, especially left; can't keep still"
     ], 
     "Skin": [
       "Eczema, especially in the anaemic and neurotic", 
-      "Itching of thighs and HOLLOW OF KNEES", 
+      "Itching of thighs and hollow of knees", 
       "Formication of feet and legs as from bugs crawling over the skin, preventing sleep", 
-      "VARICOSE VEINS, especially of lower extremities", 
-      "RETROCESSION OF ERUPTIONS"
+      "Varicose veins, especially of lower extremities", 
+      "Retrocession of eruptions"
     ], 
     "Throat": [
       "Rawness and dryness in throat and larynx", 
@@ -153,20 +153,18 @@
       "Dry; constant inclination to hawk up tenacious mucus"
     ], 
     "Extremities": [
-      "FEET IN CONTINUED MOTION; CANNOT KEEP STILL", 
-      "Lameness, WEAKNESS, TREMBLING AND TWITCHING OF various muscles", 
+      "Feet in continued motion; cannot keep still", 
+      "Lameness, weakness, trembling and twitching of various muscles", 
       "Sweaty", 
-      "SOLES OF FEET SENSITIVE", 
-      "Convulsions, WITH PALE FACE", 
-      "TRANSVERSE PAINS, especially in upper extremity", 
+      "Soles of feet sensitive", 
+      "Convulsions, with pale face", 
+      "Transverse pains, especially in upper extremity", 
       "Steps with entire sole of foot on floor", 
       "Chilblains", 
-      "LARGE VARICOSE VEINS ON LEGS"
+      "Large varicose veins on legs"
     ]
   }, 
   "details": "The provings picture cerebral depression. The word FAG covers a large part of zinc action. Tissues are worn out faster than they are repaired. Poisoning from suppressed eruptions or discharges. The nervous symptoms of most importance. Defective vitality. Impending brain paralysis. PERIOD OF DEPRESSION IN DISEASE. Spinal affections. Twitchings. Pain, as if between skin and flesh. Great relief from discharges. Chorea, from fright or suppressed eruption. CONVULSIONS, WITH PALE FACE AND NO HEAT. Marked anaemia with profound prostration. It causes a decrease in the number, and destruction of red blood corpuscles. Repercussed eruptive diseases. In chronic diseases with brain and spinal symptoms, trembling, convulsive twitching and fidgety feet are guiding symptoms.", 
-  "Natural History": [
-    "Zinc"
-  ], 
+  "Natural History": "Zinc", 
   "dosage": "Second to sixth potency."
 }

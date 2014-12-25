@@ -4,9 +4,9 @@
   "symptoms": {
     "Eyes": [
       "Lids granulated; canthi and lids red", 
-      "SEVERE SHOOTING PAIN IN BONES OF ORBIT, ESPECIALLY RUNNING FROM INNER TO OUTER CANTHUS IN THE BONE", 
-      "PAINS FROM LACHRYMAL DUCT AROUND EYE TO TEMPLE, FROM INNER CANTHUS ACROSS BROWS TO EAR", 
-      "REDNESS OF WHOLE EYE"
+      "Severe shooting pain in bones of orbit, especially running from inner to outer canthus in the bone", 
+      "Pains from lachrymal duct around eye to temple, from inner canthus across brows to ear", 
+      "Redness of whole eye"
     ], 
     "Modalities": [
       "Worse: lying on right side"
@@ -25,7 +25,7 @@
     "Skin": [
       "Buboes", 
       "Nodes on shin-bones", 
-      "VERY FIERY-RED looking ulcers", 
+      "Very fiery-red looking ulcers", 
       "Condyloma, easily bleeding"
     ], 
     "Throat": [
@@ -38,13 +38,11 @@
       "Pain in forearm from elbow down, including hands"
     ], 
     "Male": [
-      "Prepuce swollen; WARTS on it which bleed easily; testicles enlarged; buboes; angry-looking chancres", 
+      "Prepuce swollen; warts on it which bleed easily; testicles enlarged; buboes; angry-looking chancres", 
       "Syphilides, squamous and vesicular"
     ]
   }, 
   "details": "For certain forms of ciliary neuralgia and ulceration upon a syphilitic base, this remedy is most effective. Sleepless during night.", 
-  "Natural History": [
-    "Mercuric Sulphide"
-  ], 
+  "Natural History": "Mercuric Sulphide", 
   "dosage": "First to third trituration."
 }

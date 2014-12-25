@@ -1,16 +1,14 @@
 {
-  "Natural History": [
-    "Common Flea"
-  ], 
+  "Natural History": "Common Flea", 
   "details": "Marked urinary and female symptoms.", 
   "symptoms": {
     "Head": [
       "Very impatient, cross, and irritable", 
-      "FACE WRINKLED AND OLD-LOOKING", 
-      "Frontal headache, with ENLARGED FEELING OF EYES"
+      "Face wrinkled and old-looking", 
+      "Frontal headache, with enlarged feeling of eyes"
     ], 
     "Fever": [
-      "Feels a glow all over, like being over steam; CHILLY, while sitting beside the fire"
+      "Feels a glow all over, like being over steam; chilly, while sitting beside the fire"
     ], 
     "Stomach": [
       "Abdomen bloated", 
@@ -26,7 +24,7 @@
     "Urine": [
       "Scanty with frequent urging, with pressure on bladder and burning in urethra", 
       "Cannot retain urine; must attend to the call without delay", 
-      "Flow stops suddenly followed by pain Urine foul", 
+      "Flow stops suddenly followed by pain urine foul", 
       "Irritable bladder before menses"
     ], 
     "Back": [

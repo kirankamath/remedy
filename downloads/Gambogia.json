@@ -3,14 +3,14 @@
   "Relationship": "Compare: CROTON; ALOES; POD.", 
   "symptoms": {
     "Head": [
-      "Itching and burning in eyes; lids stick together, with SNEEZING", 
+      "Itching and burning in eyes; lids stick together, with sneezing", 
       "Heavy, with inertia, and drowsiness"
     ], 
     "Stomach": [
-      "Diarrhoea, with SUDDEN AND FORCIBLE EJECTION OF bilious stools", 
+      "Diarrhoea, with sudden and forcible ejection of bilious stools", 
       "Tenderness in epigastrium", 
       "Pain in coccyx", 
-      "TENESMUS AFTER, WITH BURNING AT ANUS", 
+      "Tenesmus after, with burning at anus", 
       "Pain and distention of abdomen from flatulence, after stool", 
       "Great irritability of the stomach; burning, smarting, and dryness of the tongue and throat", 
       "Pain in the stomach after food", 
@@ -18,12 +18,13 @@
       "Ileocecal region sensitive to pressure", 
       "Profuse, watery diarrhoea in hot weather, particularly old people", 
       "Dysentery, with retained scybala, with pain in sacral region", 
-      "RUMBLING AND ROLLING"
+      "Rumbling and rolling"
+    ], 
+    "Modalities": [
+      "Worse: towards evening and at night"
     ]
   }, 
   "details": "The use of this drug in Homeopathy has been confined to its action on the alimentary tract. It produces a diarrhoea very similar to Croton. From its pathogenesis, it is very evident that it has very intense and definite action especially on the gastroenteric tract.", 
-  "Natural History": [
-    "Garcinia MorellaGummi Gutti"
-  ], 
+  "Natural History": "Garcinia MorellaGummi Gutti", 
   "dosage": "Third to thirtieth potency. Gamboge painted on the chest in lung tuberculosis is considered by Abrams specific and incipient cases are symptomatically cured in several weeks."
 }

@@ -20,7 +20,7 @@
     ], 
     "Abdomen": [
       "Griping and diarrhoea", 
-      "Dysentery, with TYMPANITES, tenesmus; in-odorous discharges"
+      "Dysentery, with tympanites, tenesmus; in-odorous discharges"
     ], 
     "Face": [
       "Pharyngitis", 
@@ -33,11 +33,11 @@
     ], 
     "Female": [
       "Menses thick, almost black", 
-      "Ovarian neuralgia, with pain in loins and lower abdomen; worse, LEFT SIDE, extending down the thigh, along genitocrural nerves", 
-      "NEURALGIC DYSMENORRHOEA, with neuralgic headaches; pain in BACK AND DOWN LEGS", 
+      "Ovarian neuralgia, with pain in loins and lower abdomen; worse, left side, extending down the thigh, along genitocrural nerves", 
+      "Neuralgic dysmenorrhoea, with neuralgic headaches; pain in back and down legs", 
       "Menses too early and painful", 
       "Leucorrhoea at time of menses", 
-      "AFTER PAINS", 
+      "After pains", 
       "Neurasthenic patients who are thin, emaciated; poor assimilation with insomnia and occipital headache"
     ], 
     "Extremities": [
@@ -52,8 +52,6 @@
     ]
   }, 
   "details": "Its specific action is on the nervous system and mucous membranes. Paralysis, especially HEMIPLEGIA. Painful hemorrhages, after-pains, NEURALGIC DYSMENORRHOEA, and rheumatic affections, offer a therapeutic field for this remedy, especially in patients of spare habit and nervous, delicate organization. Indigestion from over-eating or from too much fluid. Sluggish capillary circulation. Neurasthenia, poor assimilation, insomnia, occipital headache. Increases mucous secretion of mouth and stimulates the secretion from all glands with ducts opening in the mouth.", 
-  "Natural History": [
-    "Prickly Ash"
-  ], 
+  "Natural History": "Prickly Ash", 
   "dosage": "First to sixth potency."
 }

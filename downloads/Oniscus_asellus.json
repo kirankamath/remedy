@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "MillepedeWood-louse"
-  ], 
+  "Natural History": "MillepedeWood-louse", 
   "symptoms": {
     "Head": [
       "Painful pressure above the root of nose", 
@@ -13,11 +11,11 @@
       "Vomiting"
     ], 
     "Urine": [
-      "TENESMUS OF BLADDER AND RECTUM, with absence of stool and urine", 
+      "Tenesmus of bladder and rectum, with absence of stool and urine", 
       "Cutting, burning in urethra"
     ], 
     "Abdomen": [
-      "Distended; METEORISM; VERY SEVERE COLIC"
+      "Distended; meteorism; very severe colic"
     ]
   }, 
   "name": "Oniscus asellus", 

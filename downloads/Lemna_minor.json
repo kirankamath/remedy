@@ -5,13 +5,13 @@
     "Modalities": [
       "Worse: in damp", 
       "Worse: rainy weather", 
-      "Worse: especially HEAVY RAINS"
+      "Worse: especially heavy rains"
     ], 
     "Abdomen": [
       "Disposition to noisy diarrhoea"
     ], 
     "Mouth": [
-      "PUTRID TASTE on rising in the morning", 
+      "Putrid taste on rising in the morning", 
       "Dry pharynx and larynx"
     ], 
     "Nose": [
@@ -20,12 +20,10 @@
       "Reduces nasal obstruction when it is an edematous condition", 
       "Pain like a string from nostrils to ear", 
       "Crusts and mucopurulent discharge very abundant", 
-      "PUTRID SMELL; loss of smell"
+      "Putrid smell; loss of smell"
     ]
   }, 
   "details": "A catarrhal remedy. Acts especially upon the nostrils. NASAL POLYPI; SWOLLEN TURBINATES. ATROPHIC RHINITIS. Asthma from nasal obstruction; worse in wet weather.", 
-  "Natural History": [
-    "Duckweed"
-  ], 
+  "Natural History": "Duckweed", 
   "dosage": "Third to thirtieth potency."
 }

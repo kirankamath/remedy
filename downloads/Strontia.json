@@ -21,18 +21,18 @@
       "Flushes in face; violent pulsating", 
       "Aches from nape of neck, spreading upwards; better wrapping head up warmly", 
       "Supraorbital neuralgia; pains increase and decrease slowly", 
-      "VERTIGO WITH HEADACHE AND NAUSEA", 
+      "Vertigo with headache and nausea", 
       "Itching, redness and burning of nose", 
       "Distensive pressure"
     ], 
     "Abdomen": [
       "Sticking in abdominal ring", 
       "Uncomfortable fullness and swelling of abdomen", 
-      "Diarrhoea; WORSE AT NIGHT; CONTINUOUS URGING; better towards morning", 
+      "Diarrhoea; worse at night; continuous urging; better towards morning", 
       "Burning in anus lasts a long time after stool"
     ], 
     "Skin": [
-      "SPRAINS OF ANKLE-JOINT, WITH EDEMA", 
+      "Sprains of ankle-joint, with edema", 
       "Violent perspiration at night", 
       "Moist, itching, burning eruption; better in open air, especially warm sunshine"
     ], 
@@ -43,15 +43,13 @@
       "Veins of hands engorged", 
       "Gnawing as if in marrow of bones", 
       "Rheumatic pain in right shoulder", 
-      "CHRONIC spasms, particularly of ankle-joint", 
+      "Chronic spasms, particularly of ankle-joint", 
       "Rheumatic pains, especially in joints", 
       "Cramps in calves and soles", 
       "Icy-cold feet"
     ]
   }, 
   "details": "Rheumatic pains, chronic sprains, stenosis of oesophagus. Pains make patient faint or sick all over. Chronic SEQUALAE OF HEMORRHAGES, after operations with much oozing of blood and coldness and prostration. Arteriosclerosis. High blood pressure with flushed face pulsating arteries, threatened apoplexy. Violent involuntary starts. Affections of bones, especially femur. Restlessness at night, smothering feeling. FOR SHOCK AFTER SURGICAL OPERATIONS. NEURITIS, great sensitiveness to cold.", 
-  "Natural History": [
-    "Carbonate of STRONTIA"
-  ], 
+  "Natural History": "Carbonate of STRONTIA", 
   "dosage": "Sixth trituration and thirtieth potency."
 }

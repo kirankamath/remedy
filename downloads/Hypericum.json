@@ -5,32 +5,32 @@
     "Head": [
       "In fractured skull, bone splinters", 
       "Facial neuralgia and toothache of a pulling, tearing character, with sadness", 
-      "HEAD FEELS LONGER - elongated to a point", 
+      "Head feels longer - elongated to a point", 
       "Brain feels alive", 
       "Brain seems compressed", 
-      "THROBBING IN VERTEX; worse in close room", 
+      "Throbbing in vertex; worse in close room", 
       "Pains in eyes and ears", 
       "Falling out of hair", 
       "Brain-fag and neurasthenia", 
-      "Heavy; feels as if touched by AN ICY COLD HAND", 
+      "Heavy; feels as if touched by an icy cold hand", 
       "Right side of face aches"
     ], 
     "Respiratory": [
-      "Asthma WORSE foggy weather and relieved by profuse perspiration"
+      "Asthma worse foggy weather and relieved by profuse perspiration"
     ], 
     "Stomach": [
       "Feeling of lump in stomach", 
-      "Thirst; NAUSEA", 
+      "Thirst; nausea", 
       "Craving for wine", 
       "Tongue coated white at base, tip clean"
     ], 
     "Rectum": [
-      "HEMORRHOIDS, with pain, bleeding, and tenderness", 
+      "Hemorrhoids, with pain, bleeding, and tenderness", 
       "Urging, dry, dull, pressing pain"
     ], 
     "Modalities": [
       "Worse: in cold; dampness", 
-      "Worse: in a FOG; in close room; least exposure; touch", 
+      "Worse: in a fog; in close room; least exposure; touch", 
       "Better: bending head backward"
     ], 
     "Mind": [
@@ -43,7 +43,7 @@
       "Coccyx injury from fall, with pain radiating up spine and down limbs", 
       "Spinal concussion", 
       "Pain in nape of neck", 
-      "PRESSURE OVER SACRUM", 
+      "Pressure over sacrum", 
       "Jerking and twitching of muscles"
     ], 
     "Skin": [
@@ -56,20 +56,17 @@
       "Hysterical joints", 
       "Traumatic neuralgia and neuritis", 
       "Tetanus", 
-      "NEURITIS, with tingling, burning pain, numbness and flossy skin", 
+      "Neuritis, with tingling, burning pain, numbness and flossy skin", 
       "Darting pain in shoulders", 
       "Pain in toes and fingers, especially in tips", 
       "Cramp in calves", 
       "Pressure along ulnar side of arm", 
       "Joints feel bruised", 
-      "CRAWLING IN HAND AND FEET", 
+      "Crawling in hand and feet", 
       "Lancinating pain in upper and lower limbs"
     ]
   }, 
   "details": "The great remedy for injuries to nerves, especially of fingers, toes and nails. Crushed fingers, especially tips. Excessive painfulness is a guiding symptom to its use. Prevents lockjaw. PUNCTURED wounds. Relieves pain after operations. Quite supersedes the use of Morphia after operations. (Helmuth.) Spasms after every injury. Has an important action on the rectum; hemorrhoids. COCCYDYNIA. Spasmodic asthmatic attacks with changes of weather or before storms, better by copious expectoration. Injured nerves from bites of animals. Tetanus. Neuritis, tingling, burning and numbness. Constant drowsiness.", 
-  "Natural History": [
-    "John's-wort", 
-    "St"
-  ], 
+  "Natural History": "St. John's-wort", 
   "dosage": "Tincture, to third potency."
 }

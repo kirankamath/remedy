@@ -16,7 +16,7 @@
     ], 
     "Respiratory": [
       "Spasm of the glottis", 
-      "Suffocative attacks, worse three AM  SPASM AND CONSTRICTION of chest; spasmodic asthma, alternating with spasmodic vomiting", 
+      "Suffocative attacks, worse three am  spasm and constriction of chest; spasmodic asthma, alternating with spasmodic vomiting", 
       "Cough has a gurgling sound, better by drinking cold water", 
       "Dyspnoea with epigastric uneasiness", 
       "Angina with asthmatic symptoms and cramps", 
@@ -27,9 +27,9 @@
       "Strong metallic taste", 
       "Vomiting, relieved by drinking cold water; with colic, diarrhoea, spasms", 
       "Hiccough preceding the spasms", 
-      "WHEN DRINKING, THE FLUID DESCENDS WITH GURGLING SOUND", 
+      "When drinking, the fluid descends with gurgling sound", 
       "Craves cool drink", 
-      "NAUSEA"
+      "Nausea"
     ], 
     "Head": [
       "Fixed ideas, malicious and morose", 
@@ -53,18 +53,18 @@
       "Black, painful, bloody, with tenesmus and weakness"
     ], 
     "Abdomen": [
-      "COLIC, violent and intermittent", 
+      "Colic, violent and intermittent", 
       "Neuralgia of abdominal viscera", 
       "Intussusception", 
-      "Tense, hot and tender to touch; CONTRACTED"
+      "Tense, hot and tender to touch; contracted"
     ], 
     "Face": [
-      "Distorted, PALE BLUISH, with blue lips", 
-      "CONTRACTION OF JAWS, with foam at mouth"
+      "Distorted, pale bluish, with blue lips", 
+      "Contraction of jaws, with foam at mouth"
     ], 
     "Mouth": [
       "Paralysis of tongue", 
-      "STRONG METALLIC, SLIMY TASTE, with flow of saliva", 
+      "Strong metallic, slimy taste, with flow of saliva", 
       "Stammering speech", 
       "Constant protrusion and retraction of the tongue, like a snake"
     ], 
@@ -74,13 +74,13 @@
     "Female": [
       "Ebullition of blood; palpitation", 
       "Cramps, extending into chest, before, during, or after suppression of menses", 
-      "AFTER-PAINS", 
+      "After-pains", 
       "Also, from suppressed foot sweats", 
       "Menses too late, protracted", 
       "Chlorosis"
     ], 
     "Skin": [
-      "BLUISH, marbled", 
+      "Bluish, marbled", 
       "Chronic psoriasis and lepra", 
       "Ulcers, itching spots, and pimples at the folds of joints"
     ], 
@@ -95,13 +95,11 @@
       "Epilepsy; aura begins in knees", 
       "Jerking, twitching of muscles", 
       "Cramps in palm", 
-      "CRAMPS IN CALVES AND SOLES", 
+      "Cramps in calves and soles", 
       "Coldness of hands"
     ]
   }, 
   "details": "SPASMODIC AFFECTIONS, CRAMPS, convulsions, beginning in fingers and toes, violent, contractive, and intermitting pain, are some of the more marked expressions of the action of Cuprum; and its curative range therefore includes tonic and clonic spasms, convulsions, and epileptic attacks. Chorea brought on by fright. Nausea greater than in any other remedy. In epilepsy, aura begins at knees, ascends to hypogastrium; then unconsciousness, foaming, and falling. Symptoms disposed to appear periodically and in groups. Complaints begin in left side. (LACHES.) Tape worm (colloidal Cuprum 3x) Where eruptions strike in, as in scarlet fever, complaints may result, such as excessive vomiting, stupor, convulsions, which come within the sphere of this remedy. The pains are increased by movement and touch.", 
-  "Natural History": [
-    "Copper"
-  ], 
+  "Natural History": "Copper", 
   "dosage": "Sixth to thirtieth potency."
 }

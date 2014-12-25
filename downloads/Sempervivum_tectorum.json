@@ -6,18 +6,16 @@
       "Malignant ulcers of mouth", 
       "Cancer of tongue", 
       "Whole mouth very tender", 
-      "Tongue has ulcers; BLEED EASILY, especially at night; much soreness of tongue with STABBING pains"
+      "Tongue has ulcers; bleed easily, especially at night; much soreness of tongue with stabbing pains"
     ], 
     "Skin": [
       "Aphthae", 
       "Erysipelatous affections", 
-      "WARTS and corns", 
+      "Warts and corns", 
       "Flushed surface and stinging pains"
     ]
   }, 
   "details": "Is recommended for herpes, zoster and CANCEROUS TUMORS. Scirrhous induration of tongue. Mammary carcinoma. Ringworm. Hemorrhoids.", 
-  "Natural History": [
-    "House leek"
-  ], 
+  "Natural History": "House leek", 
   "dosage": "Tincture and 2 decimal, also fresh juice of plant. Locally for bites of insects, stings of bees, and poisoned wounds, WARTS."
 }

@@ -18,16 +18,16 @@
       "Tightness of chest, is obliged to take a deeper breath", 
       "Globus hystericus", 
       "Sudden constriction of larynx and trachea", 
-      "DIFFICULT RESPIRATION; CHEST OPPRESSED; hysterical spasm of chest; asthma", 
+      "Difficult respiration; chest oppressed; hysterical spasm of chest; asthma", 
       "Spasm of glottis", 
-      "COUGH CEASES, MUCUS CANNOT BE EXPECTORATED", 
+      "Cough ceases, mucus cannot be expectorated", 
       "Asthma, with intense anxiety, fear, and smothering sensation", 
       "Impending paralysis of lungs"
     ], 
     "Stomach": [
       "Abdomen greatly distended", 
       "Aversion to food", 
-      "SPASMODIC, NERVOUS HICCOUGH", 
+      "Spasmodic, nervous hiccough", 
       "Desire for black coffee, stimulants", 
       "With stomach symptoms, anxiety in chest", 
       "Faints when eating", 
@@ -41,11 +41,11 @@
     ], 
     "Urine": [
       "Profuse urination", 
-      "DIABETES"
+      "Diabetes"
     ], 
     "Mind": [
       "Sexual hypochondriasis", 
-      "UNCONTROLLABLE LAUGHTER", 
+      "Uncontrollable laughter", 
       "Anxiety, with palpitation; starting as if frightened", 
       "Scolding"
     ], 
@@ -56,14 +56,12 @@
     ], 
     "Male": [
       "Premature senility", 
-      "VIOLENT DESIRE; involuntary emissions", 
+      "Violent desire; involuntary emissions", 
       "Impotence, associated with diabetes", 
       "Nausea and vomiting after coition"
     ]
   }, 
   "details": "A remedy for hysteria and nervous paroxysms, FAINTING FITS and convulsions, catalepsy, etc. The characteristic condition begin aggravation by cold; there is great sensitiveness to air. Much nervous trembling and frequent fainting. Great flatulence. Diseases do not follow a normal course. COLDNESS. Tension in muscles, skin and mind.", 
-  "Natural History": [
-    "Musk"
-  ], 
+  "Natural History": "Musk", 
   "dosage": "First to third potency."
 }

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Cyanide of Mercury"
-  ], 
+  "Natural History": "Cyanide of Mercury", 
   "details": "Livid states from great struggling, where suffocation is imminent and paralysis of lung threatening; great sweat.Acute infections, pneumonia, nephritis. Its action is similar to that of the toxins of infectious diseases. Great and rapid prostration, tendency toward hemorrhages, from the different orifices, of dark fluid blood, cyanosis, rapid respiration and heart action, albuminuria and twitching and jerking of muscles. Typhoid pneumonia.Affects most prominently the buccal cavity. This, together with marked prostration, gives it a place in the treatment of DIPHTHERIA, where it has achieved unquestioned great results. Malignant types, with prostration. Coldness and nausea. Syphilitic ulcers when perforation threatens.", 
   "symptoms": {
     "Head": [
@@ -22,7 +20,7 @@
       "Free salivation", 
       "Fetor of breath", 
       "Tongue pale", 
-      "ULCERATIONS of mouth have a gray membrane", 
+      "Ulcerations of mouth have a gray membrane", 
       "Covered with ulceration", 
       "Pain and swelling of salivary glands"
     ], 
@@ -38,7 +36,7 @@
       "Mucous membranes broken down, ulcerated", 
       "Hoarseness, and talking is painful", 
       "Intense redness of fauces", 
-      "NECROTIC DESTRUCTION OF SOFT PARTS OF PALATE AND FAUCES"
+      "Necrotic destruction of soft parts of palate and fauces"
     ], 
     "Rectum": [
       "Intolerable pain", 

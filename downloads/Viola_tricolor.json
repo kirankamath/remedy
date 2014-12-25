@@ -11,8 +11,8 @@
       "Copious; disagreeable, cat-like odor"
     ], 
     "Skin": [
-      "IMPETIGO", 
-      "WORSE, winter; eleven AM Compare: LYCOP", 
+      "Impetigo", 
+      "Worse, winter; eleven am compare: lycop", 
       "Thick scabs, which crack and exude a tenacious yellow pus", 
       "Intolerable itching", 
       "Eruptions, particularly over face and head, with burning, itching; worse at night", 
@@ -31,8 +31,6 @@
     ]
   }, 
   "details": "The principal uses of this remedy are for eczema in childhood and nocturnal emission accompanied by very vivid dreams.", 
-  "Natural History": [
-    "Pansy"
-  ], 
+  "Natural History": "Pansy", 
   "dosage": "Lower potencies."
 }

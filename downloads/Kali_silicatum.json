@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Silicate of Potash"
-  ], 
+  "Natural History": "Silicate of Potash", 
   "details": "Gouty nodositiesA deep-acting remedy. Lassitude is very marked. Desire to lie down all the time. Emaciation.", 
   "symptoms": {
     "Gastric": [
@@ -20,10 +18,10 @@
     ], 
     "Head": [
       "Head congested, blood surges from body to head", 
-      "Nasal catarrh, discharge BLOODY, excoriating, offensive nose, swollen, ulcerated", 
       "Feeble will power", 
       "Absent-minded, anxious, indolent, timid", 
-      "Vertigo, coldness of head; photophobia"
+      "Vertigo, coldness of head; photophobia", 
+      "Nasal catarrh, discharge bloody, excoriating, offensive nose, swollen, ulcerated"
     ], 
     "Extremities": [
       "Weak and weary", 

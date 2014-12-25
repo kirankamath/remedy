@@ -5,22 +5,22 @@
     "Head": [
       "Headache alternates with lumbago, with intestinal and uterine affections", 
       "Disinclination to mental labor", 
-      "ACHES ABOVE FOREHEAD, WITH HEAVINESS IN EYES, MUST PARTIALLY CLOSE THEM"
+      "Aches above forehead, with heaviness in eyes, must partially close them"
     ], 
     "Stomach": [
       "Pain in pit when making false step", 
       "Longing for juicy things", 
       "Aversion to meat", 
-      "After eating, flatulence, PULSATION IN RECTUM, and sexual irritation", 
+      "After eating, flatulence, pulsation in rectum, and sexual irritation", 
       "Nausea, with headache"
     ], 
     "Abdomen": [
       "Burning, copious flatus", 
-      "ABDOMEN FEELS FULL, HEAVY, HOT, BLOATED", 
+      "Abdomen feels full, heavy, hot, bloated", 
       "Colic before and during stool", 
       "Fullness in region of liver, pain under right ribs", 
       "Weak feeling, as if diarrhoea would come on", 
-      "SENSATION OF PLUG BETWEEN SYMPHYSIS PUBIS AND OS COCCYGES, with urging to stool", 
+      "Sensation of plug between symphysis pubis and os coccyges, with urging to stool", 
       "Pain around navel, worse pressure", 
       "Pulsating pain around navel", 
       "Great accumulation of flatus, pressing downwards, causing distress in lower bowels"
@@ -38,20 +38,20 @@
       "Stool passes without effort, almost unnoticed", 
       "Constipation, with heavy pressure in lower part of abdomen", 
       "Lumpy, watery stool", 
-      "SENSE OF INSECURITY IN RECTUM, when passing flatus", 
+      "Sense of insecurity in rectum, when passing flatus", 
       "Feeling of weakness and loss of power of sphincter ani", 
       "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water", 
-      "A LOT OF MUCUS, WITH PAIN IN RECTUM AFTER STOOL", 
-      "BURNING IN ANUS and rectum"
+      "A lot of mucus, with pain in rectum after stool", 
+      "Burning in anus and rectum"
     ], 
     "Respiratory": [
       "Difficult respiration, with stitches from liver to chest", 
       "Winter coughs, with itching"
     ], 
     "Eyes": [
-      "PAIN DEEP IN ORBITS", 
+      "Pain deep in orbits", 
       "Compelled to make small during pain in forehead", 
-      "Redness of eyes with YELLOW vision", 
+      "Redness of eyes with yellow vision", 
       "Flickering before eyes"
     ], 
     "Face": [
@@ -83,7 +83,7 @@
       "Scanty and high colored"
     ], 
     "Back": [
-      "LUMBAGO ALTERNATING WITH HEADACHE AND PILES", 
+      "Lumbago alternating with headache and piles", 
       "Stitches through sacrum", 
       "Pain in small of back; worse moving"
     ], 
@@ -97,12 +97,10 @@
     "Extremities": [
       "Lameness in all limbs", 
       "Soles pain when walking", 
-      "DRAWING PAINS IN JOINTS"
+      "Drawing pains in joints"
     ]
   }, 
   "details": "An excellent remedy to aid in re-establishing physiological equilibrium after much dosing, where disease and drug symptoms are much mixed. There is no remedy richer in symptoms of portal congestion and none that has given better clinical results, both for the primary pathological condition and secondary phenomena. Bad effects from sedentary life or habits. Especially suitable to lymphatic and hypochondriacal patients. The rectal symptoms usually determine the choice. Adapted to weary people, the aged, and phlegmatic, old beer-drinkers. Dissatisfied and angry about himself, alternating with lumbago. Heat internally and externally. Has been used successfully in the treatment of consumption by giving the pure juice.", 
-  "Natural History": [
-    "Socotrine Aloes"
-  ], 
+  "Natural History": "Socotrine Aloes", 
   "dosage": "Sixth potency and higher. In rectal conditions, a few doses of the third, then wait."
 }

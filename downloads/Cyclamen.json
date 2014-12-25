@@ -6,20 +6,20 @@
       "Diplopia", 
       "Disturbance of vision, associated with gastric disturbances", 
       "Convergent strabismus", 
-      "SEES COUNTLESS STARS", 
+      "Sees countless stars", 
       "Dim vision, worse on waking, with spots before eyes", 
-      "FLICKERING OF VARIOUS COLORS"
+      "Flickering of various colors"
     ], 
     "Stomach": [
       "No thirst all day", 
-      "Diarrhoea after every cup of coffee; HICCOUGH", 
-      "SALTY TASTE; hiccough-like eructation worse, fat food", 
+      "Diarrhoea after every cup of coffee; hiccough", 
+      "Salty taste; hiccough-like eructation worse, fat food", 
       "Disgust for meat, especially pork", 
       "Satiety after a few mouthfuls", 
       "Desire for lemonade"
     ], 
     "Rectum": [
-      "PAIN ABOUT ANUS AND PERINEUM, as if a spot were suppurating, when walking or sitting"
+      "Pain about anus and perineum, as if a spot were suppurating, when walking or sitting"
     ], 
     "Modalities": [
       "Worse: open air", 
@@ -35,7 +35,7 @@
       "Terrors of conscience", 
       "Vertigo; things turn in a circle; better in the room; worse, open air", 
       "One-sided headache", 
-      "Aching in morning, with FLICKERING BEFORE EYES; sneezing with itching in ear", 
+      "Aching in morning, with flickering before eyes; sneezing with itching in ear", 
       "Frequent sneezing with itching in ears", 
       "Grieves over duty neglected", 
       "Depression, with weeping desire to be alone"
@@ -43,10 +43,10 @@
     "Female": [
       "Postpartum hemorrhage, with colicky bearing-down pains, with relief after gush of blood", 
       "After menses, swelling of breasts, with milky secretion", 
-      "HICCOUGH DURING PREGNANCY", 
+      "Hiccough during pregnancy", 
       "Flow less when moving about", 
       "Menstrual irregularities with megrim and blindness, or fiery spots before eyes", 
-      "Menses PROFUSE, BLACK, membranous, CLOTTED, TOO EARLY, WITH LABOR-LIKE PAINS from back to pubes"
+      "Menses profuse, black, membranous, clotted, too early, with labor-like pains from back to pubes"
     ], 
     "Skin": [
       "Acne in young women, pruritus better scratching and appearance of menses"
@@ -54,14 +54,12 @@
     "Extremities": [
       "Pains in periosteum", 
       "Chilblains", 
-      "Burning, SORE PAIN IN HEELS", 
+      "Burning, sore pain in heels", 
       "Pains in parts where bones lie near surface", 
       "Cramp-like contraction of right thumb and index finger"
     ]
   }, 
   "details": "Large doses produce violent purging and vomiting; disturbed digestion with very salty saliva. Anaemic and chlorotic conditions. Affections of uterus. Gastrointestinal and genitourinary tracts affected, inducing secondary anaemia and various reflexes. SLEEPINESS, MOROSENESS, AND LASSITUDE. Cough at night while asleep without waking, especially in children. (CHAM.; NIT-AC.)", 
-  "Natural History": [
-    "Sow-Bread"
-  ], 
+  "Natural History": "Sow-Bread", 
   "dosage": "Third attenuation."
 }

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Rattlesnake"
-  ], 
+  "Natural History": "Rattlesnake", 
   "symptoms": {
     "Urine": [
       "Casts", 
@@ -21,7 +19,7 @@
       "Headache; must walk on tip-toe to avoid jarring"
     ], 
     "Fever": [
-      "Malignant fevers of a HEMORRHAGIC OR PUTRESCINE CHARACTER", 
+      "Malignant fevers of a hemorrhagic or putrescine character", 
       "Yellow fever", 
       "Cerebrospinal meningitis", 
       "Cold sweats", 
@@ -61,13 +59,13 @@
       "Tickling from a dry spot in larynx"
     ], 
     "Eyes": [
-      "CILIARY NEURALGIA; tearing, boring pain, as if a cut had been made around eyes", 
+      "Ciliary neuralgia; tearing, boring pain, as if a cut had been made around eyes", 
       "Diplopia", 
       "Auditory vertigo", 
-      "FOR ABSORPTION OF INTRAOCULAR HEMORRHAGES, into the vitreous, but particularly for non-inflammatory retinal Hemorrhages", 
+      "For absorption of intraocular hemorrhages, into the vitreous, but particularly for non-inflammatory retinal hemorrhages", 
       "Illusions; blue colors", 
       "Feeling of stoppage in right ear", 
-      "Very sensitive to light, especially LAMP LIGHT", 
+      "Very sensitive to light, especially lamp light", 
       "Yellow color of eyes", 
       "Blood oozes from ears", 
       "Ears"
@@ -79,7 +77,7 @@
       "Lips swollen and numb"
     ], 
     "Nose": [
-      "Epistaxis, BLOOD BLACK AND STRINGY, ozaena, after exanthemata or syphilis"
+      "Epistaxis, blood black and stringy, ozaena, after exanthemata or syphilis"
     ], 
     "Heart": [
       "Palpitation, especially at menstrual period", 
@@ -88,7 +86,7 @@
     ], 
     "Modalities": [
       "Worse: right side; open air; evening and morning; in spring", 
-      "Worse: coming on of warm weather; yearly; on awaking; damp and wet; JAR"
+      "Worse: coming on of warm weather; yearly; on awaking; damp and wet; jar"
     ], 
     "Mind": [
       "Loquacious, with desire to escape", 
@@ -115,20 +113,20 @@
     "Skin": [
       "Lymphangitis and septicaemia", 
       "Vesication", 
-      "SALLOW", 
+      "Sallow", 
       "Pustular eruption", 
       "Dissecting wounds", 
       "Bad effects of vaccination", 
       "Bloody sweat", 
       "Yellow color of the whole body", 
       "Boils, carbuncles, and eruptions are surrounded by purplish, mottled skin and oedema", 
-      "PURPURA HEMORRHAGICA", 
+      "Purpura hemorrhagica", 
       "Sore sensation relieved by pressure", 
       "Anthrax", 
       "Chilblains, felons", 
       "Hemorrhages from every part of body", 
       "Insect stings", 
-      "Great sensitiveness of skin of RIGHT HALF of body", 
+      "Great sensitiveness of skin of right half of body", 
       "Swelling and discoloration, skin tense and shows every tint of color, with excruciating pain", 
       "Post-vaccination eruptions"
     ], 
@@ -141,7 +139,7 @@
     "Extremities": [
       "Hands tremble, swollen", 
       "Lower extremities go to sleep easily", 
-      "RIGHT-SIDED PARALYSIS"
+      "Right-sided paralysis"
     ]
   }, 
   "name": "Crotalus horridus", 

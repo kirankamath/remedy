@@ -3,7 +3,7 @@
   "Relationship": "Compare: Selen.; Alum.; Platina; Stannum; Ampelopsis. (Chronic hoarseness in scrofulous patients.)Antidotes: Mercur.; Puls.", 
   "symptoms": {
     "Head": [
-      "HEAD FEELS EMPTY, HOLLOW", 
+      "Head feels empty, hollow", 
       "Exhausting coryza, with sneezing", 
       "Pain between left eye and frontal eminence", 
       "Vertigo, with intoxicated feeling, on looking at running water", 
@@ -15,22 +15,22 @@
     "Respiratory": [
       "Alteration in timbre of voice", 
       "Total loss of voice of professional singers", 
-      "EASY EXPECTORATION, LOOKING LIKE BOILED STARCH", 
-      "COUGH FROM LAUGHING", 
-      "WORSE FROM USE OF VOICE", 
+      "Easy expectoration, looking like boiled starch", 
+      "Cough from laughing", 
+      "Worse from use of voice", 
       "On reading aloud, must hem and hawk", 
-      "FEELING OF RAW SPOT NEAR SUPRA STERNA FOSSA", 
-      "GREAT WEAKNESS OF CHEST; worse at left side", 
+      "Feeling of raw spot near supra sterna fossa", 
+      "Great weakness of chest; worse at left side", 
       "Hectic fever at noon", 
       "Larynx feels sore and raw", 
-      "HOARSENESS Aphonia", 
+      "Hoarseness aphonia", 
       "Pain in left lower ribs", 
       "Raw, sore feeling when coughing"
     ], 
     "Urine": [
       "Diuresis", 
       "Polyuria", 
-      "Urine PROFUSE, TURBID, sweet odor", 
+      "Urine profuse, turbid, sweet odor", 
       "Frequent urination"
     ], 
     "Back": [
@@ -39,33 +39,31 @@
     "Female": [
       "Bearing-down pain", 
       "Pain in left ovary", 
-      "LEUCORRHEA foul, excoriating", 
+      "Leucorrhea foul, excoriating", 
       "Palliative in scirrhus of uterus", 
       "Ovaries feel too large", 
-      "CLIMACTERIC HEMORRHAGE", 
-      "ERODED SPONGY CERVIX", 
+      "Climacteric hemorrhage", 
+      "Eroded spongy cervix", 
       "Sore feeling throughout abdomen", 
       "Prolapse of womb"
     ], 
     "Throat": [
-      "PROFUSE AND EASY morning expectoration", 
-      "Raw, hawking, gray, JELLY-LIKE MUCUS, and throat sore on coughing"
+      "Profuse and easy morning expectoration", 
+      "Raw, hawking, gray, jelly-like mucus, and throat sore on coughing"
     ], 
     "Extremities": [
       "Legs weak and trembling, worse descending stairs", 
       "Rheumatic affections of joints, especially elbow and knee", 
-      "SWELLING OF ANKLES", 
+      "Swelling of ankles", 
       "Involuntary contractions of fingers, partial paralysis of forearm; writer's cramp"
     ], 
     "Male": [
-      "SEMINAL EMISSIONS, WITHOUT SEXUAL EXCITEMENT", 
+      "Seminal emissions, without sexual excitement", 
       "Frequent micturition with burning", 
       "Crushed pain in testicles"
     ]
   }, 
   "details": "Emaciation, a gradual drying up, desire for fresh air, dyspnoea, sensation of expansion and left-sided pains are characteristic. The chief action is centered on the articulations and their component elements, bones, cartilages, and ligaments. Here the small blood vessels become closed up or withered and carious affections result. They come on insidiously, lingering, but progress. The larynx is also a special center for this drug.Mental.Hurried feeling; time passes slowly; melancholy.", 
-  "Natural History": [
-    "Silver"
-  ], 
+  "Natural History": "Silver", 
   "dosage": "Sixth trituration and higher. Not too frequent repetition."
 }

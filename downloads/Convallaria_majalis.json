@@ -3,7 +3,7 @@
   "Relationship": "Compare: DIGIT.; CRATAEG.; LILIUM; ADONIS (feeble heart action due only to functional disturbance).", 
   "symptoms": {
     "Heart": [
-      "SENSATION AS IF HEART CEASED BEATING, THEN STARTING VERY SUDDENLY", 
+      "Sensation as if heart ceased beating, then starting very suddenly", 
       "Angina pectoris", 
       "Tobacco heart, especially when due to cigarettes", 
       "Endocarditis, with extreme orthopnoea", 
@@ -56,7 +56,7 @@
       "Pulmonary congestion", 
       "Hot feeling in throat", 
       "Orthopnoea", 
-      "DYSPNOEA while walking"
+      "Dyspnoea while walking"
     ], 
     "Mouth": [
       "Coppery taste", 
@@ -65,13 +65,11 @@
     ], 
     "Female": [
       "Pain in sacroiliac joints, running down leg", 
-      "Great SORENESS IN UTERINE REGION, WITH SYMPATHETIC PALPITATION OF HEART", 
+      "Great soreness in uterine region, with sympathetic palpitation of heart", 
       "Itching of urinary meatus and vaginal orifice"
     ]
   }, 
   "details": "A heart remedy. Increases energy of heart's action, renders it more regular. Of use when the ventricles are over distended and dilatation begins, and when there is an absence of compensatory hypertrophy, and when venous stasis is marked. Dyspnoea, dropsy, oneiric tendency. ANASARCA.Heart disease with vertigo and digestive disturbances.", 
-  "Natural History": [
-    "Lily of the Valley"
-  ], 
+  "Natural History": "Lily of the Valley", 
   "dosage": "Third attenuation, and for symptoms of heart failure, tincture, one to fifteen drops."
 }

@@ -8,21 +8,19 @@
       "Pain worse from any bright object; better, sleep", 
       "Aching in temples and occiput", 
       "Rush of blood to face", 
-      "COLD SENSATION IN TEETH and mouth", 
+      "Cold sensation in teeth and mouth", 
       "Pain in forehead over right eye, sensitive to touch; from superior molars to forehead", 
-      "THROBBING TOOTHACHE"
+      "Throbbing toothache"
     ], 
     "Stomach": [
       "Hiccough and burning in stomach"
     ], 
     "Back": [
       "Icy cold extremities", 
-      "PAIN IN REGION OF KIDNEYS AND LOINS"
+      "Pain in region of kidneys and loins"
     ]
   }, 
   "details": "This remedy ought to be remembered in neuralgias, teeth, gums, mouth, etc. Is awakened by profuse accumulation of saliva. Uvula feels too long. Symptoms of hydrophobia; worse, by any bright object.", 
-  "Natural History": [
-    "Lady Bug"
-  ], 
+  "Natural History": "Lady Bug", 
   "dosage": "Third potency."
 }

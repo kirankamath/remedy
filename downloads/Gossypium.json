@@ -11,7 +11,7 @@
     ], 
     "Female": [
       "Morning sickness, with sensitive uterine region", 
-      "INTERMITTENT PAIN IN OVARIES", 
+      "Intermittent pain in ovaries", 
       "Labia swollen and itching", 
       "Suppressed menstruation", 
       "Backache, weight and dragging in pelvis", 
@@ -22,8 +22,6 @@
     ]
   }, 
   "details": "A powerful emmenagogue, used in physiological doses. Homeopathically, it corresponds to many reflex conditions, depending on disturbed uterine function and pregnancy. Gossypium will relieve tardy menses, especially with sensation that the flow is about to start and yet does not do so. Tall, bloodless patients, with nervous chills.", 
-  "Natural History": [
-    "Cotton-plant"
-  ], 
+  "Natural History": "Cotton-plant", 
   "dosage": "Tincture, to sixth attenuation."
 }

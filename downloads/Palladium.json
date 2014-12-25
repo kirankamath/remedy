@@ -3,7 +3,7 @@
   "Relationship": "Complementary: ARG.; HELON.; LIL.; APIS.", 
   "symptoms": {
     "Head": [
-      "PAIN ACROSS TOP OF HEAD FROM EAR TO EAR; worse after an evening's entertainment, with irritability and sour eructations", 
+      "Pain across top of head from ear to ear; worse after an evening's entertainment, with irritability and sour eructations", 
       "Feels as if swung backward and forwards", 
       "Temporoparietal neuralgia with pain in shoulder", 
       "Sallow complexion"
@@ -11,9 +11,9 @@
     "Mind": [
       "Inclined to use violent language", 
       "Weeping mood", 
-      "KEEPS UP BRIGHTLY WHEN IN COMPANY, much exhausted afterwards, and pains aggravated", 
-      "LOVE OF APPROBATION", 
-      "Pride; EASILY OFFENDED"
+      "Keeps up brightly when in company, much exhausted afterwards, and pains aggravated", 
+      "Love of approbation", 
+      "Pride; easily offended"
     ], 
     "Abdomen": [
       "Intestines feel strangulated", 
@@ -29,7 +29,7 @@
       "Menstrual discharge while nursing", 
       "Glairy leucorrhoea", 
       "Subacute pelvic peritonitis, with right-sided pain and backache; menorrhagia", 
-      "PAIN AND SWELLING IN REGION OF RIGHT OVARY", 
+      "Pain and swelling in region of right ovary", 
       "Shooting or burning pain in pelvis and bearing-down; relieved by rubbing", 
       "Uterine prolapse and retroversion", 
       "Stitches in right breast near nipple"
@@ -45,8 +45,6 @@
     ]
   }, 
   "details": "An ovarian remedy; produces the symptom-complex of chronic Oophoritis. Useful where the parenchyma of the gland is not totally destroyed. Acts also on mind and skin. Motor weakness, averse to exercise.", 
-  "Natural History": [
-    "The Metal"
-  ], 
+  "Natural History": "The Metal", 
   "dosage": "Sixth to thirtieth potency."
 }

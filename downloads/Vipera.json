@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "The German Viper"
-  ], 
+  "Natural History": "The German Viper", 
   "symptoms": {
     "Abdomen": [
       "Violent pain in enlarged liver, with jaundice and fever; extends to shoulder and hip"
@@ -13,14 +11,14 @@
       "Speech difficult"
     ], 
     "Skin": [
-      "Lymphangioma, boils, carbuncles, with BURSTING sensation, relieved by elevating parts", 
+      "Lymphangioma, boils, carbuncles, with bursting sensation, relieved by elevating parts", 
       "Skin peels in large plates", 
       "Livid"
     ], 
     "Extremities": [
-      "VARICOSE VEINS and acute phlebitis", 
+      "Varicose veins and acute phlebitis", 
       "Veins swollen, sensitive; bursting pain", 
-      "WHEN THEY ARE ALLOWED TO HAND DOWN, IT SEEMS AS IF THEY WOULD BURST, AND THE PAIN IS UNBEARABLE", 
+      "When they are allowed to hand down, it seems as if they would burst, and the pain is unbearable", 
       "Patient is obliged to keep the extremities elevated", 
       "Severe cramps in lower extremities"
     ]

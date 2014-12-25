@@ -3,7 +3,7 @@
   "Relationship": "Antidotes: Camphor; Bell.Compare: Ipomea - Convolvulus Duartinus - Morning Glory. - (Pain in left lumbar muscles on stooping. Kidney disorders with pain in back. Much abdominal flatulence. Aching in top of right shoulder renal colic; aching in small of back and extremities), Aloe; Lycopod.; Nux.; Sarsap. Xanthorrhoea arborea (severe pain in kidneys, cystitis and gravel. Pain from ureter to bladder and testicles; pain in small of back returns from least chill or damp). Xanthorrhiza apifolia - Shrub Yellow Root - Contains Berberine. Dilatation of stomach and intestines, atony, enlarged spleen.", 
   "symptoms": {
     "Head": [
-      "SENSATION OF A TIGHT CAP PRESSING UPON THE WHOLE SCALP", 
+      "Sensation of a tight cap pressing upon the whole scalp", 
       "Listless, apathetic, indifferent", 
       "Chilliness in back and occiput", 
       "Frontal headache", 
@@ -16,16 +16,16 @@
       "Tearing stitches in chest and region of heart"
     ], 
     "Stomach": [
-      "NAUSEA BEFORE BREAKFAST", 
+      "Nausea before breakfast", 
       "Heartburn"
     ], 
     "Modalities": [
       "Worse: motion", 
-      "Worse: STANDING"
+      "Worse: standing"
     ], 
     "Urine": [
-      "PAIN IN THE THIGHS AND LOINS ON URINATING", 
-      "Urine with thick MUCUS AND BRIGHT-RED, mealy sediment", 
+      "Pain in the thighs and loins on urinating", 
+      "Urine with thick mucus and bright-red, mealy sediment", 
       "Bubbling, sore sensation in kidneys", 
       "Burning pains", 
       "Frequent urination; urethra burns when not urinating", 
@@ -73,16 +73,16 @@
       "Menses scanty, gray mucus, with pain in kidneys and chilliness, pain down thighs"
     ], 
     "Skin": [
-      "Eczema of ANUS and HANDS", 
+      "Eczema of anus and hands", 
       "Flat warts", 
-      "ITCHING, burning and smarting; WORSE, SCRATCHING; better, cold applications", 
-      "CIRCUMSCRIBED PIGMENTATION following eczematous inflammation", 
+      "Itching, burning and smarting; worse, scratching; better, cold applications", 
+      "Circumscribed pigmentation following eczematous inflammation", 
       "Small pustules over whole body"
     ], 
     "Abdomen": [
       "Catarrh of the gall-bladder with constipation and yellow complexion", 
       "Stitches in region of gall-bladder; worse, pressure, extending to stomach", 
-      "Stitching pain in front of kidneys extending to liver, spleen, stomach, groins, Poupart's ligament", 
+      "Stitching pain in front of kidneys extending to liver, spleen, stomach, groins, poupart's ligament", 
       "Sticking deep in ilium"
     ], 
     "Extremities": [
@@ -90,7 +90,7 @@
       "Pain in balls of feet on stepping", 
       "Rheumatic paralytic pain in shoulders, arms, hands and fingers, legs and feet", 
       "Stitching between metatarsal bones as from a nail when standing", 
-      "NEURALGIA UNDER FINGER-NAILS, with swelling of finger-joints", 
+      "Neuralgia under finger-nails, with swelling of finger-joints", 
       "Intense weariness and lameness of legs after walking a short distance", 
       "Heels pain, as if ulcerated"
     ], 
@@ -100,8 +100,6 @@
     ]
   }, 
   "details": "Rapid changes of symptoms - pains change in regard to place and character - thirst alternates with thirstlessness, hunger, and loss of appetite, etc. Acts forcibly on the venous system, producing pelvic engorgements and hemorrhoids.Old gouty constitutions. Pain in region of kidneys is most marked; hence its use in renal and vesical troubles, gall-stones, and vesical catarrh. It causes inflammation of kidneys with hematuria. Pains may be felt all over body, emanating from small of back. It has also marked action on the liver, promoting the flow of bile. Often called for in arthritic affections with urinary disturbances. Wandering, RADIATING pains. Acts well in fleshy persons, good livers, but with little endurance. Spinal irritation. All Berberis pains radiate, are not worse by pressure, but worse in various attitudes, especially standing and active exercise.Hepatic, and rheumatic affections, particularly with urinary, hemorrhoidal and menstrual complaints.", 
-  "Natural History": [
-    "Barberry"
-  ], 
+  "Natural History": "Barberry", 
   "dosage": "Tincture, to sixth potency."
 }

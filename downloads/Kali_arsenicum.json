@@ -7,20 +7,18 @@
     ], 
     "Skin": [
       "Skin cancer, where suddenly an alarming malignancy without any external signs sets in", 
-      "PSORIASIS, lichen", 
+      "Psoriasis, lichen", 
       "Intolerable itching, worse undressing", 
-      "Chronic eczema; itching worse FROM WARMTH, walking, undressing", 
+      "Chronic eczema; itching worse from warmth, walking, undressing", 
       "Fissures in bends of arms and knees", 
       "Phagedenic ulcers", 
       "Gouty nodosities; worse, change of weather", 
       "Acne; pustules worse during menses", 
-      "DRY, scaly, wilted", 
+      "Dry, scaly, wilted", 
       "Numerous small nodules under skin"
     ]
   }, 
   "details": "The KALI-ARS. patient tends towards malignancy, and inveterate skin diseases. He is restless, nervous and anemic.", 
-  "Natural History": [
-    "Fowler's Solution"
-  ], 
+  "Natural History": "Fowler's Solution", 
   "dosage": "Third to thirtieth potency."
 }

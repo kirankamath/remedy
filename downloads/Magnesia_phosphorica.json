@@ -5,7 +5,7 @@
     "Heart": [
       "Constricting pains around heart", 
       "Nervous spasmodic palpitation", 
-      "ANGINA PECTORIS"
+      "Angina pectoris"
     ], 
     "Eyes": [
       "Increased lachrymation", 
@@ -15,8 +15,8 @@
       "Twitching of lids"
     ], 
     "Fever": [
-      "CHILLINESS after dinner, in evening", 
-      "CHILLS RUN UP AND DOWN THE BACK, WITH SHIVERING, followed by a suffocating sensation"
+      "Chilliness after dinner, in evening", 
+      "Chills run up and down the back, with shivering, followed by a suffocating sensation"
     ], 
     "Stomach": [
       "Hiccough, with retching day and night", 
@@ -29,7 +29,7 @@
     ], 
     "Modalities": [
       "Worse: right side", 
-      "Worse: COLD", 
+      "Worse: cold", 
       "Worse: touch", 
       "Worse: night", 
       "Better: warmth", 
@@ -44,37 +44,37 @@
     ], 
     "Abdomen": [
       "Constipation in rheumatic subjects due to flatulence and indigestion", 
-      "ENTERALGIA, relieved by pressure", 
-      "BLOATED, FULL SENSATION IN ABDOMEN; MUST LOOSEN CLOTHING, WALK ABOUT, AND CONSTANTLY PASS FLATUS", 
-      "FLATULENT COLIC, FORCING PATIENT TO BEND DOUBLE; RELIEVED BY RUBBING, WARMTH, PRESSURE; ACCOMPANIED WITH BELCHING OF GAS, WHICH GIVES NO RELIEF"
+      "Enteralgia, relieved by pressure", 
+      "Bloated, full sensation in abdomen; must loosen clothing, walk about, and constantly pass flatus", 
+      "Flatulent colic, forcing patient to bend double; relieved by rubbing, warmth, pressure; accompanied with belching of gas, which gives no relief"
     ], 
     "Respiratory": [
       "Asthmatic oppression of chest", 
       "Dry, tickling cough", 
       "Voice harsh, larynx sore and raw", 
       "Intercostal neuralgia", 
-      "SPASMODIC COUGH, with difficulty in lying down", 
-      "WHOOPING-COUGH"
+      "Spasmodic cough, with difficulty in lying down", 
+      "Whooping-cough"
     ], 
     "Female": [
       "Ovarian neuralgia", 
       "Vaginismus", 
-      "MEMBRANOUS DYSMENORRHOEA", 
-      "MENSTRUAL COLIC", 
+      "Membranous dysmenorrhoea", 
+      "Menstrual colic", 
       "Swelling of external parts", 
       "Menses too early, dark, stringy"
     ], 
     "Throat": [
-      "Soreness and stiffness, especially right side; parts seem puffy, WITH CHILLINESS, and aching all over"
+      "Soreness and stiffness, especially right side; parts seem puffy, with chilliness, and aching all over"
     ], 
     "Mouth": [
       "Spasms without febrile symptoms", 
-      "COMPLAINTS OF TEETHING CHILDREN", 
-      "Ulceration of teeth, with swelling of glands of face, throat and neck, AND SWELLING of tongue", 
-      "TOOTHACHE; BETTER BY HEAT AND HOT LIQUIDS"
+      "Complaints of teething children", 
+      "Ulceration of teeth, with swelling of glands of face, throat and neck, and swelling of tongue", 
+      "Toothache; better by heat and hot liquids"
     ], 
     "Extremities": [
-      "CHORES", 
+      "Chores", 
       "Sciatica; feet very tender", 
       "Involuntary shaking of hands", 
       "Cramps in calves", 
@@ -87,12 +87,10 @@
       "Tetanic spasms"
     ], 
     "Ears": [
-      "SEVERE NEURALGIC PAIN; worse behind right ear; worse, by going into cold air, and WASHING FACE AND NECK WITH COLD WATER"
+      "Severe neuralgic pain; worse behind right ear; worse, by going into cold air, and washing face and neck with cold water"
     ]
   }, 
   "details": "The great anti-spasmodic remedy. Cramping of muscles with radiating pains. Neuralgic pains RELIEVED BY WARMTH. Especially suited to tired, languid, exhausted subjects. Indisposition for mental exertion. Goitre.", 
-  "Natural History": [
-    "Phosphate of Magnesia"
-  ], 
+  "Natural History": "Phosphate of Magnesia", 
   "dosage": "First to twelfth potency. Sometimes the highest potencies are preferable. Acts especially well, given in hot water."
 }

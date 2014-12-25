@@ -4,19 +4,19 @@
   "symptoms": {
     "Head": [
       "Temples as if pressed together", 
-      "FRONTAL HEADACHE; worse, noise, motion, night, rubbing eyes, with acidity", 
+      "Frontal headache; worse, noise, motion, night, rubbing eyes, with acidity", 
       "Feels dull and stupid", 
-      "PAIN FROM FOREHEAD TO ROOT OF NOSE; PRESSING-OUTWARD PAIN"
+      "Pain from forehead to root of nose; pressing-outward pain"
     ], 
     "Respiratory": [
-      "ASTHMA; dyspnoea; cramp-like pain in cardiac region", 
+      "Asthma; dyspnoea; cramp-like pain in cardiac region", 
       "Feeling of pressure on lungs and of suffocation, when lying on back"
     ], 
     "Stomach": [
       "Stomach feels empty after eating", 
       "Eructations, nausea, vomiting", 
       "Constant sensation of corrosion, heat and burning in stomach", 
-      "STOMACH AND LIVER SYMPTOMS ASSOCIATED WITH PAIN IN LIMBS", 
+      "Stomach and liver symptoms associated with pain in limbs", 
       "Griping in epigastric region, with dryness of mouth", 
       "Weight and fullness"
     ], 
@@ -32,16 +32,14 @@
     "Mouth": [
       "Coating may be brownish-yellow", 
       "Tongue coated white or yellow; feels rough, swollen", 
-      "Papillae RED AND PROMINENT", 
-      "EXCESS OF SALIVA, with dry BITTER TASTE"
+      "Papillae red and prominent", 
+      "Excess of saliva, with dry bitter taste"
     ], 
     "Sleep": [
       "Restless, with frightful dreams; nightmare, awakes languid and unrefreshed"
     ]
   }, 
   "details": "Is a remarkable remedy in stomach and liver affections. The aching and heaviness in the region of the liver is GREATLY AGGRAVATED BY LYING on the left side. ATONIC STATES OF STOMACH. Asthma.", 
-  "Natural History": [
-    "Water-ash"
-  ], 
+  "Natural History": "Water-ash", 
   "dosage": "First to thirtieth potency."
 }

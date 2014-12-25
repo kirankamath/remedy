@@ -9,7 +9,7 @@
     ], 
     "Stomach": [
       "Tongue coated thin white", 
-      "EVERYTHING TAKEN INTO STOMACH CAUSES PAIN", 
+      "Everything taken into stomach causes pain", 
       "Nausea", 
       "Gastritis"
     ], 
@@ -30,14 +30,12 @@
     ], 
     "Extremities": [
       "Pain, coldness, and paretic conditions", 
-      "PAIN IN THUMB-JOINT", 
-      "Tendo-Achilles painful, as if sprained and swollen; walking painful", 
+      "Pain in thumb-joint", 
+      "Tendo-achilles painful, as if sprained and swollen; walking painful", 
       "Twitchings jerkings, soreness"
     ]
   }, 
   "details": "Female symptoms are most marked; usually associated with nervous disturbances. Red sand in urine. PAIN ALONG URETER. Flatulent colic. Antidotes effects of Poison-oak. (GRINDELIA.)", 
-  "Natural History": [
-    "Penny royal"
-  ], 
+  "Natural History": "Penny royal", 
   "dosage": "First potency."
 }

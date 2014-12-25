@@ -1,4 +1,6 @@
 {
+  "name": "Picrirum acidum", 
+  "Relationship": "Compare: OXAL-AC.; GELS.; PHOS.; SIL.; ARG. NIT. Compare: ZINC. PIC. (facial palsy and paralysis agitans); FERR. PIC. (buzzing in ears, deafness; chronic gout; epistaxis; prostatic troubles); CALC. PIC. (boils in and around ears).", 
   "symptoms": {
     "Eyes": [
       "Chronic catarrhal conjunctivitis with copious, thick yellow discharge"
@@ -17,10 +19,10 @@
       "Better: tight pressure"
     ], 
     "Urine": [
-      "Inflammation of kidneys with profound weakness, dark, bloody, scanty urine", 
       "Nightly urging", 
+      "Inflammation of kidneys with profound weakness, dark, bloody, scanty urine", 
       "Dribbling micturition", 
-      "SCANTY; complete anuria", 
+      "Scanty; complete anuria", 
       "Urine contains much indican, granular cylinders and fatty degenerated epithelium"
     ], 
     "Mind": [
@@ -29,11 +31,11 @@
       "Dementia with prostration, sits still and listens"
     ], 
     "Head": [
-      "Boils WITHIN ears and back of neck", 
+      "Boils within ears and back of neck", 
       "Brain fag", 
-      "OCCIPITAL PAIN; worse, slightest mental exertion", 
+      "Occipital pain; worse, slightest mental exertion", 
       "Vertigo and noises in ear", 
-      "Head pains; RELIEVED BY BANDAGING TIGHTLY", 
+      "Head pains; relieved by bandaging tightly", 
       "After prolonged mental strain, with anxiety and dread of failure at examination"
     ], 
     "Female": [
@@ -42,21 +44,20 @@
     ], 
     "Extremities": [
       "Acute ascending paralysis", 
-      "GREAT WEAKNESS", 
+      "Great weakness", 
       "Burning along spine", 
       "Cannot get warm", 
-      "TIRED, HEAVY FEELING ALL OVER BODY, ESPECIALLY LIMBS; WORSE, EXERTION", 
+      "Tired, heavy feeling all over body, especially limbs; worse, exertion", 
       "Feet cold"
     ], 
     "Male": [
       "Emissions profuse, followed by great exhaustion, without sensual dreams", 
       "Hard erections, with pain in testicles and up cord", 
-      "PRIAPISM; satyriasis", 
+      "Priapism; satyriasis", 
       "Prostatic hypertrophy, especially in cases not too far advanced"
     ]
   }, 
   "details": "Causes degeneration of the spinal cord, with paralysis. Brain-fag and sexual excitement. Acts upon the generative organs probably through the lumbar centers of the spinal cord; prostration, weakness and pain of back, pins and needle sensation in extremities. NEURASTHENIA. (OXAL-AC.) Muscular debility. Heavy tired feeling. Myelitis with spasms and prostration. Writer's palsy. Progressive, pernicious anaemia. URAEMIA with complete anuria. A one per cent solution applied on lint, is the best application for burns until granulations begin to form. Sallow complexion.", 
-  "name": "Picrirum acidum", 
-  "Relationship": "Compare: OXAL-AC.; GELS.; PHOS.; SIL.; ARG. NIT. Compare: ZINC. PIC. (facial palsy and paralysis agitans); FERR. PIC. (buzzing in ears, deafness; chronic gout; epistaxis; prostatic troubles); CALC. PIC. (boils in and around ears).", 
+  "Natural History": "(Picric Acid) (Trinitrophenol)", 
   "dosage": "Sixth potency."
 }

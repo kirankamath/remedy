@@ -9,17 +9,17 @@
       "Low-spirited"
     ], 
     "Fever": [
-      "Alternate heat and cold; chronic intermittent fever, with pain in Stomach"
+      "Alternate heat and cold; chronic intermittent fever, with pain in stomach"
     ], 
     "Stomach": [
-      "Sensation of a lump that hurts, AS IF A HARD-BOILED EGG HAD LODGED IN THE CARDIAC END OF STOMACH; continual distressing constriction just above the pit of the stomach, as if everything were knotted up", 
+      "Sensation of a lump that hurts, as if a hard-boiled egg had lodged in the cardiac end of stomach; continual distressing constriction just above the pit of the stomach, as if everything were knotted up", 
       "Eructations", 
-      "PAIN IN STOMACH ALWAYS COMES ON AFTER EATING", 
+      "Pain in stomach always comes on after eating", 
       "Total loss of appetite in morning, but great craving for food at noon and night", 
       "Offensive breath"
     ], 
     "Chest": [
-      "Dyspnea; worse lying down: Sharp, cutting pain in heart; HEART'S ACTION HEAVY AND SLOW; TACHYCARDIA, bradycardia", 
+      "Dyspnea; worse lying down: sharp, cutting pain in heart; heart's action heavy and slow; tachycardia, bradycardia", 
       "Choking sensation in throat", 
       "Worse coughing; water brash succeeds cough", 
       "Painful sensation, as if something were lodged in the chest and had to be coughed up; lungs feel compressed", 
@@ -35,8 +35,6 @@
     ]
   }, 
   "details": "A powerful and long-acting remedy, in various forms of disease, whenever the characteristic stomach symptoms are present. Most of the symptoms are associated with the gastric disturbances. IN DYSPEPTIC TROUBLES OF THE AGED, with functional heart symptoms; also after tea or tobacco. CONSTIPATION. Pain in external meatus.", 
-  "Natural History": [
-    "Black Spruce"
-  ], 
+  "Natural History": "Black Spruce", 
   "dosage": "First to thirtieth potency."
 }

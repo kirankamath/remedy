@@ -17,10 +17,10 @@
       "Better: cold drinks"
     ], 
     "Mind": [
-      "VISIONS OF SNAKES", 
+      "Visions of snakes", 
       "Thinks himself of little consequence", 
       "Very forgetful; in writing, makes mistakes", 
-      "DESPONDENT; thinks her disease incurable", 
+      "Despondent; thinks her disease incurable", 
       "Attacks of rage"
     ], 
     "Nose": [
@@ -31,28 +31,28 @@
     ], 
     "Female": [
       "Backache; spine very sensitive to touch or pressure", 
-      "HELPS TO DRY UP MILK", 
+      "Helps to dry up milk", 
       "Sexual organs easily excited", 
-      "GALACTORRHOEA", 
-      "Menses too early, profuse, FLOW IN GUSHES", 
-      "Mastitis; WORSE, LEAST JAR", 
-      "BREASTS SWOLLEN; PAINFUL BEFORE  and better on appearance of menses", 
+      "Galactorrhoea", 
+      "Menses too early, profuse, flow in gushes", 
+      "Mastitis; worse, least jar", 
+      "Breasts swollen; painful before  and better on appearance of menses", 
       "Sinking at epigastrium"
     ], 
     "Throat": [
-      "STIFFNESS OF NECK and tongue", 
+      "Stiffness of neck and tongue", 
       "Painful swallowing; pain extends to ears", 
       "Sore throat and cough with menstruation", 
       "Throat feels burned raw", 
       "Tickling sensation causes constant cough", 
-      "SHINING GLAZED appearance of deposit, PEARLY-WHITE or like pure white porcelain", 
-      "TONSILLITIS AND DIPHTHERIA SYMPTOMS CHANGE REPEATEDLY FROM SIDE TO SIDE", 
+      "Shining glazed appearance of deposit, pearly-white or like pure white porcelain", 
+      "Tonsillitis and diphtheria symptoms change repeatedly from side to side", 
       "Sore throat beginning and ending with menses", 
       "Sensitive to touch"
     ], 
     "Mouth": [
       "Tongue coated white with bright red edges; profuse salivation", 
-      "CRACKING OF JAW WHILE EATING", 
+      "Cracking of jaw while eating", 
       "Putrid taste increased by sweets", 
       "Drooling in diphtheria"
     ], 
@@ -68,8 +68,6 @@
     ]
   }, 
   "details": "This remedy is of undoubted value in certain forms of sore throat and diphtheria, and rheumatism. Corresponds to a low-vitiated, non-feverish type of sickness. The keynote symptom is ERRATIC PAINS, ALTERNATING SIDES. Feels as if walking on air, or of not touching the bed when lying down. Great lassitude. Ozaena. Decided effect in drying up milk in women who cannot nurse the baby. GREAT WEAKNESS AND PROSTRATION. Sinking spells every morning. Mastitis.", 
-  "Natural History": [
-    "Dog's Milk"
-  ], 
+  "Natural History": "Dog's Milk", 
   "dosage": "Thirtieth and the highest potencies."
 }

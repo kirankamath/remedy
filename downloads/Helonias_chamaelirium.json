@@ -12,31 +12,31 @@
       "Worse: touch"
     ], 
     "Urine": [
-      "ALBUMINOUS, phosphatic; profuse and clear, saccharine", 
+      "Albuminous, phosphatic; profuse and clear, saccharine", 
       "Diabetes"
     ], 
     "Mind": [
       "Irritable; cannot endure the least contradiction", 
-      "PATIENT IS BETTER WHEN KEPT BUSY, with mind engaged, when doing something", 
+      "Patient is better when kept busy, with mind engaged, when doing something", 
       "Profound melancholy"
     ], 
     "Back": [
       "Great languor, better exercising", 
-      "PAIN AND WEIGHT IN BACK; tired and weak", 
+      "Pain and weight in back; tired and weak", 
       "Boring pain in lumbar region, extending down legs", 
-      "Aching and burning across the lumbar region; CAN TRACE OUTLINES OF KIDNEYS BY CONSTANT BURNING"
+      "Aching and burning across the lumbar region; can trace outlines of kidneys by constant burning"
     ], 
     "Female": [
       "Parts hot, red, swollen; burn and itch terribly", 
       "Albuminuria during pregnancy", 
-      "Weight and soreness in womb; CONSCIOUS OF WOMB", 
+      "Weight and soreness in womb; conscious of womb", 
       "Dragging in sacral region, with prolapse, especially after a miscarriage", 
       "Debility attending the menopause", 
       "Backache after miscarriage", 
-      "PRURITUS VULVAE", 
+      "Pruritus vulvae", 
       "Leucorrhoea", 
       "Breasts swollen, nipples painful and tender", 
-      "MENSES TOO FREQUENT, TOO PROFUSE"
+      "Menses too frequent, too profuse"
     ], 
     "Extremities": [
       "Feet feel numb when sitting", 
@@ -44,8 +44,6 @@
     ]
   }, 
   "details": "Sensation of weakness, dragging and in the sacrum and pelvis, with great languor and prostration, are excellent indications for this remedy. There is a sensitiveness expressed as a consciousness of a womb. Tired, back achy females. The weakness shows itself also in a tendency to prolapse and other malposition of the womb. The menses are often suppressed and the kidneys congested. It seems as if the monthly congestion, instead of venting itself as it should through the uterine vessels, had extended to the kidneys. With it all, there is a profound melancholia. Patient must be doing something to engage the mind. Remember it, for women with prolapsus from atony, enervated by indolence and luxury (better when attention is engaged - hence when the doctor comes), or for those worn out with hard work; tired, strained muscles burn and ache; sleepless. Diabetes mellitus, and insipidus. Constant aching and tenderness over kidneys.", 
-  "Natural History": [
-    "Unicorn-root"
-  ], 
+  "Natural History": "Unicorn-root", 
   "dosage": "Tincture, to sixth attenuation."
 }

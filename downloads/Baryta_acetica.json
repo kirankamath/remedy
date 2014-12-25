@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Acetate of Barium"
-  ], 
+  "Natural History": "Acetate of Barium", 
   "details": "Produces paralysis beginning at the extremities and spreading upward. Pruritus of aged.", 
   "symptoms": {
     "Mind": [
@@ -13,7 +11,7 @@
     ], 
     "Extremities": [
       "Drawing pain down whole left leg", 
-      "PARALYSIS", 
+      "Paralysis", 
       "Crawling, with burning stitches", 
       "Lumbago and rheumatic pain in muscles and joints"
     ]

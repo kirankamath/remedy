@@ -9,11 +9,11 @@
     ], 
     "Head": [
       "Stupefying headache in right side", 
-      "Head covered with THICK, LEATHERY CRUSTS, UNDER WHICH PUS COLLECTS", 
+      "Head covered with thick, leathery crusts, under which pus collects", 
       "Hard work to talk", 
       "Headache; worse from talking", 
       "Roots of teeth decay", 
-      "Violent neuralgia about face and teeth, running towards ear, at night; WORSE, EATING; better near hot stove", 
+      "Violent neuralgia about face and teeth, running towards ear, at night; worse, eating; better near hot stove", 
       "Teeth feel elongated", 
       "Affections of external head; scaly eruption, white scabs"
     ], 
@@ -28,28 +28,28 @@
     "Male": [
       "Violent sexual desire", 
       "Gonorrhea, with hematuria", 
-      "ENLARGEMENT OF TESTICLES"
+      "Enlargement of testicles"
     ], 
     "Extremities": [
-      "PAIN and burning in tibia and long bones", 
+      "Pain and burning in tibia and long bones", 
       "Pain in neck and back; worse, motion and at night; intolerant of all touch", 
       "Legs and feet go to sleep", 
       "Pain in hip and knee"
     ], 
     "Ears": [
-      "Feel too much open, AS IF TYMPANUM WAS EXPOSED TO THE COLD AIR AND IT BLEW INTO THE EAR", 
+      "Feel too much open, as if tympanum was exposed to the cold air and it blew into the ear", 
       "Desire to bore fingers in"
     ], 
     "Eyes": [
-      "CILIARY NEURALGIA AFTER OPERATIONS", 
-      "Pains radiate and shoot downward, WITH COLD FEELING AND STIFFNESS OF BONE", 
+      "Ciliary neuralgia after operations", 
+      "Pains radiate and shoot downward, with cold feeling and stiffness of bone", 
       "Especially after removal of eyeball"
     ], 
     "Stomach": [
       "Desire for ham-fat", 
-      "GASTRIC ULCER with much burning", 
+      "Gastric ulcer with much burning", 
       "Burning in tongue, extending to stomach", 
-      "MOUTH WATERS", 
+      "Mouth waters", 
       "Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color", 
       "Nausea felt in throat; better, eating"
     ], 
@@ -78,24 +78,22 @@
       "Leucorrhoea like albumen; very corroding"
     ], 
     "Skin": [
-      "Eczema; INTOLERABLE ITCHING; chilliness with pruritus; worse in bed", 
+      "Eczema; intolerable itching; chilliness with pruritus; worse in bed", 
       "Zona, with burning pain", 
-      "BONES, especially long bones, inflamed and swollen; caries, exostosis; pain worse night, touch, damp weather", 
+      "Bones, especially long bones, inflamed and swollen; caries, exostosis; pain worse night, touch, damp weather", 
       "Ulcers itch and burn, surrounded by vesicles and shining, fiery-red areola", 
-      "ERUPTIONS ULCERATE AND FORM THICK SCABS UNDER WHICH PURULENT MATTER EXUDES"
+      "Eruptions ulcerate and form thick scabs under which purulent matter exudes"
     ], 
     "Rectum": [
       "Constipation after confinement", 
       "Constipation, with hepatic and uterine inertia", 
-      "GREEN DISCHARGES", 
+      "Green discharges", 
       "Diarrhoea, with small, white particles", 
       "Constriction of anus; stitches and prolapse of rectum", 
       "Prolapse of rectum"
     ]
   }, 
   "details": "Skin symptoms, affections of bones, and neuralgias most important, especially about teeth and face. Bruised, weary feeling in joints, with drawing and stiffness. PAINS OF VARIOUS KINDS, WITH CHILLINESS AND SENSITIVENESS TO COLD AIR. Bone pains. Eruptions after vaccination. Burning, darting sensation in the muscles, subsultus tendinum. Pains shoot upward and seem to draw patient up out of bed. Semi-lateral complaints. PATIENT IS VERY SENSITIVE TO COLD AIR.", 
-  "Natural History": [
-    "Spurge Olive"
-  ], 
+  "Natural History": "Spurge Olive", 
   "dosage": "Sixth to thirtieth potency."
 }

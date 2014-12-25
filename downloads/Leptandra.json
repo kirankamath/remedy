@@ -9,20 +9,18 @@
     "Stomach": [
       "Aching in region of liver extending to spine, which feels chilly", 
       "Great distress in stomach and intestines, with desire for stool", 
-      "Tongue coated YELLOW"
+      "Tongue coated yellow"
     ], 
     "Stool": [
       "Clay-colored stools with jaundice", 
       "Bleeding piles", 
       "Typhoid stools turn black and look like tar", 
       "Rectal hemorrhage", 
-      "Profuse, BLACK, FETID STOOLS, with pain at umbilicus", 
+      "Profuse, black, fetid stools, with pain at umbilicus", 
       "Prolapse of rectum with hemorrhoids"
     ]
   }, 
   "details": "A liver remedy, with jaundice and BLACK, TARRY STOOLS. Bilious states. Enfeebled portal circulation. Malarial conditions.", 
-  "Natural History": [
-    "Culver's Root"
-  ], 
+  "Natural History": "Culver's Root", 
   "dosage": "Tincture, to third potency."
 }

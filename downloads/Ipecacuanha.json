@@ -16,24 +16,24 @@
       "Whooping-cough, with nosebleed, and from mouth", 
       "Asthma", 
       "Suffocative cough; child becomes stiff, and blue in the face", 
+      "Bleeding from lungs, with nausea; feeling of constriction; rattling cough", 
       "Chest seems full of phlegm, but does not yield to coughing", 
       "Yearly attacks of difficult shortness of breathing", 
-      "HOARSENESS, especially at end of a cold", 
+      "Hoarseness, especially at end of a cold", 
       "Bubbling rales", 
-      "COUGH INCESSANT AND VIOLENT, WITH EVERY BREATH", 
+      "Cough incessant and violent, with every breath", 
       "Croup", 
-      "Dyspnoea; constant CONSTRICTION IN CHEST", 
+      "Dyspnoea; constant constriction in chest", 
       "Hemoptysis from slightest exertion", 
-      "Bleeding from lungs, WITH NAUSEA; feeling of constriction; rattling cough", 
       "Complete aphonia", 
       "Continued sneezing; coryza; wheezing cough"
     ], 
     "Stomach": [
       "Hiccough", 
       "Vomits food, bile, blood, mucus", 
-      "CONSTANT NAUSEA and vomiting, with pale, twitching of face", 
-      "TONGUE USUALLY CLEAN", 
-      "Mouth, moist; MUCH SALIVA", 
+      "Constant nausea and vomiting, with pale, twitching of face", 
+      "Tongue usually clean", 
+      "Mouth, moist; much saliva", 
       "Stomach feels relaxed, as if hanging down"
     ], 
     "Head": [
@@ -52,9 +52,9 @@
     "Abdomen": [
       "Body rigid; stretched out stiff", 
       "Dysenteric, slimy", 
-      "Pitch-like, green as grass, LIKE FROTHY MOLASSES, with griping at navel", 
+      "Pitch-like, green as grass, like frothy molasses, with griping at navel", 
       "Stools", 
-      "Cutting, clutching; WORSE, AROUND THE NAVEL", 
+      "Cutting, clutching; worse, around the navel", 
       "Amoebic dysentery with tenesmus; while straining pain so great that it nauseates; little thirst"
     ], 
     "Face": [
@@ -62,9 +62,9 @@
       "Blue rings around eyes"
     ], 
     "Fever": [
-      "SLIGHTEST CHILL with MUCH heat, NAUSEA, vomiting, and dyspnoea", 
+      "Slightest chill with much heat, nausea, vomiting, and dyspnoea", 
       "Relapses with improper diet", 
-      "Intermittent fever, irregular cases, after Quinine"
+      "Intermittent fever, irregular cases, after quinine"
     ], 
     "Sleep": [
       "Shocks in all limbs on going to sleep", 
@@ -75,8 +75,8 @@
       "Coryza, with stoppage of nose and nausea"
     ], 
     "Female": [
-      "Uterine hemorrhage, PROFUSE, BRIGHT, GUSHING, WITH NAUSEA", 
-      "PAIN FROM NAVEL TO UTERUS", 
+      "Uterine hemorrhage, profuse, bright, gushing, with nausea", 
+      "Pain from navel to uterus", 
       "Vomiting during pregnancy", 
       "Menses too early and too profuse"
     ], 
@@ -90,8 +90,6 @@
     ]
   }, 
   "details": "The chief action is on the ramifications of the pneumogastric nerve, producing spasmodic irritation in chest and stomach. Morphia habit. The principal feature of Ipecacuanha is its PERSISTENT NAUSEA and vomiting, which form the chief guiding symptoms. Indicated after indigestible food, raisins, cakes, etc. Especially indicated in fat children and adults, who are feeble and catch cold in relaxing atmosphere; warm, moist weather. Spasmodic affections. Hemorrhages BRIGHT-RED and PROFUSE.", 
-  "Natural History": [
-    "Ipecac-root"
-  ], 
+  "Natural History": "Ipecac-root", 
   "dosage": "Third to 200th potency."
 }

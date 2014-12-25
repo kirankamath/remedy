@@ -13,7 +13,7 @@
       "Varices of the rectum", 
       "Constipation; large, difficult, knotty stools united by mucus threads", 
       "Lump stool, conjoined with threads of mucus", 
-      "Prolapse, diarrhoea; stools of brown fluid, mixed with undigested substance, VERY FETID, sour odor"
+      "Prolapse, diarrhoea; stools of brown fluid, mixed with undigested substance, very fetid, sour odor"
     ], 
     "Head": [
       "Humid, itching eruption on hairy scalp, emitting a fetid odor", 
@@ -23,29 +23,29 @@
       "Sensation of cobweb on forehead", 
       "Cataleptic condition", 
       "Headache in morning on waking, mostly on one side, with inclination to vomit", 
-      "BURNING ON VERTEX"
+      "Burning on vertex"
     ], 
     "Stomach": [
-      "HOT DRINKS DISAGREE", 
+      "Hot drinks disagree", 
       "Sweets nauseate", 
       "Pressure in stomach", 
-      "CONSTRICTIVE PAIN IN STOMACH", 
+      "Constrictive pain in stomach", 
       "Morning sickness during menstruation", 
       "Flatulence", 
       "Stomach pain is temporarily relieved by eating, hot drinks especially milk and lying down", 
       "Aversion to meat", 
       "Nausea and vomiting after each meal", 
-      "Burning in stomach, causing HUNGER", 
+      "Burning in stomach, causing hunger", 
       "Recurrent gastralgia", 
       "Eructation difficult"
     ], 
     "Abdomen": [
       "Nauseous feeling in abdomen", 
-      "Chronic diarrhoea, stools, brownish, liquid, undigested, OFFENSIVE", 
+      "Chronic diarrhoea, stools, brownish, liquid, undigested, offensive", 
       "Pain of gas opposite the side on which he lies", 
       "Croaking in abdomen", 
       "Very fetid gas preceded by colic", 
-      "Fullness and hardness in abdomen, as from incarcerated flatulence; MUST LOOSEN CLOTHING; presses painfully at abdominal ring", 
+      "Fullness and hardness in abdomen, as from incarcerated flatulence; must loosen clothing; presses painfully at abdominal ring", 
       "Inguinal region sensitive, swollen"
     ], 
     "Mouth": [
@@ -61,9 +61,9 @@
       "Chronic hoarseness with skin affections"
     ], 
     "Eyes": [
-      "EYELIDS RED AND SWOLLEN", 
+      "Eczema of lids; fissured", 
+      "Eyelids red and swollen", 
       "Ophthalmia, with intolerance of artificial light", 
-      "ECZEMA OF LIDS; FISSURED", 
       "Blepharitis", 
       "Dryness of the lids"
     ], 
@@ -85,10 +85,10 @@
     "Ears": [
       "Detonation in ear like report of a gun", 
       "Cracking in ears when eating", 
-      "DRYNESS OF INNER EAR", 
-      "HEARS BETTER IN NOISE", 
+      "Dryness of inner ear", 
+      "Hears better in noise", 
       "Thin, white, scaly membrane covering membrana tympani, like exfoliated epithelium", 
-      "MOISTURE AND ERUPTIONS BEHIND THE EARS", 
+      "Moisture and eruptions behind the ears", 
       "Hissing in the ears", 
       "Hardness of hearing", 
       "Fissures in and behind the ear"
@@ -104,36 +104,36 @@
       "Fidgety while sitting at work", 
       "Want of disposition to work", 
       "Apprehensive, despondency, indecision", 
-      "MUSIC MAKES HER WEEP", 
-      "Great tendency to start Timid Unable to decide"
+      "Music makes her weep", 
+      "Great tendency to start timid unable to decide"
     ], 
     "Female": [
       "Decided aversion to coitus", 
       "Nipples sore, cracked, and blistered", 
-      "Menses TOO LATE, with constipation; pale and scanty, with tearing pain in epigastrium, and itching BEFORE", 
-      "Leucorrhoea, PALE, thin, PROFUSE, WHITE, EXCORIATING, with great weakness in back", 
+      "Menses too late, with constipation; pale and scanty, with tearing pain in epigastrium, and itching before", 
+      "Leucorrhoea, pale, thin, profuse, white, excoriating, with great weakness in back", 
       "Hoarseness, coryza, cough, sweats and morning sickness during menstruation", 
       "Mammae swollen and hard", 
       "Induration of ovaries and uterus and mammae"
     ], 
     "Skin": [
       "Swelling of feet", 
-      "Chronic Poison Oak", 
+      "Chronic poison oak", 
       "Rawness in bends of limbs, groins, neck, behind ears", 
       "Pimples and acne", 
       "Gouty nodosities", 
-      "Ulcers discharging a GLUTINOUS fluid, thin and sticky", 
-      "UNHEALTHY SKIN; EVERY LITTLE INJURY SUPPURATES", 
+      "Ulcers discharging a glutinous fluid, thin and sticky", 
+      "Unhealthy skin; every little injury suppurates", 
       "Early stage of keloid and fibroma", 
-      "ERUPTIONS, OOZING OUT A STICKY EXUDATION", 
+      "Eruptions, oozing out a sticky exudation", 
       "Phlegmonous erysipelas of face; burning and stinging pain", 
       "Swelling and induration of glands", 
       "Rough, hard, persistent dryness of portions of skin unaffected by eczema", 
-      "WENS", 
+      "Wens", 
       "Cracks in nipples, mouth, between toes, anus"
     ], 
     "Extremities": [
-      "Left hand numbs; arms feel asleep; finger-nails THICK, black, and rough", 
+      "Left hand numbs; arms feel asleep; finger-nails thick, black, and rough", 
       "Matrix inflamed", 
       "Nails brittle and crumbling", 
       "Pain in small of back with great weakness", 
@@ -149,8 +149,6 @@
     ]
   }, 
   "details": "Like all the carbons, this remedy is an anti-psoric of great power, but especially active in patients who are rather stout, of fair complexion, with tendency to skin affections and constipation, FAT, CHILLY, AND COSTIVE, with delayed menstrual history. Take cold easily. Children impudent, teasing, laugh at reprimands. Has a particular tendency to develop the skin phase of internal disorders. ERADICATES TENDENCY TO ERYSIPELAS. Anaemia with redness of face. Tendency to obesity. Swollen genitals. Gushing leucorrhoea. Aids absorption of cicatricial tissue. Induration of tissue. Cancer of pylorus. Duodenal ulcer.", 
-  "Natural History": [
-    "- Plumbago"
-  ], 
+  "Natural History": "(Black Lead) - Plumbago", 
   "dosage": "Sixth to thirtieth potency. Locally as a cerate, in sore nipples."
 }

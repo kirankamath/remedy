@@ -3,8 +3,8 @@
   "Relationship": "TRIONAL; insomnia associated with physical excitement; (vertigo, loss of equilibrium, ataxia, nausea, vomiting, diarrhoea, stertorous breathing, cyanosis, tinnitus, hallucination).", 
   "symptoms": {
     "Head": [
-      "EYES BLOODSHOT AND RESTLESS", 
-      "Double vision; heavy look about eyes; tinnitus, aphasia; TONGUE AS IF PARALYZED", 
+      "Eyes bloodshot and restless", 
+      "Double vision; heavy look about eyes; tinnitus, aphasia; tongue as if paralyzed", 
       "Double vision; ptosis; tinnitus; dysphagia, difficult speech", 
       "Dropsy, stupid; pain on attempting to raise head", 
       "Vertigo, unable to rise"
@@ -22,7 +22,7 @@
     ], 
     "Mind": [
       "Extreme irritability", 
-      "ALTERNATION OF HAPPY, HOPEFUL STATES WITH DEPRESSION AND WEAKNESS", 
+      "Alternation of happy, hopeful states with depression and weakness", 
       "Mental confusion, incoherence, illusions; apathetic"
     ], 
     "Sleep": [
@@ -37,13 +37,11 @@
       "Knee-jerks disappear", 
       "Stiffness and paralysis of both legs", 
       "Extreme restlessness; muscular twitchings", 
-      "Ataxic movements, STAGGERING GAIT; cold, weak, trembling; legs seem too heavy", 
+      "Ataxic movements, staggering gait; cold, weak, trembling; legs seem too heavy", 
       "Anaesthesia of legs"
     ]
   }, 
   "details": "Vertigo of cerebral origin, cerebellar disease, ataxic symptoms and chorea, present a field for the homeopathic employment of this drug. PROFOUND WEAKNESS, gone, faint feeling, and despondency. Loss of control of sphincter. Muscular incoordination.", 
-  "Natural History": [
-    "A Coal-tar Product"
-  ], 
+  "Natural History": "A Coal-tar Product", 
   "dosage": "Third trituration.NON-HOMEOPATHIC USES. As a"
 }

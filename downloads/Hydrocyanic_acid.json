@@ -5,7 +5,7 @@
     "Heart": [
       "Torturing pain in chest", 
       "Violent palpitation", 
-      "Pulse, WEAK, IRREGULAR", 
+      "Pulse, weak, irregular", 
       "Angina pectoris", 
       "Cold extremities"
     ], 
@@ -25,15 +25,15 @@
     ], 
     "Stomach": [
       "Tongue cold", 
-      "DRINK RUMBLES THROUGH THROAT AND STOMACH", 
-      "GREAT SINKING AT PIT OF STOMACH", 
+      "Drink rumbles through throat and stomach", 
       "Pulsative pain in precordial region", 
-      "GASTRALGIA; worse when stomach is empty"
+      "Great sinking at pit of stomach", 
+      "Gastralgia; worse when stomach is empty"
     ], 
     "Mind": [
       "Wild delirium", 
       "Fear of imaginary troubles", 
-      "FEARS everything - horses, wagons, houses falling, etc.", 
+      "Fears everything - horses, wagons, houses falling, etc.", 
       "Unconscious"
     ], 
     "Face": [
@@ -48,8 +48,6 @@
     ]
   }, 
   "details": "One of the most toxic agents known. Convulsions and paralysis express the action of this remedy. Spasmodic constriction in larynx, feeling of suffocation, pain and tightness in chest, palpitation; pulse weak, irregular. SINGING SENSATION AT THE EPIGASTRIUM. Hysterical and epileptic convulsions. Cyanosis. Collapse, due to some pulmonary condition not a cardiac collapse. Catalepsy. Cholera. Stage of collapse. (ARS.; VERAT.) Coldness. Tetanus narcolepsy.", 
-  "Natural History": [
-    "Prussic Acid"
-  ], 
+  "Natural History": "Prussic Acid", 
   "dosage": "Sixth and higher potencies."
 }

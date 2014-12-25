@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "The Water of Sanicula Springs, Ottawa, Ill"
-  ], 
+  "Natural History": "The Water of Sanicula Springs, Ottawa, Ill.", 
   "symptoms": {
     "Head": [
       "Photophobia", 
@@ -9,7 +7,7 @@
       "Soreness behind ears", 
       "Lachrymation in cold air or from cold application", 
       "Profuse scaly dandruff", 
-      "PROFUSE SWEAT ON OCCIPUT and in nape of neck, during sleep"
+      "Profuse sweat on occiput and in nape of neck, during sleep"
     ], 
     "Stomach": [
       "Nausea and vomiting from car-riding", 
@@ -22,11 +20,11 @@
       "Stools large, heavy and painful", 
       "Very offensive odor", 
       "No desire until a large accumulation", 
-      "PAIN IN WHOLE PERINEUM", 
+      "Pain in whole perineum", 
       "After great straining only partially expelled; recedes, crumbles at verge of anus"
     ], 
     "Modalities": [
-      "Worse: MOVING ARMS BACKWARD"
+      "Worse: moving arms backward"
     ], 
     "Back": [
       "Dislocated feeling in sacrum and better lying on right side"
@@ -38,7 +36,7 @@
     "Female": [
       "Vagina feels large", 
       "Soreness of uterus", 
-      "Leucorrhoea with ODOR OF FISH-BRINE OR OLD CHEESE", 
+      "Leucorrhoea with odor of fish-brine or old cheese", 
       "Bearing-down, as if contents of pelvis would escape; better, rest", 
       "Desire to support parts"
     ], 
@@ -50,7 +48,7 @@
       "Thick, ropy, tenacious mucus"
     ], 
     "Extremities": [
-      "OFFENSIVE FOOT-SWEAT", 
+      "Offensive foot-sweat", 
       "Cold, clammy sweat of extremities", 
       "Burning of soles of feet"
     ]

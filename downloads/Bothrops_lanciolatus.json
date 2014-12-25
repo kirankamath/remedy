@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Yellow ViperLachesis Lanciolatus"
-  ], 
+  "Natural History": "Yellow ViperLachesis Lanciolatus", 
   "symptoms": {
     "Eyes": [
       "Amaurosis; blindness from hemorrhage into retina", 
@@ -13,6 +11,9 @@
       "Epigastric distress", 
       "Black vomiting", 
       "Intense haematemisis"
+    ], 
+    "Modalities": [
+      "Worse: right side"
     ], 
     "Face": [
       "Swollen and puffy", 

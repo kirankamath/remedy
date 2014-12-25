@@ -8,20 +8,20 @@
       "Vertigo, and fear of death"
     ], 
     "Respiratory": [
-      "Asthma; attacks, with weakness, felt in pit of stomach and preceded by PRICKLING all over", 
-      "DYSPNOEA FROM CONSTRICTION OF CHEST; worse, any exertion", 
+      "Asthma; attacks, with weakness, felt in pit of stomach and preceded by prickling all over", 
+      "Dyspnoea from constriction of chest; worse, any exertion", 
       "Feels as if heart would stop", 
       "Cramp, ringing cough, short breath, catching at throat", 
       "Senile emphysema", 
-      "Sensation of pressure or weight in chest; BETTER BY RAPID WALKING"
+      "Sensation of pressure or weight in chest; better by rapid walking"
     ], 
     "Stomach": [
-      "PROFUSE SALIVATION, WITH GOOD APPETITE", 
+      "Profuse salivation, with good appetite", 
       "Morning sickness", 
-      "EXTREME NAUSEA AND VOMITING", 
+      "Extreme nausea and vomiting", 
       "Heartburn with profuse flow of saliva", 
       "Acrid, burning taste; acidity, with contractive feeling in pit of stomach", 
-      "FAINTNESS AND WEAKNESS OF EPIGASTRIUM", 
+      "Faintness and weakness of epigastrium", 
       "Flatulence, shortness of breath after eating", 
       "Acidity, flatulence, shortness of breath after eating", 
       "Cannot bear smell or taste of tobacco", 
@@ -53,16 +53,14 @@
       "Prickling, itching with intense nausea"
     ], 
     "Mouth": [
-      "Profuse flow of saliva; acrid burning taste; MERCURIAL TASTE; tenacious mucus, tongue coated white"
+      "Profuse flow of saliva; acrid burning taste; mercurial taste; tenacious mucus, tongue coated white"
     ], 
     "Ears": [
-      "DEAFNESS DUE TO SUPPRESSED DISCHARGES or eczema", 
+      "Deafness due to suppressed discharges or eczema", 
       "Shooting pain from throat"
     ]
   }, 
   "details": "Languor, relaxation of muscles, NAUSEA, VOMITING AND DYSPEPSIA are the general indications that point to the use of this remedy, in asthma and gastric affections. Best adapted to light-complexioned fleshy people. Bad effects of drunkenness. SUPPRESSED DISCHARGES. (SULPH.) Diphtheria. CATARRHAL JAUNDICE. (CHIONANTH.)Is a vasomotor stimulant; increases the activity of all vegetative processes; spends its force mainly upon the pneumogastric nerve, producing a depressed relaxed condition with oppression of the chest and epigastrium, impeded respiration, nausea and vomiting.", 
-  "Natural History": [
-    "Indian Tobacco"
-  ], 
+  "Natural History": "Indian Tobacco", 
   "dosage": "Tincture, to thirtieth potency. Locally the tincture is antidotal to Poison-oak. Often the ACETUM LOBELIA acts better than any other preparation. Lobelia hypodermically acts clinically almost precisely as the antitoxin of diphtheria does upon the infection and renders the system stronger to resist future infections (F. Ellingwood)."
 }

@@ -4,10 +4,10 @@
   "symptoms": {
     "Eyes": [
       "Pain and burning of vision; better, rubbing; worse, using eyes", 
-      "COLORED LIGHT PRODUCES DIZZINESS"
+      "Colored light produces dizziness"
     ], 
     "Fever": [
-      "Profuse sweat; SMELLING LIKE GARLIC"
+      "Profuse sweat; smelling like garlic"
     ], 
     "Head": [
       "Mouth drawn to left", 
@@ -21,8 +21,6 @@
     ]
   }, 
   "details": "Has some reputation as a remedy for epileptic conditions, and convulsive diseases of childhood and girls at puberty. Locally and internally is injurious to eyes. PETIT MAL. Epilepsy without aura; after fright and other violent emotions and after masturbation. Several convulsions close together. Somnambulism. Gets up at night and works, remembers nothing in the morning. (Kali-phos.)", 
-  "Natural History": [
-    "Mugwort"
-  ], 
+  "Natural History": "Mugwort", 
   "dosage": "First to third potency. Said to act better when given with wine."
 }

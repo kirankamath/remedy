@@ -17,14 +17,14 @@
       "Sensation of emptiness and weakness, with distention and beating in stomach and abdomen", 
       "Great difficulty in bringing up wind", 
       "Forcible eructation of gas", 
-      "PULSATION IN PIT OF STOMACH", 
+      "Pulsation in pit of stomach", 
       "Great distention", 
-      "FLATULENCE AND REGURGITATION OF LIQUID"
+      "Flatulence and regurgitation of liquid"
     ], 
     "Head": [
       "Boring above eyebrows", 
       "Irritable; complains of her troubles; sensitive", 
-      "PRESSIVE PAIN FROM WITHIN OUTWARD"
+      "Pressive pain from within outward"
     ], 
     "Modalities": [
       "Worse: at night; from tough; left side", 
@@ -35,20 +35,20 @@
     ], 
     "Chest": [
       "Palpitation more like a tremor", 
-      "SPASMODIC TIGHTNESS, as if lungs could not be fully expanded"
+      "Spasmodic tightness, as if lungs could not be fully expanded"
     ], 
     "Throat": [
       "Ball rises in throat", 
       "Sensation as if peristaltic motion were reversed, and oesophagus were driven from stomach to throat", 
-      "GLOBUS HYSTERICUS"
+      "Globus hystericus"
     ], 
     "Nose": [
       "Syphilitic ozaena, with very offensive purulent discharge", 
-      "CARIES OF NASAL BONES"
+      "Caries of nasal bones"
     ], 
     "Female": [
       "Mammae turgid with milk in the nonpregnant", 
-      "DEFICIENT MILK, with over-sensitiveness"
+      "Deficient milk, with over-sensitiveness"
     ], 
     "Skin": [
       "Suppressed skin symptoms produce nervous disorders", 
@@ -62,18 +62,16 @@
     "Rectum": [
       "Pain in perineum, as if something dull pressed out", 
       "Obstinate constipation", 
-      "DIARRHEA, EXTREMELY OFFENSIVE, WITH METEORISM, and regurgitation of food", 
+      "Diarrhea, extremely offensive, with meteorism, and regurgitation of food", 
       "Distended, griping, with hunger"
     ], 
     "Ears": [
       "Offensive otorrhoea, with boring pains in mastoid bone", 
-      "Mastoid disease with pain in temporal region with PUSHING OUT SENSATION", 
+      "Mastoid disease with pain in temporal region with pushing out sensation", 
       "Offensive, purulent discharge"
     ]
   }, 
   "details": "The flatulence and spasmodic contraction of stomach and oesophagus with reverse peristalsis are the most marked symptoms. In its selection, its relation to the hysterical and hypochondriacal patients, must be borne in mind. Besides these superficial symptoms, it has been found to affect favorably deep ulcerations, caries of bones, especially in the syphilitic organism; here the EXTREME SENSITIVENESS and terrible throbbing, nightly pains, guiding to its use.", 
-  "Natural History": [
-    "Gum of the Stinkasand"
-  ], 
+  "Natural History": "Gum of the Stinkasand", 
   "dosage": "Second to sixth potency."
 }

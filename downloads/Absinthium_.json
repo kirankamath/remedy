@@ -6,14 +6,14 @@
       "Wants head low", 
       "Face blue", 
       "General confusion", 
-      "SPASMATIC FACIAL TWITCHING", 
+      "Spasmatic facial twitching", 
       "Pupils dilated unequally", 
-      "VERTIGO, WITH TENDENCY TO FALL BACKWARD", 
+      "Vertigo, with tendency to fall backward", 
       "Dull occipital headache"
     ], 
     "Stomach": [
       "Wind colic", 
-      "Bloated around waist and ABDOMEN", 
+      "Bloated around waist and abdomen", 
       "Nausea; retching; eructation"
     ], 
     "Urine": [
@@ -50,8 +50,6 @@
     ]
   }, 
   "details": "A perfect picture of epileptiform seizure is produced by this drug. Nervous tremors precede attack. Sudden and severe giddiness, delirium with hallucinations and loss of consciousness. Nervous excitement and sleeplessness. Cerebral irritation, hysterical and infantile spasms come within range of this remedy. Poisoning by mushrooms. Chorea. TREMOR. Nervousness, excitement, and sleeplessness in children.", 
-  "Natural History": [
-    "Common Wormwood"
-  ], 
+  "Natural History": "Common Wormwood", 
   "dosage": "First to sixth potency."
 }

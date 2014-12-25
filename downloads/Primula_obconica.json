@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Primrose"
-  ], 
+  "Natural History": "Primrose", 
   "symptoms": {
     "Face": [
       "Moist eczema", 
@@ -13,8 +11,8 @@
     "Skin": [
       "Skin symptoms accompanied by febrile symptoms", 
       "Tumefied", 
-      "SMALL PAPULES ON A RAISED BASE", 
-      "GREAT ITCHING, worse at night, red and swollen like erysipelas"
+      "Small papules on a raised base", 
+      "Great itching, worse at night, red and swollen like erysipelas"
     ], 
     "Extremities": [
       "Rheumatic pain around shoulder", 

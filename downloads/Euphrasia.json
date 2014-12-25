@@ -8,10 +8,10 @@
       "Pressure in eyes", 
       "Burning and swelling of the lids", 
       "Rheumatic iritis", 
-      "THE EYES WATER ALL THE TIME", 
+      "The eyes water all the time", 
       "Frequent inclination to blink", 
       "Free discharge of acrid matter", 
-      "CATARRHAL conjunctivitis; discharge of acrid matter", 
+      "Catarrhal conjunctivitis; discharge of acrid matter", 
       "Little blister on cornea", 
       "Acrid lachrymation; bland coryza", 
       "Opacities", 
@@ -33,7 +33,7 @@
       "Better: in dark"
     ], 
     "Head": [
-      "CATARRHAL HEADACHE, with profuse discharge from eyes and nose", 
+      "Catarrhal headache, with profuse discharge from eyes and nose", 
       "Bursting headache with dazzling of eyes"
     ], 
     "Face": [
@@ -45,8 +45,8 @@
       "Sear mostly on chest, at night during sleep"
     ], 
     "Female": [
-      "Menses PAINFUL; FLOW LASTS ONLY AN HOUR OR DAY; late, scanty, short", 
-      "AMENORRHOEA, WITH OPHTHALMIA"
+      "Menses painful; flow lasts only an hour or day; late, scanty, short", 
+      "Amenorrhoea, with ophthalmia"
     ], 
     "Skin": [
       "Consequence of external injuries", 
@@ -57,8 +57,8 @@
       "Yawning when walking in open air"
     ], 
     "Rectum": [
-      "CONSTIPATION", 
       "Dysentery", 
+      "Constipation", 
       "Prolapse ani", 
       "Pressure down in anus when sitting"
     ], 
@@ -66,15 +66,13 @@
       "Condyloma and sycotic excrescences", 
       "Nocturnal irritability of bladder; dribbling urine", 
       "Spasmodic retraction of genitals, with pressure above pubic bone", 
-      "PROSTATITIS"
+      "Prostatitis"
     ], 
     "Nose": [
-      "PROFUSE, FLUENT CORYZA, with violent cough and abundant expectoration"
+      "Profuse, fluent coryza, with violent cough and abundant expectoration"
     ]
   }, 
   "details": "Manifests itself in inflaming the conjunctival membrane especially, producing profuse lachrymation. Patient is better in open air. Catarrhal affections of mucous membranes especially of eyes and nose. Profuse ACRID lachrymation and bland coryza; worse, evening. Hawking up of offensive mucus.", 
-  "Natural History": [
-    "Eye bright"
-  ], 
+  "Natural History": "Eye bright", 
   "dosage": "Third to sixth potency."
 }

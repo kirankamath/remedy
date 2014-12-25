@@ -3,8 +3,8 @@
   "Relationship": "Compare: JUGLANS CINEREA.", 
   "symptoms": {
     "Head": [
-      "STYES", 
-      "OCCIPITAL SHARP PAIN", 
+      "Styes", 
+      "Occipital sharp pain", 
       "Confused; feels as if head were floating in air"
     ], 
     "Female": [
@@ -21,8 +21,6 @@
     ]
   }, 
   "details": "Skin eruptions are prominent.", 
-  "Natural History": [
-    "Walnut"
-  ], 
+  "Natural History": "Walnut", 
   "dosage": "Tincture, and lower potencies."
 }

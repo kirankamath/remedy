@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Lymph from Small-pox pustule"
-  ], 
+  "Natural History": "Lymph from Small-pox pustule", 
   "symptoms": {
     "Head": [
       "Deafness", 
@@ -21,13 +19,13 @@
     ], 
     "Skin": [
       "Hot, dry", 
-      "SHINGLES", 
+      "Shingles", 
       "Eruption of pustules"
     ], 
     "Extremities": [
       "Wrists pain", 
-      "ACHING IN LEGS", 
-      "EXCRUCIATING BACKACHE", 
+      "Aching in legs", 
+      "Excruciating backache", 
       "Pains shift from back to abdomen", 
       "Tired all over with restlessness"
     ]

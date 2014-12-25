@@ -11,7 +11,7 @@
       "Aching in temples", 
       "Tearing pain in bones", 
       "Pain in eyes before a storm", 
-      "CILIARY NEURALGIA, involving eyeball, orbit, and head"
+      "Ciliary neuralgia, involving eyeball, orbit, and head"
     ], 
     "Modalities": [
       "Worse: before a storm", 
@@ -31,14 +31,14 @@
     ], 
     "Face": [
       "Swollen gums", 
-      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, BETTER, WARMTH AND EATING", 
+      "Prosopalgia; violent jerking pain involving dental nerves, from temple to lower jaw and chin, better, warmth and eating", 
       "Stumps of teeth are loosened", 
       "Toothache in damp weather and before a storm"
     ], 
     "Extremities": [
-      "CANNOT SLEEP UNLESS LEGS ARE CROSSED", 
+      "Cannot sleep unless legs are crossed", 
       "Pains in bones in spots, and reappear by change of weather", 
-      "RHEUMATIC TEARING IN ALL LIMBS, especially right side; worse, at rest and in stormy weather", 
+      "Rheumatic tearing in all limbs, especially right side; worse, at rest and in stormy weather", 
       "Stiffness of neck", 
       "Pain in shoulders, arms, wrists; worse when at rest", 
       "Gouty inflammation of great toe-joint", 
@@ -46,9 +46,9 @@
     ], 
     "Male": [
       "Orchitis; glands feel crushed", 
-      "HYDROCELE", 
       "Testicles, worse left, swollen, painful, drawn up", 
-      "Induration and swelling of testes after gonorrhea"
+      "Induration and swelling of testes after gonorrhea", 
+      "Hydrocele"
     ], 
     "Ears": [
       "Difficult hearing, with whizzing and ringing in ears", 
@@ -56,8 +56,6 @@
     ]
   }, 
   "details": "Rheumatic and gouty symptoms well marked. Rheumatism in the hot season. The modality (worse before a storm) is a true guiding symptom.", 
-  "Natural History": [
-    "Snow-rose"
-  ], 
+  "Natural History": "Snow-rose", 
   "dosage": "First to sixth potency."
 }

@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Ironwood"
-  ], 
+  "Natural History": "Ironwood", 
   "symptoms": {
     "Gastric": [
-      "TONGUE YELLOW; COATED AT THE ROOT", 
+      "Tongue yellow; coated at the root", 
       "Loss of appetite", 
-      "FREQUENT NAUSEA, with dull, frontal headache", 
+      "Frequent nausea, with dull, frontal headache", 
       "Sickening pains"
     ]
   }, 

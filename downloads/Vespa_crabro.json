@@ -3,29 +3,27 @@
   "Relationship": "Compare: SCORPIO (salivation; strabismus; tetanus); APIS.Antidote: SEMPERVIVUM TECTOR., locally.", 
   "symptoms": {
     "Urine": [
-      "BURNING with micturition; also itching"
+      "Burning with micturition; also itching"
     ], 
     "Face": [
       "Swelling of mouth and throat, with violent burning pains", 
-      "CHEMOSIS OF CONJUNCTIVA", 
+      "Chemosis of conjunctiva", 
       "Erysipelatous inflammation of lids", 
       "Painful and swollen"
     ], 
     "Female": [
-      "LEFT OVARY MARKEDLY AFFECTED, with FREQUENT BURNING, MICTURITION; sacral pains extending up back", 
+      "Left ovary markedly affected, with frequent burning, micturition; sacral pains extending up back", 
       "Menstruation, preceded by depression, pain, pressure, and constipation", 
-      "EROSION AROUND EXTERNAL OS"
+      "Erosion around external os"
     ], 
     "Skin": [
-      "Erythema; INTENSE ITCHING; burning", 
-      "BOILS; stinging and soreness, relieved by bathing with vinegar", 
-      "Erythema multiforme, RELIEVED by bathing with vinegar", 
+      "Erythema; intense itching; burning", 
+      "Boils; stinging and soreness, relieved by bathing with vinegar", 
+      "Erythema multiforme, relieved by bathing with vinegar", 
       "Wheals, macules and swellings with burning, stinging and soreness"
     ]
   }, 
   "details": "Dizzy, better lying on back. Fainting. Numbness and blindness. Nausea and vomiting, followed by creeping chills from feet upward. Cramping pain in bowels. Axillary glands swollen with soreness of upper arms. Perspiration on parts laid on with itching.Skin and female symptoms marked. Indurated feeling. Vasomotor symptoms of skin and mucous membranes.", 
-  "Natural History": [
-    "Live Wasp"
-  ], 
+  "Natural History": "Live Wasp", 
   "dosage": "Third to thirtieth potency."
 }

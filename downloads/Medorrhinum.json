@@ -3,15 +3,15 @@
   "Relationship": "Compare: (Lactation: GALEGA; LACTUCA.) SULPH.; SYPHIL.; ZINC.", 
   "symptoms": {
     "Urine": [
-      "NOCTURNAL ENURESIS", 
+      "Nocturnal enuresis", 
       "Painful tenesmus when urinating", 
       "Urine flows very slowly", 
       "Renal colic"
     ], 
     "Stool": [
+      "Intense itching of anus", 
       "Oozing of fetid moisture", 
       "Can pass stool only by leaning very far back", 
-      "INTENSE ITCHING OF ANUS", 
       "Painful lump sensation on posterior surface of sphincter"
     ], 
     "Head": [
@@ -29,7 +29,7 @@
       "Wants to be fanned all the time"
     ], 
     "Stomach": [
-      "VERY THIRSTY", 
+      "Very thirsty", 
       "Ravenous hunger soon after eating", 
       "Cravings for liquor, salt, sweets, etc., warm drinks", 
       "Coppery taste and eructations of sulfuretted hydrogen", 
@@ -57,11 +57,11 @@
     "Eyes": [
       "Eyeballs ache", 
       "Feels as if sticks in eyes", 
-      "Feels as IF SHE STARED at everything", 
+      "Feels as if she stared at everything", 
       "Lids irritated"
     ], 
     "Face": [
-      "SMALL BOILS break out during menses", 
+      "Small boils break out during menses", 
       "Pallor, acne, blotches of redding color"
     ], 
     "Nose": [
@@ -75,7 +75,7 @@
       "Gleet; whole urethra feels sore", 
       "Enlarged and painful prostrate with frequent urging and painful urination", 
       "Urethritis", 
-      "IMPOTENCE"
+      "Impotence"
     ], 
     "Ears": [
       "Quick, darting pains in right ear", 
@@ -83,7 +83,7 @@
     ], 
     "Modalities": [
       "Worse: when thinking of ailment", 
-      "Worse: FROM DAYLIGHT TO SUNSET", 
+      "Worse: from daylight to sunset", 
       "Worse: heat", 
       "Worse: inland", 
       "Better: at the seashore", 
@@ -101,7 +101,7 @@
       "Loses the thread of conversation", 
       "Difficult concentration", 
       "Fears going insane", 
-      "TIME PASSES TOO SLOWLY", 
+      "Time passes too slowly", 
       "Cannot speak without weeping"
     ], 
     "Sleep": [
@@ -110,39 +110,37 @@
     ], 
     "Female": [
       "Leucorrhoea thick, acrid, excoriating, fishy odor", 
-      "Menses OFFENSIVE, profuse, dark, clotted; stains difficult to wash out, urinates frequently at that time", 
-      "SENSITIVE SPOT NEAR OS UTERI", 
+      "Menses offensive, profuse, dark, clotted; stains difficult to wash out, urinates frequently at that time", 
+      "Sensitive spot near os uteri", 
       "Intense menstrual colic", 
       "Metrorrhagia", 
-      "Breasts COLD, sore, and sensitive", 
+      "Breasts cold, sore, and sensitive", 
       "Intense pruritis", 
       "Ovarian pain, worse left side, or from ovary to ovary", 
-      "STERILITY", 
+      "Sterility", 
       "Sycotic warts on genitals"
     ], 
     "Skin": [
       "Tumors and abnormal growth", 
-      "Intense and incessant ITCHING; worse night and when thinking of it", 
+      "Intense and incessant itching; worse night and when thinking of it", 
       "Copper-colored spots", 
       "Yellow", 
       "Fiery red rash about anus in babies", 
       "Favus"
     ], 
     "Extremities": [
-      "SORENESS OF SOLES", 
+      "Soreness of soles", 
       "Ankles easily turn when walking", 
       "Pain in back, with burning heat", 
       "Burning of hands and feet", 
-      "Legs heavy, ache all night, CANNOT KEEP THEM STILL", 
+      "Legs heavy, ache all night, cannot keep them still", 
       "Gouty concretions", 
       "Restless; better, clutching hands", 
-      "HEELS AND BALLS OF FEET TENDER", 
+      "Heels and balls of feet tender", 
       "Finger-joints enlarged, puffy"
     ]
   }, 
   "details": "A powerful and deep-acting medicine, often indicated for chronic ailments due to suppressed gonorrhea. For women with chronic pelvic disorders. Chronic RHEUMATISM. Great disturbance and irritability of nervous system. Pains intolerable, tensive; nerves quiver and tingle. Children dwarfed and stunted. Chronic catarrhal conditions in children. Nose dirty, tonsils enlarged, thick yellow mucus from nostrils; lips thickened from mouth breathing. State of collapse and TREMBLING ALL OVER. History of sycosis. Often restores a gonorrheal discharge. Intensity of all sensations. Oedema of limbs; dropsy of serous sacs. Disseminated sclerosis.", 
-  "Natural History": [
-    "The Gonorrheal Virus"
-  ], 
+  "Natural History": "The Gonorrheal Virus", 
   "dosage": "The very highest potencies only of"
 }

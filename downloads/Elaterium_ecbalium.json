@@ -5,15 +5,18 @@
     "Fever": [
       "Chills and fever, with spurting diarrhoea", 
       "Pain in extremities, darting into fingers and toes", 
-      "Chill comes on with much YAWNING AND STRETCHING, lasting all through chill"
+      "Chill comes on with much yawning and stretching, lasting all through chill"
     ], 
     "Stomach": [
       "Nausea and vomiting, with great weakness", 
       "Griping pains in bowels"
     ], 
+    "Modalities": [
+      "Worse: from exposure on damp ground"
+    ], 
     "Stool": [
-      "SQUIRTING DIARRHOEA; frothy, olive green, with cutting in abdomen", 
-      "WATERY, COPIOUS, FORCEFUL"
+      "Squirting diarrhoea; frothy, olive green, with cutting in abdomen", 
+      "Watery, copious, forceful"
     ], 
     "Skin": [
       "Dropsical", 
@@ -29,8 +32,6 @@
     ]
   }, 
   "details": "This is an invaluable remedy in violent vomiting and purging, especially if the evacuations are copious and watery. It is a very efficient remedy in certain forms of dropsy. Much yawning and stretching. BERIBERI; choleraic conditions; urticaria and mental disorders coming on as a consequence of suppressed malaria. Irresistible desire to wander from home at night. Effects of damp weather.", 
-  "Natural History": [
-    "Squirting Cucumber"
-  ], 
+  "Natural History": "Squirting Cucumber", 
   "dosage": "Third to thirtieth potency. As a hydragogue cathartic to produce free discharge in dropsies, Elaterin 1-20 of a grain. Palliative only."
 }

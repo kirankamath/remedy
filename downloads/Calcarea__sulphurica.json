@@ -3,7 +3,7 @@
   "Relationship": "Compare; Hepar; Silica.", 
   "symptoms": {
     "Eyes": [
-      "INFLAMMATION OF THE EYES, WITH DISCHARGE OF THICK, YELLOW MATTER", 
+      "Inflammation of the eyes, with discharge of thick, yellow matter", 
       "Sees only one-half an object", 
       "Ophthalmia neonatorum", 
       "Cornea smoky"
@@ -19,13 +19,13 @@
       "Pus-like, slimy discharge from the bowels", 
       "Diarrhoea after maple sugar and from change of weather", 
       "Purulent diarrhoea mixed with blood", 
-      "PAINFUL ABSCESSES ABOUT THE ANUS in cases of fistula"
+      "Painful abscesses about the anus in cases of fistula"
     ], 
     "Abdomen": [
       "Pain in region of liver, in right side of pelvis, followed by weakness, nausea, and pain in stomach"
     ], 
     "Face": [
-      "PIMPLES AND PUSTULES ON THE FACE", 
+      "Pimples and pustules on the face", 
       "Herpes"
     ], 
     "Respiratory": [
@@ -42,8 +42,8 @@
     ], 
     "Nose": [
       "One-sided discharge from nose", 
-      "Cold in the head, with thick, YELLOWISH, PURULENT SECRETION, frequently tinged with blood", 
-      "YELLOWISH DISCHARGE from posterior nares", 
+      "Cold in the head, with thick, yellowish, purulent secretion, frequently tinged with blood", 
+      "Yellowish discharge from posterior nares", 
       "Edges of nostrils sore"
     ], 
     "Female": [
@@ -62,7 +62,7 @@
       "Suppurating stage of tonsillitis, when abscess is discharging"
     ], 
     "Extremities": [
-      "BURNING-ITCHING OF SOLES OF FEET"
+      "Burning-itching of soles of feet"
     ], 
     "Ears": [
       "Pimples around ear", 
@@ -70,8 +70,6 @@
     ]
   }, 
   "details": "Eczema and torpid glandular swellings. Cystic tumors. Fibroids. Suppurative processes come within the range of this remedy, after pus has found a vent. MUCOUS DISCHARGES ARE YELLOW, THICK AND LUMPY. Lupus vulgaris.", 
-  "Natural History": [
-    "Sulphate of Lime - Plaster of Paris"
-  ], 
+  "Natural History": "Sulphate of Lime - Plaster of Paris", 
   "dosage": "Second and third trituration. The twelfth potency has been found effective in Lupus."
 }

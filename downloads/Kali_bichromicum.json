@@ -5,16 +5,16 @@
     "Stool": [
       "Dysentery; tenesmus, stools brown, frothy", 
       "Sensation of a plug in anus", 
-      "Jelly-like, gelatinous; WORSE, MORNINGS", 
+      "Jelly-like, gelatinous; worse, mornings", 
       "Periodic constipation, with pain across the loins, and brown urine"
     ], 
     "Head": [
       "Vertigo with nausea when rising from seat", 
       "Frontal pain; usually over one eye", 
       "Semilateral headache in small spots, and from suppressed catarrh", 
-      "Headache over EYEBROWS, preceded by blurred vision", 
-      "ACHING AND FULLNESS IN GLABELLA", 
-      "BONES AND SCALP FEEL SORE"
+      "Headache over eyebrows, preceded by blurred vision", 
+      "Aching and fullness in glabella", 
+      "Bones and scalp feel sore"
     ], 
     "Stomach": [
       "Desire for beer and acids", 
@@ -22,7 +22,7 @@
       "Gastritis", 
       "Load immediately after eating", 
       "Dilatation of stomach", 
-      "ROUND ULCER OF STOMACH", 
+      "Round ulcer of stomach", 
       "Nausea and vomiting after beer", 
       "Stitches in region of liver and spleen and through to spine", 
       "Vomiting of bright yellow water", 
@@ -38,7 +38,7 @@
     ], 
     "Mouth": [
       "Dry; viscid saliva", 
-      "Tongue mapped, RED, SHINING, SMOOTH, AND DRY, with dysentery; broad, flat, indented, thickly coated", 
+      "Tongue mapped, red, shining, smooth, and dry, with dysentery; broad, flat, indented, thickly coated", 
       "Feeling of a hair on tongue"
     ], 
     "Respiratory": [
@@ -49,12 +49,12 @@
       "Metallic, hacking cough", 
       "Tickling in larynx", 
       "Catarrhal laryngitis cough has a brassy sound", 
-      "PROFUSE, YELLOW EXPECTORATION, VERY GLUTINOUS AND STICKY, coming out in long, stringy, and very tenacious mass"
+      "Profuse, yellow expectoration, very glutinous and sticky, coming out in long, stringy, and very tenacious mass"
     ], 
     "Eyes": [
       "Eyelids burn, swollen, edematous", 
-      "Discharge ROPY and yellow", 
-      "DESCEMETITIS, with only moderate irritation of eye", 
+      "Discharge ropy and yellow", 
+      "Descemetitis, with only moderate irritation of eye", 
       "Ulcers on cornea; no pain or photophobia", 
       "Supraorbital neuralgia, right side", 
       "Croupous conjunctivitis; granular lids, with pannus", 
@@ -69,19 +69,19 @@
     ], 
     "Nose": [
       "Dropping from posterior nares", 
-      "LOSS OF SMELL", 
-      "DISCHARGE THICK, ROPY, GREENISH-YELLOW", 
-      "VIOLENT SNEEZING", 
+      "Loss of smell", 
+      "Discharge thick, ropy, greenish-yellow", 
+      "Violent sneezing", 
       "Much hawking", 
-      "FETID SMELL", 
-      "CORYZA, WITH OBSTRUCTION OF nose", 
-      "TOUGH, ELASTIC PLUGS from nose; leave a raw surface", 
+      "Fetid smell", 
+      "Chronic inflammation of frontal sinus with stopped-up sensation", 
+      "Tough, elastic plugs from nose; leave a raw surface", 
+      "Coryza, with obstruction of nose", 
       "Profuse, watery nasal discharge", 
       "Inflammation extends to frontal sinuses, with distress and fullness at root of nose", 
-      "PRESSURE AND PAIN AT ROOT OF NOSE, and sticking pain in nose", 
-      "SEPTUM ULCERATE; round ulcer", 
-      "Snuffles of children, ESPECIALLY FAT, CHUBBY BABIES", 
-      "Chronic inflammation of frontal sinus with stopped-up sensation", 
+      "Pressure and pain at root of nose, and sticking pain in nose", 
+      "Septum ulcerate; round ulcer", 
+      "Snuffles of children, especially fat, chubby babies", 
       "Dryness", 
       "Inability to breathe through nose"
     ], 
@@ -109,20 +109,20 @@
       "Better: from heat"
     ], 
     "Urine": [
-      "HEMATOCHYLURIA", 
+      "Hematochyluria", 
       "Congestion of kidney; nephritis, with scanty, albuminous urine and casts", 
       "Urethra becomes clogged up", 
       "Ropy mucus in urine", 
-      "AFTER URINATING A DROP SEEMS TO REMAIN WHICH CANNOT BE EXPELLED", 
+      "After urinating a drop seems to remain which cannot be expelled", 
       "Burning in urethra", 
       "Pyelitis; urine mixed with epithelial cells, mucus, pus or blood"
     ], 
     "Back": [
-      "CUTTING THROUGH LOINS; cannot walk; extends to groins", 
+      "Cutting through loins; cannot walk; extends to groins", 
       "Pain in coccyx and sacrum extending up and down"
     ], 
     "Female": [
-      "Prolapsus uteri; WORSE IN HOT WEATHER", 
+      "Prolapsus uteri; worse in hot weather", 
       "Yellow, tenacious leucorrhoea", 
       "Pruritus of vulva, with great burning and excitement"
     ], 
@@ -131,7 +131,7 @@
       "Acne", 
       "Itching with vesicular eruption", 
       "Papular eruptions", 
-      "ULCER WITH PUNCHED-OUT EDGES, with tendency to penetrate and tenacious exudation"
+      "Ulcer with punched-out edges, with tendency to penetrate and tenacious exudation"
     ], 
     "Throat": [
       "Aphthae", 
@@ -141,7 +141,7 @@
       "Discharge from mouth and throat, tough and stringy", 
       "Fauces red and inflamed", 
       "Dry and rough", 
-      "Uvula relaxed, EDEMATOUS, BLADDER-LIKE", 
+      "Uvula relaxed, edematous, bladder-like", 
       "Burning extending to stomach"
     ], 
     "Extremities": [
@@ -149,17 +149,15 @@
       "Tearing pains in tibia; syphilitic rheumatism", 
       "Wandering pains, along the bones; worse cold", 
       "Soreness of heels when walking", 
-      "Tendo Achilles swollen and painful", 
+      "Tendo achilles swollen and painful", 
       "Pain, swelling and stiffness and crackling of all joints", 
       "Bones feels sore and bruised", 
-      "VERY WEAK", 
+      "Very weak", 
       "Pains fly rapidly from one place to another", 
       "Left-sided sciatica; better, motion"
     ]
   }, 
   "details": "The special affinities of this drug are the mucous membrane of stomach, bowels, and air-passages; bones and fibrous tissue. Kidneys, heart, and liver are also affected. Incipient parenchymatous; nephritis. Nephritis with gastric disturbances. Cirrhosis of liver. Anaemia and absence of fever are characteristic. General weakness bordering on paralysis. It is especially indicated for fleshy, fat, light complexioned persons subject to catarrhs or with syphilitic or scrofulous history. Symptoms are worse in the morning; PAINS MIGRATE QUICKLY, rheumatic and gastric symptoms alternate. More adapted to subacute rather than the violent acute stage. Mucous membranes everywhere are affected. Catarrh of pharynx, larynx, bronchi and nose, and a TOUGH, STRINGY, VISCID SECRETION is produced, which condition is a very strong guiding symptom for this drug. PERFORATION OF THE SEPTUM. Chronic atonic catarrh. Polypus. Dilatation of stomach and heart.", 
-  "Natural History": [
-    "Bichromate of Potash"
-  ], 
+  "Natural History": "Bichromate of Potash", 
   "dosage": "Third trituration, also thirtieth attenuation and higher.The lower preparations of this salt should not be kept too long."
 }

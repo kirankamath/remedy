@@ -8,26 +8,24 @@
       "Worse: right side"
     ], 
     "Abdomen": [
-      "CONSTIPATION, WITH INTENSE ITCHING; BLOATED ABDOMEN", 
+      "Constipation, with intense itching; bloated abdomen", 
       "Colic from getting feet wet", 
-      "HEMORRHOIDS, with burning sensation", 
+      "Hemorrhoids, with burning sensation", 
       "Swelling of liver", 
       "White stools"
     ], 
     "Skin": [
       "Jaundice", 
       "Yellow in spots; itching excessively at night", 
-      "INTENSE ITCHING, with no swelling or rash; worse across shoulders, also about elbows and knees and hairy parts", 
+      "Intense itching, with no swelling or rash; worse across shoulders, also about elbows and knees and hairy parts", 
       "Herpes zoster"
     ], 
     "Throat": [
-      "PAIN IN THROAT, WORSE SWALLOWING, BELOW RIGHT ANGLE OF JAW, AS IF SPLINTER WERE IMBEDDED VERTICALLY", 
+      "Pain in throat, worse swallowing, below right angle of jaw, as if splinter were imbedded vertically", 
       "Pain in gums prevents sleep"
     ]
   }, 
   "details": "A right-sided medicine, with pronounced liver and skin symptoms. A general INTENSE ITCHING without eruption. Exalted nervous sensibility. Senile pruritus. Hemorrhoidal diathesis.", 
-  "Natural History": [
-    "CowhageDolichos Mucuna"
-  ], 
+  "Natural History": "CowhageDolichos Mucuna", 
   "dosage": "Sixth potency. Tincture, drop doses, in hemorrhoids."
 }

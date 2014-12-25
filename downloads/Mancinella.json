@@ -14,10 +14,10 @@
     ], 
     "Mind": [
       "Silent mood, sadness", 
-      "FEAR OF BECOMING INSANE", 
+      "Fear of becoming insane", 
       "Wandering thoughts", 
       "Bashful", 
-      "SUDDEN VANISHING OF THOUGHT"
+      "Sudden vanishing of thought"
     ], 
     "Mouth": [
       "Dysphagia from constriction of throat and oesophagus", 
@@ -27,16 +27,16 @@
       "Taste of blood"
     ], 
     "Nose": [
-      "Illusions of smell; of gunpowder, dung, etc. Pressure at root of nose"
+      "Illusions of smell; of gunpowder, dung, etc. pressure at root of nose"
     ], 
     "Skin": [
       "Erysipelas", 
       "Fungoid growths", 
       "Heavy, brown crusts and scabs", 
-      "PEMPHIGUS", 
-      "LARGE BLISTERS, AS FROM SCALDS", 
+      "Pemphigus", 
+      "Large blisters, as from scalds", 
       "Intense erythema", 
-      "VESICLES"
+      "Vesicles"
     ], 
     "Extremities": [
       "Icy coldness of hands and feet", 
@@ -44,8 +44,6 @@
     ]
   }, 
   "details": "Skin symptoms most marked. Dermatitis, with excessive vesiculation, oozing of sticky serum and formation of crusts. To be remembered in mental depressed states at puberty and at climacteric, with exalted sexuality. (HERING.) LOSS OF VISION. Pain in the THUMB.", 
-  "Natural History": [
-    "Hippomane - Manganeel Apple"
-  ], 
+  "Natural History": "Hippomane - Manganeel Apple", 
   "dosage": "Sixth, to thirtieth potency."
 }

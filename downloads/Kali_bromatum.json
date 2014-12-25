@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Bromide of Potash"
-  ], 
+  "Natural History": "Bromide of Potash", 
   "details": "Like all Potash Salts, this weakens the heart and lowers temperature. Brominism is caused by it. General failure of mental power, loss of memory, melancholia, anaesthesia of the mucous membranes, especially of eyes, throat, and skin; acne; loss of sexual desire, paralysis. Leading remedy in psoriasis. Nodular form of chronic gout. SYMPTOMS OF APOPLECTIC ATTACKS, uraemic or otherwise; somnolence and stertor, convulsions, aphasia, albuminuria. Epilepsy (with salt-free diet).", 
   "symptoms": {
     "Head": [
       "Brain-fag", 
-      "NUMB FEELING IN HEAD", 
+      "Numb feeling in head", 
       "Suicidal mania with tremulousness", 
       "Face flushed", 
       "Coryza with tendency to extension into throat"
@@ -17,8 +15,8 @@
       "Dry, fatiguing, hacking cough at night"
     ], 
     "Stomach": [
-      "PERSISTENT HICCOUGH", 
-      "Vomiting, with INTENSE THIRST, after each meal"
+      "Persistent hiccough", 
+      "Vomiting, with intense thirst, after each meal"
     ], 
     "Modalities": [
       "Better: when occupied mentally or physically"
@@ -36,17 +34,17 @@
       "Imagines he is singled out as an object of divine wrath", 
       "Profound, melancholic delusion; feeling of moral deficiency; religious depression; delusions of conspiracies against him", 
       "Horrid illusions", 
-      "NIGHT TERRORS", 
+      "Night terrors", 
       "Fear of being poisoned"
     ], 
     "Abdomen": [
       "Green, watery stools with intense thirst, vomiting, eyes sunken", 
       "Sensation as if bowels were falling out", 
-      "RETRACTION of abdomen", 
+      "Retraction of abdomen", 
       "Green, watery stools", 
-      "INTERNAL COLDNESS of abdomen", 
+      "Internal coldness of abdomen", 
       "Diarrhoea, with much blood", 
-      "CHOLERA INFANTUM, with reflex cerebral irritation, jerking and twitching of muscles", 
+      "Cholera infantum, with reflex cerebral irritation, jerking and twitching of muscles", 
       "Prostration"
     ], 
     "Sleep": [
@@ -60,23 +58,23 @@
     ], 
     "Female": [
       "Pruritus", 
-      "EXAGGERATED SEXUAL desires", 
+      "Exaggerated sexual desires", 
       "Cystic tumors of ovaries", 
       "Ovarian neuralgia with great nervous uneasiness"
     ], 
     "Skin": [
-      "ACNE of face, pustules", 
+      "Acne of face, pustules", 
       "Itching; worse on chest, shoulders, and face", 
-      "PSORIASIS", 
+      "Psoriasis", 
       "Anaesthesia of skin"
     ], 
     "Throat": [
       "Congestion of uvula and fauces", 
       "Dysphagia, especially of liquids", 
-      "ANAESTHESIA of fauces, pharynx, and larynx"
+      "Anaesthesia of fauces, pharynx, and larynx"
     ], 
     "Extremities": [
-      "FIDGETY HANDS; busy twitching of fingers", 
+      "Fidgety hands; busy twitching of fingers", 
       "Jerking and twitching of muscles"
     ], 
     "Male": [

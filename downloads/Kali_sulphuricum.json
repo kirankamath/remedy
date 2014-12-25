@@ -38,14 +38,14 @@
       "Coarse rales", 
       "Cough; worse in evening and in hot atmosphere", 
       "Croupy hoarseness", 
-      "RATTLING OF MUCUS IN CHEST", 
+      "Rattling of mucus in chest", 
       "Bronchial asthma, with yellow expectoration", 
       "Post-grippal cough, especially in children"
     ], 
     "Nose": [
+      "Engorgement of the nasal pharyngeal mucous membrane, mouth breathing, snoring, etc., remaining after removal of adenoids", 
       "Smell lost", 
-      "Colds, WITH YELLOW, slimy expectoration", 
-      "ENGORGEMENT OF THE NASAL PHARYNGEAL MUCOUS MEMBRANE, mouth breathing, snoring, etc., remaining after removal of adenoids", 
+      "Colds, with yellow, slimy expectoration", 
       "Nose obstructed"
     ], 
     "Female": [
@@ -64,7 +64,7 @@
     ], 
     "Extremities": [
       "Pain in nape, back and limbs, worse in warm room", 
-      "SHIFTING, WANDERING PAINS"
+      "Shifting, wandering pains"
     ], 
     "Male": [
       "Gonorrhea; discharge slimy, yellowish-green", 
@@ -72,13 +72,11 @@
       "Orchitis"
     ], 
     "Ears": [
-      "Discharge of YELLOW matter", 
+      "Discharge of yellow matter", 
       "Eustachian deafness"
     ]
   }, 
   "details": "Ailments accompanied by profuse desquamation. Applicable to the later stages of inflammation. YELLOW, mucous and serous discharges, profuse and intermittent. Has been found of much use in oxaluria.", 
-  "Natural History": [
-    "Potassium Sulphate"
-  ], 
+  "Natural History": "Potassium Sulphate", 
   "dosage": "Third to twelfth potency."
 }

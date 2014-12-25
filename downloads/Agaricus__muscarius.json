@@ -8,13 +8,13 @@
       "Stitches in urethra"
     ], 
     "Head": [
+      "Headache with nose-bleed or thick mucous discharge", 
       "Head in constant motion", 
       "Desire to cover head warmly", 
       "Falling backward, as if a weight in occiput", 
-      "Headache with NOSE-BLEED or thick mucous discharge", 
-      "Icy coldness, LIKE ICY NEEDLES, or splinters", 
+      "Icy coldness, like icy needles, or splinters", 
       "Dull headache from prolonged desk-work", 
-      "VERTIGO FROM SUNLIGHT, and on walking", 
+      "Vertigo from sunlight, and on walking", 
       "Neuralgia with icy cold head", 
       "Lateral headache, as if from a nail"
     ], 
@@ -29,13 +29,13 @@
       "Empty eructations, tasting of apples", 
       "Profuse in-odorous flatus", 
       "Unnatural hunger", 
-      "GASTRIC DISTURBANCE WITH SHARP PAINS IN LIVER REGION", 
+      "Gastric disturbance with sharp pains in liver region", 
       "Burning in stomach about three hours after a meal, changing into a dull pressure", 
       "Nervous disturbances, with spasmodic contractions, hiccough"
     ], 
     "Abdomen": [
       "Stitches under short ribs, left side", 
-      "Stitching pains in liver, SPLEEN  and abdomen", 
+      "Stitching pains in liver, spleen  and abdomen", 
       "Fetid stools", 
       "Diarrhoea with much fetid flatus"
     ], 
@@ -52,31 +52,31 @@
     ], 
     "Respiratory": [
       "Violent attacks of coughing that can be suppressed by effort of will, worse eating, pain in head while cough lasts", 
-      "COUGH ENDS IN A SNEEZE", 
+      "Cough ends in a sneeze", 
       "Labored, oppressed breathing", 
-      "Spasmodic coughing at night after falling asleep, WITH EXPECTORATION OF LITTLE BALLS OF MUCUS"
+      "Spasmodic coughing at night after falling asleep, with expectoration of little balls of mucus"
     ], 
     "Eyes": [
-      "READING DIFFICULT, AS TYPE SEEMS TO MOVE, TO SWIM", 
-      "TWITCHING OF LIDS AND EYEBALLS", 
+      "Reading difficult, as type seems to move, to swim", 
+      "Twitching of lids and eyeballs", 
       "Inner angles very red", 
-      "Asthenopia from prolonged strain, SPASM of accommodation", 
+      "Asthenopia from prolonged strain, spasm of accommodation", 
       "Margins of lids red; itch and burn and agglutinate", 
       "Vibrating specters", 
-      "DOUBLE VISION , dim and flickering"
+      "Double vision , dim and flickering"
     ], 
     "Face": [
-      "FACIAL; muscles feel stiff; TWITCH; face itches and burns", 
+      "Facial; muscles feel stiff; twitch; face itches and burns", 
       "Lancinating, tearing pain in cheeks, as of splinters", 
       "Neuralgia, as if cold needles ran through nerves or sharp ice touched them"
     ], 
     "Nose": [
-      "ITCHING internally and externally", 
+      "Itching internally and externally", 
       "Sensation of soreness in nose and mouth", 
-      "NERVOUS nasal disturbances", 
+      "Nervous nasal disturbances", 
       "Spasmodic sneezing after coughing; sensitiveness; watery non-inflammatory discharge", 
       "Inner angles very red", 
-      "NOSEBLEED IN OLD PEOPLE", 
+      "Nosebleed in old people", 
       "Fetid, dark, bloody discharge"
     ], 
     "Ears": [
@@ -85,31 +85,35 @@
     ], 
     "Heart": [
       "Cardiac region oppressed, as if thorax were narrowed", 
-      "IRREGULAR, TUMULTUOUS PALPATION, after tobacco", 
+      "Irregular, tumultuous palpation, after tobacco", 
       "Pulse intermittent and irregular", 
       "Palpitation with redness of face"
     ], 
+    "Modalities": [
+      "Worse: pressure on dorsal spine", 
+      "Worse: which causes involuntary laughter"
+    ], 
     "Mind": [
-      "FEARLESSNESS", 
+      "Fearlessness", 
       "Sings, talks, but does not answer", 
       "Perception of relative size of objects is lost, takes long steps and jumps over small objects as if they were trunks of trees - a small hole appears as a frightful chasm, a spoonful of water an immense lake", 
-      "LOQUACITY", 
+      "Loquacity", 
       "Aversion to work", 
-      "DELIRIUM characterized by singing, shouting, and muttering; rhymes and prophesies", 
+      "Delirium characterized by singing, shouting, and muttering; rhymes and prophesies", 
       "Physical strength is increased, can lift heavy loads", 
       "Indifference"
     ], 
     "Back": [
-      "Pain, WITH SENSITIVENESS OF SPINE TO TOUCH; worse in dorsal region", 
-      "TWITCHING OF CERVICAL MUSCLES", 
+      "Pain, with sensitiveness of spine to touch; worse in dorsal region", 
+      "Twitching of cervical muscles", 
       "Lumbago; worse in open air", 
       "Crick in back"
     ], 
     "Sleep": [
       "Restless from violent itching and burning", 
       "Drowsy in daytime", 
-      "On falling asleep, STARTS, TWITCHES, AND AWAKENS OFTEN", 
-      "PAROXYSMS OF YAWNING", 
+      "On falling asleep, starts, twitches, and awakens often", 
+      "Paroxysms of yawning", 
       "Yawning, followed by involuntary laughter", 
       "Vivid dreams"
     ], 
@@ -117,7 +121,7 @@
       "Spasmodic dysmenorrhoea", 
       "Leucorrhoea, with much itching", 
       "Complaints following parturition and coitus", 
-      "Severe BEARING-DOWN PAINS, ESPECIALLY AFTER MENOPAUSE", 
+      "Severe bearing-down pains, especially after menopause", 
       "Nipples itch, burn", 
       "Itching and tearing, oppressive pains of genitals and back", 
       "Menses, increased, earlier", 
@@ -130,7 +134,7 @@
       "Miliary eruption, with intolerable itching and burning", 
       "Swollen veins with cold skin", 
       "Chilblains", 
-      "BURNING, ITCHING, REDNESS, AND SWELLING, AS FROM FROSTBITES"
+      "Burning, itching, redness, and swelling, as from frostbites"
     ], 
     "Throat": [
       "Feels contracted", 
@@ -153,12 +157,10 @@
       "Paralysis of lower limbs, with spasmodic condition of arms", 
       "Stiff all over", 
       "Uncertain gait", 
-      "ITCHING OF TOES AND FEET AS IF FROZEN"
+      "Itching of toes and feet as if frozen"
     ]
   }, 
   "details": "This fungus contains several toxic compounds, the best known of which is MUSCARIN. The symptoms of poisoning do not develop at once, usually twelve to fourteen hours elapse before the initial attack. There is no antidote, treatment, entirely symptomatic. (Schneider). Agaricus acts as an intoxicant to the brain, producing more vertigo and delirium than alcohol, followed by profound sopor with lowered reflexes.Jerking, twitching, trembling, and itching are strong indications. Incipient phthisis; is related to the tubercular diathesis, anaemia, CHOREA, twitching ceases during sleep. Various forms of neuralgia and spasmodic affections, and neurotic skin troubles are pictured in the symptomatology of this remedy. It corresponds to various forms of cerebral excitement rather than congestion. Thus, in delirium of fevers, alcoholism, etc. General paralysis. SENSATIONS IF PIERCED BY NEEDLES OF ICE. Sensitive to pressure and cold air. VIOLENT BEARING-DOWN PAINS. Symptoms appear diagonally as RIGHT ARM AND LEFT LEG. Pains are accompanied by sensation of cold, numbness and tingling.", 
-  "Natural History": [
-    "Toad Stool - Bug AgaricAmanita"
-  ], 
+  "Natural History": "Toad Stool - Bug AgaricAmanita", 
   "dosage": "Third to thirtieth and two hundredth potency. In skin affections and brain exhaustions give the lower attenuations."
 }

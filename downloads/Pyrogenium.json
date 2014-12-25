@@ -6,8 +6,8 @@
       "Always can hear her heart beat", 
       "Tired feeling about heart", 
       "Pain in region of left nipple", 
-      "PALPITATION", 
-      "Pulse abnormally rapid, OUT OF PROPORTION TO THE TEMPERATURE", 
+      "Palpitation", 
+      "Pulse abnormally rapid, out of proportion to the temperature", 
       "Sensation as if heart were too full", 
       "Conscious of heart"
     ], 
@@ -20,9 +20,9 @@
       "Latent pyogenic condition", 
       "Coldness and chilliness", 
       "Chill begins in back", 
-      "SEPTIC FEVERS", 
+      "Septic fevers", 
       "Temperature rises rapidly", 
-      "Great heat with profuse how sweat, but SWEATING DOES NOT CAUSE A FALL IN TEMPERATURE"
+      "Great heat with profuse how sweat, but sweating does not cause a fall in temperature"
     ], 
     "Stomach": [
       "Vomits water, when it becomes warm in stomach", 
@@ -31,7 +31,7 @@
     "Mind": [
       "Thinks he is very wealthy", 
       "Loquacious", 
-      "RESTLESS", 
+      "Restless", 
       "Feels if crowded with arms and legs", 
       "Full of anxiety and insane notions", 
       "Cannot tell whether dreaming while awake or asleep"
@@ -54,7 +54,7 @@
       "Post-operative cases, with overwhelming sepsis", 
       "Puerperal peritonitis, with extreme fetor", 
       "Menses horribly offensive", 
-      "SEPTIC PUERPERAL INFECTION", 
+      "Septic puerperal infection", 
       "Uterine hemorrhages", 
       "Fever at each menstrual period, consequent upon latent pelvic inflammation", 
       "Pelvic calculi", 
@@ -68,7 +68,7 @@
       "Nausea and vomiting", 
       "Throat dry, articulation difficult", 
       "Taste terribly fetid", 
-      "Tongue red and DRY, clean, cracked, smooth, as though varnished", 
+      "Tongue red and dry, clean, cracked, smooth, as though varnished", 
       "Breath horrible"
     ], 
     "Extremities": [
@@ -77,13 +77,11 @@
       "Aching in all limbs and bones", 
       "Throbbing in vessels of neck", 
       "Rapid decubitus of septic origin", 
-      "BED FEELS TOO HARD", 
+      "Bed feels too hard", 
       "Soreness; better by motion"
     ]
   }, 
   "details": "Pyrogen is the great remedy for SEPTIC STATES, with intense restlessness. In septic fevers, especially puerperal, Pyrogen has demonstrated its great value as a homeopathic dynamic antiseptic. (H. C. Allen.) Hectic, typhoid, typhus, ptomaine poisoning, diphtheria, dissecting wounds, sewer-gas poisoning, chronic malaria, after-effects of miscarriage, all these conditions at times may present symptoms calling for this unique medicine. ALL DISCHARGES ARE HORRIBLY OFFENSIVE - menstrual, lochial, diarrhoea, vomit, sweat, breath, etc. Great pain and violent burning in abscesses. Chronic complaints that date back to septic conditions. Threatening heart failure in zymotic and septic fevers. Influenza, typhoid symptoms.This remedy was introduced by English Homeopathists, prepared from decomposed lean beef allowed to stand in the sun for two weeks and then potentised. The provings and most of the clinical experience have been obtained from this preparation. But, subsequently, Dr. Swan potentised some septic pus, which preparation has also been proved and clinically applied. There does not seem to be any marked difference in their effects.", 
-  "Natural History": [
-    "Artificial Sepsin"
-  ], 
+  "Natural History": "Artificial Sepsin", 
   "dosage": "Sixth to thirtieth and higher potencies. Should not be repeated too frequently."
 }

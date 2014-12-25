@@ -10,7 +10,7 @@
     ], 
     "Stool": [
       "Clay-colored and soft", 
-      "SOUR, white, undigested, FETID", 
+      "Sour, white, undigested, fetid", 
       "Loss of power to expel even a soft stool"
     ], 
     "Head": [
@@ -21,8 +21,8 @@
       "Scalp sensitive and sore"
     ], 
     "Fever": [
-      "PROFUSE SWEAT; sour, sticky, offensive", 
-      "Chilly in open air or from SLIGHTEST DRAFT", 
+      "Profuse sweat; sour, sticky, offensive", 
+      "Chilly in open air or from slightest draft", 
       "Dry heat at night"
     ], 
     "Stomach": [
@@ -46,22 +46,22 @@
       "Rattling, croaking cough; suffocative attacks; has to rise up and bend head backwards", 
       "Palpitation of heart", 
       "Hoarseness, with loss of voice", 
-      "Cough excited WHENEVER ANY PART OF THE BODY GETS COLD OR UNCOVERED, or from eating anything cold", 
+      "Cough excited whenever any part of the body gets cold or uncovered, or from eating anything cold", 
       "Anxious, wheezing, moist breathing, asthma worse in dry cold air; better in damp", 
       "Loses voice and coughs when exposed to dry, cold wind", 
       "Croup with loose, rattling cough; worse in morning", 
-      "CHOKING COUGH", 
+      "Choking cough", 
       "Cough troublesome when walking"
     ], 
     "Eyes": [
       "Eyeballs sore to touch", 
       "Eyes and lids red and inflamed", 
-      "ULCERS ON CORNEA", 
+      "Ulcers on cornea", 
       "Bright circles before eyes", 
       "Iritis, with pus in anterior chamber; purulent conjunctivitis, with marked chemosis, profuse discharge, great sensitiveness to touch and air", 
       "Vision obscured by reading; field reduced one-half", 
       "Objects appear red and too large", 
-      "HYPOPION", 
+      "Hypopion", 
       "Pain in the eyes, as if pulled back into the head", 
       "Boring pain in upper bones of the orbits"
     ], 
@@ -75,9 +75,9 @@
       "Neuralgia of right side, extending in streak into temple, ear, alae, and lip"
     ], 
     "Nose": [
-      "SMELL LIKE OLD CHEESE", 
+      "Smell like old cheese", 
       "Sore, ulcerated", 
-      "HAY-FEVER", 
+      "Hay-fever", 
       "Stopped up every time he goes out into cold air", 
       "Sneezes every time he goes into a cold, dry wind, with running from nose, later, thick, offensive discharge", 
       "Soreness of nostrils, with catarrhal troubles"
@@ -101,7 +101,7 @@
       "Mastoiditis"
     ], 
     "Modalities": [
-      "Worse: from dry cold winds; cool air; slightest draft; from Mercury", 
+      "Worse: from dry cold winds; cool air; slightest draft; from mercury", 
       "Worse: touch; lying on painful side", 
       "Better: in damp weather", 
       "Better: from wrapping head up", 
@@ -109,7 +109,7 @@
       "Better: after eating"
     ], 
     "Mind": [
-      "THE SLIGHTEST CAUSE IRRITATES HIM", 
+      "The slightest cause irritates him", 
       "Anguish in the evening and night, with thoughts of suicide", 
       "Ferocious", 
       "Dejected and sad", 
@@ -121,7 +121,7 @@
       "Itching of pudenda and nipples, worse during menses", 
       "Menses late and scanty", 
       "Smells like old cheese", 
-      "ABSCESSES OF LABIAE WITH GREAT SENSITIVENESS", 
+      "Abscesses of labiae with great sensitiveness", 
       "Profuse perspiration at the climacteric"
     ], 
     "Skin": [
@@ -131,25 +131,25 @@
       "Sticking or pricking in afflicted parts", 
       "Herpes circinatus", 
       "Suppurate with prickly pain", 
-      "Chapped skin, with DEEP CRACKS ON HANDS AND FEET", 
-      "PAPULES prone to suppurate and extend", 
+      "Chapped skin, with deep cracks on hands and feet", 
+      "Papules prone to suppurate and extend", 
       "Acne in youth", 
-      "UNHEALTHY SKIN; EVERY LITTLE INJURY SUPPURATES", 
-      "ULCERS VERY SENSITIVE TO CONTACT, burning, stinging, easily bleeding", 
-      "COLD-SORES VERY SENSITIVE", 
+      "Unhealthy skin; every little injury suppurates", 
+      "Ulcers very sensitive to contact, burning, stinging, easily bleeding", 
+      "Cold-sores very sensitive", 
       "Small-pox", 
       "Constant offensive exhalation from the body", 
-      "Putrid ulcers, SURROUNDED BY LITTLE PIMPLES", 
+      "Putrid ulcers, surrounded by little pimples", 
       "Sweats day and night without relief", 
       "Angioneurotic oedema", 
-      "CHRONIC AND RECURRING URTICARIA", 
-      "Cannot bear to be uncovered; WANTS TO BE WRAPPED UP WARMLY", 
+      "Chronic and recurring urticaria", 
+      "Cannot bear to be uncovered; wants to be wrapped up warmly", 
       "Great sensitiveness to slightest touch"
     ], 
     "Throat": [
       "Hawking up of mucus", 
-      "Quinsy, WITH IMPENDING SUPPURATION", 
-      "When swallowing, sensation as if a plug and OF A SPLINTER IN THROAT", 
+      "Quinsy, with impending suppuration", 
+      "When swallowing, sensation as if a plug and of a splinter in throat", 
       "Stitches in throat extending to the ear when swallowing"
     ], 
     "Extremities": [
@@ -158,8 +158,6 @@
     ]
   }, 
   "details": "Suits especially scrofulous and lymphatic constitutions who are inclined to have eruptions and glandular swellings. Unhealthy skin. Blondes with sluggish character and weak muscles. GREAT SENSITIVENESS TO ALL IMPRESSIONS. Sweating patient pulling blanket around him. Locally, it has special affinity to the respiratory mucous membrane, producing croupous catarrhal inflammation, profuse secretion; also easy perspiration. After abuse of Mercury. Infected sinus with pus forming. THE TENDENCY TO SUPPURATION is most marked, and has been a strong guiding symptom in practice. The lesions spread by the formation of small papules around the side of the old lesion. Chilliness, hypersensitiveness, splinter-like pains, craving for sour and strong things are very characteristic. FEELING AS IF WIND WERE BLOWING ON SOME PART. The side of the body on which he lies at night becomes gradually insufferably painful; he must turn. PELLAGRA (material doses required). Syphilis after anti specific gross medication.", 
-  "Natural History": [
-    "Hahnemann's Calcium Sulphide"
-  ], 
+  "Natural History": "Hahnemann's Calcium Sulphide", 
   "dosage": "First to 200th. The higher potencies may abort suppuration, the lower promote it. If it is necessary to hasten it, give 2X."
 }

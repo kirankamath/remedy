@@ -21,7 +21,7 @@
       "Ovaries burn, pain, swell", 
       "Uterus hypertrophied", 
       "Postpartum hemorrhage", 
-      "CERVIX BLEEDS EASILY", 
+      "Cervix bleeds easily", 
       "Profuse menses after miscarriage; discharge of blood from slightest provocation; bright red; partly clotted"
     ], 
     "Skin": [
@@ -33,7 +33,7 @@
     ], 
     "Extremities": [
       "Muscular contractions, especially of lower limbs", 
-      "Muscular debility, SENSATION OF BOILING WATER ALONG THE BACK", 
+      "Muscular debility, sensation of boiling water along the back", 
       "Clonic and tetanic movements"
     ], 
     "Male": [
@@ -44,8 +44,6 @@
     ]
   }, 
   "details": "Flabby condition of uterus. Hemorrhage. Congestion to various parts, especially at climacteric. Crusta lactea. (VIOL TRICH.)", 
-  "Natural History": [
-    "Corn-smut"
-  ], 
+  "Natural History": "Corn-smut", 
   "dosage": "Tincture, to third potency."
 }

@@ -3,7 +3,7 @@
   "Relationship": "Compare: RHUS; ANACARD.; GRINDELIA.", 
   "symptoms": {
     "Mind": [
-      "Dull, cannot concentrate mind for study; forgets names; WRITES LAST LETTERS OF WORDS FIRST; misspells common words"
+      "Dull, cannot concentrate mind for study; forgets names; writes last letters of words first; misspells common words"
     ], 
     "Eyes": [
       "Eyes feel sore, burn", 
@@ -11,7 +11,7 @@
     ], 
     "Stomach": [
       "Eructations sour; offensive, an hour after luncheons and dinner", 
-      "Vomiting at two PM", 
+      "Vomiting at two pm", 
       "Feels full and heavy"
     ], 
     "Abdomen": [
@@ -83,9 +83,6 @@
     ]
   }, 
   "details": "Dysmenorrhoea and skin symptoms.Should prove curative in eczematous conditions, poison-oak, early typhoid states, etc.", 
-  "Natural History": [
-    "Basket Grass Flower", 
-    "Tamalpais Lily"
-  ], 
+  "Natural History": "Tamalpais Lily. Basket Grass Flower", 
   "dosage": "Sixth potency or higher."
 }

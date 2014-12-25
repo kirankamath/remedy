@@ -17,21 +17,19 @@
     "Urine": [
       "Involuntary", 
       "Cystitis", 
-      "CONSTANT URGING", 
+      "Constant urging", 
       "Turbid, thick, full of mucus", 
       "Bladder cannot hold smallest quantity"
     ], 
     "Skin": [
       "Offensive foot-sweat", 
-      "ABSCESSES, boils, ULCERS", 
+      "Abscesses, boils, ulcers", 
       "Erysipelas", 
       "Pruritus, herpes", 
       "Diseased and deformed nails"
     ]
   }, 
   "details": "Painful swelling of various parts, going on to suppuration. Glandular inflammation.A skin remedy of high order.", 
-  "Natural History": [
-    "Cuscus - An East Indian Grass"
-  ], 
+  "Natural History": "Cuscus - An East Indian Grass", 
   "dosage": "Third potency"
 }

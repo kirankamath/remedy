@@ -3,16 +3,14 @@
   "Relationship": "CHENOPODIUM VULARIA. The plant has an odor of decaying fish and contains a large amount of Propylamin. Weakness in lumbar and lower dorsal region.", 
   "symptoms": {
     "Extremities": [
-      "PAIN IN WRISTS AND ANKLES; worse, slightest motion", 
+      "Tingling and numbness of fingers", 
+      "Pain in wrists and ankles; worse, slightest motion", 
       "Great restlessness and thirst", 
       "Pain in wrist and ankle, unable to stand", 
-      "TINGLING AND NUMBNESS OF FINGERS", 
       "Rheumatism, needle held in fingers gets too heavy"
     ]
   }, 
   "details": "In acute rheumatism, dissipates fever and pain in a day or two. Rheumatic prosopalgia, and rheumatic metastases, especially heart lesions.", 
-  "Natural History": [
-    "Distilled Herring-brine"
-  ], 
+  "Natural History": "Distilled Herring-brine", 
   "dosage": "Ten to fifteen drops, in about six ounces of water; teaspoonful doses every two hours."
 }

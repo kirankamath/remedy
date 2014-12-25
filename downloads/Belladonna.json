@@ -7,21 +7,21 @@
       "Sensation of motion in bladder as of a worm", 
       "Vesical region sensitive", 
       "Acute urinary infections", 
-      "FREQUENT AND PROFUSE", 
+      "Frequent and profuse", 
       "Hematuria where no pathological condition can be found", 
       "Prostatic hypertrophy", 
-      "Urine scanty, with tenesmus; DARK AND TURBID, loaded with phosphates", 
-      "RETENTION"
+      "Urine scanty, with tenesmus; dark and turbid, loaded with phosphates", 
+      "Retention"
     ], 
     "Head": [
       "Boring of head into pillow; drawn backward and rolls from side to side", 
       "Constant moaning", 
       "Hair splits; is dry and comes out", 
       "Much throbbing and heat", 
-      "Pain; fullness, ESPECIALLY IN FOREHEAD, also occiput, and temples", 
+      "Pain; fullness, especially in forehead, also occiput, and temples", 
       "Headache worse on right side and when lying down; ill effects, colds, etc.; from having hair cut", 
       "Palpitation reverberating in head with labored breathing", 
-      "PAIN WORSE LIGHT, NOISE, JAR LYING DOWN AND IN AFTERNOON; better by pressure and semi-erect posture", 
+      "Pain worse light, noise, jar lying down and in afternoon; better by pressure and semi-erect posture", 
       "Sudden outcries", 
       "Vertigo, with falling to left side or backwards", 
       "Headache from suppressed catarrhal flow", 
@@ -29,11 +29,11 @@
     ], 
     "Fever": [
       "Feet icy cold", 
-      "NO THIRST WITH FEVER", 
+      "No thirst with fever", 
       "A high feverish state with comparative absence of toxaemia", 
       "Superficial blood-vessels, distended", 
       "Perspiration dry only on head", 
-      "BURNING, PUNGENT, STEAMING, HEAT"
+      "Burning, pungent, steaming, heat"
     ], 
     "Stomach": [
       "Uncontrollable vomiting", 
@@ -41,11 +41,11 @@
       "Averse to meat and milk", 
       "Abhorrence of liquids", 
       "Spasms of stomach", 
-      "DREAD OF DRINKING", 
+      "Dread of drinking", 
       "Spasmodic hiccough", 
       "Nausea and vomiting", 
       "Empty retching", 
-      "GREAT THIRST FOR COLD WATER", 
+      "Great thirst for cold water", 
       "Constriction; pain runs to spine", 
       "Spasmodic pain in epigastrium"
     ], 
@@ -58,7 +58,7 @@
       "Distended, hot", 
       "Stinging pain in rectum; spasmodic stricture", 
       "Prolapsus ani", 
-      "Extreme sensitiveness to touch, bed-clothes, etc. Thin, green, dysenteric; in lumps like chalk", 
+      "Extreme sensitiveness to touch, bed-clothes, etc. thin, green, dysenteric; in lumps like chalk", 
       "Transverse colon protrudes like a pad", 
       "Pain as if clutched by a hand; worse, jar, pressure"
     ], 
@@ -67,45 +67,45 @@
       "Stammering", 
       "Throbbing pain in teeth", 
       "Tongue red on edges", 
-      "GRINDING OF TEETH", 
+      "Grinding of teeth", 
       "Gumboil", 
       "Strawberry tongue", 
       "Tongue swollen and painful"
     ], 
     "Respiratory": [
-      "LARYNX VERY PAINFUL; feels as if a foreign body were in it, with cough", 
-      "MOANING AT EVERY BREATH", 
+      "Larynx very painful; feels as if a foreign body were in it, with cough", 
+      "Moaning at every breath", 
       "Cough with pain in left hip", 
       "Barking cough, whooping cough, with pain in stomach before attack, with expectoration of blood", 
       "Larynx feels sore", 
       "Stitches in chest when coughing", 
-      "Cheyne-Stokes respiration  Hoarse; loss of voice", 
-      "HIGH PIPING VOICE", 
+      "Cheyne-stokes respiration  hoarse; loss of voice", 
+      "High piping voice", 
       "Painless hoarseness", 
       "Drying in nose, fauces, larynx, and trachea", 
-      "TICKLING, SHORT, DRY COUGH; WORSE AT NIGHT", 
+      "Tickling, short, dry cough; worse at night", 
       "Respiration oppressed, quick, unequal"
     ], 
     "Eyes": [
-      "DIPLOPIA, squinting, spasms of lids", 
+      "Diplopia, squinting, spasms of lids", 
       "Exophthalmus", 
       "Throbbing deep in eyes on lying down", 
       "Eyelids swollen", 
       "Ocular illusions; fiery appearance", 
-      "PUPILS DILATED", 
-      "Eyes feel swollen and protruding, STARING, BRILLIANT; conjunctiva red; DRY, burn; photophobia; shooting in eyes", 
+      "Pupils dilated", 
+      "Eyes feel swollen and protruding, staring, brilliant; conjunctiva red; dry, burn; photophobia; shooting in eyes", 
       "Sensation as if eyes were half closed", 
       "Fundus congested"
     ], 
     "Face": [
       "Swelling of upper lip", 
       "Facial neuralgia with twitching muscles and flushed face", 
-      "Red, BLUISH-RED, hot, swollen, shining; convulsive motion of muscles of face"
+      "Red, bluish-red, hot, swollen, shining; convulsive motion of muscles of face"
     ], 
     "Nose": [
       "Imaginary odors", 
       "Coryza; mucus mixed with blood", 
-      "BLEEDING OF NOSE, with red face", 
+      "Bleeding of nose, with red face", 
       "Red and swollen", 
       "Tingling in tip of nose"
     ], 
@@ -116,13 +116,13 @@
       "Flow of prostatic fluid"
     ], 
     "Ears": [
-      "Acute and sub-acute conditions of Eustachian tube", 
-      "CHILD CRIES OUT IN SLEEP; throbbing and beating pain deep in ear, synchronous with heart beat", 
+      "Acute and sub-acute conditions of eustachian tube", 
+      "Child cries out in sleep; throbbing and beating pain deep in ear, synchronous with heart beat", 
       "Sensitive to loud tones", 
       "Membrana tympani bulges and injected", 
       "Otitis media", 
       "Hematoma auris", 
-      "PAIN CAUSES DELIRIUM", 
+      "Pain causes delirium", 
       "Hearing very acute", 
       "Tearing pain in middle and external ear", 
       "Auto phony - hearing one's voice in ear", 
@@ -147,12 +147,12 @@
       "Better: semi-erect"
     ], 
     "Mind": [
-      "He is acutely alive and crazed by a flood of SUBJECTIVE visual impressions and fantastic illusions", 
-      "Delirium; frightful images; FURIOUS; rages, bites, strikes; DESIRE TO ESCAPE", 
+      "He is acutely alive and crazed by a flood of subjective visual impressions and fantastic illusions", 
+      "Delirium; frightful images; furious; rages, bites, strikes; desire to escape", 
       "Patient lives in a world of his own, engrossed by spectres and visions and oblivious to surrounding realities", 
       "Disinclined to talk", 
       "Perversity, with tears", 
-      "ACUTENESS OF ALL SENSES", 
+      "Acuteness of all senses", 
       "Hallucinations; sees monsters, hideous faces", 
       "Changeableness", 
       "While the retina is insensible to actual objects, a host of visual hallucinations throng about him and come to him from within", 
@@ -163,10 +163,10 @@
       "Pressure on dorsal region most painful", 
       "Pain in nape, as if it would break", 
       "Lumbago, with pain in hips and thighs", 
-      "SWELLING OF GLANDS OF NECK"
+      "Swelling of glands of neck"
     ], 
     "Sleep": [
-      "STARING WHEN CLOSING THE EYES OF DURING SLEEP", 
+      "Staring when closing the eyes of during sleep", 
       "Screams out in sleep", 
       "Sleeplessness, with drowsiness", 
       "Restless, crying out, gritting of teeth", 
@@ -174,49 +174,49 @@
       "Kept awake by pulsation of blood-vessels"
     ], 
     "Female": [
-      "MASTITIS pain, throbbing, redness, streaks radiate from nipple", 
+      "Mastitis pain, throbbing, redness, streaks radiate from nipple", 
       "Breasts feel heavy; are hard and red", 
-      "Badly smelling Hemorrhages, hot gushes of blood", 
+      "Badly smelling hemorrhages, hot gushes of blood", 
       "Diminished lochia", 
       "Tumors of breast, pain worse lying down", 
-      "Sensitive forcing downwards, as IF ALL THE VISCERA WOULD PROTRUDE AT GENITALS", 
+      "Sensitive forcing downwards, as if all the viscera would protrude at genitals", 
       "Cutting pain from hip to hip", 
-      "HEMORRHAGE HOT", 
+      "Hemorrhage hot", 
       "Dragging around loins", 
-      "MENSES AND LOCHIA VERY OFFENSIVE AND HOT", 
-      "Menses increased; BRIGHT RED, TOO EARLY, TOO PROFUSE", 
+      "Menses and lochia very offensive and hot", 
+      "Menses increased; bright red, too early, too profuse", 
       "Pain in sacrum", 
       "Dryness and heat of vagina", 
       "Labor-pains come and go suddenly"
     ], 
     "Skin": [
       "Erysipelas", 
-      "ALTERNATE REDNESS AND PALENESS OF THE SKIN", 
+      "Alternate redness and paleness of the skin", 
       "Suppurative wounds", 
-      "Dry and HOT; swollen, sensitive; burns scarlet, smooth", 
+      "Dry and hot; swollen, sensitive; burns scarlet, smooth", 
       "Acne rosacea", 
       "Erythema; pustules on face", 
       "Eruption like scarlatina, suddenly spreading", 
-      "GLANDS SWOLLEN, TENDER, red", 
-      "BOILS", 
+      "Glands swollen, tender, red", 
+      "Boils", 
       "Indurations after inflammation"
     ], 
     "Throat": [
       "Oesophagus dry; feels contracted", 
       "Muscles of deglutition very sensitive", 
       "Scraping sensation", 
-      "SPASMS in throat", 
-      "Tonsils enlarged; THROAT FEELS CONSTRICTED; DIFFICULT DEGLUTITION; worse, liquids", 
+      "Spasms in throat", 
+      "Tonsils enlarged; throat feels constricted; difficult deglutition; worse, liquids", 
       "Continual inclination to swallow", 
       "Hypertrophy of mucous membrane", 
-      "Dry, as if glazed; angry-looking congestion ; RED WORSE ON RIGHT SIDE", 
+      "Dry, as if glazed; angry-looking congestion ; red worse on right side", 
       "Sensation of a lump"
     ], 
     "Extremities": [
       "Phlegmasia alba dolens", 
       "Jerking limbs", 
       "Tottering gait", 
-      "COLD EXTREMITIES", 
+      "Cold extremities", 
       "Shifting rheumatic pains", 
       "Joints swollen, red, shining, with red streaks radiating", 
       "Involuntary limping", 
@@ -225,8 +225,6 @@
     ]
   }, 
   "details": "Belladonna acts upon every part of the nervous system, producing active congestion, furious excitement, perverted special senses, twitching, convulsions and pain. It has a marked action on the vascular system, skin and glands. Belladonna always is associated with hot, red skin, flushed face, glaring eyes, throbbing carotids, excited mental state, hyperaesthesia of all senses, delirium, restless sleep, convulsive movements, dryness of mouth and throat with aversion to water, NEURALGIC PAINS that come and go suddenly. (Oxytropis.) HEAT, REDNESS, THROBBING AND BURNING. GREAT CHILDREN'S REMEDY. Epileptic spasms followed by nausea and vomiting. SCARLET FEVER and also prophylactic. Here use the thirtieth potency. EXOPHTHALMIC GOITRE. Corresponds to the symptoms of air-sickness in aviators. Give as preventive. NO THIRST, ANXIETY OF FEAR. Belladonna stands for VIOLENCE of attack and SUDDENNESS of onset. Bell. for the extreme of thyroid toxaemia. Use 1x (Beebe).", 
-  "Natural History": [
-    "Deadly Nightshade"
-  ], 
+  "Natural History": "Deadly Nightshade", 
   "dosage": "First to thirtieth potency and higher. Must be repeated frequently in acute diseases.Also used as a local anaesthetic, antispasmodic, and to dry up secretions, milk, etc. Hypodermically 1-80 gr. night sweats in phthisis.Atropine injected subcutaneously in doses from a milligram upwards for intestinal obstruction threatening life.Atropia 1-20 gr. is antagonistic to 1 gr. Morphine.Non-Homeopathic Uses.Hypodermically 1-80 gr. night sweats in phthisis.Given internally or hypodermically, it is antagonistic to Opium and Morphine. Physostigma and Prussic Acid. Narcotic poisons and mushroom poisoning. Renal colic 1-200 of a grain hypodermically.Atropia and its salts are used for ophthalmic purposes, to dilate the pupil and paralyze the accommodation."
 }

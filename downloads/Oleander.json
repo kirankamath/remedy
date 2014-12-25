@@ -4,12 +4,12 @@
   "symptoms": {
     "Eyes": [
       "Can see objects only when looking at them sideways", 
-      "SENSATION AS IF EYES WERE DRAWN BACK INTO THE HEAD", 
+      "Sensation as if eyes were drawn back into the head", 
       "Double vision", 
       "Eyes water on reading"
     ], 
     "Stomach": [
-      "CANINE HUNGER, WITH HURRIED EATING, without appetite", 
+      "Canine hunger, with hurried eating, without appetite", 
       "Vomiting of food; greenish water", 
       "Empty belching", 
       "Thirst", 
@@ -18,14 +18,14 @@
     "Head": [
       "Occiput, with red, rough, herpetic spots in front", 
       "Numb feeling", 
-      "ERUPTION ON SCALP", 
+      "Eruption on scalp", 
       "Dull, unable to think", 
       "Vertigo and diplopia, when looking down", 
       "Pain in brain, as if head would burst", 
       "Vertigo, when looking fixedly at an object, and on rising in bed", 
       "Indolence", 
-      "Humid, fetid spots BEHIND EARS", 
-      "CORROSIVE ITCHING ON FOREHEAD AND EDGE OF HAIR; worse, heat"
+      "Humid, fetid spots behind ears", 
+      "Corrosive itching on forehead and edge of hair; worse, heat"
     ], 
     "Modalities": [
       "Worse: undressing", 
@@ -39,15 +39,15 @@
     "Chest": [
       "Obtuse stitches in chest", 
       "Dyspnoea", 
-      "PALPITATION, with weakness and empty feeling in chest", 
+      "Palpitation, with weakness and empty feeling in chest", 
       "Oppression as from a weight; asthmatic when lying down"
     ], 
     "Face": [
       "Pale, sunken, with blue rings around eyes"
     ], 
     "Skin": [
-      "VERY SENSITIVE SKIN; slightest friction causes soreness and chapping", 
-      "VIOLENT ITCHING ERUPTION, BLEEDING, OOZING; want of perspiration", 
+      "Very sensitive skin; slightest friction causes soreness and chapping", 
+      "Violent itching eruption, bleeding, oozing; want of perspiration", 
       "Pruritus, especially of scalp, which is sensitive", 
       "Nocturnal burning", 
       "Itching, scurfy pimples; herpes; sensitive and numb"
@@ -55,27 +55,25 @@
     "Abdomen": [
       "Gnawing around navel", 
       "Burning pain in anus", 
-      "UNDIGESTED FECES", 
+      "Undigested feces", 
       "Ineffectual urging", 
-      "STOOL PASSES WHEN EMITTING FLATUS", 
+      "Stool passes when emitting flatus", 
       "Borborygmus, with profuse, fetid flatus"
     ], 
     "Extremities": [
-      "WEAKNESS OF LOWER LIMBS", 
       "Painless paralysis", 
-      "Veins on hands swollen", 
+      "Weakness of lower limbs", 
       "Stiffness of joints", 
       "Cold feet", 
       "Swelling, burning stiffness of fingers", 
       "Paralysis of legs and feet", 
+      "Veins on hands swollen", 
       "Constant cold feet", 
       "Want of animal heat in limbs", 
       "Oedema"
     ]
   }, 
   "details": "Has a marked action on the skin, heart and nervous system, producing and curing paralytic conditions with cramp-like contractions of upper extremities. Hemiplegia. Difficult articulation.", 
-  "Natural History": [
-    "Nerium OdorumRose-laurel"
-  ], 
+  "Natural History": "Nerium OdorumRose-laurel", 
   "dosage": "Third to thirtieth potency."
 }

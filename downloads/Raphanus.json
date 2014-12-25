@@ -18,9 +18,9 @@
     ], 
     "Abdomen": [
       "Stool liquid, frothy, profuse, brown, with colic, and pad-like swelling of intestines", 
-      "Distended, TYMPANITIS, HARD", 
+      "Distended, tympanitis, hard", 
       "Griping about navel", 
-      "NO FLATUS EMITTED UPWARD OR DOWNWARD", 
+      "No flatus emitted upward or downward", 
       "Vomiting of faecal matter", 
       "Retching and vomiting, loss of appetite"
     ], 
@@ -30,7 +30,7 @@
     ], 
     "Female": [
       "Nervous irritation of genitals", 
-      "NYMPHOMANIA, with aversion to her own sex and to children, and sexual insomnia", 
+      "Nymphomania, with aversion to her own sex and to children, and sexual insomnia", 
       "Menses very profuse and long-lasting"
     ], 
     "Throat": [
@@ -39,8 +39,6 @@
     ]
   }, 
   "details": "Produces pain and stitches in liver and spleen. Increases of bile and salivary secretion. Symptoms will not appear if salt is used with the Radish. Great accumulation and incarceration of flatulence. Globus symptoms. Seborrhoea, with greasy skin. Pemphigus. Hysteria; chilliness in back and arms. Sexual insomnia. (KALI-BROM.) Nymphomania. POST-OPERATIVE GAS PAINS.", 
-  "Natural History": [
-    "Black Garden Radish"
-  ], 
+  "Natural History": "Black Garden Radish", 
   "dosage": "Third to thirtieth potency."
 }

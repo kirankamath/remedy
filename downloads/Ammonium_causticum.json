@@ -1,20 +1,18 @@
 {
-  "Natural History": [
-    "Hydrate of Ammonia - Ammonia Water"
-  ], 
+  "Natural History": "Hydrate of Ammonia - Ammonia Water", 
   "details": "This is a powerful cardiac stimulant. As such in SYNCOPE, thrombosis, hemorrhage, snake-bites, chloroform narcosis, may be given by inhalation.The oedema and ulceration of mucous membranes produced by this powerful drug have been utilized as guiding symptoms for its use; hence in membranous croup with burning in oesophagus. Aphonia. See CAUSTICUM.", 
   "symptoms": {
     "Extremities": [
-      "EXCESSIVE EXHAUSTION and muscular debility", 
+      "Excessive exhaustion and muscular debility", 
       "Rheumatism of shoulders", 
       "Skin hot and dry"
     ], 
     "Respiratory": [
+      "Loss of voice", 
       "Uvula covered with white mucus", 
       "Scraping and burning in throat and oesophagus", 
-      "BURNING RAWNESS IN THROAT", 
+      "Burning rawness in throat", 
       "Pain in oesophagus on breathing deeply", 
-      "LOSS OF VOICE", 
       "Spasm of the glottis with suffocation; patient gasps for breath", 
       "Accumulation of mucus with incessant coughing", 
       "Difficult respiration", 

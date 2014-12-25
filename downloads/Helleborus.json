@@ -15,8 +15,8 @@
       "Hydrothorax"
     ], 
     "Head": [
-      "BORES HEAD INTO PILLOW; beats it with hands", 
-      "ROLLS HEAD day and night; moaning, sudden screams", 
+      "Bores head into pillow; beats it with hands", 
+      "Rolls head day and night; moaning, sudden screams", 
       "Headache culminates in vomiting", 
       "Forehead wrinkled in folds", 
       "Cold sweat", 
@@ -24,10 +24,10 @@
       "Stupefying headache"
     ], 
     "Mind": [
-      "COMPLETE UNCONSCIOUSNESS", 
       "Thoughtless; staring", 
-      "INVOLUNTARY SIGHING", 
-      "PICKS LIPS AND CLOTHES", 
+      "Involuntary sighing", 
+      "Complete unconsciousness", 
+      "Picks lips and clothes", 
       "Slow in answering"
     ], 
     "Modalities": [
@@ -54,15 +54,15 @@
       "Neuralgia on left side; parts so tender he cannot chew"
     ], 
     "Mouth": [
-      "FALLING OF LOWER JAW", 
+      "Falling of lower jaw", 
       "Meaningless picking of lips", 
       "Grinding of teeth", 
-      "CHEWING MOTION", 
+      "Chewing motion", 
       "Tongue red and dry", 
       "Lips dry and cracked", 
       "Greedily swallows cold water, though unconscious", 
       "Ptyalism, with sore corners of mouth", 
-      "HORRIBLE SMELL FROM MOUTH", 
+      "Horrible smell from mouth", 
       "Child nurses greedily, with disgust for food"
     ], 
     "Nose": [
@@ -73,7 +73,7 @@
     ], 
     "Skin": [
       "Sudden, watery, swelling of skin", 
-      "PALE, DROPSICAL, itching", 
+      "Pale, dropsical, itching", 
       "Angioneurotic oedema", 
       "Livid spots on skin", 
       "Falling off of hair and nails"
@@ -81,20 +81,18 @@
     "Sleep": [
       "Cannot be fully aroused", 
       "Sudden screams in sleep", 
-      "CRI ENCEPHALIQUE", 
+      "Cri encephalique", 
       "Soporous sleep"
     ], 
     "Extremities": [
       "Stretching of limbs", 
-      "AUTOMATIC MOTION OF ONE ARM AND LEG", 
+      "Automatic motion of one arm and leg", 
       "Thumb drawn into palm", 
       "Vesicular eruption between fingers and toes", 
       "Limbs heavy and painful"
     ]
   }, 
   "details": "Produces a condition of SENSORIAL DEPRESSION. Sees, hears, tastes imperfectly, and general MUSCULAR WEAKNESS, which may go on to complete paralysis, accompanied by dropsical effusions. Hence, a remedy in low states of vitality and serious disease. Characteristic aggravation from 4 to eight PM (LYCOP.) SINKING SENSATION. State of effusion in hydrocephalus. Mania of a melancholy type.", 
-  "Natural History": [
-    "Snow-rose"
-  ], 
+  "Natural History": "Snow-rose", 
   "dosage": "Tincture, to third potency."
 }

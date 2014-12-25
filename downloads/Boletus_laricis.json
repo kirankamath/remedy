@@ -10,7 +10,7 @@
     "Fever": [
       "Yawns and stretches when chilly", 
       "Severe aching in shoulders and joints and small of back", 
-      "PROFUSE PERSPIRATION AT NIGHT, with hectic chills and fever", 
+      "Profuse perspiration at night, with hectic chills and fever", 
       "Chilliness along spine, with frequent, hot flashes"
     ], 
     "Skin": [
@@ -19,8 +19,6 @@
     ]
   }, 
   "details": "Quotidian intermittent fever. Sweat is light, and without relief. Night-sweat in phthisis.Violent pain in epigastrium, urticaria tuberosa. Boletus satanus dysentery, vomiting, great debility, cold extremities, spasm of extremities and face.", 
-  "Natural History": [
-    "White AgaricPolyporus Officinale"
-  ], 
+  "Natural History": "White AgaricPolyporus Officinale", 
   "dosage": "First attenuation."
 }

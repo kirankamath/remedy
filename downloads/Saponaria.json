@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Soap Root"
-  ], 
+  "Natural History": "Soap Root", 
   "symptoms": {
     "Heart": [
       "Palpitation with anxiety", 
@@ -11,9 +9,9 @@
       "Throbbing over orbits", 
       "Congestions to head; tired feeling in nape", 
       "Left-sided trigeminal neuralgia, especially supraorbital", 
-      "Stitching pain, SUPRAORBITAL; worse, left side, evening, motion", 
+      "Stitching pain, supraorbital; worse, left side, evening, motion", 
       "Stopped up feeling in nose, also itching and sneezing", 
-      "CORYZA", 
+      "Coryza", 
       "Sensation of drunkenness with constant endeavor to go left-wards"
     ], 
     "Stomach": [
@@ -26,7 +24,7 @@
       "Worse: left side"
     ], 
     "Mind": [
-      "Apathetic, DEPRESSED, WITH SLEEPINESS", 
+      "Apathetic, depressed, with sleepiness", 
       "Utter indifference to pain or possible death"
     ], 
     "Eyes": [

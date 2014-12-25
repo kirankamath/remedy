@@ -14,18 +14,18 @@
       "Bronchial tubes feel filled with smoke", 
       "Hypertrophy of heart from gymnastics", 
       "Violent cramping of chest", 
-      "COLD SENSATION WHEN INSPIRING", 
-      "DRY COUGH, WITH HOARSENESS and burning pain BEHIND STERNUM", 
+      "Cold sensation when inspiring", 
+      "Dry cough, with hoarseness and burning pain behind sternum", 
       "Every inspiration provokes cough", 
-      "HOARSENESS", 
+      "Hoarseness", 
       "Whooping cough", 
-      "Asthma; difficulty in getting air INTO lung", 
+      "Asthma; difficulty in getting air into lung", 
       "Difficult and painful breathing", 
       "Croup after febrile symptoms have subsided", 
       "Fibrinous bronchitis, great dyspnoea", 
-      "SPASMODIC COUGH, WITH RATTLING OF MUCUS in the larynx; suffocative", 
+      "Spasmodic cough, with rattling of mucus in the larynx; suffocative", 
       "Chest pains run upward", 
-      "LARYNGEAL DIPHTHERIA, membrane begins in larynx and spreads upward"
+      "Laryngeal diphtheria, membrane begins in larynx and spreads upward"
     ], 
     "Modalities": [
       "Worse: from evening", 
@@ -39,7 +39,7 @@
       "Fan-like motion of alae", 
       "Coryza, with corrosive soreness of nose", 
       "Bleeding from nose relieving the chest", 
-      "TICKLING, SMARTING, AS FROM COBWEBS", 
+      "Tickling, smarting, as from cobwebs", 
       "Stoppage of right nostril"
     ], 
     "Female": [
@@ -53,8 +53,8 @@
     "Skin": [
       "Hard goitre", 
       "Acne, pimples and pustules", 
-      "GLANDS STONY, HARD, ESPECIALLY ON LOWER JAW and throat", 
       "Boils on arms and face", 
+      "Glands stony, hard, especially on lower jaw and throat", 
       "Gangrene"
     ], 
     "Throat": [
@@ -66,7 +66,7 @@
       "Throat feels raw, evening, with hoarseness", 
       "Gastralgia; better eating", 
       "Tympanitic distention of abdomen", 
-      "Stomach and Abdomen", 
+      "Stomach and abdomen", 
       "Pressure as of stone"
     ], 
     "Sleep": [
@@ -78,8 +78,6 @@
     ]
   }, 
   "details": "Delusion that strange persons are looking over patient's shoulder and that she would see someone on turning. Quarrelsome.Most marked effects are seen in the respiratory symptoms, especially in larynx and trachea. It seems to affect especially scrofulous children with enlarged glands. BLOND TYPE. Enlarged parotid and goitre. Tendency to spasmodic attacks. LEFT-SIDED MUMPS. Sense of suffocation; excoriating discharges, profuse sweats and great weakness. Complaints from being over-heated. TENDENCY TO INFILTRATE GLANDS, BECOME HARD, BUT SELDOM SUPPURATE.", 
-  "Natural History": [
-    "Bromine"
-  ], 
+  "Natural History": "Bromine", 
   "dosage": "First to third attenuation. Must be prepared fresh, as it is liable to rapid deterioration."
 }

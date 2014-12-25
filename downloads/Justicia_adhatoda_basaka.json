@@ -3,18 +3,18 @@
   "Relationship": "Seems to come between CEPA and EUPHRASIA, which compare.", 
   "symptoms": {
     "Head": [
-      "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with CORYZA, PROFUSE, fluent, with constant sneezing; loss of smell and taste; CORYZA WITH COUGH"
+      "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough"
     ], 
     "Respiratory": [
       "Bronchial catarrh, coryza, hoarseness; oversensitive", 
       "Dry cough from sternal region all over chest", 
-      "TIGHTNESS ACROSS CHEST", 
-      "COUGH WITH SNEEZING", 
+      "Tightness across chest", 
+      "Cough with sneezing", 
       "Hoarseness, larynx painful", 
       "Severe dyspnoea with cough", 
       "Asthmatic attacks, cannot endure a close, warm room", 
-      "PAROXYSMAL COUGH, with suffocative obstruction of respiration", 
-      "WHOOPING-COUGH"
+      "Paroxysmal cough, with suffocative obstruction of respiration", 
+      "Whooping-cough"
     ], 
     "Throat": [
       "Dry, pain during empty swallowing, tenacious mucus", 
@@ -22,8 +22,6 @@
     ]
   }, 
   "details": "Highly efficacious medicine for acute catarrhal conditions of the respiratory tract (used in the beginning).", 
-  "Natural History": [
-    "An Indian Shrub, Singhee"
-  ], 
+  "Natural History": "An Indian Shrub, Singhee", 
   "dosage": "Third potency and higher. Severe aggravation have been noticed from lower potencies."
 }

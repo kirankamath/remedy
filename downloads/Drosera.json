@@ -3,8 +3,8 @@
   "Relationship": "Compare; FLUOROFORM (2 per cent. watery solution, 2-4 drops, after paroxysms, considered specific for whooping-cough.) OUABAIN from leaves of Carissa schimperi - arrow poison. (Respiratory spasm - Whooping cough is cut short in first stage and reduced in frequency of attacks and hastens convalescence.) CHELID.; CORAL.; CUPR.; CASTANEA; ARGENT.; MENYANTH.Antidote: CAMPH.", 
   "symptoms": {
     "Head": [
-      "Vertigo when walking in open air, with inclination to fall to the LEFT side", 
-      "Coldness of left half of face, with stinging pains and dry heat of RIGHT HALF"
+      "Vertigo when walking in open air, with inclination to fall to the left side", 
+      "Coldness of left half of face, with stinging pains and dry heat of right half"
     ], 
     "Fever": [
       "Is always too cold, even in bed", 
@@ -23,14 +23,14 @@
       "Worse: laughing"
     ], 
     "Respiratory": [
-      "DEEP, HOARSE VOICE; HOARSENESS; laryngitis", 
-      "ASTHMA WHEN TALKING, with contraction of the throat at every word uttered", 
+      "Deep, hoarse voice; hoarseness; laryngitis", 
+      "Asthma when talking, with contraction of the throat at every word uttered", 
       "Laryngeal phthisis, with rapid emaciation", 
       "Clergyman's sore throat, with rough, scraping, dry sensation deep in the fauces; voice hoarse, deep, toneless, cracked, requires exertion to speak", 
       "Sensation as if crumbs were in the throat, of feather in larynx", 
       "Rough, scraping sensation deep in the fauces and soft palate", 
-      "Cough very deep and hoarse; worse, after midnight; yellow expectoration, WITH BLEEDING FROM NOSE and mouth; RETCHING", 
-      "Spasmodic, dry irritative cough, like whooping-cough, the PAROXYSMS FOLLOWING EACH OTHER VERY RAPIDLY; can scarcely breathe; chokes", 
+      "Cough very deep and hoarse; worse, after midnight; yellow expectoration, with bleeding from nose and mouth; retching", 
+      "Spasmodic, dry irritative cough, like whooping-cough, the paroxysms following each other very rapidly; can scarcely breathe; chokes", 
       "Harassing and titillating cough in children - not at all through the day, but commences as soon as the head touches the pillow at night"
     ], 
     "Extremities": [
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "Affects markedly the respiratory organs and was pointed out by Hahnemann as the principal remedy for whooping-cough. Drosera can break down resistance to tubercle and should therefore be capable of raising it (Dr. Tyler). Laryngeal phthisis is benefited by it. Phthisis pulmonum; vomiting of food from coughing with gastric irritation and profuse expectoration. Pains about hip-joint. Tubercular glands.", 
-  "Natural History": [
-    "Sundew"
-  ], 
+  "Natural History": "Sundew", 
   "dosage": "First to twelfth attenuation."
 }

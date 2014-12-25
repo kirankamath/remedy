@@ -3,7 +3,7 @@
   "Relationship": "Compare: SELENIUM; PH-AC.; CAMPHOR; LYC.", 
   "symptoms": {
     "Eyes": [
-      "PUPILS DILATED", 
+      "Pupils dilated", 
       "Itching about eyes; photophobia"
     ], 
     "Mind": [
@@ -11,11 +11,11 @@
       "Nervous depression and mental forebodings", 
       "Fear of death", 
       "Absentminded, forgetful, lack of courage", 
-      "SADNESS WITH IMPRESSION OF SPEEDY DEATH", 
+      "Sadness with impression of speedy death", 
       "Illusion of smell - herrings, musk"
     ], 
     "Abdomen": [
-      "Nausea with SENSATION AS IF INTESTINES WERE PRESSED DOWNWARDS; wants to support bowels", 
+      "Nausea with sensation as if intestines were pressed downwards; wants to support bowels", 
       "Spleen swollen, sore", 
       "Deep fissures in anus", 
       "Stools soft, recede, difficult"
@@ -30,24 +30,22 @@
       "Leucorrhoea staining yellow; transparent", 
       "Hysterical palpitation with nose bleed", 
       "Abhorrence of sexual intercourse", 
-      "AGALACTIA; with sadness", 
+      "Agalactia; with sadness", 
       "Sterility"
     ], 
     "Male": [
-      "DESIRE GONE", 
+      "Desire gone", 
       "Scanty emission without ejaculation", 
       "No erections", 
       "Yellow discharge from urethra", 
       "Gleety discharge", 
       "Loss of prostatic fluid on straining", 
       "Testicles, cold, swollen, hard, and painful", 
-      "PARTS COLD, RELAXED", 
-      "IMPOTENCE"
+      "Parts cold, relaxed", 
+      "Impotence"
     ]
   }, 
   "details": "The most effective point of attack of Agnus upon the organism is the sexual organism. It lowers sexual vitality, with corresponding mental depression and loss of nervous energy. It shows this distinctive influence in both sexes, but is more pronounced in men. Premature old age from abuse of sexual power. History of repeated gonorrhea. A prominent remedy for sprains and strains. GNAWING ITCHING IN ALL PARTS, ESPECIALLY EYES. Tachycardia caused by tobacco in neurotic young men.", 
-  "Natural History": [
-    "The Chaste Tree"
-  ], 
+  "Natural History": "The Chaste Tree", 
   "dosage": "First to sixth potency."
 }

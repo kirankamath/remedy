@@ -18,15 +18,13 @@
     "Chest": [
       "Breathing slow and sighing", 
       "Dropsical effusion into pleura or pericardium", 
-      "PALPITATION", 
+      "Palpitation", 
       "Pulse rapid", 
       "Sick feeling about heart, with weak pulse", 
       "Right ribs sore"
     ]
   }, 
   "details": "Heart symptoms quite pronounced. Diabetes.", 
-  "Natural History": [
-    "Dwarf-bean"
-  ], 
+  "Natural History": "Dwarf-bean", 
   "dosage": "Sixth and higher. A decoction of the shells as a drink for diabetes, but look out for severe headache."
 }

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Red Coral"
-  ], 
+  "Natural History": "Red Coral", 
   "symptoms": {
     "Head": [
       "Eyes hot and painful", 
@@ -12,13 +10,13 @@
     "Respiratory": [
       "Hawking of profuse mucus", 
       "Inspired air feels cold", 
-      "Cough with great sensitiveness of air-passages; FEEL COLD ON DEEP INSPIRATION", 
-      "Throat very sensitive, ESPECIALLY TO AIR", 
+      "Cough with great sensitiveness of air-passages; feel cold on deep inspiration", 
+      "Throat very sensitive, especially to air", 
       "Profuse, nasal catarrh", 
       "Feels suffocated and greatly exhausted after whooping-cough", 
-      "Dry, SPASMODIC, suffocative cough; very rapid cough, short, barking", 
+      "Dry, spasmodic, suffocative cough; very rapid cough, short, barking", 
       "Continuous hysterical cough", 
-      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES"
+      "Profuse secretion of mucus dropping through posterior nares"
     ], 
     "Mouth": [
       "Bread tastes like straw", 
@@ -28,11 +26,11 @@
       "Craves salt"
     ], 
     "Nose": [
-      "POST-NASAL CATARRH", 
-      "Odors of smoke, onions, etc. Painful ulcer in nostrils", 
+      "Post-nasal catarrh", 
+      "Odors of smoke, onions, etc. painful ulcer in nostrils", 
       "Epistaxis", 
       "Dry coryza; nose stopped up and ulcerated", 
-      "PROFUSE SECRETION OF MUCUS DROPPING THROUGH POSTERIOR NARES; air feels cold"
+      "Profuse secretion of mucus dropping through posterior nares; air feels cold"
     ], 
     "Skin": [
       "Coral-colored, then dark red spots, changing to copper-colored spots", 

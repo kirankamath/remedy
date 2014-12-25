@@ -8,7 +8,7 @@
     "Stomach": [
       "Uncontrollable appetite, notwithstanding irritable stomach", 
       "Gastralgia from nervous depression", 
-      "Acute gastritis, severe pain in epigastrium; PROLONGED VOMITING"
+      "Acute gastritis, severe pain in epigastrium; prolonged vomiting"
     ], 
     "Skin": [
       "Intense erythema, worse, cold bathing; better, olive oil and cool air blowing on part", 
@@ -16,8 +16,6 @@
     ]
   }, 
   "details": "Inflammatory rheumatism, pleurodynia, SCIATICA, and other neuralgias, come within the scope of this remedy. Cystic and prostatic irritation, undue sexual excitement, and renal inflammation.", 
-  "Natural History": [
-    "Wintergreen"
-  ], 
+  "Natural History": "Wintergreen", 
   "dosage": "Tincture and lower potencies."
 }

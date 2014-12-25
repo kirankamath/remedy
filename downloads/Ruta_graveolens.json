@@ -4,13 +4,13 @@
   "symptoms": {
     "Eyes": [
       "Tarsal cartilage feels bruised", 
-      "EYE-STRAIN FOLLOWED BY HEADACHE", 
+      "Eye-strain followed by headache", 
       "Pressure over eyebrow", 
       "Asthenopia", 
       "Weary pain while reading", 
       "Pressure deep in orbits", 
-      "EYES RED, HOT, AND PAINFUL FROM SEWING OR READING FINE PRINT", 
-      "DISTURBANCES OF ACCOMMODATION"
+      "Eyes red, hot, and painful from sewing or reading fine print", 
+      "Disturbances of accommodation"
     ], 
     "Respiratory": [
       "Painful spot on sternum; short breath with tightness of chest", 
@@ -39,13 +39,13 @@
       "Backache better pressure and lying on back"
     ], 
     "Rectum": [
-      "PROLAPSUS ANI every time the bowels move, after confinement", 
-      "DIFFICULT FECES, evacuated only with straining", 
+      "Prolapsus ani every time the bowels move, after confinement", 
+      "Carcinoma affecting lower bowel", 
       "Protrusion of rectum when stooping", 
       "Constipation, alternating with mucous, frothy stools; discharge of blood with stool", 
       "When sitting, tearing stitches in rectum", 
       "Frequent, unsuccessful urging to stool", 
-      "CARCINOMA AFFECTING LOWER BOWEL"
+      "Difficult feces, evacuated only with straining"
     ], 
     "Extremities": [
       "Pain in bones of feet and ankles", 
@@ -53,19 +53,17 @@
       "Great restlessness", 
       "Pain and stiffness in wrists and hands", 
       "Small of back and loins pain", 
-      "THIGHS PAIN WHEN STRETCHING THE LIMBS", 
+      "Thighs pain when stretching the limbs", 
       "Legs give out on rising from a chair, hips and thighs so weak", 
       "Sciatica; worse, lying down at night; pain from back down hips and thighs", 
       "Hamstrings feel shortened", 
-      "TENDONS SORE", 
+      "Tendons sore", 
       "Spine and limbs feel bruised", 
       "Ganglia", 
       "Contraction of fingers"
     ]
   }, 
   "details": "Acts upon the periosteum and cartilage, eyes and uterus. Complaints from straining FLEXOR TENDONS especially. Tendency to the formation of deposits in the periosteum, tendons, and about joints, especially wrist. Over strain of ocular muscles. All parts of the body are painful, AS IF BRUISED. Sprains (after ARNICA). Lameness after sprains. Jaundice. FEELING OF INTENSE LASSITUDE, WEAKNESS AND DESPAIR. Injured bruised bones.", 
-  "Natural History": [
-    "Rue-bitterwort"
-  ], 
+  "Natural History": "Rue-bitterwort", 
   "dosage": "First to sixth potency. Locally, the tincture for ganglia and as a lotion for the eyes."
 }

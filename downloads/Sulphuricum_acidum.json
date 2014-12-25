@@ -13,26 +13,26 @@
     ], 
     "Respiratory": [
       "Bronchitis in children with short, teasing cough", 
-      "Respiration rapid with shooting in cervical muscles and movement of wings of nose; LARYNX MOVES UP AND DOWN VIOLENTLY"
+      "Respiration rapid with shooting in cervical muscles and movement of wings of nose; larynx moves up and down violently"
     ], 
     "Stomach": [
-      "HICCOUGH", 
-      "CRAVING FOR ALCOHOL", 
+      "Hiccough", 
+      "Craving for alcohol", 
       "Sour vomiting", 
       "Desire for fresh food", 
       "Nausea with chilliness", 
       "Coldness of stomach relieved by applied heat", 
-      "RELAXED FEELING IN STOMACH", 
-      "Heartburn; SOUR ERUCTATIONS; SETS TEETH ON EDGE", 
-      "WATER CAUSES COLDNESS OF STOMACH; must be mixed with liquors", 
+      "Relaxed feeling in stomach", 
+      "Heartburn; sour eructations; sets teeth on edge", 
+      "Water causes coldness of stomach; must be mixed with liquors", 
       "Averse to smell of coffee"
     ], 
     "Head": [
       "Compressive pain in side of occiput", 
       "Concussion of brain where skin is cold, body bathed in cold sweat", 
-      "THRUST IN RIGHT TEMPLE AS IF PLUG WERE PRESSED IN", 
+      "Thrust in right temple as if plug were pressed in", 
       "Sensation as if brain was loose in forehead and falling from side to side", 
-      "RELIEVED BY HOLDING THE HANDS NEAR THE HEAD", 
+      "Relieved by holding the hands near the head", 
       "Right-sided neuralgia; painful shocks; skin feels pinched", 
       "Pain of outer parts, as if there were subcutaneous ulceration; painful to touch"
     ], 
@@ -47,7 +47,7 @@
     ], 
     "Abdomen": [
       "Weak feeling, with dragging into the hips and small of back", 
-      "FEELING AS IF HERNIA WOULD PROTRUDE, especially left side"
+      "Feeling as if hernia would protrude, especially left side"
     ], 
     "Female": [
       "Erosion of cervix in the aged; easily bleeding", 
@@ -60,7 +60,7 @@
       "Chilblains with gangrenous tendency", 
       "Ecchymosis", 
       "Carbuncles, boils and other staphylococcic and streptococcic infections", 
-      "PURPURA HEMORRHAGICA", 
+      "Purpura hemorrhagica", 
       "Livid, red, itching blotches", 
       "Cicatrices turn red and blue and become painful", 
       "Petechiae"
@@ -75,8 +75,6 @@
     ]
   }, 
   "details": "The debility common to acids shows itself here, especially in the digestive tract, giving a very relaxed feeling in the stomach, with craving for stimulants. TREMOR AND WEAKNESS; everything must be done in a hurry. HOT FLUSHES, followed by perspiration, with trembling. Tendency to gangrene following mechanical injuries. Writer's cramp. Lead poisoning. Gastralgia and hypochlorhydria. Purpura hemorrhagia.", 
-  "Natural History": [
-    "Sulphuric Acid"
-  ], 
+  "Natural History": "Sulphuric Acid", 
   "dosage": "Sulphuric acid mixed with three parts of alcohol, ten to fifteen drops three times daily for several weeks, has been successfully used to subdue the craving for liquor. For homeopathic purposes second to thirtieth potency."
 }

@@ -1,10 +1,8 @@
 {
-  "Natural History": [
-    "Fever-root"
-  ], 
+  "Natural History": "Fever-root", 
   "symptoms": {
     "Head": [
-      "OZAENA; frontal pain", 
+      "Ozaena; frontal pain", 
       "Influenza, with aching pains all over, and heat in the limbs", 
       "Occipital pain, with nausea on rising, followed by vomiting"
     ], 
@@ -14,7 +12,7 @@
     ], 
     "Skin": [
       "Itching welts", 
-      "URTICARIA from gastric derangement"
+      "Urticaria from gastric derangement"
     ], 
     "Extremities": [
       "Stiffness of all joints; calves numbs; aching in bones", 

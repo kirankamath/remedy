@@ -4,18 +4,16 @@
   "symptoms": {
     "Urine": [
       "Urine hard to start", 
-      "SHARP PAIN IN LOINS, especially left", 
+      "Sharp pain in loins, especially left", 
       "Gravelly deposits", 
       "Heavy deposit of mucus", 
       "Burning in urethra and frequent desire", 
       "Profuse deposit of white amorphous salts", 
       "Spasmodic stricture", 
-      "Great thirst, with abdominal symptoms and ENLARGED PROSTATE"
+      "Great thirst, with abdominal symptoms and enlarged prostate"
     ]
   }, 
   "details": "A remedy for gravel, profuse deposit of white amorphous salts in urine. Calculus, renal colic, bloody urine. Acts on ureter. Pain in lumbar region. Dizziness. Oppression of chest.", 
-  "Natural History": [
-    "Seven-barks"
-  ], 
+  "Natural History": "Seven-barks", 
   "dosage": "Tincture."
 }

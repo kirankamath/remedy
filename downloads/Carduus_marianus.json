@@ -10,7 +10,7 @@
       "Vertigo, with tendency to fall forward"
     ], 
     "Stomach": [
-      "Appetite small; tongue furred; NAUSEA; RETCHING; VOMITING OF GREEN, ACID FLUID", 
+      "Appetite small; tongue furred; nausea; retching; vomiting of green, acid fluid", 
       "Stitches in left side of stomach, near spleen", 
       "Taste bitter", 
       "Aversion to salt meat", 
@@ -37,24 +37,21 @@
       "Left lobe very sensitive"
     ], 
     "Chest": [
-      "Stitching pains in lower right ribs and front; worse, moving, walking, etc. ASTHMATIC RESPIRATION", 
+      "Stitching pains in lower right ribs and front; worse, moving, walking, etc. asthmatic respiration", 
       "Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate"
     ], 
     "Skin": [
       "Eruption on lower part of sternum", 
       "Itching on lying down at night", 
-      "VARICOSE ULCERS"
+      "Varicose ulcers"
     ], 
     "Extremities": [
       "Difficult rising", 
-      "Pain in hip-joint, spreading through buttocks and down thigh; WORSE FROM STOOPING", 
+      "Pain in hip-joint, spreading through buttocks and down thigh; worse from stooping", 
       "Weakness felt in feet, especially after sitting"
     ]
   }, 
   "details": "The action of this drug is centered in the liver, and portal system, causing soreness, pain, jaundice. Has specific relation to the vascular system. Abuse of alcoholic beverages, especially beer. VARICOSE VEINS and ulcers. Diseases of miners, associated with asthma. Dropsical conditions depending on liver disease, and when due to pelvic congestion and hepatic disease. Disturbs sugar metabolism. Influenza when liver is affected. Debility. Hemorrhages, especially connected with hepatic disease.", 
-  "Natural History": [
-    "Mary's Thistle", 
-    "St"
-  ], 
+  "Natural History": "St. Mary's Thistle", 
   "dosage": "Tincture and lower potencies."
 }

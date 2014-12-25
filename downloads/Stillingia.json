@@ -3,7 +3,7 @@
   "Relationship": "Compare: STAPHIS.; MERC.; SYPHIL.; AUR.; CORYDALIS (syphilitic nodes).", 
   "symptoms": {
     "Respiratory": [
-      "HOARSENESS and chronic laryngeal affections of public speakers", 
+      "Hoarseness and chronic laryngeal affections of public speakers", 
       "Dry, spasmodic cough", 
       "Trachea feels sore when pressed", 
       "Larynx constricted, with stinging in fauces"
@@ -17,26 +17,24 @@
     ], 
     "Urine": [
       "Urine colorless", 
-      "DEPOSITS WHITE SEDIMENT; urine milky and thick"
+      "Deposits white sediment; urine milky and thick"
     ], 
     "Mind": [
-      "GLOOMY FOREBODINGS; depressed"
+      "Gloomy forebodings; depressed"
     ], 
     "Skin": [
       "Scrofuloderma; syphilis, secondary eruption and later stitches", 
       "Burning, itching of legs; worse, exposure to air", 
       "Ulcers; chronic eruptions on hands and fingers", 
       "Exostosis", 
-      "ENLARGED CERVICAL GLANDS", 
+      "Enlarged cervical glands", 
       "Valuable for intercurrent use"
     ], 
     "Extremities": [
-      "Aching pains in BONES of extremities and back"
+      "Aching pains in bones of extremities and back"
     ]
   }, 
   "details": "Chronic periosteal rheumatism, syphilitic and scrofulous affections. Respiratory symptoms well marked. Torpor of lymphatics; torpid liver, with jaundice and constipation.", 
-  "Natural History": [
-    "Queen's Root"
-  ], 
+  "Natural History": "Queen's Root", 
   "dosage": "Tincture and first potency."
 }

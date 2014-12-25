@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "A volatile acid obtained chiefly from butter"
-  ], 
+  "Natural History": "A volatile acid obtained chiefly from butter", 
   "symptoms": {
     "Head": [
       "Worries over trifles; impulsive thoughts of suicide; constant state of fear and nervousness", 
@@ -32,7 +30,7 @@
     ], 
     "Skin": [
       "Crumbling away of finger-nails", 
-      "PROFUSE, OFFENSIVE SWEAT OF FEET", 
+      "Profuse, offensive sweat of feet", 
       "Perspiration on slight exertion"
     ]
   }, 

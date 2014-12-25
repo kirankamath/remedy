@@ -7,20 +7,20 @@
     ], 
     "Urine": [
       "Burning during micturition, gonorrhea, and gleet", 
-      "CHORDEE", 
+      "Chordee", 
       "Increased", 
       "Cystitis"
     ], 
     "Mind": [
       "Exaltation of mind", 
       "Very sensitive", 
-      "AMELIORATION OF PAINS FOR A TIME BY DIVERTING ATTENTION", 
+      "Amelioration of pains for a time by diverting attention", 
       "Restless desire to change position"
     ], 
     "Skin": [
       "Ichthyosis", 
-      "LEPROSY", 
-      "Fall of scales leaves WHITE SPOTS, which often ulcerate", 
+      "Leprosy", 
+      "Fall of scales leaves white spots, which often ulcerate", 
       "Scaly"
     ], 
     "Extremities": [
@@ -30,8 +30,6 @@
     ]
   }, 
   "details": "The intoxication produced by KAVA is of a silent and drowsy character with incoherent dreams, loss of muscular power.Urinary and skin symptoms have been verified. Marked modality. ARTHRITIS deformans. Colic with flatulence.", 
-  "Natural History": [
-    "Kava-kava"
-  ], 
+  "Natural History": "Kava-kava", 
   "dosage": "Tincture, and lower potencies."
 }

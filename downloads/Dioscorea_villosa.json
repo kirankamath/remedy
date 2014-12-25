@@ -3,7 +3,7 @@
   "Relationship": "Compare: COLOC. (differs in modalities); NUX; CHAM.; BRY.Antidotes: CHAMOM.; CAMPH.", 
   "symptoms": {
     "Heart": [
-      "Angina pectoris; pain back of sternum into arms; labored breathing; FEEBLE ACTION OF HEART", 
+      "Angina pectoris; pain back of sternum into arms; labored breathing; feeble action of heart", 
       "Especially with flatulence and pain through chest and tightness across"
     ], 
     "Head": [
@@ -16,11 +16,11 @@
       "Short-winded"
     ], 
     "Stomach": [
-      "PAIN ALONG STERNUM AND EXTENDING INTO ARMS", 
-      "Eructations of sour, bitter wind, WITH HICCOUGH", 
+      "Pain along sternum and extending into arms", 
+      "Eructations of sour, bitter wind, with hiccough", 
       "Sharp pain in epigastrium, relieved by standing erect", 
       "Belching of large quantities of offensive gas", 
-      "SINKING AT THE PIT OF THE stomach; pyrosis", 
+      "Sinking at the pit of the stomach; pyrosis", 
       "Neuralgia of stomach", 
       "Mouth dry and bitter in morning, tongue coated, no thirst"
     ], 
@@ -29,8 +29,8 @@
       "Hemorrhoids, with darting pains to liver; look like bunches of grapes or red cherries; protrude after stool, with pain in anus"
     ], 
     "Modalities": [
-      "Worse: evening and night; LYING DOWN", 
-      "Worse: and DOUBLING UP", 
+      "Worse: evening and night; lying down", 
+      "Worse: and doubling up", 
       "Better: standing erect", 
       "Better: motion in open air; pressure"
     ], 
@@ -38,13 +38,13 @@
       "Calls things by the wrong name"
     ], 
     "Abdomen": [
-      "SHARP PAINS FROM LIVER, SHOOTING UPWARD TO RIGHT NIPPLE", 
+      "Sharp pains from liver, shooting upward to right nipple", 
       "Renal colic, with pain in extremities", 
       "Griping, cutting in hypogastric region, with intermittent cutting in stomach and small intestines", 
       "Colic; better walking about; pains radiate from abdomen to back, chest, arms; worse, bending forwards and while lying", 
       "Hurried desire for stool", 
       "Rumbling, with emission of much flatus", 
-      "Pains suddenly shift to different parts; APPEAR IN REMOTE LOCALITIES, AS FINGERS AND TOES", 
+      "Pains suddenly shift to different parts; appear in remote localities, as fingers and toes", 
       "Pain from gall-bladder to chest, back, and arms"
     ], 
     "Female": [
@@ -55,20 +55,18 @@
       "Sciatica; pains shoot down thigh; worse, right side; better, when perfectly still", 
       "Nails brittle", 
       "Cramps in flexors of fingers and toes", 
-      "FELONS in beginning, when pricking is first felt", 
+      "Felons in beginning, when pricking is first felt", 
       "Lameness in back; worse, stooping", 
       "Aching and stiffness in joints"
     ], 
     "Male": [
       "Pains shoot into testicles from region of kidneys", 
-      "RELAXATION AND COLDNESS OF ORGANS", 
-      "EMISSIONS in sleep, or from sexual atony, WITH WEAK KNEES", 
-      "STRONG-SMELLING SWEAT on scrotum and pubes"
+      "Relaxation and coldness of organs", 
+      "Emissions in sleep, or from sexual atony, with weak knees", 
+      "Strong-smelling sweat on scrotum and pubes"
     ]
   }, 
   "details": "As a remedy for many kinds of PAIN, especially colic, and in severe, painful affections of abdominal and pelvic viscera; it ranks with the polychrests of the Materia Medica. Persons of feeble digestive powers; tea-drinkers, with much flatulence. GALL STONE COLIC.", 
-  "Natural History": [
-    "Wild Yam"
-  ], 
+  "Natural History": "Wild Yam", 
   "dosage": "Tincture, to third potency."
 }

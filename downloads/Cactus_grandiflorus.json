@@ -4,37 +4,37 @@
   "symptoms": {
     "Heart": [
       "Pain in apex, shooting down left arm", 
-      "ENDOCARDITIS WITH MITRAL INSUFFICIENCY TOGETHER WITH VIOLENT AND RAPID ACTION", 
-      "Violent palpitation; WORSE LYING ON LEFT SIDE, AT APPROACH OF MENSES", 
+      "Endocarditis with mitral insufficiency together with violent and rapid action", 
+      "Violent palpitation; worse lying on left side, at approach of menses", 
       "Angina pectoris, with suffocation, cold sweat, and ever-present iron-band feeling", 
       "Low blood pressure", 
       "Acts best in he incipiency of cardia incompetence", 
-      "CONSTRICTION; very acute pains and stitches in heart; pulse feeble, irregular, quick, without strength", 
+      "Constriction; very acute pains and stitches in heart; pulse feeble, irregular, quick, without strength", 
       "Palpitation, with vertigo, dyspnoea, flatulence", 
       "Tobacco heart", 
       "Heart weakness of arteriosclerosis", 
       "Endocardial murmurs, excessive impulse, increased precordial dullness, enlarged ventricle"
     ], 
     "Head": [
-      "RIGHT-SIDED PROSOPALGIA, constricting pains, returns at same hour daily", 
+      "Right-sided prosopalgia, constricting pains, returns at same hour daily", 
       "Right-sided pulsating pain", 
       "Pulsation in ears", 
       "Headache if obliged to pass dinner hour", 
       "Blood-vessels to the head distended", 
-      "CONGESTIVE HEADACHES, periodical, threatening apoplexy", 
+      "Congestive headaches, periodical, threatening apoplexy", 
       "Dim sight", 
       "Feels as if head were compressed in a vise", 
-      "SENSATION AS OF A WEIGHT ON VERTEX"
+      "Sensation as of a weight on vertex"
     ], 
     "Fever": [
       "Fever every day at same hour", 
       "Coldness predominates; cold sweat, with great anguish", 
-      "Persistent SUBNORMAL temperature", 
-      "Intermittent; paroxysms about midday  incomplete in their stages, accompanied by Hemorrhages", 
+      "Persistent subnormal temperature", 
+      "Intermittent; paroxysms about midday  incomplete in their stages, accompanied by hemorrhages", 
       "Coldness in back and icy-cold hands"
     ], 
     "Stomach": [
-      "CONSTRICTION, pulsation, or heaviness in stomach", 
+      "Constriction, pulsation, or heaviness in stomach", 
       "Vomiting of blood"
     ], 
     "Urine": [
@@ -47,7 +47,7 @@
       "Worse: about noon", 
       "Worse: lying on left side; walking", 
       "Worse: going upstairs", 
-      "Worse: eleven AM and eleven PM", 
+      "Worse: eleven am and eleven pm", 
       "Better: open air"
     ], 
     "Mind": [
@@ -67,9 +67,9 @@
       "Angina pectoris", 
       "Palpitation; pain shooting down left arm", 
       "Oppressed breathing as from a weight on chest", 
-      "HEAR-CONSTRICTION, AS FROM AN IRON BAND", 
+      "Hear-constriction, as from an iron band", 
       "Diaphragmitis, with great difficulty of breathing", 
-      "CONSTRICTION IN CHEST, AS IF BOUND, HINDERING RESPIRATION", 
+      "Constriction in chest, as if bound, hindering respiration", 
       "Inflammation of diaphragm", 
       "Hemoptysis, with convulsive, spasmodic cough"
     ], 
@@ -78,7 +78,7 @@
       "Fluent coryza"
     ], 
     "Female": [
-      "DYSMENORRHOEA; pulsating pain in uterus and ovaries", 
+      "Dysmenorrhoea; pulsating pain in uterus and ovaries", 
       "Menses early, dark, pitch-like", 
       "Vaginismus", 
       "Constriction in uterine region and ovaries", 
@@ -102,8 +102,6 @@
     ]
   }, 
   "details": "Acts on circular muscular fibers, hence constrictions. It is the heart and arteries especially that at once respond to the influence of Cactus, producing very characteristic CONSTRICTIONS as of an iron band. This sensation is found in various places, oesophagus, bladder, etc. The mental symptoms produced correspond to those found when there are heart affections, sadness, and melancholy. HEMORRHAGE, CONSTRICTIONS, PERIODICITY, and SPASMODIC PAINS. Whole body feels as if caged, each wire being twisted tighter. Atheromatous arteries and weak heart. Congestions; irregular distribution of blood. FAVORS FORMATION OF CLOTS SPEEDILY. Great periodicity. Toxic goitre with cardiac symptoms. Cactus is pulse-less, panting and prostrated.", 
-  "Natural History": [
-    "Cactus SelenicereusNight-blooming Cereus"
-  ], 
+  "Natural History": "Cactus SelenicereusNight-blooming Cereus", 
   "dosage": "Tincture (best made from flowers), to third attenuation. Higher in nervous palpitation."
 }

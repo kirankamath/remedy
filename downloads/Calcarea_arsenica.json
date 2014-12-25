@@ -1,15 +1,13 @@
 {
-  "Natural History": [
-    "Arsenite of Lime"
-  ], 
+  "Natural History": "Arsenite of Lime", 
   "details": "Epilepsy with rush of blood to the head before attack; aura felt in region of heart; flying sensation. Complaints in fat women around climacteric. Chronic malaria. Infantile enlarged liver and spleen. NEPHRITIS, with great sensitiveness in kidney region. Complaints of drunkards after abstaining. (Carbon. sulph.) Fleshy women at climacteric, SLIGHTEST EMOTION CAUSING PALPITATION. Dysphonia, with feeble heart. CHILLINESS. Albuminuria. Dropsy. Affections of spleen and mesenteric glands. Haemoglobin and red corpuscles are low.", 
   "symptoms": {
     "Heart": [
-      "Constriction and pain in region of heart, suffocating feeling, PALPITATION, oppression and throbbing and pain in back extending to arms"
+      "Constriction and pain in region of heart, suffocating feeling, palpitation, oppression and throbbing and pain in back extending to arms"
     ], 
     "Head": [
       "Weekly headache", 
-      "Pain in head BETTER BY LYING ON PAINFUL SIDE", 
+      "Pain in head better by lying on painful side", 
       "Benumbing headache mostly around ears", 
       "Violent rush of blood to head with vertigo"
     ], 
@@ -21,7 +19,7 @@
     ], 
     "Urine": [
       "Albuminuria, passes urine every hour", 
-      "KIDNEY REGION SENSITIVE TO PRESSURE"
+      "Kidney region sensitive to pressure"
     ], 
     "Mind": [
       "Desire for company", 

@@ -5,7 +5,7 @@
     "Heart": [
       "Oppression, faintness, and dyspnoea", 
       "Palpitation; rapid but weak", 
-      "Dropsy After heart symptoms relieved, piles or menses return", 
+      "Dropsy after heart symptoms relieved, piles or menses return", 
       "Chest-pains alternate with hemorrhoids"
     ], 
     "Head": [
@@ -15,7 +15,7 @@
       "Yellow-coated tongue"
     ], 
     "Respiratory": [
-      "COUGH FROM EXCESSIVE USE OF VOICE; minister's sore throat; sharp pain in larynx", 
+      "Cough from excessive use of voice; minister's sore throat; sharp pain in larynx", 
       "Harassing, dry cough", 
       "Hoarseness"
     ], 
@@ -28,25 +28,23 @@
       "Membranous dysmenorrhoea, with constipation", 
       "Pruritis", 
       "Sensation of swelling of labia and of clitoris", 
-      "Dysmenorrhoea; PRURITUS OF VULVA; prolapse of womb; swelling and dark redness of genitals; pain on sitting down"
+      "Dysmenorrhoea; pruritus of vulva; prolapse of womb; swelling and dark redness of genitals; pain on sitting down"
     ], 
     "Rectum": [
       "Constipation during pregnancy; with membranous dysmenorrhoea, following labor", 
       "Dysentery, with tenesmus", 
-      "MOST OBSTINATE CONSTIPATION, with protruding hemorrhoids", 
+      "Most obstinate constipation, with protruding hemorrhoids", 
       "Dry faeces", 
-      "ALTERNATE CONSTIPATION AND DIARRHOEA, and great flatulence", 
+      "Alternate constipation and diarrhoea, and great flatulence", 
       "Painful bleeding piles", 
-      "ITCHING OF ANUS", 
-      "SENSE OF CONSTRICTION", 
-      "SENSATION OF SHARP STICKS IN RECTUM", 
+      "Itching of anus", 
+      "Sense of constriction", 
+      "Sensation of sharp sticks in rectum", 
       "Vascular engorgement of rectum", 
       "Aching in anus and hypogastrium"
     ]
   }, 
   "details": "Pelvic and portal congestion, resulting hemorrhoids and constipation, especially in females. Depressed arterial tension, general atony of muscular fiber. CHRONIC NASAL, GASTRIC, AND PHARYNGEAL CATARRH, due to portal obstruction. Dropsy from cardiac disease. Pruritus in pregnancy, with piles. CONSTIPATION OF CHILDREN FROM INTESTINAL ATONY. Said to be of special value when given before operations, for rectal diseases. Sense of weight and constriction. Venous engorgement.", 
-  "Natural History": [
-    "Stone-Root"
-  ], 
+  "Natural History": "Stone-Root", 
   "dosage": "Tincture, to third attenuation. Higher potencies where there is organic heart affection."
 }

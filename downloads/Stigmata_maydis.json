@@ -4,7 +4,7 @@
   "symptoms": {
     "Urine": [
       "Vesical catarrh", 
-      "Suppression and RETENTION", 
+      "Suppression and retention", 
       "Cystitis", 
       "Gonorrhea", 
       "Dysuria", 
@@ -13,8 +13,6 @@
     ]
   }, 
   "details": "Has marked urinary symptoms, and has been used with success in organic heart disease, with much oedema of lower extremities and scanty urination. Enlarged prostate and retention of urine. Uric and phosphatic Gonorrhea. Cystitis.", 
-  "Natural History": [
-    "ZeaCorn-silk"
-  ], 
+  "Natural History": "ZeaCorn-silk", 
   "dosage": "Tincture in ten to fifty-drop doses."
 }

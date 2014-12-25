@@ -1,19 +1,17 @@
 {
-  "Natural History": [
-    "An Alkaloid of Opium"
-  ], 
+  "Natural History": "An Alkaloid of Opium", 
   "details": "Morphine bears the same relation to Opium as Atropine to Belladonna - i.e., represents its nervous side. It is less stimulating, less convulsant, and more decidedly hypnotic. Constipates less and affects contractility of the bladder more. It is less diaphoretic and more pruritic.Extreme susceptibility to pain; twitching; tympanites; much itching", 
   "symptoms": {
     "Urine": [
       "Paresis of bladder", 
       "Retention of prostatic hypertrophy", 
-      "STRANGURY", 
-      "SLOW AND DIFFICULT URINATION", 
-      "URAEMIA, acute and chronic"
+      "Strangury", 
+      "Slow and difficult urination", 
+      "Uraemia, acute and chronic"
     ], 
     "Head": [
       "Bursting pain; head drawn back", 
-      "VERTIGO FROM THE LEAST MOVEMENT OF THE HEAD", 
+      "Vertigo from the least movement of the head", 
       "Headache, with sensation of being wound-up"
     ], 
     "Fever": [
@@ -22,20 +20,20 @@
       "Burning heat; profuse sweat"
     ], 
     "Stomach": [
-      "Nausea INCESSANT AND DEATHLY, faintness, constant retching", 
-      "NAUSEA AND VOMITING ON RISING UP", 
+      "Nausea incessant and deathly, faintness, constant retching", 
+      "Nausea and vomiting on rising up", 
       "Vomiting of green fluid"
     ], 
     "Abdomen": [
       "Acute pain in abdomen and along spinal column", 
-      "TYMPANITIS", 
+      "Tympanitis", 
       "Distended"
     ], 
     "Mouth": [
       "Tongue dry, brown violet in middle", 
-      "Loss of appetite, WITH AVERSION TO MEAT", 
-      "THIRST", 
-      "VERY DRY"
+      "Loss of appetite, with aversion to meat", 
+      "Thirst", 
+      "Very dry"
     ], 
     "Rectum": [
       "Constipation; stools large, dry, knotty, with tendency to bruise and fissure", 
@@ -43,9 +41,9 @@
     ], 
     "Respiratory": [
       "Strangling cough, with viscid mucus sputum; thin, scanty, but sounds loose and abundant", 
-      "Cheyne-Stokes respiration", 
-      "Dry, hard, TEASING, exhausting cough, worse at night", 
-      "Faint and struggling for breath; DIAPHRAGMATIC PARALYSIS; hiccough; dyspnoea, paroxysmal, on first falling asleep", 
+      "Cheyne-stokes respiration", 
+      "Dry, hard, teasing, exhausting cough, worse at night", 
+      "Faint and struggling for breath; diaphragmatic paralysis; hiccough; dyspnoea, paroxysmal, on first falling asleep", 
       "Pain in middle of sternum", 
       "Chest tight"
     ], 
@@ -53,18 +51,18 @@
       "Ptosis", 
       "Delusion of vision on closing eyes", 
       "Bluish, drooping lids", 
-      "PARESIS OF RECTI INTERNI", 
-      "LOOK UNSTEADY", 
+      "Paresis of recti interni", 
+      "Look unsteady", 
       "Pupils unequally contracted", 
       "Staring, injected; diverging strabismus", 
-      "ITCHING of eyes"
+      "Itching of eyes"
     ], 
     "Face": [
-      "DUSKY RED OR PALLID LIVIDITY OF FACE, LIPS, TONGUE, MOUTH OR THROAT"
+      "Dusky red or pallid lividity of face, lips, tongue, mouth or throat"
     ], 
     "Nose": [
       "Sneezing in paroxysms", 
-      "ITCHING and tingling on end of nose"
+      "Itching and tingling on end of nose"
     ], 
     "Male": [
       "Impotency", 
@@ -72,18 +70,18 @@
     ], 
     "Ears": [
       "Left ear throbs painfully; better, heat", 
-      "SEEMS TO HEAR CIRCULATION ALL OVER BODY"
+      "Seems to hear circulation all over body"
     ], 
     "Heart": [
       "Pulse small, weak, dicrotic", 
-      "ALTERNATION OF TACHYCARDIA AND BRADYCARDIA", 
+      "Alternation of tachycardia and bradycardia", 
       "Cardiac muscular tissue is intact, even if severely exhausted"
     ], 
     "Mind": [
-      "DREAM-LIKE STATE", 
-      "SHOCK INDUCED BY TERROR", 
+      "Dream-like state", 
+      "Shock induced by terror", 
       "Irritable, fault-finding, hysterical", 
-      "PROFOUND DEPRESSION"
+      "Profound depression"
     ], 
     "Back": [
       "Aching across lumbosacral region; cannot walk erect", 
@@ -93,21 +91,21 @@
     "Sleep": [
       "Sleepy, but cannot sleep", 
       "Sleepless; restless sleep, with frequent startings", 
-      "Yawning, DROWSY; prolonged, deep sleep"
+      "Yawning, drowsy; prolonged, deep sleep"
     ], 
     "Skin": [
       "Aggravation after sleep", 
       "Nervous", 
       "Restlessness and hyperaesthesia; trembling, twitching, jerking, convulsions", 
-      "EXTREMELY SUSCEPTIBLE TO PAIN", 
-      "DELIRIUM, MELANCHOLIC IN CHARACTER", 
-      "ITCHING", 
+      "Extremely susceptible to pain", 
+      "Delirium, melancholic in character", 
+      "Itching", 
       "Pain causes twitching and jerking of limbs", 
-      "LIVID; purple spots; zoster-like herpes", 
+      "Livid; purple spots; zoster-like herpes", 
       "Sore feeling all over", 
-      "BED FEELS TOO HARD", 
-      "Violent and SUDDEN neuralgic pains and sudden fainting", 
-      "Neuralgias INTENSELY PAINFUL; left supraorbital; right intercostal, better from heat; MULTIPLE NEURITIS", 
+      "Bed feels too hard", 
+      "Violent and sudden neuralgic pains and sudden fainting", 
+      "Neuralgias intensely painful; left supraorbital; right intercostal, better from heat; multiple neuritis", 
       "Neuralgia after zoster", 
       "Skin lost its elasticity", 
       "Urticaria appearing at climaxis"
@@ -118,7 +116,7 @@
     ], 
     "Extremities": [
       "Staggering gait", 
-      "NUMBNESS"
+      "Numbness"
     ]
   }, 
   "name": "Morphinum", 

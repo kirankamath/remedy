@@ -4,26 +4,26 @@
   "symptoms": {
     "Head": [
       "Vertigo", 
-      "EXHILARATED", 
+      "Exhilarated", 
       "Sensation as if a bubble burst in forehead", 
       "Headache with cracking in left ear", 
       "Forgetful in the evening", 
       "Brain feels too heavy and large", 
-      "Coryza and STOPPED-UP feeling in nose", 
+      "Coryza and stopped-up feeling in nose", 
       "Rheumatic iritis", 
-      "NASAL POLYPI"
+      "Nasal polypi"
     ], 
     "Respiratory": [
       "Hoarseness, with dry, sore throat; cough worse at night, with aching in forehead and constrictive pain in chest; pleuritic pains"
     ], 
     "Stomach": [
-      "Abdomen and Stool", 
+      "Abdomen and stool", 
       "Gas cannot be passed", 
       "In the morning, difficult passages of small quantities of flatus; afterwards diarrhoea-like urging in the rectum", 
       "Nausea, with headache, and vomiting of a yellowish bitter mucus", 
       "Pain in bowels before stool, with shuddering chilliness", 
       "Constant pressure at the cardiac end of the stomach, and a burning pain there", 
-      "Drawing pain AROUND NAVEL before stool", 
+      "Drawing pain around navel before stool", 
       "Constriction in the anus", 
       "Pain shift from stomach to vertex"
     ], 
@@ -32,7 +32,7 @@
       "Worse: dampness", 
       "Worse: before a snowstorm", 
       "Better: warmth", 
-      "Better: PRESSURE", 
+      "Better: pressure", 
       "Better: rubbing"
     ], 
     "Urine": [
@@ -41,16 +41,16 @@
     "Skin": [
       "Profuse sweat without relief", 
       "Nodes around joints", 
-      "RED, ITCHING AND BURNING", 
+      "Red, itching and burning", 
       "Nettle-rash"
     ], 
     "Extremities": [
-      "WEAKNESS OF LOWER EXTREMITIES", 
+      "Weakness of lower extremities", 
       "Pain in hips", 
       "Paraplegia", 
-      "RHEUMATISM COMES ON WITH SUDDENNESS AND RESTLESSNESS", 
+      "Rheumatism comes on with suddenness and restlessness", 
       "Muscles feel strained and torn from their attachment", 
-      "SWEAT DOES NOT RELIEVE", 
+      "Sweat does not relieve", 
       "Relief after midnight and from rubbing", 
       "Rheumatic pains; stiff and contracted joints"
     ], 
@@ -66,8 +66,6 @@
     ]
   }, 
   "details": "An ARTHRITIC medicine. Gout and articular rheumatism; pains worse, motion; better, pressure. Right side most affected. Chronic gout and stiffness in joints. Acute outbursts of gouty poisons, especially when assuming the neuralgic forms. Tuberculosis, carcinoma, and lupus; chronic nephritis. Complaints from over-lifting. Apoplectic diseases. HAS A MARKED DETERRENT INFLUENCE ON THE FORMATION OF POLYPI.", 
-  "Natural History": [
-    "MyrmexineCrushed Live Ants"
-  ], 
+  "Natural History": "MyrmexineCrushed Live Ants", 
   "dosage": "Sixth to thirtieth attenuation."
 }

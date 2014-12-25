@@ -7,7 +7,7 @@
       "Pain and stiffness in nape of neck", 
       "Headache, with drowsiness; yellow sclerotica; aching in eyeballs", 
       "Pressure in vertex and forehead", 
-      "DULL, HEAVY ACHING IN TEMPLES AND FOREHEAD ON WAKING IN THE MORNING"
+      "Dull, heavy aching in temples and forehead on waking in the morning"
     ], 
     "Stomach": [
       "Weak, sinking feeling in the epigastrium, approaching nausea; increased after eating; relieved by rapid walking", 
@@ -19,8 +19,8 @@
       "Dark, frothy, scanty, high-colored, biliary"
     ], 
     "Mind": [
-      "DESPONDENT, IRRITABLE, indifferent", 
-      "GLOOMY"
+      "Despondent, irritable, indifferent", 
+      "Gloomy"
     ], 
     "Stool": [
       "Constant discharge of flatus when walking", 
@@ -46,12 +46,12 @@
       "Disturbed, bad dreams and frequent waking; insomnia"
     ], 
     "Skin": [
+      "Jaundice", 
       "Yellow and itching", 
-      "Creeping sensation, as of insects", 
-      "JAUNDICE"
+      "Creeping sensation, as of insects"
     ], 
     "Mouth": [
-      "TENACIOUS, THICK, NAUSEOUS SECRETION", 
+      "Tenacious, thick, nauseous secretion", 
       "Tongue furred, with bad taste in mouth, and nausea", 
       "Tender, spongy, and bleeding gums"
     ], 
@@ -61,8 +61,6 @@
     ]
   }, 
   "details": "Marked action on the liver, with jaundice and mucous membranes. Persistent sleeplessness. JAUNDICE.", 
-  "Natural History": [
-    "Bayberry"
-  ], 
+  "Natural History": "Bayberry", 
   "dosage": "Tincture, to third potency."
 }

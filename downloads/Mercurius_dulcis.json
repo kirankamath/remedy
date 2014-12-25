@@ -4,13 +4,13 @@
   "symptoms": {
     "Stomach": [
       "Nausea and vomiting", 
-      "cyclic vomiting of infants"
+      "Cyclic vomiting of infants"
     ], 
     "Stool": [
       "Dark-green, watery, with griping", 
-      "Scanty, bloody mucus, with bile, and CONSTANT DESIRE, without tenesmus", 
-      "Dysentery; small stools of MUCUS AND BLOOD, COVERED WITH BILE", 
-      "ANUS SORE and burning"
+      "Scanty, bloody mucus, with bile, and constant desire, without tenesmus", 
+      "Dysentery; small stools of mucus and blood, covered with bile", 
+      "Anus sore and burning"
     ], 
     "Mouth": [
       "Offensive breath; salivation; sore gums", 
@@ -21,17 +21,15 @@
       "Constant flow of dark, putrid saliva; very offensive"
     ], 
     "Skin": [
-      "Swollen glands, Phagedenic ulcers", 
-      "FLABBY AND ILL NOURISHED", 
+      "Swollen glands, phagedenic ulcers", 
+      "Flabby and ill nourished", 
       "Copper-colored eruptions"
     ], 
     "Ears": [
-      "Otitis media; closure of Eustachian tube; ear troubles of scrofulous children; membrana tympani retracted, thickened and immovable"
+      "Otitis media; closure of eustachian tube; ear troubles of scrofulous children; membrana tympani retracted, thickened and immovable"
     ]
   }, 
   "details": "Has marked effect on catarrhal inflammation of ear, and useful in Eustachian catarrh, deafness. Diarrhoea, with soreness of anus. PROSTATITIS. Remittent bilious attacks. PALLOR, FLABBY BLOATEDNESS, and turgid flaccidity. Inflammation with plastic exudate. Especially indicated in systems disposed to remittent bilious fevers; in peritonitis and meningitis WITH PLASTIC EXUDATE. Dropsies due to combined renal and cardiac diseases, especially with jaundice. (Hale). Cirrhosis of the liver, especially in the hypertrophic form. Use 1x (Jousset)", 
-  "Natural History": [
-    "Calomel"
-  ], 
+  "Natural History": "Calomel", 
   "dosage": "Third to sixth trituration. For palliative (non-homeopathic) purposes, to secure evacuation of bowels, two or three-grain doses of first decimal trituration, repeated several times every hour."
 }

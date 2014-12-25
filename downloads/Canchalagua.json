@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Erythraea venusta - Centaury"
-  ], 
+  "Natural History": "Erythraea venusta - Centaury", 
   "details": "Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.", 
   "symptoms": {
     "Head": [
@@ -10,11 +8,11 @@
     ], 
     "Fever": [
       "General sore and bruised feeling; nausea and retching", 
-      "Sensitive to cold trade-winds on Pacific Coast", 
+      "Sensitive to cold trade-winds on pacific coast", 
       "Chill all over; worse in bed at night"
     ], 
     "Skin": [
-      "Scalp feels tight, as if drawn together by India-rubber", 
+      "Scalp feels tight, as if drawn together by india-rubber", 
       "Wrinkled like a washer woman's"
     ]
   }, 

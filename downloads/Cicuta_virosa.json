@@ -5,7 +5,7 @@
     "Eyes": [
       "Eyes stare", 
       "When reading, letters disappear", 
-      "PUPILS DILATED, INSENSIBLE STRABISMUS", 
+      "Pupils dilated, insensible strabismus", 
       "Strabismus; periodic, spasmodic after a fall or blow", 
       "Spasmodic affections of eyes and its appendages", 
       "Pupils get behind upper lids as head inclines", 
@@ -18,26 +18,26 @@
       "Chest feels tight; can hardly breathe"
     ], 
     "Stomach": [
-      "Thirst; burning pressure; HICCOUGH", 
+      "Thirst; burning pressure; hiccough", 
       "Throbbing in pit of stomach, which has become raised to size of fist", 
       "Indigestion, with insensibility, frothing at mouth", 
-      "Desire for unnatural things, LIKE COAL"
+      "Desire for unnatural things, like coal"
     ], 
     "Head": [
       "Vertigo, with gastralgia, and muscular spasms", 
       "Sudden, violent shocks through head", 
       "Thick, yellow scabs on head", 
       "Stares persistently at objects", 
-      "CERVICAL MUSCLES CONTRACTED", 
-      "CEREBROSPINAL MENINGITIS", 
+      "Cervical muscles contracted", 
+      "Cerebrospinal meningitis", 
       "Head symptoms relieved by emission of flatus", 
-      "CONVULSIONS from concussion of brain", 
-      "HEAD TURNED OR TWISTED TO ONE SIDE"
+      "Convulsions from concussion of brain", 
+      "Head turned or twisted to one side"
     ], 
     "Back and Extremities": [
       "Jerking, tearing in coccyx, especially during menses", 
       "Spasms and cramps in muscles of nape of neck, and spasmodic drawing backward of head", 
-      "BACK BENT BACKWARD LIKE AN ARCH", 
+      "Back bent backward like an arch", 
       "Curved limbs cannot be straightened nor straight ones bent"
     ], 
     "Mind": [
@@ -57,14 +57,14 @@
       "Distended and painful"
     ], 
     "Face": [
-      "RED FACE", 
+      "Red face", 
       "Trismus; disposition to grind teeth", 
       "Pustules which run together forming thick, yellow scabs on face and head, corners of mouth and chin, with burning pain"
     ], 
     "Skin": [
       "Elevated eruptions, as large as peas", 
       "Chronic impetigo", 
-      "Eczema; no itching; exudation forms into a HARD, LEMON-COLORED CRUST", 
+      "Eczema; no itching; exudation forms into a hard, lemon-colored crust", 
       "Suppressed eruption causes brain disease"
     ], 
     "Throat": [
@@ -86,12 +86,10 @@
     "Ears": [
       "Sudden detonations especially on swallowing", 
       "Difficult hearing", 
-      "HEMORRHAGE FROM EARS"
+      "Hemorrhage from ears"
     ]
   }, 
   "details": "The action on the nervous system, producing spasmodic affections, viz., hiccough, trismus, tetanus, and convulsions, give the pathological picture calling especially for this remedy, whenever this is further characterized, by the more individual symptoms of the drug. Among these, are the BENDING OF THE HEAD, NECK, AND SPINE BACKWARDS, and the general action of the patient is VIOLENT, with frightful distortions. Violent, strange desires. Sensation of internal chill. Moaning and howling. Does absurd things. Marked action on the skin.", 
-  "Natural History": [
-    "Water Hemlock"
-  ], 
+  "Natural History": "Water Hemlock", 
   "dosage": "Sixth to two hundredth attenuation."
 }

@@ -4,7 +4,7 @@
   "symptoms": {
     "Head": [
       "Vision blurred; everything looks bluish", 
-      "NOSEBLEED", 
+      "Nosebleed", 
       "Confused; eyeballs feel too large", 
       "Pain in forehead; worse, noise"
     ], 
@@ -22,15 +22,15 @@
     ], 
     "Mouth": [
       "Hemorrhage from gums", 
-      "BLEEDING AFTER TOOTH EXTRACTION"
+      "Bleeding after tooth extraction"
     ], 
     "Female": [
-      "LOCHIA SUDDENLY BECOMES SANGUINOUS", 
+      "Lochia suddenly becomes sanguinous", 
       "Gushing of bright blood on least movement", 
       "Prolapse, with great bearing-down", 
       "Leucorrhoea copious, yellow, stringy", 
       "Metrorrhagia at climacteric", 
-      "Uterine hemorrhages, WITH SENSATION AS THOUGH HIPS AND BACK WERE FALLING TO PIECES; BETTER TIGHT BANDAGES", 
+      "Uterine hemorrhages, with sensation as though hips and back were falling to pieces; better tight bandages", 
       "Dribbling of urine after labor", 
       "Hemorrhage from fibroids"
     ], 
@@ -40,8 +40,6 @@
     ]
   }, 
   "details": "A general hemorrhagic medicine, WITH GREAT FAINTNESS and DIZZINESS. Chronic diarrhoea of bloody mucus. Uterine hemorrhage. Threatened abortion. RELAXATION OF PELVIC REGION. Cramp-like pains. Phthisis with purulent and copious expectoration and spitting of blood.", 
-  "Natural History": [
-    "White Beth-root"
-  ], 
+  "Natural History": "White Beth-root", 
   "dosage": "Tincture and lower potencies."
 }

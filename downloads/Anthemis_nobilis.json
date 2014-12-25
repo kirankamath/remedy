@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Roman Chamomile"
-  ], 
+  "Natural History": "Roman Chamomile", 
   "details": "Respiration.This remedy is akin to the ordinary Chamomilla. Gastric disturbances with coldness. Sensitive to cold air and cold things.Coryza with much lachrymation, sneezing, and discharge of clear water from the nose. Symptoms worse indoors. Constriction and rawness of throat. Cough, tickling; worse in warm room.", 
   "symptoms": {
     "Urine": [
@@ -11,7 +9,7 @@
     ], 
     "Abdomen": [
       "Itching of anus, with white putty-like stools", 
-      "Aching in region of liver; griping and CHILLINESS INSIDE OF ABDOMEN and into legs"
+      "Aching in region of liver; griping and chilliness inside of abdomen and into legs"
     ], 
     "Skin": [
       "Goose-flesh", 

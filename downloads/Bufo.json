@@ -21,9 +21,9 @@
       "Howling; impatient; nervous; imbecile", 
       "Anxious about health", 
       "Propensity to bite", 
-      "DESIRE FOR SOLITUDE", 
+      "Desire for solitude", 
       "Sad, restless", 
-      "FEEBLE-MINDED"
+      "Feeble-minded"
     ], 
     "Head": [
       "Face bathed in sweat", 
@@ -37,7 +37,7 @@
       "Induration in mammary glands", 
       "Excitement, with epileptic attacks", 
       "Ulceration of cervix", 
-      "Palliative in cancer of the mammae Burning in ovaries and uterus", 
+      "Palliative in cancer of the mammae burning in ovaries and uterus", 
       "Bloody milk", 
       "Milk-leg", 
       "Menses too early and too copious, clots and bloody discharge at other times; watery leucorrhoea", 
@@ -51,7 +51,7 @@
       "Pustules, suppuration, from every slight injury", 
       "Carbuncle", 
       "Pemphigus", 
-      "Panaritium; PAIN RUNS UP ARM", 
+      "Panaritium; pain runs up arm", 
       "Bullae which open and leave a raw surface, exuding and ichorous fluid", 
       "Blisters on palms and soles"
     ], 
@@ -59,9 +59,9 @@
       "Pains in loins, numbness of limbs, cramps, staggering gait, feeling as if a peg were driven in joints; swelling of bones"
     ], 
     "Male": [
-      "BUBOES", 
+      "Buboes", 
       "Disposition to handle organs", 
-      "Involuntary emissions; IMPOTENCE, discharge too quick, spasms during coition", 
+      "Involuntary emissions; impotence, discharge too quick, spasms during coition", 
       "Effects of onanism"
     ], 
     "Ears": [
@@ -70,8 +70,6 @@
     ]
   }, 
   "details": "Of use in feeble-minded children. Prematurely senile. Epileptic symptoms. Convulsive seizures occur during sleep at night. More or less connected with derangements of the sexual sphere, seem to come within the range of this remedy. Injuries to fingers; pain runs in streaks up the arms.Acts on the nervous system and skin. Uterine symptoms marked. Lymphangitis of septic origin. Symptoms of paralysis agitans. Striking rheumatic symptoms.Arouses the lowest passions. Causes a desire for intoxicating drink, and produces impotence.", 
-  "Natural History": [
-    "Poison of the Toad"
-  ], 
+  "Natural History": "Poison of the Toad", 
   "dosage": "Sixth potency and higher."
 }

@@ -1,11 +1,9 @@
 {
-  "Natural History": [
-    "Phenazone - A Coal-tar Derivative"
-  ], 
+  "Natural History": "Phenazone - A Coal-tar Derivative", 
   "details": "Antipyrine is one of the drugs that induce leucocytosis, similar to Ergotin, salicylates, and tuberculin. Acts especially on the vasomotor centers, causing dilation of capillaries of skin and consequent circumscribed patches of hyperaemia and swelling. In large doses causes profuse perspiration, dizziness, cyanosis, and somnolence, albumen and blood in urine. Acute erythema multiform.", 
   "symptoms": {
     "Heart": [
-      "GENERAL PROSTRATION", 
+      "General prostration", 
       "Epileptiform seizures", 
       "Contractures", 
       "Trembling and cramps", 
@@ -16,12 +14,12 @@
       "Throbbing throughout the body"
     ], 
     "Eyes": [
-      "Conjunctiva red and oedematous, WITH LACHRYMATION", 
+      "Conjunctiva red and oedematous, with lachrymation", 
       "Puffiness of lids", 
       "Red spots"
     ], 
     "Respiratory": [
-      "Cheyne-Stokes respiration", 
+      "Cheyne-stokes respiration", 
       "Fluent coryza", 
       "Nasal mucous membrane swollen", 
       "Dull pains in frontal sinus", 
@@ -36,11 +34,11 @@
       "Penis black"
     ], 
     "Mind": [
-      "Fear of becoming insane; nervous anxiety; HALLUCINATIONS OF SIGHT AND HEARING"
+      "Fear of becoming insane; nervous anxiety; hallucinations of sight and hearing"
     ], 
     "Head": [
-      "HEADACHE UNDER EARS WITH EARACHE", 
-      "Throbbing headache; SENSATION OF CONSTRICTION", 
+      "Headache under ears with earache", 
+      "Throbbing headache; sensation of constriction", 
       "Flashes of heat"
     ], 
     "Face": [
@@ -62,11 +60,11 @@
       "Menses suppressed"
     ], 
     "Skin": [
-      "ERYTHEMA, eczema, pemphigus", 
-      "INTENSE PRURITUS", 
+      "Erythema, eczema, pemphigus", 
+      "Intense pruritus", 
       "Angioneurotic-oedema", 
       "Dark blotches on skin of penis, sometimes with oedema", 
-      "URTICARIA, appearing and disappearing suddenly, with internal coldness"
+      "Urticaria, appearing and disappearing suddenly, with internal coldness"
     ], 
     "Throat": [
       "Pain on swallowing", 
@@ -76,7 +74,7 @@
     ], 
     "Ears": [
       "Pains and buzzing", 
-      "TINNITUS"
+      "Tinnitus"
     ]
   }, 
   "name": "Antipyrine", 

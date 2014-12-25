@@ -35,9 +35,9 @@
       "Ulcers and exfoliations in the commissaries"
     ], 
     "Nose": [
-      "ANNOYING ITCHING IN THE NOSTRILS AND ROOF OF THE MOUTH", 
-      "Sneezing, ITCHING OF NOSTRILS", 
-      "Hay-fever begins with burning and ITCHING OF PALATE and conjunctiva", 
+      "Annoying itching in the nostrils and roof of the mouth", 
+      "Sneezing, itching of nostrils", 
+      "Hay-fever begins with burning and itching of palate and conjunctiva", 
       "Coryza; loss of smell"
     ], 
     "Female": [
@@ -63,8 +63,6 @@
     ]
   }, 
   "details": "A remedy for catarrhal states. Hay-fever.Arundo donax seems to be the same: Acts on excretory and generative organs; suppuration, especially chronic, and where the ulceration is fistulous, especially in long bones. Itching eruption on chest, upper extremities and behind ears.", 
-  "Natural History": [
-    "Reed"
-  ], 
+  "Natural History": "Reed", 
   "dosage": "Third to sixth potency."
 }

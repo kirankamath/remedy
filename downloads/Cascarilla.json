@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Sweet Bark"
-  ], 
+  "Natural History": "Sweet Bark", 
   "details": "Acts on the digestive tract; constipation. Aversion to smell of tobacco. INCLINATION TO VOMIT very marked.", 
   "symptoms": {
     "Rectum": [
@@ -11,9 +9,9 @@
       "Diarrhoea alternating with hard, lumpy stool, with backache and lassitude, preceded by griping"
     ], 
     "Stomach": [
+      "Nausea and vomiting", 
       "Desire for hot drinks", 
       "Pressing colic", 
-      "NAUSEA AND VOMITING", 
       "Hunger after meals", 
       "Pain in stomach as from a shock"
     ]

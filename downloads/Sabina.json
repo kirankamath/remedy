@@ -19,7 +19,7 @@
       "Sense of fullness", 
       "Hemorrhoids, with bright red blood; bleed copiously", 
       "Constipation", 
-      "PAIN FROM BACK TO PUBIS"
+      "Pain from back to pubis"
     ], 
     "Urine": [
       "Burning and throbbing in region of kidneys", 
@@ -34,29 +34,29 @@
       "Better: in cool fresh air"
     ], 
     "Mind": [
-      "MUSIC IS INTOLERABLE, produces nervousness"
+      "Music is intolerable, produces nervousness"
     ], 
     "Back": [
       "Paralytic pain in small of back", 
-      "PAIN BETWEEN SACRUM AND PUBIS FROM ONE BONE TO ANOTHER"
+      "Pain between sacrum and pubis from one bone to another"
     ], 
     "Female": [
       "Retained placenta; intense after-pains", 
       "Threatened miscarriage", 
       "Uterine pains extend into thighs", 
-      "MENSES PROFUSE, BRIGHT", 
       "Sexual desire increased", 
-      "PAIN FROM SACRUM TO PUBIS, AND FROM BELOW UPWARDS SHOOTING UP THE VAGINA", 
+      "Pain from sacrum to pubis, and from below upwards shooting up the vagina", 
       "Discharge of blood between periods, with sexual excitement", 
+      "Menorrhagia in womenwho aborted readily", 
       "Leucorrhoea after menses, corrosive, offensive", 
       "Inflammation of ovaries and uterus after abortion", 
-      "Menorrhagia in womenwho aborted readily", 
+      "Menses profuse, bright", 
       "Promotes expulsion of moles from uterus", 
       "Atony of uterus", 
-      "Hemorrhage; partly clotted; worse FROM LEAST MOTION"
+      "Hemorrhage; partly clotted; worse from least motion"
     ], 
     "Skin": [
-      "WARTS", 
+      "Warts", 
       "Fig-warts, with intolerable itching and burning", 
       "Black pores in skin", 
       "Exuberant granulations"
@@ -69,10 +69,10 @@
     "Extremities": [
       "Red, shining swelling", 
       "Gouty nodosities", 
-      "Bruised pains in anterior portion of thighs", 
+      "Arthritic pain in joints", 
+      "Shooting in heels and metatarsal bones", 
       "Gout; worse, in heated room", 
-      "ARTHRITIC PAIN IN JOINTS", 
-      "Shooting in heels and metatarsal bones"
+      "Bruised pains in anterior portion of thighs"
     ], 
     "Male": [
       "Prepuce painful with difficulty in retracting it", 
@@ -83,8 +83,6 @@
     ]
   }, 
   "details": "Has a special action on the uterus; also upon serous and fibrous membranes; hence its use in gout. Pain FROM SACRUM TO THE PUBIS. HEMORRHAGES, WHERE BLOOD IS FLUID AND CLOTS TOGETHER. Tendency to miscarriage, especially at third month. VIOLENT PULSATIONS; wants windows open.", 
-  "Natural History": [
-    "Sabine"
-  ], 
+  "Natural History": "Sabine", 
   "dosage": "Locally, for warts, tincture. Internally, third to thirtieth potency."
 }

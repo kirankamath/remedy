@@ -6,9 +6,9 @@
       "Heart's action weak, with numbness of fingers", 
       "Weak, frequent pulse, with inability to lie down", 
       "Palpitation from least exertion", 
-      "Anxiety about chest, AS IF CONSTRICTED", 
+      "Anxiety about chest, as if constricted", 
       "Severe heart pain", 
-      "TACHYCARDIA", 
+      "Tachycardia", 
       "Ready excitability of heart"
     ], 
     "Eyes": [
@@ -25,7 +25,7 @@
     "Urine": [
       "Increased flow; polyuria; some albumen and sugar", 
       "Urine smells of violets, burning along urethra, increase of uric acid", 
-      "ENURESIS in weakly children who are nervous and irritable"
+      "Enuresis in weakly children who are nervous and irritable"
     ], 
     "Mind": [
       "Irritable, worse least opposition; goes into a rage over trifles", 
@@ -36,21 +36,21 @@
       "Tongue thickly coated", 
       "Feeling of lightness in brain", 
       "Face flushed; lips burn", 
-      "PERSISTENT FRONTAL headache", 
+      "Persistent frontal headache", 
       "Bad taste in mouth", 
       "Eyeballs prominent", 
       "Face flushed"
     ], 
     "Skin": [
-      "Skin DRY, impoverished", 
+      "Skin dry, impoverished", 
       "Uterine fibroids", 
       "Jaundice with pruritus", 
       "Itching without eruption, worse night", 
       "Ichthyosis, lupus", 
       "Cold hands and feet", 
-      "BROWNEY SWELLING", 
-      "PSORIASIS associated with adiposity", 
-      "ECZEMA", 
+      "Browney swelling", 
+      "Psoriasis associated with adiposity", 
+      "Eczema", 
       "Swelling of glands of stony hardness", 
       "Sluggish cases"
     ], 
@@ -67,8 +67,6 @@
     ]
   }, 
   "details": "Of use in psoriasis; and TACHYCARDIA. Arrested development in children. Improves the memory. GOITRE. Excessive obesity. Acts better with pale patients, rather than those of high color. Amblyopia. MAMMARY TUMOR. UTERINE FIBROID. Great weakness and hunger, yet loses flesh. NOCTURNAL ENURESIS. AGALACTIA. Begin treatment early in pregnancy. Dose 1/2 gr. 2 to 3 times daily. VOMITING OF PREGNANCY (give early in morning before patient gets up). FIBROID TUMORS OF THE BREAST, 2x trit. Dilates arterioles. (ADRENALIN CONTRACTS THEM.) Sensation of faintness after acute diseases, i.e. weakness. Easy fatigue, weak pulse, tendency to fainting, palpitation, cold hands and feet, low blood pressure, chilliness and sensitive to cold. (Thyroid 1x 3 times daily.) Has a powerful diuretic action in myxedema and various types of oedema.Thyroid produces anaemia, emaciation, muscular weakness, sweating, headache, nervous tremor of face and limbs, tingling sensations, paralysis. Heart rate increased, exophthalmus and dilatation of pupils. IN MYXEDEMA AND CRETINISM its effects are striking. Rheumatoid arthritis. Infantile wasting. Rickets. Delayed union of fractures. In half grain doses twice a day over a considerable period said to be EFFECTIVE IN UNDESCENDED TESTICLE in boys. Thyroid exercises a general regulating influence over the mechanism of the organs of nutrition, growth and development. Thyroid weakness causes decided craving for large amount of sweets.", 
-  "Natural History": [
-    "Dried Thyroid Gland of the Sheep"
-  ], 
+  "Natural History": "Dried Thyroid Gland of the Sheep", 
   "dosage": "Crude Thyroid at times; better sixth to thirtieth potency. If the crude Thyroid is taken (two to three grains or more daily); the pulse should be watched. Must not be given in physiological doses where with feeble heart there is high blood pressure and not in tubercular patients."
 }

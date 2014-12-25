@@ -14,18 +14,18 @@
       "Blue circle around eyes", 
       "Night blindness", 
       "One pupil dilated", 
-      "OPACITY OF CORNEA"
+      "Opacity of cornea"
     ], 
     "Fever": [
-      "ICY COLDNESS  YELLOW FEVER"
+      "Icy coldness  yellow fever"
     ], 
     "Stomach": [
       "Carcinoma, helps the persistent vomiting", 
       "Burning and cutting pains in stomach", 
       "Coffee ground vomiting", 
-      "BLACK VOMIT", 
+      "Black vomit", 
       "Vomiting of mucus, green slime, blood, with great prostration, and great tenderness over the stomach", 
-      "Violent NAUSEA, retching", 
+      "Violent nausea, retching", 
       "Soreness in pit of stomach on pressure"
     ], 
     "Abdomen": [
@@ -49,7 +49,7 @@
       "Heat in head"
     ], 
     "Face": [
-      "FACIAL PARALYSIS; more left side", 
+      "Facial paralysis; more left side", 
       "Distortion of mouth", 
       "Trembling of jaw"
     ], 
@@ -60,9 +60,9 @@
       "Tightness at root", 
       "Nostrils ulcerated", 
       "Boils on nose", 
-      "Nose obstructed; POLYPUS", 
+      "Nose obstructed; polypus", 
       "Caries of nasal bones", 
-      "OZOENA"
+      "Ozoena"
     ], 
     "Heart": [
       "Palpitation, with constriction of chest"
@@ -89,8 +89,6 @@
     ]
   }, 
   "details": "Its pathogenesis gives symptoms corresponding to very low forms of disease, as in cholera, YELLOW FEVER, where, with exhaustion, vomiting, and EXTREME PROSTRATION, the disease runs death ward. Important gastric symptoms. Carcinoma ventriculi; persistent vomiting. The attack is upon the stomach more especially. Patients must keep quiet. CHILLINESS AND COLDNESS even when near the fire.", 
-  "Natural History": [
-    "Cadmic Sulphate"
-  ], 
+  "Natural History": "Cadmic Sulphate", 
   "dosage": "Third to thirtieth potency."
 }

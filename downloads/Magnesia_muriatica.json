@@ -3,8 +3,8 @@
   "Relationship": "Compare: NAT-M.; PULS.; SEP.; AMM. M.; NASTURTIUM AQUATICUM - Water-cress - (useful in scorbutic affections and constipation, related to strictures of urinary apparatus; supposed to be aphrodisiacal in its action. Is also antidotal to TOBACCO narcosis and sedative in neurotic affections, neurasthenia, hysteria. Cirrhosis of liver and dropsy.Antidotes: CAMPH.; CHAM.", 
   "symptoms": {
     "Heart": [
-      "Functional cardiac affections WITH LIVER ENLARGEMENT", 
-      "Palpitation and cardiac pain WHILE SITTING; BETTER BY MOVING ABOUT"
+      "Functional cardiac affections with liver enlargement", 
+      "Palpitation and cardiac pain while sitting; better by moving about"
     ], 
     "Head": [
       "Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat", 
@@ -15,7 +15,7 @@
       "Spasmodic dry cough; worse forepart of night, with burning and sore chest"
     ], 
     "Stomach": [
-      "CANNOT DIGEST MILK", 
+      "Cannot digest milk", 
       "Eructations like rotten eggs", 
       "Continued rising of white froth into mouth", 
       "Urine can be passed only by pressing abdominal muscles", 
@@ -23,7 +23,7 @@
     ], 
     "Modalities": [
       "Worse: immediately after eating", 
-      "Worse: lying on right side; FROM SEA BATHING", 
+      "Worse: lying on right side; from sea bathing", 
       "Better: from pressure", 
       "Better: motion; open air", 
       "Better: except headache"
@@ -35,7 +35,7 @@
     "Abdomen": [
       "Congenital scrotal hernia", 
       "Pressing pain in liver; worse lying on right side", 
-      "LIVER ENLARGED WITH BLOATING OF ABDOMEN; yellow tongue", 
+      "Liver enlarged with bloating of abdomen; yellow tongue", 
       "Must use abdominal muscles to enable him to urinate"
     ], 
     "Mouth": [
@@ -45,7 +45,7 @@
       "Throat dry, with hoarseness"
     ], 
     "Nose": [
-      "LOSS OF SMELL AND TASTE, following catarrh", 
+      "Loss of smell and taste, following catarrh", 
       "Nostrils ulcerated", 
       "Cannot lie down", 
       "Nose stopped and fluent", 
@@ -61,7 +61,7 @@
       "Metrorrhagia; worse at night"
     ], 
     "Bowels": [
-      "Constipation of infants during dentition; only passing small quantity; STOOLS KNOTTY, like sheep's dung, CRUMBLING AT VERGE OF ANUS", 
+      "Constipation of infants during dentition; only passing small quantity; stools knotty, like sheep's dung, crumbling at verge of anus", 
       "Painful smarting hemorrhoids"
     ], 
     "Sleep": [
@@ -73,8 +73,6 @@
     ]
   }, 
   "details": "A liver remedy with pronounced characteristic constipation. Chronic liver affections with tenderness and pain, extending to spine and epigastrium, worse after food. Especially adapted to diseases of women, with a long history of indigestion and uterine disease; children who cannot digest milk. Evil effects of sea bathing.", 
-  "Natural History": [
-    "Muriate of Magnesia"
-  ], 
+  "Natural History": "Muriate of Magnesia", 
   "dosage": "5 drops of tincture. Third to 200th potency."
 }

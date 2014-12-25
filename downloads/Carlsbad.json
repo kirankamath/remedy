@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "The Waters of the Sprudel Springs"
-  ], 
+  "Natural History": "The Waters of the Sprudel Springs", 
   "symptoms": {
     "Head": [
       "Aches, with swollen temporal veins ; better, motion, in open air"
@@ -15,7 +13,7 @@
       "Hiccough and yawning"
     ], 
     "Urine": [
-      "Stream WEAK AND SLOW; only passed by pressing abdominal muscles"
+      "Stream weak and slow; only passed by pressing abdominal muscles"
     ], 
     "Mind": [
       "Discouraged and anxious about domestic duties"
@@ -23,7 +21,7 @@
     "Rectum": [
       "Burning in rectum and anus", 
       "Stool slow, and only passed by much abdominal pressure", 
-      "FAECES HELD BACK", 
+      "Faeces held back", 
       "Bleeding piles"
     ], 
     "Face": [

@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Metallic Gold"
-  ], 
+  "Natural History": "Metallic Gold", 
   "symptoms": {
     "Urine": [
       "Painful retention", 
@@ -18,7 +16,7 @@
       "Congestion to head", 
       "Boils on scalp", 
       "Tearing through brain to forehead", 
-      "VIOLENT PAIN IN HEAD; WORSE AT NIGHT, outward pressure"
+      "Violent pain in head; worse at night, outward pressure"
     ], 
     "Stomach": [
       "Swelling of epigastrium", 
@@ -44,14 +42,14 @@
       "Dyspnoea at night"
     ], 
     "Eyes": [
+      "Double vision; upper half of objects invisible", 
       "Great soreness all about the eyes and into eyeballs", 
-      "STICKING PAINS INWARD", 
+      "Sticking pains inward", 
       "Trachoma with pannus", 
       "Violent pains in bones around eye", 
       "Sees fiery objects", 
-      "EXTREME PHOTOPHOBIA", 
-      "Double vision; UPPER HALF OF OBJECTS INVISIBLE", 
-      "VASCULAR CORNEA", 
+      "Extreme photophobia", 
+      "Vascular cornea", 
       "Feel tense", 
       "Intestinal keratitis", 
       "Pains from without inward"
@@ -61,47 +59,47 @@
       "Mastoid and other facial bones inflamed"
     ], 
     "Nose": [
-      "ULCERATED, PAINFUL, swollen, obstructed", 
+      "Ulcerated, painful, swollen, obstructed", 
       "Horrible odor from nose and mouth", 
       "Inflammation of nose; caries; fetid discharge, purulent, bloody", 
       "Boring pains in nose, worse at night", 
       "Sensitive smell", 
-      "PUTRID SMELL from nose", 
+      "Putrid smell from nose", 
       "Knobby tip of nose"
     ], 
     "Male": [
-      "ATROPHY OF TESTICLES IN BOYS", 
+      "Atrophy of testicles in boys", 
       "Violent erections", 
-      "Pain and SWELLING OF TESTICLES", 
+      "Pain and swelling of testicles", 
       "Hydrocele", 
       "Chronic induration of testicles"
     ], 
     "Ears": [
       "Caries of ossicula and of mastoid", 
-      "OBSTINATE FETID OTORRHEA after scarlatina", 
+      "Obstinate fetid otorrhea after scarlatina", 
       "External meatus bathed in pus", 
-      "Chronic nerve deafness; Labyrinthine disease due to syphilis"
+      "Chronic nerve deafness; labyrinthine disease due to syphilis"
     ], 
     "Heart": [
       "Palpitation", 
       "Hypertrophy", 
-      "HIGH BLOOD PRESSURE - Valvular lesions of arteriosclerotic nature", 
-      "SENSATION AS IF HEART STOPPED BEATING for two or three seconds, immediately followed by tumultuous rebound, with sinking at the epigastrium", 
-      "Pulse RAPID, FEEBLE, IRREGULAR"
+      "High blood pressure - valvular lesions of arteriosclerotic nature", 
+      "Sensation as if heart stopped beating for two or three seconds, immediately followed by tumultuous rebound, with sinking at the epigastrium", 
+      "Pulse rapid, feeble, irregular"
     ], 
     "Modalities": [
       "Worse: in cold weather when getting cold"
     ], 
     "Mind": [
-      "TALKS OF COMMITTING SUICIDE", 
+      "Talks of committing suicide", 
       "Mental derangements", 
       "Feeling of self-condemnation and utter worthlessness", 
       "Cannot do things fast enough", 
-      "Profound despondency, with increased blood pressure, with thorough DISGUST OF LIFE, and thoughts of suicide", 
+      "Profound despondency, with increased blood pressure, with thorough disgust of life, and thoughts of suicide", 
       "Peevish and vehement at least contradiction", 
       "Constant rapid questioning without waiting for reply", 
       "Anthropophobia", 
-      "OVER-SENSITIVENESS;  TO NOISE, excitement, confusion", 
+      "Over-sensitiveness;  to noise, excitement, confusion", 
       "Great fear of death"
     ], 
     "Sleep": [

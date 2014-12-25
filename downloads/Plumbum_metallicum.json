@@ -4,19 +4,19 @@
   "symptoms": {
     "Mind": [
       "Quiet melancholy", 
-      "MENTAL DEPRESSION", 
+      "Mental depression", 
       "Slow perception; loss of memory; amnesic aphasia", 
       "Memory impaired", 
       "Paretic dementia", 
       "Hallucinations and delusions", 
       "Intellectual apathy", 
-      "FEAR OF BEING ASSASSINATED"
+      "Fear of being assassinated"
     ], 
     "Eyes": [
       "Optic neuritis, central scotoma", 
       "Sudden loss of sight after fainting", 
       "Intraocular, suppurative inflammation", 
-      "GLAUCOMA, especially if secondary to spinal lesion", 
+      "Glaucoma, especially if secondary to spinal lesion", 
       "Yellow", 
       "Pupils contracted", 
       "Optic nerve inflamed"
@@ -24,43 +24,43 @@
     "Stomach": [
       "Constant vomiting", 
       "Solids cannot be swallowed", 
-      "GASTRALGIA", 
+      "Gastralgia", 
       "Contraction in oesophagus and stomach; pressure and tightness"
     ], 
     "Abdomen": [
-      "Excessive colic, RADIATING TO ALL PARTS OF BODY", 
+      "Excessive colic, radiating to all parts of body", 
       "Colic alternates with delirium and pain in atrophied limbs", 
       "Intussusception; strangulated hernia", 
       "Obstructed flatus, with intense colic", 
-      "ABDOMEN RETRACTED", 
+      "Abdomen retracted", 
       "Pain causes desire to stretch", 
-      "ABDOMINAL WALL FEELS DRAWN BY A STRING TO SPINE"
+      "Abdominal wall feels drawn by a string to spine"
     ], 
     "Mouth": [
-      "Gums swollen, pale; DISTINCT BLUE LINES ALONG MARGINS OF GUMS", 
+      "Gums swollen, pale; distinct blue lines along margins of gums", 
       "Tongue tremulous, red on margin", 
       "Cannot put it out, seems paralyzed"
     ], 
     "Rectum": [
       "Neuralgia of rectum", 
-      "ANUS DRAWN UP WITH CONSTRICTION", 
+      "Anus drawn up with constriction", 
       "Obstructed evacuation from impaction of faeces", 
-      "Constipation; STOOLS HARD, LUMPY, BLACK, WITH URGING AND SPASM OF ANUS"
+      "Constipation; stools hard, lumpy, black, with urging and spasm of anus"
     ], 
     "Head": [
       "Delirium alternating with colic", 
-      "TINNITUS", 
       "Hair very dry", 
-      "Pain as if a ball rose from throat to brain"
+      "Pain as if a ball rose from throat to brain", 
+      "Tinnitus"
     ], 
     "Face": [
       "Tremor of nasolabial muscles", 
       "Skin of face greasy, shiny", 
-      "PALE AND CACHETIC", 
+      "Pale and cachetic", 
       "Yellow, corpse-like; cheeks sunken"
     ], 
     "Male": [
-      "LOSS OF SEXUAL POWER", 
+      "Loss of sexual power", 
       "Testicles drawn up, feel constricted"
     ], 
     "Heart": [
@@ -76,7 +76,7 @@
       "Better: physical exertion"
     ], 
     "Urine": [
-      "CHRONIC INTERSTITIAL NEPHRITIS, with great pain in abdomen", 
+      "Chronic interstitial nephritis, with great pain in abdomen", 
       "Emission drop by drop", 
       "Tenesmus of bladder", 
       "Albuminous; low specific gravity", 
@@ -89,12 +89,12 @@
       "Paralysis of lower extremities"
     ], 
     "Female": [
-      "VAGINISMUS, with emaciation and constipation", 
+      "Vaginismus, with emaciation and constipation", 
       "Menorrhagia with sensation of string pulling from abdomen to back", 
       "Tendency to abortion", 
       "Vulva and vagina hypersensitive", 
       "Disposition to yawn and stretch", 
-      "INDURATION OF MAMMARY GLANDS", 
+      "Induration of mammary glands", 
       "Stitches and burning pains in breasts"
     ], 
     "Skin": [
@@ -109,20 +109,18 @@
       "Paralysis", 
       "Cannot raise or lift anything with the hand", 
       "Pain in atrophied limbs alternates with colic", 
-      "Pains in muscles of thighs; COME IN PAROXYSMS", 
+      "Pains in muscles of thighs; come in paroxysms", 
       "Paralysis from over exertion of the extensor muscles in piano players", 
       "Feet swollen", 
       "Extension is difficult", 
       "Stinging and tearing in limbs, also twitching and tingling, numbness, pain or tremor", 
-      "Pain in RIGHT BIG TOE at night, very sensitive to touch", 
+      "Pain in right big toe at night, very sensitive to touch", 
       "Hands and feet cold", 
       "Loss of patellar reflex", 
-      "WRIST-DROP"
+      "Wrist-drop"
     ]
   }, 
   "details": "Delirium, coma and convulsions. Hypertension and arteriosclerosis. PROGRESSIVE MUSCULAR ATROPHY. Infantile paralysis. Locomotor ataxia. Excessive and rapid emaciation. Bulbar paralysis. Important in peripheral affections. The points of attack for Plumbum are the neuraxons and the anterior horns. Symptoms of multiple sclerosis, posterior spinal sclerosis. Contractions and boring pain. All the symptoms of acute Nephritis with amaurosis and cerebral symptoms. GOUT. (Chronic).The great drug for general sclerotic conditions. Lead paralysis is chiefly of extensors, forearm or upper limb, from center to periphery with partial anesthesia or excessive hyperesthesia, preceded by pain. Localized neuralgic pains, neuritis. The blood, alimentary and nervous systems are the special seats of action of Plumbum. Haematosis is interfered with, rapid reduction in number of red corpuscles; hence pallor, icterus, anaemia. Constrictive sensation in internal organs.", 
-  "Natural History": [
-    "Lead"
-  ], 
+  "Natural History": "Lead", 
   "dosage": "Third to thirtieth potency."
 }

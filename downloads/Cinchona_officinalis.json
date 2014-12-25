@@ -4,13 +4,13 @@
   "symptoms": {
     "Stool": [
       "Difficult even when soft", 
-      "Undigested, frothy, yellow; PAINLESS; worse at night, after meals, during hot weather, from FRUIT, milk, beer", 
+      "Undigested, frothy, yellow; painless; worse at night, after meals, during hot weather, from fruit, milk, beer", 
       "Very weakening, with much flatulence"
     ], 
     "Head": [
-      "Intense THROBBING of head and carotids", 
+      "Intense throbbing of head and carotids", 
       "As if skull would burst", 
-      "Face flushed after Hemorrhages, or sexual excesses, or loss of vital fluids", 
+      "Face flushed after hemorrhages, or sexual excesses, or loss of vital fluids", 
       "Relieved from pressure and warm room", 
       "Aches worse in open air, from temple to temple", 
       "Worse by contact, current of air, stepping", 
@@ -30,21 +30,21 @@
     "Stomach": [
       "Bloatedness better by movement", 
       "Flat taste", 
-      "HICCOUGH", 
+      "Hiccough", 
       "Slow digestion", 
       "Milk disagrees", 
       "Tender, cold", 
       "Vomiting of undigested food", 
       "Hungry without appetite", 
-      "FLATULENCE; BELCHING of bitter fluid or regurgitation of food GIVES NO RELIEF; worse eating fruit", 
+      "Flatulence; belching of bitter fluid or regurgitation of food gives no relief; worse eating fruit", 
       "Darting pain crosswise in hypogastric region", 
       "Ill effects of tea", 
       "Weight after eating", 
       "Hungry longing for food, which lies undigested"
     ], 
     "Abdomen": [
-      "TYMPANITIC ABDOMEN", 
-      "GALLSTONE COLIC", 
+      "Tympanitic abdomen", 
+      "Gallstone colic", 
       "Internal coldness of stomach and abdomen", 
       "Liver and spleen swollen and enlarged", 
       "Much flatulent colic; better bending double", 
@@ -60,7 +60,7 @@
     ], 
     "Respiratory": [
       "Hemorrhage from lungs", 
-      "SUFFOCATIVE CATARRH; RATTLING IN CHEST; violent, hacking cough AFTER EVERY MEAL", 
+      "Suffocative catarrh; rattling in chest; violent, hacking cough after every meal", 
       "Cannot breathe with head low", 
       "Dyspnoea, sharp pain in left lung", 
       "Labored, slow respiration; constant choking", 
@@ -75,7 +75,7 @@
       "Yellowish sclerotica", 
       "Intermittent ciliary neuralgia", 
       "Blue color around eyes", 
-      "PRESSURE IN EYES", 
+      "Pressure in eyes", 
       "Black specks, bright dazzling illusions; night blindness in anaemic retina", 
       "Amaurosis; scalding lachrymation"
     ], 
@@ -86,8 +86,8 @@
     "Nose": [
       "Coryza, sneezing, watery discharge", 
       "Easily bleeding from nose, especially on rising", 
-      "Violent DRY sneezing", 
       "Cold sweat about nose", 
+      "Violent dry sneezing", 
       "Checked catarrh"
     ], 
     "Male": [
@@ -96,7 +96,7 @@
       "Excited lascivious fancy"
     ], 
     "Ears": [
-      "RINGING in ears", 
+      "Ringing in ears", 
       "External ear sensitive to touch", 
       "Lobules red and swollen", 
       "Hearing sensitive to noise"
@@ -106,7 +106,7 @@
       "Suffocative attacks, syncope; anaemia and dropsy"
     ], 
     "Modalities": [
-      "Worse: SLIGHTEST TOUCH", 
+      "Worse: slightest touch", 
       "Better: bending double; hard pressure; open air; warmth"
     ], 
     "Mind": [
@@ -128,7 +128,7 @@
       "Wakens early"
     ], 
     "Female": [
-      "DARK CLOTS AND ABDOMINAL DISTENTION", 
+      "Dark clots and abdominal distention", 
       "Bloody leucorrhoea", 
       "Profuse menses with pain", 
       "Seems to take the place of the usual menstrual discharge", 
@@ -137,25 +137,23 @@
       "Desire too strong"
     ], 
     "Skin": [
-      "DERMATITIS; erysipelas", 
+      "Dermatitis; erysipelas", 
       "One hand ice cold, the other warm", 
       "Indurated glands; scrofulous ulcers and caries", 
-      "COLDNESS; much sweat", 
+      "Coldness; much sweat", 
       "Anasarca", 
-      "EXTREME SENSITIVENESS TO TOUCH, but hard pressure RELIEVES"
+      "Extreme sensitiveness to touch, but hard pressure relieves"
     ], 
     "Extremities": [
       "Great debility trembling, with numb sensation", 
       "Averse to exercise; sensitive to touch", 
       "Sensation as of a string around limb", 
       "Weariness of joints; worse, mornings and when sitting", 
-      "PAINS IN LIMBS AND JOINTS, as if sprained; WORSE, SLIGHT TOUCH; hard pressure relieves", 
+      "Pains in limbs and joints, as if sprained; worse, slight touch; hard pressure relieves", 
       "Joints swollen; very sensitive, with dread or open air"
     ]
   }, 
   "details": "DEBILITY from exhausting discharges, from loss of vital fluids, together with a NERVOUS ERETHISM, calls for this remedy. Periodicity is most marked. Sensitive to drafts. Seldom indicated in the earlier stages of acute disease. Chronic gout. Chronic suppurative pyelitis. Post operative gas pains, no relief from passing it.", 
-  "Natural History": [
-    "Peruvian Bark - China"
-  ], 
+  "Natural History": "Peruvian Bark - China", 
   "dosage": "Tincture, to thirtieth potency."
 }

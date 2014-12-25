@@ -7,9 +7,9 @@
     ], 
     "Head": [
       "Cramp-like pain over root of nose", 
-      "Congestive headaches following anger or grief; WORSE, SMOKING OR SMELLING TOBACCO, inclines head forward", 
       "Headache as if a nail were driven out through the side", 
-      "Feels hollow, heavy; WORSE, STOOPING"
+      "Congestive headaches following anger or grief; worse, smoking or smelling tobacco, inclines head forward", 
+      "Feels hollow, heavy; worse, stooping"
     ], 
     "Fever": [
       "Chill, with thirst; not relieved by external heat", 
@@ -18,8 +18,8 @@
     "Stomach": [
       "Craving for acid things", 
       "Averse to ordinary diet; longs for great variety of indigestible articles", 
-      "SINKING IN STOMACH, RELIEVED BY TAKING A DEEP BREATH", 
-      "All-gone feeling in stomach; MUCH FLATULENCE; hiccough", 
+      "Sinking in stomach, relieved by taking a deep breath", 
+      "All-gone feeling in stomach; much flatulence; hiccough", 
       "Sour eructation", 
       "Cramps in stomach; worse slightest contact"
     ], 
@@ -30,7 +30,7 @@
       "Colicky, griping pains in one or both sides of abdomen"
     ], 
     "Mouth": [
-      "SOUR TASTE", 
+      "Sour taste", 
       "Easily bites inside of cheeks", 
       "Toothache; worse after drinking coffee and smoking", 
       "Constantly full of saliva"
@@ -40,31 +40,31 @@
       "Hemorrhage and pain; worse when stool is loose", 
       "Stitches in hemorrhoids during cough", 
       "Itching and stitching up the rectum", 
-      "Stools pass with difficulty; PAINFUL CONSTRICTION OF ANUS AFTER STOOL", 
-      "PROLAPSE", 
+      "Stools pass with difficulty; painful constriction of anus after stool", 
+      "Prolapse", 
       "Diarrhoea from fright", 
-      "PRESSURE AS OF A SHARP INSTRUMENT FROM WITHIN OUTWARD"
+      "Pressure as of a sharp instrument from within outward"
     ], 
     "Respiratory": [
       "Dry, spasmodic cough in quick successive shocks", 
       "Hollow spasmodic cough, worse in the evening, little expectoration, leaving pain in trachea", 
-      "MUCH SIGHING", 
+      "Much sighing", 
       "Coughing increases the desire to cough", 
-      "Spasm of glottis  Reflex coughs"
+      "Spasm of glottis  reflex coughs"
     ], 
     "Eyes": [
-      "ASTHENOPIA, with spasms of lids and neuralgic pain about eyes", 
+      "Asthenopia, with spasms of lids and neuralgic pain about eyes", 
       "Flickering zigzags"
     ], 
     "Face": [
-      "TWITCHING OF MUSCLES of face and lips", 
+      "Twitching of muscles of face and lips", 
       "Changes color when at rest"
     ], 
     "Modalities": [
       "Worse: in the morning", 
       "Worse: open air", 
       "Worse: after meals", 
-      "Worse: COFFEE", 
+      "Worse: coffee", 
       "Worse: smoking", 
       "Worse: liquids", 
       "Worse: external warmth", 
@@ -76,7 +76,7 @@
       "Changeable mood; introspective; silently brooding", 
       "Not communicative", 
       "Melancholic, sad, tearful", 
-      "SIGHING AND SOBBING"
+      "Sighing and sobbing"
     ], 
     "Sleep": [
       "Very light", 
@@ -86,7 +86,7 @@
     ], 
     "Female": [
       "Suppression from grief", 
-      "Menses, BLACK, too early, too profuse, or scanty", 
+      "Menses, black, too early, too profuse, or scanty", 
       "Feminine sexual frigidity", 
       "During menses great languor, with spasmodic pains in stomach and abdomen"
     ], 
@@ -97,23 +97,20 @@
     ], 
     "Throat": [
       "Sore throat; stitches when not swallowing; better, eating something solid", 
-      "FOLLICULAR TONSILLITIS", 
+      "Follicular tonsillitis", 
       "Stitches extend to ear", 
       "Stitches between acts of swallowing", 
       "Feeling of a lump in throat that cannot be swallowed", 
-      "Tonsils inflamed, swollen, WITH SMALL ULCERS", 
+      "Tonsils inflamed, swollen, with small ulcers", 
       "Tendency to choke, globus hystericus"
     ], 
     "Extremities": [
       "Ulcerative pain in soles", 
       "Jerking of limbs", 
-      "Pain in tendo-Achilles and calf"
+      "Pain in tendo-achilles and calf"
     ]
   }, 
   "details": "Produces a marked hyperaesthenia of all the senses, and a tendency to clonic spasms. Mentally, THE EMOTIONAL ELEMENT IS UPPERMOST, AND CO-ORDINATION OF FUNCTION IS INTERFERED WITH. Hence, it is one of the chief remedies for hysteria. It is especially adapted to the nervous temperament - women of sensitive, easily excited nature, dark, mild disposition, quick to perceive, rapid in execution. Rapid change of mental and physical condition, opposite to each other. Great contradictions. Alert, nervous, apprehensive, rigid, trembling patients who suffer acutely in mind or body, at the same time made worse by drinking coffee. The SUPERFICIAL AND ERRATIC CHARACTER of its symptoms is most characteristic. EFFECTS OF GRIEF and worry. Cannot bear tobacco. Pain is small, circumscribed spots. (OXAL-AC.) THE PLAGUE. Hiccough and hysterical vomiting.", 
-  "Natural History": [
-    "Ignatius Bean", 
-    "St"
-  ], 
+  "Natural History": "St. Ignatius Bean", 
   "dosage": "Sixth to 200th potency."
 }

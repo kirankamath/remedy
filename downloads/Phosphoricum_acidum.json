@@ -5,41 +5,41 @@
     "Urine": [
       "Phosphaturia", 
       "Micturition, preceded by anxiety and followed by burning", 
-      "FREQUENT URINATION AT NIGHT", 
-      "Frequent, profuse, water, MILKY", 
-      "DIABETES"
+      "Frequent urination at night", 
+      "Frequent, profuse, water, milky", 
+      "Diabetes"
     ], 
     "Stool": [
       "Diarrhoea in weakly, delicate rachitic children", 
-      "Diarrhoea, WHITE, watery, involuntary, PAINLESS, with much flatus; not specially exhausting"
+      "Diarrhoea, white, watery, involuntary, painless, with much flatus; not specially exhausting"
     ], 
     "Head": [
-      "PRESSURE ON TOP", 
-      "Worse, SHAKING OR NOISE", 
+      "Pressure on top", 
+      "Worse, shaking or noise", 
       "Hair gray early in life; falls out", 
-      "CRUSHING HEADACHE", 
+      "Crushing headache", 
       "Hair thins out, turns gray early", 
       "Dull headache after coition; from eye-strain", 
       "Pain as if temples were crushed together", 
-      "VERTIGO TOWARD EVENING, WHEN STANDING OR WALKING", 
-      "Heavy; CONFUSED"
+      "Vertigo toward evening, when standing or walking", 
+      "Heavy; confused"
     ], 
     "Fever": [
       "Low types of fever, with dull comprehension and stupor", 
       "Chilliness", 
-      "PROFUSE SWEAT during night and morning"
+      "Profuse sweat during night and morning"
     ], 
     "Stomach": [
-      "THIRST FOR COLD MILK", 
+      "Thirst for cold milk", 
       "Pressure as from a weight, with sleepiness after eating", 
       "Sour risings", 
       "Craves juicy things", 
-      "SYMPTOMS FOLLOWING SOUR FOOD AND DRINK", 
+      "Symptoms following sour food and drink", 
       "Nausea"
     ], 
     "Abdomen": [
       "Enlarged spleen", 
-      "ACHING IN UMBILICAL REGION", 
+      "Aching in umbilical region", 
       "Distention and fermentation in bowels", 
       "Loud rumbling"
     ], 
@@ -51,8 +51,8 @@
       "Lips dry, cracked"
     ], 
     "Respiratory": [
-      "PRESSURE BEHIND THE STERNUM, rendering breathing difficult", 
-      "WEAK FEELING IN CHEST FROM TALKING", 
+      "Pressure behind the sternum, rendering breathing difficult", 
+      "Weak feeling in chest from talking", 
       "Dry cough from tickling in chest", 
       "Hoarseness", 
       "Salty expectoration", 
@@ -61,11 +61,11 @@
     ], 
     "Eyes": [
       "Lids inflamed and cold", 
-      "PAIN AS IF EYEBALLS WERE FORCIBLY PRESSED TOGETHER AND INTO HEAD", 
+      "Pain as if eyeballs were forcibly pressed together and into head", 
       "Averse to sunlight; sees colors as if a rainbow", 
       "Glassy appearance", 
       "Optic nerves seem torpid", 
-      "BLUE RINGS AROUND", 
+      "Blue rings around", 
       "Feel too large", 
       "Pupils dilated", 
       "Amblyopia in masturbators"
@@ -76,7 +76,7 @@
     ], 
     "Nose": [
       "Bleeding", 
-      "ITCHING", 
+      "Itching", 
       "Bores fingers into nose"
     ], 
     "Male": [
@@ -105,7 +105,7 @@
     ], 
     "Mind": [
       "Delirium, with great stupefaction", 
-      "APATHETIC, INDIFFERENT", 
+      "Apathetic, indifferent", 
       "Cannot collect his thoughts or find the right word", 
       "Settled despair", 
       "Effects of grief and mental shock", 
@@ -118,7 +118,7 @@
       "Boring pain between scapulae"
     ], 
     "Sleep": [
-      "SOMNOLENCY", 
+      "Somnolency", 
       "Lascivious dreams with emissions"
     ], 
     "Female": [
@@ -127,7 +127,7 @@
       "Milk scanty; health deteriorated from nursing"
     ], 
     "Skin": [
-      "FALLING OUT OF THE HAIR", 
+      "Falling out of the hair", 
       "Tendency to abscess after fevers", 
       "Formication in various parts", 
       "Burning red rash", 
@@ -139,14 +139,12 @@
       "Weak", 
       "Cramps in upper arms and wrists", 
       "Tearing pains in joints, bones, and periosteum", 
-      "GREAT DEBILITY", 
-      "Pains at night, AS IF BONES WERE SCRAPED", 
+      "Great debility", 
+      "Pains at night, as if bones were scraped", 
       "Stumbles easily and makes missteps"
     ]
   }, 
   "details": "The common acid debility is very marked in this remedy, producing a nervous exhaustion. MENTAL DEBILITY first; later physical. A congenial soil for the action of Phos. acid is found in young people who grow rapidly, and who are overtaxed, mentally or physically. Whenever the system has been exposed to the ravages of acute disease, excesses, grief, loss of vital fluids, we obtain conditions calling for it. Pyrosis, flatulence, diarrhoea, diabetes, rhachitis and periosteal inflammation. Neurosis in stump, after amputation. Hemorrhages in typhoid. Useful in relieving pain of cancer.", 
-  "Natural History": [
-    "Phosphoric Acid"
-  ], 
+  "Natural History": "Phosphoric Acid", 
   "dosage": "First potency."
 }

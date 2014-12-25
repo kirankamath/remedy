@@ -6,29 +6,29 @@
       "Sensation on stooping, as if eye would fall out", 
       "Gouty affections of eyes", 
       "Violent pain in eyeballs which precede the development of glaucoma", 
-      "Pains sharp, boring, BETTER PRESSURE"
+      "Pains sharp, boring, better pressure"
     ], 
     "Stomach": [
       "Canine hunger", 
       "Tongue rough, as from sand, and feels scalded", 
-      "Very BITTER taste", 
+      "Very bitter taste", 
       "Feeling in stomach as if something would not yield; drawing pain"
     ], 
     "Head": [
       "Frontal headache; worse, stooping, lying on back, and moving eyelids", 
       "Lateral cutting headache, with nausea, vomiting", 
-      "Pains , with soreness of SCALP", 
+      "Pains , with soreness of scalp", 
       "Burning pains, digging, rending, and tearing", 
-      "Vertigo when turning head TO THE LEFT"
+      "Vertigo when turning head to the left"
     ], 
     "Urine": [
-      "VISCID", 
+      "Viscid", 
       "Tenesmus of bladder", 
       "Intense burning along urethra during stool", 
       "Red, hard crystals, adhering firmly to vessel", 
       "Vesical catarrh, discharge like fresh white of egg", 
       "Itching at orifice", 
-      "Pains on urinating OVER WHOLE ABDOMEN", 
+      "Pains on urinating over whole abdomen", 
       "Fetid; small quantities, with frequent urging"
     ], 
     "Modalities": [
@@ -46,47 +46,45 @@
     ], 
     "Abdomen": [
       "Cutting in abdomen, especially after anger", 
-      "Agonizing cutting pain in abdomen CAUSING PATIENT TO BEND OVER DOUBLE, and pressing on the abdomen", 
+      "Agonizing cutting pain in abdomen causing patient to bend over double, and pressing on the abdomen", 
       "Intestines feel as if bruised", 
       "Sensation as if stones were being ground together in the abdomen, and would burst", 
+      "Distention", 
       "Musty odor", 
       "Pain in small spot below navel", 
-      "DYSENTERIC STOOL RENEWED EACH TIME BY THE LEAST FOOD OR DRINK", 
-      "JELLY-LIKE stools", 
-      "Distention", 
+      "Dysenteric stool renewed each time by the least food or drink", 
+      "Jelly-like stools", 
       "Colic with cramps in calves", 
       "Each paroxysm is attended with general agitation and a chill over the cheeks, ascending from the hypogastrium"
     ], 
     "Female": [
-      "MUST DRAW UP DOUBLE, WITH GREAT RESTLESSNESS", 
+      "Must draw up double, with great restlessness", 
       "Round, small cystic tumors in ovaries or broad ligaments", 
       "Bearing-down cramps, causing her to bend double", 
-      "BORING PAIN IN OVARY", 
+      "Boring pain in ovary", 
       "Wants abdomen supported by pressure"
     ], 
     "Extremities": [
       "Pain in right deltoid", 
       "Contraction of the muscles", 
-      "CRAMP-LIKE PAIN IN HIP; lies on affected side; pain from hip to knee", 
+      "Cramp-like pain in hip; lies on affected side; pain from hip to knee", 
       "Pain down right thigh; muscles and tendons feel too short; numbness with pains", 
-      "Sciatic pain, left side, drawing, tearing; better, PRESSURE AND HEAT; worse, gentle touch", 
+      "Sciatic pain, left side, drawing, tearing; better, pressure and heat; worse, gentle touch", 
       "Pain in left knee joint", 
       "Spontaneous luxation of the hip-joints", 
       "Stiffness of joints and shortening of tendons", 
-      "CONTRACTION OF MUSCLES", 
+      "Contraction of muscles", 
       "All the limbs are drawn together"
     ], 
     "Face": [
       "Tearing, shooting, and swelling of face; left side great soreness", 
       "Get relief from pressure", 
       "Pain in stomach, always with pain of teeth or head", 
-      "Neuralgia, WITH CHILLINESS; teeth seem too long", 
-      "SOUNDS RE-ECHO IN EARS"
+      "Neuralgia, with chilliness; teeth seem too long", 
+      "Sounds re-echo in ears"
     ]
   }, 
   "details": "Often indicated in the transition season when the air is cold, but the sun is still powerful enough to heat the blood. Develops most of its symptoms in the abdomen and head, causing intense neuralgias. It is especially suitable for irritable persons easily angered, and ill effects therefrom. Women with copious menstruation, and of sedentary habits. Persons with a tendency to corpulency. The neuralgic pains are nearly always relieved by pressure. Cramps and twitching and shortening of muscles. Constrictions and contractions. Cystospasm following operations on orifices. (HYPER.) Urinous odor or perspiration (BERB.; NIT-AC.) AGONIZING PAIN IN ABDOMEN, causing patient to bend double, is most characteristic. Sensations: Cutting, twisting, grinding, contracting and bruised; AS IF CLAMPED WITH IRON BANDS.", 
-  "Natural History": [
-    "Bitter Cucumber"
-  ], 
+  "Natural History": "Bitter Cucumber", 
   "dosage": "Sixth to thirtieth potency."
 }

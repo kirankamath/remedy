@@ -16,41 +16,41 @@
       "Chill begins in forearm"
     ], 
     "Stomach": [
-      "Aversion to milk, meat, and FAT THINGS", 
+      "Aversion to milk, meat, and fat things", 
       "Burning in stomach, extending to back and along spine", 
       "Distress comes on a half-hour after eating", 
       "Epigastric region very sensitive", 
       "Eructations after eating and drinking", 
+      "The simplest food distresses", 
       "Crampy pains forcing patient to bend double", 
       "Nausea in the morning", 
-      "THE SIMPLEST FOOD DISTRESSES", 
       "Gastralgia of nursing women, with excessive flatulence", 
       "Rancid, sour, or putrid eructations", 
       "Temporary relief from belching", 
       "Sensitiveness of epigastric region", 
       "Sour, rancid belching", 
-      "ERUCTATIONS, HEAVINESS, FULLNESS, AND SLEEPINESS; tense from flatulence, with pain; worse lying down", 
-      "DIGESTION SLOW; FOOD PUTREFIES before it digests", 
+      "Eructations, heaviness, fullness, and sleepiness; tense from flatulence, with pain; worse lying down", 
+      "Digestion slow; food putrefies before it digests", 
       "Water brash, asthmatic breathing from flatulence", 
       "Faint gone feeling in stomach, not relieved by eating", 
-      "CONTRACTIVE PAIN EXTENDING TO CHEST, WITH DISTENTION OF ABDOMEN"
+      "Contractive pain extending to chest, with distention of abdomen"
     ], 
     "Abdomen": [
       "Painful diarrhoea of old people", 
-      "ABDOMEN GREATLY DISTENDED; better, passing wind", 
+      "Abdomen greatly distended; better, passing wind", 
       "Pain as from lifting a weight; colic from riding in a carriage; excessive discharge of fetid flatus", 
-      "ACRID, CORROSIVE MOISTURE FROM RECTUM", 
+      "Acrid, corrosive moisture from rectum", 
       "Frequent, involuntary cadaverous-smelling stools, followed by burning", 
       "Flatus hot, moist, offensive", 
       "Cannot bear tight clothing around waist and abdomen", 
       "Ailments accompanying intestinal fistulae", 
       "Discharge of blood from rectum", 
-      "FLATULENT COLIC", 
-      "BLUISH, burning piles, PAIN after stool", 
+      "Flatulent colic", 
+      "Bluish, burning piles, pain after stool", 
       "Soreness, itching, moisture of perineum at night", 
       "Itching, gnawing and burning in rectum", 
       "A musty, glutinous moisture exudes", 
-      "Stool and Rectum", 
+      "Stool and rectum", 
       "Pain in liver", 
       "Burning at anus, burning varices", 
       "White hemorrhoids; excoriation of anus"
@@ -59,27 +59,27 @@
       "Pyorrhoea", 
       "Blood oozing from gums when cleaning teeth", 
       "Teeth very sensitive where chewing; gums retracted and bleed easily", 
-      "Tongue coated white or yellow brown, COVERED WITH APHTHAE"
+      "Tongue coated white or yellow brown, covered with aphthae"
     ], 
     "Respiratory": [
       "Hemorrhage from lungs", 
       "Spasmodic cough, bluish face, offensive expectoration, neglected pneumonia", 
       "Cough with itching in larynx; spasmodic with gagging and vomiting of mucus", 
       "Deep, rough voice, falling on slight exertion", 
-      "Breath cold; MUST BE FANNED", 
+      "Breath cold; must be fanned", 
       "Occasional spells of long coughing attacks", 
       "Whooping cough, especially in beginning", 
       "Wheezing and rattling of mucus in chest", 
-      "ASTHMA IN AGED WITH BLUE SKIN", 
-      "COUGH, WITH BURNING IN CHEST; worse in evening, in open air, after eating and talking", 
-      "HOARSENESS; WORSE, EVENINGS, talking; evening oppression of breathing, sore and raw chest"
+      "Asthma in aged with blue skin", 
+      "Cough, with burning in chest; worse in evening, in open air, after eating and talking", 
+      "Hoarseness; worse, evenings, talking; evening oppression of breathing, sore and raw chest"
     ], 
     "Head": [
       "Vertigo with nausea and tinnitus", 
       "Head feels heavy, constricted", 
       "Pimples on forehead and face", 
-      "Hair feels sore, FALLS OFF EASILY; scalp itches when getting warm in bed", 
-      "ACHES FROM ANY OVER-INDULGENCE", 
+      "Hair feels sore, falls off easily; scalp itches when getting warm in bed", 
+      "Aches from any over-indulgence", 
       "Hat pressed upon head like a heavy weight"
     ], 
     "Face": [
@@ -92,7 +92,7 @@
       "Eruption in corner of alae nasi", 
       "Bleeding after straining, with pale face; tip of nose red and scabby, itching around nostrils", 
       "Varicose veins on nose", 
-      "EPISTAXIS IN DAILY ATTACKS, WITH PALE FACE", 
+      "Epistaxis in daily attacks, with pale face", 
       "Ineffectual efforts to sneeze"
     ], 
     "Male": [
@@ -109,9 +109,9 @@
       "Worse: butter", 
       "Worse: coffee", 
       "Worse: milk", 
-      "Worse: warm damp weather; WINE", 
+      "Worse: warm damp weather; wine", 
       "Better: from eructation", 
-      "Better: FROM FANNING", 
+      "Better: from fanning", 
       "Better: cold"
     ], 
     "Mind": [
@@ -126,11 +126,11 @@
       "During menstruation, burning in hands and soles"
     ], 
     "Skin": [
-      "Moist skin; HOT PERSPIRATION; senile gangrene beginning in toes; bed sores; bleed easily", 
-      "VARICOSE ULCERS, carbuncles", 
+      "Moist skin; hot perspiration; senile gangrene beginning in toes; bed sores; bleed easily", 
+      "Varicose ulcers, carbuncles", 
       "Itching; worse on evening, when warm in bed", 
       "Indolent ulcers, burning pain", 
-      "BLUE, COLD ECCHYMOSED", 
+      "Blue, cold ecchymosed", 
       "Falling out of hair, from a general weakened condition", 
       "Purpura", 
       "Marbled with venous over distension", 
@@ -138,16 +138,14 @@
     ], 
     "Extremities": [
       "Burning pain in bones and limbs", 
-      "Heavy, stiff; feel paralyzed; LIMBS, GO TO SLEEP; want of muscular energy; joints weak", 
+      "Heavy, stiff; feel paralyzed; limbs, go to sleep; want of muscular energy; joints weak", 
       "Cramp in soles; feet numb and sweaty", 
       "Toes red, swollen", 
       "Pain in shins", 
-      "COLD FROM KNEES DOWN"
+      "Cold from knees down"
     ]
   }, 
   "details": "Disintegration and IMPERFECT OXIDATION is the keynote of this remedy. The typical Carbo patient is sluggish, fat and lazy and has a tendency to chronicity in his complaints. Blood seems to stagnate in the capillaries, causing blueness, coldness, and ecchymosis. Body becomes blue, icy-cold. Bacteria find a rich soil in the nearly lifeless blood stream and sepsis and typhoidal state ensues. A lowered vital power from loss of fluids, after drugging; after other diseases; in old people with venous congestions; states of collapse in cholera, typhoid; these are some of the conditions offering special inducements to the action of Carbo veg. The patient may be almost lifeless, but the head is hot; coldness, breath cool, pulse imperceptible, oppressed and quickened respiration, and must have air, must be fanned hard, must have all the windows open. This is a typical state for Carbo veg. The patient faints easily, is worn out, and must have fresh air. Hemorrhage from any mucous surface. Very debilitated. Patient seems to be too weak to hold out. PERSONS WHO HAVE NEVER FULLY RECOVERED FROM THE EFFECTS OF SOME PREVIOUS ILLNESS. Sense of weight, as in the head (occiput), eyes and eyelids, before the ears, in the stomach, and elsewhere in the body; putrid (septic) condition of all its affections, coupled with a burning sensation. General venous stasis, bluish skin, limbs cold.", 
-  "Natural History": [
-    "Vegetable Charcoal"
-  ], 
+  "Natural History": "Vegetable Charcoal", 
   "dosage": "First to third trituration in stomach disorders. Thirtieth potency and higher in chronic conditions, and in collapse."
 }

@@ -10,8 +10,8 @@
     ], 
     "Respiratory": [
       "Short, irregular breathing at night, while lying", 
-      "GREAT OPPRESSION", 
-      "SHORTNESS OF BREATH ON EXPOSURE TO FRESH AIR"
+      "Great oppression", 
+      "Shortness of breath on exposure to fresh air"
     ], 
     "Stomach": [
       "Cramp-like pains in stomach and epigastrium, with difficult breathing; sense of suffocation", 
@@ -28,18 +28,16 @@
     ], 
     "Extremities": [
       "Tearing pains in loins", 
-      "SWELLING IN JOINTS FROM SLIGHT FATIGUE", 
+      "Swelling in joints from slight fatigue", 
       "Pain in knee", 
       "Paralytic weakness in the hands", 
-      "WRIST SWOLLEN, red, worse any motion", 
+      "Wrist swollen, red, worse any motion", 
       "Lame feeling in arms", 
       "Sudden lassitude after talking or eating", 
-      "RHEUMATIC PAINS IN SMALL JOINTS, WRIST,  fingers, ankles, toes"
+      "Rheumatic pains in small joints, wrist,  fingers, ankles, toes"
     ]
   }, 
   "details": "Is a rheumatic remedy, especially of the SMALL JOINTS; tearing, tingling pains characterize it. WRIST-RHEUMATISM. Pulsations over whole body, especially liver and renal region. Cardiovascular spasm. Pains worse from touch and motion.", 
-  "Natural History": [
-    "Bane berry"
-  ], 
+  "Natural History": "Bane berry", 
   "dosage": "Third potency."
 }

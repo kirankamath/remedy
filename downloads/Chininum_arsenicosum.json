@@ -20,9 +20,9 @@
     "Stomach": [
       "Thirst for water, yet it disturbs", 
       "Hyperchlorhydria", 
-      "EGGS PRODUCE DIARRHOEA", 
+      "Eggs produce diarrhoea", 
       "Alternation of hyperacidity and decrease of acid", 
-      "ANOREXIA"
+      "Anorexia"
     ], 
     "Head": [
       "Vertigo; worse looking up", 
@@ -44,13 +44,11 @@
     ], 
     "Extremities": [
       "Tearing pains", 
-      "COLDNESS OF HANDS AND FEET, KNEES AND LIMBS", 
+      "Coldness of hands and feet, knees and limbs", 
       "Weak limbs"
     ]
   }, 
   "details": "The symptoms of general WEARINESS AND PROSTRATION produced by the drug have been utilized in prescribing it homeopathically as a general tonic, often with very marked beneficial and prompt effect. In diphtheria with great prostration, cases that are prolonged, especially, and in malarial affections, neuralgia, etc., it has been found curative. Asthmatic attacks which recur periodically, with great prostration. Icy skin. Pressure in the solar plexus, with tender spine back of it.", 
-  "Natural History": [
-    "Arsenite of Quinine"
-  ], 
+  "Natural History": "Arsenite of Quinine", 
   "dosage": "Second and third trituration."
 }

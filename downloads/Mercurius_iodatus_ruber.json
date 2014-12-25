@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Bin-iodide of Mercury"
-  ], 
+  "Natural History": "Bin-iodide of Mercury", 
   "details": "Diphtheria and ulcerated sore throats, especially on left side, with much glandular swelling. Chronic suppurating buboes. Hard chancres. Old cases of syphilis in scrofulous patients. Early stages of cold, especially in children.", 
   "symptoms": {
     "Mouth": [
@@ -14,11 +12,11 @@
     "Nose": [
       "Coryza and dull hearing; right side of nose hot", 
       "Hawks mucus from posterior nares", 
-      "Boggy mucous membrane of nose and throat; closure of Eustachian tube, opening with a pop", 
+      "Boggy mucous membrane of nose and throat; closure of eustachian tube, opening with a pop", 
       "Turbinated bones swollen"
     ], 
     "Skin": [
-      "Small fissures and cracks; hard papules; HUNTERIAN CHANCRE; syphilitic ulcers", 
+      "Small fissures and cracks; hard papules; hunterian chancre; syphilitic ulcers", 
       "Bubo", 
       "Sarcocele"
     ], 
@@ -27,10 +25,10 @@
       "Cough from elongated uvula, with sore throat", 
       "Laryngeal troubles with aphonia", 
       "Will often abort peritonsillitis if given frequently", 
-      "FAUCES DARK RED; swallowing painful", 
-      "STIFFNESS OF MUSCLES OF THROAT AND NECK", 
+      "Fauces dark red; swallowing painful", 
+      "Stiffness of muscles of throat and neck", 
       "Disposition to hawk, with sensation of a lump in throat", 
-      "Diphtheria; submaxillary glands painfully engorged, fauces dark red; WORSE ON LEFT TONSIL", 
+      "Diphtheria; submaxillary glands painfully engorged, fauces dark red; worse on left tonsil", 
       "Phlegm in nose and throat"
     ]
   }, 

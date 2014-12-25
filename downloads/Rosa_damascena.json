@@ -3,13 +3,11 @@
   "Relationship": "Compare: in hay fever: PHLEUM PRATENSE - Timothy grass - (Hay-fever with asthma; watery coryza, itching of nose and eyes; frequent sneezing, dyspnoea. Use 6-30 potency. Rabe.) SUCCIN. ACID; SABAD.; EUPH.; PSOR.; KALI-HYD.; NAPHT.", 
   "symptoms": {
     "Ears": [
-      "EUSTACHIAN CATARRH", 
+      "Eustachian catarrh", 
       "Hardness of hearing; tinnitus"
     ]
   }, 
   "details": "Useful in the beginning of hay-fever, with involvement of Eustachian tube.", 
-  "Natural History": [
-    "Damask Rose"
-  ], 
+  "Natural History": "Damask Rose", 
   "dosage": "Lower potencies."
 }

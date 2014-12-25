@@ -5,30 +5,28 @@
     "Fever": [
       "Night-sweats", 
       "Constantly chilly towards evening", 
-      "HECTIC FEVER"
+      "Hectic fever"
     ], 
     "Chest": [
-      "YELLOWNESS", 
+      "Yellowness", 
       "Whooping cough in miserable, scrofulous children", 
-      "SORENESS THROUGH CHEST", 
-      "PALPITATION, accompanies other symptoms", 
+      "Soreness through chest", 
+      "Palpitation, accompanies other symptoms", 
       "Hemoptysis", 
       "Hoarseness", 
       "Children who cannot take milk", 
-      "DRY, HACKING, TICKLING COUGH, especially at night", 
       "Here give drop doses, increasing daily one drop up to twelve, then descend in the same way", 
+      "Dry, hacking, tickling cough, especially at night", 
       "Sharp stitching pains", 
       "Burning spots"
     ], 
     "Extremities": [
-      "BURNING IN PALMS", 
+      "Burning in palms", 
       "Chronic rheumatism, with rigid muscles and tendons", 
-      "Aching in elbows and knees, in SACRUM"
+      "Aching in elbows and knees, in sacrum"
     ]
   }, 
   "details": "Internally, a nutrient and a hepatic and pancreatic remedy. (Burnett.) Emaciation, lassitude, scrofulous diseases, rheumatic affections. ATROPHY OF INFANTS; emaciation with hot handle and head; restless and feverish at night. PAINS IN LIVER REGION. Tuberculosis in the beginning.", 
-  "Natural History": [
-    "Cod-liver Oil"
-  ], 
+  "Natural History": "Cod-liver Oil", 
   "dosage": "First to third trituration. Locally"
 }

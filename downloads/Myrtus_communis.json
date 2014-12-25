@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Myrtle"
-  ], 
+  "Natural History": "Myrtle", 
   "symptoms": {
     "Chest": [
       "Worse in the morning", 
       "Dry, hollow cough, with tickling in chest", 
-      "Stitching pain IN LEFT BREAST, RUNNING THROUGH TO SHOULDER-BLADE", 
+      "Stitching pain in left breast, running through to shoulder-blade", 
       "Sensation of burning in left chest"
     ]
   }, 

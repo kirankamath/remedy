@@ -5,20 +5,20 @@
     "Chest": [
       "Heart's action full and heavy, can feel pulsations all over", 
       "Feels constricted", 
-      "Laryngitis; coughs DEPENDING ON HEPATIC DISORDERS; hot feeling in chest; pain around heart in hemorrhoidal subjects"
+      "Laryngitis; coughs depending on hepatic disorders; hot feeling in chest; pain around heart in hemorrhoidal subjects"
     ], 
     "Head": [
       "Neuralgic stitches from right to left through forehead, followed by flying pains in epigastrium", 
       "Pain from occiput to frontal region, with bruised sensation of the scalp; worse in the morning", 
       "Vertigo when sitting and walking", 
       "Pressure in forehead, with nausea, followed by stitches in right hypochondrium", 
-      "Depressed and IRRITABLE", 
+      "Depressed and irritable", 
       "Head dull, confused, aching as from a cold"
     ], 
     "Fever": [
       "Sweat profuse and hot with the fever", 
-      "Fever 7 to twelve PM Evening fever, skin hot and dry", 
-      "Chill at four PM Chilliness up and down back"
+      "Fever 7 to twelve pm evening fever, skin hot and dry", 
+      "Chill at four pm chilliness up and down back"
     ], 
     "Stomach": [
       "Weight of a stone, with gnawing, aching pain; most manifest about three hours after meals", 
@@ -36,33 +36,33 @@
       "Scalded feeling"
     ], 
     "Rectum": [
-      "HEMORRHOIDS; with sharp shooting pains up the back; blind and bleeding; worse during climacteric", 
+      "Hemorrhoids; with sharp shooting pains up the back; blind and bleeding; worse during climacteric", 
       "Irritation caused by ascarides and aids their expulsion", 
       "Large, hard, dry stools", 
       "Mucous membrane seems swollen and obstructs the passage", 
       "Anus raw, sore", 
       "Dry, aching", 
-      "BURNING IN ANUS WITH CHILLS UP AND DOWN THE BACK", 
-      "FEELS FULL OF SMALL STICKS", 
+      "Burning in anus with chills up and down the back", 
+      "Feels full of small sticks", 
       "Much pain after stool, with prolapse"
     ], 
     "Eyes": [
       "Eyeballs sore", 
-      "Heavy and hot, with lachrymation, WITH ENLARGED BLOOD VESSELS"
+      "Heavy and hot, with lachrymation, with enlarged blood vessels"
     ], 
     "Throat": [
       "Hawking of ropy mucus of sweetish taste", 
-      "Hot, DRY, raw, stitching pain into ears when swallowing", 
+      "Hot, dry, raw, stitching pain into ears when swallowing", 
       "Follicular pharyngitis connected with hepatic congestion", 
-      "VEINS IN PHARYNX DISTENDED and tortuous", 
+      "Veins in pharynx distended and tortuous", 
       "Early stages of atrophic pharyngitis in dried-up, bilious subjects", 
       "Throat sensitive to inspired air; feels excoriated and constricted, burns like fire on swallowing, in afternoon"
     ], 
     "Nose": [
       "Pressure at root of nose", 
-      "Dry; inspired air feels cold, NASAL PASSAGES SENSITIVE TO IT", 
+      "Dry; inspired air feels cold, nasal passages sensitive to it", 
       "Membrane over turbinate bones distended and boggy, dependent upon hepatic disorders", 
-      "CORYZA, sneezing"
+      "Coryza, sneezing"
     ], 
     "Male": [
       "Discharge of prostatic fluid at stool"
@@ -70,7 +70,7 @@
     "Modalities": [
       "Worse: in morning on awaking", 
       "Worse: and from any motion", 
-      "Worse: WALKING; from moving bowels; after eating", 
+      "Worse: walking; from moving bowels; after eating", 
       "Worse: afternoon", 
       "Worse: standing", 
       "Better: cool open air"
@@ -81,22 +81,20 @@
     ], 
     "Back": [
       "Hands and feet swell, and become red after washing, feel full", 
-      "BACKACHE AFFECTING SACRUM AND HIPS; WORSE WALKING OR STOOPING", 
+      "Backache affecting sacrum and hips; worse walking or stooping", 
       "When walking feet turn under", 
       "Soles feels sore, tired, and swell", 
-      "Lameness in neck; aching between shoulder blades; region of SPINE FEELS WEAK; back and legs give out"
+      "Lameness in neck; aching between shoulder blades; region of spine feels weak; back and legs give out"
     ], 
     "Female": [
-      "CONSTANT THROBBING BEHIND SYMPHYSIS PUBIS", 
-      "Leucorrhoea, with LAMENESS OF BACK ACROSS THE SACRO-ILLIAC ARTICULATION; dark, yellow, sticky corroding; worse after menses"
+      "Constant throbbing behind symphysis pubis", 
+      "Leucorrhoea, with lameness of back across the sacro-illiac articulation; dark, yellow, sticky corroding; worse after menses"
     ], 
     "Extremities": [
       "Aching and soreness in limbs, in left acromion process with shooing down arms; finger tips numb"
     ]
   }, 
   "details": "The action of this drug is most marked on the lower bowel, producing engorged hemorrhoidal veins, with characteristic backache, with absence of actual constipation. Much pain but little bleeding. Venous stasis general, varicose veins of purple color; everything is slowed down, digestion, heart, bowels, etc. Torpor and congestion of the liver and portal system, with constipation. The back aches and gives out and unfits the patient for business. Flying pains all over. FULLNESS IN VARIOUS PARTS; dry, swollen mucous membranes. Throat with hemorrhoidal conditions.", 
-  "Natural History": [
-    "Horse Chestnut"
-  ], 
+  "Natural History": "Horse Chestnut", 
   "dosage": "Tincture, to third potency."
 }

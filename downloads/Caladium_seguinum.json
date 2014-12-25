@@ -16,7 +16,7 @@
     "Stomach": [
       "Sighing respiration", 
       "Eructations", 
-      "STOMACH FEELS FULL OF DRY FOOD, SENSATION OF FLUTTERING", 
+      "Stomach feels full of dry food, sensation of fluttering", 
       "Acrid vomiting, thirstless and tolerates only warm drinks", 
       "Gnawing in orifice of stomach, which prevents deep breathing; and eructations"
     ], 
@@ -28,26 +28,24 @@
     "Female": [
       "Cramp pains in uterus at night", 
       "Voluptuousness", 
-      "PRURITUS OF VULVA  and vagina during pregnancy"
+      "Pruritus of vulva  and vagina during pregnancy"
     ], 
     "Skin": [
       "Itching rash alternates with asthma", 
-      "BURNING SENSATION and erysipelatous inflammation", 
       "Insect bites burn and itch intensely", 
-      "Sweet sweat - attracts flies"
+      "Sweet sweat - attracts flies", 
+      "Burning sensation and erysipelatous inflammation"
     ], 
     "Male": [
       "Glans very red", 
       "No emission and no orgasm during embrace", 
       "Organs seem larger, puffed, relaxed, cold, sweating; skin of scrotum thick", 
-      "PRURITUS", 
+      "Pruritus", 
       "Erections when half-asleep; cease when fully awake", 
-      "IMPOTENCY; relaxation of penis during excitement"
+      "Impotency; relaxation of penis during excitement"
     ]
   }, 
   "details": "This remedy has a marked action on the genital organs, and pruritus of this region. Coldness of single parts and inclination to lie down, with aggravation on lying on left side. Slightest noise startles from sleep. DREAD FROM MOTION. Modifies craving for tobacco. Tobacco heart. Asthmatic complaints.", 
-  "Natural History": [
-    "American Arum"
-  ], 
+  "Natural History": "American Arum", 
   "dosage": "Third to sixth attenuation."
 }

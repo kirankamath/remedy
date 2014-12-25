@@ -3,26 +3,26 @@
   "Relationship": "LIME WATER - Antidote to poisoning of Oxal. acid.Compare: ARS.; COLCH.; ARG.; PIC-AC.; CICER ARIETINUM - Chick-pea - (Lithiasis, jaundice, liver affections; diuretic). SCOLOPENDRA - Centipede - (terrible pains in back and loins, extending down limbs; return periodically, commencing in head, to toes. Angina pectoris. Inflammation, pain and gangrene. Pustules and abscesses). CAESIUM - (Pain in lumbar region and testicle. Headache, darting through temples. Diarrhoea and colic. Languor.)", 
   "symptoms": {
     "Heart": [
-      "Palpitation and dyspnoea in organic heart disease; WORSE, when thinking of it", 
+      "Palpitation and dyspnoea in organic heart disease; worse, when thinking of it", 
       "Aortic insufficiency", 
-      "Heart symptoms alternate with aphonia, ANGINA PECTORIS; SHARP, LANCINATING PAIN IN LEFT LUNG COMING ON SUDDENLY, DEPRIVING OF BREATH", 
+      "Heart symptoms alternate with aphonia, angina pectoris; sharp, lancinating pain in left lung coming on suddenly, depriving of breath", 
       "Pulse feeble", 
       "Precordial pains which dart to the left shoulder"
     ], 
     "Eyes": [
       "Severe pain in eyes; feel expanded", 
-      "HYPERAESTHESIA OF RETINA"
+      "Hyperaesthesia of retina"
     ], 
     "Respiratory": [
-      "LEFT LUNG PAINFUL", 
+      "Left lung painful", 
       "Burning sensation from throat down", 
       "Paralysis of the tensors of vocal cord", 
+      "Dyspnoea; short, jerking inspirations", 
       "Sharp pain through lower region of left lung, extending down to epigastrium", 
-      "HOARSENESS", 
+      "Hoarseness", 
+      "Aphonia", 
       "Breathing spasmodic, with constriction of larynx and chest", 
-      "DYSPNOEA; SHORT, JERKING INSPIRATIONS", 
-      "Nervous aphonia with cardiac derangement", 
-      "APHONIA"
+      "Nervous aphonia with cardiac derangement"
     ], 
     "Stomach": [
       "Bitter and sour eructation, worse at night", 
@@ -37,7 +37,7 @@
       "Confusion and vertigo"
     ], 
     "Modalities": [
-      "Worse: LEFT side; slightest touch; light; shaving"
+      "Worse: left side; slightest touch; light; shaving"
     ], 
     "Urine": [
       "Burning in urethra and pain in glans when urinating", 
@@ -59,25 +59,23 @@
     "Extremities": [
       "Lower extremities blue, cold, insensible", 
       "Multiple cerebral and posterior spinal sclerosis", 
-      "Drawing and LANCINATING PAINS shooting down extremities", 
+      "Drawing and lancinating pains shooting down extremities", 
       "Sensation of numbness", 
       "Myelitis", 
       "Lancinating pains in various parts; jerking pains", 
       "Muscular prostration", 
       "Numb, weak, tingling", 
-      "BACKACHE; numb, weak", 
+      "Backache; numb, weak", 
       "Pains start from spine and extend through extremities", 
       "Wrist painful, as if sprained"
     ], 
     "Male": [
-      "TERRIBLE NEURALGIC PAINS IN SPERMATIC CORD", 
+      "Terrible neuralgic pains in spermatic cord", 
       "Testicles feel contused and heavy", 
       "Seminal vesiculitis"
     ]
   }, 
   "details": "Influences the spinal cord, and produces motor paralysis. Pains very violent, IN SPOTS (KALI. BICH.) WORSE, motion, and THINKING OF THEM. PERIODICAL REMISSIONS. Spasmodic symptoms of throat and chest. RHEUMATISM OF LEFT SIDE. NEURASTHENIA. Tuberculosis.Although certain oxalates are constant constituents of vegetable food and of the human body, the acid itself is a violent poison when taken internally, producing gastroenteritis, motor paralysis, collapse, stupor and death.", 
-  "Natural History": [
-    "Sorrel Acid"
-  ], 
+  "Natural History": "Sorrel Acid", 
   "dosage": "Sixth to thirtieth potency."
 }

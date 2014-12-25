@@ -3,20 +3,20 @@
   "Relationship": "Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).", 
   "symptoms": {
     "Urine": [
-      "RETAINED or involuntary, after fright", 
+      "Retained or involuntary, after fright", 
       "Slow to start; feeble stream", 
       "Loss of power or sensibility of bladder"
     ], 
     "Stool": [
       "Faeces protrude and recede", 
-      "ROUND, HARD, BLACK BALLS", 
+      "Round, hard, black balls", 
       "Violent pain in rectum, as if pressed asunder", 
       "Stools involuntary, black, offensive, frothy", 
       "Spasmodic retention of faeces in small intestines", 
       "Obstinate constipation; no desire to go to stool"
     ], 
     "Head": [
-      "Vertigo; LIGHTNESS OF HEAD IN OLD PEOPLE", 
+      "Vertigo; lightness of head in old people", 
       "Pain in back of head; great weight there", 
       "Paralysis of brain", 
       "Complete insensibility; no mental grasp for anything", 
@@ -28,9 +28,9 @@
     "Fever": [
       "Fever characterized by stupor, snoring respiration, twitching of limbs, intense thirst and sleepiness", 
       "General low temperature with inclination to stupor", 
-      "HOT perspiration", 
+      "Hot perspiration", 
       "Heat extending over body", 
-      "Pulse FULL AND SLOW"
+      "Pulse full and slow"
     ], 
     "Stomach": [
       "Faecal vomiting", 
@@ -47,7 +47,7 @@
       "Dry", 
       "Intense thirst", 
       "Difficult articulation and swallowing", 
-      "Tongue black, PARALYZED", 
+      "Tongue black, paralyzed", 
       "Blubbering of lips", 
       "Bloody froth"
     ], 
@@ -55,20 +55,20 @@
       "Difficult, intermittent, deep, unequal respiration", 
       "Cough, with dyspnoea and blue face; with bloody expectoration", 
       "Heat in chest; burning about heart", 
-      "DEEP SNORING; RATTLING, STERTOROUS BREATHING", 
+      "Deep snoring; rattling, stertorous breathing", 
       "Hoarse", 
       "Breathing stops on going to sleep; must be shaken to start it again"
     ], 
     "Eyes": [
       "Ptosis", 
-      "Half-closed, dilated; pupils insensible, CONTRACTED", 
+      "Half-closed, dilated; pupils insensible, contracted", 
       "Staring, glassy"
     ], 
     "Face": [
       "Looks intoxicated, besotted", 
-      "HANGING DOWN OF LOWER JAW", 
+      "Hanging down of lower jaw", 
       "Spasmodic facial twitching, especially corners of mouth", 
-      "Red, bloated, SWOLLEN, DARK SUFFUSED, HOT", 
+      "Red, bloated, swollen, dark suffused, hot", 
       "Veins of face distended", 
       "Distorted"
     ], 
@@ -82,7 +82,7 @@
       "Patient wants nothing", 
       "Thinks he is not at home", 
       "Delirious talking, with wide open eyes", 
-      "COMPLETE LOSS OF CONSCIOUSNESS; APOPLECTIC STATE", 
+      "Complete loss of consciousness; apoplectic state", 
       "Frightful fancies, daring, gay, bright", 
       "Unable to understand or appreciate his sufferings"
     ], 
@@ -115,19 +115,17 @@
     "Skin": [
       "Hot, damp, sweating", 
       "Constant desire to uncover", 
-      "HOT PERSPIRATION OVER WHOLE BODY EXCEPT LOWER LIMBS"
+      "Hot perspiration over whole body except lower limbs"
     ], 
     "Extremities": [
       "Convulsions; worse from glare of light; coldness of limbs", 
       "Painless paralysis", 
-      "TWITCHING OF LIMBS", 
+      "Twitching of limbs", 
       "Jerks as if flexors were over acting", 
       "Numbness"
     ]
   }, 
   "details": "Hahnemann says that it is much more difficult to estimate the action of Opium than of almost any other drug. The effects of Opium as shown in the insensibility of the nervous system, the depression drowsy stupor, painlessness, and torpor, the general sluggishness and lack of vital reaction, constitute the main indications for the drug when used homeopathically. All complaints are characterized by SOPOR. They are PAINLESS, and are accompanied by HEAVY, STUPID SLEEP, STERTOROUS BREATHING. SWEATY SKIN. Dark, mahogany-brown face. Serous apoplexy - venous, passive congestion. Want of sensitiveness to the action of medicines. Reappearance and aggravation from becoming heated. Opium lessens voluntary movements, contracts pupils, depresses higher intellectual powers, lessens self-control and power of concentration, judgement; stimulates the imagination, checks all secretions except that of the skin. Want of susceptibility to remedies even though indicated. Diseases that originate from fright.", 
-  "Natural History": [
-    "Papaver SomniferumDried Latex of the Poppy"
-  ], 
+  "Natural History": "Papaver SomniferumDried Latex of the Poppy", 
   "dosage": "Third to thirtieth and 200th potency.Morphine - 1/8 to 1/4 grain.Magendie's solution - 16 grains to 1 oz. or 5 drops equal to 1/6 grain.Opium (crude). Official dose, 1 grain.Laudanum (tincture) - Dose, 5 to 20 drops. Extract of Opium 1/4 to 1 grain.PAREGORIC - Tinctura Camphora Compositae. Contains in each dram 1/4 grain of Opium equal to 1/30 grain of Morphine. Dose 1/2 to 1 fluid dram for adults. For an infant 3 to 5 drops.PALLIATIVE ONLY in great pain, sleeplessness, peritonitis, and to check excessive secretion in diarrhoea, diabetes, etc.DOVER'S POWDER consists of Opium, Ipecac and Sulphate of Potash. It contains 10% each of Opium and Ipecac. Dose 5 to 15 grains.Apomorphia - 1/20 to 1/10 grain hypodermically.Codein - 1/2 to 1 grain.Non-Homeopathic Preparations and Uses."
 }

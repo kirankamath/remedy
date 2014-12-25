@@ -5,7 +5,7 @@
     "Head": [
       "Vertigo followed by nose-bleed", 
       "Rush of blood with confusion", 
-      "Hearing confused; CANNOT TELL DIRECTION OF SOUND", 
+      "Hearing confused; cannot tell direction of sound", 
       "Sensation as if something lay above eyes so that she could not look up", 
       "Headache, as if head had been blown to pieces", 
       "Bluish cheeks and lips", 
@@ -21,32 +21,32 @@
       "Repugnance to fat food", 
       "Eating tires patient", 
       "Ptomaine poisoning", 
-      "FLATULENCE", 
+      "Flatulence", 
       "Sour water from mouth", 
       "Pyrosis", 
       "Weak, empty feeling in stomach", 
-      "WEAK DIGESTION"
+      "Weak digestion"
     ], 
     "Modalities": [
       "Worse: after shaving", 
       "Worse: loss of animal fluids"
     ], 
     "Mind": [
-      "Desire to be alone, sad and reflective, AVOIDS CONVERSATION", 
+      "Desire to be alone, sad and reflective, avoids conversation", 
       "Anxiety at night, with orgasm of blood"
     ], 
     "Female": [
-      "Menses too early, frequent long lasting, FOLLOWED BY GREAT EXHAUSTION, so weak, can hardly speak", 
+      "Menses too early, frequent long lasting, followed by great exhaustion, so weak, can hardly speak", 
       "Burning in vagina and labia", 
       "Nausea of pregnancy; worse at night", 
       "Flow only in morning", 
       "Lochia offensive", 
       "Cancer of uterus, burning pain down thighs", 
-      "Darting in breast; PAINFUL INDURATIONS in breast, especially right"
+      "Darting in breast; painful indurations in breast, especially right"
     ], 
     "Skin": [
       "Verruca on hands and face of old people, with bluish color of extremities", 
-      "GLANDS INDURATED, swollen, painful, in neck, axillae, groin, mammae; pains lancinating, cutting, burning", 
+      "Glands indurated, swollen, painful, in neck, axillae, groin, mammae; pains lancinating, cutting, burning", 
       "Spongy ulcers, copper-colored eruption", 
       "Acne rosacea", 
       "Burning, rawness and fissures; moisture", 
@@ -56,7 +56,7 @@
     "Extremities": [
       "Pain in coccyx; burns when touched", 
       "Wrist pain", 
-      "NIGHT SWEAT fetid and profuse", 
+      "Night sweat fetid and profuse", 
       "Pain in hip joints at night", 
       "Ankles turn easily", 
       "Easy discoloration", 
@@ -65,8 +65,6 @@
     ]
   }, 
   "details": "Seems to be especially adapted to scrofulous and venous constitutions, old people, and after debilitating disease, with feeble circulation and lowered vitality. GLANDS ARE INDURATED, veins distended, skin blue. STITCH REMAINING AFTER PLEURISY. Easily strained from lifting. Weakness of nursing women. Ulceration and decomposition. All its secretions are offensive. Causes local congestions WITHOUT heat.", 
-  "Natural History": [
-    "Animal Charcoal"
-  ], 
+  "Natural History": "Animal Charcoal", 
   "dosage": "Third to thirtieth potency. The third trituration for insufflation in aural polypi."
 }

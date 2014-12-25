@@ -7,20 +7,20 @@
       "Pulse irregular, intermittent, rapid", 
       "Light feeling in chest", 
       "Palpitation with oppression", 
-      "THROBBING IN ALL ARTERIES after retiring"
+      "Throbbing in all arteries after retiring"
     ], 
     "Eyes": [
-      "ITCHING and smarting, swelling, heat and soreness"
+      "Itching and smarting, swelling, heat and soreness"
     ], 
     "Stomach": [
       "Persistent, morning nausea", 
-      "Eructations of SCALDING, HOT, acid, watery substance; better, coffee", 
+      "Eructations of scalding, hot, acid, watery substance; better, coffee", 
       "Drooling", 
       "Bad taste in the morning"
     ], 
     "Modalities": [
       "Better: cold water", 
-      "Better: coffee; WORSE", 
+      "Better: coffee; worse", 
       "Better: in afternoon; from sunlight", 
       "Better: scratching"
     ], 
@@ -32,7 +32,7 @@
       "Itching of eyes and ears", 
       "Depressed and irritable", 
       "Bursting pains", 
-      "Pains deep in head, WITH UPWARD PRESSURE", 
+      "Pains deep in head, with upward pressure", 
       "Occipital headache"
     ], 
     "Nose": [
@@ -40,15 +40,15 @@
       "Sore, red, inflamed"
     ], 
     "Female": [
-      "PRURITUS VULVAE, WITH YELLOW LEUCORRHOEA, worse, rest", 
+      "Pruritus vulvae, with yellow leucorrhoea, worse, rest", 
       "Burning in right ovary"
     ], 
     "Skin": [
       "Skin, hot, swollen", 
       "Sore red blotches", 
-      "ITCHING OF HANDS, DEEP IN", 
+      "Itching of hands, deep in", 
       "Itching of knees and elbows and hairy portions", 
-      "ITCHING; better by bathing in cold water; worse scratching, touch and retiring", 
+      "Itching; better by bathing in cold water; worse scratching, touch and retiring", 
       "Vesicular, pustular, phlegmonous dermatitis", 
       "Blind boils"
     ], 
@@ -57,16 +57,14 @@
       "Soreness and feeling of excoriation, deep down pharynx"
     ], 
     "Extremities": [
-      "VEHEMENT ITCHING IN ARMS AND LEGS; worse towards evening", 
       "Pain in shoulder, with pain along fingers", 
       "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head", 
       "Feet numb and pricking", 
+      "Vehement itching in arms and legs; worse towards evening", 
       "Streaking pains in arms and legs"
     ]
   }, 
   "details": "Its action on the skin, producing pruritus, is very marked. Visible pulsation of arteries. Fluent coryza. Offensive excretions. Itching erythema. PRURITUS SENILIS. Post-nasal catarrh; dry crusts, granular appearance of posterior nares with itching.", 
-  "Natural History": [
-    "Buckwheat"
-  ], 
+  "Natural History": "Buckwheat", 
   "dosage": "Third potency and 12X."
 }

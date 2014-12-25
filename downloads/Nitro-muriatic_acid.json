@@ -1,11 +1,9 @@
 {
-  "Natural History": [
-    "Aqua Regia"
-  ], 
+  "Natural History": "Aqua Regia", 
   "symptoms": {
     "Stomach": [
       "Sour eructations, with empty hungry feeling in stomach; not relieved by eating", 
-      "SALIVATION; WORSE AT NIGHT"
+      "Salivation; worse at night"
     ], 
     "Urine": [
       "Burning in urethra", 
@@ -21,7 +19,7 @@
       "Gums bleed easily", 
       "Ptyalism", 
       "Metallic taste", 
-      "CONSTANT DROOLING AT NIGHT"
+      "Constant drooling at night"
     ]
   }, 
   "name": "Nitro-muriatic acid", 

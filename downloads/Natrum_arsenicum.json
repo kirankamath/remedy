@@ -7,7 +7,7 @@
       "Headache; worse, pressure and tobacco smoke"
     ], 
     "Respiratory": [
-      "OPPRESSION OF CHEST AND ABOUT HEART, and also larynx", 
+      "Oppression of chest and about heart, and also larynx", 
       "Miner's asthma", 
       "Lungs feel as though smoke had been inhaled", 
       "Racking cough, with profuse greenish expectoration"
@@ -24,13 +24,13 @@
     ], 
     "Nose": [
       "Post-nasal dropping of thick, bland, yellowish mucus", 
-      "CRUSTS IN NOSE", 
+      "Crusts in nose", 
       "Dry crusts, on removal, leave mucous membrane raw", 
       "Watery discharge; drops into throat", 
-      "FEELS STOPPED; PAIN AT ROOT"
+      "Feels stopped; pain at root"
     ], 
     "Throat": [
-      "Dark, PURPLISH, SWOLLEN, EDEMATOUS; red and glassy"
+      "Dark, purplish, swollen, edematous; red and glassy"
     ], 
     "Extremities": [
       "Pain in anterior crural nerves", 
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "A remedy for nasal catarrh, with headache, pain at root of nose, dry and painful eyes. Psoriasis. (ARS.; CHRYSOPH-AC.; THYROID.) Bronchitis of children over seven years. Facilitates the termination of the cold and conserves strength and appetite. (Cartier.)Sleeping sickness; commencing optic atrophy.", 
-  "Natural History": [
-    "Arseniate of Sodium"
-  ], 
+  "Natural History": "Arseniate of Sodium", 
   "dosage": "Third to thirtieth potency."
 }

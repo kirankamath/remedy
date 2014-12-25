@@ -3,9 +3,9 @@
   "Relationship": "Compare: Calc.; Rhus; Sepia; Cicuta.Bovista antidotes tar applications. Suffocation from gas. After Rhus in chronic urticaria.", 
   "symptoms": {
     "Head": [
-      "Discharge from nose STRINGY, tough", 
-      "STAMMERING  Scalp itches; worse, warmth; sensitive; must scratch until sore", 
-      "Sensation AS IF HEAD WERE ENLARGING, especially of occiput", 
+      "Discharge from nose stringy, tough", 
+      "Stammering  scalp itches; worse, warmth; sensitive; must scratch until sore", 
+      "Sensation as if head were enlarging, especially of occiput", 
       "Distensive headache; worse early morning, open air, lying", 
       "Dull, bruised pain in brain"
     ], 
@@ -14,19 +14,19 @@
       "Intolerant of tight clothing around waist"
     ], 
     "Mind": [
-      "ENLARGED SENSATION", 
+      "Enlarged sensation", 
       "Sensitive", 
-      "Awkward; EVERYTHING FALLS FROM HANDS"
+      "Awkward; everything falls from hands"
     ], 
     "Abdomen": [
-      "COLIC, with red urine; RELIEVED BY EATING", 
+      "Colic, with red urine; relieved by eating", 
       "Chronic diarrhoea of old people; worse at night and early morning", 
       "Stitches through perineum towards rectum and genitals", 
       "Pain around umbilicus", 
       "Must bend double"
     ], 
     "Face": [
-      "ACNE worse in summer; due to use of cosmetics", 
+      "Acne worse in summer; due to use of cosmetics", 
       "Cheeks and lips feel swollen", 
       "Scurf and crusts about nostrils and corners of mouth", 
       "Lips chapped", 
@@ -35,15 +35,15 @@
     "Female": [
       "Soreness of pubes during menses", 
       "Voluptuous sensation", 
-      "Metrorrhagia; Parovarian cysts", 
+      "Metrorrhagia; parovarian cysts", 
       "Leucorrhoea acrid, thick, tough, greenish, follows menses", 
-      "DIARRHOEA BEFORE AND DURING MENSES", 
-      "CANNOT BEAR TIGHT CLOTHING AROUND WAIST  TRACES OF MENSES BETWEEN MENSTRUATION", 
-      "Menses too early and too profuse; WORSE AT NIGHT"
+      "Diarrhoea before and during menses", 
+      "Cannot bear tight clothing around waist  traces of menses between menstruation", 
+      "Menses too early and too profuse; worse at night"
     ], 
     "Skin": [
       "Pellagra", 
-      "URTICARIA ON EXCITEMENT; with rheumatic lameness, palpitation and diarrhoea", 
+      "Urticaria on excitement; with rheumatic lameness, palpitation and diarrhoea", 
       "Itching on getting warm", 
       "Pruritis ani", 
       "Blunt instruments leave deep impression on the skin", 
@@ -53,17 +53,15 @@
     ], 
     "Extremities": [
       "Great weakness of all joints; clumsiness with her hands, drops things from hands", 
-      "TIP OF COCCYX ITCHES INTOLERABLY", 
+      "Tip of coccyx itches intolerably", 
       "Itching of feet and legs", 
       "Moist eczema on back of hand", 
       "Weariness of hands and feet", 
-      "Sweat in axillae; ONION SMELL", 
+      "Sweat in axillae; onion smell", 
       "Oedema in joints after fracture"
     ]
   }, 
   "details": "Has a marked effect on the skin, producing eruption like eczema, also upon the circulation, predisposing to Hemorrhages; marked languor and lassitude. Adapted to stammering children, old maids with palpitation; and tettery patients. Stage of numbness and tingling in multiple neuritis. Asphyxia due to charcoal fumes.", 
-  "Natural History": [
-    "Puff-Ball"
-  ], 
+  "Natural History": "Puff-Ball", 
   "dosage": "Third to sixth potency."
 }

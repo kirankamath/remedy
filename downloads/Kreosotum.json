@@ -16,7 +16,7 @@
       "Feeling of coldness, as of ice water in stomach"
     ], 
     "Abdomen": [
-      "CHOLERA INFANTUM in connection with painful dentition, green stools, nausea, dry skin, exhaustion, etc.", 
+      "Cholera infantum in connection with painful dentition, green stools, nausea, dry skin, exhaustion, etc.", 
       "Bloody, fetid stools", 
       "Distended", 
       "Burning hemorrhoids", 
@@ -25,17 +25,17 @@
     "Mouth": [
       "Putrid odor and bitter taste", 
       "Lips red, bleeding", 
-      "VERY RAPID DECAY OF TEETH, WITH SPONGY, BLEEDING GUMS; teeth dark and crumbly", 
-      "VERY PAINFUL DENTITION; child will not sleep"
+      "Very rapid decay of teeth, with spongy, bleeding gums; teeth dark and crumbly", 
+      "Very painful dentition; child will not sleep"
     ], 
     "Respiratory": [
       "Hemoptysis; periodic attacks", 
-      "After every cough, COPIOUS, PURULENT EXPECTORATION", 
+      "After every cough, copious, purulent expectoration", 
       "Cough after influenza", 
       "Raw burning in chest; pains and oppression", 
       "Cough; worse evening, with efforts to vomit, with pain in chest", 
-      "HOARSE, WITH PAIN IN LARYNX", 
-      "Winter coughs of old people, WITH HEAVY PRESSURE ON STERNUM", 
+      "Hoarse, with pain in larynx", 
+      "Winter coughs of old people, with heavy pressure on sternum", 
       "Gangrene of lungs", 
       "Sternum feels pressed in"
     ], 
@@ -69,9 +69,9 @@
       "Violent itching of vulva and vagina, worse when urinating", 
       "Enuresis in the first part of night", 
       "Dreams of urinating", 
-      "MUST HURRY WHEN DESIRE COMES TO URINATE", 
+      "Must hurry when desire comes to urinate", 
       "Can urinate only when lying; cannot get out of bed quick enough during first sleep", 
-      "OFFENSIVE"
+      "Offensive"
     ], 
     "Back": [
       "Dragging backache, extending to genitals and down thighs", 
@@ -85,13 +85,13 @@
     "Female": [
       "Hemorrhage after coition", 
       "Burning and soreness in external and internal parts", 
-      "MENSTRUAL FLOW INTERMITS ; ceases on sitting or walking; reappears on lying down", 
+      "Menstrual flow intermits ; ceases on sitting or walking; reappears on lying down", 
       "Leucorrhoea, yellow, acrid; odor of green corn; worse between periods", 
       "Corrosive itching within vulva, burning and swelling of labia; violent itching between labia and thighs", 
       "Pain worse after menses", 
       "Vomiting of pregnancy, with ptyalism", 
-      "During menses, DIFFICULT HEARING; buzzing and roaring; eruption after", 
-      "Lochia offensive; INTERMITS", 
+      "During menses, difficult hearing; buzzing and roaring; eruption after", 
+      "Lochia offensive; intermits", 
       "Menses too early, prolonged"
     ], 
     "Skin": [
@@ -103,7 +103,7 @@
       "Small wounds bleed freely"
     ], 
     "Throat": [
-      "PUTRID ODOR", 
+      "Putrid odor", 
       "Burning, choking sensation"
     ], 
     "Extremities": [
@@ -113,8 +113,6 @@
     ]
   }, 
   "details": "Mental.Music causes weeping and palpitation. Vanishing of thought; stupid, forgetful, peevish, irritable. Child wants everything but throws it away when given.Pulsations all over the body, and profuse bleeding from small wounds. Very severe, old neuralgic affections; pains rather aggravated by rest. EXCORIATING, burning, and offensive discharges. Hemorrhages, ulcerations, cancerous affections. Rapid decomposition of fluids and secretions, and burning pains. Overgrown, poorly developed children. Post-climacteric diseases. Tumefaction, puffiness, gangrene. Ailings of teething children.Kreosotum is a mixture of phenol obtained from this distillation.", 
-  "Natural History": [
-    "Beech wood Kreosote"
-  ], 
+  "Natural History": "Beech wood Kreosote", 
   "dosage": "Third to thirtieth potency. The 200th in sensitive patients."
 }

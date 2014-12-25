@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "TomatoLycopersicum Esculentum"
-  ], 
+  "Natural History": "TomatoLycopersicum Esculentum", 
   "symptoms": {
     "Heart": [
       "Decided decrease in pulse rate with anxiety and apprehensiveness"
@@ -28,7 +26,7 @@
     ], 
     "Urine": [
       "Must rise at night to urinate", 
-      "Constant dribbling IN OPEN AIR"
+      "Constant dribbling in open air"
     ], 
     "Head": [
       "Bursting pain, beginning in occiput and spreading all over", 
@@ -42,7 +40,7 @@
       "Dull pain in lumbar region", 
       "Pain deep in middle of right arm", 
       "Intense aching in lower limbs", 
-      "SHARP PAIN IN RIGHT DELTOID AND PECTORALIS MUSCLES", 
+      "Sharp pain in right deltoid and pectoralis muscles", 
       "Rheumatic pain in right elbow and wrist, and hands of both sides", 
       "Aching through back", 
       "Tingling along right ulnar nerve", 

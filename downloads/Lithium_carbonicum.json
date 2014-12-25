@@ -18,12 +18,12 @@
     ], 
     "Respiratory": [
       "Air feels cold when inspired", 
+      "Pain in mammary glands, which extend into the arms and fingers", 
       "Constriction of chest", 
-      "Pain in mammary glands, WHICH EXTEND INTO THE ARMS AND FINGERS", 
       "Violent cough when lying down"
     ], 
     "Stomach": [
-      "Acidity, nausea, GNAWING, RELIEVED BY EATING", 
+      "Acidity, nausea, gnawing, relieved by eating", 
       "Cannot endure slightest pressure of clothes"
     ], 
     "Modalities": [
@@ -46,7 +46,7 @@
       "Both cheeks covered with dry, bran-like scales", 
       "Pain in heart; extends to head", 
       "Trembling and throbbing", 
-      "HEADACHE CEASES WHILE EATING", 
+      "Headache ceases while eating", 
       "Dizzy states with ringing in ears", 
       "Tension, as if bound; better, sitting and going out"
     ], 
@@ -54,7 +54,7 @@
       "Rough rash all over body, much loose epithelium, tough, dry, itchy skin", 
       "Dull stitch, ending in itching", 
       "Scabby, tettery eruption on hands, head, and cheeks, preceded by red, raw skin", 
-      "BARBER'S ITCH"
+      "Barber's itch"
     ], 
     "Extremities": [
       "Rheumatic pains throughout shoulder-joint, arm, and fingers and small joints generally", 
@@ -67,8 +67,6 @@
     ]
   }, 
   "details": "Chronic RHEUMATISM CONNECTED WITH HEART LESIONS and asthenopia offer a field for this remedy. Rheumatic nodes. Uric acid diathesis. Whole body is SORE. Gout and tophi.", 
-  "Natural History": [
-    "Carbonate of Lithium"
-  ], 
+  "Natural History": "Carbonate of Lithium", 
   "dosage": "First to third trituration."
 }

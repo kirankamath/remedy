@@ -3,16 +3,16 @@
   "Relationship": "Compare: CAUSTIC.", 
   "symptoms": {
     "Stomach": [
-      "ICY COLDNESS in stomach"
+      "Icy coldness in stomach"
     ], 
     "Extremities": [
       "Great weakness of hands and fingers", 
       "Paralysis of wrists", 
       "Much weakness after growing too fast", 
       "Violent pain in wrist", 
-      "CHOREA", 
+      "Chorea", 
       "Weakness in joints of feet, knee, and soles", 
-      "SPRAINED SENSATION IN WRIST"
+      "Sprained sensation in wrist"
     ], 
     "Male": [
       "Prostatitis", 
@@ -21,8 +21,6 @@
     ]
   }, 
   "details": "The old famous Aphrodisiacum of the Greek authors.", 
-  "Natural History": [
-    "from the Colt)(A Meconium Deposit out of the Amniotic Fluid taken"
-  ], 
+  "Natural History": "from the Colt)(A Meconium Deposit out of the Amniotic Fluid taken", 
   "dosage": "Sixth to thirtieth potency."
 }

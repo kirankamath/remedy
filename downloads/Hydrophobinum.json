@@ -3,7 +3,7 @@
   "Relationship": "Compare: XANTHIUM SPINOSUM - Cockle - (said to be specific for hydrophobia and is recommended for chronic cystitis in women). CANTH.; BELL.; STRAM.; LACH.; NAT-MUR.", 
   "symptoms": {
     "Head": [
-      "HYPERSENSITIVENESS OF ALL SENSES", 
+      "Hypersensitiveness of all senses", 
       "Boring pain in forehead", 
       "Lyssophobia; fear of becoming made", 
       "Chronic headache", 
@@ -30,7 +30,7 @@
     ], 
     "Female": [
       "Uterine displacements", 
-      "Uterine sensitiveness; conscious of womb  Feels prolapsed", 
+      "Uterine sensitiveness; conscious of womb  feels prolapsed", 
       "Vagina sensitive, rendering coition painful"
     ], 
     "Male": [
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "Affects principally the nervous system; aching in bones. Complaints from abnormal sexual desire. Convulsions brought on by dazzling light or sight of running water.", 
-  "Natural History": [
-    "Lyssin - Saliva of Rabid Dog"
-  ], 
+  "Natural History": "Lyssin - Saliva of Rabid Dog", 
   "dosage": "Thirtieth potency."
 }

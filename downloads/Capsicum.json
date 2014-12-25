@@ -10,7 +10,7 @@
     ], 
     "Fever": [
       "Thirst before chill", 
-      "SHIVERING AFTER DRINKING", 
+      "Shivering after drinking", 
       "Coldness, with ill-humor", 
       "Must have something hot to back", 
       "Chill begins in back; better, heat"
@@ -20,13 +20,13 @@
       "Atonic dyspepsia", 
       "Vomiting, sinking at pit of stomach", 
       "Intense craving for stimulants", 
-      "MUCH THIRST; BUT DRINKING CAUSES SHUDDERING", 
+      "Much thirst; but drinking causes shuddering", 
       "Burning in tip of tongue"
     ], 
     "Urine": [
       "Ectropion of meatus", 
       "Comes first in drops, then in spurts; neck of bladder spasmodically contracted", 
-      "BURNING IN ORIFICE", 
+      "Burning in orifice", 
       "Strangury, frequent, almost ineffectual urging"
     ], 
     "Modalities": [
@@ -38,19 +38,19 @@
     ], 
     "Mind": [
       "Wants to be let alone", 
-      "DELIRIUM TREMENS", 
       "Peppery disposition", 
+      "Delirium tremens", 
       "Excessive peevishness", 
-      "HOMESICKNESS, with sleeplessness and disposition to suicide"
+      "Homesickness, with sleeplessness and disposition to suicide"
     ], 
     "Stool": [
-      "THIRSTY AFTER STOOL, WITH SHIVERING", 
-      "BLEEDING PILES, with soreness of anus", 
+      "Thirsty after stool, with shivering", 
+      "Bleeding piles, with soreness of anus", 
       "Stinging pain during stool", 
-      "BLOODY MUCUS, WITH BURNING AND TENESMUS; drawing pain in back after stool"
+      "Bloody mucus, with burning and tenesmus; drawing pain in back after stool"
     ], 
     "Respiratory": [
-      "CONSTRICTION of chest; arrests breathing", 
+      "Constriction of chest; arrests breathing", 
       "Dry, hacking cough, expelling an offensive breath from lungs", 
       "Dyspnoea", 
       "Threatening gangrene of lung", 
@@ -58,12 +58,12 @@
       "Explosive cough", 
       "Pain at apex of heart or in rib region, worse touch", 
       "Feels as if chest and head would fly to pieces", 
-      "PAIN IN DISTANT PARTS ON COUGHING - bladder, legs, ears, etc."
+      "Pain in distant parts on coughing - bladder, legs, ears, etc."
     ], 
     "Mouth": [
-      "STOMATITIS", 
       "Herpes labialis", 
-      "FETID ODOR FROM MOUTH", 
+      "Fetid odor from mouth", 
+      "Stomatitis", 
       "Disagreeable smell from mouth"
     ], 
     "Female": [
@@ -73,33 +73,31 @@
     ], 
     "Throat": [
       "Smarting in; constriction", 
-      "PAIN AND DRYNESS IN THROAT extending to the ears", 
+      "Pain and dryness in throat extending to the ears", 
       "Inflamed uvula and palate; swollen and relaxed", 
-      "Subacute inflammation of Eustachian tube with great pain", 
-      "SORE THROAT OF SMOKERS AND DRINKERS", 
+      "Subacute inflammation of eustachian tube with great pain", 
+      "Sore throat of smokers and drinkers", 
       "Burning constriction worse between acts of deglutition", 
-      "HOT FEELING IN FAUCES"
+      "Hot feeling in fauces"
     ], 
     "Extremities": [
       "Pain from hips to feet", 
       "Tensive pain in the knee", 
-      "Sciatica, worse bending backward; WORSE, COUGHING"
+      "Sciatica, worse bending backward; worse, coughing"
     ], 
     "Male": [
-      "COLDNESS OF SCROTUM, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling", 
+      "Coldness of scrotum, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling", 
       "Gonorrhea, with chordee, excessive burning, pain in prostate"
     ], 
     "Ears": [
-      "SWELLING AND PAIN BEHIND EARS", 
-      "INFLAMMATION OF MASTOID", 
-      "TENDERNESS OVER THE PETROUS BONE; extremely sore and tender to touch", 
+      "Swelling and pain behind ears", 
+      "Inflammation of mastoid", 
+      "Tenderness over the petrous bone; extremely sore and tender to touch", 
       "Otorrhoea and mastoid disease before suppuration", 
       "Burning and stinging in ears"
     ]
   }, 
   "details": "Seems to suit especially persons of lax fiber, weak; diminished vital heat. A relaxed plethoric sluggish, cold remedy. Not much reactive force. Such persons are fat, indolent, opposed to physical exertion, averse to go outside of their routine, get homesick easily. GENERAL UNCLEANLINESS OF BODY. Abstainers from accustomed alcoholics. It affects the mucous membranes, producing a sensation of CONSTRICTION. Inflammation of petrous bone. Burning pains and general chilliness. Older people who have exhausted their vitality, especially by mental work, and poor living; blear-eyed appearance; who do not react. Fear of slightest draft. Marked tendency to suppuration in every inflammatory process. Prostration and feeble digestion of alcoholics. Myalgia, aching and jerking of muscles.", 
-  "Natural History": [
-    "Cayenne Pepper"
-  ], 
+  "Natural History": "Cayenne Pepper", 
   "dosage": "Third to sixth attenuation. In delirium tremens, dram doses of tincture in milk or tincture of orange peel."
 }

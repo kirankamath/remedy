@@ -8,8 +8,8 @@
     ], 
     "Fever": [
       "Cold flashes all over back", 
-      "CHILLINESS, WITH NAUSEA", 
-      "MALARIAL FEVER"
+      "Chilliness, with nausea", 
+      "Malarial fever"
     ], 
     "Stomach": [
       "Sour belching and heartburn", 
@@ -23,7 +23,7 @@
       "Pain as of a lump in chest and under sternum"
     ], 
     "Mouth": [
-      "Tongue, lips and fauces TINGLE, with sense of fear about heart", 
+      "Tongue, lips and fauces tingle, with sense of fear about heart", 
       "Canker; gums recede and bleed easily; corners of mouth and lips crack; tongue dry and swollen; sores; dirty brownish", 
       "White coating of tongue, with red edges", 
       "Promotes the flow of saliva"
@@ -35,7 +35,7 @@
       "Right nostril raw, bleeding"
     ], 
     "Female": [
-      "PUERPERAL SEPTICAEMIA; discharges suppressed; abdomen sensitive and tympanitic; offensive, excoriating leucorrhoea"
+      "Puerperal septicaemia; discharges suppressed; abdomen sensitive and tympanitic; offensive, excoriating leucorrhoea"
     ], 
     "Skin": [
       "Lymphatics enlarged", 
@@ -50,12 +50,10 @@
       "Ulcerated sore throat"
     ], 
     "Extremities": [
-      "ACHING IN LIMBS and general lassitude"
+      "Aching in limbs and general lassitude"
     ]
   }, 
   "details": "We are indebted to the Eclectic school for this remarkable medicine as a corrector of blood dyscrasia. Acute auto-infection. Symptoms of BLOOD POISONING, SEPTIC CONDITIONS GENERALLY. Diarrhoea in typhoid. Gonorrhea. Boils. ERYSIPELAS and foul ulcers. GANGRENE. Goitre with exophthalmic symptoms; full doses, also injecting 5-10 drops into thyroid gland. Tendency to malignancy in acute and subacute disorders. Last stages of cancer to ease pain. VENOM INFECTION. Cerebrospinal meningitis. Puerperal infections. TIRED FEELING. Piles. Pustules. Acts no vermiform appendix thus has been used for appendicitis, but remember it promotes suppuration and a neglected appendicitis with pus formation would probably rupture sooner under its use. Lymphatic inflammation; crushing injuries. SNAKE BITES and bites and stings generally. Foul discharges with emaciation and great debility.", 
-  "Natural History": [
-    "Purple Cone-flower"
-  ], 
+  "Natural History": "Purple Cone-flower", 
   "dosage": "Tincture, one to ten drops, every two hours, and larger doses.LOCALLY, as a cleansing and"
 }

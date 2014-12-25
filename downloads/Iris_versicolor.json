@@ -10,10 +10,10 @@
       "Pustular eruption on scalp"
     ], 
     "Stomach": [
+      "Deficient appetite", 
       "Profuse flow of saliva", 
-      "VOMITING, sour, bloody, biliary", 
-      "BURNING OF WHOLE ALIMENTARY CANAL", 
-      "DEFICIENT APPETITE", 
+      "Vomiting, sour, bloody, biliary", 
+      "Burning of whole alimentary canal", 
       "Nausea"
     ], 
     "Modalities": [
@@ -22,17 +22,17 @@
       "Better: from continued motion"
     ], 
     "Abdomen": [
-      "Diarrhoea; stools watery, with BURNING AT ANUS and through intestinal canal", 
-      "CONSTIPATION", 
+      "Diarrhoea; stools watery, with burning at anus and through intestinal canal", 
+      "Constipation", 
       "Cutting pain", 
       "Periodical night diarrhoea, with pain and green discharges", 
       "Liver sore", 
       "Flatulent colic"
     ], 
     "Face": [
-      "GOITRE", 
+      "Goitre", 
       "Profuse flow of saliva; ropy", 
-      "BURNING", 
+      "Burning", 
       "Neuralgia after breakfast, beginning in infra-orbital nerve, and involving whole face", 
       "Heat and smarting in throat", 
       "Mouth and tongue feel scalded"
@@ -50,13 +50,11 @@
       "Gonorrheal rheumatism"
     ], 
     "Ears": [
-      "Roaring, buzzing, RINGING in ears, with deafness", 
+      "Roaring, buzzing, ringing in ears, with deafness", 
       "Aural vertigo, with intense noises in ears"
     ]
   }, 
   "details": "Thyroid, PANCREAS, salivary, intestinal glands, and gastrointestinal mucous membrane, are especially affected. Increases the flow of bile. Sick headaches and cholera morbus are a special therapeutic field for its action.", 
-  "Natural History": [
-    "Blue Flag"
-  ], 
+  "Natural History": "Blue Flag", 
   "dosage": "Tincture to thirtieth potency. Favorable reports from the very highest potencies."
 }

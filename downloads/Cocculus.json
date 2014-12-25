@@ -7,9 +7,9 @@
       "Sick headache from carriage-riding, cannot lie on back part of head", 
       "Trembling of head", 
       "Opening and shutting sensation, especially in occiput", 
-      "Headache IN OCCIPUT and nape; worse, lying on back of head", 
+      "Headache in occiput and nape; worse, lying on back of head", 
       "Pupils contracted", 
-      "Vertigo, nausea, ESPECIALLY WHEN RIDING or sitting up", 
+      "Vertigo, nausea, especially when riding or sitting up", 
       "Pain in eyes as if torn out of head"
     ], 
     "Respiratory": [
@@ -22,9 +22,9 @@
       "Loss of appetite", 
       "Desire for cold drinks, especially beer", 
       "Smell of food disgusts", 
-      "AVERSION TO FOOD, drink, tobacco", 
+      "Aversion to food, drink, tobacco", 
       "Sensation in stomach as if one had been a long time without food until hunger was gone", 
-      "METALLIC TASTE", 
+      "Metallic taste", 
       "Seasickness", 
       "Nausea, with faintness and vomiting", 
       "Paralysis of muscles preventing deglutition", 
@@ -48,27 +48,27 @@
       "Cannot bear contradiction", 
       "Heavy and stupid", 
       "Speaks hastily", 
-      "TIME PASSES TOO QUICKLY; absorbed in reveries", 
+      "Time passes too quickly; absorbed in reveries", 
       "Capricious", 
       "Inclination to sing irresistible", 
-      "PROFOUND SADNESS", 
+      "Profound sadness", 
       "Mind benumbed", 
       "Slow of comprehension"
     ], 
     "Back": [
-      "PARALYTIC PAIN IN SMALL OF BACK", 
+      "Paralytic pain in small of back", 
       "Stiffness on moving shoulders", 
       "Pressure in scapula and nape", 
-      "Pain IN SHOULDER AND ARMS AS IF BRUISED", 
+      "Pain in shoulder and arms as if bruised", 
       "Cracking of cervical vertebrae when moving head"
     ], 
     "Face": [
       "Paralysis of facial nerve", 
-      "Cramp-like pain in masseter muscle; WORSE, OPENING MOUTH", 
+      "Cramp-like pain in masseter muscle; worse, opening mouth", 
       "Prosopalgia in afternoon, with wide radiations of pain"
     ], 
     "Fever": [
-      "CHILLINESS, WITH PERSPIRATION, AND HEAT OF SKIN", 
+      "Chilliness, with perspiration, and heat of skin", 
       "Chill, with flatulent colic, nausea, vertigo, coldness of lower extremities, and heat of head", 
       "Nervous form of low fever", 
       "Sweat general"
@@ -83,20 +83,20 @@
       "Dysmenorrhoea, with profuse dark menses", 
       "So weak during menstruation, scarcely able to stand", 
       "Too early menses, clotted, with spasmodic colic", 
-      "Purulent, gushing leucorrhoea between menses; VERY WEAKENING, can scarcely speak", 
+      "Purulent, gushing leucorrhoea between menses; very weakening, can scarcely speak", 
       "Painful pressing in uterine region, followed by hemorrhoids"
     ], 
     "Abdomen": [
-      "Distended, with wind, and feeling as IF FULL OF SHARP STONES WHEN MOVING; better, lying on one side or the other", 
-      "PAIN IN ABDOMINAL RING, as if something were forced through", 
-      "ABDOMINAL MUSCLES WEAK; it seems as if a hernia would take place"
+      "Distended, with wind, and feeling as if full of sharp stones when moving; better, lying on one side or the other", 
+      "Pain in abdominal ring, as if something were forced through", 
+      "Abdominal muscles weak; it seems as if a hernia would take place"
     ], 
     "Extremities": [
-      "TREMBLING and pain in limbs", 
+      "Trembling and pain in limbs", 
       "One-sided paralysis; worse after sleep", 
       "Limbs straightened out, painful when flexed", 
       "Lameness; worse by bending", 
-      "KNEES CRACK ON MOTION", 
+      "Knees crack on motion", 
       "Hands are alternately hot and cold; numbness and cold sweat now of one, now of the other hand", 
       "Arms go to sleep", 
       "Inflammatory swelling of knee", 
@@ -106,8 +106,6 @@
     ]
   }, 
   "details": "Within the sphere of action of Cocculus are many spasmodic, and paretic affections, notably those affecting one-half of the body. Affects the cerebrum, will not cure convulsive seizures proceeding from the spinal cord. (A. E. Hinsdale.) PAINFUL CONTRACTURE of limbs and trunk; tetanus. Many of the evil EFFECTS OF NIGHT-WATCHING are relieved by it. It shows a special attraction FOR LIGHT-HAIRED FEMALES, especially during pregnancy, causing much nausea and backache. Unmarried and childless women, sensitive and romantic girls, etc. All its symptoms are worse riding in a carriage or on shipboard; hence its use in seasickness. Sensation of HOLLOWNESS, or emptiness, as if parts had gone to sleep. Feels too weak to talk loud.", 
-  "Natural History": [
-    "Indian Cockle"
-  ], 
+  "Natural History": "Indian Cockle", 
   "dosage": "Third to thirtieth potency."
 }

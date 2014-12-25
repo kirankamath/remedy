@@ -26,14 +26,14 @@
       "Vertigo, with vanishing of vision"
     ], 
     "Urine": [
-      "STRANGURY, WITH BLOODY URINE", 
+      "Strangury, with bloody urine", 
       "Constant tenesmus", 
       "Inflamed kidneys following any acute disease", 
-      "Scanty, suppressed, ODOR OF VIOLETS", 
+      "Scanty, suppressed, odor of violets", 
       "Urethritis, with painful excretions"
     ], 
     "Back": [
-      "BURNING PAIN IN REGION OF KIDNEYS", 
+      "Burning pain in region of kidneys", 
       "Drawing in right kidney extending to hip"
     ], 
     "Abdomen": [
@@ -42,7 +42,7 @@
       "Fainting after every stool", 
       "Abdominal dropsy; pelvic peritonitis", 
       "Enterocolitis, with hemorrhage and ulceration of bowels", 
-      "ENORMOUS DISTENTION", 
+      "Enormous distention", 
       "Hemorrhage from bowels", 
       "Worms; lumbrici"
     ], 
@@ -52,13 +52,13 @@
     ], 
     "Mouth": [
       "Dentition", 
-      "Tongue DRY, RED, SORE, SHINING; burning in tips, with prominent papillae", 
+      "Tongue dry, red, sore, shining; burning in tips, with prominent papillae", 
       "Choking sensation in throat", 
       "Stomatitis", 
       "Breath cold, foul"
     ], 
     "Female": [
-      "Intense BURNING IN UTERINE REGION", 
+      "Intense burning in uterine region", 
       "Metrorrhagia with burning in uterus", 
       "Metritis; puerperal peritonitis"
     ], 
@@ -76,8 +76,6 @@
     ]
   }, 
   "details": "Has a selective affinity for BLEEDING MUCOUS SURFACES. Tympanites and urinary symptoms very marked. Inflammation of kidneys, with hemorrhages - dark, passive, fetid. Bright's disease preceded by dropsy (Goullon). Drowsiness and strangury. Coma. UNBROKEN CHILBLAINS.", 
-  "Natural History": [
-    "Turpentine"
-  ], 
+  "Natural History": "Turpentine", 
   "dosage": "First to sixth potency."
 }

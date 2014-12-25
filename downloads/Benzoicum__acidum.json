@@ -23,14 +23,14 @@
     "Urine": [
       "Vesical catarrh from suppressed gonorrhea", 
       "Excess of uric acid", 
+      "Enuresis; dribbling, offensive urine of old men", 
       "Cystitis", 
-      "REPULSIVE ODOR; changeable color; brown, acid", 
-      "ENURESIS; dribbling, OFFENSIVE URINE OF OLD MEN"
+      "Repulsive odor; changeable color; brown, acid"
     ], 
     "Rectum": [
       "Puckering constriction of rectum", 
       "Itching and watery elevations around anus", 
-      "Stitches and CONSTRICTED feeling"
+      "Stitches and constricted feeling"
     ], 
     "Mind": [
       "Omits words in writing", 
@@ -41,7 +41,7 @@
       "Worse: in open air; by uncovering"
     ], 
     "Stool": [
-      "Frothy, OFFENSIVE, LIQUID, light-colored, like soapsuds, bowel movements mostly windy"
+      "Frothy, offensive, liquid, light-colored, like soapsuds, bowel movements mostly windy"
     ], 
     "Back": [
       "Pressure on spinal column", 
@@ -81,12 +81,10 @@
       "Bunion of great toe", 
       "Rheumatic gout; nodes very painful", 
       "Ganglion; swelling of the wrist", 
-      "PAIN IN TENDO ACHILLS"
+      "Pain in tendo achills"
     ]
   }, 
   "details": "The most marked characteristic pertains to the odor and color of the urine. It has a marked action on metabolism. It produces and cures symptoms of a uric acid diathesis, with urine highly colored and very offensive, and gouty symptoms. Renal insufficiency. Child wants to be nursed in the arms, will not be laid down. Pains suddenly change their locality. Anti-sycotic. Gouty and asthmatic.", 
-  "Natural History": [
-    "Benzoic Acid"
-  ], 
+  "Natural History": "Benzoic Acid", 
   "dosage": "Third to sixth potency."
 }

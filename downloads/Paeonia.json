@@ -9,9 +9,9 @@
       "Rush of blood to head and face"
     ], 
     "Rectum": [
-      "Biting, ITCHING IN ANUS; orifice swollen", 
+      "Biting, itching in anus; orifice swollen", 
       "Atrocious pains with and after each stool", 
-      "HEMORRHOIDS, FISSURES, ULCERATION OF ANUS AND PERINEUM, PURPLE, COVERED WITH CRUSTS", 
+      "Hemorrhoids, fissures, ulceration of anus and perineum, purple, covered with crusts", 
       "Painful ulcer, oozing offensive moisture on perineum", 
       "Burning in anus after stool; then internal chilliness", 
       "Fistula ani, diarrhoea, with anal burning and internal chilliness", 
@@ -27,7 +27,7 @@
     ], 
     "Skin": [
       "Ulcers below coccyx, around sacrum; varicose veins", 
-      "Ulcers in general, from pressure, bedsores, etc. Itching, burning, as from nettles", 
+      "Ulcers in general, from pressure, bedsores, etc. itching, burning, as from nettles", 
       "Sensitive, painful"
     ], 
     "Extremities": [
@@ -36,8 +36,6 @@
     ]
   }, 
   "details": "The rectal and anal symptoms are most important. Chronic ulcers on lower parts of body, leg, foot, toes, also breast, rectum.", 
-  "Natural History": [
-    "Peony"
-  ], 
+  "Natural History": "Peony", 
   "dosage": "Third potency."
 }

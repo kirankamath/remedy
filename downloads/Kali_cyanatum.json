@@ -6,7 +6,7 @@
       "Cough prevents sleep; respiration weak; cannot take deep breath"
     ], 
     "Modalities": [
-      "Worse: FROM four AM TO four PM"
+      "Worse: from four am to four pm"
     ], 
     "Face": [
       "Pain in orbital and supramaxillary region, with screaming and loss of consciousness", 
@@ -19,8 +19,6 @@
     ]
   }, 
   "details": "Sudden sinking sensation. Cancer of tongue and agonizing neuralgia have been benefited by this drug. Sick headache; sciatica; epilepsy.", 
-  "Natural History": [
-    "Potassium Cyanide"
-  ], 
+  "Natural History": "Potassium Cyanide", 
   "dosage": "Sixth potency and 200th."
 }

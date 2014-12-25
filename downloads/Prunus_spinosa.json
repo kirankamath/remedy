@@ -3,11 +3,11 @@
   "Relationship": "Compare: LAUROC.; PRUNUS PADUS - Bird-cherry - (sore throat, pressure behind sternum and sticking pain in rectum); PRUNUS VIRGINIANA - Wild Cherry - (HEART TONIC; relieves the flagging and distended ventricle; irritable heart; dilatation of right heart; COUGH, WORSE AT NIGHT ON LYING DOWN; weak digestion, especially in elderly people; chronic bronchitis; increases muscular tone); PYRUS - Mountain Ash - (irritation of eyes; constriction around waist; spasmodic pains in uterus, bladder, heart, cold-water sensation in stomach, coldness extends up oesophagus; neuralgic and gouty pains).", 
   "symptoms": {
     "Eyes": [
-      "CILIARY NEURALGIA", 
+      "Ciliary neuralgia", 
       "Bursting pain in right eyeball shooting like lightning through the brain to occiput", 
       "Iridochoroiditis", 
       "Opacity of vitreous humor", 
-      "SUDDEN PAIN IN LEFT EYE AS IF IT WOULD BURST, better by lachrymation", 
+      "Sudden pain in left eye as if it would burst, better by lachrymation", 
       "Eyes feel as if bursting"
     ], 
     "Respiratory": [
@@ -17,17 +17,17 @@
       "Furious beating of heart; worse, slightest motion"
     ], 
     "Head": [
-      "PAIN IN RIGHT EYEBALL, AS IF IT WOULD BURST", 
+      "Pain in right eyeball, as if it would burst", 
       "Piercing toothache, as if teeth were pulled out; worse, taking anything warm", 
-      "SHOOTING FROM RIGHT FRONTAL BONE THROUGH BRAIN TO OCCIPUT", 
+      "Shooting from right frontal bone through brain to occiput", 
       "Pressing-asunder pain beneath skull"
     ], 
     "Urine": [
-      "HURRIEDLY IMPELLED TO URINATE; THE URINE SEEMS TO PASS AS FAR AS GLANS, AND THEN RETURNS AND CAUSES PAIN IN URETHRA", 
+      "Hurriedly impelled to urinate; the urine seems to pass as far as glans, and then returns and causes pain in urethra", 
       "Ineffectual effort to urinate", 
       "Neuralgic dysuria", 
       "Tenesmus of bladder", 
-      "MUST PRESS A LONG TIME BEFORE URINE APPEARS"
+      "Must press a long time before urine appears"
     ], 
     "Abdomen": [
       "Cramp-like pain in bladder region; worse, walking", 
@@ -36,7 +36,7 @@
     "Skin": [
       "Itching on tips of fingers, as if frozen", 
       "Herpes zoster", 
-      "DROPSY"
+      "Dropsy"
     ], 
     "Rectum": [
       "Hard, nodular stool, with rectal pain, as if angular body were pressed inward", 
@@ -44,8 +44,6 @@
     ]
   }, 
   "details": "Special action on the urinary organs and head. Very valuable in certain neuralgias, anasarca, and especially oedema pedum. Ankle and foot feel sprained. CILIARY NEURALGIA. (SPIG.)", 
-  "Natural History": [
-    "Black-thorn"
-  ], 
+  "Natural History": "Black-thorn", 
   "dosage": "Third to sixth potency."
 }

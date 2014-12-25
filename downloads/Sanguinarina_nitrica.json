@@ -1,33 +1,31 @@
 {
-  "Natural History": [
-    "Nitrate of Sanguinarine"
-  ], 
+  "Natural History": "Nitrate of Sanguinarine", 
   "symptoms": {
     "Respiratory": [
       "Voice altered, deep, hoarse", 
       "Short, hacking cough, with expectoration of thick, yellow, sweetish mucus", 
-      "TICKLING COUGH", 
+      "Tickling cough", 
       "Dryness and burning in throat and bronchi", 
       "Chronic nasal, laryngeal, and bronchial catarrh", 
-      "PRESSURE BEHIND CENTER OF STERNUM"
+      "Pressure behind center of sternum"
     ], 
     "Mouth": [
-      "Ulceration on the SIDE of the tongue"
+      "Ulceration on the side of the tongue"
     ], 
     "Nose": [
       "Post-nasal secretions adherent to nasopharynx, dislodged with difficulty", 
       "Small crusts which bleed when removed", 
-      "FEELS OBSTRUCTED", 
+      "Feels obstructed", 
       "Enlarged turbinates at beginning of hypertrophic process", 
       "Rawness and soreness in posterior nares", 
-      "SNEEZING", 
+      "Sneezing", 
       "Nostrils plugged with thick, yellow, bloody mucus", 
       "Secretion scant, tendency to dryness", 
       "Dry and burning nostrils; watery mucus, with pressure over root of nose", 
-      "PROFUSE, WATERY MUCUS, WITH BURNING PAIN"
+      "Profuse, watery mucus, with burning pain"
     ], 
     "Throat": [
-      "Rough, dry, CONSTRICTED, BURNING", 
+      "Rough, dry, constricted, burning", 
       "Right tonsil sore, swallowing difficult"
     ]
   }, 

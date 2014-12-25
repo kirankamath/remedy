@@ -12,12 +12,12 @@
     ], 
     "Rectum": [
       "Sphincter seems relaxed", 
-      "Stools slip from anus, like LUMPS OF JELLY, mushy"
+      "Stools slip from anus, like lumps of jelly, mushy"
     ], 
     "Urine": [
       "Urging to urinate when thinking of it", 
       "Pain in kidneys", 
-      "PROFUSE FLOW"
+      "Profuse flow"
     ], 
     "Modalities": [
       "Worse: thinking of symptoms", 
@@ -28,7 +28,7 @@
       "Disinclined to work or talk", 
       "Desires to be alone", 
       "Vertigo", 
-      "MENTAL DEPRESSION", 
+      "Mental depression", 
       "Worse, thinking of symptoms"
     ], 
     "Head": [
@@ -47,7 +47,7 @@
       "Numb feeling about spine", 
       "Patellar tendon reflex lost", 
       "Pains come and go quickly, but muscles remain sore and stiff", 
-      "STAGGERING GAIT"
+      "Staggering gait"
     ], 
     "Male": [
       "No desire or ability", 
@@ -55,8 +55,6 @@
     ]
   }, 
   "details": "Marked action on nervous system. Trembling, sensation of emptiness. Walks backwards. Congestion of spine and paralysis. Pains come and go quickly. Sphincters relaxed. Staggering gait. Reflexes lost.", 
-  "Natural History": [
-    "Loco-weed"
-  ], 
+  "Natural History": "Loco-weed", 
   "dosage": "Third potency and higher."
 }

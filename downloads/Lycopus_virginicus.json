@@ -16,11 +16,11 @@
       "Protrusion, pressing, outward, with tumultuous action of heart"
     ], 
     "Respiratory": [
-      "Cough, with HEMOPTYSIS, bleeding small but frequent", 
+      "Cough, with hemoptysis, bleeding small but frequent", 
       "Wheezing"
     ], 
     "Urine": [
-      "PAIN IN TESTICLES", 
+      "Pain in testicles", 
       "Profuse flow of liquid, watery urine, especially when the heart is most irritable; also scanty urine", 
       "Bladder feels distended when empty", 
       "Diabetes"
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "A heart remedy, and of use in exophthalmic goitre and hemorrhoidal bleeding. Indicated in diseases with tumultuous action of the heart and more or less pain. HEMOPTYSIS DUE TO VALVULAR HEART DISEASE. Beneficial in toxic goitre used in the pre-operative stage. Dose, 5 drops of tincture (Beebe).Lowers the blood pressure, reduces the rate of the heart and increases the length of systole to a great degree. Passive hemorrhages. (ADRENALIN 6x.)", 
-  "Natural History": [
-    "Bugle-weed"
-  ], 
+  "Natural History": "Bugle-weed", 
   "dosage": "First to thirtieth potency."
 }

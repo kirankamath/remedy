@@ -3,26 +3,26 @@
   "Relationship": "Compare: SYZYGIUM; PHOS-AC.; LACT-AC.; ARG. NIT.; KALI-BICH.; ARS.; PHLORIDZIN (a glucosidal principle obtained form the bark of the root of the apple and other fruit trees. Produces diabetes and fatty degeneration of the liver; intermittent fever. Daily doses, 15 grains. Phlorizin causes glycosuria. No hyperglycemia results. It compels the secretory epithelium of the kidney to break down serum albumin into sugar. There is no increase in blood sugar.)", 
   "symptoms": {
     "Eyes": [
-      "Lids inflamed and agglutinated; STYES"
+      "Lids inflamed and agglutinated; styes"
     ], 
     "Stomach": [
       "Burning pain", 
-      "ABDOMEN BLOATED", 
-      "Excessive thirst; nausea; VOMITING", 
-      "GASTRIC AND DUODENAL ULCERS", 
-      "BORING PAIN IN PYLORIC REGION", 
-      "RAVENOUS APPETITE; eating followed by flatulence", 
-      "Gas, second only to Lycop"
+      "Abdomen bloated", 
+      "Excessive thirst; nausea; vomiting", 
+      "Gastric and duodenal ulcers", 
+      "Boring pain in pyloric region", 
+      "Ravenous appetite; eating followed by flatulence", 
+      "Gas, second only to lycop"
     ], 
     "Urine": [
-      "DIURESIS", 
+      "Diuresis", 
       "Emaciation and tympanites", 
       "Incontinence of urine", 
-      "ENURESIS", 
-      "UNABLE TO retain urine without pain", 
+      "Enuresis", 
+      "Unable to retain urine without pain", 
       "Copious urination", 
-      "BURNING IN URETHRA, with very acid urine", 
-      "DIABETES"
+      "Burning in urethra, with very acid urine", 
+      "Diabetes"
     ], 
     "Head": [
       "Mental depression", 
@@ -35,8 +35,6 @@
     ]
   }, 
   "details": "Causes glycosuria and increased urine. Is known to produce nephritis, diabetes, degeneration of the liver, high blood pressure and dropsy. Its therapeutic keynote is GREAT EMACIATION, DEBILITY AND TENDENCY TO ASCITES AND GENERAL DROPSY. Backache and delayed menses. Dry mucous membranes and skin.", 
-  "Natural History": [
-    "Nitrate of Uranium"
-  ], 
+  "Natural History": "Nitrate of Uranium", 
   "dosage": "Second trituration."
 }

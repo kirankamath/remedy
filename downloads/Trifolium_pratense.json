@@ -8,10 +8,10 @@
       "Mental failure, loss of memory"
     ], 
     "Respiratory": [
-      "HOARSE AND CHOKING; CHILLS WITH COUGH AT NIGHT", 
+      "Hoarse and choking; chills with cough at night", 
       "Cough on coming into the open air", 
       "Coryza like that which precedes hay-fever; thin mucus, with much irritation", 
-      "Spasmodic cough; WHOOPING COUGH, paroxysms; worse at night", 
+      "Spasmodic cough; whooping cough, paroxysms; worse at night", 
       "Hay-fever"
     ], 
     "Back": [
@@ -19,7 +19,7 @@
     ], 
     "Mouth": [
       "Sore throat, with hoarseness", 
-      "INCREASED FLOW OF SALIVA"
+      "Increased flow of saliva"
     ], 
     "Extremities": [
       "Tibial ulcers", 
@@ -28,8 +28,6 @@
     ]
   }, 
   "details": "PRODUCES MOST MARKED PTYALISM. Feeling of fullness with congestion of salivary glands, followed by increased copious flow of saliva. Feeling as if mumps were coming on. CRUSTA LACTEA; dry, scaly crusts. Stiff neck. CANCEROUS DIATHESIS.", 
-  "Natural History": [
-    "Red Clover"
-  ], 
+  "Natural History": "Red Clover", 
   "dosage": "Tincture."
 }

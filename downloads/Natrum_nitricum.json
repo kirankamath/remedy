@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Nitrate of Sodium"
-  ], 
+  "Natural History": "Nitrate of Sodium", 
   "details": "A Rademacherian remedy for INFLAMMATIONS. Hemoptysis. Hematuria. Purpura hemorrhagica. Hemorrhagic Variola. Drowsiness. Pains of tabes INFLUENZA. Hemorrhages from mucous membranes, particularly nasal. Hemoglobinuria. Uric acid diathesis. Asthma with urine supersaturated with solids. Anemia and hydraemia. Exhaustion, must rest frequently when walking.", 
   "symptoms": {
     "Heart": [
@@ -10,7 +8,7 @@
     ], 
     "Head": [
       "Otalgia", 
-      "NOSEBLEED", 
+      "Nosebleed", 
       "Pressing inward pain", 
       "Indisposed to mental and bodily exertion", 
       "Inward pressing in malar bones", 

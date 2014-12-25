@@ -10,7 +10,7 @@
     ], 
     "Respiratory": [
       "Tendency to get hoarse talking or singing; throat hot, dry", 
-      "DRY, HACKING COUGH, caused by tickling of the epiglottis", 
+      "Dry, hacking cough, caused by tickling of the epiglottis", 
       "Burning sensation in the bronchial tubes", 
       "Dry asthma"
     ], 
@@ -20,7 +20,7 @@
       "Belching of wind alternating with hiccough"
     ], 
     "Stool": [
-      "Constipation, WITH HEMORRHOIDS; not bleeding", 
+      "Constipation, with hemorrhoids; not bleeding", 
       "Loose, dark, at night", 
       "Itching of anus"
     ], 
@@ -32,7 +32,7 @@
     ], 
     "Fever": [
       "Terrific headache during sweat", 
-      "Chill at eleven AM Thirst for ice-water during chill", 
+      "Chill at eleven am thirst for ice-water during chill", 
       "No thirst with heat", 
       "Profuse sweat all night"
     ], 
@@ -49,8 +49,8 @@
       "Constant desire to swallow saliva", 
       "Uvula feels elongated", 
       "Constant clearing and hemming", 
-      "DRY, posterior nares; no relief from clearing", 
-      "THROAT FEELS SWOLLEN; epiglottis dry and burning"
+      "Dry, posterior nares; no relief from clearing", 
+      "Throat feels swollen; epiglottis dry and burning"
     ], 
     "Extremities": [
       "Pain right arm, stiffness of wrist and hand", 
@@ -58,8 +58,6 @@
     ]
   }, 
   "details": "Has marked effects on the throat, and has proven an excellent remedy in PHARYNGITIS, especially the follicular form. Irritable throats of singers and public speakers. Useful also in hemorrhoids. Hay-fever symptoms; ITCHING IN POSTERIOR NARES.", 
-  "Natural History": [
-    "Poison-weed"
-  ], 
+  "Natural History": "Poison-weed", 
   "dosage": "First to sixth potency."
 }

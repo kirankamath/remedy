@@ -16,7 +16,7 @@
     ], 
     "Stomach": [
       "Vomiting of white, opaque mucus; water gathers in the mouth", 
-      "FATTY OR RICH FOOD CAUSES INDIGESTION", 
+      "Fatty or rich food causes indigestion", 
       "Pain in the stomach, with constipation", 
       "Bulimia; hunger disappears by drinking water"
     ], 
@@ -34,7 +34,7 @@
     "Stool": [
       "Dysentery; purging, with slimy stools", 
       "Constipation; light-colored stools", 
-      "HEMORRHOIDS; bleeding; blood dark and thick; fibrinous, clotted", 
+      "Hemorrhoids; bleeding; blood dark and thick; fibrinous, clotted", 
       "Diarrhoea, after fatty food; clay-colored, white, or slimy stools"
     ], 
     "Abdomen": [
@@ -47,7 +47,7 @@
     ], 
     "Mouth": [
       "Aphthae; thrush; white ulcers in mouth", 
-      "Coating of tongue GRAYISH-WHITE, dryish, or slimy", 
+      "Coating of tongue grayish-white, dryish, or slimy", 
       "Swollen glands about jaw and neck"
     ], 
     "Nose": [
@@ -57,18 +57,18 @@
       "Catarrh; phlegm white, thick"
     ], 
     "Female": [
-      "Menstruation too late or suppressed, checked or too early; excessive discharge; DARK-CLOTTED, or tough, black blood, like tar", 
+      "Menstruation too late or suppressed, checked or too early; excessive discharge; dark-clotted, or tough, black blood, like tar", 
       "Leucorrhoea; discharge of milky-white mucus, thick, non-irritating, bland", 
       "Morning sickness, with vomiting of white phlegm", 
-      "Bunches in breast feel quite soft and are TENDER"
+      "Bunches in breast feel quite soft and are tender"
     ], 
     "Skin": [
       "Dry, flour-like scales on the skin", 
       "Bursitis", 
-      "Acne, erythema, and eczema, with VESICLES containing thick, white contents"
+      "Acne, erythema, and eczema, with vesicles containing thick, white contents"
     ], 
     "Throat": [
-      "FOLLICULAR TONSILLITIS", 
+      "Follicular tonsillitis", 
       "Tonsils inflamed; enlarged so much, can hardly breathe", 
       "Adherent crusts in vault of pharynx", 
       "Eustachian catarrh", 
@@ -77,21 +77,19 @@
     ], 
     "Extremities": [
       "Hands get stiff while writing", 
-      "Rheumatic fever; exudation and SWELLING AROUND JOINTS", 
+      "Rheumatic fever; exudation and swelling around joints", 
       "Rheumatic pains felt only during motion, or increased by it", 
       "Nightly rheumatic pains; worse from warmth of bed; lightning-like from small of back to feet; must get out of bed and sit up"
     ], 
     "Ears": [
       "Glands about the ear swollen", 
-      "CHRONIC, CATARRHAL CONDITIONS OF THE MIDDLE EAR", 
+      "Chronic, catarrhal conditions of the middle ear", 
       "Great effusion about the auricle", 
-      "SNAPPING AND NOISES IN THE EAR", 
+      "Snapping and noises in the ear", 
       "Threatened mastoid"
     ]
   }, 
   "details": "Although not proven, this remedy has a wide clinical use, through its introduction by Schuessler. It certainly is of great value in catarrhal affections, in sub-acute inflammatory states, fibrinous exudations, and glandular swellings. WHITE OR GRAY COATING OF BASE OF TONGUE, and expectoration of thick, white phlegm, seem to be special guiding symptoms. Bursitis praepatellaris.", 
-  "Natural History": [
-    "Chloride of Potassium -"
-  ], 
+  "Natural History": "Chloride of Potassium - (KCl.)", 
   "dosage": "External use in skin affections with burning sensation.Third to twelfth potency."
 }

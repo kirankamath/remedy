@@ -1,25 +1,23 @@
 {
-  "Natural History": [
-    "Iodoform"
-  ], 
+  "Natural History": "Iodoform", 
   "details": "Should not be forgotten in the treatment of tubercular meningitis, both as a local application to the head and internally. (BACIL.) TUBERCULOUS CONDITIONS. Subacute and chronic diarrhoea of children.", 
   "symptoms": {
     "Head": [
       "Head feels heavy, as if it could not be lifted from pillow", 
       "Sharp, neuralgic pain", 
       "Very drowsy", 
-      "Itching of occiput MENINGITIS", 
+      "Itching of occiput meningitis", 
       "Sleep interrupted by sighing and cries"
     ], 
     "Abdomen": [
-      "CHOLERA INFANTUM", 
+      "Cholera infantum", 
       "Scaphoid abdomen", 
       "Abdomen distended; mesenteric glands enlarged", 
       "Chronic diarrhoea with suspected tuberculosis", 
-      "CHRONIC DIARRHOEA; STOOLS GREENISH, WATERY, UNDIGESTED, WITH IRRITABLE TEMPER"
+      "Chronic diarrhoea; stools greenish, watery, undigested, with irritable temper"
     ], 
     "Eyes": [
-      "Pupils, DILATED; contract unequally, react poorly", 
+      "Pupils, dilated; contract unequally, react poorly", 
       "Failing sight due to retrobulbar neuritis, central scotoma - partial atrophy of optic disc", 
       "Diplopia"
     ], 

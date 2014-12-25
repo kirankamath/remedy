@@ -11,23 +11,23 @@
       "Urine scanty and dark"
     ], 
     "Stool": [
-      "Watery, noisy, flatulent; GREEN, LIKE CHOPPED SPINACH, with shreddy mucus and enormous distention of abdomen; very offensive", 
+      "Watery, noisy, flatulent; green, like chopped spinach, with shreddy mucus and enormous distention of abdomen; very offensive", 
       "After any emotion with flatulence", 
-      "FLUIDS GO RIGHT THROUGH HIM; after sweets", 
+      "Fluids go right through him; after sweets", 
       "Diarrhoea immediately after eating or drinking", 
       "Itching of anus"
     ], 
     "Head": [
       "Itching of scalp", 
-      "Sense of EXPANSION", 
+      "Sense of expansion", 
       "Emotional disturbances cause appearance of hemi-cranial attacks", 
-      "HEADACHE WITH COLDNESS AND TREMBLING", 
-      "Aching in frontal eminence, with ENLARGED FEELING IN CORRESPONDING EYE", 
-      "Boring pain; BETTER ON TIGHT BANDAGING AND PRESSURE", 
+      "Headache with coldness and trembling", 
+      "Boring pain; better on tight bandaging and pressure", 
       "Hemicrania; bones of head feel as if separated", 
       "Brain-fag, with general debility and trembling", 
       "Headache from mental exertion, from dancing", 
-      "VERTIGO, with buzzing in ears and with nervous affections"
+      "Aching in frontal eminence, with enlarged feeling in corresponding eye", 
+      "Vertigo, with buzzing in ears and with nervous affections"
     ], 
     "Fever": [
       "Chilly when uncovered, yet feels smothered if wrapped up", 
@@ -38,19 +38,19 @@
       "Gnawing ulcerating pain; burning and constriction", 
       "Ulcerative pain in left side under ribs", 
       "Painful spot over stomach that radiates to all parts of the abdomen", 
-      "GREAT CRAVING FOR SWEATS", 
+      "Great craving for sweats", 
       "Desire for cheese and salt", 
-      "Ulceration of stomach, WITH RADIATING PAIN", 
+      "Ulceration of stomach, with radiating pain", 
       "Enormous distention", 
-      "BELCHING accompanies most gastric ailments", 
-      "Flatulence; PAINFUL SWELLING OF PIT", 
+      "Belching accompanies most gastric ailments", 
+      "Flatulence; painful swelling of pit", 
       "Nausea, retching, vomiting of glairy mucus", 
       "Trembling and throbbing in stomach", 
       "Gastritis of drunkards"
     ], 
     "Abdomen": [
       "Stitchy ulcerative pain on left side of stomach, below short ribs", 
-      "Colic, WITH MUCH FLATULENT DISTENTION"
+      "Colic, with much flatulent distention"
     ], 
     "Mouth": [
       "Gums tender and bleed easily", 
@@ -63,10 +63,10 @@
       "Chest feels as if a bar were around it", 
       "Dyspnoea", 
       "Many people in a room seem to take away his breath", 
-      "Palpitation, pulse irregular and intermittent; worse lying on RIGHT SIDE;  Painful spots in chest", 
+      "Palpitation, pulse irregular and intermittent; worse lying on right side;  painful spots in chest", 
       "Suffocative cough, as if from a hair in throat", 
       "Angina pectoris, nightly aggravation", 
-      "HIGH NOTES CAUSE COUGH", 
+      "High notes cause cough", 
       "Chronic hoarseness"
     ], 
     "Eyes": [
@@ -74,11 +74,11 @@
       "Chronic ulceration of margin of lids; sore, thick, swollen", 
       "Spots before the vision", 
       "Unable to keep eyes fixed steadily", 
-      "PURULENT OPHTHALMIA", 
-      "Great swelling of conjunctiva; DISCHARGE ABUNDANT AND PURULENT", 
+      "Purulent ophthalmia", 
+      "Great swelling of conjunctiva; discharge abundant and purulent", 
       "Paretic condition of ciliary muscle", 
       "Ulcer in cornea", 
-      "Inner canthi SWOLLEN AND RED", 
+      "Inner canthi swollen and red", 
       "Eye-strain from sewing; worse in warm room", 
       "Photophobia in warm room", 
       "Useful in restoring power to the weakened ciliary muscles", 
@@ -105,25 +105,25 @@
       "Impotence"
     ], 
     "Modalities": [
-      "Worse: warmth in any form; at night; from cold food; SWEETS; after eating; at menstrual period; from emotions", 
-      "Worse: LEFT SIDE", 
-      "Better: from eructation; fresh air; COLD; pressure"
+      "Worse: warmth in any form; at night; from cold food; sweets; after eating; at menstrual period; from emotions", 
+      "Worse: left side", 
+      "Better: from eructation; fresh air; cold; pressure"
     ], 
     "Mind": [
       "Memory weak", 
+      "Time passes slowly", 
       "Fearful and nervous; impulse to jump out of window", 
-      "TIME PASSES SLOWLY", 
-      "PECULIAR MENTAL IMPULSES", 
+      "Peculiar mental impulses", 
       "Thinks his understanding will and must fail", 
       "Fears and anxieties and hidden irrational motives for actions", 
       "Faintish and tremulous", 
-      "MELANCHOLIC, apprehensive of serious disease", 
+      "Melancholic, apprehensive of serious disease", 
       "Errors of perception", 
-      "IMPULSIVE; WANTS TO DO THINGS IN A HURRY"
+      "Impulsive; wants to do things in a hurry"
     ], 
     "Back": [
       "Much pain", 
-      "Spine sensitive with nocturnal pains,  Paraplegia; posterior spinal sclerosis"
+      "Spine sensitive with nocturnal pains,  paraplegia; posterior spinal sclerosis"
     ], 
     "Sleep": [
       "Drowsy stupor", 
@@ -144,15 +144,15 @@
       "Irregular blotches"
     ], 
     "Throat": [
-      "STRANGULATED feeling", 
       "Raw, rough and sore", 
-      "Much THICK MUCUS in throat and mouth causes hawking", 
-      "SENSATION OF A SPLINTER IN THROAT on swallowing", 
+      "Much thick mucus in throat and mouth causes hawking", 
+      "Sensation of a splinter in throat on swallowing", 
+      "Strangulated feeling", 
       "Dark redness of throat catarrh of smokers, with tickling as of hair in throat"
     ], 
     "Extremities": [
       "Walks and stands unsteadily, especially when unobserved", 
-      "Rigidity of CALVES", 
+      "Rigidity of calves", 
       "Numbness of arms", 
       "Paralysis, with mental and abdominal symptoms", 
       "Post-diphtheritic paralysis", 
@@ -162,8 +162,6 @@
     ]
   }, 
   "details": "In this drug the neurotic effects are very marked, many brain and spinal symptoms presenting themselves which give certain indications for its homeopathic employment. Symptoms of incoordination, loss of control and want of balance everywhere, mentally and physically; TREMBLING in affected parts. Is an irritant of mucous membranes, producing violent inflammation of the throat, and a marked gastroenteritis. Very characteristic is the great DESIRE FOR SWEETS, the splinter-like pains, and free mucopurulent discharge in the inflamed and ulcerated mucous membranes. Sensation as if a part were expanding and other errors of perception are characteristic. Withered up and dried constitutions present a favorable field for its action, especially when associated with unusual or long continued mental exertion. Head symptoms often determine the choice of this remedy. Pains increase and decrease gradually. Flatulent state and prematurely aged look. Explosive belching, especially in neurotics. Upper abdominal affections brought on by undue mental exertion. Paraplegia Myelitis and disseminated sclerosis of brain and cord. INTOLERANCE OF HEAT. Sensation of a sudden pinch (Dudgeon). Destroys red blood corpuscles, producing anemia.", 
-  "Natural History": [
-    "Nitrate of Silver"
-  ], 
+  "Natural History": "Nitrate of Silver", 
   "dosage": "Best form an aqueous solution 1 to 9, 2 or 3 drop doses. This solution in water preferable to lower triturations; unless fresh, these readily decomposeThird to thirtieth potency."
 }

@@ -12,15 +12,15 @@
       "Worse: in damp weather; from sitting on cold stones or pavements; left side"
     ], 
     "Urine": [
-      "SUGAR IN URINE", 
-      "MUST STRAIN before flow comes", 
+      "Sugar in urine", 
+      "Must strain before flow comes", 
       "Burning and scalding during micturition, and straining afterwards", 
       "Urine turbid, offensive, containing ropy or bloody mucus, and depositing a copious sediment", 
       "Urging to urinate", 
       "Fluttering in region of kidney", 
       "Scanty urine", 
       "Unable to urinate without standing with feet wide apart and body inclined forward", 
-      "Acute prostatitis, retention, and FEELING OF A BALL IN PERINEUM"
+      "Acute prostatitis, retention, and feeling of a ball in perineum"
     ], 
     "Mouth": [
       "Toothache, worse after eating and exertion, better cool water", 
@@ -30,8 +30,8 @@
       "Hot flashes", 
       "Pain in vagina", 
       "Labia inflamed, swollen", 
-      "Women with VERY LARGE BREASTS and tumor in the mammary gland with SHARP pain through it", 
-      "Painful TUMOR OF MAMMAE, not ulcerated, with undue secretion of milk, Rapid atrophy of breasts"
+      "Women with very large breasts and tumor in the mammary gland with sharp pain through it", 
+      "Painful tumor of mammae, not ulcerated, with undue secretion of milk, rapid atrophy of breasts"
     ], 
     "Skin": [
       "Glandular enlargements", 
@@ -48,8 +48,6 @@
     ]
   }, 
   "details": "Acts principally on kidneys, and genitourinary tract; affects also lymphatic and mesenteric glands and female mammae. Plethoric young women with dysuria. Women with large breasts. Hepatic and renal dropsies; chronic alcoholics. Incipient and progressive cataracts. One of the remedies whose symptoms point to its employment in bladder affections, notably catarrh, acute and chronic. SCANTY URINE, AND LOADED WITH ROPY, MUCOPURULENT SEDIMENT. PROSTATIC ENLARGEMENT.", 
-  "Natural History": [
-    "Pipsissewa"
-  ], 
+  "Natural History": "Pipsissewa", 
   "dosage": "Tincture, to third attenuation."
 }

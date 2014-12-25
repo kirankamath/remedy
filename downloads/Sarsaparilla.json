@@ -4,13 +4,13 @@
   "symptoms": {
     "Head": [
       "Influenza", 
-      "PAINS CAUSE DEPRESSION", 
+      "Pains cause depression", 
       "Crusta lactea beginning in face", 
       "Shooting pain from above right temporal region", 
       "Scalp sensitive", 
-      "ERUPTIONS ON FACE AND UPPER LIP", 
+      "Eruptions on face and upper lip", 
       "Words reverberate in ear to the root of nose", 
-      "Pains FROM OCCIPUT TO EYES", 
+      "Pains from occiput to eyes", 
       "Moist eruption on scalp", 
       "Periosteal pains due to venereal disease"
     ], 
@@ -25,39 +25,39 @@
       "Bladder distended and tender", 
       "Sand on diaper", 
       "Tenesmus of bladder; urine passes in thin, feeble stream", 
-      "PAIN FROM RIGHT KIDNEY DOWNWARD", 
-      "Urine scanty, slimy, flaky, sandy, BLOODY", 
+      "Pain from right kidney downward", 
+      "Urine scanty, slimy, flaky, sandy, bloody", 
       "Renal colic and dysuria in infants", 
-      "URINE DRIBBLES WHILE SITTING", 
+      "Urine dribbles while sitting", 
       "Renal colic", 
       "Pain at meatus", 
-      "SEVERE PAIN AT CONCLUSION OF URINATION", 
+      "Severe pain at conclusion of urination", 
       "Gravel", 
-      "CHILD SCREAMS BEFORE AND WHILE PASSING URINE"
+      "Child screams before and while passing urine"
     ], 
     "Mind": [
       "Despondent, sensitive, easily offended, ill humored and taciturn"
     ], 
     "Abdomen": [
-      "COLIC AND BACKACHE AT THE SAME TIME", 
+      "Colic and backache at the same time", 
       "Rumbling and fermentation", 
       "Much flatus; cholera infantum"
     ], 
     "Mouth": [
       "Fetid breath", 
-      "Tongue white; APHTHAE; SALIVATION; metallic taste; no thirst"
+      "Tongue white; aphthae; salivation; metallic taste; no thirst"
     ], 
     "Female": [
-      "Nipples small, withered, RETRACTED", 
+      "Nipples small, withered, retracted", 
       "Menses late and scanty", 
       "Moist eruption in right groin before menses", 
-      "BEFORE MENSTRUATION, ITCHING AND HUMID ERUPTION OF FOREHEAD"
+      "Before menstruation, itching and humid eruption of forehead"
     ], 
     "Skin": [
-      "Rash from exposure to open air; dry, itching; COMES ON IN SPRING; becomes crusty", 
+      "Rash from exposure to open air; dry, itching; comes on in spring; becomes crusty", 
       "Summer cutaneous affections", 
       "Herpetic eruptions; ulcers", 
-      "EMACIATED, SHRIVELED, LIES IN FOLDS , dry, flabby", 
+      "Emaciated, shriveled, lies in folds , dry, flabby", 
       "Rhagades; skin cracked on hands and feet", 
       "Skin hard, indurated"
     ], 
@@ -81,8 +81,6 @@
     ]
   }, 
   "details": "Renal colic; marasmus and periosteal pains due to venereal disease. Eruptions following hot weather and vaccinations; boils, and eczema. Urinary symptoms well marked.", 
-  "Natural History": [
-    "Smilax"
-  ], 
+  "Natural History": "Smilax", 
   "dosage": "First to sixth potency."
 }

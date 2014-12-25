@@ -9,7 +9,7 @@
       "Morbid vigilance"
     ], 
     "Sleep": [
-      "DROWSY during the day", 
+      "Drowsy during the day", 
       "Sopor"
     ], 
     "Skin": [
@@ -17,14 +17,12 @@
       "Scarlatina-like eruption on face"
     ], 
     "Male": [
-      "Emissions, DEPENDING ON SEXUAL WEAKNESS AND AFTER ONANISM", 
+      "Emissions, depending on sexual weakness and after onanism", 
       "Painful erections", 
       "Spermatorrhoea"
     ]
   }, 
   "details": "Is a good remedy in unstrung condition of the nervous system attended with nausea, dizziness, headache following a night's debauch. INFANTILE JAUNDICE. Urethral burning. Drawing and twitching in almost every muscle. Nervous tremors; wakefulness and delirium of drunkards. GIDDINESS AND STUPEFACTION. SLOW pulse. Perspiration profuse, clammy, greasy.", 
-  "Natural History": [
-    "Hops"
-  ], 
+  "Natural History": "Hops", 
   "dosage": "Tincture, to third potency. LUPULIN"
 }

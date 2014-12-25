@@ -7,14 +7,14 @@
       "Retinitis after influenza, also albuminuric"
     ], 
     "Stomach": [
-      "FERMENTATIVE DYSPEPSIA", 
+      "Fermentative dyspepsia", 
       "Pruritus ani", 
       "Putrid fermentation", 
       "Tongue purplish, leaden-colored; foul breath", 
       "Stools", 
-      "FLATULENCE; HOT, SOUR BELCHING", 
-      "CANKER SORES, with burning soreness and fetid breath", 
-      "Putrid diarrhoea; gastrointestinal derangements, especially in children; stools like green frog's spawn"
+      "Putrid diarrhoea; gastrointestinal derangements, especially in children; stools like green frog's spawn", 
+      "Canker sores, with burning soreness and fetid breath", 
+      "Flatulence; hot, sour belching"
     ], 
     "Head": [
       "Vertigo; tendency to fall to left side", 
@@ -43,13 +43,11 @@
       "Copious foot-sweat and ill effects where suppressed"
     ], 
     "Ears": [
-      "ROARING AND RINGING IN EARS", 
+      "Roaring and ringing in ears", 
       "Deafness, with vertigo"
     ]
   }, 
   "details": "The symptoms point to its use in rheumatism, dyspepsia, and MENIERE'S DISEASE. Prostration after influenza; also tinnitus aurium and deafness. Hematuria.", 
-  "Natural History": [
-    "Salicylic Acid"
-  ], 
+  "Natural History": "Salicylic Acid", 
   "dosage": "Third decimal trituration. In acute articular rheumatism, 5 grains very 3 hours. (Old school dose.)"
 }

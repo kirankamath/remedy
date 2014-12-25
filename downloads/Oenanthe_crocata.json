@@ -8,7 +8,7 @@
       "Much yawning", 
       "Sudden and complete unconsciousness", 
       "Pains all over head, dizzy", 
-      "Countenance livid, eyes fixed, pupils dilated, CONVULSIVE TWITCHING OF FACIAL MUSCLES, trismus, foaming at mouth, locked jaws"
+      "Countenance livid, eyes fixed, pupils dilated, convulsive twitching of facial muscles, trismus, foaming at mouth, locked jaws"
     ], 
     "Respiratory": [
       "Heavy, spasmodic, stertorous breathing", 
@@ -22,8 +22,6 @@
     ]
   }, 
   "details": "Epileptiform convulsions; worse, during menstruation and pregnancy. Puerperal eclampsia; uraemic convulsions. Burning in throat and stomach, nausea and vomiting. Red spots in face. Convulsive facial twitching. Skin affections, especially lepra and ichthyosis.", 
-  "Natural History": [
-    "Water Drop wart"
-  ], 
+  "Natural History": "Water Drop wart", 
   "dosage": "First to sixth potency."
 }

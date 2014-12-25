@@ -14,19 +14,17 @@
       "Nausea, vomiting"
     ], 
     "Extremities": [
-      "VIOLENT PAIN IN CALVES, AS IF BOUND WITH CORDS", 
+      "Violent pain in calves, as if bound with cords", 
       "Trembling of hands in paralysis", 
       "Spasmodic motion of arms and legs", 
       "Cannot write; cannot hold a glass of water", 
       "Cold extremities", 
       "Loss of power in extremities", 
-      "In TREMBLING of hands and legsGait unsteady", 
-      "TREMBLING OF ALL LIMBS"
+      "In trembling of hands and legsgait unsteady", 
+      "Trembling of all limbs"
     ]
   }, 
   "details": "Has been made use of in cephalgia, sciatica, paralysis. Prostration and restlessness.", 
-  "Natural History": [
-    "Darnel"
-  ], 
+  "Natural History": "Darnel", 
   "dosage": "Sixth potency."
 }

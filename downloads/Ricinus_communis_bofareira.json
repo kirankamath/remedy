@@ -7,7 +7,7 @@
       "Face pale, twitching of mouth"
     ], 
     "Stomach": [
-      "Anorexia with great thirst, burning in stomach, pyrosis, nausea, PROFUSE VOMITING, pit of stomach sensitive", 
+      "Anorexia with great thirst, burning in stomach, pyrosis, nausea, profuse vomiting, pit of stomach sensitive", 
       "Mouth dry"
     ], 
     "Stool": [
@@ -22,8 +22,6 @@
     ]
   }, 
   "details": "Diminished mammary secretionHas marked action on gastrointestinal tract. INCREASES THE QUANTITY OF MILK in nursing women. Vomiting and purging. Languor and weakness.", 
-  "Natural History": [
-    "Castor-oil"
-  ], 
+  "Natural History": "Castor-oil", 
   "dosage": "Third potency. Five drops every four hours for increasing flow of milk; also locally a poultice of the leaves."
 }

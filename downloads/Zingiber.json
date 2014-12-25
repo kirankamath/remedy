@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "Ginger"
-  ], 
+  "Natural History": "Ginger", 
   "symptoms": {
     "Head": [
       "Pain over eyebrows", 
@@ -9,16 +7,16 @@
     ], 
     "Respiratory": [
       "Hoarseness", 
-      "ASTHMA, without anxiety, WORSE toward morning", 
-      "SMARTING BELOW LARYNX; breathing difficult", 
+      "Asthma, without anxiety, worse toward morning", 
+      "Smarting below larynx; breathing difficult", 
       "Scratching sensation in throat; stitches in chest", 
       "Cough dry, hacking; copious morning sputa"
     ], 
     "Stomach": [
-      "ACIDITY", 
+      "Acidity", 
       "Heaviness in stomach on awakening with wind and rumbling, great thirst and emptiness", 
       "Feels heavy, like from a stone", 
-      "COMPLAINTS FROM EATING MELONS AND DRINKING IMPURE WATER", 
+      "Complaints from eating melons and drinking impure water", 
       "Taste of food remains long, especially of bread and toast", 
       "Pain from pit to under sternum, worse eating"
     ], 

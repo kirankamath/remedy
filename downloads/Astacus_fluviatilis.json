@@ -6,7 +6,7 @@
       "Inward chilliness; very sensitive to air, worse uncovering; violent fever, with headache"
     ], 
     "Skin": [
-      "Erysipelas, and LIVER INFECTION WITH NETTLE-RASH", 
+      "Erysipelas, and liver infection with nettle-rash", 
       "Crusta lactea, with enlarged lymphatic glands", 
       "Swelling of cervical glands", 
       "Itching", 
@@ -15,8 +15,6 @@
     ]
   }, 
   "details": "Skin symptoms most important. Urticaria.", 
-  "Natural History": [
-    "CrawfishCancer Astacus"
-  ], 
+  "Natural History": "CrawfishCancer Astacus", 
   "dosage": "Third to thirtieth potency."
 }

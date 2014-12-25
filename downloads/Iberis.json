@@ -3,23 +3,23 @@
   "Relationship": "Compare: CACT.; DIG.; AMYL.; BELL.", 
   "symptoms": {
     "Heart": [
-      "Violent palpitation INDUCED BY SLIGHTEST EXERTION, OR BY LAUGHING, OR COUGHING", 
-      "DARTING PAINS THROUGH HEART", 
-      "Worse, least motion and in warm room Sensation of weight and pressure, with occasional sharp, stinging pains", 
+      "Violent palpitation induced by slightest exertion, or by laughing, or coughing", 
+      "Darting pains through heart", 
+      "Worse, least motion and in warm room sensation of weight and pressure, with occasional sharp, stinging pains", 
       "Dropsy, with enlarged heart", 
       "Conscious of heart's action", 
-      "Wakes with palpitation about two AM Throat and trachea fills up with mucus", 
-      "CARDIAC DYSPNOEA", 
+      "Wakes with palpitation about two am throat and trachea fills up with mucus", 
+      "Cardiac dyspnoea", 
       "On turning on left side, stitching pain as of needles through ventricles felt at each systole", 
       "Dilation of heart", 
       "Cough causes redness of face", 
-      "Palpitation, WITH VERTIGO AND CHOKING IN THROAT", 
+      "Palpitation, with vertigo and choking in throat", 
       "Stitching pains in cardiac region", 
-      "TACHYCARDIA", 
-      "PULSE FULL, IRREGULAR, INTERMITTENT"
+      "Tachycardia", 
+      "Pulse full, irregular, intermittent"
     ], 
     "Head": [
-      "Vertigo, AS IF OCCIPUT WERE TURNING AROUND; eyes feel forced outwards", 
+      "Vertigo, as if occiput were turning around; eyes feel forced outwards", 
       "Hot, flushed face", 
       "Vertigo and pains around heart", 
       "Constant hawking of thick, stringy mucus until after a meal"
@@ -38,8 +38,6 @@
     ]
   }, 
   "details": "State of nervous excitement. Has marked action upon the heart. Possesses great efficacy in cardiac diseases. Controls vascular excitement in hypertrophy with thickening of the heart's walls. Cardiac debility after influenza. Liver region full and painful. White stools.", 
-  "Natural History": [
-    "Bitter Candy tuft"
-  ], 
+  "Natural History": "Bitter Candy tuft", 
   "dosage": "Tincture and first potency."
 }

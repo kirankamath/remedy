@@ -5,7 +5,7 @@
     "Stool": [
       "Hemorrhoids, with painful fissures", 
       "Soreness of anus", 
-      "Hot, GREEN, watery, fetid, SLIMY, with colic", 
+      "Hot, green, watery, fetid, slimy, with colic", 
       "Diarrhoea during dentition", 
       "Chopped white and yellow mucus like chopped eggs and spinach"
     ], 
@@ -27,7 +27,7 @@
     ], 
     "Abdomen": [
       "Griping in region of navel, and pain in small of back", 
-      "Flatulent colic, after anger, WITH RED CHEEKS AND HOT PERSPIRATION", 
+      "Flatulent colic, after anger, with red cheeks and hot perspiration", 
       "Acute duodenitis", 
       "Distended", 
       "Hepatic colic"
@@ -37,8 +37,8 @@
       "Nightly salivation"
     ], 
     "Respiratory": [
-      "Hoarseness, hawking, RAWNESS of LARYNX", 
-      "IRRITABLE, DRY TICKLING COUGH; suffocative tightness of chest, with bitter expectoration in daytime", 
+      "Hoarseness, hawking, rawness of larynx", 
+      "Irritable, dry tickling cough; suffocative tightness of chest, with bitter expectoration in daytime", 
       "Rattling of mucus in child's chest"
     ], 
     "Eyes": [
@@ -49,8 +49,8 @@
     "Face": [
       "Stitches in jaw extending to inner ear and teeth", 
       "Jerking of tongue and facial muscles", 
-      "TEETH ACHE WORSE AFTER WARM DRINK; worse, coffee, at night", 
-      "ONE CHEEK RED and hot; the other pale and cold", 
+      "Teeth ache worse after warm drink; worse, coffee, at night", 
+      "One cheek red and hot; the other pale and cold", 
       "Distress of teething children", 
       "Drives to distraction"
     ], 
@@ -60,27 +60,27 @@
     ], 
     "Ears": [
       "Ringing in ears", 
-      "EARACHE, with soreness; SWELLING AND HEAT DRIVING PATIENT FRANTIC", 
+      "Earache, with soreness; swelling and heat driving patient frantic", 
       "Ears feel stopped", 
       "Stitching pain"
     ], 
     "Modalities": [
-      "Worse: by HEAT", 
+      "Worse: by heat", 
       "Worse: anger", 
       "Worse: open air", 
       "Worse: wind", 
-      "Worse: NIGHT", 
+      "Worse: night", 
       "Better: from being carried", 
       "Better: warm wet weather"
     ], 
     "Mind": [
-      "WHINING RESTLESSNESS", 
-      "Complaints from ANGER and vexation", 
+      "Whining restlessness", 
+      "Complaints from anger and vexation", 
       "Child can only be quieted when carried about and petted constantly", 
-      "Spiteful, SNAPPISH", 
+      "Spiteful, snappish", 
       "Child wants many things which he refuses again", 
-      "IMPATIENT, intolerant of being spoken to or interrupted; extremely sensitive to every pain; always complaining", 
-      "MENTAL CALMNESS CONTRAINDICATE CHAMOM", 
+      "Impatient, intolerant of being spoken to or interrupted; extremely sensitive to every pain; always complaining", 
+      "Mental calmness contraindicate chamom", 
       "Piteous moaning because he cannot have what he wants"
     ], 
     "Back": [
@@ -94,9 +94,9 @@
     "Female": [
       "Yellow, acrid leucorrhoea", 
       "Infants' breasts tender", 
-      "Uterine Hemorrhages", 
+      "Uterine hemorrhages", 
       "Nipples inflamed; tender to touch", 
-      "Profuse discharge of clotted, DARK BLOOD, WITH LABOR-LIKE PAINS", 
+      "Profuse discharge of clotted, dark blood, with labor-like pains", 
       "Labor pains spasmodic; press upward", 
       "Patient intolerant of pain"
     ], 
@@ -106,13 +106,11 @@
     ], 
     "Extremities": [
       "Burning of soles at night", 
-      "ANKLES GIVE WAY IN THE AFTERNOON Nightly paralytic loss of power in the feet, unable to step on them", 
+      "Ankles give way in the afternoon nightly paralytic loss of power in the feet, unable to step on them", 
       "Violent rheumatic pains drive him out of bed at night; compelled to walk about"
     ]
   }, 
   "details": "Chamomilla is SENSITIVE, IRRITABLE, THIRSTY, HOT, AND NUMB. Over-sensitiveness from abuse of coffee and narcotics. PAINS UNENDURABLE, associated with numbness. Night-sweats.The chief guiding symptoms belong to the mental and emotional group, which lead to this remedy in many forms of disease. Especially of frequent employment in diseases of children, where peevishness, restlessness, and colic give the needful indications. A disposition that is mild, calm and gentle; sluggish and constipated bowels contraindicate Chamomilla.", 
-  "Natural History": [
-    "German Chamomile"
-  ], 
+  "Natural History": "German Chamomile", 
   "dosage": "Third to thirtieth attenuation."
 }

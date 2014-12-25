@@ -5,19 +5,19 @@
     "Mind": [
       "Hopeless despair", 
       "Fear of death", 
-      "IRRITABLE, hateful, vindictive, headstrong", 
+      "Irritable, hateful, vindictive, headstrong", 
       "Sensitive to noise, pain, touch, jar"
     ], 
     "Eyes": [
       "Gonorrheal ophthalmia, photophobia, constant lachrymation", 
       "Ulceration of cornea", 
       "Syphilitic iritis", 
-      "Double vision; SHARP, STICKING PAINS"
+      "Double vision; sharp, sticking pains"
     ], 
     "Stomach": [
       "Great hunger, with sweetish taste", 
-      "LOVES FAT AND SALT", 
-      "Longing for indigestible things - chalk, earth, etc. Pain in cardiac orifice", 
+      "Loves fat and salt", 
+      "Longing for indigestible things - chalk, earth, etc. pain in cardiac orifice", 
       "Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression"
     ], 
     "Abdomen": [
@@ -32,23 +32,23 @@
       "Jaundice, aching in liver", 
       "Hemorrhages from bowels, profuse, bright", 
       "Bowels constipated, with fissures in rectum", 
-      "Violent cutting pains AFTER STOOLS, LASTING FOR HOURS"
+      "Violent cutting pains after stools, lasting for hours"
     ], 
     "Mouth": [
-      "TONGUE CLEAN, RED AND WET WITH CENTER FURROW", 
+      "Tongue clean, red and wet with center furrow", 
       "Teeth become loose; gums soft and spongy", 
       "Painful pimples on the sides of the tongue", 
       "Bleeding of gums", 
-      "ULCERS IN SOFT PALATE, WITH SHARP, SPLINTER-LIKE PAINS", 
+      "Ulcers in soft palate, with sharp, splinter-like pains", 
       "Salivation and fetor oris", 
       "Salivation", 
-      "BLOODY SALIVA", 
+      "Bloody saliva", 
       "Putrid breath"
     ], 
     "Respiratory": [
       "Hoarseness", 
       "Soreness at lower end of sternum", 
-      "SHORT BREATH ON GOING UPSTAIRS", 
+      "Short breath on going upstairs", 
       "Cough during sleep", 
       "Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach"
     ], 
@@ -56,22 +56,22 @@
       "Hair falls out", 
       "Scalp sensitive", 
       "Headaches from pressure of hat; full feeling; worse from street noises", 
-      "Sensation of a BAND AROUND HEAD"
+      "Sensation of a band around head"
     ], 
     "Throat": [
       "Dry", 
       "Pain into ears", 
       "Hawks mucus constantly", 
-      "White patches and SHARP POINTS, AS FROM SPLINTERS, on swallowing"
+      "White patches and sharp points, as from splinters, on swallowing"
     ], 
     "Nose": [
       "Stitches, as of a splinter in nose", 
       "Nasal diphtheria, with watery and exceedingly excoriating discharge", 
-      "CARIES OF MASTOID", 
+      "Caries of mastoid", 
       "Tip red", 
-      "NOSEBLEED, with chest affections", 
+      "Nosebleed, with chest affections", 
       "Coryza, with sore and bleeding nostrils", 
-      "Chronic nasal catarrh, with yellow, offensive, CORROSIVE discharge", 
+      "Chronic nasal catarrh, with yellow, offensive, corrosive discharge", 
       "Ozaena", 
       "Green casts from nose every morning"
     ], 
@@ -82,21 +82,21 @@
     "Ears": [
       "Cracking in ears when chewing", 
       "Difficult hearing; better by riding in carriage or train", 
-      "VERY SENSITIVE TO NOISE, as the rattle of wagons over pavements"
+      "Very sensitive to noise, as the rattle of wagons over pavements"
     ], 
     "Modalities": [
       "Worse: evening and night", 
       "Worse: cold climate", 
-      "Worse: and also HOT weather", 
+      "Worse: and also hot weather", 
       "Better: while riding in carriage"
     ], 
     "Urine": [
-      "Scanty, dark, OFFENSIVE", 
+      "Scanty, dark, offensive", 
       "Burning and stinging", 
       "Alternation of cloudy, phosphatic urine with profuse urinary secretion in old prostatic cases", 
       "Urine bloody and albuminous", 
       "Smells like horse's urine", 
-      "COLD ON PASSING"
+      "Cold on passing"
     ], 
     "Female": [
       "Hair on genitals falls out", 
@@ -120,8 +120,6 @@
     ]
   }, 
   "details": "Selects for its special seat of action the outlets of the body where the mucous membrane and skin meet; these pain AS FROM SPLINTERS. STICKING PAINS. Marked improvement of all symptoms while riding in a carriage. Acts best on the dark complexioned and past middle life. Syphilis, after abuse of Mercury. Pains appear and disappear quickly. (BELL.) Hydrogenoid constitution. Sycotic remedy.Blisters and ulcers in mouth, tongue, genitals; bleed easily. Fissures, with pain during stool, as if rectum were torn. All discharges very offensive, especially urine, faeces, and perspiration. Persons who have chronic diseases, and take cold easily and disposed to diarrhoea. Excessive physical irritability. Cachexia, due to syphilis, scrofula, intermittent fever with liver involvement and anemia, etc. Gravel; arthritis. Capillary bleeding after curettage.", 
-  "Natural History": [
-    "Nitric Acid"
-  ], 
+  "Natural History": "Nitric Acid", 
   "dosage": "Sixth potency. As the nitric acid patient begins to improve skin symptoms may appear for a time, a favorable indication."
 }

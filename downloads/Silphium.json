@@ -4,7 +4,7 @@
   "symptoms": {
     "Respiratory": [
       "Irritation of posterior nares, involving mucous membranes of nasal passages with constriction of supraorbital region", 
-      "Cough with expectoration PROFUSE, stringy, frothy, light-colored", 
+      "Cough with expectoration profuse, stringy, frothy, light-colored", 
       "Catarrh, with copious, stringy, mucous discharges", 
       "Constriction of lungs", 
       "Excited by sense of mucus rattling in chest and worse by drafts of air", 
@@ -12,8 +12,6 @@
     ]
   }, 
   "details": "Is used in various forms of asthma and chronic bronchitis. Catarrh of bladder. Catarrhal influenza. Dysentery; attack preceded by constipated stools covered with white mucus.", 
-  "Natural History": [
-    "Rosin-weed"
-  ], 
+  "Natural History": "Rosin-weed", 
   "dosage": "Third potency. Lower TRITURATIONS preferred by some."
 }

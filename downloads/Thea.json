@@ -18,7 +18,7 @@
       "Cold damp feeling at back of head"
     ], 
     "Stomach": [
-      "FAINT, GONE FEELING", 
+      "Faint, gone feeling", 
       "Craves acids", 
       "Sinking sensation at epigastrium", 
       "Sudden production of wind in large quantities"
@@ -41,8 +41,6 @@
     ]
   }, 
   "details": "Nervous sleeplessness, heart troubles, palpitation, and dyspepsia of old tea-drinkers. Produces most of the sick headaches Tabacum antidotal (Allen).", 
-  "Natural History": [
-    "Tea"
-  ], 
+  "Natural History": "Tea", 
   "dosage": "Theine 1/4-1/2 grain hypodermicallyThird to thirtieth potency."
 }

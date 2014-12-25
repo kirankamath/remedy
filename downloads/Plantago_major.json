@@ -3,10 +3,10 @@
   "Relationship": "Compare: KALM.; CHAM.; PULS.", 
   "symptoms": {
     "Head": [
-      "Periodical prosopalgia, worse seven AM to two PM, accompanied with flow of tears, photophobia; pains radiate to temples and lower face"
+      "Periodical prosopalgia, worse seven am to two pm, accompanied with flow of tears, photophobia; pains radiate to temples and lower face"
     ], 
     "Urine": [
-      "Profuse flow; NOCTURNAL ENURESIS"
+      "Profuse flow; nocturnal enuresis"
     ], 
     "Stool": [
       "Piles so bad, can hardly stand", 
@@ -30,15 +30,13 @@
     ], 
     "Ears": [
       "Hearing acute; noise painful", 
-      "Neuralgic earache; PAIN GOES FROM ONE EAR TO THE OTHER THROUGH THE HEAD", 
+      "Neuralgic earache; pain goes from one ear to the other through the head", 
       "Loud noises go through one", 
       "Sticking pain in ears", 
       "Otalgia, with toothache"
     ]
   }, 
   "details": "Has considerable clinical reputation in the treatment of earache, toothache, and enuresis. Sharp pain in eyes, reflex from decayed teeth or inflammation of middle ear. Eyeball very tender to touch. Pain plays between teeth and ears. Pyorrhoea alveolaris. Depression and insomnia of chronic Nicotinism. Causes an aversion to tobacco.", 
-  "Natural History": [
-    "Plantain"
-  ], 
+  "Natural History": "Plantain", 
   "dosage": "Tincture, and lower potencies. Local use in toothache in hollow teeth, otorrhoea, pruritus, and Poison-oak. Incised wounds."
 }

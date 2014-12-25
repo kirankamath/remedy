@@ -4,18 +4,18 @@
   "symptoms": {
     "Eyes": [
       "Burning in eyelids", 
-      "Eyes suffused and watery; profuse; BLAND lachrymation, better in open air", 
-      "SENSITIVE TO LIGHT", 
+      "Eyes suffused and watery; profuse; bland lachrymation, better in open air", 
+      "Sensitive to light", 
       "Red", 
-      "Much BURNING and smarting lachrymation"
+      "Much burning and smarting lachrymation"
     ], 
     "Respiratory": [
-      "SENSATION AS IF LARYNX IS SPLIT AND TORN", 
-      "HACKING COUGH ON INSPIRING COLD AIR", 
-      "HOARSENESS", 
-      "OPPRESSED BREATHING from pressure in middle of chest", 
+      "Sensation as if larynx is split and torn", 
+      "Hacking cough on inspiring cold air", 
+      "Hoarseness", 
+      "Oppressed breathing from pressure in middle of chest", 
       "Constricted feeling in region of epiglottis", 
-      "TICKLING IN LARYNX", 
+      "Tickling in larynx", 
       "Pain extending to ear"
     ], 
     "Stomach": [
@@ -28,7 +28,7 @@
     "Head": [
       "Headache ceases during menses; returns when flow disappears", 
       "Thread-like pains in face", 
-      "Catarrhal headache, mostly in forehead; WORSE IN WARM ROOM towards evening"
+      "Catarrhal headache, mostly in forehead; worse in warm room towards evening"
     ], 
     "Modalities": [
       "Worse: in the evening", 
@@ -49,14 +49,14 @@
     "Nose": [
       "Fluent coryza with headache, cough, and hoarseness", 
       "Polypus", 
-      "COPIOUS, WATERY AND EXTREMELY ACRID DISCHARGE", 
+      "Copious, watery and extremely acrid discharge", 
       "Hay-fever", 
       "Feeling of a lump at root of nose", 
       "Sneezing, especially when entering a warm room"
     ], 
     "Sleep": [
       "Gaping in deep sleep", 
-      "Wakes at two AM", 
+      "Wakes at two am", 
       "Yawning with headache and drowsiness", 
       "Dreams"
     ], 
@@ -73,8 +73,6 @@
     ]
   }, 
   "details": "A picture of coryza, with ACRID NASAL discharge and laryngeal symptoms, eye secretion BLAND; singers' cold, WORSE IN WARM ROOM and toward evening; better in open air is presented by this remedy. Specially adapted to phlegmatic patients; colds in DAMP COLD WEATHER. Neuralgic pains, LIKE A FINE THREAD, following amputations or injuries to nerves. Traumatic chronic neuritis. Burning in nose, mouth, throat, bladder and skin. Sensation of glowing heat on different parts of the body.", 
-  "Natural History": [
-    "Red Onion"
-  ], 
+  "Natural History": "Red Onion", 
   "dosage": "Third potency."
 }

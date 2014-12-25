@@ -10,13 +10,13 @@
     "Head": [
       "Aches from fasting", 
       "Swelling in the glabella", 
-      "PROFUSE SWEAT OF HEAD, offensive, and extends to neck", 
+      "Profuse sweat of head, offensive, and extends to neck", 
       "Pain begins at occiput, and spreads over head and settles over eyes", 
-      "Vertigo from looking up; BETTER, WRAPPING UP WARMLY; WHEN LYING ON LEFT SIDE"
+      "Vertigo from looking up; better, wrapping up warmly; when lying on left side"
     ], 
     "Fever": [
+      "Suffering parts feel cold", 
       "Chilliness; very sensitive to cold air", 
-      "SUFFERING PARTS FEEL COLD", 
       "Cold extremities, even in a warm room", 
       "Creeping, shivering over the whole body", 
       "Sweat at night; worse towards morning"
@@ -24,7 +24,7 @@
     "Stomach": [
       "Want of appetite; thirst excessive", 
       "Pit of stomach painful to pressure", 
-      "Disgust for meat and WARM FOOD", 
+      "Disgust for meat and warm food", 
       "Sour eructations after eating", 
       "Vomiting after drinking", 
       "On swallowing food, it easily gets into posterior nares"
@@ -43,17 +43,17 @@
       "Sensitive to cold water", 
       "Pyorrhoea", 
       "Abscess at root of teeth", 
-      "SENSATION OF A HAIR ON TONGUE"
+      "Sensation of a hair on tongue"
     ], 
     "Rectum": [
-      "CONSTIPATION ALWAYS BEFORE AND DURING MENSES; with irritable sphincter ani", 
+      "Constipation always before and during menses; with irritable sphincter ani", 
       "Great straining; rectum stings; closes upon stool", 
       "Diarrhoea of cadaverous odor", 
       "Feces remain a long time in rectum", 
-      "STOOL COMES DOWN WITH DIFFICULTY; WHEN PARTLY EXPELLED, RECEDES AGAIN", 
-      "FISTULA IN ANO", 
+      "Stool comes down with difficulty; when partly expelled, recedes again", 
+      "Fistula in ano", 
       "Feels paralyzed", 
-      "Fissures and hemorrhoids, PAINFUL, WITH SPASM OF SPHINCTER"
+      "Fissures and hemorrhoids, painful, with spasm of sphincter"
     ], 
     "Respiratory": [
       "Slow recovery after pneumonia", 
@@ -61,15 +61,15 @@
       "Cough with expectoration in day, bloody or purulent", 
       "Colds fail to yield; sputum persistently mucopurulent and profuse", 
       "Cough and sore throat, with expectoration of little granules like shot, which, when broken, smell very offensive", 
-      "VIOLENT COUGH WHEN LYING DOWN, WITH THICK, YELLOW LUMPY EXPECTORATION; suppurative stage of expectoration"
+      "Violent cough when lying down, with thick, yellow lumpy expectoration; suppurative stage of expectoration"
     ], 
     "Eyes": [
-      "STYES", 
-      "PERFORATING or sloughing ulcer of cornea", 
+      "Styes", 
+      "Perforating or sloughing ulcer of cornea", 
       "Abscess in cornea after traumatic injury", 
       "Iritis and iridochoroiditis, with pus in anterior chamber", 
       "Angles of eyes affected", 
-      "SWELLING OF LACHRYMAL DUCT", 
+      "Swelling of lachrymal duct", 
       "After-effects of keratitis and ulcus cornea, clearing the opacity", 
       "Cataract in office workers", 
       "Use 30th potency for months", 
@@ -86,7 +86,7 @@
       "Itching at point of nose", 
       "Obstructed and loss of smell", 
       "Perforation of septum", 
-      "Dry, hard crusts form, BLEEDING WHEN LOOSENED", 
+      "Dry, hard crusts form, bleeding when loosened", 
       "Nasal bones sensitive"
     ], 
     "Male": [
@@ -98,7 +98,7 @@
     ], 
     "Ears": [
       "Caries of mastoid", 
-      "ROARING IN EARS", 
+      "Roaring in ears", 
       "Loud pistol-like report", 
       "Fetid discharge", 
       "Sensitive to noise"
@@ -118,13 +118,13 @@
       "Better: summer; in wet or humid weather"
     ], 
     "Mind": [
-      "SENSITIVE to all impressions", 
+      "Sensitive to all impressions", 
       "Abstracted", 
-      "Yielding, FAINT-HEARTED, ANXIOUS", 
+      "Yielding, faint-hearted, anxious", 
       "Obstinate, headstrong children", 
       "Nervous and excitable", 
       "Brain-fag", 
-      "Fixed ideas; thinks only of PINS, fears them, searches and counts them"
+      "Fixed ideas; thinks only of pins, fears them, searches and counts them"
     ], 
     "Back": [
       "Potts' disease", 
@@ -137,12 +137,12 @@
       "Frequent starts in sleep", 
       "Excessive gaping", 
       "Anxious dreams", 
-      "NIGHT-WALKING; gets up while asleep"
+      "Night-walking; gets up while asleep"
     ], 
     "Female": [
       "Abscess of labia", 
-      "Increased menses, with paroxysms of ICY COLDNESS OVER WHOLE BODY", 
-      "A milky  Acrid leucorrhoea, during urination", 
+      "Increased menses, with paroxysms of icy coldness over whole body", 
+      "A milky  acrid leucorrhoea, during urination", 
       "Nipples very sore; ulcerated easily; drawn in", 
       "Discharge of blood between menstrual periods", 
       "Itching of vulva and vagina; very sensitive", 
@@ -157,7 +157,7 @@
       "Dry finger tips", 
       "Pus offensive", 
       "Lepra, nodes, and coppery spots", 
-      "CRIPPLED NAILS", 
+      "Crippled nails", 
       "Painless swelling of glands", 
       "Long lasting suppuration and fistulous tracts", 
       "Rose-colored blotches", 
@@ -166,35 +166,35 @@
       "Eruptions itch only in daytime and evening", 
       "Cracks at ends of fingers", 
       "Abscesses of joints", 
-      "PROMOTES EXPULSION OF FOREIGN BODIES FROM TISSUES", 
-      "KELOID GROWTHS", 
-      "FELONS, ABSCESSES, BOILS, OLD FISTULOUS ULCERS", 
+      "Promotes expulsion of foreign bodies from tissues", 
+      "Keloid growths", 
+      "Felons, abscesses, boils, old fistulous ulcers", 
       "After impure vaccination", 
       "Indurated tumors"
     ], 
     "Throat": [
       "Colds settle in throat", 
-      "PAROTID GLANDS SWOLLEN", 
+      "Parotid glands swollen", 
       "Hard, cold swelling of cervical glands", 
       "Stinging pain on swallowing", 
       "Periodical quinsy", 
-      "PRICKING AS OF A PIN IN TONSIL"
+      "Pricking as of a pin in tonsil"
     ], 
     "Extremities": [
-      "SUPPURATES", 
+      "Suppurates", 
       "Soles sore", 
       "Loss of power in legs", 
-      "SORENESS IN FEET FROM INSTEP THROUGH TO THE SOLE", 
       "Sensation in tips of fingers, as if suppurating", 
-      "OFFENSIVE SWEAT ON FEET, hand, and axillae", 
-      "THE PARTS LAIN ON GO TO SLEEP", 
+      "Offensive sweat on feet, hand, and axillae", 
+      "The parts lain on go to sleep", 
+      "Soreness in feet from instep through to the sole", 
       "Paralytic weakness of forearm", 
       "Tremulous hands when using them", 
       "Pain in knee, as if tightly bound", 
-      "AFFECTIONS OF FINGER NAILS, especially if white spots on nails", 
+      "Affections of finger nails, especially if white spots on nails", 
       "Pain beneath toes", 
       "Ingrowing toe-nails", 
-      "ICY COLD AND SWEATY FEET", 
+      "Icy cold and sweaty feet", 
       "Cramp in calves and soles", 
       "Calves tense and contacted", 
       "Sciatica, pains through the hips, legs and feet", 
@@ -202,9 +202,6 @@
     ]
   }, 
   "details": "Imperfect assimilation and consequent defective nutrition. It goes further and produces neurasthenic states in consequence, and increased susceptibility to nervous stimuli and exaggerated reflexes. Diseases of bones, caries and necrosis. Silica can stimulate the organism to re-absorb fibrotic conditions and scar-tissue. In phthisis must be used with care, for here it may cause the absorption of scar-tissue, liberate the disease, walled in, to new activities. (J. Weir.) Organic changes; it is deep and slow in action. Periodical states; abscesses, quinsy, headaches, spasms, epilepsy, feeling of coldness before an attack. Keloid growth. Scrofulous, rachitic children, with large head, open fontanelles and sutures, distended abdomen, slow in walking. ILL EFFECTS OF VACCINATION. SUPPURATIVE PROCESSES. It is related to all pustulous burrowings. Ripens abscesses since it promotes suppuration. Silica patient is cold, chilly, hugs the fire, wants plenty warm clothing, hates drafts, hands and feet cold, worse in winter. Lack of vital heat. Prostration of mind and body. Great sensitiveness to taking cold. INTOLERANCE OF ALCOHOLIC STIMULANTS. Ailments attended with PUS FORMATION. Epilepsy. WANT OF GRIT, moral or physical.", 
-  "Natural History": [
-    "Pure Flint", 
-    "Silica"
-  ], 
+  "Natural History": "Silica. Pure Flint", 
   "dosage": "Sixth to thirtieth potency. The 200th and higher of unquestioned activity. In malignant affections, the lowest potencies needed at times."
 }

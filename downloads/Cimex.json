@@ -1,7 +1,5 @@
 {
-  "Natural History": [
-    "BedbugAcanthia"
-  ], 
+  "Natural History": "BedbugAcanthia", 
   "details": "Of use in intermittent fever, with weariness and inclination to stretch. Hamstrings feel too short. (AMMON. MUR.) Flexors mostly affected. Sensation of retraction of arm tendons. Stretching.", 
   "symptoms": {
     "Head": [
@@ -16,7 +14,7 @@
       "Chilliness of whole body", 
       "Chill; worse lying down", 
       "Musty, offensive sweat", 
-      "PAINS IN ALL JOINTS, AS IF TENDONS WERE TOO SHORT, especially knee-joints"
+      "Pains in all joints, as if tendons were too short, especially knee-joints"
     ], 
     "Female": [
       "Shooting pain from vagina up towards left ovary"

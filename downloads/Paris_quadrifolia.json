@@ -5,22 +5,22 @@
     "Eyes": [
       "Expanded, as though lids did not cover", 
       "Affections of the eyebrows", 
-      "Eyes feel heavy, as if they were projected; SENSATION OF A STRING THROUGH EYEBALLS"
+      "Eyes feel heavy, as if they were projected; sensation of a string through eyeballs"
     ], 
     "Respiratory": [
       "Stuffed condition and fullness at root of nose", 
-      "Periodical, painless HOARSENESS", 
+      "Periodical, painless hoarseness", 
       "Cough as from vapor of sulphur in trachea", 
       "Constant hawking, on account of viscid, green mucus in larynx and trachea"
     ], 
     "Mind": [
       "Imaginary foul smells", 
       "Feels too large", 
-      "GARRULOUS, prattling, vivacious"
+      "Garrulous, prattling, vivacious"
     ], 
     "Head": [
       "Sensation as if scalp were contracted and bones scraped", 
-      "Aches, as from PULLING A STRING FROM EYES TO OCCIPUT", 
+      "Aches, as from pulling a string from eyes to occiput", 
       "Scalp sensitive", 
       "Occipital headache, with a feeling of weight", 
       "Soreness of top of head; cannot brush hair", 
@@ -32,21 +32,19 @@
       "Has relieved in inflammation of the antrum, where eye symptoms coexisted"
     ], 
     "Mouth": [
-      "TONGUE DRY WHEN AWAKING - Coated white, WITHOUT THIRST, with bitter or diminished taste"
+      "Tongue dry when awaking - coated white, without thirst, with bitter or diminished taste"
     ], 
     "Extremities": [
       "Arm becomes stiff, fingers clenched", 
-      "Sense of WEIGHT AND WEARINESS IN NAPE OF NECK and across shoulders", 
+      "Sense of weight and weariness in nape of neck and across shoulders", 
       "Neuralgia, beginning in left intercostal region, and extending into left arm", 
       "Numbness of upper limbs", 
       "Everything feels rough", 
       "Neuralgia of coccyx; pulsating, sticking, when sitting", 
-      "FINGERS OFTEN FEEL NUMB"
+      "Fingers often feel numb"
     ]
   }, 
   "details": "Head symptoms marked and verified. Sensation of expansion and consequent tension. Coldness of right side of body, left hot. Catarrhal complaints, stuffed feeling at root of nose. Disorder of sense of touch.", 
-  "Natural History": [
-    "One-berry"
-  ], 
+  "Natural History": "One-berry", 
   "dosage": "Third potency."
 }

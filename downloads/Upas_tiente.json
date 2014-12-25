@@ -1,12 +1,10 @@
 {
-  "Natural History": [
-    "Upas-tree - Strychnos Tiente"
-  ], 
+  "Natural History": "Upas-tree - Strychnos Tiente", 
   "symptoms": {
     "Eyes": [
       "Dull sunken eyes", 
       "Styes", 
-      "PAIN IN EYES AND ORBITS, WITH CONJUNCTIVITIS"
+      "Pain in eyes and orbits, with conjunctivitis"
     ], 
     "Head": [
       "Dull headache deep in brain", 
@@ -28,7 +26,7 @@
     ], 
     "Male": [
       "Desire increased, with loss of power", 
-      "DULL BACKACHE, as after excessive coitus"
+      "Dull backache, as after excessive coitus"
     ]
   }, 
   "name": "Upas tiente", 

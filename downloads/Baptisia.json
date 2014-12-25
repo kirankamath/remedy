@@ -6,7 +6,7 @@
       "Vertigo; pressure at root of nose", 
       "Eyelids heavy", 
       "Soreness of eyeballs", 
-      "Feels too large, HEAVY, NUMB", 
+      "Feels too large, heavy, numb", 
       "Brain feels sore", 
       "Skin of forehead feels tight; seems drawn to back of head", 
       "Confused, swimming feeling", 
@@ -17,7 +17,7 @@
       "Typhus fever", 
       "Shipboard fever", 
       "Chill, with rheumatic pains and soreness all over body", 
-      "Chill about eleven AM ADYNAMIC FEVERS", 
+      "Chill about eleven am adynamic fevers", 
       "Heat all over, with occasional chills"
     ], 
     "Stomach": [
@@ -26,13 +26,13 @@
       "Can swallow only liquids, vomiting due to spasm of oesophagus", 
       "Feeling of hard substance", 
       "Gastric fever", 
-      "SINKING FEELING AT STOMACH", 
+      "Sinking feeling at stomach", 
       "Constant desire for water", 
       "No appetite", 
       "Pain in epigastric region"
     ], 
     "Back and Extremities": [
-      "SORE AND BRUISED", 
+      "Sore and bruised", 
       "Neck tired", 
       "Stiffness and pain, aching and drawing in arms and legs", 
       "Pain in sacrum, around hips and legs", 
@@ -40,7 +40,7 @@
     ], 
     "Mind": [
       "Perfect indifference", 
-      "THINKS HE IS BROKEN OR DOUBLE, AND TOSSES ABOUT THE BED TRYING TO GET PIECES TOGETHER", 
+      "Thinks he is broken or double, and tosses about the bed trying to get pieces together", 
       "Delirium, wandering, muttering", 
       "Melancholia, with stupor", 
       "Illusion of divided personality", 
@@ -51,7 +51,7 @@
       "Mental confusion"
     ], 
     "Abdomen": [
-      "Stools very OFFENSIVE, THIN, DARK, BLOODY", 
+      "Stools very offensive, thin, dark, bloody", 
       "Distended and rumbling", 
       "Soreness over region of gall-bladder, with diarrhoea", 
       "Right side markedly affected", 
@@ -61,20 +61,20 @@
     "Face": [
       "Muscles of jaw rigid", 
       "Dark red", 
-      "BESOTTED LOOK", 
+      "Besotted look", 
       "Pain at root of nose"
     ], 
     "Throat": [
       "Great difficulty in swallowing solid food", 
-      "CONSTRICTION, CONTRACTION OF OESOPHAGUS", 
-      "CONTRACTION AT CARDIAC ORIFICE", 
+      "Constriction, contraction of oesophagus", 
+      "Contraction at cardiac orifice", 
       "Dark redness of tonsils and soft palate", 
-      "PAINLESS sore throat, and offensive discharge"
+      "Painless sore throat, and offensive discharge"
     ], 
     "Respiratory": [
       "Lungs feel compressed, breathing difficult; seeks open window", 
       "Constriction of chest", 
-      "Fears going to sleep on account of nightmare and SENSE OF SUFFOCATION"
+      "Fears going to sleep on account of nightmare and sense of suffocation"
     ], 
     "Sleep": [
       "Nightmare and frightful dreams", 
@@ -94,17 +94,15 @@
       "Putrid ulcers with stupor, low delirium and prostration"
     ], 
     "Mouth": [
-      "BREATH FETID", 
-      "TONGUE FEELS BURNED; yellowish-brown; edges red and shining", 
+      "Breath fetid", 
+      "Tongue feels burned; yellowish-brown; edges red and shining", 
       "Dry and brown in center, with dry and glistening edges; surface cracked and sore", 
       "Taste flat, bitter", 
-      "CAN SWALLOW LIQUIDS ONLY; least solid food gags", 
+      "Can swallow liquids only; least solid food gags", 
       "Teeth and gums sore, ulcerated"
     ]
   }, 
   "details": "The symptoms of this drug are of an asthenic type, simulating low fevers, SEPTIC CONDITIONS of the blood, malarial poisoning, and extreme prostration. Indescribable sick feeling. GREAT MUSCULAR SORENESS AND PUTRID PHENOMENA ALWAYS ARE PRESENT. All the secretions are offensive - breath, stool, urine, sweat, etc. Epidemic influenza. Chronic intestinal toxaemia of children with fetid stools and eructations.Baptisia in low dilutions produces a form of anti-bodies to the Bac. typhosus, viz., the agglutinins. (Mellon.) Thus it raises the natural bodily resistance to the invasion of the bacillary intoxication, which produces the typhoid syndrome. Typhoid carriers. After inoculation with anti-typhoid serum. Intermittent pulse, especially in the aged.", 
-  "Natural History": [
-    "Wild Indigo"
-  ], 
+  "Natural History": "Wild Indigo", 
   "dosage": "Tincture, to twelfth attenuation. Has rather short action."
 }

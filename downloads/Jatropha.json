@@ -5,7 +5,7 @@
     "Stomach": [
       "Hiccough, followed by copious vomiting", 
       "Heat and burning in stomach, with crampy, constrictive pain in epigastrium", 
-      "VERY EASY VOMITING", 
+      "Very easy vomiting", 
       "Nausea and vomiting, brought on by drinking, with acrid feeling from throat", 
       "Great thirst"
     ], 
@@ -13,7 +13,7 @@
       "Better: by placing hands in cold water"
     ], 
     "Stool": [
-      "DIARRHOEA; FORCED DISCHARGE; LOUD NOISE IN ABDOMEN LIKE GURGLING OF WATER COMING OUT OF A BUNG-HOLE, associated with coldness, cramps, nausea, and vomiting", 
+      "Diarrhoea; forced discharge; loud noise in abdomen like gurgling of water coming out of a bung-hole, associated with coldness, cramps, nausea, and vomiting", 
       "Sudden, profuse, watery, like rice-water"
     ], 
     "Abdomen": [
@@ -26,12 +26,10 @@
       "Cramps in muscles, especially calves, legs, and feet", 
       "Heels sensitive", 
       "Pain in ankles, feet and toes", 
-      "COLDNESS of whole body"
+      "Coldness of whole body"
     ]
   }, 
   "details": "Of value in cholera and diarrhoea. The abdominal symptoms are mot important. Suppressed measles (H. Farrington).", 
-  "Natural History": [
-    "Purging Nut"
-  ], 
+  "Natural History": "Purging Nut", 
   "dosage": "Third to thirtieth potency."
 }
