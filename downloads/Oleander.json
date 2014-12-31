@@ -1,12 +1,12 @@
 {
   "name": "Oleander", 
-  "Relationship": "Antidotes: CAMPH.; SULPH.Compare: CON.; NAT-M.; RHUS; CAUST.; LATHYR. Oleander contains Oleandrin and also Nerein which latter is said to be closely related if not identical with Digitalin. The pulse becomes slower, more regular, more powerful. DIURESIS; palpitation, oedema and dyspnoea of valvular disease, disappear.", 
+  "Relationship": "Compare: CON.; NAT-M.; RHUS; CAUST.; LATHYR. Oleander contains Oleandrin and also Nerein which latter is said to be closely related if not identical with Digitalin. The pulse becomes slower, more regular, more powerful. DIURESIS; palpitation, oedema and dyspnoea of valvular disease, disappear. Antidotes: CAMPH.; SULPH.", 
   "Modalities": [
     "Worse: undressing", 
     "Worse: rest", 
     "Worse: friction of clothes"
   ], 
-  "Common names": "Nerium OdorumRose-laurel", 
+  "Common names": "Nerium Odorum Rose-laurel", 
   "symptoms": {
     "Eyes": [
       "Can see objects only when looking at them sideways", 

@@ -110,36 +110,42 @@ def process_one_remedy(file_name):
         if font.childNodes:
             child = font.childNodes[0]
             if isinstance(child, minidom.Text):
-                data.append(str(child.nodeValue).strip())
+                value = str(child.nodeValue).strip()
+                if value:
+                    data.append(value)
             else:
                 assert isinstance(child, minidom.Element), "Child is %s" % child
-                data.append(str(child.childNodes[0].nodeValue).strip())
+                value = str(child.childNodes[0].nodeValue).strip()
+                if value:
+                    data.append(value)
 
     category_map = {}
     current_list = None
     for element in data:
         if element in keywords:
-            current_list = set()
+            current_list = list()
             category_map[element] = current_list
         else:
             if current_list != None:
-                current_list.add(element)
+                current_list.append(element)
 
     special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose", "Natural History.", "Natural History"])
     symptom_list = {}
     rename_pairs = {"Dose" : "dosage", "General" : "details", "Natural History" : "Common names"}
     for k, v in category_map.iteritems():
-        value = "".join(v)
-        value = value.replace("\n", "").replace('"', "")
         if k in special_handling:
             # For some elements, we do special processing below. So don't do any manipulation here.
-            symptoms = value
+            symptoms = " ".join(v).replace("\n", "")
         else:
+            value = "".join(set(v))
+            value = value.replace("\n", "").replace('"', "")
             # Remove any content within paren.
             value = paren_remover.sub('', value)
 
             # Before splitting, escape any known patterns.
             value = value.replace("etc.", "__etc__").replace("i.e.", "__i__e__").replace("ETC.", "__ETC__")
+
+            # Every period indicates a new symptom. So split at that boundary.
             values = value.split(".")
             symptoms = set()
             for x in values:

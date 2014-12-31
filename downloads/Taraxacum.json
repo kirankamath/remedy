@@ -1,13 +1,13 @@
 {
   "name": "Taraxacum", 
-  "Relationship": "Compare: CHOLINE, a constituent of Taraxacum root, has given encouraging results in the treatment of cancer. Choline is closely related to NEURIN, it is the Cancronie of Prof. Adamkiewicz (E. Schlegel.) BRY.; HYDRAST.; NUX. TELA ARANEA (nervous asthma and sleeplessness).", 
+  "Relationship": "Compare: CHOLINE, a constituent of Taraxacum root, has given encouraging results in the treatment of cancer. Choline is closely related to NEURIN, it is the \"Cancronie\" of Prof. Adamkiewicz (E. Schlegel.) BRY.; HYDRAST.; NUX. TELA ARANEA (nervous asthma and sleeplessness).", 
   "Modalities": [
     "Worse: resting", 
     "Worse: lying down", 
     "Worse: sitting", 
     "Better: touch"
   ], 
-  "Common names": "For gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin. Cancer of bladder. Flatulence. HYSTERICAL TYMPANITES.Dandelion", 
+  "Common names": "Dandelion For gastric headaches, bilious attacks, with characteristically mapped tongue and jaundiced skin. Cancer of bladder. Flatulence. HYSTERICAL TYMPANITES.", 
   "symptoms": {
     "Head": [
       "Sternomastoid muscle very painful to touch", 

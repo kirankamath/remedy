@@ -1,6 +1,6 @@
 {
   "name": "Menyanthes", 
-  "Relationship": "Antidote: CAMPH.Compare: CAPS.; PULS.; CALC.; PHOS-AC.; SANG.", 
+  "Relationship": "Compare: CAPS.; PULS.; CALC.; PHOS-AC.; SANG. Antidote: CAMPH.", 
   "Modalities": [
     "Worse: during rest", 
     "Worse: ascending", 

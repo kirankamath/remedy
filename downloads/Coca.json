@@ -1,13 +1,13 @@
 {
   "name": "Coca", 
-  "Relationship": "Antidote: GELS.Compare: ARS.; PAULIN.; CYP; CHAMOM.", 
+  "Relationship": "Compare: ARS.; PAULIN.; CYP; CHAMOM. Antidote: GELS.", 
   "Modalities": [
     "Better: from wine; riding", 
     "Better: quick motion in open air", 
     "Worse: ascending", 
     "Worse: high altitudes"
   ], 
-  "Common names": "Erythroxylon Coca(The Divine Plant of the Incas - but the Spanish priests denounced it as un delusio del demonio)", 
+  "Common names": "Erythroxylon Coca (The Divine Plant of the Incas - but the Spanish priests denounced it as \"un delusio del demonio\")", 
   "symptoms": {
     "Heart": [
       "Palpitation, with weak heart and dyspnoea"

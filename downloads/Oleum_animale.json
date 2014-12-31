@@ -1,6 +1,6 @@
 {
   "name": "Oleum animale", 
-  "Relationship": "Antidotes: CAMPH.; OP.Compare: PULS.; ARS.; SILIC.; SEPIA.", 
+  "Relationship": "Compare: PULS.; ARS.; SILIC.; SEPIA. Antidotes: CAMPH.; OP.", 
   "Modalities": [
     "Worse: after eating", 
     "Worse: from 2 to nine pm", 
@@ -79,6 +79,6 @@
       "Prostatic hypertrophy"
     ]
   }, 
-  "details": "Acts on the nervous system, especially on pneumogastric region. Useful in migraine and neuralgia of spermatic cord. Burning pains and stitches. PULLED UPWARD AND FROM BEHIND FORWARD PAINS.", 
+  "details": "Acts on the nervous system, especially on pneumogastric region. Useful in migraine and neuralgia of spermatic cord. Burning pains and stitches. \"PULLED UPWARD\" AND \"FROM BEHIND FORWARD\" PAINS.", 
   "dosage": "Third to thirtieth potency and higher."
 }

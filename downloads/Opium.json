@@ -1,13 +1,13 @@
 {
   "name": "Opium", 
-  "Relationship": "Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific).", 
+  "Relationship": "Compare: APIS; BELL.; GELS.; NUX MOSCH; MORPHINUM (extreme susceptibility to pain; twitching; tympanites; much itching); CODEIN (dry, teasing, incessant cough; twitching of muscles, especially those of eyelids); ESCHSCHOLTZIA - California Poppy - (a harmless soporific). Antidote: Acute Opium poisoning. ATROPINE and Black Coffee. Chronic Opium poisoning. IPECAC; NUX; PASSIFLORA. BERBERIS is useful to counteract opium habit.", 
   "Modalities": [
     "Worse: heat", 
     "Worse: during and after sleep", 
     "Better: cold things", 
     "Better: constant walking"
   ], 
-  "Common names": "Papaver SomniferumDried Latex of the Poppy", 
+  "Common names": "Papaver Somniferum Dried Latex of the Poppy", 
   "symptoms": {
     "Urine": [
       "Retained or involuntary, after fright", 
@@ -127,5 +127,5 @@
     ]
   }, 
   "details": "Hahnemann says that it is much more difficult to estimate the action of Opium than of almost any other drug. The effects of Opium as shown in the insensibility of the nervous system, the depression drowsy stupor, painlessness, and torpor, the general sluggishness and lack of vital reaction, constitute the main indications for the drug when used homeopathically. All complaints are characterized by SOPOR. They are PAINLESS, and are accompanied by HEAVY, STUPID SLEEP, STERTOROUS BREATHING. SWEATY SKIN. Dark, mahogany-brown face. Serous apoplexy - venous, passive congestion. Want of sensitiveness to the action of medicines. Reappearance and aggravation from becoming heated. Opium lessens voluntary movements, contracts pupils, depresses higher intellectual powers, lessens self-control and power of concentration, judgement; stimulates the imagination, checks all secretions except that of the skin. Want of susceptibility to remedies even though indicated. Diseases that originate from fright.", 
-  "dosage": "Third to thirtieth and 200th potency.Morphine - 1/8 to 1/4 grain.Magendie's solution - 16 grains to 1 oz. or 5 drops equal to 1/6 grain.Opium (crude). Official dose, 1 grain.Laudanum (tincture) - Dose, 5 to 20 drops. Extract of Opium 1/4 to 1 grain.PAREGORIC - Tinctura Camphora Compositae. Contains in each dram 1/4 grain of Opium equal to 1/30 grain of Morphine. Dose 1/2 to 1 fluid dram for adults. For an infant 3 to 5 drops.PALLIATIVE ONLY in great pain, sleeplessness, peritonitis, and to check excessive secretion in diarrhoea, diabetes, etc.DOVER'S POWDER consists of Opium, Ipecac and Sulphate of Potash. It contains 10% each of Opium and Ipecac. Dose 5 to 15 grains.Apomorphia - 1/20 to 1/10 grain hypodermically.Codein - 1/2 to 1 grain.Non-Homeopathic Preparations and Uses."
+  "dosage": "Third to thirtieth and 200th potency. Non-Homeopathic Preparations and Uses. PALLIATIVE ONLY in great pain, sleeplessness, peritonitis, and to check excessive secretion in diarrhoea, diabetes, etc. Opium (crude). Official dose, 1 grain. Laudanum (tincture) - Dose, 5 to 20 drops. Extract of Opium 1/4 to 1 grain. PAREGORIC - Tinctura Camphora Compositae. Contains in each dram 1/4 grain of Opium equal to 1/30 grain of Morphine. Dose 1/2 to 1 fluid dram for adults. For an infant 3 to 5 drops. DOVER'S POWDER consists of Opium, Ipecac and Sulphate of Potash. It contains 10% each of Opium and Ipecac. Dose 5 to 15 grains. Morphine - 1/8 to 1/4 grain. Magendie's solution - 16 grains to 1 oz. or 5 drops equal to 1/6 grain. Codein - 1/2 to 1 grain. Apomorphia - 1/20 to 1/10 grain hypodermically."
 }

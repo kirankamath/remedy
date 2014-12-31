@@ -1,6 +1,6 @@
 {
   "name": "Glonoine", 
-  "Relationship": "Antidote: ACON.Compare: AMYL. NIT.; BELLAD.; OPIUM; STRAM.; VERAT. VIR.", 
+  "Relationship": "Antidote: ACON. Compare: AMYL. NIT.; BELLAD.; OPIUM; STRAM.; VERAT. VIR.", 
   "Modalities": [
     "Worse: in sun; exposure to sun-rays", 
     "Worse: gas", 
@@ -10,7 +10,7 @@
     "Worse: stimulants; lying down; from six am to noon; left side", 
     "Better: brandy"
   ], 
-  "Common names": "O=OxygenNitro-glycerine) (Spirits Glycerinus NitrateN=NitrogenGl=Glycerine", 
+  "Common names": "Gl=Glycerine O=Oxygen N=Nitrogen Nitro-glycerine) (Spirits Glycerinus Nitrate", 
   "symptoms": {
     "Heart": [
       "Laborious action", 
@@ -80,6 +80,6 @@
       "Throbbing; each beat of heart is heard in ears; full feeling"
     ]
   }, 
-  "details": "Recent German provings of Glonoine confirm the original American provings and clinical indications and bring out very marked nerve disturbances. Great lassitude, no inclination to work; extreme irritability, easily excited by the slightest opposition, ending in congestive head symptoms. The sixth potency alone produced itching all over body with later acne and furuncle formation, also bulimy.Great remedy for congestive headaches, hyperaemia of the brain from excess of heat or cold. Excellent for the inter cranial, climacteric disturbances, or due to menstrual suppression. Children get sick when sitting before an open fire. SURGING OF BLOOD TO HEAD AND HEART. Tendency to sudden and violent irregularities of the circulation. Violent convulsions, associated with cerebral congestion. SENSATION OF PULSATION THROUGHOUT BODY. PULSATING PAINS. Cannot recognize localities. Sciatica in atheromatous subjects, with cold shriveled limb; seasickness.", 
-  "dosage": "Sixty to thirtieth potency.For palliative (non-homeopathic) purposes, in angina pectoris, asthma, heart-failure, etc., physiological doses - i.e., 1-100 of drop - must be given. Here it is the great emergency remedy. The conditions calling for it are small, wiry pulse, pallor, arterial spasm, anaemia of brain, COLLAPSE, feeble heart, syncope, dicrotic pulse, vertigo, - the opposite of those indicating a homeopathic dosage. Often thus used to lower the arterial tension in chronic interstitial nephritis."
+  "details": "Recent German provings of Glonoine confirm the original American provings and clinical indications and bring out very marked nerve disturbances. Great lassitude, no inclination to work; extreme irritability, easily excited by the slightest opposition, ending in congestive head symptoms. The sixth potency alone produced itching all over body with later acne and furuncle formation, also bulimy. Great remedy for congestive headaches, hyperaemia of the brain from excess of heat or cold. Excellent for the inter cranial, climacteric disturbances, or due to menstrual suppression. Children get sick when sitting before an open fire. SURGING OF BLOOD TO HEAD AND HEART. Tendency to sudden and violent irregularities of the circulation. Violent convulsions, associated with cerebral congestion. SENSATION OF PULSATION THROUGHOUT BODY. PULSATING PAINS. Cannot recognize localities. Sciatica in atheromatous subjects, with cold shriveled limb; seasickness.", 
+  "dosage": "Sixty to thirtieth potency. For palliative (non-homeopathic) purposes, in angina pectoris, asthma, heart-failure, etc., physiological doses - i.e., 1-100 of drop - must be given. Here it is the great emergency remedy. The conditions calling for it are small, wiry pulse, pallor, arterial spasm, anaemia of brain, COLLAPSE, feeble heart, syncope, dicrotic pulse, vertigo, - the opposite of those indicating a homeopathic dosage. Often thus used to lower the arterial tension in chronic interstitial nephritis."
 }
