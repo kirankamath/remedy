@@ -26,6 +26,8 @@ public class OneRemedyActivity extends Activity {
 
     private static final String DETAILS = "Details";
     private static final String DOSAGE = "Dosage";
+    private static final String COMMON_NAMES = "Common names";
+    private static final String RELATIONSHIP = "Relationship";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,17 +58,41 @@ public class OneRemedyActivity extends Activity {
             List<String> symptomList = new ArrayList<String>(inputMap.get(category));
             categoryMap.put(category, symptomList);
         }
+
+        Set<String> preList = new HashSet<String>();
+        Set<String> postList = new HashSet<String>();
         List<String> detailsList = new ArrayList<String>();
         detailsList.add(remedy.getDetails());
         categoryMap.put(DETAILS, detailsList);
+        preList.add(DETAILS);
 
-        List<String> dosageList = new ArrayList<String>();
-        dosageList.add(remedy.getDosage());
-        categoryMap.put(DOSAGE, dosageList);
+        String relationship = remedy.getRelationship();
+        if (relationship != null && relationship.length() > 0) {
+            List<String> relationshipList = new ArrayList<String>();
+            relationshipList.add(relationship);
+            categoryMap.put(RELATIONSHIP, relationshipList);
+            postList.add(RELATIONSHIP);
+        }
+
+        String dosage = remedy.getDosage();
+        if (dosage != null && dosage.length() > 0) {
+            List<String> dosageList = new ArrayList<String>();
+            dosageList.add(dosage);
+            categoryMap.put(DOSAGE, dosageList);
+            postList.add(DOSAGE);
+        }
+
+        String commonNames = remedy.getCommonNames();
+        if (commonNames != null && commonNames.length() > 0) {
+            List<String> commonNamesList = new ArrayList<String>();
+            commonNamesList.add(commonNames);
+            categoryMap.put(COMMON_NAMES, commonNamesList);
+            preList.add(COMMON_NAMES);
+        }
 
         ExpandableSymptomListAdapter adapter = new ExpandableSymptomListAdapter(this,
-                new HashSet<String>(Arrays.asList(DETAILS)),
-                new HashSet<String>(Arrays.asList(DOSAGE)),
+                preList,
+                postList,
                 categoryMap, null, false, selectedItemMap);
         listView.setAdapter(adapter);
     }

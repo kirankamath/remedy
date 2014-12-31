@@ -19,6 +19,12 @@ public class Remedy {
 	// Recommended dosage for the remedy.
 	private String dosage;
 
+	// Any relationship with other remedies.
+	private String relationship;
+
+	// Common name for the remedy.
+	private String commonNames;
+
 	/*
 	 * List of symptoms that can be treated by this remedy.
 	 *
@@ -133,6 +139,22 @@ public class Remedy {
         this.details = details;
     }
 
+    public String getRelationship() {
+        return relationship;
+    }
+
+    public void setRelationship(String relationship) {
+        this.relationship = relationship;
+    }
+
+    public String getCommonNames() {
+        return commonNames;
+    }
+
+    public void setCommonNames(String commonNames) {
+        this.commonNames = commonNames;
+    }
+
     /**
      * Method for generating a unique hashcode for this object.
      * Required since this object is placed in HashMap in some cases.
@@ -141,11 +163,18 @@ public class Remedy {
     public int hashCode() {
         final int prime = 31;
         int result = 1;
+        result = prime * result
+                + ((commonNames == null) ? 0 : commonNames.hashCode());
+        result = prime * result + ((details == null) ? 0 : details.hashCode());
+        result = prime * result + ((dosage == null) ? 0 : dosage.hashCode());
         result = prime * result + ((name == null) ? 0 : name.hashCode());
+        result = prime * result
+                + ((relationship == null) ? 0 : relationship.hashCode());
         result = prime * result
                 + ((symptoms == null) ? 0 : symptoms.hashCode());
         return result;
     }
+
 
     /**
      * Method for comparing self with another object.
@@ -163,11 +192,39 @@ public class Remedy {
             return false;
         }
         Remedy other = (Remedy) obj;
+        if (commonNames == null) {
+            if (other.commonNames != null) {
+                return false;
+            }
+        } else if (!commonNames.equals(other.commonNames)) {
+            return false;
+        }
+        if (details == null) {
+            if (other.details != null) {
+                return false;
+            }
+        } else if (!details.equals(other.details)) {
+            return false;
+        }
+        if (dosage == null) {
+            if (other.dosage != null) {
+                return false;
+            }
+        } else if (!dosage.equals(other.dosage)) {
+            return false;
+        }
         if (name == null) {
             if (other.name != null) {
                 return false;
             }
         } else if (!name.equals(other.name)) {
+            return false;
+        }
+        if (relationship == null) {
+            if (other.relationship != null) {
+                return false;
+            }
+        } else if (!relationship.equals(other.relationship)) {
             return false;
         }
         if (symptoms == null) {
@@ -179,4 +236,5 @@ public class Remedy {
         }
         return true;
     }
+
 }

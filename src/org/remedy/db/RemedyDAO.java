@@ -37,10 +37,11 @@ public class RemedyDAO {
 
         String details = "";
         String dosage = "";
+        String commonNames = "";
+        String relationship = "";
         {
-            Cursor cursor = db.rawQuery("select " + RemedyContract.Entry.COLUMN_DETAILS +
-                    " , " + RemedyContract.Entry.COLUMN_DOSAGE +
-                    " from " + RemedyContract.Entry.TABLE_NAME + " where " +
+            Cursor cursor = db.rawQuery("select details, dosage, commonNames, relationship from " +
+                    RemedyContract.Entry.TABLE_NAME + " where " +
                     RemedyContract.Entry.COLUMN_NAME + " = ? ",
                     selectionArgs);
 
@@ -48,6 +49,8 @@ public class RemedyDAO {
             if (notEmpty) {
                 details = cursor.getString(0);
                 dosage = cursor.getString(1);
+                commonNames = cursor.getString(2);
+                relationship = cursor.getString(3);
             }
             cursor.close();
         }
@@ -55,6 +58,8 @@ public class RemedyDAO {
         Remedy remedy = new Remedy(remedyName);
         remedy.setDetails(details);
         remedy.setDosage(dosage);
+        remedy.setCommonNames(commonNames);
+        remedy.setRelationship(relationship);
 
         // Get the list of symptoms for this remedy.
         {
@@ -127,6 +132,8 @@ public class RemedyDAO {
             values.put("name", remedy.getName());
             values.put("details", remedy.getDetails());
             values.put("dosage", remedy.getDosage());
+            values.put("relationship", remedy.getRelationship());
+            values.put("commonNames", remedy.getCommonNames());
             remedyId = db.insert("remedy", null, values);
         }
 

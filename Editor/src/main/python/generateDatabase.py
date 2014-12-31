@@ -14,7 +14,7 @@ catalog_dir = os.path.join(src_root, "downloads")
 
 def create_tables(c):
     # Create remedy table.
-    c.execute("create table remedy (name text PRIMARY KEY, details text, dosage text)")
+    c.execute("create table remedy (name text PRIMARY KEY, details text, dosage text, commonNames text, relationship text)")
     c.execute("create index remedy_name_index on remedy (name)")
 
     # Create category table.
@@ -45,8 +45,10 @@ for f in os.listdir(catalog_dir):
         remedy = json.load(fd)
         dosage = remedy.get("dosage", "")
         details = remedy.get("details", "")
-        c.execute("insert into remedy (name, details, dosage) values (?, ?, ?)",
-                  (remedy["name"], details, dosage))
+        common_names = remedy.get("Common names", "")
+        relationship = remedy.get("Relationship", "")
+        c.execute("insert into remedy (name, details, dosage, commonNames, relationship) values (?, ?, ?, ?, ?)",
+                  (remedy["name"], details, dosage, common_names, relationship))
         remedy_id = c.lastrowid
         symptoms = remedy["symptoms"]
         for category, desc_list in symptoms.iteritems():
