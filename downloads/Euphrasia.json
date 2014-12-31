@@ -2,6 +2,10 @@
   "name": "Euphrasia", 
   "Relationship": "Antidotes: Camph.; Puls. Compare: Hydrophyllum-Burr-flower - (catarrhal inflammation of eyes; hot lachrymation with itching, swollen lids, dull headache; also for effects of Poison-Oak); Cepa; Ars.; Gels.; Kali-hyd.; Sabadilla.", 
   "Modalities": [
+    "Worse: in evening", 
+    "Worse: indoors", 
+    "Worse: warmth; south winds", 
+    "Worse: from light", 
     "Better: from coffee", 
     "Better: in dark"
   ], 
@@ -32,9 +36,6 @@
     "Stomach": [
       "Nausea and bitterness after smoking", 
       "Vomiting from hawking mucus"
-    ], 
-    "Modalities": [
-      "Worse, in evening, indoors, warmth; south winds, from light"
     ], 
     "Head": [
       "Catarrhal headache, with profuse discharge from eyes and nose", 

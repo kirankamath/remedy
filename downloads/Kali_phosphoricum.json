@@ -2,6 +2,11 @@
   "name": "Kali phosphoricum", 
   "Relationship": "Compare: KALI HYPO PHOSPH. (DEBILITY WITH WASTING OF MUSCULAR TISSUE. Phosphaturia with general anemia or leucocythemia. Effects of excessive tea drinking. Chronic bronchitis where the expectoration is THICK AND FETID, sometimes SCANTY AND TOUGH. Dose - 5 grains of crude to 3X.) GENISTA - Dyer's Weed - (contains scopolamin; frontal headache and vertigo, worse motion, better open air and eating. Dry throat, awakes with water brash. Itching eruption on elbows, knees, and ankles. Promotes diuresis in dropsical conditions.) MACROZAMIA SPIRALIS. (Extreme debility after severe illness; collapse. Weariness from no assignable cause, no pains. Boring pain at vertex; vomiting and retching all night; impossible to eyes, giddiness and cold.) ZINC.; GELS.; CIMICIF.; LACHES.; MUR-AC.", 
   "Modalities": [
+    "Worse: excitement", 
+    "Worse: worry", 
+    "Worse: mental and physical exertion; eating", 
+    "Worse: cold", 
+    "Worse: early morning", 
     "Better: warmth", 
     "Better: rest", 
     "Better: nourishment"
@@ -63,9 +68,6 @@
     ], 
     "Ears": [
       "Humming and buzzing in the ears"
-    ], 
-    "Modalities": [
-      "Worse, excitement, worry, mental and physical exertion; eating, cold, early morning"
     ], 
     "Mind": [
       "Somnambulance", 

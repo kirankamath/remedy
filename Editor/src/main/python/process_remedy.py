@@ -129,7 +129,8 @@ def process_one_remedy(file_name):
             if current_list != None:
                 current_list.append(element)
 
-    special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose", "Natural History.", "Natural History"])
+    special_handling = set(["Relationship.", "General.", "Dose.", "Relationship",
+                            "General", "Dose", "Natural History.", "Natural History"])
     symptom_list = {}
     rename_pairs = {"Dose" : "dosage", "General" : "details", "Natural History" : "Common names"}
     for k, v in category_map.iteritems():
@@ -183,8 +184,15 @@ def process_one_remedy(file_name):
             del symptom_list[item]
 
     # Modalities needs special casing.
+    modalities = symptom_list.get("Modalities")
+    if modalities:
+        result = format_modalities(modalities)
+        if result:
+            modalities = result
+        del symptom_list["Modalities"]
+    else:
+        modalities = []
     aggravation = symptom_list.get("Aggravation")
-    modalities = []
     if aggravation != None:
         result = format_modalities(aggravation)
         if result:
