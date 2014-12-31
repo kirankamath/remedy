@@ -6,6 +6,7 @@
     "Worse: and warmth of bed", 
     "Better: in open air"
   ], 
+  "Common names": "Virgin's Bower", 
   "symptoms": {
     "Eyes": [
       "Pustular conjunctivitis, with tinea capitis; eyes inflamed and protruding", 
@@ -17,10 +18,6 @@
     "Stomach": [
       "After eating, weakness in all limbs and pulsation in arteries"
     ], 
-    "Teeth": [
-      "Ache; worse, at night and from tobacco", 
-      "Feel too long"
-    ], 
     "Urine": [
       "Frequent, scanty urination; burning at orifice", 
       "Inability to pass all the urine; dribbling after urinating", 
@@ -30,6 +27,10 @@
       "Urethra feels constricted", 
       "Urine emitted drop by drop", 
       "Pain worse at night, pain along the spermatic cord"
+    ], 
+    "Teeth": [
+      "Ache; worse, at night and from tobacco", 
+      "Feel too long"
     ], 
     "Head": [
       "Confused feeling; better in open air", 
@@ -59,6 +60,5 @@
     ]
   }, 
   "details": "Scrofulous, rheumatic, gonorrheal, and syphilitic patients. Acts especially on skin, GLANDS and genitourinary organs, especially testicles. A remedy of much importance in disturbances of sleep, and neuralgic PAINS in various parts. Many of these pains are relieved by perspiration. Muscles relaxed or twitching. Great emaciation. GREAT SLEEPINESS. Distant pulsation in whole body.", 
-  "Natural History": "Virgin's Bower", 
   "dosage": "Third to thirtieth potency."
 }

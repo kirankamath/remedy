@@ -1,6 +1,4 @@
 {
-  "Natural History": "Iodide of Sulphur", 
-  "details": "Obstinate skin affections, notably in BARBER'S ITCH AND ACNE. Weeping eczema.", 
   "symptoms": {
     "Throat": [
       "Parotid hypertrophied", 
@@ -20,6 +18,8 @@
       "Boils on neck"
     ]
   }, 
+  "details": "Obstinate skin affections, notably in BARBER'S ITCH AND ACNE. Weeping eczema.", 
+  "Common names": "Iodide of Sulphur", 
   "name": "Sulphur iodatum", 
   "dosage": "Third trituration."
 }

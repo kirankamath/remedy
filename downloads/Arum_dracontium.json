@@ -1,6 +1,7 @@
 {
   "name": "Arum dracontium", 
   "Relationship": "Arum Italicum. (Brain-fag, with headache in occipital region.) Arum maculatum (inflammation and ulceration of mucous membranes. Nasal irritation with polypus).", 
+  "Common names": "Green Dragon", 
   "symptoms": {
     "Head": [
       "Heavy; shooting pain in ears, aching pain behind right ear"
@@ -22,6 +23,5 @@
     ]
   }, 
   "details": "A remedy for Pharyngitis with sore, raw and tender throat.", 
-  "Natural History": "Green Dragon", 
   "dosage": "First potency."
 }

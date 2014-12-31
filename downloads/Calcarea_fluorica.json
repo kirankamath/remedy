@@ -7,6 +7,7 @@
     "Better: heat", 
     "Better: warm applications"
   ], 
+  "Common names": "Fluor Spar - Fluoride of Lime", 
   "symptoms": {
     "Eyes": [
       "Flickering and sparks before the eyes, spots on the cornea; conjunctivitis; cataract", 
@@ -55,12 +56,6 @@
     "Face": [
       "Hard swelling on the cheek, with pain or toothache, hard swelling on jaw bone"
     ], 
-    "Throat": [
-      "Follicular sore throat; plugs of mucus are continually forming in the crypts of the tonsils", 
-      "Relaxed uvula, tickling referred to larynx", 
-      "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
-      "Hypertrophy of luschka's tonsil"
-    ], 
     "Nose": [
       "Cold in the head; stuffy cold; dry coryza; ozaena", 
       "Copious, offensive, thick, greenish, lumpy, yellow nasal catarrh", 
@@ -100,6 +95,12 @@
       "Chaps and cracks", 
       "Scar tissue; adhesions after operations"
     ], 
+    "Throat": [
+      "Follicular sore throat; plugs of mucus are continually forming in the crypts of the tonsils", 
+      "Relaxed uvula, tickling referred to larynx", 
+      "Pain and burning in throat; better by warm drinks; worse, cold drinks", 
+      "Hypertrophy of luschka's tonsil"
+    ], 
     "Extremities": [
       "Gouty enlargements of the joints of the fingers", 
       "Ganglia or encysted tumors at the back of the wrist", 
@@ -108,6 +109,5 @@
     ]
   }, 
   "details": "A powerful tissue remedy for hard, stony glands, varicose and enlarged veins, and malnutrition of bones. Hard knots in female breast. Goitre. Congenital hereditary syphilis. INDURATION THREATENING SUPPURATION. Many cases of cataract have undoubtedly been influenced favorably by it. Congenital syphilis manifesting itself in ulceration of mouth and throat, caries and necrosis with boring pains and heat in parts. Arteriosclerosis; threatened apoplexy. Tuberculosis. Used after operations, the tendency to adhesions is reduced.", 
-  "Natural History": "Fluor Spar - Fluoride of Lime", 
   "dosage": "Third to twelfth trituration. A chronic remedy. Needs some time before manifesting its effects. Should not be repeated too frequently."
 }

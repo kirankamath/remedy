@@ -6,6 +6,7 @@
     "Worse: on walking in open air", 
     "Worse: after meals"
   ], 
+  "Common names": "Tea", 
   "symptoms": {
     "Heart": [
       "Pulse rapid, irregular, intermittent", 
@@ -41,6 +42,5 @@
     ]
   }, 
   "details": "Nervous sleeplessness, heart troubles, palpitation, and dyspepsia of old tea-drinkers. Produces most of the sick headaches Tabacum antidotal (Allen).", 
-  "Natural History": "Tea", 
   "dosage": "Theine 1/4-1/2 grain hypodermicallyThird to thirtieth potency."
 }

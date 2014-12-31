@@ -1,6 +1,7 @@
 {
   "name": "Viola tricolor", 
   "Relationship": "Compare: RHUS; CALC.; SEPIA.", 
+  "Common names": "Pansy", 
   "symptoms": {
     "Head": [
       "Heavy, pressing-outward pain", 
@@ -31,6 +32,5 @@
     ]
   }, 
   "details": "The principal uses of this remedy are for eczema in childhood and nocturnal emission accompanied by very vivid dreams.", 
-  "Natural History": "Pansy", 
   "dosage": "Lower potencies."
 }

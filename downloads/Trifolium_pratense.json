@@ -1,6 +1,7 @@
 {
   "name": "Trifolium pratense", 
   "Relationship": "Compare: TRIFOLIUM REPENS - White clover - (Prophylactic against mumps, feeling of congestion in salivary glands, pain and hardening, especially submaxillary; worse, lying down. Mouth filled with watery saliva, WORSE LYING DOWN. Taste of blood in mouth and throat. Sensation as if heart would stop, with great fear, better sitting up or moving about; worse, when alone, with cold sweat on face.)", 
+  "Common names": "Red Clover", 
   "symptoms": {
     "Head": [
       "Dullness in anterior brain", 
@@ -28,6 +29,5 @@
     ]
   }, 
   "details": "PRODUCES MOST MARKED PTYALISM. Feeling of fullness with congestion of salivary glands, followed by increased copious flow of saliva. Feeling as if mumps were coming on. CRUSTA LACTEA; dry, scaly crusts. Stiff neck. CANCEROUS DIATHESIS.", 
-  "Natural History": "Red Clover", 
   "dosage": "Tincture."
 }

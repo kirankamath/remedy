@@ -5,6 +5,7 @@
     "Worse: in warm room", 
     "Better: in open air"
   ], 
+  "Common names": "Lily of the Valley", 
   "symptoms": {
     "Heart": [
       "Sensation as if heart ceased beating, then starting very suddenly", 
@@ -49,9 +50,6 @@
       "Epistaxis", 
       "Hydroa in nose and lips; raw and sore"
     ], 
-    "Throat": [
-      "Raw feeling in back of throat when inspiring"
-    ], 
     "Respiratory": [
       "Pulmonary congestion", 
       "Hot feeling in throat", 
@@ -67,9 +65,11 @@
       "Pain in sacroiliac joints, running down leg", 
       "Great soreness in uterine region, with sympathetic palpitation of heart", 
       "Itching of urinary meatus and vaginal orifice"
+    ], 
+    "Throat": [
+      "Raw feeling in back of throat when inspiring"
     ]
   }, 
   "details": "A heart remedy. Increases energy of heart's action, renders it more regular. Of use when the ventricles are over distended and dilatation begins, and when there is an absence of compensatory hypertrophy, and when venous stasis is marked. Dyspnoea, dropsy, oneiric tendency. ANASARCA.Heart disease with vertigo and digestive disturbances.", 
-  "Natural History": "Lily of the Valley", 
   "dosage": "Third attenuation, and for symptoms of heart failure, tincture, one to fifteen drops."
 }

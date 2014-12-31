@@ -9,6 +9,7 @@
     "Worse: standing", 
     "Better: cool open air"
   ], 
+  "Common names": "Horse Chestnut", 
   "symptoms": {
     "Chest": [
       "Heart's action full and heavy, can feel pulsations all over", 
@@ -58,14 +59,6 @@
       "Eyeballs sore", 
       "Heavy and hot, with lachrymation, with enlarged blood vessels"
     ], 
-    "Throat": [
-      "Hawking of ropy mucus of sweetish taste", 
-      "Hot, dry, raw, stitching pain into ears when swallowing", 
-      "Follicular pharyngitis connected with hepatic congestion", 
-      "Veins in pharynx distended and tortuous", 
-      "Early stages of atrophic pharyngitis in dried-up, bilious subjects", 
-      "Throat sensitive to inspired air; feels excoriated and constricted, burns like fire on swallowing, in afternoon"
-    ], 
     "Nose": [
       "Pressure at root of nose", 
       "Dry; inspired air feels cold, nasal passages sensitive to it", 
@@ -90,11 +83,18 @@
       "Constant throbbing behind symphysis pubis", 
       "Leucorrhoea, with lameness of back across the sacro-illiac articulation; dark, yellow, sticky corroding; worse after menses"
     ], 
+    "Throat": [
+      "Hawking of ropy mucus of sweetish taste", 
+      "Hot, dry, raw, stitching pain into ears when swallowing", 
+      "Follicular pharyngitis connected with hepatic congestion", 
+      "Veins in pharynx distended and tortuous", 
+      "Early stages of atrophic pharyngitis in dried-up, bilious subjects", 
+      "Throat sensitive to inspired air; feels excoriated and constricted, burns like fire on swallowing, in afternoon"
+    ], 
     "Extremities": [
       "Aching and soreness in limbs, in left acromion process with shooing down arms; finger tips numb"
     ]
   }, 
   "details": "The action of this drug is most marked on the lower bowel, producing engorged hemorrhoidal veins, with characteristic backache, with absence of actual constipation. Much pain but little bleeding. Venous stasis general, varicose veins of purple color; everything is slowed down, digestion, heart, bowels, etc. Torpor and congestion of the liver and portal system, with constipation. The back aches and gives out and unfits the patient for business. Flying pains all over. FULLNESS IN VARIOUS PARTS; dry, swollen mucous membranes. Throat with hemorrhoidal conditions.", 
-  "Natural History": "Horse Chestnut", 
   "dosage": "Tincture, to third potency."
 }

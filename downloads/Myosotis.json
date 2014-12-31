@@ -1,6 +1,4 @@
 {
-  "Natural History": "Forget-me-not", 
-  "details": "Chronic bronchitis and phthisis. Night-sweats.", 
   "symptoms": {
     "Respiratory": [
       "Bronchorrhea", 
@@ -8,6 +6,8 @@
       "Cough with profuse mucopurulent expectoration, gagging and vomiting during cough; worse while or after eating"
     ]
   }, 
+  "details": "Chronic bronchitis and phthisis. Night-sweats.", 
+  "Common names": "Forget-me-not", 
   "name": "Myosotis", 
   "dosage": "Tincture to second potency."
 }

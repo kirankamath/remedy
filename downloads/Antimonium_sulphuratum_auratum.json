@@ -1,6 +1,4 @@
 {
-  "Natural History": "(Golden Sulfuret of Antimony", 
-  "details": "A remarkable remedy for many forms of chronic nasal and bronchial catarrh. Acne. Amaurosis.", 
   "symptoms": {
     "Respiratory": [
       "Dry hard cough", 
@@ -26,6 +24,8 @@
       "Rough and scrappy feeling"
     ]
   }, 
+  "details": "A remarkable remedy for many forms of chronic nasal and bronchial catarrh. Acne. Amaurosis.", 
+  "Common names": "(Golden Sulfuret of Antimony", 
   "name": "Antimonium sulphuratum auratum", 
   "dosage": "Second or third trituration."
 }

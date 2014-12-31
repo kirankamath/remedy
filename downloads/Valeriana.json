@@ -1,6 +1,7 @@
 {
   "name": "Valeriana", 
   "Relationship": "Compare: ASAF.; IGN.; CROC.; CASTOR.; AMM. VALER. (in neuralgia, gastric disturbance and great nervous agitation). Insomnia especially during pregnancy and menopause. Feeble, hysterical nervous patients.", 
+  "Common names": "Valerian", 
   "symptoms": {
     "Head": [
       "Pressure in forehead", 
@@ -64,6 +65,5 @@
     ]
   }, 
   "details": "Hysteria, over-sensitiveness, nervous affections, when apparently well-chosen remedies fail. Hysterical spasms and affections generally. HYSTERICAL FLATULENCY.", 
-  "Natural History": "Valerian", 
   "dosage": "Tincture."
 }

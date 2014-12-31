@@ -1,6 +1,4 @@
 {
-  "Natural History": "Red Alder", 
-  "details": "Has some reputation as a remedy for skin affections, glandular enlargements, and indigestion from imperfect secretion of gastric juice. It stimulates nutrition, and thus acts favorably upon strumous disorders, enlarged glands, etc. Ulcerated mucous membranes of mouth and throat. Fingers covered by crust caused by pustules, disagreeable odor. Indigestion from imperfect secretion of gastric juice.", 
   "symptoms": {
     "Female": [
       "Amenorrhoea, with burning pains from back to pubis", 
@@ -15,6 +13,8 @@
       "Chronic herpes"
     ]
   }, 
+  "details": "Has some reputation as a remedy for skin affections, glandular enlargements, and indigestion from imperfect secretion of gastric juice. It stimulates nutrition, and thus acts favorably upon strumous disorders, enlarged glands, etc. Ulcerated mucous membranes of mouth and throat. Fingers covered by crust caused by pustules, disagreeable odor. Indigestion from imperfect secretion of gastric juice.", 
+  "Common names": "Red Alder", 
   "name": "Alnus", 
   "dosage": "Tincture to third potency."
 }

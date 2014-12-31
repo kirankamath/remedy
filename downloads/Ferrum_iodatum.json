@@ -1,6 +1,4 @@
 {
-  "Natural History": "Iodide of Iron", 
-  "details": "Scrofulous affections, glandular enlargements, and tumors call for this remedy. Crops of boils. Acute nephritis following eruptive diseases. Uterine displacements. Body emaciated. Anemia. Exophthalmic goitre following suppression of menses. Debility following drain upon vital forces. Impetigo of the cheek.", 
   "symptoms": {
     "Respiratory": [
       "Coryza; discharge of mucus from nose, trachea, and larynx", 
@@ -36,6 +34,8 @@
       "Sore, as if of a splinter, shooting in different directions"
     ]
   }, 
+  "details": "Scrofulous affections, glandular enlargements, and tumors call for this remedy. Crops of boils. Acute nephritis following eruptive diseases. Uterine displacements. Body emaciated. Anemia. Exophthalmic goitre following suppression of menses. Debility following drain upon vital forces. Impetigo of the cheek.", 
+  "Common names": "Iodide of Iron", 
   "name": "Ferrum iodatum", 
   "dosage": "Third trituration. Does not keep long."
 }

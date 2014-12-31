@@ -1,6 +1,4 @@
 {
-  "Natural History": "Roman Chamomile", 
-  "details": "Respiration.This remedy is akin to the ordinary Chamomilla. Gastric disturbances with coldness. Sensitive to cold air and cold things.Coryza with much lachrymation, sneezing, and discharge of clear water from the nose. Symptoms worse indoors. Constriction and rawness of throat. Cough, tickling; worse in warm room.", 
   "symptoms": {
     "Urine": [
       "Frequent urination", 
@@ -16,6 +14,8 @@
       "Itching of the soles, as if from chilblains"
     ]
   }, 
+  "details": "Respiration.This remedy is akin to the ordinary Chamomilla. Gastric disturbances with coldness. Sensitive to cold air and cold things.Coryza with much lachrymation, sneezing, and discharge of clear water from the nose. Symptoms worse indoors. Constriction and rawness of throat. Cough, tickling; worse in warm room.", 
+  "Common names": "Roman Chamomile", 
   "name": "Anthemis nobilis", 
   "dosage": "Use the third potency."
 }

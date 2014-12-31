@@ -1,6 +1,7 @@
 {
   "name": "Hydrocyanic acid", 
   "Relationship": "Antidotes: AMMON.; CAMPH.; OPIUM.Compare: CICUTA; OENANTHE; CAMPH.; LAUROC.", 
+  "Common names": "Prussic Acid", 
   "symptoms": {
     "Heart": [
       "Torturing pain in chest", 
@@ -48,6 +49,5 @@
     ]
   }, 
   "details": "One of the most toxic agents known. Convulsions and paralysis express the action of this remedy. Spasmodic constriction in larynx, feeling of suffocation, pain and tightness in chest, palpitation; pulse weak, irregular. SINGING SENSATION AT THE EPIGASTRIUM. Hysterical and epileptic convulsions. Cyanosis. Collapse, due to some pulmonary condition not a cardiac collapse. Catalepsy. Cholera. Stage of collapse. (ARS.; VERAT.) Coldness. Tetanus narcolepsy.", 
-  "Natural History": "Prussic Acid", 
   "dosage": "Sixth and higher potencies."
 }

@@ -6,6 +6,7 @@
     "Worse: stimulants", 
     "Better: eating and rest"
   ], 
+  "Common names": "Cadmic Sulphate", 
   "symptoms": {
     "Mind": [
       "Vertigo; room and bed seem to spin around", 
@@ -58,9 +59,6 @@
       "Distortion of mouth", 
       "Trembling of jaw"
     ], 
-    "Throat": [
-      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
-    ], 
     "Nose": [
       "Tightness at root", 
       "Nostrils ulcerated", 
@@ -86,9 +84,11 @@
       "Itching; better scratching", 
       "Chloasma, yellowish stains on nose and cheeks; worse exposure to sun and wind", 
       "Blue, yellow, sallow, scaly, cracking"
+    ], 
+    "Throat": [
+      "Sore throat, constant tickling; gagging and nausea, worse deep breathing; chilliness and aching"
     ]
   }, 
   "details": "Its pathogenesis gives symptoms corresponding to very low forms of disease, as in cholera, YELLOW FEVER, where, with exhaustion, vomiting, and EXTREME PROSTRATION, the disease runs death ward. Important gastric symptoms. Carcinoma ventriculi; persistent vomiting. The attack is upon the stomach more especially. Patients must keep quiet. CHILLINESS AND COLDNESS even when near the fire.", 
-  "Natural History": "Cadmic Sulphate", 
   "dosage": "Third to thirtieth potency."
 }

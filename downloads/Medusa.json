@@ -1,5 +1,4 @@
 {
-  "Natural History": "Jelly-fish", 
   "symptoms": {
     "Female": [
       "The secretion of milk was established after lack of it in all previous confinements", 
@@ -11,6 +10,7 @@
       "Nettle rash"
     ]
   }, 
+  "Common names": "Jelly-fish", 
   "name": "Medusa", 
   "Relationship": "Compare: PYRARARA; PHYSALIA (urticaria); URTICA; HOMAR.; SEP.", 
   "details": "Whole face puffed and edematous - eyes, nose, ears, lips."

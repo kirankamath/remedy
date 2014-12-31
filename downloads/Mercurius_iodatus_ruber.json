@@ -1,6 +1,4 @@
 {
-  "Natural History": "Bin-iodide of Mercury", 
-  "details": "Diphtheria and ulcerated sore throats, especially on left side, with much glandular swelling. Chronic suppurating buboes. Hard chancres. Old cases of syphilis in scrofulous patients. Early stages of cold, especially in children.", 
   "symptoms": {
     "Mouth": [
       "Aphthae", 
@@ -32,6 +30,8 @@
       "Phlegm in nose and throat"
     ]
   }, 
+  "details": "Diphtheria and ulcerated sore throats, especially on left side, with much glandular swelling. Chronic suppurating buboes. Hard chancres. Old cases of syphilis in scrofulous patients. Early stages of cold, especially in children.", 
+  "Common names": "Bin-iodide of Mercury", 
   "name": "Mercurius iodatus ruber", 
   "dosage": "Third trituration. Mercuric iodide is far more active as a bactericide than the other mercurials, including the chloride."
 }

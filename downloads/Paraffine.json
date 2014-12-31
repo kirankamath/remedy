@@ -1,6 +1,7 @@
 {
   "name": "Paraffine", 
   "Relationship": "Compare: NAPHTHALIN; PETROL.; KREOS.; EUPION.", 
+  "Common names": "Purified Paraffin", 
   "symptoms": {
     "Eyes": [
       "Sensation as if there were fat on the eyes", 
@@ -51,6 +52,5 @@
     ]
   }, 
   "details": "Valuable in uterine affections. Particularly serviceable, in constipation. Knife-like pains. Pains extend from one part to another, and alternate. Pain in stomach alternates with pain in throat and spine.", 
-  "Natural History": "Purified Paraffin", 
   "dosage": "Lower triturations and thirtieth potency."
 }

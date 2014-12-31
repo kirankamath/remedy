@@ -1,5 +1,4 @@
 {
-  "Natural History": "MillepedeWood-louse", 
   "symptoms": {
     "Head": [
       "Painful pressure above the root of nose", 
@@ -18,6 +17,7 @@
       "Distended; meteorism; very severe colic"
     ]
   }, 
+  "Common names": "MillepedeWood-louse", 
   "name": "Oniscus asellus", 
   "Relationship": "Compare: POTHOS. CANTH.", 
   "details": "Has distinct diuretic properties; hence its use in dropsies. Asthmatic conditions, with bronchial catarrh."

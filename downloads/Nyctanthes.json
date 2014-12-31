@@ -1,5 +1,4 @@
 {
-  "Natural History": "Paghala-malli - Sad TreeArbor Tristis", 
   "symptoms": {
     "Head": [
       "Anxious and restless; dull headache", 
@@ -18,6 +17,7 @@
       "Constipation"
     ]
   }, 
+  "Common names": "Paghala-malli - Sad TreeArbor Tristis", 
   "name": "Nyctanthes", 
   "details": "Bilious and obstinate remittent fever; sciatica; rheumatism. Constipation of children."
 }

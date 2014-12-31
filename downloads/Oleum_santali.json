@@ -1,6 +1,4 @@
 {
-  "Natural History": "Oil of Sandalwood", 
-  "details": "The action in the urinary and sexual spheres is most utilizable, especially in gonorrhea. It is also a stimulating, disinfectant expectorant. Two or three drops on sugar will frequently relieve the hacking cough, when but little sputum is expectorated.", 
   "symptoms": {
     "Urine": [
       "Acute aching in kidney region", 
@@ -15,6 +13,8 @@
       "Painful erections; swelling of the prepuce"
     ]
   }, 
+  "details": "The action in the urinary and sexual spheres is most utilizable, especially in gonorrhea. It is also a stimulating, disinfectant expectorant. Two or three drops on sugar will frequently relieve the hacking cough, when but little sputum is expectorated.", 
+  "Common names": "Oil of Sandalwood", 
   "name": "Oleum santali", 
   "dosage": "Two to ten m. in capsules."
 }

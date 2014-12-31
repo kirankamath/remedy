@@ -1,6 +1,7 @@
 {
   "name": "Rhus venenata", 
   "Relationship": "Antidote: CLEMATIS. The California Poison-oak (Rhus diversiloba) is identical with it. It antidotes RADIUM and follows it well. Compare: ANACARD.", 
+  "Common names": "Poison-elder", 
   "symptoms": {
     "Head": [
       "Heavy, frontal headache; worse, walking or stooping", 
@@ -32,6 +33,5 @@
     ]
   }, 
   "details": "The skin symptoms of this species of Rhus are most severe.", 
-  "Natural History": "Poison-elder", 
   "dosage": "Sixth to thirtieth potency."
 }

@@ -4,21 +4,21 @@
   "Modalities": [
     "Worse: from four am to four pm"
   ], 
+  "Common names": "Potassium Cyanide", 
   "symptoms": {
     "Respiratory": [
       "Cough prevents sleep; respiration weak; cannot take deep breath"
-    ], 
-    "Face": [
-      "Pain in orbital and supramaxillary region, with screaming and loss of consciousness", 
-      "Severe neuralgia in temporal region, recurring daily at same hour"
     ], 
     "Mouth": [
       "Power of speech lost but intelligence intact", 
       "Ulcer of tongue, with indurated edges", 
       "Speech difficult"
+    ], 
+    "Face": [
+      "Pain in orbital and supramaxillary region, with screaming and loss of consciousness", 
+      "Severe neuralgia in temporal region, recurring daily at same hour"
     ]
   }, 
   "details": "Sudden sinking sensation. Cancer of tongue and agonizing neuralgia have been benefited by this drug. Sick headache; sciatica; epilepsy.", 
-  "Natural History": "Potassium Cyanide", 
   "dosage": "Sixth potency and 200th."
 }

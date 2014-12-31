@@ -1,6 +1,4 @@
 {
-  "Natural History": "Saccharomyces) (Yeast Plant", 
-  "details": "Introduced by Drs. Lehman and Yingling. Not proved, hence clinical symptoms only but many have been verified. Sycotic remedy Anaphylactic states produced by proteins and enzymes (Yingling).", 
   "symptoms": {
     "Head": [
       "Catarrhal discharge from posterior nares", 
@@ -34,6 +32,8 @@
       "Backache, tired and weak from elbows and knees down"
     ]
   }, 
+  "details": "Introduced by Drs. Lehman and Yingling. Not proved, hence clinical symptoms only but many have been verified. Sycotic remedy Anaphylactic states produced by proteins and enzymes (Yingling).", 
+  "Common names": "Saccharomyces) (Yeast Plant", 
   "name": "Torula cervisiae", 
   "dosage": "Pure yeast cake or potencies from"
 }

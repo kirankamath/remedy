@@ -1,6 +1,4 @@
 {
-  "Natural History": "Yew", 
-  "details": "In pustular diseases of skin and night-sweats. Also in gout and chronic rheumatism.", 
   "symptoms": {
     "Head": [
       "Face puffy and pale", 
@@ -21,6 +19,8 @@
       "Erysipelas"
     ]
   }, 
+  "details": "In pustular diseases of skin and night-sweats. Also in gout and chronic rheumatism.", 
+  "Common names": "Yew", 
   "name": "Taxus baccata", 
   "dosage": "Tincture, to third potency."
 }

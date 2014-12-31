@@ -1,6 +1,4 @@
 {
-  "Natural History": "Erythraea venusta - Centaury", 
-  "details": "Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.", 
   "symptoms": {
     "Head": [
       "Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears", 
@@ -16,6 +14,8 @@
       "Wrinkled like a washer woman's"
     ]
   }, 
+  "details": "Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.", 
+  "Common names": "Erythraea venusta - Centaury", 
   "name": "Canchalagua", 
   "dosage": "Tincture, in drop doses. Must be made from the fresh plant. Its medicinal"
 }

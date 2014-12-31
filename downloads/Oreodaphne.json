@@ -1,5 +1,4 @@
 {
-  "Natural History": "California Laurel", 
   "symptoms": {
     "Head": [
       "Head heavy, eyelids heavy, twitching", 
@@ -10,6 +9,7 @@
       "Great heaviness of head, with constant desire to move the head, which does not relieve"
     ]
   }, 
+  "Common names": "California Laurel", 
   "name": "Oreodaphne", 
   "details": "Neuralgic headache, cervico-occipital pain, cerebrospinal meningitis, atonic diarrhoea, and intestinal colic."
 }

@@ -1,5 +1,9 @@
 {
-  "Natural History": "A volatile acid obtained chiefly from butter", 
+  "Modalities": [
+    "Worse: at night", 
+    "Worse: fast walking", 
+    "Worse: going upstairs"
+  ], 
   "symptoms": {
     "Head": [
       "Worries over trifles; impulsive thoughts of suicide; constant state of fear and nervousness", 
@@ -29,11 +33,7 @@
       "Perspiration on slight exertion"
     ]
   }, 
-  "Modalities": [
-    "Worse: at night", 
-    "Worse: fast walking", 
-    "Worse: going upstairs"
-  ], 
+  "Common names": "A volatile acid obtained chiefly from butter", 
   "name": "Butyric acid", 
   "dosage": "Third attenuation."
 }

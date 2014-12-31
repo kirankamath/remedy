@@ -1,6 +1,7 @@
 {
   "name": "Salicylicum acidum", 
   "Relationship": "Compare: SALOL (rheumatic pain in joints, with soreness and stiffness, headache over eyes; urine violet-smelling; COLCH.; CHINA; LACT-AC. Spiraea and Gaultheria contain salicyl. acid.", 
+  "Common names": "Salicylic Acid", 
   "symptoms": {
     "Eyes": [
       "Retinal hemorrhage", 
@@ -48,6 +49,5 @@
     ]
   }, 
   "details": "The symptoms point to its use in rheumatism, dyspepsia, and MENIERE'S DISEASE. Prostration after influenza; also tinnitus aurium and deafness. Hematuria.", 
-  "Natural History": "Salicylic Acid", 
   "dosage": "Third decimal trituration. In acute articular rheumatism, 5 grains very 3 hours. (Old school dose.)"
 }

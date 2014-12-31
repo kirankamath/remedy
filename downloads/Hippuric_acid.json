@@ -1,6 +1,7 @@
 {
   "name": "Hippuric acid", 
   "Relationship": "Benzoic acid seems to be an analogue.", 
+  "Common names": "Proved by Dr. W. B. Griggs", 
   "symptoms": {
     "Head": [
       "Pain over right eye, dull, constant, worse in warm room", 
@@ -29,6 +30,5 @@
     ]
   }, 
   "details": "Its chief action is on the external tissues of the eyes and nasopharynx, joint surfaces, liver and mucous membranes. Right side especially affected, general muscular soreness.", 
-  "Natural History": "Proved by Dr. W. B. Griggs", 
   "dosage": "Lower potencies."
 }

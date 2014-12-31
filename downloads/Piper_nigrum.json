@@ -1,6 +1,4 @@
 {
-  "Natural History": "Black Pepper", 
-  "details": "Sensation of burning and pressure everywhere.", 
   "symptoms": {
     "Head": [
       "Eyes inflamed and burning", 
@@ -38,6 +36,8 @@
       "Burning pain in tonsils"
     ]
   }, 
+  "details": "Sensation of burning and pressure everywhere.", 
+  "Common names": "Black Pepper", 
   "name": "Piper nigrum", 
   "dosage": "Low attenuations."
 }

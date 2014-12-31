@@ -1,6 +1,4 @@
 {
-  "Natural History": "Prickly Poppy", 
-  "details": "Colicky cramp and spasm of bowels. Painful neuromuscular conditions, preventing sleep. Rheumatic disease associated with Bright's disease. (D. MacFarlan.)", 
   "symptoms": {
     "Head": [
       "Throat very dry, pain on swallowing", 
@@ -26,6 +24,8 @@
       "Left knee stiff and painful"
     ]
   }, 
+  "details": "Colicky cramp and spasm of bowels. Painful neuromuscular conditions, preventing sleep. Rheumatic disease associated with Bright's disease. (D. MacFarlan.)", 
+  "Common names": "Prickly Poppy", 
   "name": "Argemone mexicana", 
   "dosage": "Sixth potency. Fresh juice is applied to ulcers and warts."
 }

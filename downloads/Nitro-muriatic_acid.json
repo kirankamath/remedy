@@ -1,5 +1,4 @@
 {
-  "Natural History": "Aqua Regia", 
   "symptoms": {
     "Stomach": [
       "Sour eructations, with empty hungry feeling in stomach; not relieved by eating", 
@@ -22,6 +21,7 @@
       "Constant drooling at night"
     ]
   }, 
+  "Common names": "Aqua Regia", 
   "name": "Nitro-muriatic acid", 
   "details": "Almost a specific in Oxaluria. Removes the distressing skin symptoms resembling psoriasis. Three to five drops three times a day. So-called bilious conditions; torpid liver, hepatitis and early cirrhosis of liver. More adapted to hepatic torpor and gastric catarrh common in hot and damp climates and aggravated by meat eating and alcohol (Hale). Constricted anus. Gravel."
 }

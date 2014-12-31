@@ -127,7 +127,7 @@ def process_one_remedy(file_name):
 
     special_handling = set(["Relationship.", "General.", "Dose.", "Relationship", "General", "Dose", "Natural History."])
     symptom_list = {}
-    rename_pairs = {"Dose" : "dosage", "General" : "details"}
+    rename_pairs = {"Dose" : "dosage", "General" : "details", "Natural History" : "Common names"}
     for k, v in category_map.iteritems():
         value = "".join(v)
         value = value.replace("\n", "").replace('"', "")
@@ -167,7 +167,7 @@ def process_one_remedy(file_name):
     merge_sections(symptom_list, "Respiratory Organs", "Respiratory")
 
     # Some items move from symptoms to remedy main section.
-    main_items = ["dosage", "details", "Relationship", "Natural History"]
+    main_items = ["dosage", "details", "Relationship", "Common names"]
     for item in main_items:
         item_value = symptom_list.get(item)
         if item_value != None:

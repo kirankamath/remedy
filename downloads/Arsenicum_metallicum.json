@@ -1,6 +1,4 @@
 {
-  "Natural History": "Metallic Arsenic", 
-  "details": "Arouses latent syphilis. Periodicity very marked; symptoms recur every two and three weeks. Weakness. Swollen feeling of parts.", 
   "symptoms": {
     "Head": [
       "Annoyed by visions, causing her to cry", 
@@ -16,16 +14,18 @@
       "Diarrhoea, burning watery stools with relief of pain", 
       "Pain in spleen down to groin"
     ], 
+    "Mouth": [
+      "The tongue coated white, and shows imprint of the teeth", 
+      "Mouth sore and ulcerated"
+    ], 
     "Face": [
       "Red, itching, burning and bloated", 
       "Eyes swelled and watery, burn with coryza", 
       "Eyes weak, day and gas light unpleasant"
-    ], 
-    "Mouth": [
-      "The tongue coated white, and shows imprint of the teeth", 
-      "Mouth sore and ulcerated"
     ]
   }, 
+  "details": "Arouses latent syphilis. Periodicity very marked; symptoms recur every two and three weeks. Weakness. Swollen feeling of parts.", 
+  "Common names": "Metallic Arsenic", 
   "name": "Arsenicum metallicum", 
   "dosage": "Sixth potency."
 }

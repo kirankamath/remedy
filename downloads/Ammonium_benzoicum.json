@@ -1,6 +1,7 @@
 {
   "name": "Ammonium benzoicum", 
   "Relationship": "In albuminuria compare: Kalmia; Helon; Merc. cor.; Berb.; Canth.Compare: Terebinth.; Benz-ac.; Ammonia salts, Caust.", 
+  "Common names": "Benzoate of Ammonia", 
   "symptoms": {
     "Head": [
       "Heavy, stupid"
@@ -19,6 +20,5 @@
     ]
   }, 
   "details": "One of the remedies for albuminuria, especially in the gouty. Gout, with deposits in joints. Urinary incontinence in the aged.", 
-  "Natural History": "Benzoate of Ammonia", 
   "dosage": "Second trituration."
 }

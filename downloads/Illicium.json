@@ -1,6 +1,4 @@
 {
-  "Natural History": "Anise", 
-  "details": "Should be remembered in the treatment of flatulent conditions. So-called three-months' colic, especially if it recurs at regular hours; much rumbling in abdomen. One symptom is worthy of special remembrance - PAIN IN REGION OF THIRD RIB, about an inch or two from the sternum, generally on right side, but occasionally on left. Frequent cough with this pain. Purulent tracheal and gastric catarrh of old drunkards. Old asthmatics. Vomiting, epileptiform convulsions with biting of tongue.", 
   "symptoms": {
     "Respiratory": [
       "Cough, with pus-like phlegm", 
@@ -15,6 +13,8 @@
       "Sharp stitches beneath lip"
     ]
   }, 
+  "details": "Should be remembered in the treatment of flatulent conditions. So-called three-months' colic, especially if it recurs at regular hours; much rumbling in abdomen. One symptom is worthy of special remembrance - PAIN IN REGION OF THIRD RIB, about an inch or two from the sternum, generally on right side, but occasionally on left. Frequent cough with this pain. Purulent tracheal and gastric catarrh of old drunkards. Old asthmatics. Vomiting, epileptiform convulsions with biting of tongue.", 
+  "Common names": "Anise", 
   "name": "Illicium", 
   "dosage": "Third potency."
 }

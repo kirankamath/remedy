@@ -1,5 +1,10 @@
 {
-  "Natural History": "Bitter-broom", 
+  "Modalities": [
+    "Worse: after sleep", 
+    "Worse: sudden motion", 
+    "Better: after rising", 
+    "Better: and walking about"
+  ], 
   "symptoms": {
     "Head": [
       "Disordered vision", 
@@ -16,12 +21,7 @@
       "Pain in left hypochondrium"
     ]
   }, 
-  "Modalities": [
-    "Worse: after sleep", 
-    "Worse: sudden motion", 
-    "Better: after rising", 
-    "Better: and walking about"
-  ], 
+  "Common names": "Bitter-broom", 
   "name": "Parthenium escoba amargo", 
   "details": "A Cuban remedy for fevers, especially malarial. Increased flow of milk. Amenorrhoea and general debility. Cheyne-Stokes breathing. After Quinine."
 }

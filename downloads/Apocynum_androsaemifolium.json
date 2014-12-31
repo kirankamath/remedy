@@ -1,6 +1,4 @@
 {
-  "Natural History": "Dog bane", 
-  "details": "The rheumatic symptoms of this remedy promise most curative results. Its pains are of a wandering nature, with much stiffness and drawing. Everything smells and tastes like honey. Worms. Trembling and prostration. Swollen sensations.", 
   "symptoms": {
     "Extremities": [
       "Pain in all joints", 
@@ -12,6 +10,8 @@
       "Violent heat in soles"
     ]
   }, 
+  "details": "The rheumatic symptoms of this remedy promise most curative results. Its pains are of a wandering nature, with much stiffness and drawing. Everything smells and tastes like honey. Worms. Trembling and prostration. Swollen sensations.", 
+  "Common names": "Dog bane", 
   "name": "Apocynum androsaemifolium", 
   "dosage": "Tincture and first potency."
 }

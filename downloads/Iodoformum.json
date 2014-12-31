@@ -1,6 +1,4 @@
 {
-  "Natural History": "Iodoform", 
-  "details": "Should not be forgotten in the treatment of tubercular meningitis, both as a local application to the head and internally. (BACIL.) TUBERCULOUS CONDITIONS. Subacute and chronic diarrhoea of children.", 
   "symptoms": {
     "Head": [
       "Head feels heavy, as if it could not be lifted from pillow", 
@@ -34,6 +32,8 @@
       "Weakness of knees when going upstairs"
     ]
   }, 
+  "details": "Should not be forgotten in the treatment of tubercular meningitis, both as a local application to the head and internally. (BACIL.) TUBERCULOUS CONDITIONS. Subacute and chronic diarrhoea of children.", 
+  "Common names": "Iodoform", 
   "name": "Iodoformum", 
   "dosage": "Second trituration. Three grains on the back of the tongue will relieve attack of asthmatic breathing."
 }

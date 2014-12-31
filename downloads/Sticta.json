@@ -4,6 +4,7 @@
   "Modalities": [
     "Worse: sudden changes of temperature"
   ], 
+  "Common names": "Lung wort", 
   "symptoms": {
     "Head": [
       "Catarrhal headache before discharge appears", 
@@ -54,6 +55,5 @@
     ]
   }, 
   "details": "Offers a set of symptoms like coryza, bronchial catarrh and influenza, together with nervous and RHEUMATIC disturbances. There is a general feeling of dullness and malaise, as when a cold is coming on; dull, heavy pressure in forehead, catarrhal conjunctivitis, etc. RHEUMATIC STIFFNESS OF NECK.", 
-  "Natural History": "Lung wort", 
   "dosage": "Tincture, to sixth potency."
 }

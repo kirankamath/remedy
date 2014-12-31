@@ -1,5 +1,4 @@
 {
-  "Natural History": "Carbonous Oxide", 
   "symptoms": {
     "Eyes": [
       "Ocular paralysis, hemianopsia, disturbed pupillary reaction, optic neuritis and atrophy, subconjunctival and retinal hemorrhages"
@@ -22,6 +21,7 @@
       "Hand icy cold"
     ]
   }, 
+  "Common names": "Carbonous Oxide", 
   "name": "Carboneum oxygenisatum", 
   "details": "Herpes zoster, pemphigus, and trismus are produced by this drug. Coldness, SLEEPINESS, loss of consciousness are marked. Vertigo."
 }

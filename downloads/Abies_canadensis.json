@@ -1,6 +1,4 @@
 {
-  "Natural History": "Pinus CanadensisHemlock Spruce", 
-  "details": "Mucous membranes are affected by Abies-c. and gastric symptoms are most marked, and a catarrhal condition of the stomach is produced. There are peculiar cravings and chilly sensations that are very characteristic, especially for women with uterine displacement, probably due to defective nutrition with debility. Respiration and heart action labored. Wants to lie down all the time; skin cold and clammy, hands cold; very faint. Right lung and liver feel small and hard. Gleet.", 
   "symptoms": {
     "Head": [
       "Feels light-headed, tipsy", 
@@ -29,6 +27,8 @@
       "Thinks womb is soft and feeble"
     ]
   }, 
+  "details": "Mucous membranes are affected by Abies-c. and gastric symptoms are most marked, and a catarrhal condition of the stomach is produced. There are peculiar cravings and chilly sensations that are very characteristic, especially for women with uterine displacement, probably due to defective nutrition with debility. Respiration and heart action labored. Wants to lie down all the time; skin cold and clammy, hands cold; very faint. Right lung and liver feel small and hard. Gleet.", 
+  "Common names": "Pinus CanadensisHemlock Spruce", 
   "name": "Abies canadensis", 
   "dosage": "First to third potency."
 }

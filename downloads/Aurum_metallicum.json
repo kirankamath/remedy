@@ -4,14 +4,11 @@
   "Modalities": [
     "Worse: in cold weather when getting cold"
   ], 
+  "Common names": "Metallic Gold", 
   "symptoms": {
     "Urine": [
       "Painful retention", 
       "Turbid, like buttermilk, with thick sediment"
-    ], 
-    "Throat": [
-      "Caries of the palate", 
-      "Stitches when swallowing; pain in glands"
     ], 
     "Head": [
       "Roaring in head", 
@@ -61,6 +58,12 @@
     "Face": [
       "Tearing in zygoma", 
       "Mastoid and other facial bones inflamed"
+    ], 
+    "Bones": [
+      "Soreness of affected bones, better in open air, worse at night", 
+      "Destruction of bones, like secondary syphilis", 
+      "Caries of nasal, palatine and mastoid bones", 
+      "Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones"
     ], 
     "Nose": [
       "Ulcerated, painful, swollen, obstructed", 
@@ -113,11 +116,9 @@
       "Sterility; vaginismus", 
       "Uterus enlarged and prolapsed"
     ], 
-    "Bones": [
-      "Soreness of affected bones, better in open air, worse at night", 
-      "Destruction of bones, like secondary syphilis", 
-      "Caries of nasal, palatine and mastoid bones", 
-      "Pain in bones of head, lumps under scalp, exostosis with nightly pains in bones"
+    "Throat": [
+      "Caries of the palate", 
+      "Stitches when swallowing; pain in glands"
     ], 
     "Extremities": [
       "Knees weak", 
@@ -127,6 +128,5 @@
       "Dropsy of lower limbs"
     ]
   }, 
-  "details": "Given full play, Aurum develops in the organism, by attacking the blood, glands, and bone, conditions bearing striking resemblance to mercurial and syphilitic infections; and it is just for such deteriorations of the bodily fluids and alterations in the tissues, that Aurum assumes great importance as a remedy. Like the victim of syphilis, mental states of great depression are produced by it. Hopeless, despondent, and GREAT DESIRE TO COMMIT SUICIDE. Every opportunity is sought for self-destruction. Exostosis, caries, nightly bone-pains, especially cranial, nasal, and palatine. Glands swollen in scrofulous subjects. Palpitation and congestions. Ascites often in conjunction with heart affections. Frequently indicated in secondary syphilis and effects of mercury. This use of gold as an anti-venereal and anti-scrofulous remedy is very old, but has been well-nigh forgotten by the old school until rediscovered and placed on its scientific basis by homeopathy, and now it can never be lost again. When syphilis is implanted on the scrofulous constitution, we have one of the most intractable morbid conditions, and gold seems to be especially suited to the vile combination. ENNUI. Ozaena; sexual hyperaesthesia. ARTERIOSCLEROSIS, high blood pressure; nightly paroxysms of pain behind sternum. Sclerosis of liver, arterial system, brain. Pining boys; low spirited, lifeless, weak memory.", 
-  "Natural History": "Metallic Gold"
+  "details": "Given full play, Aurum develops in the organism, by attacking the blood, glands, and bone, conditions bearing striking resemblance to mercurial and syphilitic infections; and it is just for such deteriorations of the bodily fluids and alterations in the tissues, that Aurum assumes great importance as a remedy. Like the victim of syphilis, mental states of great depression are produced by it. Hopeless, despondent, and GREAT DESIRE TO COMMIT SUICIDE. Every opportunity is sought for self-destruction. Exostosis, caries, nightly bone-pains, especially cranial, nasal, and palatine. Glands swollen in scrofulous subjects. Palpitation and congestions. Ascites often in conjunction with heart affections. Frequently indicated in secondary syphilis and effects of mercury. This use of gold as an anti-venereal and anti-scrofulous remedy is very old, but has been well-nigh forgotten by the old school until rediscovered and placed on its scientific basis by homeopathy, and now it can never be lost again. When syphilis is implanted on the scrofulous constitution, we have one of the most intractable morbid conditions, and gold seems to be especially suited to the vile combination. ENNUI. Ozaena; sexual hyperaesthesia. ARTERIOSCLEROSIS, high blood pressure; nightly paroxysms of pain behind sternum. Sclerosis of liver, arterial system, brain. Pining boys; low spirited, lifeless, weak memory."
 }

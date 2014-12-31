@@ -1,6 +1,4 @@
 {
-  "Natural History": "Sulphurous Acid, H2SO3", 
-  "details": "SULPHUROUS ACID, (tonsillitis (as a spray), acne rosacea, ULCERATIVE STOMATITIS, pityriasis versicolor).", 
   "symptoms": {
     "Head": [
       "Ringing in ears", 
@@ -26,6 +24,8 @@
       "Fluor albus"
     ]
   }, 
+  "details": "SULPHUROUS ACID, (tonsillitis (as a spray), acne rosacea, ULCERATIVE STOMATITIS, pityriasis versicolor).", 
+  "Common names": "Sulphurous Acid, H2SO3", 
   "name": "Sulphurosum acidum", 
   "dosage": "As a spray in tonsillitis. According to Ringer, ten to fifteen minims taken ten minutes before each meal will remedy pyrosis and prevent fermentation and flatulence. It also removes thrus. Homeopathically, third attenuation."
 }

@@ -1,6 +1,7 @@
 {
   "name": "Hippozaenium", 
   "Relationship": "Compare: MUCO-TOXIN (Cahis' preparation with the micrococcus catarrhalis. Friedlander's Bacillus of Pneumonia and the micrococcus tetragenous - for acute and chronic mucous catarrhs in children and old people.); AUR.; KALI-BICH.; PSOR.; BACILLI.", 
+  "Common names": "Gladerinne-mallein-Farcine", 
   "symptoms": {
     "Respiratory": [
       "Bronchial asthma", 
@@ -11,9 +12,6 @@
       "Tuberculosis", 
       "Suffocation imminent", 
       "Cough, with dyspepsia"
-    ], 
-    "Face": [
-      "All glands swollen; painful; form abscesses"
     ], 
     "Nose": [
       "Papules and ulceration in frontal sinus and pharynx", 
@@ -31,9 +29,11 @@
       "Eczema", 
       "Pustules and abscesses", 
       "Nodules in arm"
+    ], 
+    "Face": [
+      "All glands swollen; painful; form abscesses"
     ]
   }, 
   "details": "This powerful nosode introduced by Dr. J.J. Garth Wilkinson, covers symptoms which suggest integral parts of consumption, cancer, syphilis, etc., and promises useful service in the treatment of ozaena, scrofulous swellings. Pyaemia, erysipelas. Chronic rhinitis; sanious secretion.", 
-  "Natural History": "Gladerinne-mallein-Farcine", 
   "dosage": "Thirtieth potency."
 }

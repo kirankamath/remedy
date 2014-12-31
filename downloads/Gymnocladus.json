@@ -1,20 +1,20 @@
 {
   "name": "Gymnocladus", 
   "Relationship": "Compare: LACHNANT.; LACHES.; AILANTH.; RHUS.", 
+  "Common names": "American Coffee-tree", 
   "symptoms": {
-    "Face": [
-      "Great sensibility of teeth", 
-      "Sensation as of flies crawling over face", 
-      "Erysipelas"
-    ], 
     "Throat": [
       "Tickling, with dry cough", 
       "Sore; dark livid redness of fauces and tonsils", 
       "Mucus in throat and hawking", 
       "Sticking pain"
+    ], 
+    "Face": [
+      "Great sensibility of teeth", 
+      "Sensation as of flies crawling over face", 
+      "Erysipelas"
     ]
   }, 
   "details": "Sore throat, dark livid redness of fauces, and erysipelatous swelling of face are most marked. Hives. Desire for heat and quiet. Headache, throbbing in forehead and temples and over eyes, with BLUISH-WHITE COATING OF TONGUE. Burning in eyes.", 
-  "Natural History": "American Coffee-tree", 
   "dosage": "Lower attenuations."
 }

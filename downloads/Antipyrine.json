@@ -1,6 +1,4 @@
 {
-  "Natural History": "Phenazone - A Coal-tar Derivative", 
-  "details": "Antipyrine is one of the drugs that induce leucocytosis, similar to Ergotin, salicylates, and tuberculin. Acts especially on the vasomotor centers, causing dilation of capillaries of skin and consequent circumscribed patches of hyperaemia and swelling. In large doses causes profuse perspiration, dizziness, cyanosis, and somnolence, albumen and blood in urine. Acute erythema multiform.", 
   "symptoms": {
     "Heart": [
       "General prostration", 
@@ -77,6 +75,8 @@
       "Tinnitus"
     ]
   }, 
+  "details": "Antipyrine is one of the drugs that induce leucocytosis, similar to Ergotin, salicylates, and tuberculin. Acts especially on the vasomotor centers, causing dilation of capillaries of skin and consequent circumscribed patches of hyperaemia and swelling. In large doses causes profuse perspiration, dizziness, cyanosis, and somnolence, albumen and blood in urine. Acute erythema multiform.", 
+  "Common names": "Phenazone - A Coal-tar Derivative", 
   "name": "Antipyrine", 
   "dosage": "Second decimal potency."
 }

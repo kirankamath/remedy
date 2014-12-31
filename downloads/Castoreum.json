@@ -1,5 +1,4 @@
 {
-  "Natural History": "The Beaver", 
   "symptoms": {
     "Mouth": [
       "Tongue swollen", 
@@ -11,6 +10,7 @@
       "Dysmenorrhoea; blood discharged in drops with tenesmus"
     ]
   }, 
+  "Common names": "The Beaver", 
   "name": "Castoreum", 
   "details": "A great remedy for hysteria. Prostration marked. Hysterical symptoms. Day-blindness; cannot endure the light. Nervous women who do not recover fully, but are continually irritable, and suffer from debilitating sweats. Spasmodic affections after debilitating diseases. Constant yawning. Restless sleep with frightful dreams and starts."
 }

@@ -1,6 +1,7 @@
 {
   "name": "Gaultheria", 
   "Relationship": "Compare: SPIRAEA. Gaultheria contains Arbutin. SALICYL. ACID. METHYLIUM SALICYLICUM (an artificial Gaultheria oil for rheumatism, especially when the salicylates cannot be used. Pruritus and epididymitis, locally). After CANTHARIS in burns.", 
+  "Common names": "Wintergreen", 
   "symptoms": {
     "Head": [
       "Neuralgia of head and face"
@@ -16,6 +17,5 @@
     ]
   }, 
   "details": "Inflammatory rheumatism, pleurodynia, SCIATICA, and other neuralgias, come within the scope of this remedy. Cystic and prostatic irritation, undue sexual excitement, and renal inflammation.", 
-  "Natural History": "Wintergreen", 
   "dosage": "Tincture and lower potencies."
 }

@@ -9,6 +9,7 @@
     "Better: lying down", 
     "Better: pressure"
   ], 
+  "Common names": "Radium Bromide", 
   "symptoms": {
     "Head": [
       "Both eyes ache", 
@@ -48,12 +49,6 @@
       "Backache between shoulders and lumbar-sacral region, better after walking", 
       "Pain and lameness in cervical vertebrae, worse dropping head forward, better standing, or sitting erect"
     ], 
-    "Abdomen": [
-      "Pruritus ani and piles", 
-      "Alternating constipation and loose movements", 
-      "Much flatulence", 
-      "Pain, violent cramps, rumbling, full of gas; pain over mcburney's point, and at location of sigmoid flexure"
-    ], 
     "Fever": [
       "Internal chilliness followed by heat of the skin, associated with bowel movements and flatulence", 
       "Cold sensation internally, with chattering of teeth until noon"
@@ -77,10 +72,11 @@
       "Erythema and dermatitis, with itching, burning, swelling and redness", 
       "Necrosis and ulceration"
     ], 
-    "Mouth": [
-      "Dryness of mouth", 
-      "Prickling sensation on end of tongue", 
-      "Metallic taste"
+    "Abdomen": [
+      "Pruritus ani and piles", 
+      "Alternating constipation and loose movements", 
+      "Much flatulence", 
+      "Pain, violent cramps, rumbling, full of gas; pain over mcburney's point, and at location of sigmoid flexure"
     ], 
     "Extremities": [
       "Arthritis, aching pains, worse at night", 
@@ -92,9 +88,13 @@
       "Severe pain in all the limbs, joints, especially in knee and ankles, sharp pains in shoulders, arms, hands and fingers", 
       "Cracking in shoulder", 
       "Trophic changes in the finger nails"
+    ], 
+    "Mouth": [
+      "Dryness of mouth", 
+      "Prickling sensation on end of tongue", 
+      "Metallic taste"
     ]
   }, 
   "details": "An important addition to the Materia Medica, especially since the provings by Diffenbach have precisionized its use. Radium brom. of 1, 800, 000 radio-activity was employed. Found effective in the treatment of rheumatism and gout, in skin affections generally, acne rosacea, naevi, moles, ulcers and cancers. Lowered blood pressure. SEVERE ACHING PAINS ALL OVER, with restlessness, better moving about. Chronic rheumatic arthritis. Lateness in appearance of symptoms. Ulcers due to Radium burns, take a long time to heal. Marked increase in the polymorphonuclear neurophiles. Great weakness.", 
-  "Natural History": "Radium Bromide", 
   "dosage": "Thirtieth and twelfth trituration."
 }

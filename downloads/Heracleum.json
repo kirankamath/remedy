@@ -1,6 +1,4 @@
 {
-  "Natural History": "Branca UrsinaHog weed", 
-  "details": "Recommended as a spinal stimulant; in epilepsy with flatulency, gouty and skin symptoms.", 
   "symptoms": {
     "Head": [
       "Much fatty perspiration on head and violent itching", 
@@ -15,6 +13,8 @@
       "Abdominal and splenic pain"
     ]
   }, 
+  "details": "Recommended as a spinal stimulant; in epilepsy with flatulency, gouty and skin symptoms.", 
+  "Common names": "Branca UrsinaHog weed", 
   "name": "Heracleum", 
   "dosage": "Third potency."
 }

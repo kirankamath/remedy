@@ -7,6 +7,7 @@
     "Worse: and also hot weather", 
     "Better: while riding in carriage"
   ], 
+  "Common names": "Nitric Acid", 
   "symptoms": {
     "Mind": [
       "Hopeless despair", 
@@ -64,12 +65,6 @@
       "Headaches from pressure of hat; full feeling; worse from street noises", 
       "Sensation of a band around head"
     ], 
-    "Throat": [
-      "Dry", 
-      "Pain into ears", 
-      "Hawks mucus constantly", 
-      "White patches and sharp points, as from splinters, on swallowing"
-    ], 
     "Nose": [
       "Stitches, as of a splinter in nose", 
       "Nasal diphtheria, with watery and exceedingly excoriating discharge", 
@@ -113,6 +108,12 @@
       "Ulcers bleed easily, sensitive; splinter-like pains; zigzag, irregular edges; base looks like raw flesh", 
       "Exuberant granulations"
     ], 
+    "Throat": [
+      "Dry", 
+      "Pain into ears", 
+      "Hawks mucus constantly", 
+      "White patches and sharp points, as from splinters, on swallowing"
+    ], 
     "Extremities": [
       "Sweating of palms, hands; cold, blue nails", 
       "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes", 
@@ -120,6 +121,5 @@
     ]
   }, 
   "details": "Selects for its special seat of action the outlets of the body where the mucous membrane and skin meet; these pain AS FROM SPLINTERS. STICKING PAINS. Marked improvement of all symptoms while riding in a carriage. Acts best on the dark complexioned and past middle life. Syphilis, after abuse of Mercury. Pains appear and disappear quickly. (BELL.) Hydrogenoid constitution. Sycotic remedy.Blisters and ulcers in mouth, tongue, genitals; bleed easily. Fissures, with pain during stool, as if rectum were torn. All discharges very offensive, especially urine, faeces, and perspiration. Persons who have chronic diseases, and take cold easily and disposed to diarrhoea. Excessive physical irritability. Cachexia, due to syphilis, scrofula, intermittent fever with liver involvement and anemia, etc. Gravel; arthritis. Capillary bleeding after curettage.", 
-  "Natural History": "Nitric Acid", 
   "dosage": "Sixth potency. As the nitric acid patient begins to improve skin symptoms may appear for a time, a favorable indication."
 }

@@ -1,6 +1,7 @@
 {
   "name": "Latrodectus mactans", 
   "Relationship": "Compare: LATRODECTUS HASSELTI - New South Wales Black Spider - (Long lasting effects seem to indicate it as a chronic blood poisoning. Arrests intense pain in pyaemia. Great oedema in neighborhood of wound; paralysis of limbs, with great wasting of muscles. Violent, darting, burning pains preceding paralysis; vertigo, tendency to fall forward, septicaemic conditions; constant delusion of FLYING. Loss of memory. Roaring noises.) ARANEA; MYGALE; THERIDION; LATRODECTUS KALIPO - New Zealand spider - (lymphangitis and nervous twitchings, scarlet burning eruption.) TRIATOMA - Kissing bug - (Swelling with violent itching of fingers and toes. Smothering sensation and difficult breathing succeeded by fainting and rapid pulse.)", 
+  "Common names": "Spider", 
   "symptoms": {
     "Head": [
       "Occipital pain", 
@@ -30,6 +31,5 @@
     ]
   }, 
   "details": "The bite produces tetanic effects that last several days. A picture of ANGINA PECTORIS is presented by the action of the drug. The precordial region seems to be the center of attack. Constriction of chest muscles, with radiation to shoulders and back. Lowered coagulability.", 
-  "Natural History": "Spider", 
   "dosage": "Sixth potency."
 }

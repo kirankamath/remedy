@@ -8,6 +8,7 @@
     "Worse: when lying down", 
     "Better: stooping"
   ], 
+  "Common names": "Henbane", 
   "symptoms": {
     "Eyes": [
       "Spasmodic closing of lids", 
@@ -52,12 +53,6 @@
       "Hemoptysis", 
       "Dry, spasmodic cough at night , from itching in the throat, as if uvula were too long"
     ], 
-    "Throat": [
-      "Constriction", 
-      "Uvula elongated", 
-      "Cannot swallow liquids", 
-      "Stinging dryness"
-    ], 
     "Female": [
       "During menses, convulsive movements, urinary flux and sweat", 
       "Puerperal mania", 
@@ -71,6 +66,12 @@
       "Teeth covered with sordes", 
       "Tongue dry, red, cracked, stiff and immovable, protruded with difficulty; speech impaired", 
       "Foams at mouth"
+    ], 
+    "Throat": [
+      "Constriction", 
+      "Uvula elongated", 
+      "Cannot swallow liquids", 
+      "Stinging dryness"
     ], 
     "Sleep": [
       "Great restlessness; every muscle twitches", 
@@ -100,6 +101,5 @@
     ]
   }, 
   "details": "Disturbs the nervous system profoundly. It is as if some diabolical force took possession of the brain and prevented its functions. It causes a perfect picture of MANIA OF A QUARRELSOME AND OBSCENE CHARACTER. Inclined to be unseemly and immodest in acts, gestures and expressions. Very talkative, and persists in stripping herself, or uncovering genitals. Is jealous, afraid of being poisoned, etc. Its symptoms also point to weakness and NERVOUS AGITATION; hence typhoid and other infections with COMA VIGIL. TREMULOUS WEAKNESS AND TWITCHING OF TENDONS. Subsultus tendinum. Muscular twitchings, spasmodic affections, generally with delirium. Non-inflammatory cerebral activity. TOXIC GASTRITIS.", 
-  "Natural History": "Henbane", 
   "dosage": "Sixth, to 200th potency."
 }

@@ -1,12 +1,12 @@
 {
-  "Natural History": "Valerianate of Ammonia", 
-  "details": "Great nervous erethism is always present.A remedy for nervous, hysterical people, suffering with neuralgia headaches and insomnia. In neuralgia, gastric disturbance and great nervous agitation. Insomnia especially during pregnancy and menopause. Feeble, hysterical nervous patients. Violent neuralgia, with great nervous agitation.", 
   "symptoms": {
     "Heart": [
       "Pains in cardiac region", 
       "Functional disturbances, tachycardia"
     ]
   }, 
+  "details": "Great nervous erethism is always present.A remedy for nervous, hysterical people, suffering with neuralgia headaches and insomnia. In neuralgia, gastric disturbance and great nervous agitation. Insomnia especially during pregnancy and menopause. Feeble, hysterical nervous patients. Violent neuralgia, with great nervous agitation.", 
+  "Common names": "Valerianate of Ammonia", 
   "name": "Ammonium valerianicum", 
   "dosage": "Lower triturations."
 }

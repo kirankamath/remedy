@@ -1,6 +1,4 @@
 {
-  "Natural History": "Balm of Gilead", 
-  "details": "Seems to have a remarkable power over acute colds, especially when accompanied by a deep, hoarse voice, or even aphonia. General insensibility of surface (worse, back and abdomen); rubbing and pounding borne without pain, and is grateful on account of warmth produced. Finger-ends thickened, horny; insensible to pinching and prickling. Instantaneous voice-producer. (COCA.)", 
   "symptoms": {
     "Head": [
       "Tongue feels thick and numb", 
@@ -18,6 +16,8 @@
       "Rawness and soreness of chest and throat"
     ]
   }, 
+  "details": "Seems to have a remarkable power over acute colds, especially when accompanied by a deep, hoarse voice, or even aphonia. General insensibility of surface (worse, back and abdomen); rubbing and pounding borne without pain, and is grateful on account of warmth produced. Finger-ends thickened, horny; insensible to pinching and prickling. Instantaneous voice-producer. (COCA.)", 
+  "Common names": "Balm of Gilead", 
   "name": "Populus candicans", 
   "dosage": "Tincture."
 }

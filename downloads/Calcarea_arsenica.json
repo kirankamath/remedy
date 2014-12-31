@@ -1,6 +1,4 @@
 {
-  "Natural History": "Arsenite of Lime", 
-  "details": "Epilepsy with rush of blood to the head before attack; aura felt in region of heart; flying sensation. Complaints in fat women around climacteric. Chronic malaria. Infantile enlarged liver and spleen. NEPHRITIS, with great sensitiveness in kidney region. Complaints of drunkards after abstaining. (Carbon. sulph.) Fleshy women at climacteric, SLIGHTEST EMOTION CAUSING PALPITATION. Dysphonia, with feeble heart. CHILLINESS. Albuminuria. Dropsy. Affections of spleen and mesenteric glands. Haemoglobin and red corpuscles are low.", 
   "symptoms": {
     "Heart": [
       "Constriction and pain in region of heart, suffocating feeling, palpitation, oppression and throbbing and pain in back extending to arms"
@@ -40,6 +38,8 @@
       "Removes inflammatory products in veins of lower extremities"
     ]
   }, 
+  "details": "Epilepsy with rush of blood to the head before attack; aura felt in region of heart; flying sensation. Complaints in fat women around climacteric. Chronic malaria. Infantile enlarged liver and spleen. NEPHRITIS, with great sensitiveness in kidney region. Complaints of drunkards after abstaining. (Carbon. sulph.) Fleshy women at climacteric, SLIGHTEST EMOTION CAUSING PALPITATION. Dysphonia, with feeble heart. CHILLINESS. Albuminuria. Dropsy. Affections of spleen and mesenteric glands. Haemoglobin and red corpuscles are low.", 
+  "Common names": "Arsenite of Lime", 
   "name": "Calcarea arsenica", 
   "dosage": "Third trituration."
 }

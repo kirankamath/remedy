@@ -1,6 +1,4 @@
 {
-  "Natural History": "Tartaric Acid", 
-  "details": "Found in grapes, pineapple, sorrel and other fruits. It is an antiscorbutic antiseptic, stimulating the mucous and salivary secretions.Dullness and lassitude. Great weakness, with diarrhoea, with dry and brown tongue. Pain in heels. (PHYTOL.)", 
   "symptoms": {
     "Stomach": [
       "Excessive thirst, continued vomiting burning in throat and stomach", 
@@ -11,6 +9,8 @@
       "Stool color of coffee-grounds , with brown and dry tongue, and dark-green vomiting"
     ]
   }, 
+  "details": "Found in grapes, pineapple, sorrel and other fruits. It is an antiscorbutic antiseptic, stimulating the mucous and salivary secretions.Dullness and lassitude. Great weakness, with diarrhoea, with dry and brown tongue. Pain in heels. (PHYTOL.)", 
+  "Common names": "Tartaric Acid", 
   "name": "Tartaricum acidum", 
   "dosage": "Third trituration. The pure acid 10-30 grains dissolved in water."
 }

@@ -1,5 +1,4 @@
 {
-  "Natural History": "Ginger", 
   "symptoms": {
     "Head": [
       "Pain over eyebrows", 
@@ -51,6 +50,7 @@
       "Emissions"
     ]
   }, 
+  "Common names": "Ginger", 
   "name": "Zingiber", 
   "Relationship": "Compare: CALAD.", 
   "details": "States of debility in the digestive tract, and sexual system and respiratory troubles, call for this remedy. Complete cessation of function of kidneys."

@@ -1,6 +1,4 @@
 {
-  "Natural History": "Coryanthe Yohimbe", 
-  "details": "Excites sexual organs and acts on central nervous system and respiratory center. An aphrodisiac, used in physiological doses, but contraindicated in all acute and chronic inflammations of abdominal organs. Homeopathically, should be of service in congestive conditions of the sexual organs. Causes hyperaemia of the milk glands and stimulates the function of lactation. Menorrhagia.", 
   "symptoms": {
     "Head": [
       "Copious salivation", 
@@ -23,6 +21,8 @@
       "Neurasthenic impotence"
     ]
   }, 
+  "details": "Excites sexual organs and acts on central nervous system and respiratory center. An aphrodisiac, used in physiological doses, but contraindicated in all acute and chronic inflammations of abdominal organs. Homeopathically, should be of service in congestive conditions of the sexual organs. Causes hyperaemia of the milk glands and stimulates the function of lactation. Menorrhagia.", 
+  "Common names": "Coryanthe Yohimbe", 
   "name": "Yohimbinum", 
   "dosage": "As a sexual stimulant, ten drops of a one per cent. solution, or hypodermic tablets of 0.005 gm. Homeopathic dose,"
 }

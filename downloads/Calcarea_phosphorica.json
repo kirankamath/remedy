@@ -6,14 +6,8 @@
     "Worse: cold weather", 
     "Worse: melting snow"
   ], 
+  "Common names": "Phosphate of Lime", 
   "symptoms": {
-    "Extremities": [
-      "Weary when going upstairs", 
-      "Stiffness and pain, with cold, numb feeling, worse any change of weather", 
-      "Buttocks, back and limbs asleep", 
-      "Pains in joints and bones", 
-      "Crawling and coldness"
-    ], 
     "Eyes": [
       "Diffused opacity in cornea following abscess"
     ], 
@@ -54,10 +48,12 @@
       "Bleeding after hard stool", 
       "Green, slimy, hot, sputtering, undigested, with fetid flatus"
     ], 
-    "Abdomen": [
-      "At every attempt to eat, colicky pain in abdomen", 
-      "Sunken and flabby", 
-      "Colic, soreness and burning around navel"
+    "Extremities": [
+      "Weary when going upstairs", 
+      "Stiffness and pain, with cold, numb feeling, worse any change of weather", 
+      "Buttocks, back and limbs asleep", 
+      "Pains in joints and bones", 
+      "Crawling and coldness"
     ], 
     "Female": [
       "Menses too early, excessive and bright in girls", 
@@ -69,17 +65,21 @@
       "Prolapsus in debilitated persons", 
       "Leucorrhoea, like white of egg; worse in morning"
     ], 
-    "Mouth": [
-      "Adenoid growths", 
-      "Swollen tonsils; cannot open mouth without pain", 
-      "Complaints during teething; teeth develop slowly; rapid decay of teeth"
+    "Abdomen": [
+      "At every attempt to eat, colicky pain in abdomen", 
+      "Sunken and flabby", 
+      "Colic, soreness and burning around navel"
     ], 
     "Neck and Back": [
       "Rheumatic pain from draft of air, with stiffness and dullness of head", 
       "Soreness in sacroiliac symphysis, as if broken"
+    ], 
+    "Mouth": [
+      "Adenoid growths", 
+      "Swollen tonsils; cannot open mouth without pain", 
+      "Complaints during teething; teeth develop slowly; rapid decay of teeth"
     ]
   }, 
   "details": "One of the most important tissue remedies, and while it has many symptoms in common with CALCAREA CARB., there are some differences and characteristic features of its own. It is especially indicated in tardy dentition and troubles incident to that period, bone disease, non-union of fractured bones, and the anemias after acute diseases and chronic wasting diseases. ANAEMIC CHILDREN WHO ARE PEEVISH, FLABBY, HAVE COLD EXTREMITIES AND FEEBLE DIGESTION. It has a special affinity where bones form sutures or symphyses, and all its symptoms are worse from any change of weather. NUMBNESS AND CRAWLING are characteristic sensations, and tendency to perspiration and glandular enlargement are symptoms it shares with the carbonate. Scrofulosis, chlorosis and phthisis.", 
-  "Natural History": "Phosphate of Lime", 
   "dosage": "First to third trituration. Higher potencies often more effective."
 }

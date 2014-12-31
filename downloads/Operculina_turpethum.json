@@ -1,5 +1,4 @@
 {
-  "Natural History": "Nishope", 
   "symptoms": {
     "Mind": [
       "Delirium associated with restlessness, loquacity", 
@@ -15,6 +14,7 @@
       "Boils and slowly suppurating abscesses"
     ]
   }, 
+  "Common names": "Nishope", 
   "name": "Operculina turpethum", 
   "details": "A remedy for plague, fevers, diarrhoea."
 }

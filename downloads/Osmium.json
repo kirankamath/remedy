@@ -1,6 +1,7 @@
 {
   "name": "Osmium", 
   "Relationship": "Compare: ARGENT.; IRIDIUM; SELEN.; MANGAN.", 
+  "Common names": "The Element", 
   "symptoms": {
     "Eyes": [
       "Conjunctivitis", 
@@ -35,6 +36,5 @@
     ]
   }, 
   "details": "Irritation and catarrh of respiratory organs. Eczema. Albuminuria. PAIN IN TRACHEA. Increases and gives odor to local perspiration. Causes ADHESION OF THE NAIL FOLD.", 
-  "Natural History": "The Element", 
   "dosage": "Sixth potency."
 }

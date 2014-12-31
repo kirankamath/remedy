@@ -1,6 +1,4 @@
 {
-  "Natural History": "Fragrant Stomach", 
-  "details": "Renal and urinary affections, especially DIABETES. Enuresis due to vesical atony; senile incontinence. Hematuria and cystitis come within the range of this remedy.", 
   "symptoms": {
     "Urine": [
       "Diabetes, large quantities of urine of low specific gravity", 
@@ -10,6 +8,8 @@
       "Severe pain at beginning or before urination, causing great agony in children"
     ]
   }, 
+  "details": "Renal and urinary affections, especially DIABETES. Enuresis due to vesical atony; senile incontinence. Hematuria and cystitis come within the range of this remedy.", 
+  "Common names": "Fragrant Stomach", 
   "name": "Rhus aromatic", 
   "dosage": "Tincture, in rather material doses."
 }

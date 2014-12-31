@@ -1,6 +1,7 @@
 {
   "name": "Ammoniacum dorema", 
   "Relationship": "Antidotes: Bry.; Arnica.Compare: Senega.; Tart. emet.; Balsam Peru.", 
+  "Common names": "Gum Ammoniac", 
   "symptoms": {
     "Eyes": [
       "Easily fatigued from reading", 
@@ -25,6 +26,5 @@
     ]
   }, 
   "details": "A remedy for the aged and feeble, especially in chronic bronchitis. Ill humor. Sensitive to cold. Sensation of burning and scratching in neck and oesophagus.", 
-  "Natural History": "Gum Ammoniac", 
   "dosage": "Third trituration."
 }

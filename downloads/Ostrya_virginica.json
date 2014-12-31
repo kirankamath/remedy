@@ -1,5 +1,4 @@
 {
-  "Natural History": "Ironwood", 
   "symptoms": {
     "Gastric": [
       "Tongue yellow; coated at the root", 
@@ -8,6 +7,7 @@
       "Sickening pains"
     ]
   }, 
+  "Common names": "Ironwood", 
   "name": "Ostrya virginica", 
   "details": "Of great value in anemia from malaria. Bilious conditions and intermittent fever."
 }

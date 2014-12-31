@@ -1,6 +1,4 @@
 {
-  "Natural History": "Valerate of Zinc", 
-  "details": "A remedy for NEURALGIA, hysteria, angina pectoris, and other PAINFUL affections, notably in OVARIAN AFFECTIONS. Epilepsy without aura. Hysterical heart-pain. FACIAL neuralgia, violent in left temple and inferior maxillary. Sleeplessness in children. Obstinate HICCOUGH.", 
   "symptoms": {
     "Head": [
       "Violent, neuralgic, intermittent headaches", 
@@ -16,6 +14,8 @@
       "Cannot sit still; must keep legs in constant motion"
     ]
   }, 
+  "details": "A remedy for NEURALGIA, hysteria, angina pectoris, and other PAINFUL affections, notably in OVARIAN AFFECTIONS. Epilepsy without aura. Hysterical heart-pain. FACIAL neuralgia, violent in left temple and inferior maxillary. Sleeplessness in children. Obstinate HICCOUGH.", 
+  "Common names": "Valerate of Zinc", 
   "name": "Zincum valerianum", 
   "dosage": "First and second trituration. Must be continued for some time in treatment of neuralgia."
 }

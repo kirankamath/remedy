@@ -1,6 +1,7 @@
 {
   "name": "Leptandra", 
   "Relationship": "Compare: PODO.; IRIS; BRY.; MERC.; PTEL.; MYRICA.", 
+  "Common names": "Culver's Root", 
   "symptoms": {
     "Head": [
       "Smarting and aching in eyes", 
@@ -21,6 +22,5 @@
     ]
   }, 
   "details": "A liver remedy, with jaundice and BLACK, TARRY STOOLS. Bilious states. Enfeebled portal circulation. Malarial conditions.", 
-  "Natural History": "Culver's Root", 
   "dosage": "Tincture, to third potency."
 }

@@ -1,6 +1,7 @@
 {
   "name": "Jalapa", 
   "Relationship": "Antidotes: ELATER.; CANN. SAT.Compare: CAMPH.; COLCY.", 
+  "Common names": "JalapExogonium Purga", 
   "symptoms": {
     "Stomach": [
       "Tongue, smooth, glazed, dry, smarting", 
@@ -20,6 +21,5 @@
     ]
   }, 
   "details": "Causes and cures colic and diarrhoea. The child is good all day, but screams and is restless and troublesome at night.", 
-  "Natural History": "JalapExogonium Purga", 
   "dosage": "Third to twelfth potency."
 }

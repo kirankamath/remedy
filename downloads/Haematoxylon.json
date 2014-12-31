@@ -1,6 +1,7 @@
 {
   "name": "Haematoxylon", 
   "Relationship": "Compare: CACTUS; COLOCY.; NAJA.", 
+  "Common names": "Log wood", 
   "symptoms": {
     "Head": [
       "Feels constricted; heavy, hot", 
@@ -25,6 +26,5 @@
     ]
   }, 
   "details": "Sense of constriction is characteristic. SENSATION AS IF A BAR LAY ACROSS CHEST. Angina pectoris.", 
-  "Natural History": "Log wood", 
   "dosage": "Third potency."
 }

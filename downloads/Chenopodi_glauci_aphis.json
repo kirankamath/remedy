@@ -1,5 +1,4 @@
 {
-  "Natural History": "Plant-lice from Chenopodium", 
   "symptoms": {
     "Head": [
       "Orbital right neuralgia, with profuse lachrymation", 
@@ -31,6 +30,7 @@
       "Severe pains in region of lower inner angle of left shoulder-blade, running into chest"
     ]
   }, 
+  "Common names": "Plant-lice from Chenopodium", 
   "name": "Chenopodi glauci aphis", 
   "Relationship": "Compare: Nat-sulph.; Nux.", 
   "details": "Partakes largely of the properties of the plant upon which the insect lives."

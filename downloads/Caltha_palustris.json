@@ -1,6 +1,4 @@
 {
-  "Natural History": "Cowslip", 
-  "details": "Pain in abdomen, vomiting, headache, singing in ears, dysuria and diarrhoea. Anasarca.", 
   "symptoms": {
     "Skin": [
       "Bullae are surrounded by a ring", 
@@ -12,6 +10,8 @@
       "Much itching"
     ]
   }, 
+  "details": "Pain in abdomen, vomiting, headache, singing in ears, dysuria and diarrhoea. Anasarca.", 
+  "Common names": "Cowslip", 
   "name": "Caltha palustris", 
   "dosage": "Tincture."
 }

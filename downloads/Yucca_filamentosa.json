@@ -1,6 +1,4 @@
 {
-  "Natural History": "Bear-grass", 
-  "details": "So-called bilious symptoms, with headache. Despondent and irritable.", 
   "symptoms": {
     "Head": [
       "Nose red", 
@@ -28,6 +26,8 @@
       "Burning and swelling of the prepuce, with redness of meatus"
     ]
   }, 
+  "details": "So-called bilious symptoms, with headache. Despondent and irritable.", 
+  "Common names": "Bear-grass", 
   "name": "Yucca filamentosa", 
   "dosage": "Tincture, to third potency."
 }

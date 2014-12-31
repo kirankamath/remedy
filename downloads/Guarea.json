@@ -1,6 +1,4 @@
 {
-  "Natural History": "Ball wood", 
-  "details": "Eye symptoms have been verified. Chemosis and pterygium have been cured with it. Lupus of an ochre-red color.", 
   "symptoms": {
     "Head": [
       "Sensation as if brain were falling forwards; as from a blow on head"
@@ -16,6 +14,8 @@
       "Objects appear gray, upside down"
     ]
   }, 
+  "details": "Eye symptoms have been verified. Chemosis and pterygium have been cured with it. Lupus of an ochre-red color.", 
+  "Common names": "Ball wood", 
   "name": "Guarea", 
   "dosage": "Tincture."
 }

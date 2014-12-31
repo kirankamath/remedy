@@ -1,6 +1,7 @@
 {
   "name": "Copaiva", 
   "Relationship": "Compare: SANTALUM - (aching in kidneys); CANNAB.; CANTH.; BAROSMA; CUBEB; APIS; VESPA; ERIG.; SENECIO; SEPIA.Antidote: BELL.; MERC.", 
+  "Common names": "Balsam of Copaiva", 
   "symptoms": {
     "Head": [
       "Sensitive to sharp sounds", 
@@ -55,6 +56,5 @@
     ]
   }, 
   "details": "Acts powerfully on mucous membranes, especially that of the urinary tract, the respiratory organs, and the skin, here producing a well-marked nettle-rash. Colds and catarrhs.", 
-  "Natural History": "Balsam of Copaiva", 
   "dosage": "First to third attenuation."
 }

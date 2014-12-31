@@ -1,6 +1,4 @@
 {
-  "Natural History": "Marsh Buttercup", 
-  "details": "Is more irritating than others of this botanical family, as seen in the skin symptoms. BORING, GNAWING PAIN very marked. PEMPHIGUS. Periodical complaints. Fainting with pain in stomach.", 
   "symptoms": {
     "Head": [
       "Frightful dreams about corpses, serpents, battles, etc. fluent coryza, with sneezing and burning micturition", 
@@ -34,6 +32,8 @@
       "Gout in fingers and toes"
     ]
   }, 
+  "details": "Is more irritating than others of this botanical family, as seen in the skin symptoms. BORING, GNAWING PAIN very marked. PEMPHIGUS. Periodical complaints. Fainting with pain in stomach.", 
+  "Common names": "Marsh Buttercup", 
   "name": "Ranunculus sceleratus", 
   "dosage": "First to third potency."
 }

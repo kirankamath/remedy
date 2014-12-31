@@ -6,6 +6,7 @@
     "Worse: after eating", 
     "Worse: moving about"
   ], 
+  "Common names": "Rhubarb", 
   "symptoms": {
     "Head": [
       "Cool sweat on the face, especially about mouth and nose", 
@@ -38,6 +39,5 @@
     ]
   }, 
   "details": "Of frequent use in children with sour diarrhoea; difficult dentition. WHOLE CHILD SMELLS SOUR.", 
-  "Natural History": "Rhubarb", 
   "dosage": "Third to sixth potency."
 }

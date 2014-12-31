@@ -1,5 +1,4 @@
 {
-  "Natural History": "Red acarus of the fly", 
   "symptoms": {
     "Abdomen": [
       "Griping in hypochondrium in morning", 
@@ -10,6 +9,7 @@
       "Burning in anus"
     ]
   }, 
+  "Common names": "Red acarus of the fly", 
   "name": "Trombidum", 
   "details": "Has a specific place in the treatment of dysentery. Symptoms ARE WORSE BY FOOD AND DRINK."
 }

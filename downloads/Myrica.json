@@ -1,6 +1,7 @@
 {
   "name": "Myrica", 
   "Relationship": "Antidote: DIGIT. (JAUNDICE).Compare: PTEL.; CORNUS.; CHELID.; LEPT.; FAGOP.", 
+  "Common names": "Bayberry", 
   "symptoms": {
     "Head": [
       "Scalp feels tight", 
@@ -38,10 +39,6 @@
       "Yellow", 
       "Creeping sensation"
     ], 
-    "Throat": [
-      "Constricted and rough feeling, with a constant desire to swallow", 
-      "Stringy mucus; detached with difficulty"
-    ], 
     "Sleep": [
       "Disturbed, bad dreams and frequent waking; insomnia"
     ], 
@@ -49,6 +46,10 @@
       "Jaundice", 
       "Yellow and itching", 
       "Creeping sensation, as of insects"
+    ], 
+    "Throat": [
+      "Constricted and rough feeling, with a constant desire to swallow", 
+      "Stringy mucus; detached with difficulty"
     ], 
     "Mouth": [
       "Tenacious, thick, nauseous secretion", 
@@ -61,6 +62,5 @@
     ]
   }, 
   "details": "Marked action on the liver, with jaundice and mucous membranes. Persistent sleeplessness. JAUNDICE.", 
-  "Natural History": "Bayberry", 
   "dosage": "Tincture, to third potency."
 }

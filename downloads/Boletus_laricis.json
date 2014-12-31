@@ -1,6 +1,7 @@
 {
   "name": "Boletus laricis", 
   "Relationship": "Compare: Agaricin, active constituent of Polyporus officinale (phthisical and other enervating night-sweats 1-4 to 1-2 gr. doses; also in chorea, in dilatation of heart with pulmonary Emphysema, fatty degeneration, profuse perspiration and erythema.) Boletus luridus. (Violent pain in epigastrium, urticaria tuberosa.) Boletus satanus (dysentery, vomiting, great debility, cold extremities, spasm of extremities and face).", 
+  "Common names": "White AgaricPolyporus Officinale", 
   "symptoms": {
     "Head": [
       "Constant nausea", 
@@ -19,6 +20,5 @@
     ]
   }, 
   "details": "Quotidian intermittent fever. Sweat is light, and without relief. Night-sweat in phthisis.Violent pain in epigastrium, urticaria tuberosa. Boletus satanus dysentery, vomiting, great debility, cold extremities, spasm of extremities and face.", 
-  "Natural History": "White AgaricPolyporus Officinale", 
   "dosage": "First attenuation."
 }

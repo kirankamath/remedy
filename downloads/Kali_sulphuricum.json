@@ -7,6 +7,7 @@
     "Better: cool", 
     "Better: open air"
   ], 
+  "Common names": "Potassium Sulphate", 
   "symptoms": {
     "Head": [
       "Dandruff and scaldhead", 
@@ -77,6 +78,5 @@
     ]
   }, 
   "details": "Ailments accompanied by profuse desquamation. Applicable to the later stages of inflammation. YELLOW, mucous and serous discharges, profuse and intermittent. Has been found of much use in oxaluria.", 
-  "Natural History": "Potassium Sulphate", 
   "dosage": "Third to twelfth potency."
 }

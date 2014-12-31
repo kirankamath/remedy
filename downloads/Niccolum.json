@@ -6,6 +6,7 @@
     "Worse: forenoon", 
     "Better: in evening"
   ], 
+  "Common names": "Metallic Nickel", 
   "symptoms": {
     "Gastric": [
       "Diarrhoea and tenesmus after milk", 
@@ -47,6 +48,5 @@
     ]
   }, 
   "details": "Periodical nervous sick headaches, with asthenopia, weak digestion, constipation. Catarrh. Suits debilitated, nervous, literary patients, with frequent headaches, dyspepsia and constipation.", 
-  "Natural History": "Metallic Nickel", 
   "dosage": "Third trituration."
 }

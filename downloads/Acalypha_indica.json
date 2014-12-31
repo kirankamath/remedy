@@ -1,6 +1,7 @@
 {
   "name": "Acalypha indica", 
   "Relationship": "Compare: Mill; Phos.; Acetic acid; Kali-n.", 
+  "Common names": "Indian Nettle", 
   "symptoms": {
     "Abdomen": [
       "Rectal hemorrhage; worse in morning", 
@@ -21,6 +22,5 @@
     ]
   }, 
   "details": "A drug having a marked action on the alimentary canal and respiratory organs. It is indicated in incipient phthisis, with hard, racking cough, bloody expectoration, arterial hemorrhage, but no febrile disturbance. Very weak in the morning, gains strength during day. Progressive emaciation. All pathological hemorrhages having notably a MORNING AGGRAVATION.", 
-  "Natural History": "Indian Nettle", 
   "dosage": "Third to sixth potency."
 }

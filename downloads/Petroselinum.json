@@ -1,6 +1,7 @@
 {
   "name": "Petroselinum", 
   "Relationship": "Compare: APIOL - the active principle of Parsley - (in dysmenorrhoea); CANTH.; SARS.; CANNAB.; MERC.", 
+  "Common names": "Parsley", 
   "symptoms": {
     "Stomach": [
       "Thirsty and hungry, but desire fails on beginning to eat or drink"
@@ -11,6 +12,5 @@
     ]
   }, 
   "details": "The urinary symptoms give the keynotes for this remedy. PILES WITH MUCH ITCHING.", 
-  "Natural History": "Parsley", 
   "dosage": "First to third potency."
 }

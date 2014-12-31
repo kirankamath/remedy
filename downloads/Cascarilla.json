@@ -1,6 +1,4 @@
 {
-  "Natural History": "Sweet Bark", 
-  "details": "Acts on the digestive tract; constipation. Aversion to smell of tobacco. INCLINATION TO VOMIT very marked.", 
   "symptoms": {
     "Rectum": [
       "Gnawing pain high up in rectum", 
@@ -16,6 +14,8 @@
       "Pain in stomach as from a shock"
     ]
   }, 
+  "details": "Acts on the digestive tract; constipation. Aversion to smell of tobacco. INCLINATION TO VOMIT very marked.", 
+  "Common names": "Sweet Bark", 
   "name": "Cascarilla", 
   "dosage": "First to third potency."
 }

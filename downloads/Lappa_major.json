@@ -1,6 +1,4 @@
 {
-  "Natural History": "Burdock", 
-  "details": "Very important in skin therapeutics. Eruptions on the head, face, and neck; pimples; acne. Styes and ulcerations on the edge of the eyelids. Profuse and frequent urination. Crops of boils and styes. (ANTHRACIN.)", 
   "symptoms": {
     "Extremities": [
       "Pain in all joints", 
@@ -13,6 +11,8 @@
       "An exceedingly sore, bruised feeling in uterus, with great relaxation of the vaginal tissues; apparently entire lack of tonicity of pelvic contents"
     ]
   }, 
+  "details": "Very important in skin therapeutics. Eruptions on the head, face, and neck; pimples; acne. Styes and ulcerations on the edge of the eyelids. Profuse and frequent urination. Crops of boils and styes. (ANTHRACIN.)", 
+  "Common names": "Burdock", 
   "name": "Lappa major", 
   "dosage": "Tincture, to third potency."
 }

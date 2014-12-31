@@ -1,6 +1,7 @@
 {
   "name": "Ailanthus glandulosa", 
   "Relationship": "Antidotes: RHUS; NUX-V.Compare: AM-C.; BAPT.; ARN.; MUR-AC.; LACH.; RHUS-T.", 
+  "Common names": "Chinese Sumac", 
   "symptoms": {
     "Head": [
       "Face dusky", 
@@ -16,16 +17,6 @@
       "Dry, hacking cough", 
       "Lungs sore and tired"
     ], 
-    "Throat": [
-      "Hoarse, croupy voice", 
-      "Dry, rough, scraping, choking feeling", 
-      "Much swelling, internal and external", 
-      "Teeth covered with sordes", 
-      "Inflamed, edematous, dusky red", 
-      "Tongue dry and brown", 
-      "Neck tender and swollen", 
-      "Pain in swallowing extends to the ears"
-    ], 
     "Sleep": [
       "Drowsy, restless", 
       "Heavy, disturbed, unrefreshing"
@@ -36,9 +27,18 @@
       "Irregular, patchy, livid eruption, disappearing on pressure", 
       "Miliary, livid rash, returns annually", 
       "Cold"
+    ], 
+    "Throat": [
+      "Hoarse, croupy voice", 
+      "Dry, rough, scraping, choking feeling", 
+      "Much swelling, internal and external", 
+      "Teeth covered with sordes", 
+      "Inflamed, edematous, dusky red", 
+      "Tongue dry and brown", 
+      "Neck tender and swollen", 
+      "Pain in swallowing extends to the ears"
     ]
   }, 
   "details": "This remedy shows by its peculiar skin symptoms its pronounced power of disorganizing the blood, causing conditions we meet with in low fevers, low types of eruptive diseases, diphtheria, FOLLICULAR TONSILLITIS, Streptococcus infection. Hemorrhagic diathesis, etc. THE SKIN APPEARS LIVID OR PURPLISH; face dark as mahogany, hot; sordes; throat swollen, purple, livid; semi-conscious, delirious; weak pulse, general torpor and prostration. Symptoms remarkably alike to malignant scarlatina. Diarrhoea, dysentery and GREAT WEAKNESS are very marked ADYNAMIA characterizes all its conditions. Lividity, stupor and malignancy. Mucous membranes hemorrhagic and ulcerative (LACH. ARS.)", 
-  "Natural History": "Chinese Sumac", 
   "dosage": "First to sixth potency."
 }

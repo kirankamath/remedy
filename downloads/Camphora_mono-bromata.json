@@ -1,5 +1,4 @@
 {
-  "Natural History": "Mono-bromide of Camphor", 
   "symptoms": {
     "Mind": [
       "Directions appear reversed, i.e, north seems south, and east seems west", 
@@ -7,6 +6,7 @@
       "Trance-like state"
     ]
   }, 
+  "Common names": "Mono-bromide of Camphor", 
   "name": "Camphora mono-bromata", 
   "details": "It is said to intensify the action of Quinine and render it more permanent. NERVOUS EXCITABILITY is the guiding condition. Suppression of milk. Nightly emissions. Painful erections. Paralysis agitans. Cholera infantum, and infantile convulsions. Intensifies the action of Quinine and renders it more permanent."
 }

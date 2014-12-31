@@ -5,6 +5,7 @@
     "Worse: moving about", 
     "Better: sitting or lying down"
   ], 
+  "Common names": "Common Flea", 
   "symptoms": {
     "Head": [
       "Very impatient, cross, and irritable", 
@@ -48,6 +49,5 @@
     ]
   }, 
   "details": "Marked urinary and female symptoms.", 
-  "Natural History": "Common Flea", 
   "dosage": "The higher potencies."
 }

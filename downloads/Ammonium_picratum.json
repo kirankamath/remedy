@@ -1,6 +1,4 @@
 {
-  "Natural History": "Picrate of Ammonia", 
-  "details": "A remedy for malarial fever and neuralgia and so-called bilious headaches. Pain in occiput and mastoid region. Whooping cough.", 
   "symptoms": {
     "Head": [
       "Periodic bilious headaches", 
@@ -8,6 +6,8 @@
       "Vertigo on rising"
     ]
   }, 
+  "details": "A remedy for malarial fever and neuralgia and so-called bilious headaches. Pain in occiput and mastoid region. Whooping cough.", 
+  "Common names": "Picrate of Ammonia", 
   "name": "Ammonium picratum", 
   "dosage": "Third trituration"
 }

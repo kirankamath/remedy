@@ -1,6 +1,7 @@
 {
   "name": "Mitchella", 
   "Relationship": "Compare: CHIMAPH.; SENECIO; UVA; GERAN.; GOSSIP.", 
+  "Common names": "Partridge-berry", 
   "symptoms": {
     "Urine": [
       "Dysuria", 
@@ -13,6 +14,5 @@
     ]
   }, 
   "details": "Bladder symptoms accompany complaints, especially uterine congestion.", 
-  "Natural History": "Partridge-berry", 
   "dosage": "Tincture."
 }

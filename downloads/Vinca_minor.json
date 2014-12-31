@@ -1,5 +1,4 @@
 {
-  "Natural History": "Lesser Periwinkle", 
   "symptoms": {
     "Head": [
       "Bald spots", 
@@ -36,6 +35,7 @@
       "Frequent hawking"
     ]
   }, 
+  "Common names": "Lesser Periwinkle", 
   "name": "Vinca minor", 
   "Relationship": "Compare: OLEAND.; STAPH.", 
   "details": "A remedy for skin affections, eczema, and especially plica polonica; also for hemorrhages and diphtheria."
