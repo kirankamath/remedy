@@ -74,15 +74,23 @@ def process_one_remedy(file_name):
     with open(file_name, "r") as input_handle:
         lines = input_handle.readlines()
         begin = False
+        end = False
         body = []
+        end_chars = set(["</tr>", "</td>", "</span>"])
         for line in lines:
             if begin:
-                if "</tr>" in line or "</td>" in line or "</span>" in line:
-                    # We have reached the end.
-                    break
                 if "</body>" in line:
                     continue
+                for c in end_chars:
+                    if c in line:
+                        # We have reached the end.
+                        # Append all the way till the end word.
+                        line = line[:line.rindex(c)]
+                        end = True
+                        break
                 body.append(line.replace("<br>", ""))
+                if end:
+                    break
             elif "Materia Medica (Boericke)" in line:
                 begin = True
                 continue

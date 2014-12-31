@@ -1,6 +1,10 @@
 {
   "symptoms": {
-    "Eyes": [], 
+    "Eyes": [
+      "Oscillation of eyeballs", 
+      "Pupils insensible to light", 
+      "Lids half closed"
+    ], 
     "Mind": [
       "All thoughts appear in a moment as if seen in an inner mirror", 
       "Stupefaction", 

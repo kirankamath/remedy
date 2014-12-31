@@ -1,4 +1,7 @@
 {
+  "name": "Primula veris", 
+  "Relationship": "Compare: CYCLAMEN; RANUNC.; OENOTHERA - Evening Primrose - (exhausting, watery diarrhoea; cholera infantum; hydrocephaloid); PRIMULA FARINOSA - the wild Primrose - (dermatitis, especially on index fingers and thumbs).", 
+  "Common names": "Cowslip", 
   "symptoms": {
     "Head": [
       "Violent vertigo, as if everything turned around", 
@@ -21,8 +24,6 @@
       "Weight and lassitude in limbs, especially the shoulders"
     ]
   }, 
-  "Common names": "Cowslip", 
-  "name": "Primula veris", 
-  "Relationship": "Compare: CYCLAMEN; RANUNC.; OENOTHERA - Evening Primrose - (exhausting, watery diarrhoea; cholera infantum; hydrocephaloid); PRIMULA FARINOSA - the wild Primrose - (dermatitis, especially on index fingers and thumbs).", 
-  "details": "Cerebral congestion, with neuralgia; migraine; rheumatic and gouty pains."
+  "details": "Cerebral congestion, with neuralgia; migraine; rheumatic and gouty pains.", 
+  "dosage": "Third potency."
 }

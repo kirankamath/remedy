@@ -1,4 +1,7 @@
 {
+  "name": "Variolinum", 
+  "Relationship": "Compare: VACCIN. (same action); MALANDRINUM - the morbid product of the grease of the horse (a prophylactic of small-pox and a remedy for the ill-effects of vaccination; chronic eczema following vaccination).", 
+  "Common names": "Lymph from Small-pox pustule", 
   "symptoms": {
     "Head": [
       "Deafness", 
@@ -29,8 +32,6 @@
       "Tired all over with restlessness"
     ]
   }, 
-  "Common names": "Lymph from Small-pox pustule", 
-  "name": "Variolinum", 
-  "Relationship": "Compare: VACCIN. (same action); MALANDRINUM - the morbid product of the grease of the horse (a prophylactic of small-pox and a remedy for the ill-effects of vaccination; chronic eczema following vaccination).", 
-  "details": "Used for \"internal vaccination.\" Seems to be efficacious in protecting against, modifying and aiding in the cure of smallpox."
+  "details": "Used for \"internal vaccination.\" Seems to be efficacious in protecting against, modifying and aiding in the cure of smallpox.", 
+  "dosage": "Sixth to thirtieth potency."
 }

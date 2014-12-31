@@ -1,4 +1,7 @@
 {
+  "name": "Cotyledon", 
+  "Relationship": "Compare: AMBRA; ASA.; HEPATICA; IGNATIA; LACHES.", 
+  "Common names": "Penny wort", 
   "symptoms": {
     "Mind": [
       "Ailments from suppressed emotion", 
@@ -22,8 +25,6 @@
       "Aching in all joints"
     ]
   }, 
-  "Common names": "Penny wort", 
-  "name": "Cotyledon", 
-  "Relationship": "Compare: AMBRA; ASA.; HEPATICA; IGNATIA; LACHES.", 
-  "details": "Marked action on heart; oppression of chest; fullness in throat. Epilepsy. Numb aching in muscular and fibrous tissue. Sciatica. Well-marked pains through the breast to scapula. Catarrh of larynx and trachea. Hysterical joint."
+  "details": "Marked action on heart; oppression of chest; fullness in throat. Epilepsy. Numb aching in muscular and fibrous tissue. Sciatica. Well-marked pains through the breast to scapula. Catarrh of larynx and trachea. Hysterical joint.", 
+  "dosage": "Tincture to third potency."
 }

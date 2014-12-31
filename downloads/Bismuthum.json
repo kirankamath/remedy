@@ -1,4 +1,7 @@
 {
+  "name": "Bismuthum", 
+  "Relationship": "Antidotes: Nux; Capsic.; Calc.", 
+  "Common names": "Precipitated Sub-Nitrate of Bismuth", 
   "symptoms": {
     "Head": [
       "Neuralgic pain, as if torn by pincers; involves face and teeth; worse, eating; better, cold; alternate with gastralgia", 
@@ -57,8 +60,6 @@
       "Cold limbs"
     ]
   }, 
-  "Common names": "Precipitated Sub-Nitrate of Bismuth", 
-  "name": "Bismuthum", 
-  "Relationship": "Antidotes: Nux; Capsic.; Calc.", 
-  "details": "Irritation and catarrhal inflammation of the alimentary canal, is the chief action of this drug."
+  "details": "Irritation and catarrhal inflammation of the alimentary canal, is the chief action of this drug.", 
+  "dosage": "First to sixth potency."
 }

@@ -1,4 +1,7 @@
 {
+  "name": "Corallium", 
+  "Relationship": "Complementary: SULPH. Compare: BELLAD; DROSERA.; MEPHIT.; CAUST.", 
+  "Common names": "Red Coral", 
   "symptoms": {
     "Head": [
       "Eyes hot and painful", 
@@ -42,8 +45,6 @@
       "Emissions and weakened sexual power"
     ]
   }, 
-  "Common names": "Red Coral", 
-  "name": "Corallium", 
-  "Relationship": "Complementary: SULPH. Compare: BELLAD; DROSERA.; MEPHIT.; CAUST.", 
-  "details": "The provings of coral develop much coryza and epistaxis, and even ulceration within the nostrils. It is to be thought of for whooping and spasmodic coughs, especially when the attack comes on with a VERY RAPID cough, and the attacks follow so closely as to almost run into each other. Often preceded by sensation of smothering, followed by exhaustion. Congestion of face after dinner. Patient becomes purple in face. VIOLENCE OF PAROXYSM, even with EXPECTORATION of blood. Feeling as if cold air were streaming through skull and air-passages. One is too cold when uncovered and too hot when covered; relieved by artificial heat."
+  "details": "The provings of coral develop much coryza and epistaxis, and even ulceration within the nostrils. It is to be thought of for whooping and spasmodic coughs, especially when the attack comes on with a VERY RAPID cough, and the attacks follow so closely as to almost run into each other. Often preceded by sensation of smothering, followed by exhaustion. Congestion of face after dinner. Patient becomes purple in face. VIOLENCE OF PAROXYSM, even with EXPECTORATION of blood. Feeling as if cold air were streaming through skull and air-passages. One is too cold when uncovered and too hot when covered; relieved by artificial heat.", 
+  "dosage": "Third to thirtieth attenuation."
 }

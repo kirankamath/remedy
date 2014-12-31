@@ -1,7 +1,8 @@
 {
-  "symptoms": {}, 
-  "Common names": "Coqueluchin", 
   "name": "Pertussin", 
   "Relationship": "Compare: DROSERA; CORALLIUM; CUPRUM; NAPHTHAL; MEPHITIS; PASSIFLOR; COCCUS CACTI; MANGES. PHOS.", 
-  "details": "Taken from the glairy and stringy mucus containing the virus of whooping-cough. Introduced by John H. Clarke for the treatment of whooping-cough and other spasmodic coughs. Whooping-cough when symptoms return again after being allayed."
+  "Common names": "Coqueluchin", 
+  "symptoms": {}, 
+  "details": "Taken from the glairy and stringy mucus containing the virus of whooping-cough. Introduced by John H. Clarke for the treatment of whooping-cough and other spasmodic coughs. Whooping-cough when symptoms return again after being allayed.", 
+  "dosage": "The thirtieth potency."
 }

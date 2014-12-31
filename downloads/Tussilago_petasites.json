@@ -1,4 +1,7 @@
 {
+  "name": "Tussilago petasites", 
+  "Relationship": "Compare: TUSSILAGO FRAGRANS (pylorus pain, plethora and corpulency); TUSSILAGO FARFARA (coughs); as an intercurrent medicine in phthisis pulmonalis. (See Tuberculinum.)", 
+  "Common names": "Butter-burr", 
   "symptoms": {
     "Urine": [
       "Crawling in urethra"
@@ -9,8 +12,6 @@
       "Pain in spermatic cord"
     ]
   }, 
-  "Common names": "Butter-burr", 
-  "name": "Tussilago petasites", 
-  "Relationship": "Compare: TUSSILAGO FRAGRANS (pylorus pain, plethora and corpulency); TUSSILAGO FARFARA (coughs); as an intercurrent medicine in phthisis pulmonalis. (See Tuberculinum.)", 
-  "details": "Has some action on the urinary organs, and found useful in gonorrhea. Affections of pylorus."
+  "details": "Has some action on the urinary organs, and found useful in gonorrhea. Affections of pylorus.", 
+  "dosage": "Tincture."
 }

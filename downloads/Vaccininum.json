@@ -1,4 +1,7 @@
 {
+  "name": "Vaccininum", 
+  "Relationship": "Compare: anti-vaccinal remedies; VARIOLIN; MALANDRINUM; Thuja, powerful adjuvants in treatment of malignant disease.", 
+  "Common names": "Nosode - From vaccine matter", 
   "symptoms": {
     "Head": [
       "Forehead and eyes feel as if split", 
@@ -14,8 +17,6 @@
       "Hot and dry"
     ]
   }, 
-  "Common names": "Nosode - From vaccine matter", 
-  "name": "Vaccininum", 
-  "Relationship": "Compare: anti-vaccinal remedies; VARIOLIN; MALANDRINUM; Thuja, powerful adjuvants in treatment of malignant disease.", 
-  "details": "Vaccine poison is capable of setting up a morbid state of extreme chronicity, named by Burnett Vaccinosis, symptoms like those of Hahnemann's Sycosis. Neuralgias, inveterate skin eruptions, chilliness, indigestion with great flatulent distension (Clark). Whooping-cough."
+  "details": "Vaccine poison is capable of setting up a morbid state of extreme chronicity, named by Burnett Vaccinosis, symptoms like those of Hahnemann's Sycosis. Neuralgias, inveterate skin eruptions, chilliness, indigestion with great flatulent distension (Clark). Whooping-cough.", 
+  "dosage": "Sixth to 200th potency."
 }

@@ -1,4 +1,7 @@
 {
+  "name": "Menispermum", 
+  "Relationship": "Compare: COCCULUS; BRYON.", 
+  "Common names": "Moon seed", 
   "symptoms": {
     "Head": [
       "Sick headache; pain in forehead and temples, moving to occiput", 
@@ -10,8 +13,6 @@
       "Legs sore, as if bruised"
     ]
   }, 
-  "Common names": "Moon seed", 
-  "name": "Menispermum", 
-  "Relationship": "Compare: COCCULUS; BRYON.", 
-  "details": "A remedy for megrim, associated with restlessness and dreams. Pain in spine. Dryness, itching all over. Dry mouth and throat."
+  "details": "A remedy for megrim, associated with restlessness and dreams. Pain in spine. Dryness, itching all over. Dry mouth and throat.", 
+  "dosage": "Third potency."
 }
