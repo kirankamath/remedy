@@ -3,11 +3,17 @@ package org.remedy;
 import org.remedy.repertory.CategoryListActivity;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.Html;
+import android.text.SpannableString;
+import android.text.method.LinkMovementMethod;
+import android.text.util.Linkify;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends Activity {
     public MainActivity() {
@@ -38,6 +44,27 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, CategoryListActivity.class);
                 startActivity(intent);
+            }
+        });
+
+        Button aboutButton = (Button) findViewById(R.id.about_button);
+        aboutButton.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(MainActivity.this);
+                dialogBuilder.setTitle(org.remedy.R.string.about);
+                String about_string = getResources().getString(org.remedy.R.string.about_contents);
+                final SpannableString s =
+                        new SpannableString(
+                                Html.fromHtml(about_string));
+                Linkify.addLinks(s, Linkify.WEB_URLS);
+                TextView textView = new TextView(MainActivity.this);
+                textView.setPadding(10, 10, 10, 10);
+                textView.setMovementMethod(LinkMovementMethod.getInstance());
+                textView.setText(s);
+                dialogBuilder.setView(textView);
+                dialogBuilder.show();
             }
         });
     }

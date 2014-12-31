@@ -4,7 +4,7 @@
     <string name="app_title">Remedy</string>
     <string name="remedy_list">Materia Medica</string>
     <string name="repertory">Repertory</string>
-    <string name="references">References</string>
+    <string name="about">About</string>
     <string name="title_activity_remedy_list">RemedyListActivity</string>
     <string name="action_settings">Settings</string>
     <string name="enter_remedy_by_name">Enter remedy name</string>
@@ -22,5 +22,19 @@
     <string name="title_activity_symptom_selection">SymptomSelectionActivity</string>
     <string name="start_typing_symptom">Start typing symptom</string>
     <string name="ok_string">OK</string>
+    <string name="about_contents">This software is an attempt at organizing the 
+        &lt;b&gt;Pocket manual of HOMOEOPATHIC Materia medica and Repertory&lt;/b&gt; by 
+        &lt;b&gt;William Boericke, MD&lt;/b&gt;
+            into a searchable form.&lt;br/&gt;&lt;br/&gt;
+            Some of the data in the raw digital form was web-scraped from 
+            http://www.homeopathiclaboratories.com website, 
+            which also sells these remedies.
+            Data also comes from books such as 
+            &lt;b&gt;Lectures on Homoeopathic materia medica&lt;/b&gt; by 
+            &lt;b&gt;J.T. Kent&lt;/b&gt;
+            &lt;br/&gt;&lt;br/&gt;
+            This software is free of cost/copyright and is open sourced at 
+            https://github.com/kirankamath/remedy.git
+        </string>
 
 </resources>

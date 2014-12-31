@@ -20,5 +20,13 @@
         android:padding="5dp"
         android:background="@drawable/oval_background"
         android:text="@string/repertory" />
+    
+    <Button
+        android:id="@+id/about_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/oval_background"
+        android:text="@string/about" />
 
 </LinearLayout>
